@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 02:12:33 (UTC)</th>
+		<th colspan=4>2021-09-08 02:13:35 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
