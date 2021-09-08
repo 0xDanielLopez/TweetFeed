@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 12:55:55 (UTC)</th>
+		<th colspan=4>2021-09-08 12:56:58 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -73,7 +73,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 228 | 1953 | 7991 | 8039 |
-| **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
+| **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
 | **:triangular_flag_on_post: IPs** | 149 | 1370 | 5017 | 5043 |
 | **:1234: SHA256** | 238 | 775 | 2420 | 2426 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 16 | 171 | 626 | 626 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 47 | 490 | 1004 | 1004 |
+| **#CobaltStrike** | 48 | 491 | 1005 | 1005 |
 | **#Dridex** | 204 | 305 | 359 | 359 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
