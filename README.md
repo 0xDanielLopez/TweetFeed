@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 06:56:45 (UTC)</th>
+		<th colspan=4>2021-09-08 06:57:48 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 136 | 1861 | 7899 | 7947 |
+| **:link: URLs** | 137 | 1862 | 7900 | 7948 |
 | **:globe_with_meridians: Domains** | 4 | 277 | 771 | 772 |
-| **:triangular_flag_on_post: IPs** | 75 | 1295 | 4942 | 4968 |
+| **:triangular_flag_on_post: IPs** | 76 | 1296 | 4943 | 4969 |
 | **:1234: SHA256** | 35 | 572 | 2217 | 2223 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 195 | 2489 | 10457 | 10517 |
+| **#phishing** | 197 | 2491 | 10459 | 10519 |
 | **#scam** | 12 | 352 | 1115 | 1120 |
 | **#malware** | 24 | 504 | 2479 | 2491 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -105,8 +105,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 62 |
 | **#3** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 28 |
-| **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 14 |
-| **#5** | [secbird1](https://twitter.com/secbird1) | 13 |
+| **#4** | [secbird1](https://twitter.com/secbird1) | 15 |
+| **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 14 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#8** | [harugasumi](https://twitter.com/harugasumi) | 3 |
