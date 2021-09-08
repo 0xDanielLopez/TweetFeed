@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 07:18:48 (UTC)</th>
+		<th colspan=4>2021-09-08 07:19:51 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,8 +72,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 143 | 1868 | 7906 | 7954 |
-| **:globe_with_meridians: Domains** | 5 | 278 | 772 | 773 |
+| **:link: URLs** | 144 | 1869 | 7907 | 7955 |
+| **:globe_with_meridians: Domains** | 8 | 281 | 775 | 776 |
 | **:triangular_flag_on_post: IPs** | 78 | 1298 | 4945 | 4971 |
 | **:1234: SHA256** | 107 | 644 | 2289 | 2295 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
@@ -109,9 +109,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 14 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
-| **#8** | [harugasumi](https://twitter.com/harugasumi) | 3 |
-| **#9** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 2 |
-| **#10** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
+| **#8** | [BushidoToken](https://twitter.com/BushidoToken) | 4 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 3 |
+| **#10** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 2 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
