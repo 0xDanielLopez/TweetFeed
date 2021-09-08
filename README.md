@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 09:20:35 (UTC)</th>
+		<th colspan=4>2021-09-08 09:21:38 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -73,7 +73,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 172 | 1897 | 7935 | 7983 |
-| **:globe_with_meridians: Domains** | 9 | 279 | 773 | 774 |
+| **:globe_with_meridians: Domains** | 10 | 280 | 774 | 775 |
 | **:triangular_flag_on_post: IPs** | 92 | 1312 | 4959 | 4985 |
 | **:1234: SHA256** | 223 | 760 | 2405 | 2411 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 236 | 2527 | 10495 | 10555 |
+| **#phishing** | 237 | 2528 | 10496 | 10556 |
 | **#scam** | 14 | 354 | 1117 | 1122 |
 | **#malware** | 32 | 512 | 2487 | 2499 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -110,8 +110,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 15 |
 | **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#8** | [drb_ra](https://twitter.com/drb_ra) | 7 |
-| **#9** | [phishunt_io](https://twitter.com/phishunt_io) | 4 |
-| **#10** | [PhishStats](https://twitter.com/PhishStats) | 4 |
+| **#9** | [dnstwist](https://twitter.com/dnstwist) | 4 |
+| **#10** | [phishunt_io](https://twitter.com/phishunt_io) | 4 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
