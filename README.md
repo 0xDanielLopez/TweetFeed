@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 02:37:44 (UTC)</th>
+		<th colspan=4>2021-09-08 02:38:47 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 78 | 1803 | 7841 | 7889 |
+| **:link: URLs** | 80 | 1805 | 7843 | 7891 |
 | **:globe_with_meridians: Domains** | 2 | 275 | 769 | 770 |
 | **:triangular_flag_on_post: IPs** | 65 | 1283 | 4930 | 4956 |
 | **:1234: SHA256** | 0 | 537 | 2182 | 2188 |
@@ -84,7 +84,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 138 | 2432 | 10400 | 10460 |
 | **#scam** | 7 | 347 | 1110 | 1115 |
-| **#malware** | 5 | 485 | 2460 | 2472 |
+| **#malware** | 7 | 487 | 2462 | 2474 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 155 | 610 | 610 |
@@ -103,7 +103,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 91 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 16 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 18 |
 | **#3** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#4** | [secbird1](https://twitter.com/secbird1) | 11 |
 | **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 5 |
