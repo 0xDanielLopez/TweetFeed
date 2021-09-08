@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 11:11:55 (UTC)</th>
+		<th colspan=4>2021-09-08 11:12:58 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 204 | 1929 | 7967 | 8015 |
+| **:link: URLs** | 205 | 1930 | 7968 | 8016 |
 | **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
 | **:triangular_flag_on_post: IPs** | 111 | 1332 | 4979 | 5005 |
 | **:1234: SHA256** | 233 | 770 | 2415 | 2421 |
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 271 | 2562 | 10530 | 10590 |
+| **#phishing** | 272 | 2563 | 10531 | 10591 |
 | **#scam** | 14 | 354 | 1117 | 1122 |
 | **#malware** | 36 | 516 | 2491 | 2503 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -107,7 +107,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 26 |
 | **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
-| **#6** | [secbird1](https://twitter.com/secbird1) | 21 |
+| **#6** | [secbird1](https://twitter.com/secbird1) | 22 |
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 14 |
 | **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 11 |
 | **#9** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
