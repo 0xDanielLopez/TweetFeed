@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 10:47:47 (UTC)</th>
+		<th colspan=4>2021-09-08 10:48:50 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 199 | 1924 | 7962 | 8010 |
+| **:link: URLs** | 200 | 1925 | 7963 | 8011 |
 | **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
-| **:triangular_flag_on_post: IPs** | 108 | 1329 | 4976 | 5002 |
+| **:triangular_flag_on_post: IPs** | 110 | 1331 | 4978 | 5004 |
 | **:1234: SHA256** | 232 | 769 | 2414 | 2420 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 264 | 2555 | 10523 | 10583 |
+| **#phishing** | 267 | 2558 | 10526 | 10586 |
 | **#scam** | 14 | 354 | 1117 | 1122 |
 | **#malware** | 34 | 514 | 2489 | 2501 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -106,8 +106,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 94 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 24 |
-| **#5** | [secbird1](https://twitter.com/secbird1) | 21 |
-| **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 20 |
+| **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
+| **#6** | [secbird1](https://twitter.com/secbird1) | 21 |
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 14 |
 | **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 11 |
 | **#9** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
