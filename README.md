@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 12:34:54 (UTC)</th>
+		<th colspan=4>2021-09-08 12:35:57 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 224 | 1949 | 7987 | 8035 |
+| **:link: URLs** | 225 | 1950 | 7988 | 8036 |
 | **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
-| **:triangular_flag_on_post: IPs** | 115 | 1336 | 4983 | 5009 |
+| **:triangular_flag_on_post: IPs** | 128 | 1349 | 4996 | 5022 |
 | **:1234: SHA256** | 238 | 775 | 2420 | 2426 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 294 | 2585 | 10553 | 10613 |
+| **#phishing** | 295 | 2586 | 10554 | 10614 |
 | **#scam** | 16 | 356 | 1119 | 1124 |
 | **#malware** | 38 | 518 | 2493 | 2505 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 16 | 171 | 626 | 626 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 14 | 457 | 971 | 971 |
+| **#CobaltStrike** | 27 | 470 | 984 | 984 |
 | **#Dridex** | 204 | 305 | 359 | 359 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
@@ -103,12 +103,12 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 220 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 110 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 111 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 28 |
-| **#5** | [secbird1](https://twitter.com/secbird1) | 24 |
-| **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
-| **#7** | [drb_ra](https://twitter.com/drb_ra) | 14 |
+| **#5** | [drb_ra](https://twitter.com/drb_ra) | 27 |
+| **#6** | [secbird1](https://twitter.com/secbird1) | 24 |
+| **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
 | **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 11 |
 | **#9** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#10** | [illegalFawn](https://twitter.com/illegalFawn) | 7 |
