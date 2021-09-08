@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 02:16:45 (UTC)</th>
+		<th colspan=4>2021-09-08 02:17:47 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 1778 | 7816 | 7864 |
+| **:link: URLs** | 55 | 1780 | 7818 | 7866 |
 | **:globe_with_meridians: Domains** | 2 | 275 | 769 | 770 |
-| **:triangular_flag_on_post: IPs** | 40 | 1258 | 4905 | 4931 |
+| **:triangular_flag_on_post: IPs** | 42 | 1260 | 4907 | 4933 |
 | **:1234: SHA256** | 0 | 537 | 2182 | 2188 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 89 | 2383 | 10351 | 10411 |
+| **#phishing** | 93 | 2387 | 10355 | 10415 |
 | **#scam** | 7 | 347 | 1110 | 1115 |
 | **#malware** | 4 | 484 | 2459 | 2471 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -102,10 +102,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 50 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 53 |
 | **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#3** | [secbird1](https://twitter.com/secbird1) | 11 |
-| **#4** | [ecarlesi](https://twitter.com/ecarlesi) | 7 |
+| **#4** | [ecarlesi](https://twitter.com/ecarlesi) | 8 |
 | **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 5 |
 | **#6** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
 | **#7** | [SecInfo16](https://twitter.com/SecInfo16) | 2 |
