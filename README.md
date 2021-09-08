@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 02:19:53 (UTC)</th>
+		<th colspan=4>2021-09-08 02:20:56 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 59 | 1784 | 7822 | 7870 |
+| **:link: URLs** | 62 | 1787 | 7825 | 7873 |
 | **:globe_with_meridians: Domains** | 2 | 275 | 769 | 770 |
-| **:triangular_flag_on_post: IPs** | 45 | 1263 | 4910 | 4936 |
+| **:triangular_flag_on_post: IPs** | 47 | 1265 | 4912 | 4938 |
 | **:1234: SHA256** | 0 | 537 | 2182 | 2188 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 99 | 2393 | 10361 | 10421 |
+| **#phishing** | 104 | 2398 | 10366 | 10426 |
 | **#scam** | 7 | 347 | 1110 | 1115 |
 | **#malware** | 5 | 485 | 2460 | 2472 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -102,10 +102,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 58 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 62 |
 | **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
-| **#3** | [secbird1](https://twitter.com/secbird1) | 11 |
-| **#4** | [ecarlesi](https://twitter.com/ecarlesi) | 10 |
+| **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 11 |
+| **#4** | [secbird1](https://twitter.com/secbird1) | 11 |
 | **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 5 |
 | **#6** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
 | **#7** | [SecInfo16](https://twitter.com/SecInfo16) | 2 |
