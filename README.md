@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 12:59:04 (UTC)</th>
+		<th colspan=4>2021-09-08 13:00:07 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 228 | 1953 | 7991 | 8039 |
+| **:link: URLs** | 229 | 1954 | 7992 | 8040 |
 | **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
 | **:triangular_flag_on_post: IPs** | 149 | 1370 | 5017 | 5043 |
 | **:1234: SHA256** | 238 | 775 | 2420 | 2426 |
@@ -82,8 +82,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 299 | 2590 | 10558 | 10618 |
-| **#scam** | 16 | 356 | 1119 | 1124 |
+| **#phishing** | 300 | 2591 | 10559 | 10619 |
+| **#scam** | 17 | 357 | 1120 | 1125 |
 | **#malware** | 38 | 518 | 2493 | 2505 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
