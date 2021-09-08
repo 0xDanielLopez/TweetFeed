@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-07 23:59:27 (UTC)</th>
+		<th colspan=4>2021-09-08 01:41:07 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,46 +72,46 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 307 | 2085 | 7804 | 7810 |
-| **:globe_with_meridians: Domains** | 64 | 346 | 755 | 756 |
-| **:triangular_flag_on_post: IPs** | 209 | 1514 | 4888 | 4890 |
-| **:1234: SHA256** | 171 | 606 | 2188 | 2188 |
-| **:1234: MD5** | 6 | 60 | 259 | 259 |
+| **:link: URLs** | 45 | 1769 | 7807 | 7855 |
+| **:globe_with_meridians: Domains** | 2 | 263 | 757 | 758 |
+| **:triangular_flag_on_post: IPs** | 38 | 1255 | 4902 | 4928 |
+| **:1234: SHA256** | 0 | 537 | 2182 | 2188 |
+| **:1234: MD5** | 0 | 45 | 259 | 259 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 417 | 2791 | 10321 | 10322 |
-| **#scam** | 70 | 383 | 1108 | 1108 |
-| **#malware** | 98 | 543 | 2467 | 2467 |
-| **#ransomware** | 2 | 13 | 93 | 93 |
+| **#phishing** | 81 | 2375 | 10343 | 10403 |
+| **#scam** | 4 | 344 | 1107 | 1112 |
+| **#malware** | 3 | 483 | 2458 | 2470 |
+| **#ransomware** | 0 | 10 | 93 | 93 |
 | **#banker** | 0 | 0 | 0 | 0 |
-| **#AgentTesla** | 36 | 187 | 610 | 610 |
-| **#Alienbot** | 2 | 15 | 72 | 72 |
-| **#BazarLoader** | 7 | 30 | 40 | 40 |
-| **#CobaltStrike** | 69 | 569 | 945 | 945 |
-| **#Dridex** | 85 | 108 | 155 | 155 |
-| **#FluBot** | 4 | 4 | 5 | 5 |
-| **#Lokibot** | 4 | 24 | 109 | 109 |
-| **#ProxyShell** | 2 | 9 | 36 | 36 |
-| **#Trickbot** | 2 | 5 | 21 | 21 |
-| **#Ursnif** | 8 | 14 | 57 | 57 |
+| **#AgentTesla** | 0 | 155 | 610 | 610 |
+| **#Alienbot** | 0 | 15 | 72 | 72 |
+| **#BazarLoader** | 0 | 19 | 40 | 40 |
+| **#CobaltStrike** | 1 | 432 | 946 | 946 |
+| **#Dridex** | 0 | 101 | 155 | 155 |
+| **#FluBot** | 0 | 4 | 5 | 5 |
+| **#Lokibot** | 0 | 24 | 109 | 109 |
+| **#ProxyShell** | 0 | 7 | 36 | 36 |
+| **#Trickbot** | 0 | 3 | 21 | 21 |
+| **#Ursnif** | 0 | 14 | 57 | 57 |
 
 #### Top reporters (today)
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 142 |
-| **#2** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 132 |
-| **#3** | [romonlyht](https://twitter.com/romonlyht) | 81 |
-| **#4** | [secbird1](https://twitter.com/secbird1) | 65 |
-| **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 58 |
-| **#6** | [drb_ra](https://twitter.com/drb_ra) | 43 |
-| **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 38 |
-| **#8** | [TheDFIRReport](https://twitter.com/TheDFIRReport) | 14 |
-| **#9** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 13 |
-| **#10** | [mojoesec](https://twitter.com/mojoesec) | 12 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 50 |
+| **#2** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
+| **#3** | [secbird1](https://twitter.com/secbird1) | 9 |
+| **#4** | [ecarlesi](https://twitter.com/ecarlesi) | 5 |
+| **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 2 |
+| **#6** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
+| **#7** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 1 |
+| **#8** | [drb_ra](https://twitter.com/drb_ra) | 1 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 1 |
+| **#10** | [neonprimetime](https://twitter.com/neonprimetime) | 1 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
