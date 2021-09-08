@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 10:42:31 (UTC)</th>
+		<th colspan=4>2021-09-08 10:43:34 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,20 +74,20 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 197 | 1922 | 7960 | 8008 |
 | **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
-| **:triangular_flag_on_post: IPs** | 106 | 1327 | 4974 | 5000 |
-| **:1234: SHA256** | 227 | 764 | 2409 | 2415 |
+| **:triangular_flag_on_post: IPs** | 107 | 1328 | 4975 | 5001 |
+| **:1234: SHA256** | 231 | 768 | 2413 | 2419 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 263 | 2554 | 10522 | 10582 |
+| **#phishing** | 264 | 2555 | 10523 | 10583 |
 | **#scam** | 14 | 354 | 1117 | 1122 |
 | **#malware** | 34 | 514 | 2489 | 2501 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
-| **#AgentTesla** | 8 | 163 | 618 | 618 |
+| **#AgentTesla** | 12 | 167 | 622 | 622 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
 | **#CobaltStrike** | 14 | 457 | 971 | 971 |
@@ -102,12 +102,12 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 212 |
+| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 216 |
 | **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 94 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 24 |
 | **#5** | [secbird1](https://twitter.com/secbird1) | 21 |
-| **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 19 |
+| **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 20 |
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 14 |
 | **#8** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 7 |
