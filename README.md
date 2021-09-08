@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 12:02:21 (UTC)</th>
+		<th colspan=4>2021-09-08 12:03:24 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -75,7 +75,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **:link: URLs** | 218 | 1943 | 7981 | 8029 |
 | **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
 | **:triangular_flag_on_post: IPs** | 113 | 1334 | 4981 | 5007 |
-| **:1234: SHA256** | 234 | 771 | 2416 | 2422 |
+| **:1234: SHA256** | 238 | 775 | 2420 | 2426 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
 #### Tags
@@ -87,7 +87,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#malware** | 38 | 518 | 2493 | 2505 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
-| **#AgentTesla** | 12 | 167 | 622 | 622 |
+| **#AgentTesla** | 16 | 171 | 626 | 626 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
 | **#CobaltStrike** | 14 | 457 | 971 | 971 |
@@ -102,7 +102,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 216 |
+| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 220 |
 | **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 109 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 28 |
