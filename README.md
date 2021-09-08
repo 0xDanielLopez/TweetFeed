@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 10:33:02 (UTC)</th>
+		<th colspan=4>2021-09-08 10:34:06 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,10 +72,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 190 | 1915 | 7953 | 8001 |
+| **:link: URLs** | 191 | 1916 | 7954 | 8002 |
 | **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
 | **:triangular_flag_on_post: IPs** | 105 | 1326 | 4973 | 4999 |
-| **:1234: SHA256** | 225 | 762 | 2407 | 2413 |
+| **:1234: SHA256** | 226 | 763 | 2408 | 2414 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
 #### Tags
@@ -110,8 +110,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 18 |
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 14 |
 | **#8** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
-| **#9** | [illegalFawn](https://twitter.com/illegalFawn) | 6 |
-| **#10** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
+| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 7 |
+| **#10** | [illegalFawn](https://twitter.com/illegalFawn) | 6 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
