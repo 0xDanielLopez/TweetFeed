@@ -231,7 +231,7 @@ TweetFeed
 ```kusto
 let MaxAge = ago(30d);
 let domain_whitelist = pack_array(
-'XXX', // Some URL/Domain you want to whitelist.
+'XXX' // Some URL/Domain you want to whitelist.
 );
 let TweetFeed = materialize (
     (externaldata(report:string)
