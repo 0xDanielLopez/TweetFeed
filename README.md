@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 08:00:46 (UTC)</th>
+		<th colspan=4>2021-09-08 08:01:49 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -75,7 +75,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **:link: URLs** | 146 | 1871 | 7909 | 7957 |
 | **:globe_with_meridians: Domains** | 8 | 281 | 775 | 776 |
 | **:triangular_flag_on_post: IPs** | 86 | 1306 | 4953 | 4979 |
-| **:1234: SHA256** | 173 | 710 | 2355 | 2361 |
+| **:1234: SHA256** | 213 | 750 | 2395 | 2401 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
 #### Tags
@@ -91,7 +91,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
 | **#CobaltStrike** | 7 | 450 | 964 | 964 |
-| **#Dridex** | 160 | 261 | 315 | 315 |
+| **#Dridex** | 200 | 301 | 355 | 355 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
 | **#ProxyShell** | 0 | 7 | 36 | 36 |
@@ -102,7 +102,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 164 |
+| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 204 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 67 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 18 |
