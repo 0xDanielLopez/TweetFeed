@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 03:19:41 (UTC)</th>
+		<th colspan=4>2021-09-08 03:20:43 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -73,7 +73,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 86 | 1811 | 7849 | 7897 |
-| **:globe_with_meridians: Domains** | 3 | 276 | 770 | 771 |
+| **:globe_with_meridians: Domains** | 4 | 277 | 771 | 772 |
 | **:triangular_flag_on_post: IPs** | 65 | 1283 | 4930 | 4956 |
 | **:1234: SHA256** | 0 | 537 | 2182 | 2188 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 145 | 2439 | 10407 | 10467 |
+| **#phishing** | 146 | 2440 | 10408 | 10468 |
 | **#scam** | 7 | 347 | 1110 | 1115 |
 | **#malware** | 7 | 487 | 2462 | 2474 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -109,9 +109,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 5 |
 | **#6** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
 | **#7** | [SecInfo16](https://twitter.com/SecInfo16) | 2 |
-| **#8** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 1 |
-| **#9** | [drb_ra](https://twitter.com/drb_ra) | 1 |
-| **#10** | [harugasumi](https://twitter.com/harugasumi) | 1 |
+| **#8** | [dnstwist](https://twitter.com/dnstwist) | 2 |
+| **#9** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 1 |
+| **#10** | [drb_ra](https://twitter.com/drb_ra) | 1 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
