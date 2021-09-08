@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 07:34:32 (UTC)</th>
+		<th colspan=4>2021-09-08 07:35:35 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,7 +74,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 146 | 1871 | 7909 | 7957 |
 | **:globe_with_meridians: Domains** | 8 | 281 | 775 | 776 |
-| **:triangular_flag_on_post: IPs** | 78 | 1298 | 4945 | 4971 |
+| **:triangular_flag_on_post: IPs** | 84 | 1304 | 4951 | 4977 |
 | **:1234: SHA256** | 131 | 668 | 2313 | 2319 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 4 | 159 | 614 | 614 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 1 | 444 | 958 | 958 |
+| **#CobaltStrike** | 7 | 450 | 964 | 964 |
 | **#Dridex** | 120 | 221 | 275 | 275 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
@@ -109,9 +109,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 14 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
-| **#8** | [BushidoToken](https://twitter.com/BushidoToken) | 4 |
-| **#9** | [harugasumi](https://twitter.com/harugasumi) | 3 |
-| **#10** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 2 |
+| **#8** | [drb_ra](https://twitter.com/drb_ra) | 7 |
+| **#9** | [BushidoToken](https://twitter.com/BushidoToken) | 4 |
+| **#10** | [harugasumi](https://twitter.com/harugasumi) | 3 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
