@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 06:22:09 (UTC)</th>
+		<th colspan=4>2021-09-08 06:23:12 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -75,7 +75,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **:link: URLs** | 132 | 1857 | 7895 | 7943 |
 | **:globe_with_meridians: Domains** | 4 | 277 | 771 | 772 |
 | **:triangular_flag_on_post: IPs** | 73 | 1291 | 4938 | 4964 |
-| **:1234: SHA256** | 5 | 542 | 2187 | 2193 |
+| **:1234: SHA256** | 9 | 546 | 2191 | 2197 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
 #### Tags
@@ -87,7 +87,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#malware** | 20 | 500 | 2475 | 2487 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
-| **#AgentTesla** | 0 | 155 | 610 | 610 |
+| **#AgentTesla** | 4 | 159 | 614 | 614 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
 | **#CobaltStrike** | 1 | 444 | 958 | 958 |
@@ -108,10 +108,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 10 |
 | **#6** | [pingineer_jp](https://twitter.com/pingineer_jp) | 7 |
-| **#7** | [harugasumi](https://twitter.com/harugasumi) | 3 |
-| **#8** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 2 |
-| **#9** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
-| **#10** | [SecInfo16](https://twitter.com/SecInfo16) | 2 |
+| **#7** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 4 |
+| **#8** | [harugasumi](https://twitter.com/harugasumi) | 3 |
+| **#9** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 2 |
+| **#10** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
