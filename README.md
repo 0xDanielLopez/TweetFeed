@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 08:01:49 (UTC)</th>
+		<th colspan=4>2021-09-08 08:02:52 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 146 | 1871 | 7909 | 7957 |
-| **:globe_with_meridians: Domains** | 8 | 281 | 775 | 776 |
-| **:triangular_flag_on_post: IPs** | 86 | 1306 | 4953 | 4979 |
+| **:link: URLs** | 147 | 1872 | 7910 | 7958 |
+| **:globe_with_meridians: Domains** | 8 | 278 | 772 | 773 |
+| **:triangular_flag_on_post: IPs** | 87 | 1307 | 4954 | 4980 |
 | **:1234: SHA256** | 213 | 750 | 2395 | 2401 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
@@ -82,8 +82,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 206 | 2500 | 10468 | 10528 |
-| **#scam** | 12 | 352 | 1115 | 1120 |
+| **#phishing** | 208 | 2499 | 10467 | 10527 |
+| **#scam** | 14 | 354 | 1117 | 1122 |
 | **#malware** | 28 | 508 | 2483 | 2495 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -110,8 +110,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#8** | [drb_ra](https://twitter.com/drb_ra) | 7 |
-| **#9** | [BushidoToken](https://twitter.com/BushidoToken) | 4 |
-| **#10** | [harugasumi](https://twitter.com/harugasumi) | 3 |
+| **#9** | [phishunt_io](https://twitter.com/phishunt_io) | 4 |
+| **#10** | [BushidoToken](https://twitter.com/BushidoToken) | 4 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
