@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 05:08:48 (UTC)</th>
+		<th colspan=4>2021-09-08 05:09:50 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 125 | 1850 | 7888 | 7936 |
+| **:link: URLs** | 126 | 1851 | 7889 | 7937 |
 | **:globe_with_meridians: Domains** | 4 | 277 | 771 | 772 |
 | **:triangular_flag_on_post: IPs** | 67 | 1285 | 4932 | 4958 |
 | **:1234: SHA256** | 0 | 537 | 2182 | 2188 |
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 186 | 2480 | 10448 | 10508 |
+| **#phishing** | 187 | 2481 | 10449 | 10509 |
 | **#scam** | 11 | 351 | 1114 | 1119 |
 | **#malware** | 8 | 488 | 2463 | 2475 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -107,11 +107,11 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#3** | [secbird1](https://twitter.com/secbird1) | 13 |
 | **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 7 |
-| **#6** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#7** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
-| **#8** | [SecInfo16](https://twitter.com/SecInfo16) | 2 |
-| **#9** | [dnstwist](https://twitter.com/dnstwist) | 2 |
-| **#10** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
+| **#6** | [MalwarePatrol](https://twitter.com/MalwarePatrol) | 2 |
+| **#7** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#8** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 2 |
+| **#9** | [SecInfo16](https://twitter.com/SecInfo16) | 2 |
+| **#10** | [dnstwist](https://twitter.com/dnstwist) | 2 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
