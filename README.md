@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 10:26:44 (UTC)</th>
+		<th colspan=4>2021-09-08 10:27:47 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 188 | 1913 | 7951 | 7999 |
+| **:link: URLs** | 189 | 1914 | 7952 | 8000 |
 | **:globe_with_meridians: Domains** | 12 | 282 | 776 | 777 |
 | **:triangular_flag_on_post: IPs** | 103 | 1324 | 4971 | 4997 |
 | **:1234: SHA256** | 225 | 762 | 2407 | 2413 |
@@ -111,7 +111,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 14 |
 | **#8** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#9** | [illegalFawn](https://twitter.com/illegalFawn) | 6 |
-| **#10** | [ffforward](https://twitter.com/ffforward) | 5 |
+| **#10** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
