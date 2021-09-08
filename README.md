@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 08:15:28 (UTC)</th>
+		<th colspan=4>2021-09-08 08:16:31 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,17 +72,17 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 148 | 1873 | 7911 | 7959 |
+| **:link: URLs** | 149 | 1874 | 7912 | 7960 |
 | **:globe_with_meridians: Domains** | 8 | 278 | 772 | 773 |
 | **:triangular_flag_on_post: IPs** | 87 | 1307 | 4954 | 4980 |
-| **:1234: SHA256** | 217 | 754 | 2399 | 2405 |
+| **:1234: SHA256** | 221 | 758 | 2403 | 2409 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 209 | 2500 | 10468 | 10528 |
+| **#phishing** | 210 | 2501 | 10469 | 10529 |
 | **#scam** | 14 | 354 | 1117 | 1122 |
 | **#malware** | 28 | 508 | 2483 | 2495 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -91,7 +91,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
 | **#CobaltStrike** | 7 | 450 | 964 | 964 |
-| **#Dridex** | 200 | 301 | 355 | 355 |
+| **#Dridex** | 204 | 305 | 359 | 359 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
 | **#ProxyShell** | 0 | 7 | 36 | 36 |
@@ -102,9 +102,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 208 |
+| **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 212 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 91 |
-| **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 68 |
+| **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 69 |
 | **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 18 |
 | **#5** | [secbird1](https://twitter.com/secbird1) | 15 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
