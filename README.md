@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 07:49:13 (UTC)</th>
+		<th colspan=4>2021-09-08 07:50:16 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,8 +74,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 146 | 1871 | 7909 | 7957 |
 | **:globe_with_meridians: Domains** | 8 | 281 | 775 | 776 |
-| **:triangular_flag_on_post: IPs** | 84 | 1304 | 4951 | 4977 |
-| **:1234: SHA256** | 171 | 708 | 2353 | 2359 |
+| **:triangular_flag_on_post: IPs** | 85 | 1305 | 4952 | 4978 |
+| **:1234: SHA256** | 172 | 709 | 2354 | 2360 |
 | **:1234: MD5** | 0 | 45 | 259 | 259 |
 
 #### Tags
@@ -84,7 +84,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 206 | 2500 | 10468 | 10528 |
 | **#scam** | 12 | 352 | 1115 | 1120 |
-| **#malware** | 24 | 504 | 2479 | 2491 |
+| **#malware** | 26 | 506 | 2481 | 2493 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 4 | 159 | 614 | 614 |
@@ -105,8 +105,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 164 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 91 |
 | **#3** | [ecarlesi](https://twitter.com/ecarlesi) | 67 |
-| **#4** | [secbird1](https://twitter.com/secbird1) | 15 |
-| **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 14 |
+| **#4** | [HeliosCert](https://twitter.com/HeliosCert) | 16 |
+| **#5** | [secbird1](https://twitter.com/secbird1) | 15 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#7** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 | **#8** | [drb_ra](https://twitter.com/drb_ra) | 7 |
