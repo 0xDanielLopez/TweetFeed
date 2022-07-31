@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 00:59:11 (UTC)</th>
+		<th colspan=4>2022-07-31 01:05:42 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,19 +86,19 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 2220 | 12564 | 138079 |
+| **:link: URLs** | 10 | 2222 | 12566 | 138081 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
 | **:triangular_flag_on_post: IPs** | 7 | 737 | 4045 | 65572 |
-| **:1234: SHA256** | 0 | 129 | 478 | 36986 |
+| **:1234: SHA256** | 1 | 130 | 479 | 36987 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 11 | 3482 | 16752 | 171947 |
+| **#phishing** | 13 | 3484 | 16754 | 171949 |
 | **#scam** | 0 | 1172 | 4293 | 23576 |
-| **#malware** | 0 | 146 | 782 | 22167 |
+| **#malware** | 1 | 147 | 783 | 22168 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
 | **#ransomware** | 0 | 6 | 50 | 648 |
 | **#banker** | 0 | 0 | 0 | 45 |
@@ -133,12 +133,12 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 6 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 8 |
 | **#2** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#5** | [micham](https://twitter.com/micham) | 1 |
-| **#6** | [-](https://twitter.com/-) | 0 |
+| **#6** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
 | **#7** | [-](https://twitter.com/-) | 0 |
 | **#8** | [-](https://twitter.com/-) | 0 |
 | **#9** | [-](https://twitter.com/-) | 0 |
