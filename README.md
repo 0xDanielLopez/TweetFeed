@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 03:11:42 (UTC)</th>
+		<th colspan=4>2022-07-31 03:19:34 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,7 +86,7 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 38 | 2250 | 12594 | 138109 |
+| **:link: URLs** | 39 | 2251 | 12595 | 138110 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
 | **:triangular_flag_on_post: IPs** | 25 | 755 | 4063 | 65590 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 43 | 3514 | 16784 | 171979 |
+| **#phishing** | 44 | 3515 | 16785 | 171980 |
 | **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 2 | 148 | 784 | 22169 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -139,9 +139,9 @@
 | **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#6** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
-| **#7** | [micham](https://twitter.com/micham) | 1 |
-| **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
-| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 1 |
+| **#7** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
+| **#8** | [micham](https://twitter.com/micham) | 1 |
+| **#9** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 ## How it works?
