@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 02:25:39 (UTC)</th>
+		<th colspan=4>2022-07-31 02:31:34 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,9 +86,9 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 32 | 2244 | 12588 | 138103 |
+| **:link: URLs** | 33 | 2245 | 12589 | 138104 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
-| **:triangular_flag_on_post: IPs** | 10 | 740 | 4048 | 65575 |
+| **:triangular_flag_on_post: IPs** | 19 | 749 | 4057 | 65584 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 37 | 3508 | 16778 | 171973 |
+| **#phishing** | 38 | 3509 | 16779 | 171974 |
 | **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 2 | 148 | 784 | 22169 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -105,7 +105,7 @@
 | **#AgentTesla** | 0 | 16 | 32 | 5408 |
 | **#Alienbot** | 0 | 0 | 0 | 85 |
 | **#BazarLoader** | 0 | 0 | 0 | 310 |
-| **#CobaltStrike** | 0 | 281 | 1410 | 23394 |
+| **#CobaltStrike** | 9 | 290 | 1419 | 23403 |
 | **#Dridex** | 0 | 0 | 0 | 5471 |
 | **#Emotet** | 0 | 0 | 73 | 1613 |
 | **#FluBot** | 0 | 0 | 0 | 30 |
@@ -133,15 +133,15 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 24 |
-| **#2** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
-| **#3** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#5** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
-| **#6** | [micham](https://twitter.com/micham) | 1 |
-| **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
-| **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 1 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 25 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 9 |
+| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
+| **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#6** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
+| **#7** | [micham](https://twitter.com/micham) | 1 |
+| **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
+| **#9** | [quicksandphish](https://twitter.com/quicksandphish) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 ## How it works?
