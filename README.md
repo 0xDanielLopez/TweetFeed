@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 02:31:34 (UTC)</th>
+		<th colspan=4>2022-07-31 02:38:21 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,9 +86,9 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 33 | 2245 | 12589 | 138104 |
+| **:link: URLs** | 34 | 2246 | 12590 | 138105 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
-| **:triangular_flag_on_post: IPs** | 19 | 749 | 4057 | 65584 |
+| **:triangular_flag_on_post: IPs** | 25 | 755 | 4063 | 65590 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 38 | 3509 | 16779 | 171974 |
+| **#phishing** | 39 | 3510 | 16780 | 171975 |
 | **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 2 | 148 | 784 | 22169 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -105,7 +105,7 @@
 | **#AgentTesla** | 0 | 16 | 32 | 5408 |
 | **#Alienbot** | 0 | 0 | 0 | 85 |
 | **#BazarLoader** | 0 | 0 | 0 | 310 |
-| **#CobaltStrike** | 9 | 290 | 1419 | 23403 |
+| **#CobaltStrike** | 15 | 296 | 1425 | 23409 |
 | **#Dridex** | 0 | 0 | 0 | 5471 |
 | **#Emotet** | 0 | 0 | 73 | 1613 |
 | **#FluBot** | 0 | 0 | 0 | 30 |
@@ -133,8 +133,8 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 25 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 9 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 26 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 15 |
 | **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
 | **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
