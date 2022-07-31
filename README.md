@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 01:20:13 (UTC)</th>
+		<th colspan=4>2022-07-31 01:25:46 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,9 +86,9 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 10 | 2222 | 12566 | 138081 |
+| **:link: URLs** | 11 | 2223 | 12567 | 138082 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
-| **:triangular_flag_on_post: IPs** | 7 | 737 | 4045 | 65572 |
+| **:triangular_flag_on_post: IPs** | 8 | 738 | 4046 | 65573 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
@@ -96,8 +96,8 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 3484 | 16754 | 171949 |
-| **#scam** | 0 | 1172 | 4293 | 23576 |
+| **#phishing** | 15 | 3486 | 16756 | 171951 |
+| **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 1 | 147 | 783 | 22168 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
 | **#ransomware** | 0 | 6 | 50 | 648 |
@@ -137,9 +137,9 @@
 | **#2** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
-| **#5** | [micham](https://twitter.com/micham) | 1 |
-| **#6** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
-| **#7** | [-](https://twitter.com/-) | 0 |
+| **#5** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
+| **#6** | [micham](https://twitter.com/micham) | 1 |
+| **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
 | **#8** | [-](https://twitter.com/-) | 0 |
 | **#9** | [-](https://twitter.com/-) | 0 |
 | **#10** | [-](https://twitter.com/-) | 0 |
