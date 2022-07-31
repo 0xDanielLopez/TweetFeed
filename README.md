@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 03:05:47 (UTC)</th>
+		<th colspan=4>2022-07-31 03:11:42 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,7 +86,7 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 37 | 2249 | 12593 | 138108 |
+| **:link: URLs** | 38 | 2250 | 12594 | 138109 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
 | **:triangular_flag_on_post: IPs** | 25 | 755 | 4063 | 65590 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 42 | 3513 | 16783 | 171978 |
+| **#phishing** | 43 | 3514 | 16784 | 171979 |
 | **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 2 | 148 | 784 | 22169 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -133,7 +133,7 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 29 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 30 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 15 |
 | **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
 | **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
