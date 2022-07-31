@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 03:33:11 (UTC)</th>
+		<th colspan=4>2022-07-31 03:40:18 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,9 +86,9 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 44 | 2256 | 12600 | 138115 |
+| **:link: URLs** | 50 | 2262 | 12606 | 138121 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
-| **:triangular_flag_on_post: IPs** | 26 | 756 | 4064 | 65591 |
+| **:triangular_flag_on_post: IPs** | 28 | 758 | 4066 | 65593 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 50 | 3521 | 16791 | 171986 |
+| **#phishing** | 58 | 3529 | 16799 | 171994 |
 | **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 2 | 148 | 784 | 22169 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -133,16 +133,16 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 30 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 31 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 15 |
-| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
+| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 13 |
 | **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 4 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 4 |
 | **#7** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
 | **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
-| **#9** | [micham](https://twitter.com/micham) | 1 |
-| **#10** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
+| **#9** | [PhishStats](https://twitter.com/PhishStats) | 2 |
+| **#10** | [micham](https://twitter.com/micham) | 1 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
