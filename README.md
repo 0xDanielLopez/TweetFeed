@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 00:10:18 (UTC)</th>
+		<th colspan=4>2022-07-31 00:16:00 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,9 +86,9 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 2214 | 12558 | 138073 |
+| **:link: URLs** | 3 | 2215 | 12559 | 138074 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
-| **:triangular_flag_on_post: IPs** | 0 | 730 | 4038 | 65565 |
+| **:triangular_flag_on_post: IPs** | 1 | 731 | 4039 | 65566 |
 | **:1234: SHA256** | 0 | 129 | 478 | 36986 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 3473 | 16743 | 171938 |
+| **#phishing** | 4 | 3475 | 16745 | 171940 |
 | **#scam** | 0 | 1172 | 4293 | 23576 |
 | **#malware** | 0 | 146 | 782 | 22167 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -133,8 +133,8 @@
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 3 |
+| **#2** | [micham](https://twitter.com/micham) | 1 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
