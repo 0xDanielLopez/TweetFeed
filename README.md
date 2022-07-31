@@ -30,7 +30,7 @@
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-07-31 03:19:34 (UTC)</th>
+		<th colspan=4>2022-07-31 03:26:01 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -86,9 +86,9 @@
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 2251 | 12595 | 138110 |
+| **:link: URLs** | 44 | 2256 | 12600 | 138115 |
 | **:globe_with_meridians: Domains** | 0 | 1173 | 3452 | 22452 |
-| **:triangular_flag_on_post: IPs** | 25 | 755 | 4063 | 65590 |
+| **:triangular_flag_on_post: IPs** | 26 | 756 | 4064 | 65591 |
 | **:1234: SHA256** | 1 | 130 | 479 | 36987 |
 | **:1234: MD5** | 0 | 48 | 273 | 2723 |
 
@@ -96,7 +96,7 @@
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 44 | 3515 | 16785 | 171980 |
+| **#phishing** | 50 | 3521 | 16791 | 171986 |
 | **#scam** | 2 | 1174 | 4295 | 23578 |
 | **#malware** | 2 | 148 | 784 | 22169 |
 | **#maldoc** | 0 | 7 | 31 | 165 |
@@ -137,12 +137,12 @@
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 15 |
 | **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
 | **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#6** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
-| **#7** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
-| **#8** | [micham](https://twitter.com/micham) | 1 |
-| **#9** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 4 |
+| **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 4 |
+| **#7** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
+| **#8** | [quicksandphish](https://twitter.com/quicksandphish) | 2 |
+| **#9** | [micham](https://twitter.com/micham) | 1 |
+| **#10** | [HeliosCert](https://twitter.com/HeliosCert) | 1 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
