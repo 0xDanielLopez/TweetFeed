@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 01:23:58 (UTC)</th>
+        <th colspan=4>2024-03-28 02:00:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 727 | 4525 | 44711 |
-| **:globe_with_meridians: Domains** | 0 | 385 | 2695 | 19868 |
-| **:triangular_flag_on_post: IPs** | 0 | 305 | 1833 | 21790 |
+| **:link: URLs** | 13 | 740 | 4538 | 44724 |
+| **:globe_with_meridians: Domains** | 12 | 397 | 2707 | 19880 |
+| **:triangular_flag_on_post: IPs** | 1 | 306 | 1834 | 21791 |
 | **:1234: SHA256** | 0 | 31 | 434 | 4424 |
 | **:1234: MD5** | 0 | 21 | 96 | 2518 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 581 | 4643 | 59392 |
+| **#phishing** | 26 | 607 | 4669 | 59418 |
 | **#scam** | 0 | 3 | 21 | 11658 |
 | **#opendir** | 0 | 16 | 60 | 159 |
 | **#malware** | 0 | 21 | 259 | 4426 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
