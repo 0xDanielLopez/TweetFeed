@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 09:56:07 (UTC)</th>
+        <th colspan=4>2024-03-28 10:36:01 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 51 | 778 | 4576 | 44762 |
-| **:globe_with_meridians: Domains** | 19 | 404 | 2714 | 19887 |
+| **:link: URLs** | 52 | 779 | 4577 | 44763 |
+| **:globe_with_meridians: Domains** | 20 | 405 | 2715 | 19888 |
 | **:triangular_flag_on_post: IPs** | 32 | 337 | 1865 | 21822 |
 | **:1234: SHA256** | 1 | 32 | 435 | 4425 |
 | **:1234: MD5** | 4 | 25 | 100 | 2522 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 38 | 619 | 4681 | 59430 |
+| **#phishing** | 40 | 621 | 4683 | 59432 |
 | **#scam** | 0 | 3 | 21 | 11658 |
 | **#opendir** | 2 | 18 | 62 | 161 |
 | **#malware** | 0 | 21 | 259 | 4426 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 50 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#3** | [Cazandophishing](https://twitter.com/Cazandophishing) | 12 |
+| **#3** | [Cazandophishing](https://twitter.com/Cazandophishing) | 14 |
 | **#4** | [banthisguy9349](https://twitter.com/banthisguy9349) | 10 |
 | **#5** | [suyog41](https://twitter.com/suyog41) | 5 |
 | **#6** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 2 |
