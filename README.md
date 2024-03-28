@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 13:11:30 (UTC)</th>
+        <th colspan=4>2024-03-28 13:47:48 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 112 | 839 | 4637 | 44823 |
-| **:globe_with_meridians: Domains** | 28 | 413 | 2723 | 19896 |
-| **:triangular_flag_on_post: IPs** | 87 | 392 | 1920 | 21877 |
+| **:link: URLs** | 131 | 858 | 4656 | 44842 |
+| **:globe_with_meridians: Domains** | 37 | 422 | 2732 | 19905 |
+| **:triangular_flag_on_post: IPs** | 92 | 397 | 1925 | 21882 |
 | **:1234: SHA256** | 2 | 33 | 436 | 4426 |
 | **:1234: MD5** | 6 | 27 | 102 | 2524 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 53 | 634 | 4696 | 59445 |
+| **#phishing** | 70 | 651 | 4713 | 59462 |
 | **#scam** | 0 | 3 | 21 | 11658 |
 | **#opendir** | 2 | 18 | 62 | 161 |
 | **#malware** | 0 | 21 | 259 | 4426 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 0 | 10 | 88 |
 | **#Batloader** | 0 | 0 | 0 | 3 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
-| **#CobaltStrike** | 108 | 407 | 1209 | 12915 |
+| **#CobaltStrike** | 124 | 423 | 1225 | 12931 |
 | **#Dcrat** | 2 | 12 | 72 | 305 |
 | **#Emotet** | 0 | 0 | 0 | 4 |
 | **#Formbook** | 0 | 0 | 0 | 22 |
@@ -166,12 +166,12 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 154 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 170 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#3** | [Cazandophishing](https://twitter.com/Cazandophishing) | 14 |
-| **#4** | [banthisguy9349](https://twitter.com/banthisguy9349) | 12 |
-| **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 7 |
-| **#6** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 18 |
+| **#4** | [Cazandophishing](https://twitter.com/Cazandophishing) | 14 |
+| **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 12 |
+| **#6** | [banthisguy9349](https://twitter.com/banthisguy9349) | 12 |
 | **#7** | [suyog41](https://twitter.com/suyog41) | 5 |
 | **#8** | [Max_Mal_](https://twitter.com/Max_Mal_) | 3 |
 | **#9** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
