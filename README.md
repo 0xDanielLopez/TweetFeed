@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 10:36:01 (UTC)</th>
+        <th colspan=4>2024-03-28 11:17:02 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 52 | 779 | 4577 | 44763 |
-| **:globe_with_meridians: Domains** | 20 | 405 | 2715 | 19888 |
-| **:triangular_flag_on_post: IPs** | 32 | 337 | 1865 | 21822 |
+| **:link: URLs** | 106 | 833 | 4631 | 44817 |
+| **:globe_with_meridians: Domains** | 23 | 408 | 2718 | 19891 |
+| **:triangular_flag_on_post: IPs** | 82 | 387 | 1915 | 21872 |
 | **:1234: SHA256** | 1 | 32 | 435 | 4425 |
-| **:1234: MD5** | 4 | 25 | 100 | 2522 |
+| **:1234: MD5** | 5 | 26 | 101 | 2523 |
 
 </div>
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 40 | 621 | 4683 | 59432 |
+| **#phishing** | 45 | 626 | 4688 | 59437 |
 | **#scam** | 0 | 3 | 21 | 11658 |
 | **#opendir** | 2 | 18 | 62 | 161 |
 | **#malware** | 0 | 21 | 259 | 4426 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 0 | 10 | 88 |
 | **#Batloader** | 0 | 0 | 0 | 3 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
-| **#CobaltStrike** | 5 | 304 | 1106 | 12812 |
+| **#CobaltStrike** | 108 | 407 | 1209 | 12915 |
 | **#Dcrat** | 2 | 12 | 72 | 305 |
 | **#Emotet** | 0 | 0 | 0 | 4 |
 | **#Formbook** | 0 | 0 | 0 | 22 |
@@ -166,12 +166,12 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 50 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 153 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#3** | [Cazandophishing](https://twitter.com/Cazandophishing) | 14 |
 | **#4** | [banthisguy9349](https://twitter.com/banthisguy9349) | 10 |
-| **#5** | [suyog41](https://twitter.com/suyog41) | 5 |
-| **#6** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 2 |
+| **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 7 |
+| **#6** | [suyog41](https://twitter.com/suyog41) | 5 |
 | **#7** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
 | **#8** | [-](https://twitter.com/-) | 0 |
 | **#9** | [-](https://twitter.com/-) | 0 |
