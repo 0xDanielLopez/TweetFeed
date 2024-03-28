@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 12:33:50 (UTC)</th>
+        <th colspan=4>2024-03-28 13:11:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 111 | 838 | 4636 | 44822 |
-| **:globe_with_meridians: Domains** | 27 | 412 | 2722 | 19895 |
+| **:link: URLs** | 112 | 839 | 4637 | 44823 |
+| **:globe_with_meridians: Domains** | 28 | 413 | 2723 | 19896 |
 | **:triangular_flag_on_post: IPs** | 87 | 392 | 1920 | 21877 |
-| **:1234: SHA256** | 1 | 32 | 435 | 4425 |
+| **:1234: SHA256** | 2 | 33 | 436 | 4426 |
 | **:1234: MD5** | 6 | 27 | 102 | 2524 |
 
 </div>
@@ -173,9 +173,9 @@ If you like the project, please consider:
 | **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 7 |
 | **#6** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#7** | [suyog41](https://twitter.com/suyog41) | 5 |
-| **#8** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
-| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#10** | [DarkWebInformer](https://twitter.com/DarkWebInformer) | 2 |
+| **#8** | [Max_Mal_](https://twitter.com/Max_Mal_) | 3 |
+| **#9** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
+| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 
 </div>
 
