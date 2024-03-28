@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 11:57:43 (UTC)</th>
+        <th colspan=4>2024-03-28 12:33:50 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 106 | 833 | 4631 | 44817 |
-| **:globe_with_meridians: Domains** | 23 | 408 | 2718 | 19891 |
-| **:triangular_flag_on_post: IPs** | 82 | 387 | 1915 | 21872 |
+| **:link: URLs** | 111 | 838 | 4636 | 44822 |
+| **:globe_with_meridians: Domains** | 27 | 412 | 2722 | 19895 |
+| **:triangular_flag_on_post: IPs** | 87 | 392 | 1920 | 21877 |
 | **:1234: SHA256** | 1 | 32 | 435 | 4425 |
-| **:1234: MD5** | 5 | 26 | 101 | 2523 |
+| **:1234: MD5** | 6 | 27 | 102 | 2524 |
 
 </div>
 
@@ -123,12 +123,12 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 45 | 626 | 4688 | 59437 |
+| **#phishing** | 53 | 634 | 4696 | 59445 |
 | **#scam** | 0 | 3 | 21 | 11658 |
 | **#opendir** | 2 | 18 | 62 | 161 |
 | **#malware** | 0 | 21 | 259 | 4426 |
 | **#maldoc** | 0 | 0 | 0 | 50 |
-| **#ransomware** | 0 | 6 | 8 | 261 |
+| **#ransomware** | 2 | 8 | 10 | 263 |
 | **#banker** | 0 | 0 | 0 | 15 |
 | **#AgentTesla** | 0 | 0 | 8 | 60 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -143,7 +143,7 @@ If you like the project, please consider:
 | **#GuLoader** | 0 | 2 | 9 | 25 |
 | **#IcedID** | 0 | 0 | 0 | 74 |
 | **#Lazarus** | 0 | 0 | 1 | 50 |
-| **#Lokibot** | 0 | 3 | 14 | 72 |
+| **#Lokibot** | 2 | 5 | 16 | 74 |
 | **#log4j** | 0 | 0 | 0 | 16 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 22 | 211 | 1068 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 153 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 154 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#3** | [Cazandophishing](https://twitter.com/Cazandophishing) | 14 |
-| **#4** | [banthisguy9349](https://twitter.com/banthisguy9349) | 10 |
+| **#4** | [banthisguy9349](https://twitter.com/banthisguy9349) | 12 |
 | **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 7 |
-| **#6** | [suyog41](https://twitter.com/suyog41) | 5 |
-| **#7** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
-| **#8** | [-](https://twitter.com/-) | 0 |
-| **#9** | [-](https://twitter.com/-) | 0 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#6** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#7** | [suyog41](https://twitter.com/suyog41) | 5 |
+| **#8** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [DarkWebInformer](https://twitter.com/DarkWebInformer) | 2 |
 
 </div>
 
