@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 05:43:55 (UTC)</th>
+        <th colspan=4>2024-03-28 06:21:02 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 19 | 746 | 4544 | 44730 |
-| **:globe_with_meridians: Domains** | 12 | 397 | 2707 | 19880 |
+| **:link: URLs** | 20 | 747 | 4545 | 44731 |
+| **:globe_with_meridians: Domains** | 13 | 398 | 2708 | 19881 |
 | **:triangular_flag_on_post: IPs** | 3 | 308 | 1836 | 21793 |
 | **:1234: SHA256** | 0 | 31 | 434 | 4424 |
-| **:1234: MD5** | 0 | 21 | 96 | 2518 |
+| **:1234: MD5** | 1 | 22 | 97 | 2519 |
 
 </div>
 
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 8 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [suyog41](https://twitter.com/suyog41) | 3 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [-](https://twitter.com/-) | 0 |
