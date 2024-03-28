@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 06:56:39 (UTC)</th>
+        <th colspan=4>2024-03-28 07:33:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 747 | 4545 | 44731 |
+| **:link: URLs** | 45 | 772 | 4570 | 44756 |
 | **:globe_with_meridians: Domains** | 13 | 398 | 2708 | 19881 |
-| **:triangular_flag_on_post: IPs** | 4 | 309 | 1837 | 21794 |
-| **:1234: SHA256** | 0 | 31 | 434 | 4424 |
+| **:triangular_flag_on_post: IPs** | 22 | 327 | 1855 | 21812 |
+| **:1234: SHA256** | 1 | 32 | 435 | 4425 |
 | **:1234: MD5** | 4 | 25 | 100 | 2522 |
 
 </div>
@@ -125,7 +125,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 26 | 607 | 4669 | 59418 |
 | **#scam** | 0 | 3 | 21 | 11658 |
-| **#opendir** | 0 | 16 | 60 | 159 |
+| **#opendir** | 2 | 18 | 62 | 161 |
 | **#malware** | 0 | 21 | 259 | 4426 |
 | **#maldoc** | 0 | 0 | 0 | 50 |
 | **#ransomware** | 0 | 6 | 8 | 261 |
@@ -136,7 +136,7 @@ If you like the project, please consider:
 | **#Batloader** | 0 | 0 | 0 | 3 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
 | **#CobaltStrike** | 5 | 304 | 1106 | 12812 |
-| **#Dcrat** | 0 | 10 | 70 | 303 |
+| **#Dcrat** | 2 | 12 | 72 | 305 |
 | **#Emotet** | 0 | 0 | 0 | 4 |
 | **#Formbook** | 0 | 0 | 0 | 22 |
 | **#GootLoader** | 0 | 0 | 0 | 131 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 16 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 22 | 211 | 1068 |
-| **#Qakbot** | 0 | 26 | 174 | 1889 |
+| **#Qakbot** | 4 | 30 | 178 | 1893 |
 | **#Raccoon** | 0 | 0 | 0 | 28 |
 | **#RedLine** | 0 | 5 | 21 | 428 |
 | **#Remcos** | 0 | 5 | 35 | 242 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 8 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 50 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#3** | [suyog41](https://twitter.com/suyog41) | 5 |
 | **#4** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#5** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
 | **#6** | [-](https://twitter.com/-) | 0 |
 | **#7** | [-](https://twitter.com/-) | 0 |
 | **#8** | [-](https://twitter.com/-) | 0 |
