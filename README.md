@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-03-28 03:17:57 (UTC)</th>
+        <th colspan=4>2024-03-28 03:54:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 742 | 4540 | 44726 |
+| **:link: URLs** | 19 | 746 | 4544 | 44730 |
 | **:globe_with_meridians: Domains** | 12 | 397 | 2707 | 19880 |
-| **:triangular_flag_on_post: IPs** | 2 | 307 | 1835 | 21792 |
+| **:triangular_flag_on_post: IPs** | 3 | 308 | 1836 | 21793 |
 | **:1234: SHA256** | 0 | 31 | 434 | 4424 |
 | **:1234: MD5** | 0 | 21 | 96 | 2518 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 0 | 10 | 88 |
 | **#Batloader** | 0 | 0 | 0 | 3 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
-| **#CobaltStrike** | 0 | 299 | 1101 | 12807 |
+| **#CobaltStrike** | 5 | 304 | 1106 | 12812 |
 | **#Dcrat** | 0 | 10 | 70 | 303 |
 | **#Emotet** | 0 | 0 | 0 | 4 |
 | **#Formbook** | 0 | 0 | 0 | 22 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 3 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 8 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
