@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+      <title>TweetFeed RSS</title>
+      <link>https://tweetfeed.live</link>
+      <description>TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter.</description>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed RSS</title>
+         <link>https://tweetfeed.live</link>
+      </image>
+      <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
+   </channel>
+</rss>
