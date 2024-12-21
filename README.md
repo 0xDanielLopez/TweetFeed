@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-21 20:48:49 (UTC)</th>
+        <th colspan=4>2024-12-21 21:10:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 74 | 74 | 74 | 27715 |
-| **:globe_with_meridians: Domains** | 58 | 58 | 58 | 17812 |
-| **:triangular_flag_on_post: IPs** | 16 | 16 | 16 | 11488 |
+| **:link: URLs** | 77 | 77 | 77 | 27718 |
+| **:globe_with_meridians: Domains** | 59 | 59 | 59 | 17813 |
+| **:triangular_flag_on_post: IPs** | 17 | 17 | 17 | 11489 |
 | **:1234: SHA256** | 0 | 0 | 0 | 4260 |
 | **:1234: MD5** | 0 | 0 | 0 | 948 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 112 | 112 | 112 | 34240 |
+| **#phishing** | 114 | 114 | 114 | 34242 |
 | **#scam** | 8 | 8 | 8 | 810 |
 | **#opendir** | 0 | 0 | 0 | 335 |
-| **#malware** | 32 | 32 | 32 | 2553 |
+| **#malware** | 34 | 34 | 34 | 2555 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 0 | 0 | 154 |
 | **#banker** | 0 | 0 | 0 | 10 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 0 | 0 | 98 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
-| **#CobaltStrike** | 10 | 10 | 10 | 6265 |
+| **#CobaltStrike** | 13 | 13 | 13 | 6268 |
 | **#Dcrat** | 0 | 0 | 0 | 483 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 7 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 56 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 58 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 36 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 24 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 10 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 13 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
