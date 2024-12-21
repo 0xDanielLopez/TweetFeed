@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-21 21:10:55 (UTC)</th>
+        <th colspan=4>2024-12-21 21:32:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 77 | 77 | 77 | 27718 |
-| **:globe_with_meridians: Domains** | 59 | 59 | 59 | 17813 |
+| **:link: URLs** | 78 | 78 | 78 | 27719 |
+| **:globe_with_meridians: Domains** | 60 | 60 | 60 | 17814 |
 | **:triangular_flag_on_post: IPs** | 17 | 17 | 17 | 11489 |
 | **:1234: SHA256** | 0 | 0 | 0 | 4260 |
 | **:1234: MD5** | 0 | 0 | 0 | 948 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [g0njxa](https://twitter.com/g0njxa) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#10** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 2 |
 
 </div>
 
