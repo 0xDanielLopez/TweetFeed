@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 00:20:13 (UTC)</th>
+        <th colspan=4>2024-12-24 00:45:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 578 | 578 | 28219 |
-| **:globe_with_meridians: Domains** | 0 | 438 | 438 | 18192 |
+| **:link: URLs** | 9 | 587 | 587 | 28228 |
+| **:globe_with_meridians: Domains** | 9 | 447 | 447 | 18201 |
 | **:triangular_flag_on_post: IPs** | 0 | 105 | 105 | 11577 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 0 | 13 | 13 | 961 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 830 | 830 | 34958 |
+| **#phishing** | 18 | 848 | 848 | 34976 |
 | **#scam** | 0 | 58 | 58 | 860 |
 | **#opendir** | 0 | 16 | 16 | 351 |
 | **#malware** | 0 | 186 | 186 | 2707 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
-| **#2** | [-](https://twitter.com/-) | 0 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#1** | [catnap707](https://twitter.com/catnap707) | 14 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
