@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 20:46:50 (UTC)</th>
+        <th colspan=4>2024-12-24 21:09:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 225 | 803 | 803 | 28444 |
-| **:globe_with_meridians: Domains** | 155 | 593 | 593 | 18347 |
+| **:link: URLs** | 228 | 806 | 806 | 28447 |
+| **:globe_with_meridians: Domains** | 157 | 595 | 595 | 18349 |
 | **:triangular_flag_on_post: IPs** | 59 | 164 | 164 | 11636 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 1 | 14 | 14 | 962 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 319 | 1149 | 1149 | 35277 |
+| **#phishing** | 323 | 1153 | 1153 | 35281 |
 | **#scam** | 20 | 78 | 78 | 880 |
 | **#opendir** | 5 | 21 | 21 | 356 |
-| **#malware** | 43 | 229 | 229 | 2750 |
+| **#malware** | 47 | 233 | 233 | 2754 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 2 | 2 | 156 |
 | **#banker** | 0 | 0 | 0 | 10 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 2 | 6 | 6 | 247 |
 | **#log4j** | 0 | 0 | 0 | 0 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 19 | 19 | 1415 |
+| **#Njrat** | 1 | 20 | 20 | 1416 |
 | **#Qakbot** | 2 | 4 | 4 | 1111 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 0 | 229 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 121 |
 | **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 118 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 100 |
-| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 24 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 28 |
+| **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
