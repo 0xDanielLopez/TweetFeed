@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 11:15:38 (UTC)</th>
+        <th colspan=4>2024-12-24 11:38:46 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 130 | 708 | 708 | 28349 |
-| **:globe_with_meridians: Domains** | 89 | 527 | 527 | 18281 |
-| **:triangular_flag_on_post: IPs** | 32 | 137 | 137 | 11609 |
+| **:link: URLs** | 136 | 714 | 714 | 28355 |
+| **:globe_with_meridians: Domains** | 90 | 528 | 528 | 18282 |
+| **:triangular_flag_on_post: IPs** | 36 | 141 | 141 | 11613 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 1 | 14 | 14 | 962 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 196 | 1026 | 1026 | 35154 |
+| **#phishing** | 199 | 1029 | 1029 | 35157 |
 | **#scam** | 8 | 66 | 66 | 868 |
 | **#opendir** | 0 | 16 | 16 | 351 |
 | **#malware** | 6 | 192 | 192 | 2713 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 13 | 15 | 15 | 113 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
-| **#CobaltStrike** | 0 | 90 | 90 | 6345 |
+| **#CobaltStrike** | 8 | 98 | 98 | 6353 |
 | **#Dcrat** | 0 | 4 | 4 | 487 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 7 |
@@ -167,9 +167,9 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 121 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 51 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 59 |
 | **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 30 |
-| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
+| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
