@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 18:12:23 (UTC)</th>
+        <th colspan=4>2024-12-24 18:34:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 165 | 743 | 743 | 28384 |
-| **:globe_with_meridians: Domains** | 117 | 555 | 555 | 18309 |
+| **:link: URLs** | 178 | 756 | 756 | 28397 |
+| **:globe_with_meridians: Domains** | 130 | 568 | 568 | 18322 |
 | **:triangular_flag_on_post: IPs** | 38 | 143 | 143 | 11615 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 1 | 14 | 14 | 962 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 249 | 1079 | 1079 | 35207 |
+| **#phishing** | 275 | 1105 | 1105 | 35233 |
 | **#scam** | 12 | 70 | 70 | 872 |
 | **#opendir** | 1 | 17 | 17 | 352 |
-| **#malware** | 23 | 209 | 209 | 2730 |
+| **#malware** | 29 | 215 | 215 | 2736 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 2 | 2 | 156 |
 | **#banker** | 0 | 0 | 0 | 10 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 121 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 61 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 60 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 84 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 61 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 14 |
+| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 16 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
