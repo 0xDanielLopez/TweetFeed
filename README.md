@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 01:58:25 (UTC)</th>
+        <th colspan=4>2024-12-24 02:22:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 598 | 598 | 28239 |
-| **:globe_with_meridians: Domains** | 19 | 457 | 457 | 18211 |
-| **:triangular_flag_on_post: IPs** | 1 | 106 | 106 | 11578 |
+| **:link: URLs** | 25 | 603 | 603 | 28244 |
+| **:globe_with_meridians: Domains** | 21 | 459 | 459 | 18213 |
+| **:triangular_flag_on_post: IPs** | 4 | 109 | 109 | 11581 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 0 | 13 | 13 | 961 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 40 | 870 | 870 | 34998 |
+| **#phishing** | 48 | 878 | 878 | 35006 |
 | **#scam** | 0 | 58 | 58 | 860 |
 | **#opendir** | 0 | 16 | 16 | 351 |
 | **#malware** | 2 | 188 | 188 | 2709 |
@@ -143,7 +143,7 @@ If you like the project, please consider:
 | **#GuLoader** | 0 | 0 | 0 | 21 |
 | **#IcedID** | 0 | 0 | 0 | 8 |
 | **#Lazarus** | 0 | 0 | 0 | 27 |
-| **#Lokibot** | 0 | 4 | 4 | 245 |
+| **#Lokibot** | 2 | 6 | 6 | 247 |
 | **#log4j** | 0 | 0 | 0 | 0 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 19 | 19 | 1415 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 32 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 2 |
-| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#5** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
