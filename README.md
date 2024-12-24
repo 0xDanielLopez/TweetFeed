@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 07:39:25 (UTC)</th>
+        <th colspan=4>2024-12-24 08:04:07 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 113 | 691 | 691 | 28332 |
-| **:globe_with_meridians: Domains** | 74 | 512 | 512 | 18266 |
+| **:link: URLs** | 115 | 693 | 693 | 28334 |
+| **:globe_with_meridians: Domains** | 75 | 513 | 513 | 18267 |
 | **:triangular_flag_on_post: IPs** | 31 | 136 | 136 | 11608 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 1 | 14 | 14 | 962 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 163 | 993 | 993 | 35121 |
+| **#phishing** | 166 | 996 | 996 | 35124 |
 | **#scam** | 2 | 60 | 60 | 862 |
 | **#opendir** | 0 | 16 | 16 | 351 |
 | **#malware** | 4 | 190 | 190 | 2711 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 121 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 51 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 16 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 18 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 11 |
 | **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
