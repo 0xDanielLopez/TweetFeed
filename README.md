@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 06:51:35 (UTC)</th>
+        <th colspan=4>2024-12-24 07:15:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 83 | 661 | 661 | 28302 |
+| **:link: URLs** | 110 | 688 | 688 | 28329 |
 | **:globe_with_meridians: Domains** | 74 | 512 | 512 | 18266 |
-| **:triangular_flag_on_post: IPs** | 10 | 115 | 115 | 11587 |
+| **:triangular_flag_on_post: IPs** | 31 | 136 | 136 | 11608 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 1 | 14 | 14 | 962 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 10 |
 | **#AgentTesla** | 0 | 0 | 0 | 60 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 2 | 2 | 100 |
+| **#AsyncRAT** | 13 | 15 | 15 | 113 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 3 |
 | **#CobaltStrike** | 0 | 90 | 90 | 6345 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 121 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 16 |
-| **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 11 |
-| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
-| **#5** | [tegesoku](https://twitter.com/tegesoku) | 3 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 48 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 16 |
+| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 11 |
+| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 
 </div>
 
