@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 07:15:42 (UTC)</th>
+        <th colspan=4>2024-12-24 07:39:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 110 | 688 | 688 | 28329 |
+| **:link: URLs** | 113 | 691 | 691 | 28332 |
 | **:globe_with_meridians: Domains** | 74 | 512 | 512 | 18266 |
 | **:triangular_flag_on_post: IPs** | 31 | 136 | 136 | 11608 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 121 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 48 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 51 |
 | **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 16 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 11 |
 | **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
