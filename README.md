@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2024-12-24 18:34:28 (UTC)</th>
+        <th colspan=4>2024-12-24 18:56:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 178 | 756 | 756 | 28397 |
-| **:globe_with_meridians: Domains** | 130 | 568 | 568 | 18322 |
-| **:triangular_flag_on_post: IPs** | 38 | 143 | 143 | 11615 |
+| **:link: URLs** | 182 | 760 | 760 | 28401 |
+| **:globe_with_meridians: Domains** | 133 | 571 | 571 | 18325 |
+| **:triangular_flag_on_post: IPs** | 39 | 144 | 144 | 11616 |
 | **:1234: SHA256** | 0 | 3 | 3 | 4263 |
 | **:1234: MD5** | 1 | 14 | 14 | 962 |
 
@@ -125,7 +125,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 275 | 1105 | 1105 | 35233 |
 | **#scam** | 12 | 70 | 70 | 872 |
-| **#opendir** | 1 | 17 | 17 | 352 |
+| **#opendir** | 3 | 19 | 19 | 354 |
 | **#malware** | 29 | 215 | 215 | 2736 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 2 | 2 | 156 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [tegesoku](https://twitter.com/tegesoku) | 3 |
-| **#10** | [suyog41](https://twitter.com/suyog41) | 3 |
+| **#9** | [ViriBack](https://twitter.com/ViriBack) | 5 |
+| **#10** | [tegesoku](https://twitter.com/tegesoku) | 3 |
 
 </div>
 
