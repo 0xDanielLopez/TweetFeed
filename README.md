@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-01-04 01:55:32 (UTC)</th>
+        <th colspan=4>2025-01-04 02:18:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 1662 | 3654 | 31295 |
-| **:globe_with_meridians: Domains** | 8 | 1297 | 2703 | 20457 |
-| **:triangular_flag_on_post: IPs** | 0 | 387 | 896 | 12368 |
+| **:link: URLs** | 10 | 1664 | 3656 | 31297 |
+| **:globe_with_meridians: Domains** | 9 | 1298 | 2704 | 20458 |
+| **:triangular_flag_on_post: IPs** | 1 | 388 | 897 | 12369 |
 | **:1234: SHA256** | 0 | 8 | 14 | 4274 |
 | **:1234: MD5** | 0 | 43 | 77 | 1025 |
 
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 8 | 249 |
 | **#log4j** | 0 | 0 | 0 | 0 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 19 | 69 | 1465 |
+| **#Njrat** | 4 | 23 | 73 | 1469 |
 | **#Qakbot** | 0 | 17 | 38 | 1145 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 6 | 235 |
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 8 |
 | **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 6 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
