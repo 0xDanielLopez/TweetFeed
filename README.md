@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-01 06:16:57 (UTC)</th>
+        <th colspan=4>2025-02-01 06:36:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 146 | 2344 | 10248 | 34982 |
-| **:globe_with_meridians: Domains** | 145 | 1828 | 7742 | 23334 |
+| **:link: URLs** | 147 | 2345 | 10249 | 34983 |
+| **:globe_with_meridians: Domains** | 146 | 1829 | 7743 | 23335 |
 | **:triangular_flag_on_post: IPs** | 3 | 472 | 2308 | 12009 |
 | **:1234: SHA256** | 0 | 14 | 82 | 2813 |
 | **:1234: MD5** | 0 | 47 | 244 | 1062 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 290 | 3463 | 14768 | 43254 |
+| **#phishing** | 292 | 3465 | 14770 | 43256 |
 | **#scam** | 44 | 468 | 1857 | 2814 |
 | **#opendir** | 0 | 5 | 103 | 480 |
 | **#malware** | 98 | 1176 | 4778 | 7583 |
