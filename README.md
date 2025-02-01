@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-01 09:17:15 (UTC)</th>
+        <th colspan=4>2025-02-01 09:34:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 193 | 2391 | 10295 | 35029 |
+| **:link: URLs** | 194 | 2392 | 10296 | 35030 |
 | **:globe_with_meridians: Domains** | 160 | 1843 | 7757 | 23349 |
-| **:triangular_flag_on_post: IPs** | 28 | 497 | 2333 | 12034 |
+| **:triangular_flag_on_post: IPs** | 29 | 498 | 2334 | 12035 |
 | **:1234: SHA256** | 0 | 14 | 82 | 2813 |
 | **:1234: MD5** | 0 | 47 | 244 | 1062 |
 
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 130 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 59 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 40 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
