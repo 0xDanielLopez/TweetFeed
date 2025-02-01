@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-01 11:46:54 (UTC)</th>
+        <th colspan=4>2025-02-01 12:05:14 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 227 | 2425 | 10329 | 35063 |
-| **:globe_with_meridians: Domains** | 186 | 1869 | 7783 | 23375 |
+| **:link: URLs** | 240 | 2438 | 10342 | 35076 |
+| **:globe_with_meridians: Domains** | 198 | 1881 | 7795 | 23387 |
 | **:triangular_flag_on_post: IPs** | 34 | 503 | 2339 | 12040 |
 | **:1234: SHA256** | 0 | 14 | 82 | 2813 |
 | **:1234: MD5** | 0 | 47 | 244 | 1062 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 370 | 3543 | 14848 | 43334 |
+| **#phishing** | 392 | 3565 | 14870 | 43356 |
 | **#scam** | 52 | 476 | 1865 | 2822 |
 | **#opendir** | 0 | 5 | 103 | 480 |
-| **#malware** | 104 | 1182 | 4784 | 7589 |
+| **#malware** | 112 | 1190 | 4792 | 7597 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 30 | 53 | 186 |
 | **#banker** | 0 | 0 | 0 | 10 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 168 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 152 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 182 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 160 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 69 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 42 |
 | **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [skocherhan](https://twitter.com/skocherhan) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [skocherhan](https://twitter.com/skocherhan) | 2 |
 
 </div>
 
