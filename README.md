@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-01 06:36:52 (UTC)</th>
+        <th colspan=4>2025-02-01 06:57:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 147 | 2345 | 10249 | 34983 |
+| **:link: URLs** | 167 | 2365 | 10269 | 35003 |
 | **:globe_with_meridians: Domains** | 146 | 1829 | 7743 | 23335 |
-| **:triangular_flag_on_post: IPs** | 3 | 472 | 2308 | 12009 |
+| **:triangular_flag_on_post: IPs** | 18 | 487 | 2323 | 12024 |
 | **:1234: SHA256** | 0 | 14 | 82 | 2813 |
 | **:1234: MD5** | 0 | 47 | 244 | 1062 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 10 |
 | **#AgentTesla** | 0 | 0 | 2 | 49 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 84 | 424 | 557 |
+| **#AsyncRAT** | 6 | 90 | 430 | 563 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 167 | 1052 | 6740 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 3 | 3 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 21 | 172 | 1362 |
-| **#Qakbot** | 0 | 18 | 107 | 972 |
+| **#Qakbot** | 4 | 22 | 111 | 976 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 6 | 18 | 163 |
 | **#Remcos** | 0 | 44 | 199 | 407 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 142 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 130 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 14 |
-| **#4** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 2 |
-| **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 37 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 14 |
+| **#5** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
