@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 03:46:06 (UTC)</th>
+        <th colspan=4>2025-02-14 04:08:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 61 | 3285 | 12137 | 37338 |
 | **:globe_with_meridians: Domains** | 51 | 2733 | 9441 | 25578 |
 | **:triangular_flag_on_post: IPs** | 7 | 484 | 2406 | 11380 |
-| **:1234: SHA256** | 0 | 59 | 136 | 1961 |
+| **:1234: SHA256** | 3 | 62 | 139 | 1964 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
 </div>
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 87 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 8 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
