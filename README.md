@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 14:25:56 (UTC)</th>
+        <th colspan=4>2025-02-14 14:46:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 187 | 3411 | 12263 | 37464 |
-| **:globe_with_meridians: Domains** | 118 | 2800 | 9508 | 25645 |
+| **:link: URLs** | 206 | 3430 | 12282 | 37483 |
+| **:globe_with_meridians: Domains** | 136 | 2818 | 9526 | 25663 |
 | **:triangular_flag_on_post: IPs** | 72 | 549 | 2471 | 11445 |
 | **:1234: SHA256** | 12 | 71 | 148 | 1973 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 193 | 5013 | 17577 | 46513 |
+| **#phishing** | 230 | 5050 | 17614 | 46550 |
 | **#scam** | 14 | 648 | 2258 | 3706 |
 | **#opendir** | 18 | 55 | 149 | 522 |
-| **#malware** | 6 | 1358 | 5617 | 9749 |
+| **#malware** | 12 | 1364 | 5623 | 9755 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 92 | 214 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -170,11 +170,11 @@ If you like the project, please consider:
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 80 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 62 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 39 |
-| **#5** | [salmanvsf](https://twitter.com/salmanvsf) | 19 |
+| **#5** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 30 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 12 |
+| **#9** | [lontze7](https://twitter.com/lontze7) | 12 |
 | **#10** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 11 |
 
 </div>
