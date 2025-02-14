@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 10:25:06 (UTC)</th>
+        <th colspan=4>2025-02-14 10:42:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 135 | 3359 | 12211 | 37412 |
-| **:globe_with_meridians: Domains** | 83 | 2765 | 9473 | 25610 |
+| **:link: URLs** | 136 | 3360 | 12212 | 37413 |
+| **:globe_with_meridians: Domains** | 84 | 2766 | 9474 | 25611 |
 | **:triangular_flag_on_post: IPs** | 55 | 532 | 2454 | 11428 |
 | **:1234: SHA256** | 6 | 65 | 142 | 1967 |
-| **:1234: MD5** | 1 | 47 | 236 | 1080 |
+| **:1234: MD5** | 5 | 51 | 240 | 1084 |
 
 </div>
 
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
-| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#9** | [suyog41](https://twitter.com/suyog41) | 6 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 
 </div>
 
