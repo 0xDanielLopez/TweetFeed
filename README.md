@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 12:52:10 (UTC)</th>
+        <th colspan=4>2025-02-14 13:10:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 170 | 3394 | 12246 | 37447 |
+| **:link: URLs** | 171 | 3395 | 12247 | 37448 |
 | **:globe_with_meridians: Domains** | 103 | 2785 | 9493 | 25630 |
-| **:triangular_flag_on_post: IPs** | 69 | 546 | 2468 | 11442 |
+| **:triangular_flag_on_post: IPs** | 70 | 547 | 2469 | 11443 |
 | **:1234: SHA256** | 12 | 71 | 148 | 1973 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
 
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 95 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 80 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 58 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 60 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 39 |
 | **#5** | [salmanvsf](https://twitter.com/salmanvsf) | 19 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
