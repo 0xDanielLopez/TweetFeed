@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 03:27:44 (UTC)</th>
+        <th colspan=4>2025-02-14 03:46:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 60 | 3284 | 12136 | 37337 |
-| **:globe_with_meridians: Domains** | 50 | 2732 | 9440 | 25577 |
+| **:link: URLs** | 61 | 3285 | 12137 | 37338 |
+| **:globe_with_meridians: Domains** | 51 | 2733 | 9441 | 25578 |
 | **:triangular_flag_on_post: IPs** | 7 | 484 | 2406 | 11380 |
 | **:1234: SHA256** | 0 | 59 | 136 | 1961 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
@@ -125,14 +125,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 107 | 4927 | 17491 | 46427 |
 | **#scam** | 2 | 636 | 2246 | 3694 |
-| **#opendir** | 0 | 37 | 131 | 504 |
+| **#opendir** | 2 | 39 | 133 | 506 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 92 | 214 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 2 | 42 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 80 | 460 | 728 |
+| **#AsyncRAT** | 2 | 82 | 462 | 730 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 2 | 247 | 1042 | 6612 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 87 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 14 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 6 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 8 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
