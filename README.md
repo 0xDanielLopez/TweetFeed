@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 17:35:59 (UTC)</th>
+        <th colspan=4>2025-02-14 17:53:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 273 | 3497 | 12349 | 37550 |
-| **:globe_with_meridians: Domains** | 202 | 2884 | 9592 | 25729 |
+| **:link: URLs** | 281 | 3505 | 12357 | 37558 |
+| **:globe_with_meridians: Domains** | 210 | 2892 | 9600 | 25737 |
 | **:triangular_flag_on_post: IPs** | 73 | 550 | 2472 | 11446 |
 | **:1234: SHA256** | 12 | 71 | 148 | 1973 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 360 | 5180 | 17744 | 46680 |
-| **#scam** | 32 | 666 | 2276 | 3724 |
+| **#phishing** | 376 | 5196 | 17760 | 46696 |
+| **#scam** | 36 | 670 | 2280 | 3728 |
 | **#opendir** | 18 | 55 | 149 | 522 |
-| **#malware** | 76 | 1428 | 5687 | 9819 |
+| **#malware** | 84 | 1436 | 5695 | 9827 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 92 | 214 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [catnap707](https://twitter.com/catnap707) | 95 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 94 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 94 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 104 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 100 |
+| **#3** | [catnap707](https://twitter.com/catnap707) | 95 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 80 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 62 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
