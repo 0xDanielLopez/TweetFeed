@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 01:55:43 (UTC)</th>
+        <th colspan=4>2025-02-14 02:13:40 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 3242 | 12094 | 37295 |
-| **:globe_with_meridians: Domains** | 16 | 2698 | 9406 | 25543 |
-| **:triangular_flag_on_post: IPs** | 2 | 479 | 2401 | 11375 |
+| **:link: URLs** | 39 | 3263 | 12115 | 37316 |
+| **:globe_with_meridians: Domains** | 35 | 2717 | 9425 | 25562 |
+| **:triangular_flag_on_post: IPs** | 4 | 481 | 2403 | 11377 |
 | **:1234: SHA256** | 0 | 59 | 136 | 1961 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 34 | 4854 | 17418 | 46354 |
+| **#phishing** | 72 | 4892 | 17456 | 46392 |
 | **#scam** | 0 | 634 | 2244 | 3692 |
 | **#opendir** | 0 | 37 | 131 | 504 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 6 | 25 | 242 |
 | **#log4j** | 0 | 0 | 0 | 3 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 39 | 166 | 1259 |
+| **#Njrat** | 4 | 43 | 170 | 1263 |
 | **#Qakbot** | 0 | 14 | 94 | 792 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 10 | 139 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [catnap707](https://twitter.com/catnap707) | 30 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 6 |
-| **#3** | [-](https://twitter.com/-) | 0 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#1** | [catnap707](https://twitter.com/catnap707) | 60 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 8 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 6 |
+| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
