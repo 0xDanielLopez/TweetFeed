@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 01:14:02 (UTC)</th>
+        <th colspan=4>2025-02-14 01:38:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 3224 | 12076 | 37277 |
-| **:globe_with_meridians: Domains** | 0 | 2682 | 9390 | 25527 |
-| **:triangular_flag_on_post: IPs** | 0 | 477 | 2399 | 11373 |
+| **:link: URLs** | 17 | 3241 | 12093 | 37294 |
+| **:globe_with_meridians: Domains** | 16 | 2698 | 9406 | 25543 |
+| **:triangular_flag_on_post: IPs** | 1 | 478 | 2400 | 11374 |
 | **:1234: SHA256** | 0 | 59 | 136 | 1961 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 4820 | 17384 | 46320 |
+| **#phishing** | 34 | 4854 | 17418 | 46354 |
 | **#scam** | 0 | 634 | 2244 | 3692 |
 | **#opendir** | 0 | 37 | 131 | 504 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [catnap707](https://twitter.com/catnap707) | 30 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 4 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
