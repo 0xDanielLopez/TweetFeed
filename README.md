@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 05:28:39 (UTC)</th>
+        <th colspan=4>2025-02-14 05:46:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 65 | 3289 | 12141 | 37342 |
+| **:link: URLs** | 66 | 3290 | 12142 | 37343 |
 | **:globe_with_meridians: Domains** | 52 | 2734 | 9442 | 25579 |
-| **:triangular_flag_on_post: IPs** | 9 | 486 | 2408 | 11382 |
+| **:triangular_flag_on_post: IPs** | 10 | 487 | 2409 | 11383 |
 | **:1234: SHA256** | 4 | 63 | 140 | 1965 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 6 | 25 | 242 |
 | **#log4j** | 0 | 0 | 0 | 3 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 4 | 43 | 170 | 1263 |
+| **#Njrat** | 6 | 45 | 172 | 1265 |
 | **#Qakbot** | 0 | 14 | 94 | 792 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 10 | 139 |
@@ -169,7 +169,7 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 87 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 17 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 14 |
-| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
+| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 8 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
