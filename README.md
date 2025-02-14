@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 18:54:00 (UTC)</th>
+        <th colspan=4>2025-02-14 19:11:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 306 | 3530 | 12382 | 37583 |
-| **:globe_with_meridians: Domains** | 234 | 2916 | 9624 | 25761 |
-| **:triangular_flag_on_post: IPs** | 74 | 551 | 2473 | 11447 |
+| **:link: URLs** | 336 | 3560 | 12412 | 37613 |
+| **:globe_with_meridians: Domains** | 244 | 2926 | 9634 | 25771 |
+| **:triangular_flag_on_post: IPs** | 93 | 570 | 2492 | 11466 |
 | **:1234: SHA256** | 13 | 72 | 149 | 1974 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
 
@@ -123,16 +123,16 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 424 | 5244 | 17808 | 46744 |
-| **#scam** | 40 | 674 | 2284 | 3732 |
+| **#phishing** | 444 | 5264 | 17828 | 46764 |
+| **#scam** | 48 | 682 | 2292 | 3740 |
 | **#opendir** | 18 | 55 | 149 | 522 |
-| **#malware** | 98 | 1450 | 5709 | 9841 |
+| **#malware** | 104 | 1456 | 5715 | 9847 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 92 | 214 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 2 | 42 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 9 | 89 | 469 | 737 |
+| **#AsyncRAT** | 13 | 93 | 473 | 741 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 20 | 265 | 1060 | 6630 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 3 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 6 | 45 | 172 | 1265 |
-| **#Qakbot** | 2 | 16 | 96 | 794 |
+| **#Qakbot** | 10 | 24 | 104 | 802 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 10 | 139 |
 | **#Remcos** | 4 | 47 | 231 | 450 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 136 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 116 |
-| **#3** | [catnap707](https://twitter.com/catnap707) | 95 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 80 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 146 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 124 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 119 |
+| **#4** | [catnap707](https://twitter.com/catnap707) | 95 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 62 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
