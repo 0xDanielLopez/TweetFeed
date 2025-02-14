@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 10:42:20 (UTC)</th>
+        <th colspan=4>2025-02-14 11:00:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 136 | 3360 | 12212 | 37413 |
-| **:globe_with_meridians: Domains** | 84 | 2766 | 9474 | 25611 |
-| **:triangular_flag_on_post: IPs** | 55 | 532 | 2454 | 11428 |
+| **:link: URLs** | 143 | 3367 | 12219 | 37420 |
+| **:globe_with_meridians: Domains** | 90 | 2772 | 9480 | 25617 |
+| **:triangular_flag_on_post: IPs** | 56 | 533 | 2455 | 11429 |
 | **:1234: SHA256** | 6 | 65 | 142 | 1967 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
 
@@ -125,7 +125,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 158 | 4978 | 17542 | 46478 |
 | **#scam** | 4 | 638 | 2248 | 3696 |
-| **#opendir** | 2 | 39 | 133 | 506 |
+| **#opendir** | 4 | 41 | 135 | 508 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 92 | 214 |
@@ -169,13 +169,13 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 95 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 64 |
 | **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 39 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 28 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 30 |
 | **#5** | [salmanvsf](https://twitter.com/salmanvsf) | 19 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [suyog41](https://twitter.com/suyog41) | 6 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 8 |
+| **#10** | [suyog41](https://twitter.com/suyog41) | 6 |
 
 </div>
 
