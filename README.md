@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 08:53:31 (UTC)</th>
+        <th colspan=4>2025-02-14 09:11:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 116 | 3340 | 12192 | 37393 |
-| **:globe_with_meridians: Domains** | 68 | 2750 | 9458 | 25595 |
-| **:triangular_flag_on_post: IPs** | 42 | 519 | 2441 | 11415 |
+| **:link: URLs** | 118 | 3342 | 12194 | 37395 |
+| **:globe_with_meridians: Domains** | 70 | 2752 | 9460 | 25597 |
+| **:triangular_flag_on_post: IPs** | 53 | 530 | 2452 | 11426 |
 | **:1234: SHA256** | 5 | 64 | 141 | 1966 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 146 | 4966 | 17530 | 46466 |
+| **#phishing** | 150 | 4970 | 17534 | 46470 |
 | **#scam** | 4 | 638 | 2248 | 3696 |
 | **#opendir** | 2 | 39 | 133 | 506 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
@@ -169,12 +169,12 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 95 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 62 |
 | **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 39 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 16 |
-| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 8 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 20 |
+| **#5** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 11 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
