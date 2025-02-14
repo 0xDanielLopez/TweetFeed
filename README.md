@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 01:38:18 (UTC)</th>
+        <th colspan=4>2025-02-14 01:55:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 17 | 3241 | 12093 | 37294 |
+| **:link: URLs** | 18 | 3242 | 12094 | 37295 |
 | **:globe_with_meridians: Domains** | 16 | 2698 | 9406 | 25543 |
-| **:triangular_flag_on_post: IPs** | 1 | 478 | 2400 | 11374 |
+| **:triangular_flag_on_post: IPs** | 2 | 479 | 2401 | 11375 |
 | **:1234: SHA256** | 0 | 59 | 136 | 1961 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 30 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 4 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 6 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
