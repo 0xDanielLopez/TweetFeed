@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 05:10:21 (UTC)</th>
+        <th colspan=4>2025-02-14 05:28:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 64 | 3288 | 12140 | 37341 |
+| **:link: URLs** | 65 | 3289 | 12141 | 37342 |
 | **:globe_with_meridians: Domains** | 52 | 2734 | 9442 | 25579 |
-| **:triangular_flag_on_post: IPs** | 8 | 485 | 2407 | 11381 |
-| **:1234: SHA256** | 3 | 62 | 139 | 1964 |
+| **:triangular_flag_on_post: IPs** | 9 | 486 | 2408 | 11382 |
+| **:1234: SHA256** | 4 | 63 | 140 | 1965 |
 | **:1234: MD5** | 0 | 46 | 235 | 1079 |
 
 </div>
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 87 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 17 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 11 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 14 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
