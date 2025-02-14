@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 11:21:00 (UTC)</th>
+        <th colspan=4>2025-02-14 11:42:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 153 | 3377 | 12229 | 37430 |
-| **:globe_with_meridians: Domains** | 91 | 2773 | 9481 | 25618 |
-| **:triangular_flag_on_post: IPs** | 64 | 541 | 2463 | 11437 |
-| **:1234: SHA256** | 8 | 67 | 144 | 1969 |
+| **:link: URLs** | 157 | 3381 | 12233 | 37434 |
+| **:globe_with_meridians: Domains** | 92 | 2774 | 9482 | 25619 |
+| **:triangular_flag_on_post: IPs** | 67 | 544 | 2466 | 11440 |
+| **:1234: SHA256** | 9 | 68 | 145 | 1970 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
 
 </div>
@@ -123,19 +123,19 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 158 | 4978 | 17542 | 46478 |
-| **#scam** | 4 | 638 | 2248 | 3696 |
-| **#opendir** | 10 | 47 | 141 | 514 |
+| **#phishing** | 160 | 4980 | 17544 | 46480 |
+| **#scam** | 6 | 640 | 2250 | 3698 |
+| **#opendir** | 13 | 50 | 144 | 517 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 92 | 214 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 2 | 42 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 6 | 86 | 466 | 734 |
+| **#AsyncRAT** | 9 | 89 | 469 | 737 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 18 | 263 | 1058 | 6628 |
+| **#CobaltStrike** | 20 | 265 | 1060 | 6630 |
 | **#Dcrat** | 4 | 4 | 42 | 455 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 7 |
@@ -167,9 +167,9 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 95 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 78 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 80 |
 | **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 39 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 34 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 37 |
 | **#5** | [salmanvsf](https://twitter.com/salmanvsf) | 19 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
