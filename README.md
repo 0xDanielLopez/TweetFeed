@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-14 13:27:00 (UTC)</th>
+        <th colspan=4>2025-02-14 13:44:50 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 171 | 3395 | 12247 | 37448 |
-| **:globe_with_meridians: Domains** | 103 | 2785 | 9493 | 25630 |
-| **:triangular_flag_on_post: IPs** | 70 | 547 | 2469 | 11443 |
+| **:link: URLs** | 176 | 3400 | 12252 | 37453 |
+| **:globe_with_meridians: Domains** | 108 | 2790 | 9498 | 25635 |
+| **:triangular_flag_on_post: IPs** | 71 | 548 | 2470 | 11444 |
 | **:1234: SHA256** | 12 | 71 | 148 | 1973 |
 | **:1234: MD5** | 5 | 51 | 240 | 1084 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 162 | 4982 | 17546 | 46482 |
-| **#scam** | 6 | 640 | 2250 | 3698 |
+| **#phishing** | 173 | 4993 | 17557 | 46493 |
+| **#scam** | 12 | 646 | 2256 | 3704 |
 | **#opendir** | 16 | 53 | 147 | 520 |
 | **#malware** | 0 | 1352 | 5611 | 9743 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 8 |
-| **#10** | [suyog41](https://twitter.com/suyog41) | 6 |
+| **#10** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 8 |
 
 </div>
 
