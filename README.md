@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-15 06:05:42 (UTC)</th>
+        <th colspan=4>2025-02-15 06:22:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 338 | 3482 | 12496 | 37715 |
-| **:globe_with_meridians: Domains** | 329 | 2885 | 9822 | 25903 |
+| **:link: URLs** | 349 | 3493 | 12507 | 37726 |
+| **:globe_with_meridians: Domains** | 340 | 2896 | 9833 | 25914 |
 | **:triangular_flag_on_post: IPs** | 9 | 539 | 2419 | 11364 |
 | **:1234: SHA256** | 1 | 70 | 150 | 1806 |
 | **:1234: MD5** | 2 | 44 | 234 | 1072 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 661 | 5281 | 18267 | 46906 |
-| **#scam** | 90 | 704 | 2382 | 3884 |
+| **#phishing** | 683 | 5303 | 18289 | 46928 |
+| **#scam** | 92 | 706 | 2384 | 3886 |
 | **#opendir** | 0 | 47 | 155 | 524 |
-| **#malware** | 317 | 1544 | 5979 | 10279 |
+| **#malware** | 325 | 1552 | 5987 | 10287 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 1 | 15 | 93 | 213 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 368 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 268 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 382 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 274 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 17 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 11 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 7 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
+| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 
 </div>
 
