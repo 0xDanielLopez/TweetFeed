@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-15 05:11:59 (UTC)</th>
+        <th colspan=4>2025-02-15 05:30:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 289 | 3433 | 12447 | 37666 |
-| **:globe_with_meridians: Domains** | 282 | 2838 | 9775 | 25856 |
-| **:triangular_flag_on_post: IPs** | 7 | 537 | 2417 | 11362 |
+| **:link: URLs** | 314 | 3458 | 12472 | 37691 |
+| **:globe_with_meridians: Domains** | 305 | 2861 | 9798 | 25879 |
+| **:triangular_flag_on_post: IPs** | 9 | 539 | 2419 | 11364 |
 | **:1234: SHA256** | 1 | 70 | 150 | 1806 |
 | **:1234: MD5** | 0 | 42 | 232 | 1070 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 563 | 5183 | 18169 | 46808 |
-| **#scam** | 82 | 696 | 2374 | 3876 |
+| **#phishing** | 613 | 5233 | 18219 | 46858 |
+| **#scam** | 84 | 698 | 2376 | 3878 |
 | **#opendir** | 0 | 47 | 155 | 524 |
-| **#malware** | 274 | 1501 | 5936 | 10236 |
+| **#malware** | 294 | 1521 | 5956 | 10256 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 14 | 92 | 212 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 314 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 232 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 11 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 9 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 340 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 248 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 17 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 11 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 7 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
