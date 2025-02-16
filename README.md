@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-16 09:10:52 (UTC)</th>
+        <th colspan=4>2025-02-16 09:27:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 220 | 3490 | 12588 | 37967 |
-| **:globe_with_meridians: Domains** | 150 | 2848 | 9912 | 26072 |
-| **:triangular_flag_on_post: IPs** | 73 | 594 | 2432 | 11408 |
+| **:link: URLs** | 222 | 3492 | 12590 | 37969 |
+| **:globe_with_meridians: Domains** | 151 | 2849 | 9913 | 26073 |
+| **:triangular_flag_on_post: IPs** | 74 | 595 | 2433 | 11409 |
 | **:1234: SHA256** | 0 | 80 | 157 | 1723 |
 | **:1234: MD5** | 1 | 44 | 214 | 1071 |
 
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 134 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 101 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 70 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 74 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 61 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 47 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
