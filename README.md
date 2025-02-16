@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-16 11:10:35 (UTC)</th>
+        <th colspan=4>2025-02-16 11:27:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 226 | 3496 | 12594 | 37973 |
-| **:globe_with_meridians: Domains** | 155 | 2853 | 9917 | 26077 |
-| **:triangular_flag_on_post: IPs** | 74 | 595 | 2433 | 11409 |
+| **:link: URLs** | 234 | 3504 | 12602 | 37981 |
+| **:globe_with_meridians: Domains** | 156 | 2854 | 9918 | 26078 |
+| **:triangular_flag_on_post: IPs** | 81 | 602 | 2440 | 11416 |
 | **:1234: SHA256** | 0 | 80 | 157 | 1723 |
 | **:1234: MD5** | 1 | 44 | 214 | 1071 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 9 | 83 | 433 | 750 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 248 | 1011 | 6659 |
+| **#CobaltStrike** | 16 | 264 | 1027 | 6675 |
 | **#Dcrat** | 0 | 4 | 40 | 442 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 7 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 134 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 101 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 78 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 61 |
-| **#5** | [drb_ra](https://twitter.com/drb_ra) | 47 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 63 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 61 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
