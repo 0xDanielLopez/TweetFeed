@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-16 16:58:58 (UTC)</th>
+        <th colspan=4>2025-02-16 17:16:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 314 | 3584 | 12682 | 38061 |
-| **:globe_with_meridians: Domains** | 231 | 2929 | 9993 | 26153 |
+| **:link: URLs** | 323 | 3593 | 12691 | 38070 |
+| **:globe_with_meridians: Domains** | 240 | 2938 | 10002 | 26162 |
 | **:triangular_flag_on_post: IPs** | 84 | 605 | 2443 | 11419 |
 | **:1234: SHA256** | 0 | 80 | 157 | 1723 |
 | **:1234: MD5** | 3 | 46 | 216 | 1073 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 464 | 5437 | 18537 | 47254 |
-| **#scam** | 32 | 695 | 2384 | 3947 |
+| **#phishing** | 482 | 5455 | 18555 | 47272 |
+| **#scam** | 34 | 697 | 2386 | 3949 |
 | **#opendir** | 6 | 56 | 165 | 540 |
-| **#malware** | 37 | 1496 | 5880 | 10350 |
+| **#malware** | 43 | 1502 | 5886 | 10356 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 93 | 202 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 134 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 101 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 78 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 69 |
-| **#5** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 68 |
+| **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
+| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 70 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
