@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-16 15:59:40 (UTC)</th>
+        <th colspan=4>2025-02-16 16:16:58 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 286 | 3556 | 12654 | 38033 |
-| **:globe_with_meridians: Domains** | 205 | 2903 | 9967 | 26127 |
-| **:triangular_flag_on_post: IPs** | 83 | 604 | 2442 | 11418 |
+| **:link: URLs** | 299 | 3569 | 12667 | 38046 |
+| **:globe_with_meridians: Domains** | 216 | 2914 | 9978 | 26138 |
+| **:triangular_flag_on_post: IPs** | 84 | 605 | 2443 | 11419 |
 | **:1234: SHA256** | 0 | 80 | 157 | 1723 |
 | **:1234: MD5** | 3 | 46 | 216 | 1073 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 420 | 5393 | 18493 | 47210 |
-| **#scam** | 24 | 687 | 2376 | 3939 |
+| **#phishing** | 434 | 5407 | 18507 | 47224 |
+| **#scam** | 26 | 689 | 2378 | 3941 |
 | **#opendir** | 6 | 56 | 165 | 540 |
-| **#malware** | 27 | 1486 | 5870 | 10340 |
+| **#malware** | 29 | 1488 | 5872 | 10342 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 93 | 202 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 6 | 25 | 240 |
 | **#log4j** | 0 | 0 | 0 | 3 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 2 | 42 | 167 | 1259 |
+| **#Njrat** | 8 | 48 | 173 | 1265 |
 | **#Qakbot** | 0 | 20 | 98 | 778 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 10 | 139 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#10** | [salmanvsf](https://twitter.com/salmanvsf) | 7 |
+| **#10** | [SarlackLab](https://twitter.com/SarlackLab) | 8 |
 
 </div>
 
