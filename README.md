@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-16 17:33:28 (UTC)</th>
+        <th colspan=4>2025-02-16 17:50:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 331 | 3601 | 12699 | 38078 |
-| **:globe_with_meridians: Domains** | 248 | 2946 | 10010 | 26170 |
+| **:link: URLs** | 345 | 3615 | 12713 | 38092 |
+| **:globe_with_meridians: Domains** | 262 | 2960 | 10024 | 26184 |
 | **:triangular_flag_on_post: IPs** | 85 | 606 | 2444 | 11420 |
 | **:1234: SHA256** | 0 | 80 | 157 | 1723 |
 | **:1234: MD5** | 3 | 46 | 216 | 1073 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 498 | 5471 | 18571 | 47288 |
-| **#scam** | 40 | 703 | 2392 | 3955 |
+| **#phishing** | 526 | 5499 | 18599 | 47316 |
+| **#scam** | 42 | 705 | 2394 | 3957 |
 | **#opendir** | 6 | 56 | 165 | 540 |
-| **#malware** | 43 | 1502 | 5886 | 10356 |
+| **#malware** | 47 | 1506 | 5890 | 10360 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 16 | 93 | 202 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 134 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 101 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 82 |
-| **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 82 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 96 |
+| **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 96 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 78 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
