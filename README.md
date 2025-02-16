@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-16 07:00:26 (UTC)</th>
+        <th colspan=4>2025-02-16 07:19:51 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 146 | 3416 | 12514 | 37893 |
-| **:globe_with_meridians: Domains** | 101 | 2799 | 9863 | 26023 |
-| **:triangular_flag_on_post: IPs** | 53 | 574 | 2412 | 11388 |
+| **:link: URLs** | 166 | 3436 | 12534 | 37913 |
+| **:globe_with_meridians: Domains** | 102 | 2800 | 9864 | 26024 |
+| **:triangular_flag_on_post: IPs** | 66 | 587 | 2425 | 11401 |
 | **:1234: SHA256** | 0 | 80 | 157 | 1723 |
 | **:1234: MD5** | 0 | 43 | 213 | 1070 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 239 | 5212 | 18312 | 47029 |
+| **#phishing** | 241 | 5214 | 18314 | 47031 |
 | **#scam** | 2 | 665 | 2354 | 3917 |
 | **#opendir** | 6 | 56 | 165 | 540 |
 | **#malware** | 0 | 1459 | 5843 | 10313 |
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 2 | 42 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 74 | 424 | 741 |
+| **#AsyncRAT** | 9 | 83 | 433 | 750 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 248 | 1011 | 6659 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 20 | 98 | 778 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 10 | 139 |
-| **#Remcos** | 0 | 48 | 213 | 464 |
+| **#Remcos** | 2 | 50 | 215 | 466 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 18 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 102 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 98 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 58 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 19 |
-| **#5** | [drb_ra](https://twitter.com/drb_ra) | 15 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 47 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 21 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
