@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 14:51:50 (UTC)</th>
+        <th colspan=4>2025-02-19 15:08:56 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 437 | 3412 | 13059 | 38450 |
-| **:globe_with_meridians: Domains** | 375 | 2741 | 10274 | 26435 |
-| **:triangular_flag_on_post: IPs** | 47 | 640 | 2537 | 11409 |
+| **:link: URLs** | 446 | 3421 | 13068 | 38459 |
+| **:globe_with_meridians: Domains** | 383 | 2749 | 10282 | 26443 |
+| **:triangular_flag_on_post: IPs** | 48 | 641 | 2538 | 11410 |
 | **:1234: SHA256** | 7 | 82 | 183 | 1546 |
-| **:1234: MD5** | 12 | 66 | 251 | 1095 |
+| **:1234: MD5** | 15 | 69 | 254 | 1098 |
 
 </div>
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 701 | 5281 | 19116 | 47584 |
-| **#scam** | 84 | 612 | 2440 | 4166 |
-| **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 172 | 1331 | 5793 | 10725 |
+| **#phishing** | 717 | 5297 | 19132 | 47600 |
+| **#scam** | 88 | 616 | 2444 | 4170 |
+| **#opendir** | 5 | 65 | 178 | 556 |
+| **#malware** | 185 | 1344 | 5806 | 10738 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 1 | 13 | 99 | 213 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -138,7 +138,7 @@ If you like the project, please consider:
 | **#CobaltStrike** | 23 | 240 | 1055 | 6689 |
 | **#Dcrat** | 0 | 4 | 30 | 434 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
-| **#Formbook** | 0 | 1 | 1 | 8 |
+| **#Formbook** | 5 | 6 | 6 | 13 |
 | **#GootLoader** | 0 | 0 | 0 | 5 |
 | **#GuLoader** | 0 | 0 | 2 | 23 |
 | **#IcedID** | 0 | 0 | 0 | 3 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 15 | 93 | 731 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 10 | 125 |
-| **#Remcos** | 0 | 51 | 223 | 490 |
+| **#Remcos** | 5 | 56 | 228 | 495 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 18 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 309 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 290 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 317 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 298 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 81 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 61 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 34 |
