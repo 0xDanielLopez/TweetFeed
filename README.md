@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 17:22:51 (UTC)</th>
+        <th colspan=4>2025-02-19 17:43:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 491 | 3466 | 13113 | 38504 |
-| **:globe_with_meridians: Domains** | 428 | 2794 | 10327 | 26488 |
+| **:link: URLs** | 500 | 3475 | 13122 | 38513 |
+| **:globe_with_meridians: Domains** | 437 | 2803 | 10336 | 26497 |
 | **:triangular_flag_on_post: IPs** | 48 | 641 | 2538 | 11410 |
 | **:1234: SHA256** | 7 | 82 | 183 | 1546 |
 | **:1234: MD5** | 15 | 69 | 254 | 1098 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 807 | 5387 | 19222 | 47690 |
-| **#scam** | 106 | 634 | 2462 | 4188 |
+| **#phishing** | 825 | 5405 | 19240 | 47708 |
+| **#scam** | 110 | 638 | 2466 | 4192 |
 | **#opendir** | 5 | 65 | 178 | 556 |
-| **#malware** | 219 | 1378 | 5840 | 10772 |
+| **#malware** | 225 | 1384 | 5846 | 10778 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 1 | 13 | 99 | 213 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 359 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 344 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 371 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 350 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 81 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 61 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 34 |
