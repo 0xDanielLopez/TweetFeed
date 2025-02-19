@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 02:10:41 (UTC)</th>
+        <th colspan=4>2025-02-19 02:27:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 51 | 3026 | 12673 | 38064 |
-| **:globe_with_meridians: Domains** | 45 | 2411 | 9944 | 26105 |
-| **:triangular_flag_on_post: IPs** | 7 | 600 | 2497 | 11369 |
+| **:link: URLs** | 64 | 3039 | 12686 | 38077 |
+| **:globe_with_meridians: Domains** | 57 | 2423 | 9956 | 26117 |
+| **:triangular_flag_on_post: IPs** | 8 | 601 | 2498 | 11370 |
 | **:1234: SHA256** | 0 | 75 | 176 | 1539 |
 | **:1234: MD5** | 1 | 55 | 240 | 1084 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 70 | 4650 | 18485 | 46953 |
-| **#scam** | 8 | 536 | 2364 | 4090 |
+| **#phishing** | 94 | 4674 | 18509 | 46977 |
+| **#scam** | 10 | 538 | 2366 | 4092 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 18 | 1177 | 5639 | 10571 |
+| **#malware** | 22 | 1181 | 5643 | 10575 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 12 | 98 | 212 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 67 | 411 | 777 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 217 | 1032 | 6666 |
+| **#CobaltStrike** | 2 | 219 | 1034 | 6668 |
 | **#Dcrat** | 0 | 4 | 30 | 434 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 1 | 1 | 8 |
@@ -166,15 +166,15 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 26 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 25 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 24 |
-| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 16 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 32 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 31 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 26 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 26 |
 | **#5** | [ViriBack](https://twitter.com/ViriBack) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
