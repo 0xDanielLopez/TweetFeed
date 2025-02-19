@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 01:36:23 (UTC)</th>
+        <th colspan=4>2025-02-19 01:54:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 25 | 3000 | 12647 | 38038 |
-| **:globe_with_meridians: Domains** | 20 | 2386 | 9919 | 26080 |
-| **:triangular_flag_on_post: IPs** | 3 | 596 | 2493 | 11365 |
+| **:link: URLs** | 38 | 3013 | 12660 | 38051 |
+| **:globe_with_meridians: Domains** | 33 | 2399 | 9932 | 26093 |
+| **:triangular_flag_on_post: IPs** | 4 | 597 | 2494 | 11366 |
 | **:1234: SHA256** | 0 | 75 | 176 | 1539 |
 | **:1234: MD5** | 1 | 55 | 240 | 1084 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 17 | 4597 | 18432 | 46900 |
+| **#phishing** | 44 | 4624 | 18459 | 46927 |
 | **#scam** | 2 | 530 | 2358 | 4084 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 6 | 1165 | 5627 | 10559 |
+| **#malware** | 8 | 1167 | 5629 | 10561 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 12 | 98 | 212 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 26 |
-| **#2** | [ViriBack](https://twitter.com/ViriBack) | 6 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 6 |
-| **#4** | [taku888infinity](https://twitter.com/taku888infinity) | 4 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 4 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 15 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 14 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 10 |
+| **#5** | [ViriBack](https://twitter.com/ViriBack) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
