@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 04:10:19 (UTC)</th>
+        <th colspan=4>2025-02-19 04:27:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 114 | 3089 | 12736 | 38127 |
-| **:globe_with_meridians: Domains** | 105 | 2471 | 10004 | 26165 |
+| **:link: URLs** | 128 | 3103 | 12750 | 38141 |
+| **:globe_with_meridians: Domains** | 118 | 2484 | 10017 | 26178 |
 | **:triangular_flag_on_post: IPs** | 9 | 602 | 2499 | 11371 |
-| **:1234: SHA256** | 0 | 75 | 176 | 1539 |
+| **:1234: SHA256** | 1 | 76 | 177 | 1540 |
 | **:1234: MD5** | 2 | 56 | 241 | 1085 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 182 | 4762 | 18597 | 47065 |
-| **#scam** | 14 | 542 | 2370 | 4096 |
+| **#phishing** | 206 | 4786 | 18621 | 47089 |
+| **#scam** | 16 | 544 | 2372 | 4098 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 40 | 1199 | 5661 | 10593 |
+| **#malware** | 44 | 1203 | 5665 | 10597 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 12 | 98 | 212 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 74 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 66 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 35 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 30 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 82 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 39 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 34 |
 | **#5** | [salmanvsf](https://twitter.com/salmanvsf) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
