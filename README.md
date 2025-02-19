@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 10:28:07 (UTC)</th>
+        <th colspan=4>2025-02-19 10:46:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 278 | 3253 | 12900 | 38291 |
-| **:globe_with_meridians: Domains** | 255 | 2621 | 10154 | 26315 |
+| **:link: URLs** | 291 | 3266 | 12913 | 38304 |
+| **:globe_with_meridians: Domains** | 268 | 2634 | 10167 | 26328 |
 | **:triangular_flag_on_post: IPs** | 19 | 612 | 2509 | 11381 |
-| **:1234: SHA256** | 2 | 77 | 178 | 1541 |
+| **:1234: SHA256** | 3 | 78 | 179 | 1542 |
 | **:1234: MD5** | 10 | 64 | 249 | 1093 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 475 | 5055 | 18890 | 47358 |
-| **#scam** | 52 | 580 | 2408 | 4134 |
+| **#phishing** | 497 | 5077 | 18912 | 47380 |
+| **#scam** | 54 | 582 | 2410 | 4136 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 116 | 1275 | 5737 | 10669 |
+| **#malware** | 118 | 1277 | 5739 | 10671 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 1 | 13 | 99 | 213 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 206 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 199 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 216 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 209 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 57 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 34 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 20 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [taku888infinity](https://twitter.com/taku888infinity) | 4 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#9** | [ViriBack](https://twitter.com/ViriBack) | 6 |
+| **#10** | [taku888infinity](https://twitter.com/taku888infinity) | 4 |
 
 </div>
 
