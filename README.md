@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 01:54:06 (UTC)</th>
+        <th colspan=4>2025-02-19 02:10:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 38 | 3013 | 12660 | 38051 |
-| **:globe_with_meridians: Domains** | 33 | 2399 | 9932 | 26093 |
-| **:triangular_flag_on_post: IPs** | 4 | 597 | 2494 | 11366 |
+| **:link: URLs** | 51 | 3026 | 12673 | 38064 |
+| **:globe_with_meridians: Domains** | 45 | 2411 | 9944 | 26105 |
+| **:triangular_flag_on_post: IPs** | 7 | 600 | 2497 | 11369 |
 | **:1234: SHA256** | 0 | 75 | 176 | 1539 |
 | **:1234: MD5** | 1 | 55 | 240 | 1084 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 44 | 4624 | 18459 | 46927 |
-| **#scam** | 2 | 530 | 2358 | 4084 |
+| **#phishing** | 70 | 4650 | 18485 | 46953 |
+| **#scam** | 8 | 536 | 2364 | 4090 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 8 | 1167 | 5629 | 10561 |
+| **#malware** | 18 | 1177 | 5639 | 10571 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 12 | 98 | 212 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 6 | 31 | 246 |
 | **#log4j** | 0 | 0 | 0 | 3 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 45 | 176 | 1239 |
+| **#Njrat** | 2 | 47 | 178 | 1241 |
 | **#Qakbot** | 0 | 15 | 93 | 731 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 10 | 125 |
@@ -167,9 +167,9 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 26 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 15 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 14 |
-| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 10 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 25 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 24 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 16 |
 | **#5** | [ViriBack](https://twitter.com/ViriBack) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
