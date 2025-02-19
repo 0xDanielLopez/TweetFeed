@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 13:38:23 (UTC)</th>
+        <th colspan=4>2025-02-19 13:58:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 365 | 3340 | 12987 | 38378 |
-| **:globe_with_meridians: Domains** | 339 | 2705 | 10238 | 26399 |
-| **:triangular_flag_on_post: IPs** | 20 | 613 | 2510 | 11382 |
-| **:1234: SHA256** | 4 | 79 | 180 | 1543 |
+| **:link: URLs** | 377 | 3352 | 12999 | 38390 |
+| **:globe_with_meridians: Domains** | 349 | 2715 | 10248 | 26409 |
+| **:triangular_flag_on_post: IPs** | 22 | 615 | 2512 | 11384 |
+| **:1234: SHA256** | 5 | 80 | 181 | 1544 |
 | **:1234: MD5** | 12 | 66 | 251 | 1095 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 639 | 5219 | 19054 | 47522 |
-| **#scam** | 76 | 604 | 2432 | 4158 |
+| **#phishing** | 659 | 5239 | 19074 | 47542 |
+| **#scam** | 80 | 608 | 2436 | 4162 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 150 | 1309 | 5771 | 10703 |
+| **#malware** | 158 | 1317 | 5779 | 10711 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 1 | 13 | 99 | 213 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 277 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 264 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 287 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 274 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 59 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 34 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 20 |
