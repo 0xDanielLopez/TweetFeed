@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 00:21:09 (UTC)</th>
+        <th colspan=4>2025-02-19 00:38:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 2978 | 12625 | 38016 |
-| **:globe_with_meridians: Domains** | 0 | 2366 | 9899 | 26060 |
+| **:link: URLs** | 16 | 2991 | 12638 | 38029 |
+| **:globe_with_meridians: Domains** | 13 | 2379 | 9912 | 26073 |
 | **:triangular_flag_on_post: IPs** | 2 | 595 | 2492 | 11364 |
 | **:1234: SHA256** | 0 | 75 | 176 | 1539 |
 | **:1234: MD5** | 1 | 55 | 240 | 1084 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ViriBack](https://twitter.com/ViriBack) | 6 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 26 |
+| **#2** | [ViriBack](https://twitter.com/ViriBack) | 6 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
