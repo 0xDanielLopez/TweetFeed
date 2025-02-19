@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 03:20:58 (UTC)</th>
+        <th colspan=4>2025-02-19 03:37:51 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 86 | 3061 | 12708 | 38099 |
-| **:globe_with_meridians: Domains** | 78 | 2444 | 9977 | 26138 |
-| **:triangular_flag_on_post: IPs** | 8 | 601 | 2498 | 11370 |
+| **:link: URLs** | 99 | 3074 | 12721 | 38112 |
+| **:globe_with_meridians: Domains** | 90 | 2456 | 9989 | 26150 |
+| **:triangular_flag_on_post: IPs** | 9 | 602 | 2499 | 11371 |
 | **:1234: SHA256** | 0 | 75 | 176 | 1539 |
 | **:1234: MD5** | 2 | 56 | 241 | 1085 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 130 | 4710 | 18545 | 47013 |
-| **#scam** | 10 | 538 | 2366 | 4092 |
+| **#phishing** | 152 | 4732 | 18567 | 47035 |
+| **#scam** | 12 | 540 | 2368 | 4094 |
 | **#opendir** | 0 | 60 | 173 | 551 |
 | **#malware** | 32 | 1191 | 5653 | 10585 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 48 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 46 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 31 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 26 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 56 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 56 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 33 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 30 |
 | **#5** | [salmanvsf](https://twitter.com/salmanvsf) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [drb_ra](https://twitter.com/drb_ra) | 2 |
-| **#10** | [masaomi346](https://twitter.com/masaomi346) | 1 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 
 </div>
 
