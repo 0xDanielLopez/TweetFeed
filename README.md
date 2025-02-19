@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-19 00:04:16 (UTC)</th>
+        <th colspan=4>2025-02-19 00:21:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 2975 | 12622 | 38013 |
+| **:link: URLs** | 3 | 2978 | 12625 | 38016 |
 | **:globe_with_meridians: Domains** | 0 | 2366 | 9899 | 26060 |
-| **:triangular_flag_on_post: IPs** | 0 | 593 | 2490 | 11362 |
+| **:triangular_flag_on_post: IPs** | 2 | 595 | 2492 | 11364 |
 | **:1234: SHA256** | 0 | 75 | 176 | 1539 |
-| **:1234: MD5** | 0 | 54 | 239 | 1083 |
+| **:1234: MD5** | 1 | 55 | 240 | 1084 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 0 | 4580 | 18415 | 46883 |
 | **#scam** | 0 | 528 | 2356 | 4082 |
 | **#opendir** | 0 | 60 | 173 | 551 |
-| **#malware** | 0 | 1159 | 5621 | 10553 |
+| **#malware** | 6 | 1165 | 5627 | 10559 |
 | **#maldoc** | 0 | 0 | 0 | 6 |
 | **#ransomware** | 0 | 12 | 98 | 212 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [ViriBack](https://twitter.com/ViriBack) | 6 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
