@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 09:34:38 (UTC)</th>
+        <th colspan=4>2025-02-25 09:51:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 147 | 2897 | 13584 | 39367 |
-| **:globe_with_meridians: Domains** | 113 | 2323 | 10888 | 27291 |
-| **:triangular_flag_on_post: IPs** | 37 | 531 | 2492 | 11319 |
+| **:link: URLs** | 149 | 2899 | 13586 | 39369 |
+| **:globe_with_meridians: Domains** | 114 | 2324 | 10889 | 27292 |
+| **:triangular_flag_on_post: IPs** | 38 | 532 | 2493 | 11320 |
 | **:1234: SHA256** | 2 | 54 | 214 | 1526 |
 | **:1234: MD5** | 5 | 61 | 254 | 1112 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 234 | 4449 | 20515 | 49275 |
+| **#phishing** | 236 | 4451 | 20517 | 49277 |
 | **#scam** | 28 | 557 | 2634 | 4472 |
 | **#opendir** | 0 | 36 | 177 | 581 |
 | **#malware** | 51 | 1284 | 6111 | 11567 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 9 | 108 | 414 | 885 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 225 | 1009 | 6599 |
+| **#CobaltStrike** | 2 | 227 | 1011 | 6601 |
 | **#Dcrat** | 0 | 8 | 32 | 429 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 9 | 10 | 16 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 52 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
