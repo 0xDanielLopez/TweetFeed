@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 07:29:10 (UTC)</th>
+        <th colspan=4>2025-02-25 07:47:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 110 | 2860 | 13547 | 39330 |
-| **:globe_with_meridians: Domains** | 78 | 2288 | 10853 | 27256 |
+| **:link: URLs** | 111 | 2861 | 13548 | 39331 |
+| **:globe_with_meridians: Domains** | 79 | 2289 | 10854 | 27257 |
 | **:triangular_flag_on_post: IPs** | 36 | 530 | 2491 | 11318 |
 | **:1234: SHA256** | 0 | 52 | 212 | 1524 |
 | **:1234: MD5** | 3 | 59 | 252 | 1110 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 172 | 4387 | 20453 | 49213 |
+| **#phishing** | 174 | 4389 | 20455 | 49215 |
 | **#scam** | 16 | 545 | 2622 | 4460 |
 | **#opendir** | 0 | 36 | 177 | 581 |
 | **#malware** | 31 | 1264 | 6091 | 11547 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [ReBensk](https://twitter.com/ReBensk) | 3 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 
 </div>
 
