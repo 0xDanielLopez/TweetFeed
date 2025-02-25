@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 14:05:24 (UTC)</th>
+        <th colspan=4>2025-02-25 14:21:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 166 | 2916 | 13603 | 39386 |
-| **:globe_with_meridians: Domains** | 120 | 2330 | 10895 | 27298 |
-| **:triangular_flag_on_post: IPs** | 52 | 546 | 2507 | 11334 |
+| **:link: URLs** | 173 | 2923 | 13610 | 39393 |
+| **:globe_with_meridians: Domains** | 125 | 2335 | 10900 | 27303 |
+| **:triangular_flag_on_post: IPs** | 54 | 548 | 2509 | 11336 |
 | **:1234: SHA256** | 5 | 57 | 217 | 1529 |
 | **:1234: MD5** | 10 | 66 | 259 | 1117 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 245 | 4460 | 20526 | 49286 |
-| **#scam** | 30 | 559 | 2636 | 4474 |
+| **#phishing** | 255 | 4470 | 20536 | 49296 |
+| **#scam** | 32 | 561 | 2638 | 4476 |
 | **#opendir** | 0 | 36 | 177 | 581 |
-| **#malware** | 54 | 1287 | 6114 | 11570 |
+| **#malware** | 56 | 1289 | 6116 | 11572 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 0 | 9 | 100 | 217 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -149,7 +149,7 @@ If you like the project, please consider:
 | **#Njrat** | 7 | 23 | 165 | 1140 |
 | **#Qakbot** | 4 | 22 | 85 | 675 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
-| **#RedLine** | 0 | 0 | 10 | 104 |
+| **#RedLine** | 4 | 4 | 14 | 108 |
 | **#Remcos** | 8 | 74 | 257 | 561 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 18 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 67 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 62 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 70 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 67 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 9 |
+| **#9** | [romonlyht](https://twitter.com/romonlyht) | 11 |
 | **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 7 |
 
 </div>
