@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 07:07:29 (UTC)</th>
+        <th colspan=4>2025-02-25 07:29:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 100 | 2850 | 13537 | 39320 |
+| **:link: URLs** | 110 | 2860 | 13547 | 39330 |
 | **:globe_with_meridians: Domains** | 78 | 2288 | 10853 | 27256 |
-| **:triangular_flag_on_post: IPs** | 26 | 520 | 2481 | 11308 |
+| **:triangular_flag_on_post: IPs** | 36 | 530 | 2491 | 11318 |
 | **:1234: SHA256** | 0 | 52 | 212 | 1524 |
 | **:1234: MD5** | 3 | 59 | 252 | 1110 |
 
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 6 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 16 | 158 | 1133 |
-| **#Qakbot** | 2 | 20 | 83 | 673 |
+| **#Qakbot** | 4 | 22 | 85 | 675 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 10 | 104 |
-| **#Remcos** | 0 | 66 | 249 | 553 |
+| **#Remcos** | 8 | 74 | 257 | 561 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 18 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 42 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 40 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 32 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 52 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 42 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 40 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
