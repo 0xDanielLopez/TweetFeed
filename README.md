@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 06:47:58 (UTC)</th>
+        <th colspan=4>2025-02-25 07:07:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 82 | 2832 | 13519 | 39302 |
-| **:globe_with_meridians: Domains** | 77 | 2287 | 10852 | 27255 |
-| **:triangular_flag_on_post: IPs** | 11 | 505 | 2466 | 11293 |
+| **:link: URLs** | 100 | 2850 | 13537 | 39320 |
+| **:globe_with_meridians: Domains** | 78 | 2288 | 10853 | 27256 |
+| **:triangular_flag_on_post: IPs** | 26 | 520 | 2481 | 11308 |
 | **:1234: SHA256** | 0 | 52 | 212 | 1524 |
 | **:1234: MD5** | 3 | 59 | 252 | 1110 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 170 | 4385 | 20451 | 49211 |
+| **#phishing** | 172 | 4387 | 20453 | 49213 |
 | **#scam** | 16 | 545 | 2622 | 4460 |
 | **#opendir** | 0 | 36 | 177 | 581 |
 | **#malware** | 31 | 1264 | 6091 | 11547 |
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 0 | 41 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 99 | 405 | 876 |
+| **#AsyncRAT** | 9 | 108 | 414 | 885 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 225 | 1009 | 6599 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 6 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 16 | 158 | 1133 |
-| **#Qakbot** | 0 | 18 | 81 | 671 |
+| **#Qakbot** | 2 | 20 | 83 | 673 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 10 | 104 |
 | **#Remcos** | 0 | 66 | 249 | 553 |
@@ -168,13 +168,13 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 42 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 40 |
-| **#3** | [catnap707](https://twitter.com/catnap707) | 28 |
-| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 22 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 32 |
+| **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
+| **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 3 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
