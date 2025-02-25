@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 12:49:31 (UTC)</th>
+        <th colspan=4>2025-02-25 13:09:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 160 | 2910 | 13597 | 39380 |
+| **:link: URLs** | 162 | 2912 | 13599 | 39382 |
 | **:globe_with_meridians: Domains** | 117 | 2327 | 10892 | 27295 |
-| **:triangular_flag_on_post: IPs** | 46 | 540 | 2501 | 11328 |
-| **:1234: SHA256** | 3 | 55 | 215 | 1527 |
+| **:triangular_flag_on_post: IPs** | 48 | 542 | 2503 | 11330 |
+| **:1234: SHA256** | 4 | 56 | 216 | 1528 |
 | **:1234: MD5** | 9 | 65 | 258 | 1116 |
 
 </div>
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 2 | 13 | 40 | 257 |
 | **#log4j** | 0 | 6 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 16 | 158 | 1133 |
+| **#Njrat** | 4 | 20 | 162 | 1137 |
 | **#Qakbot** | 4 | 22 | 85 | 675 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 10 | 104 |
