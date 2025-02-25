@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 05:21:38 (UTC)</th>
+        <th colspan=4>2025-02-25 05:39:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 60 | 2810 | 13497 | 39280 |
-| **:globe_with_meridians: Domains** | 59 | 2269 | 10834 | 27237 |
-| **:triangular_flag_on_post: IPs** | 8 | 502 | 2463 | 11290 |
+| **:link: URLs** | 74 | 2824 | 13511 | 39294 |
+| **:globe_with_meridians: Domains** | 69 | 2279 | 10844 | 27247 |
+| **:triangular_flag_on_post: IPs** | 11 | 505 | 2466 | 11293 |
 | **:1234: SHA256** | 0 | 52 | 212 | 1524 |
 | **:1234: MD5** | 2 | 58 | 251 | 1109 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 127 | 4342 | 20408 | 49168 |
+| **#phishing** | 154 | 4369 | 20435 | 49195 |
 | **#scam** | 14 | 543 | 2620 | 4458 |
 | **#opendir** | 0 | 36 | 177 | 581 |
-| **#malware** | 24 | 1257 | 6084 | 11540 |
+| **#malware** | 26 | 1259 | 6086 | 11542 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 0 | 9 | 100 | 217 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 38 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 40 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 30 |
 | **#3** | [catnap707](https://twitter.com/catnap707) | 28 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 20 |
-| **#5** | [romonlyht](https://twitter.com/romonlyht) | 11 |
+| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 22 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
