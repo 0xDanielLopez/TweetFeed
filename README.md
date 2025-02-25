@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 13:30:47 (UTC)</th>
+        <th colspan=4>2025-02-25 13:48:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 164 | 2914 | 13601 | 39384 |
-| **:globe_with_meridians: Domains** | 118 | 2328 | 10893 | 27296 |
-| **:triangular_flag_on_post: IPs** | 48 | 542 | 2503 | 11330 |
-| **:1234: SHA256** | 4 | 56 | 216 | 1528 |
-| **:1234: MD5** | 9 | 65 | 258 | 1116 |
+| **:link: URLs** | 165 | 2915 | 13602 | 39385 |
+| **:globe_with_meridians: Domains** | 119 | 2329 | 10894 | 27297 |
+| **:triangular_flag_on_post: IPs** | 52 | 546 | 2507 | 11334 |
+| **:1234: SHA256** | 5 | 57 | 217 | 1529 |
+| **:1234: MD5** | 10 | 66 | 259 | 1117 |
 
 </div>
 
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 9 |
-| **#10** | [AddressIntel](https://twitter.com/AddressIntel) | 6 |
+| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 7 |
 
 </div>
 
