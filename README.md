@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 02:39:17 (UTC)</th>
+        <th colspan=4>2025-02-25 02:57:40 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 19 | 2229 | 10794 | 27197 |
 | **:triangular_flag_on_post: IPs** | 4 | 498 | 2459 | 11286 |
 | **:1234: SHA256** | 0 | 52 | 212 | 1524 |
-| **:1234: MD5** | 1 | 57 | 250 | 1108 |
+| **:1234: MD5** | 2 | 58 | 251 | 1109 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 42 | 4257 | 20323 | 49083 |
 | **#scam** | 0 | 529 | 2606 | 4444 |
 | **#opendir** | 0 | 36 | 177 | 581 |
-| **#malware** | 1 | 1234 | 6061 | 11517 |
+| **#malware** | 2 | 1235 | 6062 | 11518 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 0 | 9 | 100 | 217 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 24 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 18 |
-| **#3** | [ReBensk](https://twitter.com/ReBensk) | 1 |
+| **#3** | [ReBensk](https://twitter.com/ReBensk) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
