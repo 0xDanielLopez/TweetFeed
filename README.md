@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 08:55:56 (UTC)</th>
+        <th colspan=4>2025-02-25 09:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 143 | 2893 | 13580 | 39363 |
-| **:globe_with_meridians: Domains** | 109 | 2319 | 10884 | 27287 |
+| **:link: URLs** | 145 | 2895 | 13582 | 39365 |
+| **:globe_with_meridians: Domains** | 111 | 2321 | 10886 | 27289 |
 | **:triangular_flag_on_post: IPs** | 37 | 531 | 2492 | 11319 |
 | **:1234: SHA256** | 2 | 54 | 214 | 1526 |
 | **:1234: MD5** | 5 | 61 | 254 | 1112 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 230 | 4445 | 20511 | 49271 |
+| **#phishing** | 232 | 4447 | 20513 | 49273 |
 | **#scam** | 28 | 557 | 2634 | 4472 |
 | **#opendir** | 0 | 36 | 177 | 581 |
 | **#malware** | 51 | 1284 | 6111 | 11567 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 58 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 52 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 6 |
+| **#9** | [AddressIntel](https://twitter.com/AddressIntel) | 6 |
 | **#10** | [ReBensk](https://twitter.com/ReBensk) | 3 |
 
 </div>
