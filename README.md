@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 10:43:10 (UTC)</th>
+        <th colspan=4>2025-02-25 11:03:58 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 149 | 2899 | 13586 | 39369 |
+| **:link: URLs** | 153 | 2903 | 13590 | 39373 |
 | **:globe_with_meridians: Domains** | 114 | 2324 | 10889 | 27292 |
-| **:triangular_flag_on_post: IPs** | 38 | 532 | 2493 | 11320 |
+| **:triangular_flag_on_post: IPs** | 42 | 536 | 2497 | 11324 |
 | **:1234: SHA256** | 2 | 54 | 214 | 1526 |
-| **:1234: MD5** | 5 | 61 | 254 | 1112 |
+| **:1234: MD5** | 6 | 62 | 255 | 1113 |
 
 </div>
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 9 | 108 | 414 | 885 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 2 | 227 | 1011 | 6601 |
+| **#CobaltStrike** | 10 | 235 | 1019 | 6609 |
 | **#Dcrat** | 0 | 8 | 32 | 429 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 9 | 10 | 16 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 62 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [AddressIntel](https://twitter.com/AddressIntel) | 6 |
-| **#10** | [ReBensk](https://twitter.com/ReBensk) | 3 |
+| **#10** | [suyog41](https://twitter.com/suyog41) | 4 |
 
 </div>
 
