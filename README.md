@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 11:57:56 (UTC)</th>
+        <th colspan=4>2025-02-25 12:14:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 155 | 2905 | 13592 | 39375 |
-| **:globe_with_meridians: Domains** | 116 | 2326 | 10891 | 27294 |
-| **:triangular_flag_on_post: IPs** | 42 | 536 | 2497 | 11324 |
+| **:link: URLs** | 160 | 2910 | 13597 | 39380 |
+| **:globe_with_meridians: Domains** | 117 | 2327 | 10892 | 27295 |
+| **:triangular_flag_on_post: IPs** | 46 | 540 | 2501 | 11328 |
 | **:1234: SHA256** | 2 | 54 | 214 | 1526 |
 | **:1234: MD5** | 8 | 64 | 257 | 1115 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 240 | 4455 | 20521 | 49281 |
+| **#phishing** | 243 | 4458 | 20524 | 49284 |
 | **#scam** | 30 | 559 | 2636 | 4474 |
 | **#opendir** | 0 | 36 | 177 | 581 |
 | **#malware** | 51 | 1284 | 6111 | 11567 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 9 | 108 | 414 | 885 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 10 | 235 | 1019 | 6609 |
+| **#CobaltStrike** | 15 | 240 | 1024 | 6614 |
 | **#Dcrat** | 0 | 8 | 32 | 429 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 9 | 10 | 16 |
@@ -143,7 +143,7 @@ If you like the project, please consider:
 | **#GuLoader** | 0 | 0 | 0 | 23 |
 | **#IcedID** | 0 | 0 | 0 | 3 |
 | **#Lazarus** | 0 | 0 | 0 | 32 |
-| **#Lokibot** | 0 | 11 | 38 | 255 |
+| **#Lokibot** | 2 | 13 | 40 | 257 |
 | **#log4j** | 0 | 6 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 16 | 158 | 1133 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 62 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 67 |
 | **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 23 |
