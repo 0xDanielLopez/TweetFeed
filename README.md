@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-25 16:13:45 (UTC)</th>
+        <th colspan=4>2025-02-25 16:30:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 235 | 2985 | 13672 | 39455 |
-| **:globe_with_meridians: Domains** | 184 | 2394 | 10959 | 27362 |
-| **:triangular_flag_on_post: IPs** | 59 | 553 | 2514 | 11341 |
+| **:link: URLs** | 254 | 3004 | 13691 | 39474 |
+| **:globe_with_meridians: Domains** | 199 | 2409 | 10974 | 27377 |
+| **:triangular_flag_on_post: IPs** | 60 | 554 | 2515 | 11342 |
 | **:1234: SHA256** | 5 | 57 | 217 | 1529 |
 | **:1234: MD5** | 11 | 67 | 260 | 1118 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 373 | 4588 | 20654 | 49414 |
-| **#scam** | 56 | 585 | 2662 | 4500 |
+| **#phishing** | 403 | 4618 | 20684 | 49444 |
+| **#scam** | 60 | 589 | 2666 | 4504 |
 | **#opendir** | 3 | 39 | 180 | 584 |
-| **#malware** | 87 | 1320 | 6147 | 11603 |
+| **#malware** | 92 | 1325 | 6152 | 11608 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 0 | 9 | 100 | 217 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 126 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 106 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 134 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 122 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 73 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 40 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 46 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 28 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
