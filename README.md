@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 10:20:25 (UTC)</th>
+        <th colspan=4>2025-02-28 10:42:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 68 | 2147 | 13646 | 39114 |
-| **:globe_with_meridians: Domains** | 31 | 1534 | 10849 | 27115 |
-| **:triangular_flag_on_post: IPs** | 38 | 602 | 2642 | 11244 |
-| **:1234: SHA256** | 6 | 77 | 256 | 1332 |
-| **:1234: MD5** | 3 | 37 | 247 | 1105 |
+| **:link: URLs** | 70 | 2149 | 13648 | 39116 |
+| **:globe_with_meridians: Domains** | 32 | 1535 | 10850 | 27116 |
+| **:triangular_flag_on_post: IPs** | 39 | 603 | 2643 | 11245 |
+| **:1234: SHA256** | 7 | 78 | 257 | 1333 |
+| **:1234: MD5** | 4 | 38 | 248 | 1106 |
 
 </div>
 
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 52 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 47 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 10 |
-| **#4** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 9 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 12 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
+| **#9** | [ShanHolo](https://twitter.com/ShanHolo) | 3 |
+| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 
 </div>
 
