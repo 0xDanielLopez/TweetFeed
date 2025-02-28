@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 08:35:20 (UTC)</th>
+        <th colspan=4>2025-02-28 08:52:46 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 55 | 2134 | 13633 | 39101 |
-| **:globe_with_meridians: Domains** | 21 | 1524 | 10839 | 27105 |
-| **:triangular_flag_on_post: IPs** | 35 | 599 | 2639 | 11241 |
-| **:1234: SHA256** | 2 | 73 | 252 | 1328 |
+| **:link: URLs** | 68 | 2147 | 13646 | 39114 |
+| **:globe_with_meridians: Domains** | 31 | 1534 | 10849 | 27115 |
+| **:triangular_flag_on_post: IPs** | 38 | 602 | 2642 | 11244 |
+| **:1234: SHA256** | 5 | 76 | 255 | 1331 |
 | **:1234: MD5** | 3 | 37 | 247 | 1105 |
 
 </div>
@@ -123,12 +123,12 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 52 | 2894 | 20403 | 48755 |
+| **#phishing** | 72 | 2914 | 20423 | 48775 |
 | **#scam** | 4 | 357 | 2598 | 4655 |
 | **#opendir** | 0 | 19 | 182 | 579 |
-| **#malware** | 3 | 754 | 5927 | 11869 |
+| **#malware** | 5 | 756 | 5929 | 11871 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
-| **#ransomware** | 0 | 2 | 91 | 217 |
+| **#ransomware** | 2 | 4 | 93 | 219 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 0 | 41 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 47 |
-| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 32 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 52 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 47 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 10 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#4** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 8 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
-| **#10** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 
 </div>
 
