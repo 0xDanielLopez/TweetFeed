@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 01:06:18 (UTC)</th>
+        <th colspan=4>2025-02-28 01:25:50 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 2081 | 13580 | 39048 |
-| **:globe_with_meridians: Domains** | 1 | 1504 | 10819 | 27085 |
+| **:link: URLs** | 4 | 2083 | 13582 | 39050 |
+| **:globe_with_meridians: Domains** | 3 | 1506 | 10821 | 27087 |
 | **:triangular_flag_on_post: IPs** | 2 | 566 | 2606 | 11208 |
 | **:1234: SHA256** | 0 | 71 | 250 | 1326 |
 | **:1234: MD5** | 1 | 35 | 245 | 1103 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 2842 | 20351 | 48703 |
+| **#phishing** | 4 | 2846 | 20355 | 48707 |
 | **#scam** | 0 | 353 | 2594 | 4651 |
 | **#opendir** | 0 | 19 | 182 | 579 |
 | **#malware** | 0 | 751 | 5924 | 11866 |
@@ -167,8 +167,8 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 6 |
-| **#2** | [-](https://twitter.com/-) | 0 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#2** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
