@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 12:47:29 (UTC)</th>
+        <th colspan=4>2025-02-28 13:06:36 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 89 | 2168 | 13667 | 39135 |
-| **:globe_with_meridians: Domains** | 39 | 1542 | 10857 | 27123 |
+| **:link: URLs** | 98 | 2177 | 13676 | 39144 |
+| **:globe_with_meridians: Domains** | 48 | 1551 | 10866 | 27132 |
 | **:triangular_flag_on_post: IPs** | 59 | 623 | 2663 | 11265 |
 | **:1234: SHA256** | 9 | 80 | 259 | 1335 |
 | **:1234: MD5** | 7 | 41 | 251 | 1109 |
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 52 |
-| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 20 |
-| **#4** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 12 |
+| **#3** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 30 |
+| **#4** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 20 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
