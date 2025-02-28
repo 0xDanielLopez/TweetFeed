@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 03:45:51 (UTC)</th>
+        <th colspan=4>2025-02-28 04:02:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 19 | 2098 | 13597 | 39065 |
-| **:globe_with_meridians: Domains** | 12 | 1515 | 10830 | 27096 |
-| **:triangular_flag_on_post: IPs** | 6 | 570 | 2610 | 11212 |
+| **:link: URLs** | 21 | 2100 | 13599 | 39067 |
+| **:globe_with_meridians: Domains** | 14 | 1517 | 10832 | 27098 |
+| **:triangular_flag_on_post: IPs** | 8 | 572 | 2612 | 11214 |
 | **:1234: SHA256** | 1 | 72 | 251 | 1327 |
 | **:1234: MD5** | 1 | 35 | 245 | 1103 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 26 | 2868 | 20377 | 48729 |
+| **#phishing** | 32 | 2874 | 20383 | 48735 |
 | **#scam** | 2 | 355 | 2596 | 4653 |
 | **#opendir** | 0 | 19 | 182 | 579 |
 | **#malware** | 0 | 751 | 5924 | 11866 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 20 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 10 |
-| **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
-| **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
