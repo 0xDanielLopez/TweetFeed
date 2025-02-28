@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 12:08:27 (UTC)</th>
+        <th colspan=4>2025-02-28 12:26:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 83 | 2162 | 13661 | 39129 |
-| **:globe_with_meridians: Domains** | 38 | 1541 | 10856 | 27122 |
-| **:triangular_flag_on_post: IPs** | 57 | 621 | 2661 | 11263 |
-| **:1234: SHA256** | 8 | 79 | 258 | 1334 |
+| **:link: URLs** | 89 | 2168 | 13667 | 39135 |
+| **:globe_with_meridians: Domains** | 39 | 1542 | 10857 | 27123 |
+| **:triangular_flag_on_post: IPs** | 59 | 623 | 2663 | 11265 |
+| **:1234: SHA256** | 9 | 80 | 259 | 1335 |
 | **:1234: MD5** | 7 | 41 | 251 | 1109 |
 
 </div>
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 8 | 73 | 415 | 927 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 17 | 317 | 1128 | 6661 |
+| **#CobaltStrike** | 24 | 324 | 1135 | 6668 |
 | **#Dcrat** | 0 | 8 | 30 | 423 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 10 | 16 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 62 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 52 |
-| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 17 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 20 |
 | **#4** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 12 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
