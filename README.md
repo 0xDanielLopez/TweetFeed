@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 04:37:20 (UTC)</th>
+        <th colspan=4>2025-02-28 04:54:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 2100 | 13599 | 39067 |
+| **:link: URLs** | 22 | 2101 | 13600 | 39068 |
 | **:globe_with_meridians: Domains** | 14 | 1517 | 10832 | 27098 |
-| **:triangular_flag_on_post: IPs** | 8 | 572 | 2612 | 11214 |
+| **:triangular_flag_on_post: IPs** | 10 | 574 | 2614 | 11216 |
 | **:1234: SHA256** | 1 | 72 | 251 | 1327 |
-| **:1234: MD5** | 1 | 35 | 245 | 1103 |
+| **:1234: MD5** | 2 | 36 | 246 | 1104 |
 
 </div>
 
@@ -169,12 +169,12 @@ If you like the project, please consider:
 | **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 20 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#4** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#5** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
+| **#4** | [sicehice](https://twitter.com/sicehice) | 4 |
+| **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [RacWatchin8872](https://twitter.com/RacWatchin8872) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
