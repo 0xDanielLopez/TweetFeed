@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 07:02:08 (UTC)</th>
+        <th colspan=4>2025-02-28 07:19:01 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 2129 | 13628 | 39096 |
-| **:globe_with_meridians: Domains** | 19 | 1522 | 10837 | 27103 |
-| **:triangular_flag_on_post: IPs** | 32 | 596 | 2636 | 11238 |
+| **:link: URLs** | 54 | 2133 | 13632 | 39100 |
+| **:globe_with_meridians: Domains** | 20 | 1523 | 10838 | 27104 |
+| **:triangular_flag_on_post: IPs** | 35 | 599 | 2639 | 11241 |
 | **:1234: SHA256** | 1 | 72 | 251 | 1327 |
 | **:1234: MD5** | 3 | 37 | 247 | 1105 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 48 | 2890 | 20399 | 48751 |
-| **#scam** | 2 | 355 | 2596 | 4653 |
+| **#phishing** | 50 | 2892 | 20401 | 48753 |
+| **#scam** | 4 | 357 | 2598 | 4655 |
 | **#opendir** | 0 | 19 | 182 | 579 |
 | **#malware** | 1 | 752 | 5925 | 11867 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
@@ -166,15 +166,15 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 41 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 47 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 32 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#5** | [sicehice](https://twitter.com/sicehice) | 4 |
+| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#9** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#10** | [RacWatchin8872](https://twitter.com/RacWatchin8872) | 1 |
 
 </div>
