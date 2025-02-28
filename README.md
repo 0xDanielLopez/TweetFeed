@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 10:42:33 (UTC)</th>
+        <th colspan=4>2025-02-28 10:58:58 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 70 | 2149 | 13648 | 39116 |
-| **:globe_with_meridians: Domains** | 32 | 1535 | 10850 | 27116 |
+| **:link: URLs** | 71 | 2150 | 13649 | 39117 |
+| **:globe_with_meridians: Domains** | 33 | 1536 | 10851 | 27117 |
 | **:triangular_flag_on_post: IPs** | 39 | 603 | 2643 | 11245 |
 | **:1234: SHA256** | 7 | 78 | 257 | 1333 |
-| **:1234: MD5** | 4 | 38 | 248 | 1106 |
+| **:1234: MD5** | 6 | 40 | 250 | 1108 |
 
 </div>
 
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ShanHolo](https://twitter.com/ShanHolo) | 3 |
-| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#9** | [suyog41](https://twitter.com/suyog41) | 4 |
+| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 3 |
 
 </div>
 
