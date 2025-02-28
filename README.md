@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 01:42:44 (UTC)</th>
+        <th colspan=4>2025-02-28 01:59:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 11 | 2090 | 13589 | 39057 |
-| **:globe_with_meridians: Domains** | 8 | 1511 | 10826 | 27092 |
-| **:triangular_flag_on_post: IPs** | 3 | 567 | 2607 | 11209 |
+| **:link: URLs** | 16 | 2095 | 13594 | 39062 |
+| **:globe_with_meridians: Domains** | 11 | 1514 | 10829 | 27095 |
+| **:triangular_flag_on_post: IPs** | 5 | 569 | 2609 | 11211 |
 | **:1234: SHA256** | 0 | 71 | 250 | 1326 |
 | **:1234: MD5** | 1 | 35 | 245 | 1103 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 16 | 2858 | 20367 | 48719 |
+| **#phishing** | 24 | 2866 | 20375 | 48727 |
 | **#scam** | 0 | 353 | 2594 | 4651 |
 | **#opendir** | 0 | 19 | 182 | 579 |
 | **#malware** | 0 | 751 | 5924 | 11866 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 65 | 407 | 919 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 300 | 1111 | 6644 |
+| **#CobaltStrike** | 2 | 302 | 1113 | 6646 |
 | **#Dcrat** | 0 | 8 | 30 | 423 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 10 | 16 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 20 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 6 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
-| **#5** | [RacWatchin8872](https://twitter.com/RacWatchin8872) | 1 |
+| **#5** | [drb_ra](https://twitter.com/drb_ra) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
