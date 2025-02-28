@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 11:16:24 (UTC)</th>
+        <th colspan=4>2025-02-28 11:34:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 81 | 2160 | 13659 | 39127 |
-| **:globe_with_meridians: Domains** | 36 | 1539 | 10854 | 27120 |
-| **:triangular_flag_on_post: IPs** | 45 | 609 | 2649 | 11251 |
+| **:link: URLs** | 82 | 2161 | 13660 | 39128 |
+| **:globe_with_meridians: Domains** | 37 | 1540 | 10855 | 27121 |
+| **:triangular_flag_on_post: IPs** | 57 | 621 | 2661 | 11263 |
 | **:1234: SHA256** | 8 | 79 | 258 | 1334 |
 | **:1234: MD5** | 6 | 40 | 250 | 1108 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 72 | 2914 | 20423 | 48775 |
-| **#scam** | 4 | 357 | 2598 | 4655 |
+| **#phishing** | 74 | 2916 | 20425 | 48777 |
+| **#scam** | 6 | 359 | 2600 | 4657 |
 | **#opendir** | 0 | 19 | 182 | 579 |
 | **#malware** | 5 | 756 | 5929 | 11871 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
@@ -169,13 +169,13 @@ If you like the project, please consider:
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 62 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 52 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 17 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 10 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#4** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 12 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [suyog41](https://twitter.com/suyog41) | 4 |
-| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 3 |
+| **#9** | [romonlyht](https://twitter.com/romonlyht) | 4 |
+| **#10** | [suyog41](https://twitter.com/suyog41) | 4 |
 
 </div>
 
