@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 06:44:56 (UTC)</th>
+        <th colspan=4>2025-02-28 07:02:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 2108 | 13607 | 39075 |
+| **:link: URLs** | 50 | 2129 | 13628 | 39096 |
 | **:globe_with_meridians: Domains** | 19 | 1522 | 10837 | 27103 |
-| **:triangular_flag_on_post: IPs** | 14 | 578 | 2618 | 11220 |
+| **:triangular_flag_on_post: IPs** | 32 | 596 | 2636 | 11238 |
 | **:1234: SHA256** | 1 | 72 | 251 | 1327 |
 | **:1234: MD5** | 3 | 37 | 247 | 1105 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 0 | 41 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 65 | 407 | 919 |
+| **#AsyncRAT** | 8 | 73 | 415 | 927 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 2 | 302 | 1113 | 6646 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 22 | 95 | 651 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 8 | 14 | 110 |
-| **#Remcos** | 0 | 63 | 268 | 589 |
+| **#Remcos** | 19 | 82 | 287 | 608 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 18 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 32 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 10 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#4** | [sicehice](https://twitter.com/sicehice) | 4 |
-| **#5** | [romonlyht](https://twitter.com/romonlyht) | 4 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 41 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 32 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 10 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#5** | [sicehice](https://twitter.com/sicehice) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
