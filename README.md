@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-02-28 11:51:24 (UTC)</th>
+        <th colspan=4>2025-02-28 12:08:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 82 | 2161 | 13660 | 39128 |
-| **:globe_with_meridians: Domains** | 37 | 1540 | 10855 | 27121 |
+| **:link: URLs** | 83 | 2162 | 13661 | 39129 |
+| **:globe_with_meridians: Domains** | 38 | 1541 | 10856 | 27122 |
 | **:triangular_flag_on_post: IPs** | 57 | 621 | 2661 | 11263 |
 | **:1234: SHA256** | 8 | 79 | 258 | 1334 |
-| **:1234: MD5** | 6 | 40 | 250 | 1108 |
+| **:1234: MD5** | 7 | 41 | 251 | 1109 |
 
 </div>
 
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [romonlyht](https://twitter.com/romonlyht) | 4 |
-| **#10** | [suyog41](https://twitter.com/suyog41) | 4 |
+| **#9** | [sicehice](https://twitter.com/sicehice) | 4 |
+| **#10** | [romonlyht](https://twitter.com/romonlyht) | 4 |
 
 </div>
 
