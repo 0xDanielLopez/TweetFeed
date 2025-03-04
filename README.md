@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 18:57:25 (UTC)</th>
+        <th colspan=4>2025-03-04 19:14:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 369 | 2844 | 13978 | 40238 |
-| **:globe_with_meridians: Domains** | 292 | 2179 | 11123 | 28147 |
-| **:triangular_flag_on_post: IPs** | 73 | 634 | 2674 | 11288 |
+| **:link: URLs** | 385 | 2860 | 13994 | 40254 |
+| **:globe_with_meridians: Domains** | 293 | 2180 | 11124 | 28148 |
+| **:triangular_flag_on_post: IPs** | 83 | 644 | 2684 | 11298 |
 | **:1234: SHA256** | 27 | 101 | 311 | 1380 |
 | **:1234: MD5** | 10 | 44 | 257 | 1128 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 571 | 4167 | 20982 | 50867 |
-| **#scam** | 76 | 488 | 2646 | 4996 |
+| **#phishing** | 573 | 4169 | 20984 | 50869 |
+| **#scam** | 78 | 490 | 2648 | 4998 |
 | **#opendir** | 0 | 4 | 179 | 559 |
 | **#malware** | 143 | 1005 | 5874 | 12492 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 0 | 33 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 59 | 388 | 952 |
+| **#AsyncRAT** | 12 | 71 | 400 | 964 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 18 | 269 | 1153 | 6599 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 5 | 15 | 86 | 632 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 12 | 104 |
-| **#Remcos** | 16 | 114 | 320 | 677 |
+| **#Remcos** | 18 | 116 | 322 | 679 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 15 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 216 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 184 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 84 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 109 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 63 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 62 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 10 |
-| **#10** | [masaomi346](https://twitter.com/masaomi346) | 8 |
+| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#10** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 10 |
 
 </div>
 
