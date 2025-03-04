@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 12:22:29 (UTC)</th>
+        <th colspan=4>2025-03-04 12:42:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 149 | 2624 | 13758 | 40018 |
-| **:globe_with_meridians: Domains** | 94 | 1981 | 10925 | 27949 |
-| **:triangular_flag_on_post: IPs** | 45 | 606 | 2646 | 11260 |
-| **:1234: SHA256** | 21 | 95 | 305 | 1374 |
+| **:link: URLs** | 167 | 2642 | 13776 | 40036 |
+| **:globe_with_meridians: Domains** | 112 | 1999 | 10943 | 27967 |
+| **:triangular_flag_on_post: IPs** | 46 | 607 | 2647 | 11261 |
+| **:1234: SHA256** | 22 | 96 | 306 | 1375 |
 | **:1234: MD5** | 9 | 43 | 256 | 1127 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 185 | 3781 | 20596 | 50481 |
-| **#scam** | 20 | 432 | 2590 | 4940 |
+| **#phishing** | 217 | 3813 | 20628 | 50513 |
+| **#scam** | 26 | 438 | 2596 | 4946 |
 | **#opendir** | 0 | 4 | 179 | 559 |
-| **#malware** | 21 | 883 | 5752 | 12370 |
+| **#malware** | 29 | 891 | 5760 | 12378 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 1 | 3 | 72 | 220 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 62 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 59 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 47 |
-| **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 38 |
-| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 34 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 54 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 48 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 47 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
