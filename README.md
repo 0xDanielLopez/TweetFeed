@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 13:22:51 (UTC)</th>
+        <th colspan=4>2025-03-04 13:40:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 207 | 2682 | 13816 | 40076 |
-| **:globe_with_meridians: Domains** | 150 | 2037 | 10981 | 28005 |
+| **:link: URLs** | 219 | 2694 | 13828 | 40088 |
+| **:globe_with_meridians: Domains** | 161 | 2048 | 10992 | 28016 |
 | **:triangular_flag_on_post: IPs** | 49 | 610 | 2650 | 11264 |
 | **:1234: SHA256** | 22 | 96 | 306 | 1375 |
-| **:1234: MD5** | 9 | 43 | 256 | 1127 |
+| **:1234: MD5** | 10 | 44 | 257 | 1128 |
 
 </div>
 
@@ -123,12 +123,12 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 293 | 3889 | 20704 | 50589 |
-| **#scam** | 36 | 448 | 2606 | 4956 |
+| **#phishing** | 314 | 3910 | 20725 | 50610 |
+| **#scam** | 38 | 450 | 2608 | 4958 |
 | **#opendir** | 0 | 4 | 179 | 559 |
-| **#malware** | 55 | 917 | 5786 | 12404 |
+| **#malware** | 59 | 921 | 5790 | 12408 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
-| **#ransomware** | 1 | 3 | 72 | 220 |
+| **#ransomware** | 4 | 6 | 75 | 223 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 0 | 33 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 86 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 76 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 94 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 86 |
 | **#3** | [catnap707](https://twitter.com/catnap707) | 62 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 59 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 47 |
