@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 18:40:43 (UTC)</th>
+        <th colspan=4>2025-03-04 18:57:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 357 | 2832 | 13966 | 40226 |
+| **:link: URLs** | 369 | 2844 | 13978 | 40238 |
 | **:globe_with_meridians: Domains** | 292 | 2179 | 11123 | 28147 |
-| **:triangular_flag_on_post: IPs** | 62 | 623 | 2663 | 11277 |
+| **:triangular_flag_on_post: IPs** | 73 | 634 | 2674 | 11288 |
 | **:1234: SHA256** | 27 | 101 | 311 | 1380 |
 | **:1234: MD5** | 10 | 44 | 257 | 1128 |
 
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 11 | 43 | 183 | 1077 |
-| **#Qakbot** | 1 | 11 | 82 | 628 |
+| **#Qakbot** | 5 | 15 | 86 | 632 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 12 | 104 |
 | **#Remcos** | 16 | 114 | 320 | 677 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 216 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 184 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 63 |
-| **#4** | [catnap707](https://twitter.com/catnap707) | 62 |
-| **#5** | [drb_ra](https://twitter.com/drb_ra) | 61 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 84 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 63 |
+| **#5** | [catnap707](https://twitter.com/catnap707) | 62 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
