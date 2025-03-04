@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 08:18:41 (UTC)</th>
+        <th colspan=4>2025-03-04 08:40:47 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 94 | 2569 | 13703 | 39963 |
 | **:globe_with_meridians: Domains** | 51 | 1938 | 10882 | 27906 |
 | **:triangular_flag_on_post: IPs** | 35 | 596 | 2636 | 11250 |
-| **:1234: SHA256** | 16 | 90 | 300 | 1369 |
+| **:1234: SHA256** | 17 | 91 | 301 | 1370 |
 | **:1234: MD5** | 6 | 40 | 253 | 1124 |
 
 </div>
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 4 |
+| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#10** | [siri_urz](https://twitter.com/siri_urz) | 4 |
 
 </div>
