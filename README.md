@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 11:30:25 (UTC)</th>
+        <th colspan=4>2025-03-04 11:47:40 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 120 | 2595 | 13729 | 39989 |
-| **:globe_with_meridians: Domains** | 65 | 1952 | 10896 | 27920 |
+| **:link: URLs** | 131 | 2606 | 13740 | 40000 |
+| **:globe_with_meridians: Domains** | 76 | 1963 | 10907 | 27931 |
 | **:triangular_flag_on_post: IPs** | 45 | 606 | 2646 | 11260 |
 | **:1234: SHA256** | 20 | 94 | 304 | 1373 |
 | **:1234: MD5** | 9 | 43 | 256 | 1127 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 127 | 3723 | 20538 | 50423 |
-| **#scam** | 8 | 420 | 2578 | 4928 |
+| **#phishing** | 149 | 3745 | 20560 | 50445 |
+| **#scam** | 12 | 424 | 2582 | 4932 |
 | **#opendir** | 0 | 4 | 179 | 559 |
-| **#malware** | 11 | 873 | 5742 | 12360 |
+| **#malware** | 13 | 875 | 5744 | 12362 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 1 | 3 | 72 | 220 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [catnap707](https://twitter.com/catnap707) | 62 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 59 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 47 |
-| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 16 |
-| **#5** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 14 |
+| **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 20 |
+| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 18 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
