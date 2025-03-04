@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 11:11:52 (UTC)</th>
+        <th colspan=4>2025-03-04 11:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 105 | 2580 | 13714 | 39974 |
-| **:globe_with_meridians: Domains** | 55 | 1942 | 10886 | 27910 |
-| **:triangular_flag_on_post: IPs** | 40 | 601 | 2641 | 11255 |
+| **:link: URLs** | 120 | 2595 | 13729 | 39989 |
+| **:globe_with_meridians: Domains** | 65 | 1952 | 10896 | 27920 |
+| **:triangular_flag_on_post: IPs** | 45 | 606 | 2646 | 11260 |
 | **:1234: SHA256** | 20 | 94 | 304 | 1373 |
 | **:1234: MD5** | 9 | 43 | 256 | 1127 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 109 | 3705 | 20520 | 50405 |
-| **#scam** | 6 | 418 | 2576 | 4926 |
+| **#phishing** | 127 | 3723 | 20538 | 50423 |
+| **#scam** | 8 | 420 | 2578 | 4928 |
 | **#opendir** | 0 | 4 | 179 | 559 |
-| **#malware** | 7 | 869 | 5738 | 12356 |
+| **#malware** | 11 | 873 | 5742 | 12360 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 1 | 3 | 72 | 220 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 59 | 388 | 952 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 4 | 255 | 1139 | 6585 |
+| **#CobaltStrike** | 16 | 267 | 1151 | 6597 |
 | **#Dcrat** | 0 | 11 | 37 | 430 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 10 | 16 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 62 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 47 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 47 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 59 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 47 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 16 |
 | **#5** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 14 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [Cyberteam008](https://twitter.com/Cyberteam008) | 4 |
-| **#10** | [siri_urz](https://twitter.com/siri_urz) | 4 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 
 </div>
 
