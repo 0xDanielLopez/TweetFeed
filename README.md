@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 02:30:13 (UTC)</th>
+        <th colspan=4>2025-03-04 02:51:14 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 2484 | 13618 | 39878 |
-| **:globe_with_meridians: Domains** | 8 | 1895 | 10839 | 27863 |
-| **:triangular_flag_on_post: IPs** | 2 | 563 | 2603 | 11217 |
+| **:link: URLs** | 15 | 2490 | 13624 | 39884 |
+| **:globe_with_meridians: Domains** | 12 | 1899 | 10843 | 27867 |
+| **:triangular_flag_on_post: IPs** | 4 | 565 | 2605 | 11219 |
 | **:1234: SHA256** | 3 | 77 | 287 | 1356 |
 | **:1234: MD5** | 0 | 34 | 247 | 1118 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 19 | 3615 | 20430 | 50315 |
+| **#phishing** | 31 | 3627 | 20442 | 50327 |
 | **#scam** | 0 | 412 | 2570 | 4920 |
 | **#opendir** | 0 | 4 | 179 | 559 |
 | **#malware** | 3 | 865 | 5734 | 12352 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [catnap707](https://twitter.com/catnap707) | 13 |
-| **#2** | [masaomi346](https://twitter.com/masaomi346) | 6 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 3 |
-| **#4** | [-](https://twitter.com/-) | 0 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 10 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 3 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
