@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 00:50:39 (UTC)</th>
+        <th colspan=4>2025-03-04 01:08:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 2478 | 13612 | 39872 |
-| **:globe_with_meridians: Domains** | 3 | 1890 | 10834 | 27858 |
-| **:triangular_flag_on_post: IPs** | 0 | 561 | 2601 | 11215 |
+| **:link: URLs** | 5 | 2480 | 13614 | 39874 |
+| **:globe_with_meridians: Domains** | 4 | 1891 | 10835 | 27859 |
+| **:triangular_flag_on_post: IPs** | 2 | 563 | 2603 | 11217 |
 | **:1234: SHA256** | 0 | 74 | 284 | 1353 |
 | **:1234: MD5** | 0 | 34 | 247 | 1118 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 6 | 3602 | 20417 | 50302 |
+| **#phishing** | 11 | 3607 | 20422 | 50307 |
 | **#scam** | 0 | 412 | 2570 | 4920 |
 | **#opendir** | 0 | 4 | 179 | 559 |
 | **#malware** | 0 | 862 | 5731 | 12349 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [masaomi346](https://twitter.com/masaomi346) | 6 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#2** | [catnap707](https://twitter.com/catnap707) | 5 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
