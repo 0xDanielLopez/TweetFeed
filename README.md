@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 06:10:00 (UTC)</th>
+        <th colspan=4>2025-03-04 06:29:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 2510 | 13644 | 39904 |
+| **:link: URLs** | 37 | 2512 | 13646 | 39906 |
 | **:globe_with_meridians: Domains** | 24 | 1911 | 10855 | 27879 |
-| **:triangular_flag_on_post: IPs** | 9 | 570 | 2610 | 11224 |
-| **:1234: SHA256** | 8 | 82 | 292 | 1361 |
+| **:triangular_flag_on_post: IPs** | 10 | 571 | 2611 | 11225 |
+| **:1234: SHA256** | 10 | 84 | 294 | 1363 |
 | **:1234: MD5** | 2 | 36 | 249 | 1120 |
 
 </div>
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 27 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 32 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 21 |
 | **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 16 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 6 |
