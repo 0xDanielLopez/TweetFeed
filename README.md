@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 01:08:23 (UTC)</th>
+        <th colspan=4>2025-03-04 01:27:50 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 5 | 2480 | 13614 | 39874 |
 | **:globe_with_meridians: Domains** | 4 | 1891 | 10835 | 27859 |
 | **:triangular_flag_on_post: IPs** | 2 | 563 | 2603 | 11217 |
-| **:1234: SHA256** | 0 | 74 | 284 | 1353 |
+| **:1234: SHA256** | 3 | 77 | 287 | 1356 |
 | **:1234: MD5** | 0 | 34 | 247 | 1118 |
 
 </div>
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 11 | 3607 | 20422 | 50307 |
 | **#scam** | 0 | 412 | 2570 | 4920 |
 | **#opendir** | 0 | 4 | 179 | 559 |
-| **#malware** | 0 | 862 | 5731 | 12349 |
+| **#malware** | 3 | 865 | 5734 | 12352 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 0 | 2 | 71 | 219 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [masaomi346](https://twitter.com/masaomi346) | 6 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 5 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 3 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
