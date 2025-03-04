@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 02:51:14 (UTC)</th>
+        <th colspan=4>2025-03-04 03:09:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 2490 | 13624 | 39884 |
-| **:globe_with_meridians: Domains** | 12 | 1899 | 10843 | 27867 |
-| **:triangular_flag_on_post: IPs** | 4 | 565 | 2605 | 11219 |
-| **:1234: SHA256** | 3 | 77 | 287 | 1356 |
-| **:1234: MD5** | 0 | 34 | 247 | 1118 |
+| **:link: URLs** | 22 | 2497 | 13631 | 39891 |
+| **:globe_with_meridians: Domains** | 15 | 1902 | 10846 | 27870 |
+| **:triangular_flag_on_post: IPs** | 8 | 569 | 2609 | 11223 |
+| **:1234: SHA256** | 5 | 79 | 289 | 1358 |
+| **:1234: MD5** | 2 | 36 | 249 | 1120 |
 
 </div>
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 31 | 3627 | 20442 | 50327 |
-| **#scam** | 0 | 412 | 2570 | 4920 |
+| **#phishing** | 39 | 3635 | 20450 | 50335 |
+| **#scam** | 2 | 414 | 2572 | 4922 |
 | **#opendir** | 0 | 4 | 179 | 559 |
-| **#malware** | 3 | 865 | 5734 | 12352 |
+| **#malware** | 7 | 869 | 5738 | 12356 |
 | **#maldoc** | 0 | 0 | 0 | 3 |
 | **#ransomware** | 0 | 2 | 71 | 219 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 4 | 37 | 254 |
 | **#log4j** | 0 | 0 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 32 | 172 | 1066 |
+| **#Njrat** | 6 | 38 | 178 | 1072 |
 | **#Qakbot** | 0 | 10 | 81 | 627 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 12 | 104 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [catnap707](https://twitter.com/catnap707) | 13 |
-| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 10 |
-| **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 3 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 16 |
+| **#2** | [catnap707](https://twitter.com/catnap707) | 13 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 9 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#5** | [Cyberteam008](https://twitter.com/Cyberteam008) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
