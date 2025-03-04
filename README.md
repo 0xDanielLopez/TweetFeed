@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-04 10:10:20 (UTC)</th>
+        <th colspan=4>2025-03-04 10:30:53 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 101 | 2576 | 13710 | 39970 |
-| **:globe_with_meridians: Domains** | 53 | 1940 | 10884 | 27908 |
-| **:triangular_flag_on_post: IPs** | 38 | 599 | 2639 | 11253 |
-| **:1234: SHA256** | 18 | 92 | 302 | 1371 |
+| **:link: URLs** | 103 | 2578 | 13712 | 39972 |
+| **:globe_with_meridians: Domains** | 54 | 1941 | 10885 | 27909 |
+| **:triangular_flag_on_post: IPs** | 39 | 600 | 2640 | 11254 |
+| **:1234: SHA256** | 19 | 93 | 303 | 1372 |
 | **:1234: MD5** | 9 | 43 | 256 | 1127 |
 
 </div>
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 105 | 3701 | 20516 | 50401 |
+| **#phishing** | 107 | 3703 | 20518 | 50403 |
 | **#scam** | 4 | 416 | 2574 | 4924 |
 | **#opendir** | 0 | 4 | 179 | 559 |
 | **#malware** | 7 | 869 | 5738 | 12356 |
