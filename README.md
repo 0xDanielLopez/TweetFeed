@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 02:51:08 (UTC)</th>
+        <th colspan=4>2025-03-10 03:08:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 76 | 2639 | 13805 | 41654 |
-| **:globe_with_meridians: Domains** | 57 | 2077 | 10949 | 29431 |
-| **:triangular_flag_on_post: IPs** | 29 | 609 | 2769 | 11463 |
+| **:link: URLs** | 87 | 2650 | 13816 | 41665 |
+| **:globe_with_meridians: Domains** | 65 | 2085 | 10957 | 29439 |
+| **:triangular_flag_on_post: IPs** | 36 | 616 | 2776 | 11470 |
 | **:1234: SHA256** | 0 | 124 | 378 | 1386 |
 | **:1234: MD5** | 0 | 27 | 219 | 1127 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 162 | 3815 | 20517 | 53317 |
-| **#scam** | 0 | 454 | 2505 | 5365 |
+| **#phishing** | 188 | 3841 | 20543 | 53343 |
+| **#scam** | 2 | 456 | 2507 | 5367 |
 | **#opendir** | 0 | 17 | 157 | 568 |
 | **#malware** | 0 | 1062 | 5532 | 13370 |
 | **#maldoc** | 0 | 4 | 4 | 7 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [catnap707](https://twitter.com/catnap707) | 79 |
-| **#2** | [romonlyht](https://twitter.com/romonlyht) | 61 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 22 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 81 |
+| **#2** | [catnap707](https://twitter.com/catnap707) | 79 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 26 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
