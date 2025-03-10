@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 00:17:39 (UTC)</th>
+        <th colspan=4>2025-03-10 00:40:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 2563 | 13729 | 41578 |
-| **:globe_with_meridians: Domains** | 0 | 2020 | 10892 | 29374 |
-| **:triangular_flag_on_post: IPs** | 0 | 580 | 2740 | 11434 |
+| **:link: URLs** | 16 | 2579 | 13745 | 41594 |
+| **:globe_with_meridians: Domains** | 10 | 2030 | 10902 | 29384 |
+| **:triangular_flag_on_post: IPs** | 7 | 587 | 2747 | 11441 |
 | **:1234: SHA256** | 0 | 124 | 378 | 1386 |
 | **:1234: MD5** | 0 | 27 | 219 | 1127 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 3653 | 20355 | 53155 |
+| **#phishing** | 33 | 3686 | 20388 | 53188 |
 | **#scam** | 0 | 454 | 2505 | 5365 |
 | **#opendir** | 0 | 17 | 157 | 568 |
 | **#malware** | 0 | 1062 | 5532 | 13370 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [catnap707](https://twitter.com/catnap707) | 33 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
