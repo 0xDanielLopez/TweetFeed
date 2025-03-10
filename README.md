@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 07:16:46 (UTC)</th>
+        <th colspan=4>2025-03-10 07:35:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 153 | 2716 | 13882 | 41731 |
+| **:link: URLs** | 154 | 2717 | 13883 | 41732 |
 | **:globe_with_meridians: Domains** | 92 | 2112 | 10984 | 29466 |
 | **:triangular_flag_on_post: IPs** | 79 | 659 | 2819 | 11513 |
 | **:1234: SHA256** | 2 | 126 | 380 | 1388 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 284 | 3937 | 20639 | 53439 |
+| **#phishing** | 285 | 3938 | 20640 | 53440 |
 | **#scam** | 4 | 458 | 2509 | 5369 |
 | **#opendir** | 0 | 17 | 157 | 568 |
 | **#malware** | 2 | 1064 | 5534 | 13372 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [cyber_ra1](https://twitter.com/cyber_ra1) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#10** | [AddressIntel](https://twitter.com/AddressIntel) | 1 |
 
 </div>
 
