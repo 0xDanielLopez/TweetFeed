@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 13:12:59 (UTC)</th>
+        <th colspan=4>2025-03-10 13:32:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 364 | 2927 | 14093 | 41942 |
-| **:globe_with_meridians: Domains** | 281 | 2301 | 11173 | 29655 |
+| **:link: URLs** | 372 | 2935 | 14101 | 41950 |
+| **:globe_with_meridians: Domains** | 289 | 2309 | 11181 | 29663 |
 | **:triangular_flag_on_post: IPs** | 91 | 671 | 2831 | 11525 |
 | **:1234: SHA256** | 8 | 132 | 386 | 1394 |
 | **:1234: MD5** | 6 | 33 | 225 | 1133 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [suyog41](https://twitter.com/suyog41) | 8 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#9** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
+| **#10** | [suyog41](https://twitter.com/suyog41) | 8 |
 
 </div>
 
