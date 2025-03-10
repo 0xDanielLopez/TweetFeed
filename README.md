@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 09:29:00 (UTC)</th>
+        <th colspan=4>2025-03-10 09:46:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 158 | 2721 | 13887 | 41736 |
-| **:globe_with_meridians: Domains** | 95 | 2115 | 10987 | 29469 |
+| **:link: URLs** | 181 | 2744 | 13910 | 41759 |
+| **:globe_with_meridians: Domains** | 118 | 2138 | 11010 | 29492 |
 | **:triangular_flag_on_post: IPs** | 79 | 659 | 2819 | 11513 |
 | **:1234: SHA256** | 4 | 128 | 382 | 1390 |
 | **:1234: MD5** | 4 | 31 | 223 | 1131 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 290 | 3943 | 20645 | 53445 |
-| **#scam** | 4 | 458 | 2509 | 5369 |
+| **#phishing** | 336 | 3989 | 20691 | 53491 |
+| **#scam** | 12 | 466 | 2517 | 5377 |
 | **#opendir** | 0 | 17 | 157 | 568 |
-| **#malware** | 4 | 1066 | 5536 | 13374 |
+| **#malware** | 28 | 1090 | 5560 | 13398 |
 | **#maldoc** | 0 | 4 | 4 | 7 |
 | **#ransomware** | 0 | 12 | 51 | 231 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -169,13 +169,13 @@ If you like the project, please consider:
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 159 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 79 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 38 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 28 |
-| **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 30 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 28 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#10** | [cyber_ra1](https://twitter.com/cyber_ra1) | 2 |
+| **#9** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 5 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 
 </div>
 
