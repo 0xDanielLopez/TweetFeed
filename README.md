@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 05:01:26 (UTC)</th>
+        <th colspan=4>2025-03-10 05:19:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 109 | 2672 | 13838 | 41687 |
-| **:globe_with_meridians: Domains** | 78 | 2098 | 10970 | 29452 |
-| **:triangular_flag_on_post: IPs** | 48 | 628 | 2788 | 11482 |
-| **:1234: SHA256** | 0 | 124 | 378 | 1386 |
+| **:link: URLs** | 125 | 2688 | 13854 | 41703 |
+| **:globe_with_meridians: Domains** | 86 | 2106 | 10978 | 29460 |
+| **:triangular_flag_on_post: IPs** | 59 | 639 | 2799 | 11493 |
+| **:1234: SHA256** | 2 | 126 | 380 | 1388 |
 | **:1234: MD5** | 0 | 27 | 219 | 1127 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 235 | 3888 | 20590 | 53390 |
+| **#phishing** | 270 | 3923 | 20625 | 53425 |
 | **#scam** | 2 | 456 | 2507 | 5367 |
 | **#opendir** | 0 | 17 | 157 | 568 |
-| **#malware** | 0 | 1062 | 5532 | 13370 |
+| **#malware** | 2 | 1064 | 5534 | 13372 |
 | **#maldoc** | 0 | 4 | 4 | 7 |
 | **#ransomware** | 0 | 12 | 51 | 231 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 126 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 159 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 79 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 26 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 28 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
