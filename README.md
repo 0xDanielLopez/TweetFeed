@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 14:42:19 (UTC)</th>
+        <th colspan=4>2025-03-10 14:59:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 376 | 2939 | 14105 | 41954 |
-| **:globe_with_meridians: Domains** | 292 | 2312 | 11184 | 29666 |
-| **:triangular_flag_on_post: IPs** | 91 | 671 | 2831 | 11525 |
+| **:link: URLs** | 377 | 2940 | 14106 | 41955 |
+| **:globe_with_meridians: Domains** | 293 | 2313 | 11185 | 29667 |
+| **:triangular_flag_on_post: IPs** | 100 | 680 | 2840 | 11534 |
 | **:1234: SHA256** | 8 | 132 | 386 | 1394 |
 | **:1234: MD5** | 6 | 33 | 225 | 1133 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 669 | 4322 | 21024 | 53824 |
+| **#phishing** | 671 | 4324 | 21026 | 53826 |
 | **#scam** | 92 | 546 | 2597 | 5457 |
 | **#opendir** | 0 | 17 | 157 | 568 |
-| **#malware** | 180 | 1242 | 5712 | 13550 |
+| **#malware** | 189 | 1251 | 5721 | 13559 |
 | **#maldoc** | 0 | 4 | 4 | 7 |
 | **#ransomware** | 1 | 13 | 52 | 232 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -170,12 +170,12 @@ If you like the project, please consider:
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 170 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 159 |
 | **#4** | [catnap707](https://twitter.com/catnap707) | 79 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 63 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 65 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
-| **#10** | [suyog41](https://twitter.com/suyog41) | 8 |
+| **#10** | [threatquery](https://twitter.com/threatquery) | 9 |
 
 </div>
 
