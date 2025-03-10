@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-10 06:40:12 (UTC)</th>
+        <th colspan=4>2025-03-10 06:57:49 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 132 | 2695 | 13861 | 41710 |
+| **:link: URLs** | 152 | 2715 | 13881 | 41730 |
 | **:globe_with_meridians: Domains** | 91 | 2111 | 10983 | 29465 |
-| **:triangular_flag_on_post: IPs** | 61 | 641 | 2801 | 11495 |
+| **:triangular_flag_on_post: IPs** | 79 | 659 | 2819 | 11513 |
 | **:1234: SHA256** | 2 | 126 | 380 | 1388 |
 | **:1234: MD5** | 4 | 31 | 223 | 1131 |
 
@@ -132,11 +132,11 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 16 | 16 | 49 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 43 | 347 | 986 |
+| **#AsyncRAT** | 8 | 51 | 355 | 994 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 300 | 1264 | 6708 |
-| **#Dcrat** | 0 | 11 | 38 | 418 |
+| **#Dcrat** | 2 | 13 | 40 | 420 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 10 | 16 |
 | **#GootLoader** | 0 | 0 | 0 | 5 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 10 | 79 | 604 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 3 | 13 | 103 |
-| **#Remcos** | 0 | 112 | 383 | 770 |
+| **#Remcos** | 6 | 118 | 389 | 776 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 15 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -168,13 +168,13 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 159 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 79 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 28 |
-| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
-| **#5** | [suyog41](https://twitter.com/suyog41) | 6 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 38 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 28 |
+| **#5** | [Metemcyber](https://twitter.com/Metemcyber) | 12 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [cyber_ra1](https://twitter.com/cyber_ra1) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
