@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 11:14:11 (UTC)</th>
+        <th colspan=4>2025-03-15 11:31:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 394 | 2259 | 12872 | 43091 |
-| **:globe_with_meridians: Domains** | 221 | 1744 | 10027 | 30566 |
-| **:triangular_flag_on_post: IPs** | 162 | 542 | 2819 | 11732 |
+| **:link: URLs** | 404 | 2269 | 12882 | 43101 |
+| **:globe_with_meridians: Domains** | 223 | 1746 | 10029 | 30568 |
+| **:triangular_flag_on_post: IPs** | 167 | 547 | 2824 | 11737 |
 | **:1234: SHA256** | 3 | 101 | 437 | 1469 |
 | **:1234: MD5** | 1 | 42 | 223 | 1161 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 430 | 3414 | 19126 | 55662 |
+| **#phishing** | 435 | 3419 | 19131 | 55667 |
 | **#scam** | 50 | 456 | 2345 | 5714 |
 | **#opendir** | 6 | 24 | 144 | 586 |
 | **#malware** | 220 | 1136 | 5270 | 14163 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 338 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 350 |
 | **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 209 |
 | **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 145 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 54 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [threatquery](https://twitter.com/threatquery) | 3 |
-| **#10** | [JcryptoRecovery](https://twitter.com/JcryptoRecovery) | 2 |
+| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 4 |
+| **#10** | [threatquery](https://twitter.com/threatquery) | 3 |
 
 </div>
 
