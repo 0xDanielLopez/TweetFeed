@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 12:21:03 (UTC)</th>
+        <th colspan=4>2025-03-15 12:37:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 407 | 2272 | 12885 | 43104 |
-| **:globe_with_meridians: Domains** | 226 | 1749 | 10032 | 30571 |
-| **:triangular_flag_on_post: IPs** | 167 | 547 | 2824 | 11737 |
+| **:link: URLs** | 417 | 2282 | 12895 | 43114 |
+| **:globe_with_meridians: Domains** | 231 | 1754 | 10037 | 30576 |
+| **:triangular_flag_on_post: IPs** | 171 | 551 | 2828 | 11741 |
 | **:1234: SHA256** | 3 | 101 | 437 | 1469 |
 | **:1234: MD5** | 1 | 42 | 223 | 1161 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 439 | 3423 | 19135 | 55671 |
+| **#phishing** | 449 | 3433 | 19145 | 55681 |
 | **#scam** | 52 | 458 | 2347 | 5716 |
 | **#opendir** | 6 | 24 | 144 | 586 |
 | **#malware** | 224 | 1140 | 5274 | 14167 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 15 | 41 | 318 | 1018 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 119 | 237 | 1252 | 6824 |
+| **#CobaltStrike** | 128 | 246 | 1261 | 6833 |
 | **#Dcrat** | 4 | 6 | 44 | 412 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 6 | 6 | 16 | 22 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 352 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 211 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 147 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 361 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 213 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 155 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 54 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 14 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
