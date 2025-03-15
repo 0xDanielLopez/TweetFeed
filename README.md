@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 12:53:47 (UTC)</th>
+        <th colspan=4>2025-03-15 13:10:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 417 | 2282 | 12895 | 43114 |
+| **:link: URLs** | 419 | 2284 | 12897 | 43116 |
 | **:globe_with_meridians: Domains** | 231 | 1754 | 10037 | 30576 |
-| **:triangular_flag_on_post: IPs** | 172 | 552 | 2829 | 11742 |
+| **:triangular_flag_on_post: IPs** | 173 | 553 | 2830 | 11743 |
 | **:1234: SHA256** | 4 | 102 | 438 | 1470 |
 | **:1234: MD5** | 1 | 42 | 223 | 1161 |
 
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 4 |
+| **#9** | [yvesago](https://twitter.com/yvesago) | 5 |
 | **#10** | [threatquery](https://twitter.com/threatquery) | 3 |
 
 </div>
