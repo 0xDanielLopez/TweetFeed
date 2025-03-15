@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 00:51:25 (UTC)</th>
+        <th colspan=4>2025-03-15 01:08:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 1878 | 12491 | 42710 |
-| **:globe_with_meridians: Domains** | 14 | 1537 | 9820 | 30359 |
-| **:triangular_flag_on_post: IPs** | 0 | 380 | 2657 | 11570 |
+| **:link: URLs** | 44 | 1909 | 12522 | 42741 |
+| **:globe_with_meridians: Domains** | 45 | 1568 | 9851 | 30390 |
+| **:triangular_flag_on_post: IPs** | 2 | 382 | 2659 | 11572 |
 | **:1234: SHA256** | 0 | 98 | 434 | 1466 |
 | **:1234: MD5** | 0 | 41 | 222 | 1160 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 27 | 3011 | 18723 | 55259 |
-| **#scam** | 0 | 406 | 2295 | 5664 |
+| **#phishing** | 91 | 3075 | 18787 | 55323 |
+| **#scam** | 2 | 408 | 2297 | 5666 |
 | **#opendir** | 0 | 18 | 138 | 580 |
-| **#malware** | 15 | 931 | 5065 | 13958 |
+| **#malware** | 29 | 945 | 5079 | 13972 |
 | **#maldoc** | 0 | 4 | 4 | 7 |
 | **#ransomware** | 0 | 4 | 39 | 235 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 15 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 10 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#1** | [harugasumi](https://twitter.com/harugasumi) | 40 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 31 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 20 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
