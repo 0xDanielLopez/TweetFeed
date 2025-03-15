@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 10:24:39 (UTC)</th>
+        <th colspan=4>2025-03-15 10:41:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 290 | 2155 | 12768 | 42987 |
+| **:link: URLs** | 314 | 2179 | 12792 | 43011 |
 | **:globe_with_meridians: Domains** | 216 | 1739 | 10022 | 30561 |
-| **:triangular_flag_on_post: IPs** | 67 | 447 | 2724 | 11637 |
+| **:triangular_flag_on_post: IPs** | 92 | 472 | 2749 | 11662 |
 | **:1234: SHA256** | 3 | 101 | 437 | 1469 |
 | **:1234: MD5** | 1 | 42 | 223 | 1161 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 7 | 33 | 310 | 1010 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 36 | 154 | 1169 | 6741 |
+| **#CobaltStrike** | 59 | 177 | 1192 | 6764 |
 | **#Dcrat** | 2 | 4 | 42 | 410 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 6 | 6 | 16 | 22 |
@@ -167,8 +167,8 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 209 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 145 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 136 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 185 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 145 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 54 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 14 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
