@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 10:41:08 (UTC)</th>
+        <th colspan=4>2025-03-15 10:57:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 314 | 2179 | 12792 | 43011 |
-| **:globe_with_meridians: Domains** | 216 | 1739 | 10022 | 30561 |
-| **:triangular_flag_on_post: IPs** | 92 | 472 | 2749 | 11662 |
+| **:link: URLs** | 359 | 2224 | 12837 | 43056 |
+| **:globe_with_meridians: Domains** | 219 | 1742 | 10025 | 30564 |
+| **:triangular_flag_on_post: IPs** | 131 | 511 | 2788 | 11701 |
 | **:1234: SHA256** | 3 | 101 | 437 | 1469 |
 | **:1234: MD5** | 1 | 42 | 223 | 1161 |
 
@@ -132,10 +132,10 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 16 | 49 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 7 | 33 | 310 | 1010 |
+| **#AsyncRAT** | 11 | 37 | 314 | 1014 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 59 | 177 | 1192 | 6764 |
+| **#CobaltStrike** | 90 | 208 | 1223 | 6795 |
 | **#Dcrat** | 2 | 4 | 42 | 410 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 6 | 6 | 16 | 22 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 6 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 20 | 151 | 1085 |
-| **#Qakbot** | 0 | 0 | 65 | 588 |
+| **#Qakbot** | 6 | 6 | 71 | 594 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 6 | 17 | 106 |
-| **#Remcos** | 20 | 96 | 432 | 844 |
+| **#Remcos** | 28 | 104 | 440 | 852 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 15 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 209 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 185 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 272 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 209 |
 | **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 145 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 54 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 14 |
