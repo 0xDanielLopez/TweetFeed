@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 13:43:44 (UTC)</th>
+        <th colspan=4>2025-03-15 14:00:38 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 419 | 2284 | 12897 | 43116 |
-| **:globe_with_meridians: Domains** | 231 | 1754 | 10037 | 30576 |
-| **:triangular_flag_on_post: IPs** | 173 | 553 | 2830 | 11743 |
+| **:link: URLs** | 421 | 2286 | 12899 | 43118 |
+| **:globe_with_meridians: Domains** | 233 | 1756 | 10039 | 30578 |
+| **:triangular_flag_on_post: IPs** | 176 | 556 | 2833 | 11746 |
 | **:1234: SHA256** | 4 | 102 | 438 | 1470 |
 | **:1234: MD5** | 1 | 42 | 223 | 1161 |
 
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 6 | 24 | 144 | 586 |
 | **#malware** | 224 | 1140 | 5274 | 14167 |
 | **#maldoc** | 0 | 4 | 4 | 7 |
-| **#ransomware** | 0 | 4 | 39 | 235 |
+| **#ransomware** | 5 | 9 | 44 | 240 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 16 | 49 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
