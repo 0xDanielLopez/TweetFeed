@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-15 08:10:30 (UTC)</th>
+        <th colspan=4>2025-03-15 08:27:38 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 198 | 2063 | 12676 | 42895 |
+| **:link: URLs** | 202 | 2067 | 12680 | 42899 |
 | **:globe_with_meridians: Domains** | 183 | 1706 | 9989 | 30528 |
-| **:triangular_flag_on_post: IPs** | 20 | 400 | 2677 | 11590 |
+| **:triangular_flag_on_post: IPs** | 23 | 403 | 2680 | 11593 |
 | **:1234: SHA256** | 3 | 101 | 437 | 1469 |
 | **:1234: MD5** | 0 | 41 | 222 | 1160 |
 
@@ -169,12 +169,12 @@ If you like the project, please consider:
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 179 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 123 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 54 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 29 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 34 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 2 |
+| **#9** | [JcryptoRecovery](https://twitter.com/JcryptoRecovery) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
