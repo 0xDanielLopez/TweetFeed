@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 09:25:55 (UTC)</th>
+        <th colspan=4>2025-03-22 09:42:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 86 | 2471 | 11757 | 45123 |
-| **:globe_with_meridians: Domains** | 57 | 1824 | 8931 | 32178 |
+| **:link: URLs** | 90 | 2475 | 11761 | 45127 |
+| **:globe_with_meridians: Domains** | 61 | 1828 | 8935 | 32182 |
 | **:triangular_flag_on_post: IPs** | 30 | 625 | 2801 | 12150 |
-| **:1234: SHA256** | 1 | 160 | 519 | 1596 |
+| **:1234: SHA256** | 2 | 161 | 520 | 1597 |
 | **:1234: MD5** | 1 | 77 | 234 | 1228 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 70 | 3306 | 16797 | 58673 |
-| **#scam** | 4 | 420 | 2110 | 6144 |
+| **#phishing** | 74 | 3310 | 16801 | 58677 |
+| **#scam** | 6 | 422 | 2112 | 6146 |
 | **#opendir** | 2 | 24 | 99 | 609 |
-| **#malware** | 15 | 1198 | 5044 | 15378 |
+| **#malware** | 17 | 1200 | 5046 | 15380 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
 | **#ransomware** | 0 | 23 | 54 | 261 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 49 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 37 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 24 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 26 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 24 |
 | **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 18 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
-| **#10** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 2 |
+| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#10** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 
 </div>
 
