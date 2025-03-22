@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 02:02:59 (UTC)</th>
+        <th colspan=4>2025-03-22 02:19:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,7 +109,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 28 | 2413 | 11699 | 45065 |
 | **:globe_with_meridians: Domains** | 21 | 1788 | 8895 | 32142 |
-| **:triangular_flag_on_post: IPs** | 7 | 602 | 2778 | 12127 |
+| **:triangular_flag_on_post: IPs** | 10 | 605 | 2781 | 12130 |
 | **:1234: SHA256** | 0 | 159 | 518 | 1595 |
 | **:1234: MD5** | 1 | 77 | 234 | 1228 |
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 8 | 3244 | 16735 | 58611 |
 | **#scam** | 2 | 418 | 2108 | 6142 |
 | **#opendir** | 0 | 22 | 97 | 607 |
-| **#malware** | 0 | 1183 | 5029 | 15363 |
+| **#malware** | 3 | 1186 | 5032 | 15366 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
 | **#ransomware** | 0 | 23 | 54 | 261 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 49 |
 | **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 6 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#3** | [threatquery](https://twitter.com/threatquery) | 3 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
