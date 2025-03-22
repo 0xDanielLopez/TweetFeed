@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 15:04:42 (UTC)</th>
+        <th colspan=4>2025-03-22 15:21:47 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 140 | 2525 | 11811 | 45177 |
-| **:globe_with_meridians: Domains** | 89 | 1856 | 8963 | 32210 |
+| **:link: URLs** | 143 | 2528 | 11814 | 45180 |
+| **:globe_with_meridians: Domains** | 92 | 1859 | 8966 | 32213 |
 | **:triangular_flag_on_post: IPs** | 54 | 649 | 2825 | 12174 |
 | **:1234: SHA256** | 5 | 164 | 523 | 1600 |
 | **:1234: MD5** | 3 | 79 | 236 | 1230 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 118 | 3354 | 16845 | 58721 |
-| **#scam** | 14 | 430 | 2120 | 6154 |
+| **#phishing** | 124 | 3360 | 16851 | 58727 |
+| **#scam** | 16 | 432 | 2122 | 6156 |
 | **#opendir** | 2 | 24 | 99 | 609 |
 | **#malware** | 24 | 1207 | 5053 | 15387 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 73 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 59 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 48 |
-| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 36 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 50 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 38 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 26 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 6 |
-| **#10** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 5 |
+| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
+| **#10** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 6 |
 
 </div>
 
