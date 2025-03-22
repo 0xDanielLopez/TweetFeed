@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 11:23:52 (UTC)</th>
+        <th colspan=4>2025-03-22 11:40:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 115 | 2500 | 11786 | 45152 |
-| **:globe_with_meridians: Domains** | 68 | 1835 | 8942 | 32189 |
-| **:triangular_flag_on_post: IPs** | 46 | 641 | 2817 | 12166 |
+| **:link: URLs** | 117 | 2502 | 11788 | 45154 |
+| **:globe_with_meridians: Domains** | 69 | 1836 | 8943 | 32190 |
+| **:triangular_flag_on_post: IPs** | 47 | 642 | 2818 | 12167 |
 | **:1234: SHA256** | 2 | 161 | 520 | 1597 |
 | **:1234: MD5** | 2 | 78 | 235 | 1229 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 86 | 3322 | 16813 | 58689 |
+| **#phishing** | 88 | 3324 | 16815 | 58691 |
 | **#scam** | 10 | 426 | 2116 | 6150 |
 | **#opendir** | 2 | 24 | 99 | 609 |
 | **#malware** | 21 | 1204 | 5050 | 15384 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 4 | 54 | 289 | 1077 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 32 | 335 | 1352 | 6968 |
+| **#CobaltStrike** | 34 | 337 | 1354 | 6970 |
 | **#Dcrat** | 2 | 12 | 54 | 415 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 1 | 11 | 23 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 71 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 49 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 34 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 36 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 24 |
 | **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 20 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
