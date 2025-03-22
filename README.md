@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 06:50:16 (UTC)</th>
+        <th colspan=4>2025-03-22 07:07:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 58 | 2443 | 11729 | 45095 |
+| **:link: URLs** | 78 | 2463 | 11749 | 45115 |
 | **:globe_with_meridians: Domains** | 50 | 1817 | 8924 | 32171 |
-| **:triangular_flag_on_post: IPs** | 10 | 605 | 2781 | 12130 |
+| **:triangular_flag_on_post: IPs** | 29 | 624 | 2800 | 12149 |
 | **:1234: SHA256** | 0 | 159 | 518 | 1595 |
 | **:1234: MD5** | 1 | 77 | 234 | 1228 |
 
@@ -132,11 +132,11 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 7 | 23 | 56 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 50 | 285 | 1073 |
+| **#AsyncRAT** | 4 | 54 | 289 | 1077 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 303 | 1320 | 6936 |
-| **#Dcrat** | 0 | 10 | 52 | 413 |
+| **#Dcrat** | 2 | 12 | 54 | 415 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 1 | 11 | 23 |
 | **#GootLoader** | 0 | 0 | 0 | 5 |
@@ -146,11 +146,11 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 17 | 252 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 74 | 174 | 1108 |
-| **#Qakbot** | 0 | 15 | 71 | 580 |
+| **#Njrat** | 2 | 76 | 176 | 1110 |
+| **#Qakbot** | 4 | 19 | 75 | 584 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 5 | 22 | 110 |
-| **#Remcos** | 0 | 85 | 461 | 933 |
+| **#Remcos** | 6 | 91 | 467 | 939 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 15 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 49 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 22 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 18 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 14 |
-| **#5** | [DaveLikesMalwre](https://twitter.com/DaveLikesMalwre) | 11 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 37 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 22 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 18 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 14 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
