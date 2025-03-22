@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 10:15:42 (UTC)</th>
+        <th colspan=4>2025-03-22 10:33:02 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 92 | 2477 | 11763 | 45129 |
-| **:globe_with_meridians: Domains** | 63 | 1830 | 8937 | 32184 |
-| **:triangular_flag_on_post: IPs** | 30 | 625 | 2801 | 12150 |
+| **:link: URLs** | 97 | 2482 | 11768 | 45134 |
+| **:globe_with_meridians: Domains** | 67 | 1834 | 8941 | 32188 |
+| **:triangular_flag_on_post: IPs** | 31 | 626 | 2802 | 12151 |
 | **:1234: SHA256** | 2 | 161 | 520 | 1597 |
 | **:1234: MD5** | 1 | 77 | 234 | 1228 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 76 | 3312 | 16803 | 58679 |
-| **#scam** | 6 | 422 | 2112 | 6146 |
+| **#phishing** | 84 | 3320 | 16811 | 58687 |
+| **#scam** | 8 | 424 | 2114 | 6148 |
 | **#opendir** | 2 | 24 | 99 | 609 |
-| **#malware** | 17 | 1200 | 5046 | 15380 |
+| **#malware** | 21 | 1204 | 5050 | 15384 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
 | **#ransomware** | 0 | 23 | 54 | 261 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 49 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 37 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 28 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 34 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 24 |
-| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 18 |
+| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 20 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
