@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 13:23:23 (UTC)</th>
+        <th colspan=4>2025-03-22 13:40:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 133 | 2518 | 11804 | 45170 |
-| **:globe_with_meridians: Domains** | 82 | 1849 | 8956 | 32203 |
-| **:triangular_flag_on_post: IPs** | 50 | 645 | 2821 | 12170 |
-| **:1234: SHA256** | 2 | 161 | 520 | 1597 |
+| **:link: URLs** | 135 | 2520 | 11806 | 45172 |
+| **:globe_with_meridians: Domains** | 84 | 1851 | 8958 | 32205 |
+| **:triangular_flag_on_post: IPs** | 54 | 649 | 2825 | 12174 |
+| **:1234: SHA256** | 5 | 164 | 523 | 1600 |
 | **:1234: MD5** | 2 | 78 | 235 | 1229 |
 
 </div>
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 104 | 3340 | 16831 | 58707 |
+| **#phishing** | 108 | 3344 | 16835 | 58711 |
 | **#scam** | 12 | 428 | 2118 | 6152 |
 | **#opendir** | 2 | 24 | 99 | 609 |
 | **#malware** | 23 | 1206 | 5052 | 15386 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 73 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 59 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 42 |
-| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 28 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 44 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 30 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 26 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 5 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 6 |
+| **#10** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 5 |
 
 </div>
 
