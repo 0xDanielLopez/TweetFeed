@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 11:06:19 (UTC)</th>
+        <th colspan=4>2025-03-22 11:23:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 111 | 2496 | 11782 | 45148 |
+| **:link: URLs** | 115 | 2500 | 11786 | 45152 |
 | **:globe_with_meridians: Domains** | 68 | 1835 | 8942 | 32189 |
-| **:triangular_flag_on_post: IPs** | 42 | 637 | 2813 | 12162 |
+| **:triangular_flag_on_post: IPs** | 46 | 641 | 2817 | 12166 |
 | **:1234: SHA256** | 2 | 161 | 520 | 1597 |
-| **:1234: MD5** | 1 | 77 | 234 | 1228 |
+| **:1234: MD5** | 2 | 78 | 235 | 1229 |
 
 </div>
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 4 | 54 | 289 | 1077 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 24 | 327 | 1344 | 6960 |
+| **#CobaltStrike** | 32 | 335 | 1352 | 6968 |
 | **#Dcrat** | 2 | 12 | 54 | 415 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 1 | 11 | 23 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 61 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 49 |
 | **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 34 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 24 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 4 |
+| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#10** | [threatquery](https://twitter.com/threatquery) | 3 |
 
 </div>
