@@ -10,5 +10,19 @@
          <link>https://tweetfeed.live</link>
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
+      <item>
+         <title>https://raydium-exchange.org</title>
+         <link>https://x.com/Phish_Destroy/status/1903237562908496315</link>
+         <description>@Phish_Destroy | url | #phishing</description>
+         <guid>https://raydium-exchange.org</guid>
+         <pubDate>Sat, 22 Mar 2025 00:09:30 -0000</pubDate>
+      </item>
+      <item>
+         <title>raydium-exchange.org</title>
+         <link>https://x.com/Phish_Destroy/status/1903237562908496315</link>
+         <description>@Phish_Destroy | domain | #phishing</description>
+         <guid isPermaLink="false">raydium-exchange.org</guid>
+         <pubDate>Sat, 22 Mar 2025 00:09:30 -0000</pubDate>
+      </item>
    </channel>
 </rss>

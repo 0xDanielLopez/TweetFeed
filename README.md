@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 00:16:44 (UTC)</th>
+        <th colspan=4>2025-03-22 00:36:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 2385 | 11671 | 45037 |
-| **:globe_with_meridians: Domains** | 0 | 1767 | 8874 | 32121 |
+| **:link: URLs** | 1 | 2386 | 11672 | 45038 |
+| **:globe_with_meridians: Domains** | 1 | 1768 | 8875 | 32122 |
 | **:triangular_flag_on_post: IPs** | 0 | 595 | 2771 | 12120 |
 | **:1234: SHA256** | 0 | 159 | 518 | 1595 |
 | **:1234: MD5** | 0 | 76 | 233 | 1227 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 3236 | 16727 | 58603 |
+| **#phishing** | 2 | 3238 | 16729 | 58605 |
 | **#scam** | 0 | 416 | 2106 | 6140 |
 | **#opendir** | 0 | 22 | 97 | 607 |
 | **#malware** | 0 | 1183 | 5029 | 15363 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 2 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
