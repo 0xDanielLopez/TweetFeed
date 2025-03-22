@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 02:36:18 (UTC)</th>
+        <th colspan=4>2025-03-22 02:53:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 30 | 2415 | 11701 | 45067 |
-| **:globe_with_meridians: Domains** | 23 | 1790 | 8897 | 32144 |
+| **:link: URLs** | 34 | 2419 | 11705 | 45071 |
+| **:globe_with_meridians: Domains** | 27 | 1794 | 8901 | 32148 |
 | **:triangular_flag_on_post: IPs** | 10 | 605 | 2781 | 12130 |
 | **:1234: SHA256** | 0 | 159 | 518 | 1595 |
 | **:1234: MD5** | 1 | 77 | 234 | 1228 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 49 |
 | **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 10 |
-| **#3** | [threatquery](https://twitter.com/threatquery) | 3 |
-| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#3** | [DaveLikesMalwre](https://twitter.com/DaveLikesMalwre) | 8 |
+| **#4** | [threatquery](https://twitter.com/threatquery) | 3 |
+| **#5** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
