@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-22 11:57:34 (UTC)</th>
+        <th colspan=4>2025-03-22 12:14:54 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 122 | 2507 | 11793 | 45159 |
-| **:globe_with_meridians: Domains** | 73 | 1840 | 8947 | 32194 |
+| **:link: URLs** | 123 | 2508 | 11794 | 45160 |
+| **:globe_with_meridians: Domains** | 74 | 1841 | 8948 | 32195 |
 | **:triangular_flag_on_post: IPs** | 48 | 643 | 2819 | 12168 |
 | **:1234: SHA256** | 2 | 161 | 520 | 1597 |
 | **:1234: MD5** | 2 | 78 | 235 | 1229 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 96 | 3332 | 16823 | 58699 |
+| **#phishing** | 98 | 3334 | 16825 | 58701 |
 | **#scam** | 12 | 428 | 2118 | 6152 |
 | **#opendir** | 2 | 24 | 99 | 609 |
 | **#malware** | 21 | 1204 | 5050 | 15384 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 73 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 49 |
-| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 38 |
+| **#3** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 40 |
 | **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 26 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 24 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
