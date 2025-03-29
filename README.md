@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-29 08:14:51 (UTC)</th>
+        <th colspan=4>2025-03-29 08:31:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 89 | 2689 | 11702 | 46783 |
-| **:globe_with_meridians: Domains** | 52 | 2006 | 8828 | 33721 |
-| **:triangular_flag_on_post: IPs** | 35 | 691 | 2870 | 12281 |
+| **:link: URLs** | 91 | 2691 | 11704 | 46785 |
+| **:globe_with_meridians: Domains** | 53 | 2007 | 8829 | 33722 |
+| **:triangular_flag_on_post: IPs** | 36 | 692 | 2871 | 12282 |
 | **:1234: SHA256** | 0 | 78 | 533 | 1633 |
 | **:1234: MD5** | 1 | 73 | 256 | 1268 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 107 | 3778 | 16560 | 61757 |
+| **#phishing** | 109 | 3780 | 16562 | 61759 |
 | **#scam** | 24 | 475 | 2102 | 6644 |
 | **#opendir** | 0 | 19 | 88 | 604 |
 | **#malware** | 31 | 1127 | 5043 | 16470 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 71 |
 | **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 50 |
 | **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 40 |
 | **#4** | [romonlyht](https://twitter.com/romonlyht) | 7 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
