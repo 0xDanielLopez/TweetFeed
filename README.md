@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-29 16:31:18 (UTC)</th>
+        <th colspan=4>2025-03-29 16:48:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 204 | 2804 | 11817 | 46898 |
-| **:globe_with_meridians: Domains** | 140 | 2094 | 8916 | 33809 |
+| **:link: URLs** | 214 | 2814 | 11827 | 46908 |
+| **:globe_with_meridians: Domains** | 150 | 2104 | 8926 | 33819 |
 | **:triangular_flag_on_post: IPs** | 58 | 714 | 2893 | 12304 |
 | **:1234: SHA256** | 1 | 79 | 534 | 1634 |
 | **:1234: MD5** | 1 | 73 | 256 | 1268 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 281 | 3952 | 16734 | 61931 |
-| **#scam** | 52 | 503 | 2130 | 6672 |
+| **#phishing** | 301 | 3972 | 16754 | 61951 |
+| **#scam** | 54 | 505 | 2132 | 6674 |
 | **#opendir** | 0 | 19 | 88 | 604 |
-| **#malware** | 75 | 1171 | 5087 | 16514 |
+| **#malware** | 79 | 1175 | 5091 | 16518 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
 | **#ransomware** | 0 | 35 | 81 | 286 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 124 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 107 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 98 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 134 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 108 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 107 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 36 |
 | **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 14 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
