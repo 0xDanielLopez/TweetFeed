@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-29 06:56:00 (UTC)</th>
+        <th colspan=4>2025-03-29 07:21:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 58 | 2658 | 11671 | 46752 |
-| **:globe_with_meridians: Domains** | 47 | 2001 | 8823 | 33716 |
-| **:triangular_flag_on_post: IPs** | 6 | 662 | 2841 | 12252 |
+| **:link: URLs** | 85 | 2685 | 11698 | 46779 |
+| **:globe_with_meridians: Domains** | 48 | 2002 | 8824 | 33717 |
+| **:triangular_flag_on_post: IPs** | 32 | 688 | 2867 | 12278 |
 | **:1234: SHA256** | 0 | 78 | 533 | 1633 |
 | **:1234: MD5** | 1 | 73 | 256 | 1268 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 94 | 3765 | 16547 | 61744 |
-| **#scam** | 22 | 473 | 2100 | 6642 |
+| **#phishing** | 96 | 3767 | 16549 | 61746 |
+| **#scam** | 24 | 475 | 2102 | 6644 |
 | **#opendir** | 0 | 19 | 88 | 604 |
 | **#malware** | 29 | 1125 | 5041 | 16468 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
@@ -132,11 +132,11 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 1 | 24 | 57 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 78 | 261 | 1159 |
+| **#AsyncRAT** | 4 | 82 | 265 | 1163 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 321 | 1374 | 6596 |
-| **#Dcrat** | 0 | 8 | 52 | 409 |
+| **#Dcrat** | 2 | 10 | 54 | 411 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 7 | 23 |
 | **#GootLoader** | 0 | 0 | 0 | 5 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 23 | 188 | 1107 |
-| **#Qakbot** | 0 | 16 | 59 | 562 |
+| **#Qakbot** | 2 | 18 | 61 | 564 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 9 | 25 | 114 |
-| **#Remcos** | 0 | 107 | 496 | 1043 |
+| **#Remcos** | 16 | 123 | 512 | 1059 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 6 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 48 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 38 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 17 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 48 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 38 |
 | **#4** | [cyberhacker540](https://twitter.com/cyberhacker540) | 4 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
