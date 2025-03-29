@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-03-29 09:10:15 (UTC)</th>
+        <th colspan=4>2025-03-29 09:35:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 92 | 2692 | 11705 | 46786 |
-| **:globe_with_meridians: Domains** | 54 | 2008 | 8830 | 33723 |
+| **:link: URLs** | 116 | 2716 | 11729 | 46810 |
+| **:globe_with_meridians: Domains** | 78 | 2032 | 8854 | 33747 |
 | **:triangular_flag_on_post: IPs** | 36 | 692 | 2871 | 12282 |
 | **:1234: SHA256** | 0 | 78 | 533 | 1633 |
 | **:1234: MD5** | 1 | 73 | 256 | 1268 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 111 | 3782 | 16564 | 61761 |
-| **#scam** | 24 | 475 | 2102 | 6644 |
+| **#phishing** | 159 | 3830 | 16612 | 61809 |
+| **#scam** | 34 | 485 | 2112 | 6654 |
 | **#opendir** | 0 | 19 | 88 | 604 |
-| **#malware** | 31 | 1127 | 5043 | 16470 |
+| **#malware** | 47 | 1143 | 5059 | 16486 |
 | **#maldoc** | 0 | 0 | 4 | 7 |
 | **#ransomware** | 0 | 35 | 81 | 286 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 71 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 50 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 40 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 71 |
+| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
 | **#4** | [romonlyht](https://twitter.com/romonlyht) | 7 |
 | **#5** | [cyberhacker540](https://twitter.com/cyberhacker540) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
