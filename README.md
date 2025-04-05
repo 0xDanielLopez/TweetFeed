@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-05 03:15:14 (UTC)</th>
+        <th colspan=4>2025-04-05 03:38:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 46 | 2150 | 11110 | 47886 |
-| **:globe_with_meridians: Domains** | 43 | 1455 | 8142 | 34572 |
-| **:triangular_flag_on_post: IPs** | 2 | 640 | 2941 | 12488 |
+| **:link: URLs** | 59 | 2163 | 11123 | 47899 |
+| **:globe_with_meridians: Domains** | 54 | 1466 | 8153 | 34583 |
+| **:triangular_flag_on_post: IPs** | 3 | 641 | 2942 | 12489 |
 | **:1234: SHA256** | 0 | 60 | 472 | 1633 |
 | **:1234: MD5** | 0 | 102 | 311 | 1321 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 82 | 2736 | 15276 | 63729 |
+| **#phishing** | 107 | 2761 | 15301 | 63754 |
 | **#scam** | 8 | 322 | 1953 | 6988 |
 | **#opendir** | 0 | 21 | 101 | 620 |
-| **#malware** | 10 | 831 | 4849 | 17264 |
+| **#malware** | 14 | 835 | 4853 | 17268 |
 | **#maldoc** | 0 | 0 | 4 | 4 |
 | **#ransomware** | 0 | 18 | 88 | 303 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 60 |
-| **#2** | [catnap707](https://twitter.com/catnap707) | 18 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 66 |
+| **#2** | [catnap707](https://twitter.com/catnap707) | 37 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 3 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
