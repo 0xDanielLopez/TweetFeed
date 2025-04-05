@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-05 06:13:46 (UTC)</th>
+        <th colspan=4>2025-04-05 06:37:38 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 78 | 2182 | 11142 | 47918 |
-| **:globe_with_meridians: Domains** | 73 | 1485 | 8172 | 34602 |
-| **:triangular_flag_on_post: IPs** | 3 | 641 | 2942 | 12489 |
+| **:link: URLs** | 79 | 2183 | 11143 | 47919 |
+| **:globe_with_meridians: Domains** | 74 | 1486 | 8173 | 34603 |
+| **:triangular_flag_on_post: IPs** | 6 | 644 | 2945 | 12492 |
 | **:1234: SHA256** | 1 | 61 | 473 | 1634 |
 | **:1234: MD5** | 0 | 102 | 311 | 1321 |
 
@@ -123,16 +123,16 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 143 | 2797 | 15337 | 63790 |
-| **#scam** | 10 | 324 | 1955 | 6990 |
+| **#phishing** | 145 | 2799 | 15339 | 63792 |
+| **#scam** | 12 | 326 | 1957 | 6992 |
 | **#opendir** | 0 | 21 | 101 | 620 |
-| **#malware** | 20 | 841 | 4859 | 17274 |
+| **#malware** | 23 | 844 | 4862 | 17277 |
 | **#maldoc** | 0 | 0 | 4 | 4 |
 | **#ransomware** | 0 | 18 | 88 | 303 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 0 | 15 | 56 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 91 | 307 | 1252 |
+| **#AsyncRAT** | 1 | 92 | 308 | 1253 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 3 | 246 | 1399 | 6510 |
@@ -169,12 +169,12 @@ If you like the project, please consider:
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 78 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 61 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 3 |
-| **#5** | [JangPr0](https://twitter.com/JangPr0) | 3 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#5** | [drb_ra](https://twitter.com/drb_ra) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [SecurityAura](https://twitter.com/SecurityAura) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
