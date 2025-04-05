@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-05 13:42:22 (UTC)</th>
+        <th colspan=4>2025-04-05 14:00:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 168 | 2272 | 11232 | 48008 |
-| **:globe_with_meridians: Domains** | 130 | 1542 | 8229 | 34659 |
+| **:link: URLs** | 171 | 2275 | 11235 | 48011 |
+| **:globe_with_meridians: Domains** | 133 | 1545 | 8232 | 34662 |
 | **:triangular_flag_on_post: IPs** | 26 | 664 | 2965 | 12512 |
-| **:1234: SHA256** | 1 | 61 | 473 | 1634 |
+| **:1234: SHA256** | 3 | 63 | 475 | 1636 |
 | **:1234: MD5** | 0 | 102 | 311 | 1321 |
 
 </div>
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 258 | 2912 | 15452 | 63905 |
+| **#phishing** | 262 | 2916 | 15456 | 63909 |
 | **#scam** | 28 | 342 | 1973 | 7008 |
 | **#opendir** | 0 | 21 | 101 | 620 |
 | **#malware** | 57 | 878 | 4896 | 17311 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 188 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 190 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 61 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 55 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 5 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SecurityAura](https://twitter.com/SecurityAura) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [threatquery](https://twitter.com/threatquery) | 3 |
+| **#10** | [SecurityAura](https://twitter.com/SecurityAura) | 2 |
 
 </div>
 
