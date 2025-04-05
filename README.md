@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-05 11:07:39 (UTC)</th>
+        <th colspan=4>2025-04-05 11:32:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 166 | 2270 | 11230 | 48006 |
+| **:link: URLs** | 167 | 2271 | 11231 | 48007 |
 | **:globe_with_meridians: Domains** | 129 | 1541 | 8228 | 34658 |
 | **:triangular_flag_on_post: IPs** | 26 | 664 | 2965 | 12512 |
 | **:1234: SHA256** | 1 | 61 | 473 | 1634 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 8 | 99 | 315 | 1260 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 8 | 251 | 1404 | 6515 |
+| **#CobaltStrike** | 9 | 252 | 1405 | 6516 |
 | **#Dcrat** | 0 | 6 | 38 | 400 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 7 | 22 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 186 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 61 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 55 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
