@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-05 10:49:32 (UTC)</th>
+        <th colspan=4>2025-04-05 11:07:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 158 | 2262 | 11222 | 47998 |
-| **:globe_with_meridians: Domains** | 124 | 1536 | 8223 | 34653 |
-| **:triangular_flag_on_post: IPs** | 24 | 662 | 2963 | 12510 |
+| **:link: URLs** | 166 | 2270 | 11230 | 48006 |
+| **:globe_with_meridians: Domains** | 129 | 1541 | 8228 | 34658 |
+| **:triangular_flag_on_post: IPs** | 26 | 664 | 2965 | 12512 |
 | **:1234: SHA256** | 1 | 61 | 473 | 1634 |
 | **:1234: MD5** | 0 | 102 | 311 | 1321 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 246 | 2900 | 15440 | 63893 |
+| **#phishing** | 256 | 2910 | 15450 | 63903 |
 | **#scam** | 28 | 342 | 1973 | 7008 |
 | **#opendir** | 0 | 21 | 101 | 620 |
-| **#malware** | 53 | 874 | 4892 | 17307 |
+| **#malware** | 55 | 876 | 4894 | 17309 |
 | **#maldoc** | 0 | 0 | 4 | 4 |
 | **#ransomware** | 0 | 18 | 88 | 303 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 8 | 99 | 315 | 1260 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 3 | 246 | 1399 | 6510 |
+| **#CobaltStrike** | 8 | 251 | 1404 | 6515 |
 | **#Dcrat** | 0 | 6 | 38 | 400 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 7 | 22 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 176 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 186 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 61 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 49 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
