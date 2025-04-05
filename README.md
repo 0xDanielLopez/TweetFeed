@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-05 04:32:29 (UTC)</th>
+        <th colspan=4>2025-04-05 04:49:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 71 | 2175 | 11135 | 47911 |
-| **:globe_with_meridians: Domains** | 66 | 1478 | 8165 | 34595 |
+| **:link: URLs** | 72 | 2176 | 11136 | 47912 |
+| **:globe_with_meridians: Domains** | 67 | 1479 | 8166 | 34596 |
 | **:triangular_flag_on_post: IPs** | 3 | 641 | 2942 | 12489 |
-| **:1234: SHA256** | 0 | 60 | 472 | 1633 |
+| **:1234: SHA256** | 1 | 61 | 473 | 1634 |
 | **:1234: MD5** | 0 | 102 | 311 | 1321 |
 
 </div>
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [catnap707](https://twitter.com/catnap707) | 61 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 3 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#5** | [JangPr0](https://twitter.com/JangPr0) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
