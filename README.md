@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-11 15:11:31 (UTC)</th>
+        <th colspan=4>2025-04-11 15:29:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 212 | 1877 | 10565 | 48847 |
-| **:globe_with_meridians: Domains** | 132 | 1216 | 7413 | 35269 |
-| **:triangular_flag_on_post: IPs** | 100 | 621 | 3043 | 12694 |
+| **:link: URLs** | 226 | 1891 | 10579 | 48861 |
+| **:globe_with_meridians: Domains** | 146 | 1230 | 7427 | 35283 |
+| **:triangular_flag_on_post: IPs** | 101 | 622 | 3044 | 12695 |
 | **:1234: SHA256** | 3 | 55 | 435 | 1599 |
 | **:1234: MD5** | 1 | 57 | 341 | 1167 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 316 | 2337 | 13904 | 65286 |
+| **#phishing** | 345 | 2366 | 13933 | 65315 |
 | **#scam** | 14 | 300 | 1764 | 7271 |
 | **#opendir** | 1 | 21 | 98 | 620 |
-| **#malware** | 29 | 552 | 4273 | 17713 |
+| **#malware** | 31 | 554 | 4275 | 17715 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 89 | 302 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 184 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 66 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 86 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 63 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 45 |
 | **#5** | [OwnerProcessID_](https://twitter.com/OwnerProcessID_) | 24 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [g0njxa](https://twitter.com/g0njxa) | 6 |
-| **#10** | [ThreatBookLabs](https://twitter.com/ThreatBookLabs) | 4 |
+| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#10** | [g0njxa](https://twitter.com/g0njxa) | 6 |
 
 </div>
 
