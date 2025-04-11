@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-11 16:41:29 (UTC)</th>
+        <th colspan=4>2025-04-11 16:59:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 238 | 1903 | 10591 | 48873 |
-| **:globe_with_meridians: Domains** | 157 | 1241 | 7438 | 35294 |
+| **:link: URLs** | 244 | 1909 | 10597 | 48879 |
+| **:globe_with_meridians: Domains** | 163 | 1247 | 7444 | 35300 |
 | **:triangular_flag_on_post: IPs** | 102 | 623 | 3045 | 12696 |
 | **:1234: SHA256** | 3 | 55 | 435 | 1599 |
 | **:1234: MD5** | 1 | 57 | 341 | 1167 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 367 | 2388 | 13955 | 65337 |
-| **#scam** | 16 | 302 | 1766 | 7273 |
+| **#phishing** | 379 | 2400 | 13967 | 65349 |
+| **#scam** | 18 | 304 | 1768 | 7275 |
 | **#opendir** | 1 | 21 | 98 | 620 |
-| **#malware** | 35 | 558 | 4279 | 17719 |
+| **#malware** | 45 | 568 | 4289 | 17729 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 89 | 302 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 184 |
-| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 106 |
+| **#2** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 118 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 65 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 45 |
 | **#5** | [OwnerProcessID_](https://twitter.com/OwnerProcessID_) | 24 |
