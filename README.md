@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-11 07:04:15 (UTC)</th>
+        <th colspan=4>2025-04-11 07:22:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 132 | 1797 | 10485 | 48767 |
-| **:globe_with_meridians: Domains** | 69 | 1153 | 7350 | 35206 |
-| **:triangular_flag_on_post: IPs** | 90 | 611 | 3033 | 12684 |
+| **:link: URLs** | 141 | 1806 | 10494 | 48776 |
+| **:globe_with_meridians: Domains** | 75 | 1159 | 7356 | 35212 |
+| **:triangular_flag_on_post: IPs** | 94 | 615 | 3037 | 12688 |
 | **:1234: SHA256** | 1 | 53 | 433 | 1597 |
 | **:1234: MD5** | 1 | 57 | 341 | 1167 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 226 | 2247 | 13814 | 65196 |
+| **#phishing** | 245 | 2266 | 13833 | 65215 |
 | **#scam** | 6 | 292 | 1756 | 7263 |
 | **#opendir** | 1 | 21 | 98 | 620 |
-| **#malware** | 5 | 528 | 4249 | 17689 |
+| **#malware** | 7 | 530 | 4251 | 17691 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 89 | 302 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 167 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 184 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 49 |
 | **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 42 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [adqewrsf](https://twitter.com/adqewrsf) | 3 |
-| **#10** | [jh__1995](https://twitter.com/jh__1995) | 3 |
+| **#9** | [threatquery](https://twitter.com/threatquery) | 3 |
+| **#10** | [adqewrsf](https://twitter.com/adqewrsf) | 3 |
 
 </div>
 
