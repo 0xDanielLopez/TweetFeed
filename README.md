@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-11 03:47:46 (UTC)</th>
+        <th colspan=4>2025-04-11 04:08:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 26 | 1691 | 10379 | 48661 |
-| **:globe_with_meridians: Domains** | 15 | 1099 | 7296 | 35152 |
-| **:triangular_flag_on_post: IPs** | 17 | 538 | 2960 | 12611 |
+| **:link: URLs** | 34 | 1699 | 10387 | 48669 |
+| **:globe_with_meridians: Domains** | 21 | 1105 | 7302 | 35158 |
+| **:triangular_flag_on_post: IPs** | 32 | 553 | 2975 | 12626 |
 | **:1234: SHA256** | 0 | 52 | 432 | 1596 |
 | **:1234: MD5** | 0 | 56 | 340 | 1166 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 50 | 2071 | 13638 | 65020 |
+| **#phishing** | 73 | 2094 | 13661 | 65043 |
 | **#scam** | 4 | 290 | 1754 | 7261 |
 | **#opendir** | 1 | 21 | 98 | 620 |
 | **#malware** | 5 | 528 | 4249 | 17689 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 28 |
-| **#2** | [romonlyht](https://twitter.com/romonlyht) | 16 |
-| **#3** | [ThreatBookLabs](https://twitter.com/ThreatBookLabs) | 4 |
-| **#4** | [threatquery](https://twitter.com/threatquery) | 3 |
-| **#5** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 2 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 33 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 28 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#4** | [g0njxa](https://twitter.com/g0njxa) | 6 |
+| **#5** | [ThreatBookLabs](https://twitter.com/ThreatBookLabs) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#10** | [momomopas](https://twitter.com/momomopas) | 1 |
 
 </div>
 
