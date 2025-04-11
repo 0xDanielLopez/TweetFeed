@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-11 06:15:47 (UTC)</th>
+        <th colspan=4>2025-04-11 06:42:46 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 79 | 1744 | 10432 | 48714 |
-| **:globe_with_meridians: Domains** | 50 | 1134 | 7331 | 35187 |
-| **:triangular_flag_on_post: IPs** | 58 | 579 | 3001 | 12652 |
-| **:1234: SHA256** | 0 | 52 | 432 | 1596 |
+| **:link: URLs** | 84 | 1749 | 10437 | 48719 |
+| **:globe_with_meridians: Domains** | 54 | 1138 | 7335 | 35191 |
+| **:triangular_flag_on_post: IPs** | 60 | 581 | 3003 | 12654 |
+| **:1234: SHA256** | 1 | 53 | 433 | 1597 |
 | **:1234: MD5** | 0 | 56 | 340 | 1166 |
 
 </div>
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 173 | 2194 | 13761 | 65143 |
+| **#phishing** | 182 | 2203 | 13770 | 65152 |
 | **#scam** | 6 | 292 | 1756 | 7263 |
 | **#opendir** | 1 | 21 | 98 | 620 |
 | **#malware** | 5 | 528 | 4249 | 17689 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 117 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 126 |
 | **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 42 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#4** | [g0njxa](https://twitter.com/g0njxa) | 6 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#10** | [momomopas](https://twitter.com/momomopas) | 1 |
+| **#9** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 2 |
+| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 
 </div>
 
