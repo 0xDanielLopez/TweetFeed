@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-11 01:49:24 (UTC)</th>
+        <th colspan=4>2025-04-11 02:07:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 1681 | 10369 | 48651 |
-| **:globe_with_meridians: Domains** | 8 | 1092 | 7289 | 35145 |
-| **:triangular_flag_on_post: IPs** | 11 | 532 | 2954 | 12605 |
+| **:link: URLs** | 18 | 1683 | 10371 | 48653 |
+| **:globe_with_meridians: Domains** | 9 | 1093 | 7290 | 35146 |
+| **:triangular_flag_on_post: IPs** | 12 | 533 | 2955 | 12606 |
 | **:1234: SHA256** | 0 | 52 | 432 | 1596 |
 | **:1234: MD5** | 0 | 56 | 340 | 1166 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 28 | 2049 | 13616 | 64998 |
+| **#phishing** | 32 | 2053 | 13620 | 65002 |
 | **#scam** | 2 | 288 | 1752 | 7259 |
 | **#opendir** | 0 | 20 | 97 | 619 |
 | **#malware** | 5 | 528 | 4249 | 17689 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 24 |
+| **#1** | [Metemcyber](https://twitter.com/Metemcyber) | 28 |
 | **#2** | [ThreatBookLabs](https://twitter.com/ThreatBookLabs) | 4 |
 | **#3** | [threatquery](https://twitter.com/threatquery) | 3 |
 | **#4** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 2 |
