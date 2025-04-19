@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 10:23:27 (UTC)</th>
+        <th colspan=4>2025-04-19 10:47:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 194 | 2448 | 10770 | 50789 |
-| **:globe_with_meridians: Domains** | 155 | 1649 | 7363 | 36592 |
-| **:triangular_flag_on_post: IPs** | 34 | 756 | 3244 | 13224 |
-| **:1234: SHA256** | 6 | 90 | 362 | 1626 |
+| **:link: URLs** | 196 | 2450 | 10772 | 50791 |
+| **:globe_with_meridians: Domains** | 156 | 1650 | 7364 | 36593 |
+| **:triangular_flag_on_post: IPs** | 35 | 757 | 3245 | 13225 |
+| **:1234: SHA256** | 8 | 92 | 364 | 1628 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
 
 </div>
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [oriyenugh](https://twitter.com/oriyenugh) | 4 |
-| **#10** | [byrne_emmy12099](https://twitter.com/byrne_emmy12099) | 3 |
+| **#9** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
+| **#10** | [oriyenugh](https://twitter.com/oriyenugh) | 4 |
 
 </div>
 
