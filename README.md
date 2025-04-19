@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 12:03:55 (UTC)</th>
+        <th colspan=4>2025-04-19 12:24:36 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 216 | 2470 | 10792 | 50811 |
-| **:globe_with_meridians: Domains** | 160 | 1654 | 7368 | 36597 |
+| **:link: URLs** | 221 | 2475 | 10797 | 50816 |
+| **:globe_with_meridians: Domains** | 165 | 1659 | 7373 | 36602 |
 | **:triangular_flag_on_post: IPs** | 47 | 769 | 3257 | 13237 |
 | **:1234: SHA256** | 9 | 93 | 365 | 1629 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 230 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 79 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 36 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 46 |
 | **#4** | [500mk500](https://twitter.com/500mk500) | 34 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 16 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
