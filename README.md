@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 09:12:23 (UTC)</th>
+        <th colspan=4>2025-04-19 09:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 149 | 2403 | 10725 | 50744 |
-| **:globe_with_meridians: Domains** | 116 | 1610 | 7324 | 36553 |
-| **:triangular_flag_on_post: IPs** | 30 | 752 | 3240 | 13220 |
-| **:1234: SHA256** | 3 | 87 | 359 | 1623 |
-| **:1234: MD5** | 3 | 175 | 449 | 1315 |
+| **:link: URLs** | 162 | 2416 | 10738 | 50757 |
+| **:globe_with_meridians: Domains** | 124 | 1618 | 7332 | 36561 |
+| **:triangular_flag_on_post: IPs** | 33 | 755 | 3243 | 13223 |
+| **:1234: SHA256** | 5 | 89 | 361 | 1625 |
+| **:1234: MD5** | 8 | 180 | 454 | 1320 |
 
 </div>
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 224 | 2668 | 13217 | 67490 |
-| **#scam** | 24 | 297 | 1619 | 7623 |
+| **#phishing** | 238 | 2682 | 13231 | 67504 |
+| **#scam** | 26 | 299 | 1621 | 7625 |
 | **#opendir** | 0 | 36 | 110 | 647 |
-| **#malware** | 74 | 743 | 3655 | 18515 |
+| **#malware** | 91 | 760 | 3672 | 18532 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 4 | 70 | 306 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 188 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 202 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 54 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 29 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 16 |
-| **#5** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
+| **#5** | [redrabytes](https://twitter.com/redrabytes) | 7 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [threatray](https://twitter.com/threatray) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [byrne_emmy12099](https://twitter.com/byrne_emmy12099) | 3 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 
 </div>
 
