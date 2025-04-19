@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 01:50:03 (UTC)</th>
+        <th colspan=4>2025-04-19 02:07:53 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 2258 | 10580 | 50599 |
-| **:globe_with_meridians: Domains** | 3 | 1497 | 7211 | 36440 |
-| **:triangular_flag_on_post: IPs** | 3 | 725 | 3213 | 13193 |
+| **:link: URLs** | 7 | 2261 | 10583 | 50602 |
+| **:globe_with_meridians: Domains** | 5 | 1499 | 7213 | 36442 |
+| **:triangular_flag_on_post: IPs** | 4 | 726 | 3214 | 13194 |
 | **:1234: SHA256** | 1 | 85 | 357 | 1621 |
-| **:1234: MD5** | 2 | 174 | 448 | 1314 |
+| **:1234: MD5** | 3 | 175 | 449 | 1315 |
 
 </div>
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 6 | 2450 | 12999 | 67272 |
-| **#scam** | 0 | 273 | 1595 | 7599 |
+| **#phishing** | 8 | 2452 | 13001 | 67274 |
+| **#scam** | 2 | 275 | 1597 | 7601 |
 | **#opendir** | 0 | 36 | 110 | 647 |
 | **#malware** | 6 | 675 | 3587 | 18447 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 6 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#3** | [threatray](https://twitter.com/threatray) | 1 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#4** | [threatray](https://twitter.com/threatray) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
