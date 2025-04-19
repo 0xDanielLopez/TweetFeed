@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 17:39:38 (UTC)</th>
+        <th colspan=4>2025-04-19 18:02:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 280 | 2534 | 10856 | 50875 |
-| **:globe_with_meridians: Domains** | 221 | 1715 | 7429 | 36658 |
-| **:triangular_flag_on_post: IPs** | 51 | 773 | 3261 | 13241 |
-| **:1234: SHA256** | 10 | 94 | 366 | 1630 |
+| **:link: URLs** | 287 | 2541 | 10863 | 50882 |
+| **:globe_with_meridians: Domains** | 226 | 1720 | 7434 | 36663 |
+| **:triangular_flag_on_post: IPs** | 54 | 776 | 3264 | 13244 |
+| **:1234: SHA256** | 11 | 95 | 367 | 1631 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
 
 </div>
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 338 | 2782 | 13331 | 67604 |
+| **#phishing** | 346 | 2790 | 13339 | 67612 |
 | **#scam** | 48 | 321 | 1643 | 7647 |
 | **#opendir** | 0 | 36 | 110 | 647 |
-| **#malware** | 129 | 798 | 3710 | 18570 |
+| **#malware** | 139 | 808 | 3720 | 18580 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 4 | 70 | 306 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 296 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 304 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 79 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 46 |
 | **#4** | [500mk500](https://twitter.com/500mk500) | 46 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 6 |
-| **#10** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
+| **#9** | [UNP4CK](https://twitter.com/UNP4CK) | 7 |
+| **#10** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 6 |
 
 </div>
 
