@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 16:59:14 (UTC)</th>
+        <th colspan=4>2025-04-19 17:16:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 261 | 2515 | 10837 | 50856 |
-| **:globe_with_meridians: Domains** | 202 | 1696 | 7410 | 36639 |
+| **:link: URLs** | 277 | 2531 | 10853 | 50872 |
+| **:globe_with_meridians: Domains** | 218 | 1712 | 7426 | 36655 |
 | **:triangular_flag_on_post: IPs** | 51 | 773 | 3261 | 13241 |
 | **:1234: SHA256** | 10 | 94 | 366 | 1630 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 324 | 2768 | 13317 | 67590 |
+| **#phishing** | 332 | 2776 | 13325 | 67598 |
 | **#scam** | 44 | 317 | 1639 | 7643 |
 | **#opendir** | 0 | 36 | 110 | 647 |
-| **#malware** | 121 | 790 | 3702 | 18562 |
+| **#malware** | 127 | 796 | 3708 | 18568 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 4 | 70 | 306 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 282 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 290 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 79 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 46 |
 | **#4** | [500mk500](https://twitter.com/500mk500) | 46 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 18 |
+| **#5** | [OwnerProcessID_](https://twitter.com/OwnerProcessID_) | 24 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
-| **#10** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
+| **#9** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 6 |
+| **#10** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 
 </div>
 
