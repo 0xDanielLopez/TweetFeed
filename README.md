@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 08:25:16 (UTC)</th>
+        <th colspan=4>2025-04-19 08:48:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 140 | 2394 | 10716 | 50735 |
-| **:globe_with_meridians: Domains** | 107 | 1601 | 7315 | 36544 |
+| **:link: URLs** | 149 | 2403 | 10725 | 50744 |
+| **:globe_with_meridians: Domains** | 116 | 1610 | 7324 | 36553 |
 | **:triangular_flag_on_post: IPs** | 30 | 752 | 3240 | 13220 |
 | **:1234: SHA256** | 3 | 87 | 359 | 1623 |
 | **:1234: MD5** | 3 | 175 | 449 | 1315 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 206 | 2650 | 13199 | 67472 |
-| **#scam** | 22 | 295 | 1617 | 7621 |
+| **#phishing** | 224 | 2668 | 13217 | 67490 |
+| **#scam** | 24 | 297 | 1619 | 7623 |
 | **#opendir** | 0 | 36 | 110 | 647 |
-| **#malware** | 68 | 737 | 3649 | 18509 |
+| **#malware** | 74 | 743 | 3655 | 18515 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 4 | 70 | 306 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 174 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 188 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 54 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 29 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 12 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 16 |
 | **#5** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
