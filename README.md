@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 18:57:09 (UTC)</th>
+        <th colspan=4>2025-04-19 19:15:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 297 | 2551 | 10873 | 50892 |
-| **:globe_with_meridians: Domains** | 227 | 1721 | 7435 | 36664 |
-| **:triangular_flag_on_post: IPs** | 63 | 785 | 3273 | 13253 |
+| **:link: URLs** | 321 | 2575 | 10897 | 50916 |
+| **:globe_with_meridians: Domains** | 228 | 1722 | 7436 | 36665 |
+| **:triangular_flag_on_post: IPs** | 83 | 805 | 3293 | 13273 |
 | **:1234: SHA256** | 11 | 95 | 367 | 1631 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
 
@@ -132,10 +132,10 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 47 | 54 | 91 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 3 | 99 | 395 | 1421 |
+| **#AsyncRAT** | 7 | 103 | 399 | 1425 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 25 | 374 | 1442 | 6927 |
+| **#CobaltStrike** | 29 | 378 | 1446 | 6931 |
 | **#Dcrat** | 0 | 14 | 44 | 349 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 0 | 22 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 6 | 26 | 121 | 562 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 10 | 24 | 118 |
-| **#Remcos** | 18 | 159 | 503 | 1386 |
+| **#Remcos** | 30 | 171 | 515 | 1398 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 304 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 97 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 140 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 46 |
 | **#4** | [500mk500](https://twitter.com/500mk500) | 46 |
 | **#5** | [OwnerProcessID_](https://twitter.com/OwnerProcessID_) | 24 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [UNP4CK](https://twitter.com/UNP4CK) | 7 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#9** | [redrabytes](https://twitter.com/redrabytes) | 7 |
+| **#10** | [UNP4CK](https://twitter.com/UNP4CK) | 7 |
 
 </div>
 
