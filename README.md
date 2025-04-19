@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 16:06:22 (UTC)</th>
+        <th colspan=4>2025-04-19 16:23:56 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 255 | 2509 | 10831 | 50850 |
-| **:globe_with_meridians: Domains** | 198 | 1692 | 7406 | 36635 |
-| **:triangular_flag_on_post: IPs** | 49 | 771 | 3259 | 13239 |
+| **:link: URLs** | 258 | 2512 | 10834 | 50853 |
+| **:globe_with_meridians: Domains** | 199 | 1693 | 7407 | 36636 |
+| **:triangular_flag_on_post: IPs** | 51 | 773 | 3261 | 13241 |
 | **:1234: SHA256** | 10 | 94 | 366 | 1630 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 318 | 2762 | 13311 | 67584 |
 | **#scam** | 44 | 317 | 1639 | 7643 |
 | **#opendir** | 0 | 36 | 110 | 647 |
-| **#malware** | 115 | 784 | 3696 | 18556 |
+| **#malware** | 117 | 786 | 3698 | 18558 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 4 | 70 | 306 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 6 | 231 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 2 | 28 | 183 | 1044 |
+| **#Njrat** | 6 | 32 | 187 | 1048 |
 | **#Qakbot** | 2 | 22 | 117 | 558 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 10 | 24 | 118 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
+| **#10** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
 
 </div>
 
