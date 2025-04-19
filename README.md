@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 18:38:41 (UTC)</th>
+        <th colspan=4>2025-04-19 18:57:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 288 | 2542 | 10864 | 50883 |
+| **:link: URLs** | 297 | 2551 | 10873 | 50892 |
 | **:globe_with_meridians: Domains** | 227 | 1721 | 7435 | 36664 |
-| **:triangular_flag_on_post: IPs** | 54 | 776 | 3264 | 13244 |
+| **:triangular_flag_on_post: IPs** | 63 | 785 | 3273 | 13253 |
 | **:1234: SHA256** | 11 | 95 | 367 | 1631 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
 
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 6 | 32 | 187 | 1048 |
-| **#Qakbot** | 2 | 22 | 117 | 558 |
+| **#Qakbot** | 6 | 26 | 121 | 562 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 10 | 24 | 118 |
 | **#Remcos** | 18 | 159 | 503 | 1386 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 304 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 79 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 97 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 46 |
 | **#4** | [500mk500](https://twitter.com/500mk500) | 46 |
 | **#5** | [OwnerProcessID_](https://twitter.com/OwnerProcessID_) | 24 |
