@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 14:06:16 (UTC)</th>
+        <th colspan=4>2025-04-19 14:27:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 231 | 2485 | 10807 | 50826 |
-| **:globe_with_meridians: Domains** | 175 | 1669 | 7383 | 36612 |
+| **:link: URLs** | 250 | 2504 | 10826 | 50845 |
+| **:globe_with_meridians: Domains** | 194 | 1688 | 7402 | 36631 |
 | **:triangular_flag_on_post: IPs** | 48 | 770 | 3258 | 13238 |
 | **:1234: SHA256** | 10 | 94 | 366 | 1630 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 272 | 2716 | 13265 | 67538 |
-| **#scam** | 36 | 309 | 1631 | 7635 |
+| **#phishing** | 310 | 2754 | 13303 | 67576 |
+| **#scam** | 44 | 317 | 1639 | 7643 |
 | **#opendir** | 0 | 36 | 110 | 647 |
-| **#malware** | 99 | 768 | 3680 | 18540 |
+| **#malware** | 113 | 782 | 3694 | 18554 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 4 | 70 | 306 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 234 |
+| **#1** | [Phish_Destroy](https://twitter.com/Phish_Destroy) | 270 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 79 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 46 |
 | **#4** | [500mk500](https://twitter.com/500mk500) | 46 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [ElementalX2](https://twitter.com/ElementalX2) | 5 |
-| **#10** | [oriyenugh](https://twitter.com/oriyenugh) | 4 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 
 </div>
 
