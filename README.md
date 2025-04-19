@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-04-19 18:02:44 (UTC)</th>
+        <th colspan=4>2025-04-19 18:20:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 287 | 2541 | 10863 | 50882 |
-| **:globe_with_meridians: Domains** | 226 | 1720 | 7434 | 36663 |
+| **:link: URLs** | 288 | 2542 | 10864 | 50883 |
+| **:globe_with_meridians: Domains** | 227 | 1721 | 7435 | 36664 |
 | **:triangular_flag_on_post: IPs** | 54 | 776 | 3264 | 13244 |
 | **:1234: SHA256** | 11 | 95 | 367 | 1631 |
 | **:1234: MD5** | 8 | 180 | 454 | 1320 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 346 | 2790 | 13339 | 67612 |
-| **#scam** | 48 | 321 | 1643 | 7647 |
+| **#phishing** | 348 | 2792 | 13341 | 67614 |
+| **#scam** | 50 | 323 | 1645 | 7649 |
 | **#opendir** | 0 | 36 | 110 | 647 |
 | **#malware** | 139 | 808 | 3720 | 18580 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [UNP4CK](https://twitter.com/UNP4CK) | 7 |
-| **#10** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 6 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 
 </div>
 
