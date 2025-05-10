@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 04:33:35 (UTC)</th>
+        <th colspan=4>2025-05-10 04:52:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 1488 | 7753 | 51158 |
-| **:globe_with_meridians: Domains** | 7 | 886 | 4446 | 36594 |
+| **:link: URLs** | 9 | 1489 | 7754 | 51159 |
+| **:globe_with_meridians: Domains** | 8 | 887 | 4447 | 36595 |
 | **:triangular_flag_on_post: IPs** | 0 | 577 | 3117 | 13679 |
 | **:1234: SHA256** | 0 | 55 | 341 | 1513 |
 | **:1234: MD5** | 0 | 147 | 533 | 1550 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 12 | 927 | 6704 | 67019 |
+| **#phishing** | 14 | 929 | 6706 | 67021 |
 | **#scam** | 2 | 64 | 723 | 7895 |
 | **#opendir** | 0 | 40 | 149 | 677 |
 | **#malware** | 0 | 92 | 1380 | 18761 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
-| **#2** | [RayRigel](https://twitter.com/RayRigel) | 4 |
+| **#1** | [RayRigel](https://twitter.com/RayRigel) | 6 |
+| **#2** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
 | **#3** | [rcwht_](https://twitter.com/rcwht_) | 3 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
