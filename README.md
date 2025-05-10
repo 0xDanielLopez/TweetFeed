@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 07:47:19 (UTC)</th>
+        <th colspan=4>2025-05-10 08:14:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 36 | 1516 | 7781 | 51186 |
+| **:link: URLs** | 37 | 1517 | 7782 | 51187 |
 | **:globe_with_meridians: Domains** | 13 | 892 | 4452 | 36600 |
 | **:triangular_flag_on_post: IPs** | 19 | 596 | 3136 | 13698 |
 | **:1234: SHA256** | 0 | 55 | 341 | 1513 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 2 | 76 | 408 | 1688 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 1 | 235 | 1281 | 6605 |
+| **#CobaltStrike** | 2 | 236 | 1282 | 6606 |
 | **#Dcrat** | 0 | 15 | 55 | 237 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 39 | 70 | 90 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 39 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 40 |
 | **#2** | [RayRigel](https://twitter.com/RayRigel) | 6 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
 | **#4** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
