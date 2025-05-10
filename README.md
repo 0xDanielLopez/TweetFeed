@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 00:45:20 (UTC)</th>
+        <th colspan=4>2025-05-10 01:04:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 1484 | 7749 | 51154 |
-| **:globe_with_meridians: Domains** | 3 | 882 | 4442 | 36590 |
+| **:link: URLs** | 5 | 1485 | 7750 | 51155 |
+| **:globe_with_meridians: Domains** | 4 | 883 | 4443 | 36591 |
 | **:triangular_flag_on_post: IPs** | 0 | 577 | 3117 | 13679 |
 | **:1234: SHA256** | 0 | 55 | 341 | 1513 |
 | **:1234: MD5** | 0 | 147 | 533 | 1550 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 4 | 919 | 6696 | 67011 |
+| **#phishing** | 6 | 921 | 6698 | 67013 |
 | **#scam** | 0 | 62 | 721 | 7893 |
 | **#opendir** | 0 | 40 | 149 | 677 |
 | **#malware** | 0 | 92 | 1380 | 18761 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
 | **#2** | [rcwht_](https://twitter.com/rcwht_) | 3 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
