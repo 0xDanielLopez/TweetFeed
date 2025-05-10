@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 06:53:17 (UTC)</th>
+        <th colspan=4>2025-05-10 07:11:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 1495 | 7760 | 51165 |
+| **:link: URLs** | 35 | 1515 | 7780 | 51185 |
 | **:globe_with_meridians: Domains** | 12 | 891 | 4451 | 36599 |
-| **:triangular_flag_on_post: IPs** | 1 | 578 | 3118 | 13680 |
+| **:triangular_flag_on_post: IPs** | 19 | 596 | 3136 | 13698 |
 | **:1234: SHA256** | 0 | 55 | 341 | 1513 |
 | **:1234: MD5** | 1 | 148 | 534 | 1551 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 0 | 11 | 126 | 158 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 74 | 406 | 1686 |
+| **#AsyncRAT** | 2 | 76 | 408 | 1688 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 1 | 235 | 1281 | 6605 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 0 | 91 | 905 |
-| **#Qakbot** | 0 | 33 | 150 | 569 |
+| **#Qakbot** | 2 | 35 | 152 | 571 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 3 | 21 | 98 |
-| **#Remcos** | 0 | 115 | 517 | 1650 |
+| **#Remcos** | 4 | 119 | 521 | 1654 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,15 +166,15 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [RayRigel](https://twitter.com/RayRigel) | 6 |
-| **#2** | [masaomi346](https://twitter.com/masaomi346) | 6 |
-| **#3** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
-| **#4** | [knight0x07](https://twitter.com/knight0x07) | 4 |
-| **#5** | [rcwht_](https://twitter.com/rcwht_) | 3 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 39 |
+| **#2** | [RayRigel](https://twitter.com/RayRigel) | 6 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#4** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
+| **#5** | [knight0x07](https://twitter.com/knight0x07) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [drb_ra](https://twitter.com/drb_ra) | 1 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
