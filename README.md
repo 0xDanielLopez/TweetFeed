@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 11:26:51 (UTC)</th>
+        <th colspan=4>2025-05-10 11:44:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 40 | 1520 | 7785 | 51190 |
-| **:globe_with_meridians: Domains** | 15 | 894 | 4454 | 36602 |
-| **:triangular_flag_on_post: IPs** | 20 | 597 | 3137 | 13699 |
+| **:link: URLs** | 46 | 1526 | 7791 | 51196 |
+| **:globe_with_meridians: Domains** | 20 | 899 | 4459 | 36607 |
+| **:triangular_flag_on_post: IPs** | 21 | 598 | 3138 | 13700 |
 | **:1234: SHA256** | 2 | 57 | 343 | 1515 |
 | **:1234: MD5** | 1 | 148 | 534 | 1551 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 2 | 76 | 408 | 1688 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 2 | 236 | 1282 | 6606 |
+| **#CobaltStrike** | 4 | 238 | 1284 | 6608 |
 | **#Dcrat** | 0 | 15 | 55 | 237 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 39 | 70 | 90 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 40 |
-| **#2** | [RayRigel](https://twitter.com/RayRigel) | 6 |
-| **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
-| **#4** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 4 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 42 |
+| **#2** | [setThreatTitle](https://twitter.com/setThreatTitle) | 10 |
+| **#3** | [RayRigel](https://twitter.com/RayRigel) | 6 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#5** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [rcwht_](https://twitter.com/rcwht_) | 3 |
-| **#10** | [notsoolucky_](https://twitter.com/notsoolucky_) | 2 |
+| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 4 |
+| **#10** | [rcwht_](https://twitter.com/rcwht_) | 3 |
 
 </div>
 
