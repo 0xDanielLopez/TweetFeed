@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 07:11:41 (UTC)</th>
+        <th colspan=4>2025-05-10 07:28:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 1515 | 7780 | 51185 |
-| **:globe_with_meridians: Domains** | 12 | 891 | 4451 | 36599 |
+| **:link: URLs** | 36 | 1516 | 7781 | 51186 |
+| **:globe_with_meridians: Domains** | 13 | 892 | 4452 | 36600 |
 | **:triangular_flag_on_post: IPs** | 19 | 596 | 3136 | 13698 |
 | **:1234: SHA256** | 0 | 55 | 341 | 1513 |
 | **:1234: MD5** | 1 | 148 | 534 | 1551 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 20 | 935 | 6712 | 67027 |
+| **#phishing** | 22 | 937 | 6714 | 67029 |
 | **#scam** | 2 | 64 | 723 | 7895 |
 | **#opendir** | 0 | 40 | 149 | 677 |
 | **#malware** | 5 | 97 | 1385 | 18766 |
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [RayRigel](https://twitter.com/RayRigel) | 6 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
 | **#4** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
-| **#5** | [knight0x07](https://twitter.com/knight0x07) | 4 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
