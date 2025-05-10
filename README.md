@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-10 06:34:47 (UTC)</th>
+        <th colspan=4>2025-05-10 06:53:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 11 | 1491 | 7756 | 51161 |
-| **:globe_with_meridians: Domains** | 9 | 888 | 4448 | 36596 |
+| **:link: URLs** | 15 | 1495 | 7760 | 51165 |
+| **:globe_with_meridians: Domains** | 12 | 891 | 4451 | 36599 |
 | **:triangular_flag_on_post: IPs** | 1 | 578 | 3118 | 13680 |
 | **:1234: SHA256** | 0 | 55 | 341 | 1513 |
 | **:1234: MD5** | 1 | 148 | 534 | 1551 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 14 | 929 | 6706 | 67021 |
+| **#phishing** | 20 | 935 | 6712 | 67027 |
 | **#scam** | 2 | 64 | 723 | 7895 |
 | **#opendir** | 0 | 40 | 149 | 677 |
 | **#malware** | 5 | 97 | 1385 | 18766 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 74 | 406 | 1686 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 234 | 1280 | 6604 |
+| **#CobaltStrike** | 1 | 235 | 1281 | 6605 |
 | **#Dcrat** | 0 | 15 | 55 | 237 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 39 | 70 | 90 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [RayRigel](https://twitter.com/RayRigel) | 6 |
-| **#2** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
-| **#3** | [knight0x07](https://twitter.com/knight0x07) | 4 |
-| **#4** | [rcwht_](https://twitter.com/rcwht_) | 3 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#2** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#3** | [ir0n_fe](https://twitter.com/ir0n_fe) | 4 |
+| **#4** | [knight0x07](https://twitter.com/knight0x07) | 4 |
+| **#5** | [rcwht_](https://twitter.com/rcwht_) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [drb_ra](https://twitter.com/drb_ra) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
