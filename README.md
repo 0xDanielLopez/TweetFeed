@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-17 15:27:13 (UTC)</th>
+        <th colspan=4>2025-05-17 15:46:40 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 178 | 1543 | 6796 | 51457 |
-| **:globe_with_meridians: Domains** | 119 | 787 | 3513 | 36720 |
+| **:link: URLs** | 182 | 1547 | 6800 | 51461 |
+| **:globe_with_meridians: Domains** | 122 | 790 | 3516 | 36723 |
 | **:triangular_flag_on_post: IPs** | 52 | 685 | 3017 | 13829 |
 | **:1234: SHA256** | 3 | 65 | 319 | 1487 |
-| **:1234: MD5** | 27 | 163 | 561 | 1669 |
+| **:1234: MD5** | 31 | 167 | 565 | 1673 |
 
 </div>
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 1 | 6 | 98 | 159 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 6 | 80 | 405 | 1765 |
+| **#AsyncRAT** | 14 | 88 | 413 | 1773 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 19 | 335 | 1343 | 6459 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 199 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 210 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 86 |
 | **#3** | [catnap707](https://twitter.com/catnap707) | 24 |
 | **#4** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 16 |
