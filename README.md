@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-17 07:22:31 (UTC)</th>
+        <th colspan=4>2025-05-17 07:44:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 96 | 1461 | 6714 | 51375 |
-| **:globe_with_meridians: Domains** | 56 | 724 | 3450 | 36657 |
+| **:link: URLs** | 113 | 1478 | 6731 | 51392 |
+| **:globe_with_meridians: Domains** | 72 | 740 | 3466 | 36673 |
 | **:triangular_flag_on_post: IPs** | 36 | 669 | 3001 | 13813 |
 | **:1234: SHA256** | 1 | 63 | 317 | 1485 |
-| **:1234: MD5** | 18 | 154 | 552 | 1660 |
+| **:1234: MD5** | 20 | 156 | 554 | 1662 |
 
 </div>
 
@@ -125,14 +125,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 36 | 812 | 4572 | 66759 |
 | **#scam** | 2 | 47 | 461 | 7941 |
-| **#opendir** | 0 | 25 | 134 | 674 |
-| **#malware** | 2 | 72 | 785 | 18765 |
+| **#opendir** | 5 | 30 | 139 | 679 |
+| **#malware** | 7 | 77 | 790 | 18770 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 2 | 12 | 64 | 309 |
 | **#banker** | 0 | 0 | 0 | 3 |
 | **#AgentTesla** | 1 | 6 | 98 | 159 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 1 | 75 | 400 | 1760 |
+| **#AsyncRAT** | 6 | 80 | 405 | 1765 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 316 | 1324 | 6440 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 95 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 125 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 64 |
 | **#3** | [catnap707](https://twitter.com/catnap707) | 24 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#5** | [masaomi346](https://twitter.com/masaomi346) | 4 |
+| **#5** | [ShanHolo](https://twitter.com/ShanHolo) | 5 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#10** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 2 |
+| **#9** | [mbec03](https://twitter.com/mbec03) | 2 |
+| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 
 </div>
 
