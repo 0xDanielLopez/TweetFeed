@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-17 16:50:04 (UTC)</th>
+        <th colspan=4>2025-05-17 17:08:56 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 186 | 1551 | 6804 | 51465 |
-| **:globe_with_meridians: Domains** | 123 | 791 | 3517 | 36724 |
-| **:triangular_flag_on_post: IPs** | 52 | 685 | 3017 | 13829 |
+| **:link: URLs** | 189 | 1554 | 6807 | 51468 |
+| **:globe_with_meridians: Domains** | 125 | 793 | 3519 | 36726 |
+| **:triangular_flag_on_post: IPs** | 53 | 686 | 3018 | 13830 |
 | **:1234: SHA256** | 3 | 65 | 319 | 1487 |
-| **:1234: MD5** | 36 | 172 | 570 | 1678 |
+| **:1234: MD5** | 37 | 173 | 571 | 1679 |
 
 </div>
 
@@ -125,8 +125,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 54 | 830 | 4590 | 66777 |
 | **#scam** | 4 | 49 | 463 | 7943 |
-| **#opendir** | 5 | 30 | 139 | 679 |
-| **#malware** | 9 | 79 | 792 | 18772 |
+| **#opendir** | 10 | 35 | 144 | 684 |
+| **#malware** | 14 | 84 | 797 | 18777 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 2 | 12 | 64 | 309 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -138,7 +138,7 @@ If you like the project, please consider:
 | **#CobaltStrike** | 19 | 335 | 1343 | 6459 |
 | **#Dcrat** | 4 | 15 | 54 | 233 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
-| **#Formbook** | 0 | 0 | 70 | 87 |
+| **#Formbook** | 5 | 5 | 75 | 92 |
 | **#GootLoader** | 0 | 0 | 0 | 5 |
 | **#GuLoader** | 0 | 8 | 11 | 28 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 86 |
 | **#3** | [catnap707](https://twitter.com/catnap707) | 24 |
 | **#4** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 16 |
-| **#5** | [userlolxxl](https://twitter.com/userlolxxl) | 9 |
+| **#5** | [ShanHolo](https://twitter.com/ShanHolo) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
