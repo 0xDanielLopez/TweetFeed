@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-17 06:09:24 (UTC)</th>
+        <th colspan=4>2025-05-17 06:27:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 56 | 724 | 3450 | 36657 |
 | **:triangular_flag_on_post: IPs** | 6 | 639 | 2971 | 13783 |
 | **:1234: SHA256** | 1 | 63 | 317 | 1485 |
-| **:1234: MD5** | 15 | 151 | 549 | 1657 |
+| **:1234: MD5** | 18 | 154 | 552 | 1660 |
 
 </div>
 
@@ -130,7 +130,7 @@ If you like the project, please consider:
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 10 | 62 | 307 |
 | **#banker** | 0 | 0 | 0 | 3 |
-| **#AgentTesla** | 0 | 5 | 97 | 158 |
+| **#AgentTesla** | 1 | 6 | 98 | 159 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
 | **#AsyncRAT** | 0 | 74 | 399 | 1759 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 92 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 95 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 24 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 4 |
