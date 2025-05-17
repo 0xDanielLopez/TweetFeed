@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-17 17:46:31 (UTC)</th>
+        <th colspan=4>2025-05-17 18:05:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 191 | 1556 | 6809 | 51470 |
-| **:globe_with_meridians: Domains** | 127 | 795 | 3521 | 36728 |
+| **:link: URLs** | 192 | 1557 | 6810 | 51471 |
+| **:globe_with_meridians: Domains** | 128 | 796 | 3522 | 36729 |
 | **:triangular_flag_on_post: IPs** | 53 | 686 | 3018 | 13830 |
 | **:1234: SHA256** | 3 | 65 | 319 | 1487 |
 | **:1234: MD5** | 38 | 174 | 572 | 1680 |
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 54 | 830 | 4590 | 66777 |
 | **#scam** | 4 | 49 | 463 | 7943 |
 | **#opendir** | 10 | 35 | 144 | 684 |
-| **#malware** | 14 | 84 | 797 | 18777 |
+| **#malware** | 16 | 86 | 799 | 18779 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 2 | 12 | 64 | 309 |
 | **#banker** | 0 | 0 | 0 | 3 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 2 | 26 | 142 | 540 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 13 | 92 |
-| **#Remcos** | 10 | 128 | 493 | 1777 |
+| **#Remcos** | 12 | 130 | 495 | 1779 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
