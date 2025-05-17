@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-17 08:09:08 (UTC)</th>
+        <th colspan=4>2025-05-17 08:28:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 113 | 1478 | 6731 | 51392 |
-| **:globe_with_meridians: Domains** | 72 | 740 | 3466 | 36673 |
-| **:triangular_flag_on_post: IPs** | 36 | 669 | 3001 | 13813 |
+| **:link: URLs** | 123 | 1488 | 6741 | 51402 |
+| **:globe_with_meridians: Domains** | 80 | 748 | 3474 | 36681 |
+| **:triangular_flag_on_post: IPs** | 38 | 671 | 3003 | 13815 |
 | **:1234: SHA256** | 1 | 63 | 317 | 1485 |
 | **:1234: MD5** | 20 | 156 | 554 | 1662 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 36 | 812 | 4572 | 66759 |
+| **#phishing** | 48 | 824 | 4584 | 66771 |
 | **#scam** | 2 | 47 | 461 | 7941 |
 | **#opendir** | 5 | 30 | 139 | 679 |
 | **#malware** | 7 | 77 | 790 | 18770 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 125 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 137 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 64 |
 | **#3** | [catnap707](https://twitter.com/catnap707) | 24 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
-| **#5** | [ShanHolo](https://twitter.com/ShanHolo) | 5 |
+| **#4** | [volrant136](https://twitter.com/volrant136) | 8 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [mbec03](https://twitter.com/mbec03) | 2 |
-| **#10** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#9** | [L0Psec](https://twitter.com/L0Psec) | 3 |
+| **#10** | [mbec03](https://twitter.com/mbec03) | 2 |
 
 </div>
 
