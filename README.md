@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 08:56:19 (UTC)</th>
+        <th colspan=4>2025-05-24 09:19:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,9 +109,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 72 | 1253 | 6154 | 51156 |
 | **:globe_with_meridians: Domains** | 42 | 568 | 3000 | 36463 |
-| **:triangular_flag_on_post: IPs** | 37 | 661 | 2915 | 13852 |
+| **:triangular_flag_on_post: IPs** | 40 | 664 | 2918 | 13855 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
-| **:1234: MD5** | 16 | 128 | 572 | 1770 |
+| **:1234: MD5** | 19 | 131 | 575 | 1773 |
 
 </div>
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 73 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 79 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 42 |
 | **#3** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
 | **#4** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
