@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 07:57:29 (UTC)</th>
+        <th colspan=4>2025-05-24 08:16:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 67 | 1248 | 6149 | 51151 |
-| **:globe_with_meridians: Domains** | 38 | 564 | 2996 | 36459 |
+| **:link: URLs** | 68 | 1249 | 6150 | 51152 |
+| **:globe_with_meridians: Domains** | 39 | 565 | 2997 | 36460 |
 | **:triangular_flag_on_post: IPs** | 36 | 660 | 2914 | 13851 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
 | **:1234: MD5** | 16 | 128 | 572 | 1770 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 24 | 476 | 3275 | 65901 |
+| **#phishing** | 26 | 478 | 3277 | 65903 |
 | **#scam** | 4 | 60 | 294 | 7987 |
 | **#opendir** | 2 | 33 | 149 | 689 |
 | **#malware** | 2 | 92 | 378 | 18791 |
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 42 |
 | **#3** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
 | **#4** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 7 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 9 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
