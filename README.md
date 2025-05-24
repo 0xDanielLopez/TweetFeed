@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 03:44:44 (UTC)</th>
+        <th colspan=4>2025-05-24 04:05:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 1188 | 6089 | 51091 |
-| **:globe_with_meridians: Domains** | 7 | 533 | 2965 | 36428 |
-| **:triangular_flag_on_post: IPs** | 8 | 632 | 2886 | 13823 |
+| **:link: URLs** | 10 | 1191 | 6092 | 51094 |
+| **:globe_with_meridians: Domains** | 9 | 535 | 2967 | 36430 |
+| **:triangular_flag_on_post: IPs** | 9 | 633 | 2887 | 13824 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
-| **:1234: MD5** | 6 | 118 | 562 | 1760 |
+| **:1234: MD5** | 9 | 121 | 565 | 1763 |
 
 </div>
 
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 9 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 18 |
+| **#2** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 5 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
