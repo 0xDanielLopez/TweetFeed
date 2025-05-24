@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 16:59:20 (UTC)</th>
+        <th colspan=4>2025-05-24 17:19:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 96 | 1277 | 6178 | 51180 |
-| **:globe_with_meridians: Domains** | 55 | 581 | 3013 | 36476 |
+| **:link: URLs** | 97 | 1278 | 6179 | 51181 |
+| **:globe_with_meridians: Domains** | 56 | 582 | 3014 | 36477 |
 | **:triangular_flag_on_post: IPs** | 48 | 672 | 2926 | 13863 |
 | **:1234: SHA256** | 2 | 55 | 276 | 1425 |
 | **:1234: MD5** | 21 | 133 | 577 | 1775 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 88 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 90 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 56 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 24 |
 | **#4** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
