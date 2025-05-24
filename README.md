@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 08:35:50 (UTC)</th>
+        <th colspan=4>2025-05-24 08:56:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 68 | 1249 | 6150 | 51152 |
-| **:globe_with_meridians: Domains** | 39 | 565 | 2997 | 36460 |
-| **:triangular_flag_on_post: IPs** | 36 | 660 | 2914 | 13851 |
+| **:link: URLs** | 72 | 1253 | 6154 | 51156 |
+| **:globe_with_meridians: Domains** | 42 | 568 | 3000 | 36463 |
+| **:triangular_flag_on_post: IPs** | 37 | 661 | 2915 | 13852 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
 | **:1234: MD5** | 16 | 128 | 572 | 1770 |
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 65 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 73 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 42 |
 | **#3** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
 | **#4** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
