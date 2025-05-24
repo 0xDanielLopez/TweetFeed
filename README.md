@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 00:40:09 (UTC)</th>
+        <th colspan=4>2025-05-24 01:04:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 1181 | 6082 | 51084 |
-| **:globe_with_meridians: Domains** | 0 | 526 | 2958 | 36421 |
-| **:triangular_flag_on_post: IPs** | 0 | 624 | 2878 | 13815 |
+| **:link: URLs** | 3 | 1184 | 6085 | 51087 |
+| **:globe_with_meridians: Domains** | 3 | 529 | 2961 | 36424 |
+| **:triangular_flag_on_post: IPs** | 1 | 625 | 2879 | 13816 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
 | **:1234: MD5** | 0 | 112 | 556 | 1754 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 452 | 3251 | 65877 |
+| **#phishing** | 7 | 459 | 3258 | 65884 |
 | **#scam** | 0 | 56 | 290 | 7983 |
 | **#opendir** | 0 | 31 | 147 | 687 |
 | **#malware** | 0 | 90 | 376 | 18789 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [harugasumi](https://twitter.com/harugasumi) | 5 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
