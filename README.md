@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 19:02:19 (UTC)</th>
+        <th colspan=4>2025-05-24 19:21:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 107 | 1288 | 6189 | 51191 |
+| **:link: URLs** | 142 | 1323 | 6224 | 51226 |
 | **:globe_with_meridians: Domains** | 56 | 582 | 3014 | 36477 |
-| **:triangular_flag_on_post: IPs** | 59 | 683 | 2937 | 13874 |
+| **:triangular_flag_on_post: IPs** | 89 | 713 | 2967 | 13904 |
 | **:1234: SHA256** | 4 | 57 | 278 | 1427 |
 | **:1234: MD5** | 21 | 133 | 577 | 1775 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 17 | 158 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 6 | 76 | 385 | 1847 |
+| **#AsyncRAT** | 8 | 78 | 387 | 1849 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 12 | 417 | 1377 | 6432 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 38 | 44 | 765 |
-| **#Qakbot** | 2 | 31 | 142 | 543 |
+| **#Qakbot** | 3 | 32 | 143 | 544 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 14 | 23 | 97 |
-| **#Remcos** | 5 | 95 | 488 | 1870 |
+| **#Remcos** | 15 | 105 | 498 | 1880 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 91 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 57 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 122 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 91 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 24 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 17 |
 | **#5** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
