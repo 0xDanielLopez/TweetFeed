@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 06:31:01 (UTC)</th>
+        <th colspan=4>2025-05-24 06:51:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 24 | 1205 | 6106 | 51108 |
-| **:globe_with_meridians: Domains** | 19 | 545 | 2977 | 36440 |
+| **:link: URLs** | 26 | 1207 | 6108 | 51110 |
+| **:globe_with_meridians: Domains** | 21 | 547 | 2979 | 36442 |
 | **:triangular_flag_on_post: IPs** | 15 | 639 | 2893 | 13830 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
 | **:1234: MD5** | 14 | 126 | 570 | 1768 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 18 | 470 | 3269 | 65895 |
+| **#phishing** | 20 | 472 | 3271 | 65897 |
 | **#scam** | 4 | 60 | 294 | 7987 |
 | **#opendir** | 2 | 33 | 149 | 689 |
-| **#malware** | 0 | 90 | 376 | 18789 |
+| **#malware** | 2 | 92 | 378 | 18791 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 6 | 45 | 305 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 34 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 38 |
 | **#2** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
 | **#3** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 5 |
