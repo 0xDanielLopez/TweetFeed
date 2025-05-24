@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 17:38:34 (UTC)</th>
+        <th colspan=4>2025-05-24 17:59:02 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,7 +109,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 97 | 1278 | 6179 | 51181 |
 | **:globe_with_meridians: Domains** | 56 | 582 | 3014 | 36477 |
-| **:triangular_flag_on_post: IPs** | 48 | 672 | 2926 | 13863 |
+| **:triangular_flag_on_post: IPs** | 49 | 673 | 2927 | 13864 |
 | **:1234: SHA256** | 2 | 55 | 276 | 1425 |
 | **:1234: MD5** | 21 | 133 | 577 | 1775 |
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 44 | 496 | 3295 | 65921 |
 | **#scam** | 7 | 63 | 297 | 7990 |
 | **#opendir** | 2 | 33 | 149 | 689 |
-| **#malware** | 5 | 95 | 381 | 18794 |
+| **#malware** | 6 | 96 | 382 | 18795 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 6 | 45 | 305 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 6 | 76 | 385 | 1847 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 11 | 416 | 1376 | 6431 |
+| **#CobaltStrike** | 12 | 417 | 1377 | 6432 |
 | **#Dcrat** | 2 | 24 | 72 | 224 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 8 | 8 | 89 | 106 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 90 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 91 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 56 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 24 |
 | **#4** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
