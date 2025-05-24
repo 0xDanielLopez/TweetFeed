@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 19:21:15 (UTC)</th>
+        <th colspan=4>2025-05-24 19:41:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 142 | 1323 | 6224 | 51226 |
-| **:globe_with_meridians: Domains** | 56 | 582 | 3014 | 36477 |
+| **:link: URLs** | 143 | 1324 | 6225 | 51227 |
+| **:globe_with_meridians: Domains** | 57 | 583 | 3015 | 36478 |
 | **:triangular_flag_on_post: IPs** | 89 | 713 | 2967 | 13904 |
 | **:1234: SHA256** | 4 | 57 | 278 | 1427 |
 | **:1234: MD5** | 21 | 133 | 577 | 1775 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 44 | 496 | 3295 | 65921 |
-| **#scam** | 7 | 63 | 297 | 7990 |
+| **#phishing** | 46 | 498 | 3297 | 65923 |
+| **#scam** | 9 | 65 | 299 | 7992 |
 | **#opendir** | 2 | 33 | 149 | 689 |
 | **#malware** | 6 | 96 | 382 | 18795 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [urldna_bot](https://twitter.com/urldna_bot) | 5 |
-| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 3 |
+| **#10** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 4 |
 
 </div>
 
