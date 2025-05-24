@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 07:32:53 (UTC)</th>
+        <th colspan=4>2025-05-24 07:57:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 64 | 1245 | 6146 | 51148 |
-| **:globe_with_meridians: Domains** | 36 | 562 | 2994 | 36457 |
-| **:triangular_flag_on_post: IPs** | 35 | 659 | 2913 | 13850 |
+| **:link: URLs** | 67 | 1248 | 6149 | 51151 |
+| **:globe_with_meridians: Domains** | 38 | 564 | 2996 | 36459 |
+| **:triangular_flag_on_post: IPs** | 36 | 660 | 2914 | 13851 |
 | **:1234: SHA256** | 0 | 53 | 274 | 1423 |
 | **:1234: MD5** | 16 | 128 | 572 | 1770 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 20 | 472 | 3271 | 65897 |
+| **#phishing** | 24 | 476 | 3275 | 65901 |
 | **#scam** | 4 | 60 | 294 | 7987 |
 | **#opendir** | 2 | 33 | 149 | 689 |
 | **#malware** | 2 | 92 | 378 | 18791 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 63 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 65 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 42 |
 | **#3** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
 | **#4** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
-| **#5** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 6 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [banthisguy9349](https://twitter.com/banthisguy9349) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 
 </div>
 
