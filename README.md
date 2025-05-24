@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-24 11:24:48 (UTC)</th>
+        <th colspan=4>2025-05-24 11:44:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 85 | 1266 | 6167 | 51169 |
-| **:globe_with_meridians: Domains** | 46 | 572 | 3004 | 36467 |
-| **:triangular_flag_on_post: IPs** | 45 | 669 | 2923 | 13860 |
+| **:link: URLs** | 92 | 1273 | 6174 | 51176 |
+| **:globe_with_meridians: Domains** | 51 | 577 | 3009 | 36472 |
+| **:triangular_flag_on_post: IPs** | 48 | 672 | 2926 | 13863 |
 | **:1234: SHA256** | 1 | 54 | 275 | 1424 |
 | **:1234: MD5** | 20 | 132 | 576 | 1774 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 27 | 479 | 3278 | 65904 |
+| **#phishing** | 38 | 490 | 3289 | 65915 |
 | **#scam** | 5 | 61 | 295 | 7988 |
 | **#opendir** | 2 | 33 | 149 | 689 |
 | **#malware** | 2 | 92 | 378 | 18791 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 6 | 76 | 385 | 1847 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 7 | 412 | 1372 | 6427 |
+| **#CobaltStrike** | 11 | 416 | 1376 | 6431 |
 | **#Dcrat** | 2 | 24 | 72 | 224 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 8 | 8 | 89 | 106 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 88 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 52 |
-| **#3** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
-| **#4** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 9 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 56 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 20 |
+| **#4** | [TLP_R3D](https://twitter.com/TLP_R3D) | 15 |
+| **#5** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 12 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
