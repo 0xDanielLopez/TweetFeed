@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 08:31:33 (UTC)</th>
+        <th colspan=4>2025-05-31 08:50:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 102 | 1283 | 6231 | 52520 |
-| **:globe_with_meridians: Domains** | 40 | 505 | 2965 | 36987 |
+| **:link: URLs** | 103 | 1284 | 6232 | 52521 |
+| **:globe_with_meridians: Domains** | 41 | 506 | 2966 | 36988 |
 | **:triangular_flag_on_post: IPs** | 73 | 699 | 3006 | 14606 |
 | **:1234: SHA256** | 0 | 31 | 248 | 1466 |
 | **:1234: MD5** | 4 | 111 | 604 | 1886 |
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 120 | 706 | 3161 | 66631 |
 | **#scam** | 4 | 78 | 290 | 8072 |
 | **#opendir** | 0 | 23 | 145 | 712 |
-| **#malware** | 0 | 37 | 353 | 18832 |
+| **#malware** | 2 | 39 | 355 | 18834 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 7 | 42 | 312 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
-| **#10** | [yvesago](https://twitter.com/yvesago) | 1 |
+| **#10** | [fernandokarl](https://twitter.com/fernandokarl) | 2 |
 
 </div>
 
