@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 06:51:32 (UTC)</th>
+        <th colspan=4>2025-05-31 07:10:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 67 | 1248 | 6196 | 52485 |
+| **:link: URLs** | 101 | 1282 | 6230 | 52519 |
 | **:globe_with_meridians: Domains** | 40 | 505 | 2965 | 36987 |
-| **:triangular_flag_on_post: IPs** | 42 | 668 | 2975 | 14575 |
+| **:triangular_flag_on_post: IPs** | 71 | 697 | 3004 | 14604 |
 | **:1234: SHA256** | 0 | 31 | 248 | 1466 |
 | **:1234: MD5** | 4 | 111 | 604 | 1886 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 17 | 158 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 90 | 393 | 1939 |
+| **#AsyncRAT** | 3 | 93 | 396 | 1942 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 324 | 1479 | 6762 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 48 | 86 | 813 |
-| **#Qakbot** | 0 | 39 | 145 | 583 |
+| **#Qakbot** | 3 | 42 | 148 | 586 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 1 | 18 | 98 |
-| **#Remcos** | 0 | 91 | 492 | 1971 |
+| **#Remcos** | 2 | 93 | 494 | 1973 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 94 |
-| **#2** | [JRoosen](https://twitter.com/JRoosen) | 20 |
-| **#3** | [catnap707](https://twitter.com/catnap707) | 17 |
-| **#4** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 11 |
-| **#5** | [skocherhan](https://twitter.com/skocherhan) | 5 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 63 |
+| **#3** | [JRoosen](https://twitter.com/JRoosen) | 20 |
+| **#4** | [catnap707](https://twitter.com/catnap707) | 17 |
+| **#5** | [Cryptolaemus1](https://twitter.com/Cryptolaemus1) | 11 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
