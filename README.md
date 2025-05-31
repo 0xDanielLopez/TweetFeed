@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 18:15:49 (UTC)</th>
+        <th colspan=4>2025-05-31 18:38:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 139 | 1320 | 6268 | 52557 |
-| **:globe_with_meridians: Domains** | 59 | 524 | 2984 | 37006 |
+| **:link: URLs** | 140 | 1321 | 6269 | 52558 |
+| **:globe_with_meridians: Domains** | 60 | 525 | 2985 | 37007 |
 | **:triangular_flag_on_post: IPs** | 81 | 707 | 3014 | 14614 |
-| **:1234: SHA256** | 6 | 37 | 254 | 1472 |
+| **:1234: SHA256** | 7 | 38 | 255 | 1473 |
 | **:1234: MD5** | 10 | 117 | 610 | 1892 |
 
 </div>
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 94 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 82 |
-| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 21 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 24 |
 | **#4** | [JRoosen](https://twitter.com/JRoosen) | 20 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 17 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
