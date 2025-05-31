@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 12:52:27 (UTC)</th>
+        <th colspan=4>2025-05-31 13:15:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 127 | 1308 | 6256 | 52545 |
 | **:globe_with_meridians: Domains** | 52 | 517 | 2977 | 36999 |
 | **:triangular_flag_on_post: IPs** | 79 | 705 | 3012 | 14612 |
-| **:1234: SHA256** | 5 | 36 | 253 | 1471 |
+| **:1234: SHA256** | 6 | 37 | 254 | 1472 |
 | **:1234: MD5** | 5 | 112 | 605 | 1887 |
 
 </div>
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 94 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 80 |
-| **#3** | [JRoosen](https://twitter.com/JRoosen) | 20 |
-| **#4** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 20 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 21 |
+| **#4** | [JRoosen](https://twitter.com/JRoosen) | 20 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 17 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
