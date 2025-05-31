@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 11:14:25 (UTC)</th>
+        <th colspan=4>2025-05-31 11:36:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 122 | 1303 | 6251 | 52540 |
-| **:globe_with_meridians: Domains** | 49 | 514 | 2974 | 36996 |
-| **:triangular_flag_on_post: IPs** | 78 | 704 | 3011 | 14611 |
+| **:link: URLs** | 125 | 1306 | 6254 | 52543 |
+| **:globe_with_meridians: Domains** | 50 | 515 | 2975 | 36997 |
+| **:triangular_flag_on_post: IPs** | 79 | 705 | 3012 | 14612 |
 | **:1234: SHA256** | 5 | 36 | 253 | 1471 |
 | **:1234: MD5** | 5 | 112 | 605 | 1887 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 3 | 93 | 396 | 1942 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 15 | 339 | 1494 | 6777 |
+| **#CobaltStrike** | 17 | 341 | 1496 | 6779 |
 | **#Dcrat** | 0 | 18 | 79 | 242 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 2 | 60 | 108 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 94 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 78 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 80 |
 | **#3** | [JRoosen](https://twitter.com/JRoosen) | 20 |
 | **#4** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 18 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 17 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 5 |
+| **#9** | [skocherhan](https://twitter.com/skocherhan) | 5 |
 | **#10** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 2 |
 
 </div>
