@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 15:56:37 (UTC)</th>
+        <th colspan=4>2025-05-31 16:16:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 131 | 1312 | 6260 | 52549 |
+| **:link: URLs** | 135 | 1316 | 6264 | 52553 |
 | **:globe_with_meridians: Domains** | 56 | 521 | 2981 | 37003 |
 | **:triangular_flag_on_post: IPs** | 80 | 706 | 3013 | 14613 |
 | **:1234: SHA256** | 6 | 37 | 254 | 1472 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 130 | 716 | 3171 | 66641 |
+| **#phishing** | 134 | 720 | 3175 | 66645 |
 | **#scam** | 8 | 82 | 294 | 8076 |
 | **#opendir** | 0 | 23 | 145 | 712 |
 | **#malware** | 2 | 39 | 355 | 18834 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [skocherhan](https://twitter.com/skocherhan) | 7 |
-| **#10** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 5 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 8 |
+| **#10** | [skocherhan](https://twitter.com/skocherhan) | 7 |
 
 </div>
 
