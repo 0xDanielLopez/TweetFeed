@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 18:59:12 (UTC)</th>
+        <th colspan=4>2025-05-31 19:18:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 140 | 1321 | 6269 | 52558 |
-| **:globe_with_meridians: Domains** | 60 | 525 | 2985 | 37007 |
-| **:triangular_flag_on_post: IPs** | 81 | 707 | 3014 | 14614 |
+| **:link: URLs** | 167 | 1348 | 6296 | 52585 |
+| **:globe_with_meridians: Domains** | 61 | 526 | 2986 | 37008 |
+| **:triangular_flag_on_post: IPs** | 104 | 730 | 3037 | 14637 |
 | **:1234: SHA256** | 7 | 38 | 255 | 1473 |
 | **:1234: MD5** | 10 | 117 | 610 | 1892 |
 
@@ -125,14 +125,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 136 | 722 | 3177 | 66647 |
 | **#scam** | 10 | 84 | 296 | 8078 |
-| **#opendir** | 0 | 23 | 145 | 712 |
-| **#malware** | 3 | 40 | 356 | 18835 |
+| **#opendir** | 2 | 25 | 147 | 714 |
+| **#malware** | 5 | 42 | 358 | 18837 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 7 | 42 | 312 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 17 | 158 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 3 | 93 | 396 | 1942 |
+| **#AsyncRAT** | 9 | 99 | 402 | 1948 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 19 | 343 | 1498 | 6781 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 3 | 51 | 89 | 816 |
-| **#Qakbot** | 3 | 42 | 148 | 586 |
+| **#Qakbot** | 5 | 44 | 150 | 588 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 1 | 18 | 98 |
-| **#Remcos** | 2 | 93 | 494 | 1973 |
+| **#Remcos** | 10 | 101 | 502 | 1981 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 94 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 82 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 131 |
+| **#2** | [romonlyht](https://twitter.com/romonlyht) | 94 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 24 |
 | **#4** | [JRoosen](https://twitter.com/JRoosen) | 20 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 17 |
