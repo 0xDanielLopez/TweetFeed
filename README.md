@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 15:17:37 (UTC)</th>
+        <th colspan=4>2025-05-31 15:37:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 130 | 1311 | 6259 | 52548 |
-| **:globe_with_meridians: Domains** | 55 | 520 | 2980 | 37002 |
+| **:link: URLs** | 131 | 1312 | 6260 | 52549 |
+| **:globe_with_meridians: Domains** | 56 | 521 | 2981 | 37003 |
 | **:triangular_flag_on_post: IPs** | 80 | 706 | 3013 | 14613 |
 | **:1234: SHA256** | 6 | 37 | 254 | 1472 |
 | **:1234: MD5** | 9 | 116 | 609 | 1891 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [skocherhan](https://twitter.com/skocherhan) | 5 |
+| **#9** | [skocherhan](https://twitter.com/skocherhan) | 7 |
 | **#10** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 5 |
 
 </div>
