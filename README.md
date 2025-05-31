@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-05-31 09:09:27 (UTC)</th>
+        <th colspan=4>2025-05-31 09:32:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 103 | 1284 | 6232 | 52521 |
-| **:globe_with_meridians: Domains** | 41 | 506 | 2966 | 36988 |
+| **:link: URLs** | 104 | 1285 | 6233 | 52522 |
+| **:globe_with_meridians: Domains** | 42 | 507 | 2967 | 36989 |
 | **:triangular_flag_on_post: IPs** | 73 | 699 | 3006 | 14606 |
-| **:1234: SHA256** | 0 | 31 | 248 | 1466 |
+| **:1234: SHA256** | 2 | 33 | 250 | 1468 |
 | **:1234: MD5** | 4 | 111 | 604 | 1886 |
 
 </div>
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
-| **#10** | [fernandokarl](https://twitter.com/fernandokarl) | 2 |
+| **#9** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 2 |
+| **#10** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 
 </div>
 
