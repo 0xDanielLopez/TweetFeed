@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-07 07:01:39 (UTC)</th>
+        <th colspan=4>2025-06-07 07:20:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 123 | 2220 | 7334 | 54861 |
+| **:link: URLs** | 146 | 2243 | 7357 | 54884 |
 | **:globe_with_meridians: Domains** | 119 | 1543 | 3960 | 38581 |
-| **:triangular_flag_on_post: IPs** | 6 | 620 | 3088 | 15279 |
+| **:triangular_flag_on_post: IPs** | 28 | 642 | 3110 | 15301 |
 | **:1234: SHA256** | 2 | 55 | 264 | 1534 |
 | **:1234: MD5** | 0 | 106 | 596 | 2001 |
 
@@ -132,11 +132,11 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 6 | 158 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 45 | 353 | 1993 |
+| **#AsyncRAT** | 6 | 51 | 359 | 1999 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 222 | 1508 | 7029 |
-| **#Dcrat** | 0 | 13 | 78 | 255 |
+| **#Dcrat** | 1 | 14 | 79 | 256 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 37 | 58 | 145 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 48 | 143 | 870 |
-| **#Qakbot** | 0 | 24 | 145 | 612 |
+| **#Qakbot** | 2 | 26 | 147 | 614 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 17 | 100 |
 | **#Remcos** | 0 | 103 | 483 | 2084 |
@@ -167,9 +167,9 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 188 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 37 |
-| **#3** | [kubotaa3](https://twitter.com/kubotaa3) | 12 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 6 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 51 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 37 |
+| **#4** | [kubotaa3](https://twitter.com/kubotaa3) | 12 |
 | **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
