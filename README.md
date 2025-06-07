@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-07 16:00:23 (UTC)</th>
+        <th colspan=4>2025-06-07 16:20:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,9 +109,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 195 | 2292 | 7406 | 54933 |
 | **:globe_with_meridians: Domains** | 153 | 1577 | 3994 | 38615 |
-| **:triangular_flag_on_post: IPs** | 40 | 654 | 3122 | 15313 |
+| **:triangular_flag_on_post: IPs** | 44 | 658 | 3126 | 15317 |
 | **:1234: SHA256** | 3 | 56 | 265 | 1535 |
-| **:1234: MD5** | 0 | 106 | 596 | 2001 |
+| **:1234: MD5** | 2 | 108 | 598 | 2003 |
 
 </div>
 
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 236 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 75 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 37 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 43 |
 | **#4** | [kubotaa3](https://twitter.com/kubotaa3) | 12 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
