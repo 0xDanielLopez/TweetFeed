@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-07 03:56:34 (UTC)</th>
+        <th colspan=4>2025-06-07 04:16:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 85 | 2182 | 7296 | 54823 |
-| **:globe_with_meridians: Domains** | 87 | 1511 | 3928 | 38549 |
-| **:triangular_flag_on_post: IPs** | 0 | 614 | 3082 | 15273 |
+| **:link: URLs** | 88 | 2185 | 7299 | 54826 |
+| **:globe_with_meridians: Domains** | 89 | 1513 | 3930 | 38551 |
+| **:triangular_flag_on_post: IPs** | 1 | 615 | 3083 | 15274 |
 | **:1234: SHA256** | 1 | 54 | 263 | 1533 |
 | **:1234: MD5** | 0 | 106 | 596 | 2001 |
 
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 140 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 31 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 37 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
