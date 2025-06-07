@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-07 06:41:47 (UTC)</th>
+        <th colspan=4>2025-06-07 07:01:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 120 | 2217 | 7331 | 54858 |
+| **:link: URLs** | 123 | 2220 | 7334 | 54861 |
 | **:globe_with_meridians: Domains** | 119 | 1543 | 3960 | 38581 |
-| **:triangular_flag_on_post: IPs** | 3 | 617 | 3085 | 15276 |
+| **:triangular_flag_on_post: IPs** | 6 | 620 | 3088 | 15279 |
 | **:1234: SHA256** | 2 | 55 | 264 | 1534 |
 | **:1234: MD5** | 0 | 106 | 596 | 2001 |
 
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 188 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 37 |
 | **#3** | [kubotaa3](https://twitter.com/kubotaa3) | 12 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
-| **#5** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 3 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 6 |
+| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
