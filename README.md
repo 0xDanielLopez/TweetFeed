@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-07 12:11:27 (UTC)</th>
+        <th colspan=4>2025-06-07 12:30:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 165 | 2262 | 7376 | 54903 |
-| **:globe_with_meridians: Domains** | 123 | 1547 | 3964 | 38585 |
+| **:link: URLs** | 167 | 2264 | 7378 | 54905 |
+| **:globe_with_meridians: Domains** | 125 | 1549 | 3966 | 38587 |
 | **:triangular_flag_on_post: IPs** | 38 | 652 | 3120 | 15311 |
 | **:1234: SHA256** | 3 | 56 | 265 | 1535 |
 | **:1234: MD5** | 0 | 106 | 596 | 2001 |
@@ -123,16 +123,16 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 234 | 2400 | 4927 | 69057 |
+| **#phishing** | 236 | 2402 | 4929 | 69059 |
 | **#scam** | 28 | 262 | 500 | 8342 |
 | **#opendir** | 0 | 24 | 132 | 738 |
-| **#malware** | 52 | 505 | 787 | 19361 |
+| **#malware** | 54 | 507 | 789 | 19363 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 3 | 13 | 41 | 326 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 6 | 158 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 6 | 51 | 359 | 1999 |
+| **#AsyncRAT** | 8 | 53 | 361 | 2001 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 24 | 246 | 1532 | 7053 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 188 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 190 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 75 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 37 |
 | **#4** | [kubotaa3](https://twitter.com/kubotaa3) | 12 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [threatsbank](https://twitter.com/threatsbank) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
