@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-07 14:05:13 (UTC)</th>
+        <th colspan=4>2025-06-07 14:24:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 194 | 2291 | 7405 | 54932 |
-| **:globe_with_meridians: Domains** | 152 | 1576 | 3993 | 38614 |
+| **:link: URLs** | 195 | 2292 | 7406 | 54933 |
+| **:globe_with_meridians: Domains** | 153 | 1577 | 3994 | 38615 |
 | **:triangular_flag_on_post: IPs** | 40 | 654 | 3122 | 15313 |
 | **:1234: SHA256** | 3 | 56 | 265 | 1535 |
 | **:1234: MD5** | 0 | 106 | 596 | 2001 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 292 | 2458 | 4985 | 69115 |
-| **#scam** | 34 | 268 | 506 | 8348 |
+| **#phishing** | 294 | 2460 | 4987 | 69117 |
+| **#scam** | 36 | 270 | 508 | 8350 |
 | **#opendir** | 0 | 24 | 132 | 738 |
 | **#malware** | 64 | 517 | 799 | 19373 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
