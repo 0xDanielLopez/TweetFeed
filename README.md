@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 00:03:15 (UTC)</th>
+        <th colspan=4>2025-06-14 00:27:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 2135 | 8027 | 57145 |
-| **:globe_with_meridians: Domains** | 0 | 1589 | 4757 | 40225 |
-| **:triangular_flag_on_post: IPs** | 0 | 522 | 3020 | 15887 |
+| **:link: URLs** | 1 | 2136 | 8028 | 57146 |
+| **:globe_with_meridians: Domains** | 1 | 1590 | 4758 | 40226 |
+| **:triangular_flag_on_post: IPs** | 1 | 523 | 3021 | 15888 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
 | **:1234: MD5** | 0 | 62 | 509 | 2065 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 2935 | 7169 | 72070 |
+| **#phishing** | 3 | 2938 | 7172 | 72073 |
 | **#scam** | 0 | 332 | 779 | 8684 |
 | **#opendir** | 0 | 27 | 128 | 765 |
 | **#malware** | 0 | 701 | 1403 | 20074 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
