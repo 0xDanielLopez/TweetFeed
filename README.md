@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 15:00:10 (UTC)</th>
+        <th colspan=4>2025-06-14 15:26:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 191 | 2326 | 8218 | 57336 |
-| **:globe_with_meridians: Domains** | 182 | 1771 | 4939 | 40407 |
-| **:triangular_flag_on_post: IPs** | 13 | 535 | 3033 | 15900 |
+| **:link: URLs** | 194 | 2329 | 8221 | 57339 |
+| **:globe_with_meridians: Domains** | 184 | 1773 | 4941 | 40409 |
+| **:triangular_flag_on_post: IPs** | 14 | 536 | 3034 | 15901 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
-| **:1234: MD5** | 6 | 68 | 515 | 2071 |
+| **:1234: MD5** | 7 | 69 | 516 | 2072 |
 
 </div>
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 291 | 3226 | 7460 | 72361 |
+| **#phishing** | 293 | 3228 | 7462 | 72363 |
 | **#scam** | 55 | 387 | 834 | 8739 |
 | **#opendir** | 13 | 40 | 141 | 778 |
 | **#malware** | 119 | 820 | 1522 | 20193 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 230 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 112 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 117 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 17 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
-| **#10** | [banthisguy9349](https://twitter.com/banthisguy9349) | 3 |
+| **#9** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 4 |
+| **#10** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
 
 </div>
 
