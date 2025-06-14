@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 11:29:22 (UTC)</th>
+        <th colspan=4>2025-06-14 11:53:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 66 | 2201 | 8093 | 57211 |
-| **:globe_with_meridians: Domains** | 59 | 1648 | 4816 | 40284 |
+| **:link: URLs** | 69 | 2204 | 8096 | 57214 |
+| **:globe_with_meridians: Domains** | 62 | 1651 | 4819 | 40287 |
 | **:triangular_flag_on_post: IPs** | 10 | 532 | 3030 | 15897 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
 | **:1234: MD5** | 5 | 67 | 514 | 2070 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 51 | 2986 | 7220 | 72121 |
-| **#scam** | 10 | 342 | 789 | 8694 |
+| **#phishing** | 57 | 2992 | 7226 | 72127 |
+| **#scam** | 12 | 344 | 791 | 8696 |
 | **#opendir** | 6 | 33 | 134 | 771 |
-| **#malware** | 0 | 701 | 1403 | 20074 |
+| **#malware** | 4 | 705 | 1407 | 20078 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 40 | 331 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -169,12 +169,12 @@ If you like the project, please consider:
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 105 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 15 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#4** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
-| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#4** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
+| **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [wavellan](https://twitter.com/wavellan) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
