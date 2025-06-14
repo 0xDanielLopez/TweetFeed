@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 18:49:04 (UTC)</th>
+        <th colspan=4>2025-06-14 19:23:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 218 | 2353 | 8245 | 57363 |
-| **:globe_with_meridians: Domains** | 201 | 1790 | 4958 | 40426 |
+| **:link: URLs** | 229 | 2364 | 8256 | 57374 |
+| **:globe_with_meridians: Domains** | 212 | 1801 | 4969 | 40437 |
 | **:triangular_flag_on_post: IPs** | 19 | 541 | 3039 | 15906 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
-| **:1234: MD5** | 9 | 71 | 518 | 2074 |
+| **:1234: MD5** | 10 | 72 | 519 | 2075 |
 
 </div>
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 315 | 3250 | 7484 | 72385 |
+| **#phishing** | 335 | 3270 | 7504 | 72405 |
 | **#scam** | 56 | 388 | 835 | 8740 |
-| **#opendir** | 13 | 40 | 141 | 778 |
-| **#malware** | 121 | 822 | 1524 | 20195 |
+| **#opendir** | 16 | 43 | 144 | 781 |
+| **#malware** | 128 | 829 | 1531 | 20202 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 40 | 331 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 21 | 133 | 635 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 21 | 104 |
-| **#Remcos** | 2 | 25 | 406 | 2109 |
+| **#Remcos** | 5 | 28 | 409 | 2112 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 236 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 256 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 147 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 28 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
