@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 08:05:15 (UTC)</th>
+        <th colspan=4>2025-06-14 08:29:48 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 48 | 2183 | 8075 | 57193 |
-| **:globe_with_meridians: Domains** | 42 | 1631 | 4799 | 40267 |
+| **:link: URLs** | 49 | 2184 | 8076 | 57194 |
+| **:globe_with_meridians: Domains** | 43 | 1632 | 4800 | 40268 |
 | **:triangular_flag_on_post: IPs** | 9 | 531 | 3029 | 15896 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
 | **:1234: MD5** | 1 | 63 | 510 | 2066 |
@@ -125,7 +125,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 49 | 2984 | 7218 | 72119 |
 | **#scam** | 8 | 340 | 787 | 8692 |
-| **#opendir** | 4 | 31 | 132 | 769 |
+| **#opendir** | 6 | 33 | 134 | 771 |
 | **#malware** | 0 | 701 | 1403 | 20074 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 40 | 331 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 21 | 133 | 635 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 21 | 104 |
-| **#Remcos** | 0 | 23 | 404 | 2107 |
+| **#Remcos** | 2 | 25 | 406 | 2109 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 71 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 73 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 15 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#4** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
