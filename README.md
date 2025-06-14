@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 11:03:17 (UTC)</th>
+        <th colspan=4>2025-06-14 11:29:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 52 | 2187 | 8079 | 57197 |
-| **:globe_with_meridians: Domains** | 46 | 1635 | 4803 | 40271 |
-| **:triangular_flag_on_post: IPs** | 9 | 531 | 3029 | 15896 |
+| **:link: URLs** | 66 | 2201 | 8093 | 57211 |
+| **:globe_with_meridians: Domains** | 59 | 1648 | 4816 | 40284 |
+| **:triangular_flag_on_post: IPs** | 10 | 532 | 3030 | 15897 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
-| **:1234: MD5** | 2 | 64 | 511 | 2067 |
+| **:1234: MD5** | 5 | 67 | 514 | 2070 |
 
 </div>
 
@@ -142,11 +142,11 @@ If you like the project, please consider:
 | **#GootLoader** | 0 | 0 | 0 | 0 |
 | **#GuLoader** | 0 | 0 | 8 | 36 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
-| **#Lazarus** | 0 | 14 | 29 | 82 |
+| **#Lazarus** | 14 | 28 | 43 | 96 |
 | **#Lokibot** | 0 | 6 | 26 | 104 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 37 | 180 | 907 |
+| **#Njrat** | 4 | 41 | 184 | 911 |
 | **#Qakbot** | 0 | 21 | 133 | 635 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 21 | 104 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 78 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 105 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 15 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#4** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
-| **#5** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
+| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
