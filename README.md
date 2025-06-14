@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-14 15:50:59 (UTC)</th>
+        <th colspan=4>2025-06-14 16:16:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 194 | 2329 | 8221 | 57339 |
-| **:globe_with_meridians: Domains** | 184 | 1773 | 4941 | 40409 |
-| **:triangular_flag_on_post: IPs** | 14 | 536 | 3034 | 15901 |
+| **:link: URLs** | 208 | 2343 | 8235 | 57353 |
+| **:globe_with_meridians: Domains** | 196 | 1785 | 4953 | 40421 |
+| **:triangular_flag_on_post: IPs** | 15 | 537 | 3035 | 15902 |
 | **:1234: SHA256** | 0 | 15 | 210 | 1557 |
-| **:1234: MD5** | 7 | 69 | 516 | 2072 |
+| **:1234: MD5** | 9 | 71 | 518 | 2074 |
 
 </div>
 
@@ -123,19 +123,19 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 293 | 3228 | 7462 | 72363 |
+| **#phishing** | 306 | 3241 | 7475 | 72376 |
 | **#scam** | 55 | 387 | 834 | 8739 |
 | **#opendir** | 13 | 40 | 141 | 778 |
 | **#malware** | 119 | 820 | 1522 | 20193 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 40 | 331 |
 | **#banker** | 0 | 0 | 0 | 0 |
-| **#AgentTesla** | 0 | 0 | 1 | 158 |
+| **#AgentTesla** | 5 | 5 | 6 | 163 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
 | **#AsyncRAT** | 0 | 65 | 338 | 2070 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 219 | 1442 | 7321 |
+| **#CobaltStrike** | 11 | 230 | 1453 | 7332 |
 | **#Dcrat** | 0 | 12 | 74 | 268 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 54 | 112 | 199 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 230 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 117 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 17 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 232 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 133 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 28 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
