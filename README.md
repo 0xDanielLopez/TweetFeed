@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-15 13:05:19 (UTC)</th>
+        <th colspan=4>2025-06-15 13:24:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 133 | 2119 | 8225 | 57539 |
-| **:globe_with_meridians: Domains** | 121 | 1608 | 5027 | 40588 |
+| **:link: URLs** | 137 | 2123 | 8229 | 57543 |
+| **:globe_with_meridians: Domains** | 125 | 1612 | 5031 | 40592 |
 | **:triangular_flag_on_post: IPs** | 11 | 508 | 2969 | 15919 |
 | **:1234: SHA256** | 0 | 13 | 202 | 1557 |
 | **:1234: MD5** | 0 | 70 | 502 | 2076 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 249 | 2956 | 7678 | 72714 |
+| **#phishing** | 257 | 2964 | 7686 | 72722 |
 | **#scam** | 48 | 370 | 879 | 8792 |
 | **#opendir** | 0 | 33 | 144 | 786 |
 | **#malware** | 60 | 716 | 1594 | 20270 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 220 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 19 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 27 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 12 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
