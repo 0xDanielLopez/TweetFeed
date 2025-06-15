@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-15 17:48:00 (UTC)</th>
+        <th colspan=4>2025-06-15 18:12:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 177 | 2163 | 8269 | 57583 |
-| **:globe_with_meridians: Domains** | 162 | 1649 | 5068 | 40629 |
-| **:triangular_flag_on_post: IPs** | 13 | 510 | 2971 | 15921 |
+| **:link: URLs** | 183 | 2169 | 8275 | 57589 |
+| **:globe_with_meridians: Domains** | 167 | 1654 | 5073 | 40634 |
+| **:triangular_flag_on_post: IPs** | 14 | 511 | 2972 | 15922 |
 | **:1234: SHA256** | 0 | 13 | 202 | 1557 |
 | **:1234: MD5** | 4 | 74 | 506 | 2080 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 329 | 3036 | 7758 | 72794 |
-| **#scam** | 53 | 375 | 884 | 8797 |
+| **#phishing** | 339 | 3046 | 7768 | 72804 |
+| **#scam** | 55 | 377 | 886 | 8799 |
 | **#opendir** | 0 | 33 | 144 | 786 |
 | **#malware** | 79 | 735 | 1613 | 20289 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -149,7 +149,7 @@ If you like the project, please consider:
 | **#Njrat** | 2 | 37 | 186 | 913 |
 | **#Qakbot** | 1 | 22 | 128 | 636 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
-| **#RedLine** | 0 | 4 | 21 | 104 |
+| **#RedLine** | 2 | 6 | 23 | 106 |
 | **#Remcos** | 0 | 26 | 377 | 2112 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 270 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 280 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 39 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 15 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 12 |
