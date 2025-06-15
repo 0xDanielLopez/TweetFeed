@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-15 02:55:07 (UTC)</th>
+        <th colspan=4>2025-06-15 03:26:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 1998 | 8104 | 57418 |
+| **:link: URLs** | 13 | 1999 | 8105 | 57419 |
 | **:globe_with_meridians: Domains** | 12 | 1499 | 4918 | 40479 |
-| **:triangular_flag_on_post: IPs** | 0 | 497 | 2958 | 15908 |
+| **:triangular_flag_on_post: IPs** | 1 | 498 | 2959 | 15909 |
 | **:1234: SHA256** | 0 | 13 | 202 | 1557 |
 | **:1234: MD5** | 0 | 70 | 502 | 2076 |
 
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 26 | 104 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 35 | 184 | 911 |
+| **#Njrat** | 2 | 37 | 186 | 913 |
 | **#Qakbot** | 0 | 21 | 127 | 635 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 21 | 104 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 22 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
