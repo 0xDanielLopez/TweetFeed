@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-15 17:08:23 (UTC)</th>
+        <th colspan=4>2025-06-15 17:28:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 166 | 2152 | 8258 | 57572 |
-| **:globe_with_meridians: Domains** | 154 | 1641 | 5060 | 40621 |
-| **:triangular_flag_on_post: IPs** | 11 | 508 | 2969 | 15919 |
+| **:link: URLs** | 172 | 2158 | 8264 | 57578 |
+| **:globe_with_meridians: Domains** | 159 | 1646 | 5065 | 40626 |
+| **:triangular_flag_on_post: IPs** | 12 | 509 | 2970 | 15920 |
 | **:1234: SHA256** | 0 | 13 | 202 | 1557 |
 | **:1234: MD5** | 2 | 72 | 504 | 2078 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 316 | 3023 | 7745 | 72781 |
+| **#phishing** | 320 | 3027 | 7749 | 72785 |
 | **#scam** | 53 | 375 | 884 | 8797 |
 | **#opendir** | 0 | 33 | 144 | 786 |
 | **#malware** | 77 | 733 | 1611 | 20287 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 264 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 268 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 39 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 12 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
-| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [CSuperEtico](https://twitter.com/CSuperEtico) | 2 |
+| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 
 </div>
 
