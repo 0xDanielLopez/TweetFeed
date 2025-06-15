@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-15 16:48:53 (UTC)</th>
+        <th colspan=4>2025-06-15 17:08:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 154 | 1641 | 5060 | 40621 |
 | **:triangular_flag_on_post: IPs** | 11 | 508 | 2969 | 15919 |
 | **:1234: SHA256** | 0 | 13 | 202 | 1557 |
-| **:1234: MD5** | 1 | 71 | 503 | 2077 |
+| **:1234: MD5** | 2 | 72 | 504 | 2078 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 316 | 3023 | 7745 | 72781 |
 | **#scam** | 53 | 375 | 884 | 8797 |
 | **#opendir** | 0 | 33 | 144 | 786 |
-| **#malware** | 76 | 732 | 1610 | 20286 |
+| **#malware** | 77 | 733 | 1611 | 20287 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 5 | 38 | 331 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
