@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-21 12:42:34 (UTC)</th>
+        <th colspan=4>2025-06-21 13:08:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 85 | 1966 | 8668 | 59372 |
-| **:globe_with_meridians: Domains** | 73 | 1358 | 5607 | 41825 |
-| **:triangular_flag_on_post: IPs** | 11 | 578 | 2850 | 16486 |
+| **:link: URLs** | 90 | 1971 | 8673 | 59377 |
+| **:globe_with_meridians: Domains** | 76 | 1361 | 5610 | 41828 |
+| **:triangular_flag_on_post: IPs** | 15 | 582 | 2854 | 16490 |
 | **:1234: SHA256** | 1 | 9 | 160 | 1566 |
 | **:1234: MD5** | 1 | 86 | 437 | 2162 |
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 122 | 2481 | 9222 | 74946 |
-| **#scam** | 18 | 284 | 1063 | 9028 |
+| **#phishing** | 127 | 2486 | 9227 | 74951 |
+| **#scam** | 20 | 286 | 1065 | 9030 |
 | **#opendir** | 0 | 11 | 120 | 797 |
-| **#malware** | 27 | 549 | 2033 | 20759 |
+| **#malware** | 29 | 551 | 2035 | 20761 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 8 | 34 | 339 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 92 |
-| **#2** | [setThreatTitle](https://twitter.com/setThreatTitle) | 22 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 97 |
+| **#2** | [setThreatTitle](https://twitter.com/setThreatTitle) | 26 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 21 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 12 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
-| **#10** | [cyb3rops](https://twitter.com/cyb3rops) | 1 |
+| **#9** | [Q8CyberTi](https://twitter.com/Q8CyberTi) | 2 |
+| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 
 </div>
 
