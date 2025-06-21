@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-21 12:18:11 (UTC)</th>
+        <th colspan=4>2025-06-21 12:42:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 73 | 1954 | 8656 | 59360 |
-| **:globe_with_meridians: Domains** | 61 | 1346 | 5595 | 41813 |
+| **:link: URLs** | 85 | 1966 | 8668 | 59372 |
+| **:globe_with_meridians: Domains** | 73 | 1358 | 5607 | 41825 |
 | **:triangular_flag_on_post: IPs** | 11 | 578 | 2850 | 16486 |
 | **:1234: SHA256** | 1 | 9 | 160 | 1566 |
 | **:1234: MD5** | 1 | 86 | 437 | 2162 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 120 | 2479 | 9220 | 74944 |
+| **#phishing** | 122 | 2481 | 9222 | 74946 |
 | **#scam** | 18 | 284 | 1063 | 9028 |
 | **#opendir** | 0 | 11 | 120 | 797 |
 | **#malware** | 27 | 549 | 2033 | 20759 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 90 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 21 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 12 |
-| **#4** | [masaomi346](https://twitter.com/masaomi346) | 10 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 92 |
+| **#2** | [setThreatTitle](https://twitter.com/setThreatTitle) | 22 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 21 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 12 |
+| **#5** | [masaomi346](https://twitter.com/masaomi346) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [cyb3rops](https://twitter.com/cyb3rops) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
+| **#10** | [cyb3rops](https://twitter.com/cyb3rops) | 1 |
 
 </div>
 
