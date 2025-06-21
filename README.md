@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-21 16:37:37 (UTC)</th>
+        <th colspan=4>2025-06-21 17:11:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 106 | 1987 | 8689 | 59393 |
-| **:globe_with_meridians: Domains** | 92 | 1377 | 5626 | 41844 |
+| **:link: URLs** | 107 | 1988 | 8690 | 59394 |
+| **:globe_with_meridians: Domains** | 93 | 1378 | 5627 | 41845 |
 | **:triangular_flag_on_post: IPs** | 15 | 582 | 2854 | 16490 |
 | **:1234: SHA256** | 1 | 9 | 160 | 1566 |
-| **:1234: MD5** | 2 | 87 | 438 | 2163 |
+| **:1234: MD5** | 5 | 90 | 441 | 2166 |
 
 </div>
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 160 | 2519 | 9260 | 74984 |
+| **#phishing** | 162 | 2521 | 9262 | 74986 |
 | **#scam** | 22 | 288 | 1067 | 9032 |
 | **#opendir** | 0 | 11 | 120 | 797 |
-| **#malware** | 40 | 562 | 2046 | 20772 |
+| **#malware** | 43 | 565 | 2049 | 20775 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 8 | 34 | 339 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 128 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 130 |
 | **#2** | [setThreatTitle](https://twitter.com/setThreatTitle) | 26 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 21 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 14 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [Q8CyberTi](https://twitter.com/Q8CyberTi) | 2 |
-| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
+| **#9** | [ShanHolo](https://twitter.com/ShanHolo) | 3 |
+| **#10** | [Q8CyberTi](https://twitter.com/Q8CyberTi) | 2 |
 
 </div>
 
