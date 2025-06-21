@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-21 11:48:36 (UTC)</th>
+        <th colspan=4>2025-06-21 12:18:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 62 | 1943 | 8645 | 59349 |
-| **:globe_with_meridians: Domains** | 50 | 1335 | 5584 | 41802 |
+| **:link: URLs** | 73 | 1954 | 8656 | 59360 |
+| **:globe_with_meridians: Domains** | 61 | 1346 | 5595 | 41813 |
 | **:triangular_flag_on_post: IPs** | 11 | 578 | 2850 | 16486 |
 | **:1234: SHA256** | 1 | 9 | 160 | 1566 |
 | **:1234: MD5** | 1 | 86 | 437 | 2162 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 98 | 2457 | 9198 | 74922 |
-| **#scam** | 16 | 282 | 1061 | 9026 |
+| **#phishing** | 120 | 2479 | 9220 | 74944 |
+| **#scam** | 18 | 284 | 1063 | 9028 |
 | **#opendir** | 0 | 11 | 120 | 797 |
-| **#malware** | 23 | 545 | 2029 | 20755 |
+| **#malware** | 27 | 549 | 2033 | 20759 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 8 | 34 | 339 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 70 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 90 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 21 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 12 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 10 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [cyb3rops](https://twitter.com/cyb3rops) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
