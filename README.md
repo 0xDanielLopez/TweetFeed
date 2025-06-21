@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-21 07:06:58 (UTC)</th>
+        <th colspan=4>2025-06-21 07:40:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 1931 | 8633 | 59337 |
+| **:link: URLs** | 61 | 1942 | 8644 | 59348 |
 | **:globe_with_meridians: Domains** | 49 | 1334 | 5583 | 41801 |
-| **:triangular_flag_on_post: IPs** | 1 | 568 | 2840 | 16476 |
+| **:triangular_flag_on_post: IPs** | 11 | 578 | 2850 | 16486 |
 | **:1234: SHA256** | 0 | 8 | 159 | 1565 |
 | **:1234: MD5** | 1 | 86 | 437 | 2162 |
 
@@ -136,7 +136,7 @@ If you like the project, please consider:
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 270 | 1335 | 7607 |
-| **#Dcrat** | 0 | 10 | 62 | 278 |
+| **#Dcrat** | 2 | 12 | 64 | 280 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 39 | 140 | 238 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 20 | 180 | 931 |
-| **#Qakbot** | 0 | 36 | 139 | 671 |
+| **#Qakbot** | 2 | 38 | 141 | 673 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 15 | 108 |
 | **#Remcos** | 0 | 70 | 342 | 2182 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 70 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 12 |
-| **#3** | [masaomi346](https://twitter.com/masaomi346) | 10 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
-| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 21 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 12 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 10 |
+| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
