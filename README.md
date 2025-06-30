@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-30 00:25:36 (UTC)</th>
+        <th colspan=4>2025-06-30 00:53:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 1812 | 9497 | 61915 |
-| **:globe_with_meridians: Domains** | 0 | 1230 | 6590 | 43537 |
+| **:link: URLs** | 7 | 1819 | 9504 | 61922 |
+| **:globe_with_meridians: Domains** | 7 | 1237 | 6597 | 43544 |
 | **:triangular_flag_on_post: IPs** | 0 | 512 | 2689 | 17222 |
 | **:1234: SHA256** | 0 | 7 | 107 | 1573 |
 | **:1234: MD5** | 0 | 64 | 367 | 2249 |
@@ -123,12 +123,12 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 2327 | 11670 | 78181 |
+| **#phishing** | 12 | 2339 | 11682 | 78193 |
 | **#scam** | 0 | 199 | 1245 | 9313 |
 | **#opendir** | 0 | 6 | 99 | 811 |
 | **#malware** | 0 | 374 | 2511 | 21343 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 78 | 110 | 422 |
+| **#ransomware** | 2 | 80 | 112 | 424 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 1 | 11 | 169 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 12 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
