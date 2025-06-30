@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-30 02:12:56 (UTC)</th>
+        <th colspan=4>2025-06-30 02:41:07 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 48 | 1860 | 9545 | 61963 |
-| **:globe_with_meridians: Domains** | 27 | 1257 | 6617 | 43564 |
-| **:triangular_flag_on_post: IPs** | 19 | 531 | 2708 | 17241 |
+| **:link: URLs** | 52 | 1864 | 9549 | 61967 |
+| **:globe_with_meridians: Domains** | 30 | 1260 | 6620 | 43567 |
+| **:triangular_flag_on_post: IPs** | 21 | 533 | 2710 | 17243 |
 | **:1234: SHA256** | 0 | 7 | 107 | 1573 |
 | **:1234: MD5** | 4 | 68 | 371 | 2253 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 96 | 2423 | 11766 | 78277 |
-| **#scam** | 0 | 199 | 1245 | 9313 |
+| **#phishing** | 103 | 2430 | 11773 | 78284 |
+| **#scam** | 2 | 201 | 1247 | 9315 |
 | **#opendir** | 0 | 6 | 99 | 811 |
 | **#malware** | 0 | 374 | 2511 | 21343 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 84 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 89 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 12 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 2 |
-| **#4** | [-](https://twitter.com/-) | 0 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#5** | [G60930953](https://twitter.com/G60930953) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
