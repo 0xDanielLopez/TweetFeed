@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-06-30 03:08:11 (UTC)</th>
+        <th colspan=4>2025-06-30 03:36:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 62 | 1874 | 9559 | 61977 |
-| **:globe_with_meridians: Domains** | 34 | 1264 | 6624 | 43571 |
-| **:triangular_flag_on_post: IPs** | 28 | 540 | 2717 | 17250 |
+| **:link: URLs** | 76 | 1888 | 9573 | 61991 |
+| **:globe_with_meridians: Domains** | 44 | 1274 | 6634 | 43581 |
+| **:triangular_flag_on_post: IPs** | 39 | 551 | 2728 | 17261 |
 | **:1234: SHA256** | 0 | 7 | 107 | 1573 |
-| **:1234: MD5** | 5 | 69 | 372 | 2254 |
+| **:1234: MD5** | 7 | 71 | 374 | 2256 |
 
 </div>
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 124 | 2451 | 11794 | 78305 |
+| **#phishing** | 161 | 2488 | 11831 | 78342 |
 | **#scam** | 2 | 201 | 1247 | 9315 |
 | **#opendir** | 0 | 6 | 99 | 811 |
 | **#malware** | 0 | 374 | 2511 | 21343 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 110 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 147 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 12 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 2 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
