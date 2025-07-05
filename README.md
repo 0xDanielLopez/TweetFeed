@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 18:30:00 (UTC)</th>
+        <th colspan=4>2025-07-05 18:57:58 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 93 | 1795 | 9535 | 63386 |
+| **:link: URLs** | 100 | 1802 | 9542 | 63393 |
 | **:globe_with_meridians: Domains** | 52 | 1031 | 6531 | 44364 |
-| **:triangular_flag_on_post: IPs** | 28 | 679 | 2749 | 17802 |
+| **:triangular_flag_on_post: IPs** | 37 | 688 | 2758 | 17811 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
 
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 60 |
 | **#2** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 42 |
-| **#3** | [Mr_Harleyphaz](https://twitter.com/Mr_Harleyphaz) | 20 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 17 |
-| **#5** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 10 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 23 |
+| **#4** | [Mr_Harleyphaz](https://twitter.com/Mr_Harleyphaz) | 20 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 17 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
