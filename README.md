@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 17:07:54 (UTC)</th>
+        <th colspan=4>2025-07-05 17:35:48 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 64 | 1766 | 9506 | 63357 |
-| **:globe_with_meridians: Domains** | 24 | 1003 | 6503 | 44336 |
+| **:link: URLs** | 69 | 1771 | 9511 | 63362 |
+| **:globe_with_meridians: Domains** | 29 | 1008 | 6508 | 44341 |
 | **:triangular_flag_on_post: IPs** | 27 | 678 | 2748 | 17801 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 30 | 1802 | 11661 | 79567 |
-| **#scam** | 6 | 79 | 1155 | 9378 |
+| **#phishing** | 40 | 1812 | 11671 | 79577 |
+| **#scam** | 16 | 89 | 1165 | 9388 |
 | **#opendir** | 2 | 36 | 112 | 844 |
 | **#malware** | 4 | 44 | 2298 | 21386 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -169,13 +169,13 @@ If you like the project, please consider:
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 60 |
 | **#2** | [Mr_Harleyphaz](https://twitter.com/Mr_Harleyphaz) | 20 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 17 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#5** | [CyberGhost13337](https://twitter.com/CyberGhost13337) | 4 |
+| **#4** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 10 |
+| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#10** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
+| **#9** | [momomopas](https://twitter.com/momomopas) | 2 |
+| **#10** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 
 </div>
 
