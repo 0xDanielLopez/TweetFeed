@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 10:21:00 (UTC)</th>
+        <th colspan=4>2025-07-05 10:50:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 55 | 1757 | 9497 | 63348 |
-| **:globe_with_meridians: Domains** | 20 | 999 | 6499 | 44332 |
+| **:link: URLs** | 58 | 1760 | 9500 | 63351 |
+| **:globe_with_meridians: Domains** | 22 | 1001 | 6501 | 44334 |
 | **:triangular_flag_on_post: IPs** | 27 | 678 | 2748 | 17801 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 26 | 1798 | 11657 | 79563 |
+| **#phishing** | 27 | 1799 | 11658 | 79564 |
 | **#scam** | 4 | 77 | 1153 | 9376 |
 | **#opendir** | 2 | 36 | 112 | 844 |
-| **#malware** | 0 | 40 | 2294 | 21382 |
+| **#malware** | 4 | 44 | 2298 | 21386 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 1 | 271 | 320 | 638 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -170,11 +170,11 @@ If you like the project, please consider:
 | **#2** | [Mr_Harleyphaz](https://twitter.com/Mr_Harleyphaz) | 20 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 17 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
-| **#5** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#5** | [CyberGhost13337](https://twitter.com/CyberGhost13337) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [kelly1fernandes](https://twitter.com/kelly1fernandes) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
