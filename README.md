@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 06:57:02 (UTC)</th>
+        <th colspan=4>2025-07-05 07:23:53 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 1711 | 9451 | 63302 |
+| **:link: URLs** | 38 | 1740 | 9480 | 63331 |
 | **:globe_with_meridians: Domains** | 9 | 988 | 6488 | 44321 |
-| **:triangular_flag_on_post: IPs** | 0 | 651 | 2721 | 17774 |
+| **:triangular_flag_on_post: IPs** | 22 | 673 | 2743 | 17796 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 4 | 15 | 173 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 91 | 306 | 2284 |
+| **#AsyncRAT** | 4 | 95 | 310 | 2288 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 334 | 1429 | 8348 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 28 | 134 | 742 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 14 | 112 |
-| **#Remcos** | 0 | 113 | 283 | 2335 |
+| **#Remcos** | 8 | 121 | 291 | 2343 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 17 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#4** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 51 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 17 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#5** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
