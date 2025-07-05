@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 17:35:48 (UTC)</th>
+        <th colspan=4>2025-07-05 18:03:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 69 | 1771 | 9511 | 63362 |
-| **:globe_with_meridians: Domains** | 29 | 1008 | 6508 | 44341 |
+| **:link: URLs** | 90 | 1792 | 9532 | 63383 |
+| **:globe_with_meridians: Domains** | 50 | 1029 | 6529 | 44362 |
 | **:triangular_flag_on_post: IPs** | 27 | 678 | 2748 | 17801 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 60 |
-| **#2** | [Mr_Harleyphaz](https://twitter.com/Mr_Harleyphaz) | 20 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 17 |
-| **#4** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 10 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#2** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 42 |
+| **#3** | [Mr_Harleyphaz](https://twitter.com/Mr_Harleyphaz) | 20 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 17 |
+| **#5** | [Coolcarlos17](https://twitter.com/Coolcarlos17) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [momomopas](https://twitter.com/momomopas) | 2 |
-| **#10** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#10** | [momomopas](https://twitter.com/momomopas) | 2 |
 
 </div>
 
