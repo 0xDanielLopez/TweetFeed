@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 18:57:58 (UTC)</th>
+        <th colspan=4>2025-07-05 19:24:07 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 100 | 1802 | 9542 | 63393 |
-| **:globe_with_meridians: Domains** | 52 | 1031 | 6531 | 44364 |
+| **:link: URLs** | 106 | 1808 | 9548 | 63399 |
+| **:globe_with_meridians: Domains** | 58 | 1037 | 6537 | 44370 |
 | **:triangular_flag_on_post: IPs** | 37 | 688 | 2758 | 17811 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#10** | [momomopas](https://twitter.com/momomopas) | 2 |
+| **#9** | [CyberGhost13337](https://twitter.com/CyberGhost13337) | 4 |
+| **#10** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 
 </div>
 
