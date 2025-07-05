@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 12:18:08 (UTC)</th>
+        <th colspan=4>2025-07-05 12:47:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 58 | 1760 | 9500 | 63351 |
+| **:link: URLs** | 61 | 1763 | 9503 | 63354 |
 | **:globe_with_meridians: Domains** | 22 | 1001 | 6501 | 44334 |
 | **:triangular_flag_on_post: IPs** | 27 | 678 | 2748 | 17801 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 2 | 21 | 119 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 22 | 106 | 972 |
+| **#Njrat** | 3 | 25 | 109 | 975 |
 | **#Qakbot** | 0 | 28 | 134 | 742 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 14 | 112 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [kelly1fernandes](https://twitter.com/kelly1fernandes) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
+| **#10** | [kelly1fernandes](https://twitter.com/kelly1fernandes) | 1 |
 
 </div>
 
