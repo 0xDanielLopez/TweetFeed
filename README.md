@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 16:09:31 (UTC)</th>
+        <th colspan=4>2025-07-05 16:38:38 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 63 | 1765 | 9505 | 63356 |
-| **:globe_with_meridians: Domains** | 23 | 1002 | 6502 | 44335 |
+| **:link: URLs** | 64 | 1766 | 9506 | 63357 |
+| **:globe_with_meridians: Domains** | 24 | 1003 | 6503 | 44336 |
 | **:triangular_flag_on_post: IPs** | 27 | 678 | 2748 | 17801 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
 | **:1234: MD5** | 4 | 66 | 345 | 2311 |
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 2 | 36 | 112 | 844 |
 | **#malware** | 4 | 44 | 2298 | 21386 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 1 | 271 | 320 | 638 |
+| **#ransomware** | 3 | 273 | 322 | 640 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 4 | 15 | 173 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
-| **#10** | [kelly1fernandes](https://twitter.com/kelly1fernandes) | 1 |
+| **#9** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#10** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
 
 </div>
 
