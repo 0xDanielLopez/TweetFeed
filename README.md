@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-05 01:54:32 (UTC)</th>
+        <th colspan=4>2025-07-05 02:25:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 2 | 981 | 6481 | 44314 |
 | **:triangular_flag_on_post: IPs** | 0 | 651 | 2721 | 17774 |
 | **:1234: SHA256** | 0 | 11 | 62 | 1580 |
-| **:1234: MD5** | 0 | 62 | 341 | 2307 |
+| **:1234: MD5** | 1 | 63 | 342 | 2308 |
 
 </div>
 
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 34 | 110 | 842 |
 | **#malware** | 0 | 40 | 2294 | 21382 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 270 | 319 | 637 |
+| **#ransomware** | 1 | 271 | 320 | 638 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 4 | 15 | 173 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [PaduckLee](https://twitter.com/PaduckLee) | 1 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
