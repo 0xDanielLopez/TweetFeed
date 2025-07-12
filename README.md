@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-12 10:59:20 (UTC)</th>
+        <th colspan=4>2025-07-12 11:29:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 1397 | 8293 | 64822 |
-| **:globe_with_meridians: Domains** | 15 | 585 | 5196 | 44972 |
-| **:triangular_flag_on_post: IPs** | 17 | 772 | 2889 | 18592 |
+| **:link: URLs** | 47 | 1409 | 8305 | 64834 |
+| **:globe_with_meridians: Domains** | 17 | 587 | 5198 | 44974 |
+| **:triangular_flag_on_post: IPs** | 25 | 780 | 2897 | 18600 |
 | **:1234: SHA256** | 0 | 9 | 39 | 1590 |
 | **:1234: MD5** | 1 | 63 | 327 | 2376 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 29 | 826 | 9295 | 80427 |
-| **#scam** | 10 | 91 | 896 | 9483 |
+| **#phishing** | 31 | 828 | 9297 | 80429 |
+| **#scam** | 12 | 93 | 898 | 9485 |
 | **#opendir** | 0 | 29 | 116 | 877 |
 | **#malware** | 0 | 67 | 1602 | 21453 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 4 | 52 | 289 | 2340 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 4 | 309 | 1380 | 8666 |
+| **#CobaltStrike** | 24 | 329 | 1400 | 8686 |
 | **#Dcrat** | 0 | 10 | 46 | 310 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 20 | 93 | 292 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 36 |
-| **#2** | [masaomi346](https://twitter.com/masaomi346) | 12 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 56 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 12 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
