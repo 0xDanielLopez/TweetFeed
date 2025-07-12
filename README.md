@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-12 01:17:15 (UTC)</th>
+        <th colspan=4>2025-07-12 01:43:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 1364 | 8260 | 64789 |
+| **:link: URLs** | 3 | 1365 | 8261 | 64790 |
 | **:globe_with_meridians: Domains** | 2 | 572 | 5183 | 44959 |
-| **:triangular_flag_on_post: IPs** | 0 | 755 | 2872 | 18575 |
+| **:triangular_flag_on_post: IPs** | 1 | 756 | 2873 | 18576 |
 | **:1234: SHA256** | 0 | 9 | 39 | 1590 |
-| **:1234: MD5** | 0 | 62 | 326 | 2375 |
+| **:1234: MD5** | 1 | 63 | 327 | 2376 |
 
 </div>
 
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 29 | 116 | 877 |
 | **#malware** | 0 | 67 | 1602 | 21453 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 33 | 345 | 673 |
+| **#ransomware** | 1 | 34 | 346 | 674 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 15 | 173 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 15 | 119 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 25 | 103 | 1000 |
+| **#Njrat** | 2 | 27 | 105 | 1002 |
 | **#Qakbot** | 0 | 29 | 141 | 771 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 14 | 116 |
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#2** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
+| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
