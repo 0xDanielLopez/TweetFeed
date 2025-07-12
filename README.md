@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-12 13:56:55 (UTC)</th>
+        <th colspan=4>2025-07-12 14:29:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 23 | 593 | 5204 | 44980 |
 | **:triangular_flag_on_post: IPs** | 27 | 782 | 2899 | 18602 |
 | **:1234: SHA256** | 0 | 9 | 39 | 1590 |
-| **:1234: MD5** | 1 | 63 | 327 | 2376 |
+| **:1234: MD5** | 2 | 64 | 328 | 2377 |
 
 </div>
 
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 8 | 37 | 124 | 885 |
 | **#malware** | 10 | 77 | 1612 | 21463 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 1 | 34 | 346 | 674 |
+| **#ransomware** | 2 | 35 | 347 | 675 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 15 | 173 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
