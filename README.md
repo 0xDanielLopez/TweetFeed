@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-12 15:58:21 (UTC)</th>
+        <th colspan=4>2025-07-12 16:27:07 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 60 | 1422 | 8318 | 64847 |
-| **:globe_with_meridians: Domains** | 24 | 594 | 5205 | 44981 |
+| **:link: URLs** | 61 | 1423 | 8319 | 64848 |
+| **:globe_with_meridians: Domains** | 25 | 595 | 5206 | 44982 |
 | **:triangular_flag_on_post: IPs** | 27 | 782 | 2899 | 18602 |
 | **:1234: SHA256** | 0 | 9 | 39 | 1590 |
 | **:1234: MD5** | 2 | 64 | 328 | 2377 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 35 | 832 | 9301 | 80433 |
-| **#scam** | 16 | 97 | 902 | 9489 |
+| **#phishing** | 37 | 834 | 9303 | 80435 |
+| **#scam** | 18 | 99 | 904 | 9491 |
 | **#opendir** | 8 | 37 | 124 | 885 |
 | **#malware** | 10 | 77 | 1612 | 21463 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 62 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 12 |
 | **#4** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 8 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 7 |
