@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-12 15:01:17 (UTC)</th>
+        <th colspan=4>2025-07-12 15:32:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 59 | 1421 | 8317 | 64846 |
-| **:globe_with_meridians: Domains** | 23 | 593 | 5204 | 44980 |
+| **:link: URLs** | 60 | 1422 | 8318 | 64847 |
+| **:globe_with_meridians: Domains** | 24 | 594 | 5205 | 44981 |
 | **:triangular_flag_on_post: IPs** | 27 | 782 | 2899 | 18602 |
 | **:1234: SHA256** | 0 | 9 | 39 | 1590 |
 | **:1234: MD5** | 2 | 64 | 328 | 2377 |
@@ -143,7 +143,7 @@ If you like the project, please consider:
 | **#GuLoader** | 0 | 0 | 0 | 36 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
 | **#Lazarus** | 0 | 0 | 42 | 110 |
-| **#Lokibot** | 0 | 0 | 15 | 119 |
+| **#Lokibot** | 2 | 2 | 17 | 121 |
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 4 | 29 | 107 | 1004 |
