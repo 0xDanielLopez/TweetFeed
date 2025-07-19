@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-19 17:11:23 (UTC)</th>
+        <th colspan=4>2025-07-19 17:42:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 75 | 1545 | 7637 | 66427 |
-| **:globe_with_meridians: Domains** | 24 | 821 | 4383 | 45814 |
+| **:link: URLs** | 76 | 1546 | 7638 | 66428 |
+| **:globe_with_meridians: Domains** | 25 | 822 | 4384 | 45815 |
 | **:triangular_flag_on_post: IPs** | 45 | 665 | 2984 | 19287 |
 | **:1234: SHA256** | 5 | 15 | 44 | 1605 |
 | **:1234: MD5** | 5 | 72 | 335 | 2451 |
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 41 | 1366 | 7536 | 81808 |
 | **#scam** | 14 | 165 | 725 | 9663 |
 | **#opendir** | 11 | 64 | 163 | 951 |
-| **#malware** | 11 | 86 | 940 | 21557 |
+| **#malware** | 13 | 88 | 942 | 21559 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 102 | 441 | 777 |
 | **#banker** | 0 | 0 | 0 | 0 |
