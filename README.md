@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-19 08:03:08 (UTC)</th>
+        <th colspan=4>2025-07-19 08:31:54 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 36 | 1506 | 7598 | 66388 |
-| **:globe_with_meridians: Domains** | 7 | 804 | 4366 | 45797 |
-| **:triangular_flag_on_post: IPs** | 29 | 649 | 2968 | 19271 |
+| **:link: URLs** | 42 | 1512 | 7604 | 66394 |
+| **:globe_with_meridians: Domains** | 11 | 808 | 4370 | 45801 |
+| **:triangular_flag_on_post: IPs** | 30 | 650 | 2969 | 19272 |
 | **:1234: SHA256** | 0 | 10 | 39 | 1600 |
 | **:1234: MD5** | 2 | 69 | 332 | 2448 |
 
@@ -125,8 +125,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 17 | 1342 | 7512 | 81784 |
 | **#scam** | 8 | 159 | 719 | 9657 |
-| **#opendir** | 0 | 53 | 152 | 940 |
-| **#malware** | 0 | 75 | 929 | 21546 |
+| **#opendir** | 11 | 64 | 163 | 951 |
+| **#malware** | 11 | 86 | 940 | 21557 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 102 | 441 | 777 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 57 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 7 |
-| **#4** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#2** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 11 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 7 |
+| **#5** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
