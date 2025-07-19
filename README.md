@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-19 14:08:26 (UTC)</th>
+        <th colspan=4>2025-07-19 14:37:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 69 | 1539 | 7631 | 66421 |
-| **:globe_with_meridians: Domains** | 19 | 816 | 4378 | 45809 |
-| **:triangular_flag_on_post: IPs** | 44 | 664 | 2983 | 19286 |
+| **:link: URLs** | 72 | 1542 | 7634 | 66424 |
+| **:globe_with_meridians: Domains** | 21 | 818 | 4380 | 45811 |
+| **:triangular_flag_on_post: IPs** | 45 | 665 | 2984 | 19287 |
 | **:1234: SHA256** | 1 | 11 | 40 | 1601 |
 | **:1234: MD5** | 2 | 69 | 332 | 2448 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 30 | 1355 | 7525 | 81797 |
-| **#scam** | 10 | 161 | 721 | 9659 |
+| **#phishing** | 32 | 1357 | 7527 | 81799 |
+| **#scam** | 12 | 163 | 723 | 9661 |
 | **#opendir** | 11 | 64 | 163 | 951 |
 | **#malware** | 11 | 86 | 940 | 21557 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,9 +167,9 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 94 |
-| **#2** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 11 |
-| **#3** | [BlinkzSec](https://twitter.com/BlinkzSec) | 11 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#3** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 11 |
+| **#4** | [BlinkzSec](https://twitter.com/BlinkzSec) | 11 |
 | **#5** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
