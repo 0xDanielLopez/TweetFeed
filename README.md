@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-19 06:42:15 (UTC)</th>
+        <th colspan=4>2025-07-19 07:08:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 1477 | 7569 | 66359 |
+| **:link: URLs** | 36 | 1506 | 7598 | 66388 |
 | **:globe_with_meridians: Domains** | 7 | 804 | 4366 | 45797 |
-| **:triangular_flag_on_post: IPs** | 1 | 621 | 2940 | 19243 |
+| **:triangular_flag_on_post: IPs** | 29 | 649 | 2968 | 19271 |
 | **:1234: SHA256** | 0 | 10 | 39 | 1600 |
 | **:1234: MD5** | 0 | 67 | 330 | 2446 |
 
@@ -132,11 +132,11 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 6 | 173 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 61 | 296 | 2405 |
+| **#AsyncRAT** | 8 | 69 | 304 | 2413 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 379 | 1582 | 9071 |
-| **#Dcrat** | 0 | 7 | 43 | 317 |
+| **#Dcrat** | 4 | 11 | 47 | 321 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 93 | 292 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 9 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 30 | 109 | 1034 |
-| **#Qakbot** | 0 | 44 | 155 | 817 |
+| **#Qakbot** | 2 | 46 | 157 | 819 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 12 | 118 |
 | **#Remcos** | 0 | 31 | 281 | 2447 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 7 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 57 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
