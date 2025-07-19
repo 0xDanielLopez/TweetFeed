@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-19 06:14:16 (UTC)</th>
+        <th colspan=4>2025-07-19 06:42:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 6 | 1476 | 7568 | 66358 |
-| **:globe_with_meridians: Domains** | 6 | 803 | 4365 | 45796 |
+| **:link: URLs** | 7 | 1477 | 7569 | 66359 |
+| **:globe_with_meridians: Domains** | 7 | 804 | 4366 | 45797 |
 | **:triangular_flag_on_post: IPs** | 1 | 621 | 2940 | 19243 |
 | **:1234: SHA256** | 0 | 10 | 39 | 1600 |
 | **:1234: MD5** | 0 | 67 | 330 | 2446 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 1338 | 7508 | 81780 |
-| **#scam** | 6 | 157 | 717 | 9655 |
+| **#phishing** | 15 | 1340 | 7510 | 81782 |
+| **#scam** | 8 | 159 | 719 | 9657 |
 | **#opendir** | 0 | 53 | 152 | 940 |
 | **#malware** | 0 | 75 | 929 | 21546 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [harugasumi](https://twitter.com/harugasumi) | 7 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
