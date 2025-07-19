@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-19 08:31:54 (UTC)</th>
+        <th colspan=4>2025-07-19 08:59:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 1512 | 7604 | 66394 |
-| **:globe_with_meridians: Domains** | 11 | 808 | 4370 | 45801 |
-| **:triangular_flag_on_post: IPs** | 30 | 650 | 2969 | 19272 |
-| **:1234: SHA256** | 0 | 10 | 39 | 1600 |
+| **:link: URLs** | 47 | 1517 | 7609 | 66399 |
+| **:globe_with_meridians: Domains** | 15 | 812 | 4374 | 45805 |
+| **:triangular_flag_on_post: IPs** | 31 | 651 | 2970 | 19273 |
+| **:1234: SHA256** | 1 | 11 | 40 | 1601 |
 | **:1234: MD5** | 2 | 69 | 332 | 2448 |
 
 </div>
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 17 | 1342 | 7512 | 81784 |
+| **#phishing** | 28 | 1353 | 7523 | 81795 |
 | **#scam** | 8 | 159 | 719 | 9657 |
 | **#opendir** | 11 | 64 | 163 | 951 |
 | **#malware** | 11 | 86 | 940 | 21557 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 57 |
 | **#2** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 11 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 7 |
-| **#5** | [PrakkiSathwik](https://twitter.com/PrakkiSathwik) | 2 |
+| **#3** | [BlinkzSec](https://twitter.com/BlinkzSec) | 11 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#5** | [harugasumi](https://twitter.com/harugasumi) | 7 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
