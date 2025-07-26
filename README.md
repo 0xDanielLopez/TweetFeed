@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 08:54:00 (UTC)</th>
+        <th colspan=4>2025-07-26 09:19:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 25 | 1043 | 6857 | 67509 |
+| **:link: URLs** | 29 | 1047 | 6861 | 67513 |
 | **:globe_with_meridians: Domains** | 8 | 429 | 3577 | 46248 |
-| **:triangular_flag_on_post: IPs** | 14 | 558 | 2992 | 19868 |
+| **:triangular_flag_on_post: IPs** | 16 | 560 | 2994 | 19870 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
 | **:1234: MD5** | 3 | 46 | 288 | 2497 |
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 27 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 33 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#4** | [ReBensk](https://twitter.com/ReBensk) | 3 |
