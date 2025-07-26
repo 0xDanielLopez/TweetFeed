@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 06:50:45 (UTC)</th>
+        <th colspan=4>2025-07-26 07:21:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 11 | 1029 | 6843 | 67495 |
+| **:link: URLs** | 25 | 1043 | 6857 | 67509 |
 | **:globe_with_meridians: Domains** | 8 | 429 | 3577 | 46248 |
-| **:triangular_flag_on_post: IPs** | 1 | 545 | 2979 | 19855 |
+| **:triangular_flag_on_post: IPs** | 14 | 558 | 2992 | 19868 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
 | **:1234: MD5** | 3 | 46 | 288 | 2497 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 4 | 8 | 177 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 47 | 304 | 2460 |
+| **#AsyncRAT** | 4 | 51 | 308 | 2464 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 259 | 1475 | 9378 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 4 | 4 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 4 | 14 | 109 | 1048 |
-| **#Qakbot** | 0 | 25 | 153 | 849 |
+| **#Qakbot** | 4 | 29 | 157 | 853 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 10 | 18 | 128 |
 | **#Remcos** | 0 | 44 | 287 | 2493 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#2** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
-| **#3** | [ReBensk](https://twitter.com/ReBensk) | 3 |
-| **#4** | [qrjxl](https://twitter.com/qrjxl) | 2 |
-| **#5** | [Ki__zzy](https://twitter.com/Ki__zzy) | 2 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 27 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#4** | [ReBensk](https://twitter.com/ReBensk) | 3 |
+| **#5** | [qrjxl](https://twitter.com/qrjxl) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
