@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 00:55:23 (UTC)</th>
+        <th colspan=4>2025-07-26 01:21:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 1019 | 6833 | 67485 |
-| **:globe_with_meridians: Domains** | 1 | 422 | 3570 | 46241 |
+| **:link: URLs** | 2 | 1020 | 6834 | 67486 |
+| **:globe_with_meridians: Domains** | 2 | 423 | 3571 | 46242 |
 | **:triangular_flag_on_post: IPs** | 0 | 544 | 2978 | 19854 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
 | **:1234: MD5** | 0 | 43 | 285 | 2494 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 653 | 5936 | 82465 |
+| **#phishing** | 4 | 655 | 5938 | 82467 |
 | **#scam** | 2 | 147 | 648 | 9812 |
 | **#opendir** | 0 | 27 | 175 | 981 |
 | **#malware** | 0 | 77 | 581 | 21642 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#2** | [qrjxl](https://twitter.com/qrjxl) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
