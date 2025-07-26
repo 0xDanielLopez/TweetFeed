@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 02:44:57 (UTC)</th>
+        <th colspan=4>2025-07-26 03:15:46 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 5 | 426 | 3574 | 46245 |
 | **:triangular_flag_on_post: IPs** | 1 | 545 | 2979 | 19855 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
-| **:1234: MD5** | 0 | 43 | 285 | 2494 |
+| **:1234: MD5** | 1 | 44 | 286 | 2495 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 8 | 659 | 5942 | 82471 |
 | **#scam** | 4 | 149 | 650 | 9814 |
 | **#opendir** | 0 | 27 | 175 | 981 |
-| **#malware** | 0 | 77 | 581 | 21642 |
+| **#malware** | 1 | 78 | 582 | 21643 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 11 | 438 | 788 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#3** | [qrjxl](https://twitter.com/qrjxl) | 2 |
 | **#4** | [Ki__zzy](https://twitter.com/Ki__zzy) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#5** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
