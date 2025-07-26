@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-25 23:58:36 (UTC)</th>
+        <th colspan=4>2025-07-26 00:28:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 245 | 1133 | 7162 | 67484 |
-| **:globe_with_meridians: Domains** | 88 | 451 | 3789 | 46240 |
-| **:triangular_flag_on_post: IPs** | 132 | 612 | 3076 | 19854 |
-| **:1234: SHA256** | 0 | 18 | 50 | 1618 |
-| **:1234: MD5** | 2 | 48 | 299 | 2494 |
+| **:link: URLs** | 1 | 1019 | 6833 | 67485 |
+| **:globe_with_meridians: Domains** | 1 | 422 | 3570 | 46241 |
+| **:triangular_flag_on_post: IPs** | 0 | 544 | 2978 | 19854 |
+| **:1234: SHA256** | 0 | 13 | 49 | 1618 |
+| **:1234: MD5** | 0 | 43 | 285 | 2494 |
 
 </div>
 
@@ -123,34 +123,34 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 138 | 698 | 6367 | 82463 |
-| **#scam** | 28 | 163 | 676 | 9810 |
-| **#opendir** | 0 | 41 | 176 | 981 |
-| **#malware** | 8 | 96 | 635 | 21642 |
+| **#phishing** | 2 | 653 | 5936 | 82465 |
+| **#scam** | 2 | 147 | 648 | 9812 |
+| **#opendir** | 0 | 27 | 175 | 981 |
+| **#malware** | 0 | 77 | 581 | 21642 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 2 | 11 | 443 | 788 |
+| **#ransomware** | 0 | 11 | 438 | 788 |
 | **#banker** | 0 | 0 | 0 | 0 |
-| **#AgentTesla** | 0 | 4 | 9 | 177 |
+| **#AgentTesla** | 0 | 4 | 8 | 177 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 6 | 55 | 307 | 2460 |
+| **#AsyncRAT** | 0 | 47 | 304 | 2460 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 123 | 307 | 1571 | 9378 |
-| **#Dcrat** | 4 | 12 | 49 | 329 |
+| **#CobaltStrike** | 0 | 259 | 1475 | 9378 |
+| **#Dcrat** | 0 | 8 | 49 | 329 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 25 | 45 | 317 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
 | **#GuLoader** | 0 | 0 | 0 | 36 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
 | **#Lazarus** | 0 | 0 | 4 | 114 |
-| **#Lokibot** | 0 | 0 | 7 | 121 |
+| **#Lokibot** | 0 | 0 | 6 | 121 |
 | **#log4j** | 0 | 4 | 4 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 10 | 105 | 1044 |
-| **#Qakbot** | 3 | 32 | 159 | 849 |
+| **#Qakbot** | 0 | 25 | 153 | 849 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
-| **#RedLine** | 2 | 10 | 18 | 128 |
-| **#Remcos** | 10 | 46 | 291 | 2493 |
+| **#RedLine** | 0 | 10 | 18 | 128 |
+| **#Remcos** | 0 | 44 | 287 | 2493 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 248 |
-| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 76 |
-| **#3** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 25 |
-| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 23 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 22 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#2** | [-](https://twitter.com/-) | 0 |
+| **#3** | [-](https://twitter.com/-) | 0 |
+| **#4** | [-](https://twitter.com/-) | 0 |
+| **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ir0n_fe](https://twitter.com/ir0n_fe) | 8 |
-| **#10** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
+| **#9** | [-](https://twitter.com/-) | 0 |
+| **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
 
