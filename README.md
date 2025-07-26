@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 14:02:09 (UTC)</th>
+        <th colspan=4>2025-07-26 14:29:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 36 | 1054 | 6868 | 67520 |
-| **:globe_with_meridians: Domains** | 15 | 436 | 3584 | 46255 |
+| **:link: URLs** | 39 | 1057 | 6871 | 67523 |
+| **:globe_with_meridians: Domains** | 18 | 439 | 3587 | 46258 |
 | **:triangular_flag_on_post: IPs** | 16 | 560 | 2994 | 19870 |
-| **:1234: SHA256** | 0 | 13 | 49 | 1618 |
+| **:1234: SHA256** | 1 | 14 | 50 | 1619 |
 | **:1234: MD5** | 4 | 47 | 289 | 2498 |
 
 </div>
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 26 | 677 | 5960 | 82489 |
-| **#scam** | 12 | 157 | 658 | 9822 |
+| **#phishing** | 32 | 683 | 5966 | 82495 |
+| **#scam** | 14 | 159 | 660 | 9824 |
 | **#opendir** | 0 | 27 | 175 | 981 |
 | **#malware** | 5 | 82 | 586 | 21647 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 33 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
-| **#5** | [ReBensk](https://twitter.com/ReBensk) | 3 |
+| **#5** | [Power_licious](https://twitter.com/Power_licious) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [askardyuss](https://twitter.com/askardyuss) | 2 |
-| **#10** | [kelly1fernandes](https://twitter.com/kelly1fernandes) | 2 |
+| **#9** | [Ki__zzy](https://twitter.com/Ki__zzy) | 2 |
+| **#10** | [AddressIntel](https://twitter.com/AddressIntel) | 2 |
 
 </div>
 
