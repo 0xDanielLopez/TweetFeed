@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 09:44:55 (UTC)</th>
+        <th colspan=4>2025-07-26 10:10:03 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 1047 | 6861 | 67513 |
-| **:globe_with_meridians: Domains** | 8 | 429 | 3577 | 46248 |
+| **:link: URLs** | 33 | 1051 | 6865 | 67517 |
+| **:globe_with_meridians: Domains** | 12 | 433 | 3581 | 46252 |
 | **:triangular_flag_on_post: IPs** | 16 | 560 | 2994 | 19870 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
 | **:1234: MD5** | 3 | 46 | 288 | 2497 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 14 | 665 | 5948 | 82477 |
-| **#scam** | 8 | 153 | 654 | 9818 |
+| **#phishing** | 22 | 673 | 5956 | 82485 |
+| **#scam** | 10 | 155 | 656 | 9820 |
 | **#opendir** | 0 | 27 | 175 | 981 |
 | **#malware** | 5 | 82 | 586 | 21647 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 33 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
-| **#4** | [ReBensk](https://twitter.com/ReBensk) | 3 |
-| **#5** | [qrjxl](https://twitter.com/qrjxl) | 2 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 6 |
+| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#5** | [ReBensk](https://twitter.com/ReBensk) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [askardyuss](https://twitter.com/askardyuss) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
