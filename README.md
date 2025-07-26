@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 13:08:05 (UTC)</th>
+        <th colspan=4>2025-07-26 13:36:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 1053 | 6867 | 67519 |
-| **:globe_with_meridians: Domains** | 14 | 435 | 3583 | 46254 |
+| **:link: URLs** | 36 | 1054 | 6868 | 67520 |
+| **:globe_with_meridians: Domains** | 15 | 436 | 3584 | 46255 |
 | **:triangular_flag_on_post: IPs** | 16 | 560 | 2994 | 19870 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
 | **:1234: MD5** | 4 | 47 | 289 | 2498 |
