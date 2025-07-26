@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-07-26 01:21:43 (UTC)</th>
+        <th colspan=4>2025-07-26 01:47:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 1020 | 6834 | 67486 |
-| **:globe_with_meridians: Domains** | 2 | 423 | 3571 | 46242 |
-| **:triangular_flag_on_post: IPs** | 0 | 544 | 2978 | 19854 |
+| **:link: URLs** | 5 | 1023 | 6837 | 67489 |
+| **:globe_with_meridians: Domains** | 4 | 425 | 3573 | 46244 |
+| **:triangular_flag_on_post: IPs** | 1 | 545 | 2979 | 19855 |
 | **:1234: SHA256** | 0 | 13 | 49 | 1618 |
 | **:1234: MD5** | 0 | 43 | 285 | 2494 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 4 | 655 | 5938 | 82467 |
+| **#phishing** | 6 | 657 | 5940 | 82469 |
 | **#scam** | 2 | 147 | 648 | 9812 |
 | **#opendir** | 0 | 27 | 175 | 981 |
 | **#malware** | 0 | 77 | 581 | 21642 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 6 | 121 |
 | **#log4j** | 0 | 4 | 4 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 10 | 105 | 1044 |
+| **#Njrat** | 4 | 14 | 109 | 1048 |
 | **#Qakbot** | 0 | 25 | 153 | 849 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 10 | 18 | 128 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [qrjxl](https://twitter.com/qrjxl) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#1** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#3** | [qrjxl](https://twitter.com/qrjxl) | 2 |
+| **#4** | [Ki__zzy](https://twitter.com/Ki__zzy) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
