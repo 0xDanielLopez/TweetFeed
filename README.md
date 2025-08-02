@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-02 16:23:53 (UTC)</th>
+        <th colspan=4>2025-08-02 16:52:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 1184 | 5855 | 68731 |
-| **:globe_with_meridians: Domains** | 42 | 526 | 2659 | 46799 |
+| **:link: URLs** | 52 | 1186 | 5857 | 68733 |
+| **:globe_with_meridians: Domains** | 43 | 527 | 2660 | 46800 |
 | **:triangular_flag_on_post: IPs** | 5 | 577 | 2908 | 20455 |
-| **:1234: SHA256** | 1 | 9 | 51 | 1628 |
+| **:1234: SHA256** | 2 | 10 | 52 | 1629 |
 | **:1234: MD5** | 4 | 80 | 293 | 2578 |
 
 </div>
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 66 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 70 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
 | **#3** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 7 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
