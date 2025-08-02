@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-02 02:00:46 (UTC)</th>
+        <th colspan=4>2025-08-02 02:28:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 10 | 1144 | 5815 | 68691 |
-| **:globe_with_meridians: Domains** | 10 | 494 | 2627 | 46767 |
+| **:link: URLs** | 11 | 1145 | 5816 | 68692 |
+| **:globe_with_meridians: Domains** | 11 | 495 | 2628 | 46768 |
 | **:triangular_flag_on_post: IPs** | 0 | 572 | 2903 | 20450 |
 | **:1234: SHA256** | 0 | 8 | 50 | 1627 |
 | **:1234: MD5** | 1 | 77 | 290 | 2575 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 541 | 3725 | 83048 |
-| **#scam** | 2 | 163 | 645 | 9995 |
+| **#phishing** | 4 | 543 | 3727 | 83050 |
+| **#scam** | 4 | 165 | 647 | 9997 |
 | **#opendir** | 0 | 17 | 181 | 1017 |
 | **#malware** | 0 | 61 | 367 | 21733 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 18 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 1 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
