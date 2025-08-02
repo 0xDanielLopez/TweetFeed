@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+   <channel>
+      <title>TweetFeed RSS</title>
+      <link>https://tweetfeed.live</link>
+      <description>TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter.</description>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed RSS</title>
+         <link>https://tweetfeed.live</link>
+      </image>
+      <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
+      <item>
+         <title>https://btconnect-voicemail.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/1951432798331396294</link>
+         <description>@urldna_bot | url | #scam #phishing</description>
+         <guid>https://btconnect-voicemail.weebly.com</guid>
+         <pubDate>Sat, 02 Aug 2025 00:00:09 -0000</pubDate>
+      </item>
+      <item>
+         <title>btconnect-voicemail.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/1951432798331396294</link>
+         <description>@urldna_bot | domain | #scam #phishing</description>
+         <guid isPermaLink="false">btconnect-voicemail.weebly.com</guid>
+         <pubDate>Sat, 02 Aug 2025 00:00:09 -0000</pubDate>
+      </item>
+   </channel>
+</rss>
