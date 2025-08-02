@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-02 04:16:03 (UTC)</th>
+        <th colspan=4>2025-08-02 04:44:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 1148 | 5819 | 68695 |
-| **:globe_with_meridians: Domains** | 13 | 497 | 2630 | 46770 |
-| **:triangular_flag_on_post: IPs** | 1 | 573 | 2904 | 20451 |
+| **:link: URLs** | 30 | 1164 | 5835 | 68711 |
+| **:globe_with_meridians: Domains** | 26 | 510 | 2643 | 46783 |
+| **:triangular_flag_on_post: IPs** | 2 | 574 | 2905 | 20452 |
 | **:1234: SHA256** | 0 | 8 | 50 | 1627 |
-| **:1234: MD5** | 2 | 78 | 291 | 2576 |
+| **:1234: MD5** | 3 | 79 | 292 | 2577 |
 
 </div>
 
@@ -138,7 +138,7 @@ If you like the project, please consider:
 | **#CobaltStrike** | 0 | 311 | 1468 | 9689 |
 | **#Dcrat** | 0 | 18 | 57 | 347 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
-| **#Formbook** | 18 | 36 | 81 | 353 |
+| **#Formbook** | 45 | 63 | 108 | 380 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
 | **#GuLoader** | 0 | 3 | 3 | 39 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 4 | 6 | 125 |
 | **#log4j** | 0 | 0 | 4 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 17 | 107 | 1071 |
+| **#Njrat** | 4 | 21 | 111 | 1075 |
 | **#Qakbot** | 0 | 38 | 162 | 891 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 22 | 134 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 23 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 50 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 1 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
