@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-02 12:38:44 (UTC)</th>
+        <th colspan=4>2025-08-02 13:05:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 47 | 1181 | 5852 | 68728 |
 | **:globe_with_meridians: Domains** | 40 | 524 | 2657 | 46797 |
 | **:triangular_flag_on_post: IPs** | 4 | 576 | 2907 | 20454 |
-| **:1234: SHA256** | 0 | 8 | 50 | 1627 |
+| **:1234: SHA256** | 1 | 9 | 51 | 1628 |
 | **:1234: MD5** | 4 | 80 | 293 | 2578 |
 
 </div>
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#3** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 7 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
-| **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#5** | [JRoosen](https://twitter.com/JRoosen) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
