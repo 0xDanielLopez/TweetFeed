@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-02 00:39:22 (UTC)</th>
+        <th colspan=4>2025-08-02 01:05:36 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 1 | 485 | 2618 | 46758 |
 | **:triangular_flag_on_post: IPs** | 0 | 572 | 2903 | 20450 |
 | **:1234: SHA256** | 0 | 8 | 50 | 1627 |
-| **:1234: MD5** | 0 | 76 | 289 | 2574 |
+| **:1234: MD5** | 1 | 77 | 290 | 2575 |
 
 </div>
 
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 17 | 181 | 1017 |
 | **#malware** | 0 | 61 | 367 | 21733 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 33 | 209 | 822 |
+| **#ransomware** | 1 | 34 | 210 | 823 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 11 | 15 | 188 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#2** | [fbgwls245](https://twitter.com/fbgwls245) | 1 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
