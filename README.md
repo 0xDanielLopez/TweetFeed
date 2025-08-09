@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-09 09:53:49 (UTC)</th>
+        <th colspan=4>2025-08-09 10:26:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 116 | 1212 | 5687 | 69977 |
-| **:globe_with_meridians: Domains** | 69 | 426 | 2491 | 47244 |
-| **:triangular_flag_on_post: IPs** | 51 | 616 | 2803 | 21083 |
+| **:link: URLs** | 121 | 1217 | 5692 | 69982 |
+| **:globe_with_meridians: Domains** | 72 | 429 | 2494 | 47247 |
+| **:triangular_flag_on_post: IPs** | 60 | 625 | 2812 | 21092 |
 | **:1234: SHA256** | 0 | 18 | 61 | 1648 |
 | **:1234: MD5** | 0 | 71 | 297 | 2650 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 119 | 475 | 3495 | 83552 |
-| **#scam** | 10 | 171 | 741 | 10186 |
+| **#phishing** | 121 | 477 | 3497 | 83554 |
+| **#scam** | 12 | 173 | 743 | 10188 |
 | **#opendir** | 0 | 26 | 178 | 1052 |
 | **#malware** | 1 | 68 | 395 | 21816 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 3 | 18 | 191 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 2 | 120 | 296 | 2611 |
+| **#AsyncRAT** | 4 | 122 | 298 | 2613 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 2 | 341 | 1451 | 10030 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 0 | 6 | 125 |
 | **#log4j** | 0 | 0 | 4 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 20 | 103 | 1095 |
+| **#Njrat** | 2 | 22 | 105 | 1097 |
 | **#Qakbot** | 0 | 29 | 160 | 920 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 24 | 138 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 93 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 85 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 100 |
+| **#2** | [romonlyht](https://twitter.com/romonlyht) | 93 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 46 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
 | **#5** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
