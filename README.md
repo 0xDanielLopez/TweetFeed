@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-09 11:32:26 (UTC)</th>
+        <th colspan=4>2025-08-09 12:05:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 133 | 1229 | 5704 | 69994 |
-| **:globe_with_meridians: Domains** | 79 | 436 | 2501 | 47254 |
-| **:triangular_flag_on_post: IPs** | 69 | 634 | 2821 | 21101 |
+| **:link: URLs** | 138 | 1234 | 5709 | 69999 |
+| **:globe_with_meridians: Domains** | 83 | 440 | 2505 | 47258 |
+| **:triangular_flag_on_post: IPs** | 70 | 635 | 2822 | 21102 |
 | **:1234: SHA256** | 0 | 18 | 61 | 1648 |
 | **:1234: MD5** | 2 | 73 | 299 | 2652 |
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 122 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 132 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 93 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
