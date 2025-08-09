@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-09 14:20:24 (UTC)</th>
+        <th colspan=4>2025-08-09 14:53:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 138 | 1234 | 5709 | 69999 |
-| **:globe_with_meridians: Domains** | 83 | 440 | 2505 | 47258 |
+| **:link: URLs** | 139 | 1235 | 5710 | 70000 |
+| **:globe_with_meridians: Domains** | 84 | 441 | 2506 | 47259 |
 | **:triangular_flag_on_post: IPs** | 70 | 635 | 2822 | 21102 |
 | **:1234: SHA256** | 0 | 18 | 61 | 1648 |
-| **:1234: MD5** | 2 | 73 | 299 | 2652 |
+| **:1234: MD5** | 3 | 74 | 300 | 2653 |
 
 </div>
 
@@ -123,12 +123,12 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 121 | 477 | 3497 | 83554 |
-| **#scam** | 12 | 173 | 743 | 10188 |
+| **#phishing** | 123 | 479 | 3499 | 83556 |
+| **#scam** | 14 | 175 | 745 | 10190 |
 | **#opendir** | 2 | 28 | 180 | 1054 |
 | **#malware** | 1 | 68 | 395 | 21816 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 1 | 19 | 181 | 842 |
+| **#ransomware** | 2 | 20 | 182 | 843 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 3 | 18 | 191 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -169,7 +169,7 @@ If you like the project, please consider:
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 132 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 93 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#5** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
