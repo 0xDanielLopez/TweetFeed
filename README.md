@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-09 03:44:32 (UTC)</th>
+        <th colspan=4>2025-08-09 04:15:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 57 | 1153 | 5628 | 69918 |
-| **:globe_with_meridians: Domains** | 39 | 396 | 2461 | 47214 |
-| **:triangular_flag_on_post: IPs** | 26 | 591 | 2778 | 21058 |
+| **:link: URLs** | 68 | 1164 | 5639 | 69929 |
+| **:globe_with_meridians: Domains** | 47 | 404 | 2469 | 47222 |
+| **:triangular_flag_on_post: IPs** | 27 | 592 | 2779 | 21059 |
 | **:1234: SHA256** | 0 | 18 | 61 | 1648 |
 | **:1234: MD5** | 0 | 71 | 297 | 2650 |
 
@@ -126,9 +126,9 @@ If you like the project, please consider:
 | **#phishing** | 102 | 458 | 3478 | 83535 |
 | **#scam** | 4 | 165 | 735 | 10180 |
 | **#opendir** | 0 | 26 | 178 | 1052 |
-| **#malware** | 0 | 67 | 394 | 21815 |
+| **#malware** | 1 | 68 | 395 | 21816 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 18 | 180 | 841 |
+| **#ransomware** | 1 | 19 | 181 | 842 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 3 | 18 | 191 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -138,7 +138,7 @@ If you like the project, please consider:
 | **#CobaltStrike** | 2 | 341 | 1451 | 10030 |
 | **#Dcrat** | 0 | 14 | 53 | 361 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
-| **#Formbook** | 16 | 34 | 175 | 447 |
+| **#Formbook** | 35 | 53 | 194 | 466 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
 | **#GuLoader** | 0 | 4 | 7 | 43 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 82 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 34 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 53 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#5** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
