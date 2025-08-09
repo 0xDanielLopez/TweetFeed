@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-09 15:59:03 (UTC)</th>
+        <th colspan=4>2025-08-09 16:32:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 139 | 1235 | 5710 | 70000 |
-| **:globe_with_meridians: Domains** | 84 | 441 | 2506 | 47259 |
-| **:triangular_flag_on_post: IPs** | 70 | 635 | 2822 | 21102 |
+| **:link: URLs** | 142 | 1238 | 5713 | 70003 |
+| **:globe_with_meridians: Domains** | 86 | 443 | 2508 | 47261 |
+| **:triangular_flag_on_post: IPs** | 71 | 636 | 2823 | 21103 |
 | **:1234: SHA256** | 0 | 18 | 61 | 1648 |
 | **:1234: MD5** | 3 | 74 | 300 | 2653 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 4 | 122 | 298 | 2613 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 10 | 349 | 1459 | 10038 |
+| **#CobaltStrike** | 16 | 355 | 1465 | 10044 |
 | **#Dcrat** | 0 | 14 | 53 | 361 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 35 | 53 | 194 | 466 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 132 |
 | **#2** | [romonlyht](https://twitter.com/romonlyht) | 93 |
-| **#3** | [drb_ra](https://twitter.com/drb_ra) | 54 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 60 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#5** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
