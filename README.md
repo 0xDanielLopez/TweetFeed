@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-16 17:06:00 (UTC)</th>
+        <th colspan=4>2025-08-16 17:37:01 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 30 | 1032 | 5083 | 71121 |
-| **:globe_with_meridians: Domains** | 20 | 411 | 2039 | 47723 |
+| **:link: URLs** | 31 | 1033 | 5084 | 71122 |
+| **:globe_with_meridians: Domains** | 21 | 412 | 2040 | 47724 |
 | **:triangular_flag_on_post: IPs** | 18 | 569 | 2647 | 21704 |
 | **:1234: SHA256** | 0 | 20 | 69 | 1668 |
 | **:1234: MD5** | 1 | 61 | 286 | 2715 |
@@ -125,8 +125,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 30 | 383 | 2384 | 83993 |
 | **#scam** | 18 | 152 | 753 | 10348 |
-| **#opendir** | 2 | 8 | 128 | 1066 |
-| **#malware** | 16 | 77 | 375 | 21898 |
+| **#opendir** | 4 | 10 | 130 | 1068 |
+| **#malware** | 18 | 79 | 377 | 21900 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 7 | 81 | 850 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -170,11 +170,11 @@ If you like the project, please consider:
 | **#2** | [redrabytes](https://twitter.com/redrabytes) | 13 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 12 |
 | **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 11 |
-| **#5** | [500mk500](https://twitter.com/500mk500) | 4 |
+| **#5** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 2 |
+| **#9** | [nuria_imeq](https://twitter.com/nuria_imeq) | 2 |
 | **#10** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 1 |
 
 </div>
