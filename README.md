@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-16 02:14:45 (UTC)</th>
+        <th colspan=4>2025-08-16 02:43:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 1003 | 5054 | 71092 |
+| **:link: URLs** | 3 | 1005 | 5056 | 71094 |
 | **:globe_with_meridians: Domains** | 1 | 392 | 2020 | 47704 |
-| **:triangular_flag_on_post: IPs** | 0 | 551 | 2629 | 21686 |
+| **:triangular_flag_on_post: IPs** | 1 | 552 | 2630 | 21687 |
 | **:1234: SHA256** | 0 | 20 | 69 | 1668 |
 | **:1234: MD5** | 0 | 60 | 285 | 2714 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 31 | 269 | 2653 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 260 | 1361 | 10320 |
+| **#CobaltStrike** | 3 | 263 | 1364 | 10323 |
 | **#Dcrat** | 0 | 8 | 56 | 369 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 174 | 466 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 3 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
