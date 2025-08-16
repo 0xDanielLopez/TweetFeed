@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-16 12:01:22 (UTC)</th>
+        <th colspan=4>2025-08-16 12:31:48 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 19 | 1021 | 5072 | 71110 |
-| **:globe_with_meridians: Domains** | 9 | 400 | 2028 | 47712 |
+| **:link: URLs** | 28 | 1030 | 5081 | 71119 |
+| **:globe_with_meridians: Domains** | 18 | 409 | 2037 | 47721 |
 | **:triangular_flag_on_post: IPs** | 11 | 562 | 2640 | 21697 |
 | **:1234: SHA256** | 0 | 20 | 69 | 1668 |
 | **:1234: MD5** | 0 | 60 | 285 | 2714 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 12 | 365 | 2366 | 83975 |
-| **#scam** | 12 | 146 | 747 | 10342 |
+| **#phishing** | 26 | 379 | 2380 | 83989 |
+| **#scam** | 14 | 148 | 749 | 10344 |
 | **#opendir** | 2 | 8 | 128 | 1066 |
 | **#malware** | 15 | 76 | 374 | 21897 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [redrabytes](https://twitter.com/redrabytes) | 13 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
-| **#3** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 4 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 3 |
-| **#5** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
+| **#2** | [redrabytes](https://twitter.com/redrabytes) | 13 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 12 |
+| **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 4 |
+| **#5** | [500mk500](https://twitter.com/500mk500) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [cyberfeeddigest](https://twitter.com/cyberfeeddigest) | 2 |
+| **#10** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 1 |
 
 </div>
 
