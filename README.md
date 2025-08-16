@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-16 07:54:23 (UTC)</th>
+        <th colspan=4>2025-08-16 08:26:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 6 | 1008 | 5059 | 71097 |
-| **:globe_with_meridians: Domains** | 4 | 395 | 2023 | 47707 |
-| **:triangular_flag_on_post: IPs** | 1 | 552 | 2630 | 21687 |
+| **:link: URLs** | 8 | 1010 | 5061 | 71099 |
+| **:globe_with_meridians: Domains** | 5 | 396 | 2024 | 47708 |
+| **:triangular_flag_on_post: IPs** | 6 | 557 | 2635 | 21692 |
 | **:1234: SHA256** | 0 | 20 | 69 | 1668 |
 | **:1234: MD5** | 0 | 60 | 285 | 2714 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 8 | 361 | 2362 | 83971 |
-| **#scam** | 8 | 142 | 743 | 10338 |
+| **#phishing** | 10 | 363 | 2364 | 83973 |
+| **#scam** | 10 | 144 | 745 | 10340 |
 | **#opendir** | 0 | 6 | 126 | 1064 |
 | **#malware** | 0 | 61 | 359 | 21882 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -149,7 +149,7 @@ If you like the project, please consider:
 | **#Njrat** | 0 | 35 | 103 | 1136 |
 | **#Qakbot** | 0 | 36 | 165 | 959 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
-| **#RedLine** | 0 | 2 | 22 | 140 |
+| **#RedLine** | 2 | 4 | 24 | 142 |
 | **#Remcos** | 0 | 64 | 351 | 2794 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 3 |
-| **#3** | [-](https://twitter.com/-) | 0 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#2** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 4 |
+| **#3** | [drb_ra](https://twitter.com/drb_ra) | 3 |
+| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
