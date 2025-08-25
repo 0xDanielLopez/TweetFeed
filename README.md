@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-25 16:08:41 (UTC)</th>
+        <th colspan=4>2025-08-25 16:31:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 175 | 1481 | 5227 | 72472 |
-| **:globe_with_meridians: Domains** | 94 | 379 | 1925 | 48004 |
-| **:triangular_flag_on_post: IPs** | 110 | 1018 | 2924 | 22750 |
+| **:link: URLs** | 181 | 1487 | 5233 | 72478 |
+| **:globe_with_meridians: Domains** | 97 | 382 | 1928 | 48007 |
+| **:triangular_flag_on_post: IPs** | 112 | 1020 | 2926 | 22752 |
 | **:1234: SHA256** | 0 | 6 | 58 | 1662 |
 | **:1234: MD5** | 7 | 63 | 295 | 2772 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 244 | 741 | 2372 | 84826 |
-| **#scam** | 16 | 162 | 754 | 10564 |
+| **#phishing** | 248 | 745 | 2376 | 84830 |
+| **#scam** | 18 | 164 | 756 | 10566 |
 | **#opendir** | 7 | 11 | 56 | 732 |
 | **#malware** | 10 | 110 | 367 | 21685 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 55 | 248 | 2707 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 30 | 366 | 1313 | 10685 |
+| **#CobaltStrike** | 37 | 373 | 1320 | 10692 |
 | **#Dcrat** | 0 | 9 | 53 | 382 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 149 | 466 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 141 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 80 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 87 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 62 |
 | **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
 | **#5** | [catnap707](https://twitter.com/catnap707) | 25 |
