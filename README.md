@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-25 01:59:44 (UTC)</th>
+        <th colspan=4>2025-08-25 02:21:02 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 46 | 1352 | 5098 | 72343 |
-| **:globe_with_meridians: Domains** | 25 | 310 | 1856 | 47935 |
-| **:triangular_flag_on_post: IPs** | 35 | 943 | 2849 | 22675 |
+| **:link: URLs** | 52 | 1358 | 5104 | 72349 |
+| **:globe_with_meridians: Domains** | 28 | 313 | 1859 | 47938 |
+| **:triangular_flag_on_post: IPs** | 39 | 947 | 2853 | 22679 |
 | **:1234: SHA256** | 0 | 6 | 58 | 1662 |
 | **:1234: MD5** | 0 | 56 | 288 | 2765 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 106 | 603 | 2234 | 84688 |
-| **#scam** | 2 | 148 | 740 | 10550 |
+| **#phishing** | 115 | 612 | 2243 | 84697 |
+| **#scam** | 4 | 150 | 742 | 10552 |
 | **#opendir** | 0 | 4 | 49 | 725 |
 | **#malware** | 0 | 100 | 357 | 21675 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 55 | 248 | 2707 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 336 | 1283 | 10655 |
+| **#CobaltStrike** | 4 | 340 | 1287 | 10659 |
 | **#Dcrat** | 0 | 9 | 53 | 382 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 149 | 466 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 77 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 84 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 25 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#4** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 4 |
+| **#5** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
