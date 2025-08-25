@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-25 07:25:48 (UTC)</th>
+        <th colspan=4>2025-08-25 07:50:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 114 | 1420 | 5166 | 72411 |
-| **:globe_with_meridians: Domains** | 49 | 334 | 1880 | 47959 |
+| **:link: URLs** | 116 | 1422 | 5168 | 72413 |
+| **:globe_with_meridians: Domains** | 51 | 336 | 1882 | 47961 |
 | **:triangular_flag_on_post: IPs** | 92 | 1000 | 2906 | 22732 |
 | **:1234: SHA256** | 0 | 6 | 58 | 1662 |
 | **:1234: MD5** | 3 | 59 | 291 | 2768 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 200 | 697 | 2328 | 84782 |
+| **#phishing** | 202 | 699 | 2330 | 84784 |
 | **#scam** | 8 | 154 | 746 | 10556 |
 | **#opendir** | 0 | 4 | 49 | 725 |
 | **#malware** | 1 | 101 | 358 | 21676 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 141 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 54 |
-| **#3** | [catnap707](https://twitter.com/catnap707) | 25 |
-| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 24 |
+| **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
+| **#4** | [catnap707](https://twitter.com/catnap707) | 25 |
 | **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 1 |
+| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 
 </div>
 
