@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-25 06:15:27 (UTC)</th>
+        <th colspan=4>2025-08-25 06:40:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 74 | 1380 | 5126 | 72371 |
-| **:globe_with_meridians: Domains** | 44 | 329 | 1875 | 47954 |
+| **:link: URLs** | 75 | 1381 | 5127 | 72372 |
+| **:globe_with_meridians: Domains** | 45 | 330 | 1876 | 47955 |
 | **:triangular_flag_on_post: IPs** | 60 | 968 | 2874 | 22700 |
 | **:1234: SHA256** | 0 | 6 | 58 | 1662 |
 | **:1234: MD5** | 2 | 58 | 290 | 2767 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 174 | 671 | 2302 | 84756 |
-| **#scam** | 6 | 152 | 744 | 10554 |
+| **#phishing** | 176 | 673 | 2304 | 84758 |
+| **#scam** | 8 | 154 | 746 | 10556 |
 | **#opendir** | 0 | 4 | 49 | 725 |
 | **#malware** | 0 | 100 | 357 | 21675 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 141 |
 | **#2** | [catnap707](https://twitter.com/catnap707) | 25 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 4 |
 | **#5** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
