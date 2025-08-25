@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-25 07:50:37 (UTC)</th>
+        <th colspan=4>2025-08-25 08:12:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 116 | 1422 | 5168 | 72413 |
+| **:link: URLs** | 117 | 1423 | 5169 | 72414 |
 | **:globe_with_meridians: Domains** | 51 | 336 | 1882 | 47961 |
-| **:triangular_flag_on_post: IPs** | 92 | 1000 | 2906 | 22732 |
+| **:triangular_flag_on_post: IPs** | 98 | 1006 | 2912 | 22738 |
 | **:1234: SHA256** | 0 | 6 | 58 | 1662 |
-| **:1234: MD5** | 3 | 59 | 291 | 2768 |
+| **:1234: MD5** | 4 | 60 | 292 | 2769 |
 
 </div>
 
@@ -125,7 +125,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 202 | 699 | 2330 | 84784 |
 | **#scam** | 8 | 154 | 746 | 10556 |
-| **#opendir** | 0 | 4 | 49 | 725 |
+| **#opendir** | 4 | 8 | 53 | 729 |
 | **#malware** | 1 | 101 | 358 | 21676 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 2 | 8 | 68 | 822 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 1 |
-| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
+| **#9** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 2 |
+| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
 
 </div>
 
