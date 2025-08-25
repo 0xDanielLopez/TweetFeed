@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-25 08:12:22 (UTC)</th>
+        <th colspan=4>2025-08-25 08:37:06 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 117 | 1423 | 5169 | 72414 |
-| **:globe_with_meridians: Domains** | 51 | 336 | 1882 | 47961 |
+| **:link: URLs** | 132 | 1438 | 5184 | 72429 |
+| **:globe_with_meridians: Domains** | 66 | 351 | 1897 | 47976 |
 | **:triangular_flag_on_post: IPs** | 98 | 1006 | 2912 | 22738 |
 | **:1234: SHA256** | 0 | 6 | 58 | 1662 |
 | **:1234: MD5** | 4 | 60 | 292 | 2769 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 202 | 699 | 2330 | 84784 |
+| **#phishing** | 232 | 729 | 2360 | 84814 |
 | **#scam** | 8 | 154 | 746 | 10556 |
 | **#opendir** | 4 | 8 | 53 | 729 |
 | **#malware** | 1 | 101 | 358 | 21676 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 141 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 54 |
-| **#3** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
-| **#4** | [catnap707](https://twitter.com/catnap707) | 25 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 32 |
+| **#4** | [Metemcyber](https://twitter.com/Metemcyber) | 26 |
+| **#5** | [catnap707](https://twitter.com/catnap707) | 25 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 2 |
-| **#10** | [ShanHolo](https://twitter.com/ShanHolo) | 2 |
+| **#9** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 2 |
+| **#10** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 2 |
 
 </div>
 
