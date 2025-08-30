@@ -11,11 +11,25 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
-         <title>https://sv-gt.de/wp-content/temp/app/index.</title>
-         <link>https://x.com/AddressIntel/status/1961690371525599401</link>
+         <title>https://sv-gt.de/wp-content/temp/app/normal</title>
+         <link>https://x.com/AddressIntel/status/1961695405583761680</link>
          <description>@AddressIntel | url | #phishing</description>
-         <guid>https://sv-gt.de/wp-content/temp/app/index.</guid>
-         <pubDate>Sat, 30 Aug 2025 07:20:05 -0000</pubDate>
+         <guid>https://sv-gt.de/wp-content/temp/app/normal</guid>
+         <pubDate>Sat, 30 Aug 2025 07:40:05 -0000</pubDate>
+      </item>
+      <item>
+         <title>static.centbrowser.com</title>
+         <link>https://x.com/dylancybertech/status/1961693824381567335</link>
+         <description>@dylancybertech | domain | #malware #opendir</description>
+         <guid isPermaLink="false">static.centbrowser.com</guid>
+         <pubDate>Sat, 30 Aug 2025 07:33:48 -0000</pubDate>
+      </item>
+      <item>
+         <title>https://static.centbrowser.com/SysinternalsSuite/</title>
+         <link>https://x.com/dylancybertech/status/1961693824381567335</link>
+         <description>@dylancybertech | url | #malware #opendir</description>
+         <guid>https://static.centbrowser.com/SysinternalsSuite/</guid>
+         <pubDate>Sat, 30 Aug 2025 07:33:48 -0000</pubDate>
       </item>
       <item>
          <title>sv-gt.de</title>
@@ -23,6 +37,20 @@
          <description>@AddressIntel | domain | #phishing</description>
          <guid isPermaLink="false">sv-gt.de</guid>
          <pubDate>Sat, 30 Aug 2025 07:20:05 -0000</pubDate>
+      </item>
+      <item>
+         <title>https://sv-gt.de/wp-content/temp/app/index.</title>
+         <link>https://x.com/AddressIntel/status/1961690371525599401</link>
+         <description>@AddressIntel | url | #phishing</description>
+         <guid>https://sv-gt.de/wp-content/temp/app/index.</guid>
+         <pubDate>Sat, 30 Aug 2025 07:20:05 -0000</pubDate>
+      </item>
+      <item>
+         <title>69d90ea65cf38e003e92eb7d1fc39782</title>
+         <link>https://x.com/dylancybertech/status/1961688980283388126</link>
+         <description>@dylancybertech | md5 | #malware #RAT</description>
+         <guid isPermaLink="false">69d90ea65cf38e003e92eb7d1fc39782</guid>
+         <pubDate>Sat, 30 Aug 2025 07:14:33 -0000</pubDate>
       </item>
       <item>
          <title>http://sis.voizend.com/softs/</title>
@@ -67,17 +95,17 @@
          <pubDate>Sat, 30 Aug 2025 07:00:55 -0000</pubDate>
       </item>
       <item>
-         <title>18.175.137.195</title>
-         <link>https://x.com/drb_ra/status/1961685407520669989</link>
-         <description>@drb_ra | ip | #C2 #NetSupportRAT</description>
-         <guid isPermaLink="false">18.175.137.195</guid>
-         <pubDate>Sat, 30 Aug 2025 07:00:22 -0000</pubDate>
-      </item>
-      <item>
          <title>http://18.175.137.195:101</title>
          <link>https://x.com/drb_ra/status/1961685407520669989</link>
          <description>@drb_ra | url | #C2 #NetSupportRAT</description>
          <guid>http://18.175.137.195:101</guid>
+         <pubDate>Sat, 30 Aug 2025 07:00:22 -0000</pubDate>
+      </item>
+      <item>
+         <title>18.175.137.195</title>
+         <link>https://x.com/drb_ra/status/1961685407520669989</link>
+         <description>@drb_ra | ip | #C2 #NetSupportRAT</description>
+         <guid isPermaLink="false">18.175.137.195</guid>
          <pubDate>Sat, 30 Aug 2025 07:00:22 -0000</pubDate>
       </item>
       <item>
@@ -130,13 +158,6 @@
          <pubDate>Sat, 30 Aug 2025 06:58:07 -0000</pubDate>
       </item>
       <item>
-         <title>45.12.143.17</title>
-         <link>https://x.com/drb_ra/status/1961684701095059952</link>
-         <description>@drb_ra | ip | #C2</description>
-         <guid isPermaLink="false">45.12.143.17</guid>
-         <pubDate>Sat, 30 Aug 2025 06:57:33 -0000</pubDate>
-      </item>
-      <item>
          <title>http://45.12.143.17:443</title>
          <link>https://x.com/drb_ra/status/1961684701095059952</link>
          <description>@drb_ra | url | #C2</description>
@@ -144,17 +165,24 @@
          <pubDate>Sat, 30 Aug 2025 06:57:33 -0000</pubDate>
       </item>
       <item>
-         <title>195.177.94.165</title>
-         <link>https://x.com/drb_ra/status/1961684562783740301</link>
-         <description>@drb_ra | ip | #Remcos #C2</description>
-         <guid isPermaLink="false">195.177.94.165</guid>
-         <pubDate>Sat, 30 Aug 2025 06:57:00 -0000</pubDate>
+         <title>45.12.143.17</title>
+         <link>https://x.com/drb_ra/status/1961684701095059952</link>
+         <description>@drb_ra | ip | #C2</description>
+         <guid isPermaLink="false">45.12.143.17</guid>
+         <pubDate>Sat, 30 Aug 2025 06:57:33 -0000</pubDate>
       </item>
       <item>
          <title>http://195.177.94.165:2323</title>
          <link>https://x.com/drb_ra/status/1961684562783740301</link>
          <description>@drb_ra | url | #Remcos #C2</description>
          <guid>http://195.177.94.165:2323</guid>
+         <pubDate>Sat, 30 Aug 2025 06:57:00 -0000</pubDate>
+      </item>
+      <item>
+         <title>195.177.94.165</title>
+         <link>https://x.com/drb_ra/status/1961684562783740301</link>
+         <description>@drb_ra | ip | #Remcos #C2</description>
+         <guid isPermaLink="false">195.177.94.165</guid>
          <pubDate>Sat, 30 Aug 2025 06:57:00 -0000</pubDate>
       </item>
       <item>
@@ -214,17 +242,17 @@
          <pubDate>Sat, 30 Aug 2025 06:54:48 -0000</pubDate>
       </item>
       <item>
-         <title>20.120.248.82</title>
-         <link>https://x.com/drb_ra/status/1961683869616205945</link>
-         <description>@drb_ra | ip | #C2</description>
-         <guid isPermaLink="false">20.120.248.82</guid>
-         <pubDate>Sat, 30 Aug 2025 06:54:15 -0000</pubDate>
-      </item>
-      <item>
          <title>http://20.120.248.82:8081</title>
          <link>https://x.com/drb_ra/status/1961683869616205945</link>
          <description>@drb_ra | url | #C2</description>
          <guid>http://20.120.248.82:8081</guid>
+         <pubDate>Sat, 30 Aug 2025 06:54:15 -0000</pubDate>
+      </item>
+      <item>
+         <title>20.120.248.82</title>
+         <link>https://x.com/drb_ra/status/1961683869616205945</link>
+         <description>@drb_ra | ip | #C2</description>
+         <guid isPermaLink="false">20.120.248.82</guid>
          <pubDate>Sat, 30 Aug 2025 06:54:15 -0000</pubDate>
       </item>
       <item>
@@ -291,17 +319,17 @@
          <pubDate>Sat, 30 Aug 2025 06:50:01 -0000</pubDate>
       </item>
       <item>
-         <title>45.144.55.160</title>
-         <link>https://x.com/drb_ra/status/1961682663745462696</link>
-         <description>@drb_ra | ip | #Mythic #C2</description>
-         <guid isPermaLink="false">45.144.55.160</guid>
-         <pubDate>Sat, 30 Aug 2025 06:49:27 -0000</pubDate>
-      </item>
-      <item>
          <title>http://45.144.55.160:7443</title>
          <link>https://x.com/drb_ra/status/1961682663745462696</link>
          <description>@drb_ra | url | #Mythic #C2</description>
          <guid>http://45.144.55.160:7443</guid>
+         <pubDate>Sat, 30 Aug 2025 06:49:27 -0000</pubDate>
+      </item>
+      <item>
+         <title>45.144.55.160</title>
+         <link>https://x.com/drb_ra/status/1961682663745462696</link>
+         <description>@drb_ra | ip | #Mythic #C2</description>
+         <guid isPermaLink="false">45.144.55.160</guid>
          <pubDate>Sat, 30 Aug 2025 06:49:27 -0000</pubDate>
       </item>
       <item>
@@ -375,17 +403,17 @@
          <pubDate>Sat, 30 Aug 2025 06:46:43 -0000</pubDate>
       </item>
       <item>
-         <title>http://orange-mail9.godaddysites.com</title>
-         <link>https://x.com/urldna_bot/status/1961670251134730675</link>
-         <description>@urldna_bot | url | #scam #phishing</description>
-         <guid>http://orange-mail9.godaddysites.com</guid>
-         <pubDate>Sat, 30 Aug 2025 06:00:08 -0000</pubDate>
-      </item>
-      <item>
          <title>orange-mail9.godaddysites.com</title>
          <link>https://x.com/urldna_bot/status/1961670251134730675</link>
          <description>@urldna_bot | domain | #scam #phishing</description>
          <guid isPermaLink="false">orange-mail9.godaddysites.com</guid>
+         <pubDate>Sat, 30 Aug 2025 06:00:08 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://orange-mail9.godaddysites.com</title>
+         <link>https://x.com/urldna_bot/status/1961670251134730675</link>
+         <description>@urldna_bot | url | #scam #phishing</description>
+         <guid>http://orange-mail9.godaddysites.com</guid>
          <pubDate>Sat, 30 Aug 2025 06:00:08 -0000</pubDate>
       </item>
       <item>
@@ -438,17 +466,10 @@
          <pubDate>Sat, 30 Aug 2025 04:00:08 -0000</pubDate>
       </item>
       <item>
-         <title>192.169.69.26</title>
-         <link>https://x.com/SarlackLab/status/1961609885126209590</link>
-         <description>@SarlackLab | ip | #C2 #NanoCore</description>
-         <guid isPermaLink="false">192.169.69.26</guid>
-         <pubDate>Sat, 30 Aug 2025 02:00:16 -0000</pubDate>
-      </item>
-      <item>
-         <title>http://ansrt.duckdns.org</title>
+         <title>http://192.169.69.26:8932</title>
          <link>https://x.com/SarlackLab/status/1961609885126209590</link>
          <description>@SarlackLab | url | #C2 #NanoCore</description>
-         <guid>http://ansrt.duckdns.org</guid>
+         <guid>http://192.169.69.26:8932</guid>
          <pubDate>Sat, 30 Aug 2025 02:00:16 -0000</pubDate>
       </item>
       <item>
@@ -459,10 +480,17 @@
          <pubDate>Sat, 30 Aug 2025 02:00:16 -0000</pubDate>
       </item>
       <item>
-         <title>http://192.169.69.26:8932</title>
+         <title>http://ansrt.duckdns.org</title>
          <link>https://x.com/SarlackLab/status/1961609885126209590</link>
          <description>@SarlackLab | url | #C2 #NanoCore</description>
-         <guid>http://192.169.69.26:8932</guid>
+         <guid>http://ansrt.duckdns.org</guid>
+         <pubDate>Sat, 30 Aug 2025 02:00:16 -0000</pubDate>
+      </item>
+      <item>
+         <title>192.169.69.26</title>
+         <link>https://x.com/SarlackLab/status/1961609885126209590</link>
+         <description>@SarlackLab | ip | #C2 #NanoCore</description>
+         <guid isPermaLink="false">192.169.69.26</guid>
          <pubDate>Sat, 30 Aug 2025 02:00:16 -0000</pubDate>
       </item>
       <item>
@@ -480,45 +508,52 @@
          <pubDate>Sat, 30 Aug 2025 02:00:09 -0000</pubDate>
       </item>
       <item>
-         <title>sohbetson.xyz</title>
-         <link>https://x.com/skocherhan/status/1961588497640206738</link>
-         <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">sohbetson.xyz</guid>
-         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
-      </item>
-      <item>
-         <title>78452352.xyz</title>
-         <link>https://x.com/skocherhan/status/1961588497640206738</link>
-         <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">78452352.xyz</guid>
-         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
-      </item>
-      <item>
-         <title>http://www.78452352.xyz/zio3/</title>
+         <title>http://www.sohbetson.xyz/6x0h/</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | url | </description>
-         <guid>http://www.78452352.xyz/zio3/</guid>
+         <guid>http://www.sohbetson.xyz/6x0h/</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>723opx47.shop</title>
+         <title>889f44f6532ca02e63e2f7da2b95bd72</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
-         <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">723opx47.shop</guid>
+         <description>@skocherhan | md5 | </description>
+         <guid isPermaLink="false">889f44f6532ca02e63e2f7da2b95bd72</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>http://www.723opx47.shop/6kg4/</title>
+         <title>http://www.holvia.site/29w4/</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | url | </description>
-         <guid>http://www.723opx47.shop/6kg4/</guid>
+         <guid>http://www.holvia.site/29w4/</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>5o3eyb.top</title>
+         <title>holvia.site</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">5o3eyb.top</guid>
+         <guid isPermaLink="false">holvia.site</guid>
+         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://www.hepuygunkredi.xyz/p864/</title>
+         <link>https://x.com/skocherhan/status/1961588497640206738</link>
+         <description>@skocherhan | url | </description>
+         <guid>http://www.hepuygunkredi.xyz/p864/</guid>
+         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
+      </item>
+      <item>
+         <title>hepuygunkredi.xyz</title>
+         <link>https://x.com/skocherhan/status/1961588497640206738</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">hepuygunkredi.xyz</guid>
+         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
+      </item>
+      <item>
+         <title>thealnwickgarden.net</title>
+         <link>https://x.com/skocherhan/status/1961588497640206738</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">thealnwickgarden.net</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
@@ -536,52 +571,45 @@
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>http://www.sohbetson.xyz/6x0h/</title>
-         <link>https://x.com/skocherhan/status/1961588497640206738</link>
-         <description>@skocherhan | url | </description>
-         <guid>http://www.sohbetson.xyz/6x0h/</guid>
-         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
-      </item>
-      <item>
-         <title>thealnwickgarden.net</title>
+         <title>5o3eyb.top</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">thealnwickgarden.net</guid>
+         <guid isPermaLink="false">5o3eyb.top</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>hepuygunkredi.xyz</title>
-         <link>https://x.com/skocherhan/status/1961588497640206738</link>
-         <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">hepuygunkredi.xyz</guid>
-         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
-      </item>
-      <item>
-         <title>http://www.hepuygunkredi.xyz/p864/</title>
+         <title>http://www.723opx47.shop/6kg4/</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | url | </description>
-         <guid>http://www.hepuygunkredi.xyz/p864/</guid>
+         <guid>http://www.723opx47.shop/6kg4/</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>holvia.site</title>
+         <title>723opx47.shop</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | domain | </description>
-         <guid isPermaLink="false">holvia.site</guid>
+         <guid isPermaLink="false">723opx47.shop</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>http://www.holvia.site/29w4/</title>
+         <title>http://www.78452352.xyz/zio3/</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
          <description>@skocherhan | url | </description>
-         <guid>http://www.holvia.site/29w4/</guid>
+         <guid>http://www.78452352.xyz/zio3/</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
-         <title>889f44f6532ca02e63e2f7da2b95bd72</title>
+         <title>78452352.xyz</title>
          <link>https://x.com/skocherhan/status/1961588497640206738</link>
-         <description>@skocherhan | md5 | </description>
-         <guid isPermaLink="false">889f44f6532ca02e63e2f7da2b95bd72</guid>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">78452352.xyz</guid>
+         <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
+      </item>
+      <item>
+         <title>sohbetson.xyz</title>
+         <link>https://x.com/skocherhan/status/1961588497640206738</link>
+         <description>@skocherhan | domain | </description>
+         <guid isPermaLink="false">sohbetson.xyz</guid>
          <pubDate>Sat, 30 Aug 2025 00:35:17 -0000</pubDate>
       </item>
       <item>
