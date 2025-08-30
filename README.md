@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-30 13:06:40 (UTC)</th>
+        <th colspan=4>2025-08-30 13:28:48 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 76 | 1110 | 5326 | 73298 |
-| **:globe_with_meridians: Domains** | 29 | 387 | 1885 | 48276 |
+| **:link: URLs** | 81 | 1115 | 5331 | 73303 |
+| **:globe_with_meridians: Domains** | 34 | 392 | 1890 | 48281 |
 | **:triangular_flag_on_post: IPs** | 39 | 673 | 3052 | 23240 |
 | **:1234: SHA256** | 5 | 11 | 64 | 1673 |
 | **:1234: MD5** | 5 | 62 | 292 | 2827 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 23 | 774 | 2552 | 85325 |
+| **#phishing** | 33 | 784 | 2562 | 85335 |
 | **#scam** | 18 | 149 | 742 | 10679 |
 | **#opendir** | 3 | 23 | 68 | 746 |
 | **#malware** | 10 | 110 | 383 | 21754 |
@@ -170,12 +170,12 @@ If you like the project, please consider:
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 26 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 15 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
-| **#5** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 8 |
+| **#5** | [masaomi346](https://twitter.com/masaomi346) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [AddressIntel](https://twitter.com/AddressIntel) | 3 |
-| **#10** | [Leon4Leon2](https://twitter.com/Leon4Leon2) | 2 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 3 |
+| **#10** | [AddressIntel](https://twitter.com/AddressIntel) | 3 |
 
 </div>
 
