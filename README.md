@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-30 08:47:49 (UTC)</th>
+        <th colspan=4>2025-08-30 09:10:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 49 | 1083 | 5299 | 73271 |
-| **:globe_with_meridians: Domains** | 23 | 381 | 1879 | 48270 |
-| **:triangular_flag_on_post: IPs** | 24 | 658 | 3037 | 23225 |
-| **:1234: SHA256** | 1 | 7 | 60 | 1669 |
+| **:link: URLs** | 51 | 1085 | 5301 | 73273 |
+| **:globe_with_meridians: Domains** | 24 | 382 | 1880 | 48271 |
+| **:triangular_flag_on_post: IPs** | 25 | 659 | 3038 | 23226 |
+| **:1234: SHA256** | 3 | 9 | 62 | 1671 |
 | **:1234: MD5** | 5 | 62 | 292 | 2827 |
 
 </div>
@@ -128,14 +128,14 @@ If you like the project, please consider:
 | **#opendir** | 3 | 23 | 68 | 746 |
 | **#malware** | 8 | 108 | 381 | 21752 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 13 | 58 | 833 |
+| **#ransomware** | 2 | 15 | 60 | 835 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 4 | 12 | 200 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
 | **#AsyncRAT** | 0 | 24 | 245 | 2727 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 243 | 1280 | 10866 |
+| **#CobaltStrike** | 2 | 245 | 1282 | 10868 |
 | **#Dcrat** | 0 | 14 | 51 | 396 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 149 | 466 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 47 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 15 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 17 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
 | **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 8 |
 | **#5** | [dylancybertech](https://twitter.com/dylancybertech) | 5 |
