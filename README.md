@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-30 14:40:06 (UTC)</th>
+        <th colspan=4>2025-08-30 15:04:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 82 | 1116 | 5332 | 73304 |
-| **:globe_with_meridians: Domains** | 35 | 393 | 1891 | 48282 |
+| **:link: URLs** | 86 | 1120 | 5336 | 73308 |
+| **:globe_with_meridians: Domains** | 37 | 395 | 1893 | 48284 |
 | **:triangular_flag_on_post: IPs** | 39 | 673 | 3052 | 23240 |
 | **:1234: SHA256** | 5 | 11 | 64 | 1673 |
 | **:1234: MD5** | 5 | 62 | 292 | 2827 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ReBensk](https://twitter.com/ReBensk) | 3 |
-| **#10** | [AddressIntel](https://twitter.com/AddressIntel) | 3 |
+| **#9** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
+| **#10** | [ReBensk](https://twitter.com/ReBensk) | 3 |
 
 </div>
 
