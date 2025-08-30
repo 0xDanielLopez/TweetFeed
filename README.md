@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-30 11:07:20 (UTC)</th>
+        <th colspan=4>2025-08-30 11:30:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 54 | 1088 | 5304 | 73276 |
-| **:globe_with_meridians: Domains** | 25 | 383 | 1881 | 48272 |
-| **:triangular_flag_on_post: IPs** | 26 | 660 | 3039 | 23227 |
+| **:link: URLs** | 70 | 1104 | 5320 | 73292 |
+| **:globe_with_meridians: Domains** | 26 | 384 | 1882 | 48273 |
+| **:triangular_flag_on_post: IPs** | 37 | 671 | 3050 | 23238 |
 | **:1234: SHA256** | 3 | 9 | 62 | 1671 |
 | **:1234: MD5** | 5 | 62 | 292 | 2827 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 24 | 245 | 2727 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 2 | 245 | 1282 | 10868 |
+| **#CobaltStrike** | 21 | 264 | 1301 | 10887 |
 | **#Dcrat** | 0 | 14 | 51 | 396 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 149 | 466 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 16 | 25 | 150 |
 | **#log4j** | 0 | 0 | 0 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 25 | 142 | 1201 |
+| **#Njrat** | 9 | 34 | 151 | 1210 |
 | **#Qakbot** | 0 | 42 | 157 | 1041 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 14 | 146 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 50 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 17 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
-| **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 8 |
-| **#5** | [dylancybertech](https://twitter.com/dylancybertech) | 5 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 13 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#5** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
