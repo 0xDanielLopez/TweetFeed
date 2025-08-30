@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-30 07:09:21 (UTC)</th>
+        <th colspan=4>2025-08-30 07:34:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 1049 | 5265 | 73237 |
-| **:globe_with_meridians: Domains** | 14 | 372 | 1870 | 48261 |
-| **:triangular_flag_on_post: IPs** | 1 | 635 | 3014 | 23202 |
+| **:link: URLs** | 41 | 1075 | 5291 | 73263 |
+| **:globe_with_meridians: Domains** | 16 | 374 | 1872 | 48263 |
+| **:triangular_flag_on_post: IPs** | 24 | 658 | 3037 | 23225 |
 | **:1234: SHA256** | 0 | 6 | 59 | 1668 |
-| **:1234: MD5** | 2 | 59 | 289 | 2824 |
+| **:1234: MD5** | 3 | 60 | 290 | 2825 |
 
 </div>
 
@@ -123,10 +123,10 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 12 | 763 | 2541 | 85314 |
+| **#phishing** | 14 | 765 | 2543 | 85316 |
 | **#scam** | 12 | 143 | 736 | 10673 |
 | **#opendir** | 0 | 20 | 65 | 743 |
-| **#malware** | 1 | 101 | 374 | 21745 |
+| **#malware** | 4 | 104 | 377 | 21748 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 13 | 58 | 833 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 0 | 42 | 157 | 1041 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 14 | 146 |
-| **#Remcos** | 0 | 86 | 443 | 2979 |
+| **#Remcos** | 10 | 96 | 453 | 2989 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 15 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
-| **#4** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
-| **#5** | [ReBensk](https://twitter.com/ReBensk) | 1 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 47 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 15 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
+| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
