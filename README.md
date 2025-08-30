@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-08-30 16:15:33 (UTC)</th>
+        <th colspan=4>2025-08-30 16:39:02 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 88 | 1122 | 5338 | 73310 |
-| **:globe_with_meridians: Domains** | 37 | 395 | 1893 | 48284 |
+| **:link: URLs** | 89 | 1123 | 5339 | 73311 |
+| **:globe_with_meridians: Domains** | 38 | 396 | 1894 | 48285 |
 | **:triangular_flag_on_post: IPs** | 40 | 674 | 3053 | 23241 |
 | **:1234: SHA256** | 5 | 11 | 64 | 1673 |
 | **:1234: MD5** | 6 | 63 | 293 | 2828 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 35 | 786 | 2564 | 85337 |
-| **#scam** | 20 | 151 | 744 | 10681 |
+| **#phishing** | 37 | 788 | 2566 | 85339 |
+| **#scam** | 22 | 153 | 746 | 10683 |
 | **#opendir** | 3 | 23 | 68 | 746 |
 | **#malware** | 14 | 114 | 387 | 21758 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 69 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 26 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
 | **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 15 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 10 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
