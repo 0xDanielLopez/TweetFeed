@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 09:38:46 (UTC)</th>
+        <th colspan=4>2025-09-06 10:01:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 113 | 1087 | 5171 | 74450 |
-| **:globe_with_meridians: Domains** | 66 | 407 | 1811 | 48701 |
+| **:link: URLs** | 122 | 1096 | 5180 | 74459 |
+| **:globe_with_meridians: Domains** | 75 | 416 | 1820 | 48710 |
 | **:triangular_flag_on_post: IPs** | 46 | 623 | 3088 | 23905 |
 | **:1234: SHA256** | 3 | 26 | 68 | 1699 |
 | **:1234: MD5** | 4 | 85 | 302 | 2913 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 126 | 777 | 2784 | 86127 |
-| **#scam** | 10 | 156 | 718 | 10845 |
+| **#phishing** | 136 | 787 | 2794 | 86137 |
+| **#scam** | 20 | 166 | 728 | 10855 |
 | **#opendir** | 0 | 5 | 46 | 751 |
 | **#malware** | 1 | 60 | 379 | 21824 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 6 | 47 | 185 | 2782 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 11 | 352 | 1308 | 11239 |
+| **#CobaltStrike** | 13 | 354 | 1310 | 11241 |
 | **#Dcrat** | 0 | 14 | 54 | 411 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 35 | 466 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 116 |
+| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 120 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 92 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 11 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 15 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 1 |
+| **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 
 </div>
 
