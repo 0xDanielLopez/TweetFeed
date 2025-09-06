@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 16:20:42 (UTC)</th>
+        <th colspan=4>2025-09-06 16:44:59 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 160 | 1134 | 5218 | 74497 |
-| **:globe_with_meridians: Domains** | 95 | 436 | 1840 | 48730 |
-| **:triangular_flag_on_post: IPs** | 61 | 638 | 3103 | 23920 |
+| **:link: URLs** | 165 | 1139 | 5223 | 74502 |
+| **:globe_with_meridians: Domains** | 98 | 439 | 1843 | 48733 |
+| **:triangular_flag_on_post: IPs** | 63 | 640 | 3105 | 23922 |
 | **:1234: SHA256** | 9 | 32 | 74 | 1705 |
 | **:1234: MD5** | 6 | 87 | 304 | 2915 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 160 | 811 | 2818 | 86161 |
+| **#phishing** | 166 | 817 | 2824 | 86167 |
 | **#scam** | 30 | 176 | 738 | 10865 |
 | **#opendir** | 0 | 5 | 46 | 751 |
 | **#malware** | 7 | 66 | 385 | 21830 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 6 | 47 | 185 | 2782 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 41 | 382 | 1338 | 11269 |
+| **#CobaltStrike** | 45 | 386 | 1342 | 11273 |
 | **#Dcrat** | 0 | 14 | 54 | 411 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 35 | 466 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 134 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 114 |
+| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 140 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 118 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 39 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
 | **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
