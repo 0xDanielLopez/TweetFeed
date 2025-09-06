@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 13:49:15 (UTC)</th>
+        <th colspan=4>2025-09-06 14:15:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 144 | 1118 | 5202 | 74481 |
-| **:globe_with_meridians: Domains** | 88 | 429 | 1833 | 48723 |
-| **:triangular_flag_on_post: IPs** | 52 | 629 | 3094 | 23911 |
-| **:1234: SHA256** | 8 | 31 | 73 | 1704 |
+| **:link: URLs** | 148 | 1122 | 5206 | 74485 |
+| **:globe_with_meridians: Domains** | 91 | 432 | 1836 | 48726 |
+| **:triangular_flag_on_post: IPs** | 53 | 630 | 3095 | 23912 |
+| **:1234: SHA256** | 9 | 32 | 74 | 1705 |
 | **:1234: MD5** | 4 | 85 | 302 | 2913 |
 
 </div>
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 154 | 805 | 2812 | 86155 |
-| **#scam** | 26 | 172 | 734 | 10861 |
+| **#phishing** | 156 | 807 | 2814 | 86157 |
+| **#scam** | 28 | 174 | 736 | 10863 |
 | **#opendir** | 0 | 5 | 46 | 751 |
 | **#malware** | 1 | 60 | 379 | 21824 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 6 | 47 | 185 | 2782 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 22 | 363 | 1319 | 11250 |
+| **#CobaltStrike** | 25 | 366 | 1322 | 11253 |
 | **#Dcrat** | 0 | 14 | 54 | 411 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 35 | 466 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 28 | 55 | 180 |
 | **#log4j** | 0 | 0 | 0 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 22 | 151 | 1234 |
+| **#Njrat** | 4 | 26 | 155 | 1238 |
 | **#Qakbot** | 2 | 36 | 175 | 1077 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 20 | 152 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 134 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 98 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 36 |
-| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 39 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
-| **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
+| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 2 |
+| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 
 </div>
 
