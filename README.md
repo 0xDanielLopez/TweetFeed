@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 14:40:49 (UTC)</th>
+        <th colspan=4>2025-09-06 15:05:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 91 | 432 | 1836 | 48726 |
 | **:triangular_flag_on_post: IPs** | 53 | 630 | 3095 | 23912 |
 | **:1234: SHA256** | 9 | 32 | 74 | 1705 |
-| **:1234: MD5** | 4 | 85 | 302 | 2913 |
+| **:1234: MD5** | 6 | 87 | 304 | 2915 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 156 | 807 | 2814 | 86157 |
 | **#scam** | 28 | 174 | 736 | 10863 |
 | **#opendir** | 0 | 5 | 46 | 751 |
-| **#malware** | 1 | 60 | 379 | 21824 |
+| **#malware** | 3 | 62 | 381 | 21826 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 23 | 63 | 858 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 2 |
-| **#10** | [ReBensk](https://twitter.com/ReBensk) | 1 |
+| **#9** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#10** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 2 |
 
 </div>
 
