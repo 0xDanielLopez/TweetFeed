@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 12:32:07 (UTC)</th>
+        <th colspan=4>2025-09-06 12:56:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 139 | 1113 | 5197 | 74476 |
-| **:globe_with_meridians: Domains** | 86 | 427 | 1831 | 48721 |
-| **:triangular_flag_on_post: IPs** | 49 | 626 | 3091 | 23908 |
-| **:1234: SHA256** | 7 | 30 | 72 | 1703 |
+| **:link: URLs** | 143 | 1117 | 5201 | 74480 |
+| **:globe_with_meridians: Domains** | 87 | 428 | 1832 | 48722 |
+| **:triangular_flag_on_post: IPs** | 52 | 629 | 3094 | 23911 |
+| **:1234: SHA256** | 8 | 31 | 73 | 1704 |
 | **:1234: MD5** | 4 | 85 | 302 | 2913 |
 
 </div>
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 6 | 47 | 185 | 2782 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 16 | 357 | 1313 | 11244 |
+| **#CobaltStrike** | 22 | 363 | 1319 | 11250 |
 | **#Dcrat** | 0 | 14 | 54 | 411 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 35 | 466 |
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 134 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 98 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 25 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 34 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
 | **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
