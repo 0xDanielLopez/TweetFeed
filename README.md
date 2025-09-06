@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 10:01:57 (UTC)</th>
+        <th colspan=4>2025-09-06 10:28:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 122 | 1096 | 5180 | 74459 |
-| **:globe_with_meridians: Domains** | 75 | 416 | 1820 | 48710 |
+| **:link: URLs** | 128 | 1102 | 5186 | 74465 |
+| **:globe_with_meridians: Domains** | 81 | 422 | 1826 | 48716 |
 | **:triangular_flag_on_post: IPs** | 46 | 623 | 3088 | 23905 |
-| **:1234: SHA256** | 3 | 26 | 68 | 1699 |
+| **:1234: SHA256** | 4 | 27 | 69 | 1700 |
 | **:1234: MD5** | 4 | 85 | 302 | 2913 |
 
 </div>
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 136 | 787 | 2794 | 86137 |
-| **#scam** | 20 | 166 | 728 | 10855 |
+| **#phishing** | 148 | 799 | 2806 | 86149 |
+| **#scam** | 22 | 168 | 730 | 10857 |
 | **#opendir** | 0 | 5 | 46 | 751 |
 | **#malware** | 1 | 60 | 379 | 21824 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 120 |
+| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 132 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 92 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 15 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 1 |
+| **#9** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 | **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 
 </div>
