@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 08:48:23 (UTC)</th>
+        <th colspan=4>2025-09-06 09:13:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 112 | 1086 | 5170 | 74449 |
+| **:link: URLs** | 113 | 1087 | 5171 | 74450 |
 | **:globe_with_meridians: Domains** | 66 | 407 | 1811 | 48701 |
-| **:triangular_flag_on_post: IPs** | 45 | 622 | 3087 | 23904 |
-| **:1234: SHA256** | 1 | 24 | 66 | 1697 |
+| **:triangular_flag_on_post: IPs** | 46 | 623 | 3088 | 23905 |
+| **:1234: SHA256** | 2 | 25 | 67 | 1698 |
 | **:1234: MD5** | 4 | 85 | 302 | 2913 |
 
 </div>
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 116 |
 | **#2** | [drb_ra](https://twitter.com/drb_ra) | 92 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#4** | [skocherhan](https://twitter.com/skocherhan) | 7 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 10 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
