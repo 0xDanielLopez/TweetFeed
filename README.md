@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 02:06:24 (UTC)</th>
+        <th colspan=4>2025-09-06 02:33:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 977 | 5061 | 74340 |
-| **:globe_with_meridians: Domains** | 3 | 344 | 1748 | 48638 |
+| **:link: URLs** | 21 | 995 | 5079 | 74358 |
+| **:globe_with_meridians: Domains** | 23 | 364 | 1768 | 48658 |
 | **:triangular_flag_on_post: IPs** | 0 | 577 | 3042 | 23859 |
 | **:1234: SHA256** | 0 | 23 | 65 | 1696 |
 | **:1234: MD5** | 0 | 81 | 298 | 2909 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 6 | 657 | 2664 | 86007 |
+| **#phishing** | 44 | 695 | 2702 | 86045 |
 | **#scam** | 2 | 148 | 710 | 10837 |
 | **#opendir** | 0 | 5 | 46 | 751 |
 | **#malware** | 0 | 59 | 378 | 21823 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#3** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
+| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 40 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
