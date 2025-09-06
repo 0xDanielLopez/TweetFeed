@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-06 05:24:59 (UTC)</th>
+        <th colspan=4>2025-09-06 05:49:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 40 | 381 | 1785 | 48675 |
 | **:triangular_flag_on_post: IPs** | 0 | 577 | 3042 | 23859 |
 | **:1234: SHA256** | 0 | 23 | 65 | 1696 |
-| **:1234: MD5** | 0 | 81 | 298 | 2909 |
+| **:1234: MD5** | 1 | 82 | 299 | 2910 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 78 | 729 | 2736 | 86079 |
 | **#scam** | 6 | 152 | 714 | 10841 |
 | **#opendir** | 0 | 5 | 46 | 751 |
-| **#malware** | 0 | 59 | 378 | 21823 |
+| **#malware** | 1 | 60 | 379 | 21824 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 23 | 63 | 858 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -169,7 +169,7 @@ If you like the project, please consider:
 | **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 72 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#4** | [ReBensk](https://twitter.com/ReBensk) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
