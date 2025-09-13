@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-13 07:55:44 (UTC)</th>
+        <th colspan=4>2025-09-13 08:22:07 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 38 | 1245 | 5315 | 75794 |
-| **:globe_with_meridians: Domains** | 7 | 427 | 1775 | 49170 |
-| **:triangular_flag_on_post: IPs** | 30 | 704 | 3195 | 24653 |
+| **:link: URLs** | 40 | 1247 | 5317 | 75796 |
+| **:globe_with_meridians: Domains** | 8 | 428 | 1776 | 49171 |
+| **:triangular_flag_on_post: IPs** | 31 | 705 | 3196 | 24654 |
 | **:1234: SHA256** | 2 | 57 | 121 | 1764 |
 | **:1234: MD5** | 0 | 46 | 277 | 2963 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 2 | 61 | 209 | 2848 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 10 | 507 | 1575 | 11791 |
+| **#CobaltStrike** | 14 | 511 | 1579 | 11795 |
 | **#Dcrat** | 0 | 10 | 59 | 426 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 2 | 2 | 468 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 56 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 60 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 2 |
