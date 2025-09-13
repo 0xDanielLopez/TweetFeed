@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-13 13:36:37 (UTC)</th>
+        <th colspan=4>2025-09-13 14:00:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 1257 | 5327 | 75806 |
-| **:globe_with_meridians: Domains** | 18 | 438 | 1786 | 49181 |
+| **:link: URLs** | 51 | 1258 | 5328 | 75807 |
+| **:globe_with_meridians: Domains** | 19 | 439 | 1787 | 49182 |
 | **:triangular_flag_on_post: IPs** | 31 | 705 | 3196 | 24654 |
-| **:1234: SHA256** | 5 | 60 | 124 | 1767 |
+| **:1234: SHA256** | 6 | 61 | 125 | 1768 |
 | **:1234: MD5** | 0 | 46 | 277 | 2963 |
 
 </div>
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 60 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
-| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
-| **#4** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
-| **#5** | [AddressIntel](https://twitter.com/AddressIntel) | 4 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 7 |
+| **#4** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
+| **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
