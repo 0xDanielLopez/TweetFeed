@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-13 07:03:23 (UTC)</th>
+        <th colspan=4>2025-09-13 07:30:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 1221 | 5291 | 75770 |
+| **:link: URLs** | 38 | 1245 | 5315 | 75794 |
 | **:globe_with_meridians: Domains** | 7 | 427 | 1775 | 49170 |
-| **:triangular_flag_on_post: IPs** | 8 | 682 | 3173 | 24631 |
+| **:triangular_flag_on_post: IPs** | 30 | 704 | 3195 | 24653 |
 | **:1234: SHA256** | 1 | 56 | 120 | 1763 |
 | **:1234: MD5** | 0 | 46 | 277 | 2963 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 0 | 4 | 200 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 59 | 207 | 2846 |
+| **#AsyncRAT** | 2 | 61 | 209 | 2848 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 10 | 507 | 1575 | 11791 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 9 | 122 | 1247 |
-| **#Qakbot** | 0 | 18 | 159 | 1098 |
+| **#Qakbot** | 2 | 20 | 161 | 1100 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 16 | 154 |
-| **#Remcos** | 0 | 78 | 395 | 3156 |
+| **#Remcos** | 2 | 80 | 397 | 3158 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 10 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 56 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 2 |
