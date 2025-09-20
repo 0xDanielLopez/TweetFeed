@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-20 07:23:16 (UTC)</th>
+        <th colspan=4>2025-09-20 07:45:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 25 | 1252 | 5418 | 77144 |
+| **:link: URLs** | 26 | 1253 | 5419 | 77145 |
 | **:globe_with_meridians: Domains** | 6 | 395 | 1865 | 49599 |
-| **:triangular_flag_on_post: IPs** | 17 | 730 | 3171 | 25445 |
-| **:1234: SHA256** | 3 | 73 | 184 | 1842 |
+| **:triangular_flag_on_post: IPs** | 18 | 731 | 3172 | 25446 |
+| **:1234: SHA256** | 4 | 74 | 185 | 1843 |
 | **:1234: MD5** | 1 | 63 | 299 | 3037 |
 
 </div>
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 34 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
-| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 8 |
 | **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#5** | [AddressIntel](https://twitter.com/AddressIntel) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
