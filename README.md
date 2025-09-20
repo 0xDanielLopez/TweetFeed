@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-20 16:43:55 (UTC)</th>
+        <th colspan=4>2025-09-20 17:04:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 1269 | 5435 | 77161 |
-| **:globe_with_meridians: Domains** | 18 | 407 | 1877 | 49611 |
-| **:triangular_flag_on_post: IPs** | 21 | 734 | 3175 | 25449 |
+| **:link: URLs** | 44 | 1271 | 5437 | 77163 |
+| **:globe_with_meridians: Domains** | 19 | 408 | 1878 | 49612 |
+| **:triangular_flag_on_post: IPs** | 22 | 735 | 3176 | 25450 |
 | **:1234: SHA256** | 6 | 76 | 187 | 1845 |
 | **:1234: MD5** | 1 | 63 | 299 | 3037 |
 
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [banthisguy9349](https://twitter.com/banthisguy9349) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
