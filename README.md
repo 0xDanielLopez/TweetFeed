@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-20 14:25:57 (UTC)</th>
+        <th colspan=4>2025-09-20 14:48:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 38 | 1265 | 5431 | 77157 |
-| **:globe_with_meridians: Domains** | 15 | 404 | 1874 | 49608 |
-| **:triangular_flag_on_post: IPs** | 20 | 733 | 3174 | 25448 |
-| **:1234: SHA256** | 4 | 74 | 185 | 1843 |
+| **:link: URLs** | 40 | 1267 | 5433 | 77159 |
+| **:globe_with_meridians: Domains** | 16 | 405 | 1875 | 49609 |
+| **:triangular_flag_on_post: IPs** | 21 | 734 | 3175 | 25449 |
+| **:1234: SHA256** | 5 | 75 | 186 | 1844 |
 | **:1234: MD5** | 1 | 63 | 299 | 3037 |
 
 </div>
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 17 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 8 |
 | **#4** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
-| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#5** | [skocherhan](https://twitter.com/skocherhan) | 5 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
