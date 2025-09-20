@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-20 07:01:09 (UTC)</th>
+        <th colspan=4>2025-09-20 07:23:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 1232 | 5398 | 77124 |
-| **:globe_with_meridians: Domains** | 5 | 394 | 1864 | 49598 |
-| **:triangular_flag_on_post: IPs** | 0 | 713 | 3154 | 25428 |
-| **:1234: SHA256** | 2 | 72 | 183 | 1841 |
+| **:link: URLs** | 25 | 1252 | 5418 | 77144 |
+| **:globe_with_meridians: Domains** | 6 | 395 | 1865 | 49599 |
+| **:triangular_flag_on_post: IPs** | 17 | 730 | 3171 | 25445 |
+| **:1234: SHA256** | 3 | 73 | 184 | 1842 |
 | **:1234: MD5** | 1 | 63 | 299 | 3037 |
 
 </div>
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 0 | 73 | 1247 |
-| **#Qakbot** | 0 | 24 | 149 | 1124 |
+| **#Qakbot** | 2 | 26 | 151 | 1126 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 4 | 14 | 158 |
-| **#Remcos** | 0 | 78 | 404 | 3236 |
+| **#Remcos** | 4 | 82 | 408 | 3240 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
-| **#2** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#3** | [AddressIntel](https://twitter.com/AddressIntel) | 2 |
-| **#4** | [-](https://twitter.com/-) | 0 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 34 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
+| **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
+| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#5** | [AddressIntel](https://twitter.com/AddressIntel) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
