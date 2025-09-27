@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-27 06:23:16 (UTC)</th>
+        <th colspan=4>2025-09-27 06:43:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 1246 | 5592 | 78444 |
+| **:link: URLs** | 47 | 1264 | 5610 | 78462 |
 | **:globe_with_meridians: Domains** | 2 | 433 | 1953 | 50062 |
-| **:triangular_flag_on_post: IPs** | 28 | 698 | 3177 | 26165 |
+| **:triangular_flag_on_post: IPs** | 45 | 715 | 3194 | 26182 |
 | **:1234: SHA256** | 1 | 22 | 203 | 1868 |
 | **:1234: MD5** | 7 | 64 | 308 | 3101 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 3 | 3 |
 | **#AgentTesla** | 0 | 0 | 9 | 209 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 2 | 31 | 199 | 2922 |
+| **#AsyncRAT** | 4 | 33 | 201 | 2924 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 354 | 1725 | 12499 |
@@ -150,7 +150,7 @@ If you like the project, please consider:
 | **#Qakbot** | 2 | 28 | 122 | 1156 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 12 | 158 |
-| **#Remcos** | 0 | 114 | 410 | 3358 |
+| **#Remcos** | 14 | 128 | 424 | 3372 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 50 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 85 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 8 |
 | **#3** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 5 |
 | **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
