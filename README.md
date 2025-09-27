@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-27 06:03:00 (UTC)</th>
+        <th colspan=4>2025-09-27 06:23:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 1219 | 5565 | 78417 |
+| **:link: URLs** | 29 | 1246 | 5592 | 78444 |
 | **:globe_with_meridians: Domains** | 2 | 433 | 1953 | 50062 |
-| **:triangular_flag_on_post: IPs** | 5 | 675 | 3154 | 26142 |
+| **:triangular_flag_on_post: IPs** | 28 | 698 | 3177 | 26165 |
 | **:1234: SHA256** | 1 | 22 | 203 | 1868 |
 | **:1234: MD5** | 7 | 64 | 308 | 3101 |
 
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 3 | 3 |
 | **#AgentTesla** | 0 | 0 | 9 | 209 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 29 | 197 | 2920 |
+| **#AsyncRAT** | 2 | 31 | 199 | 2922 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 354 | 1725 | 12499 |
@@ -147,7 +147,7 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 0 | 56 | 1247 |
-| **#Qakbot** | 0 | 26 | 120 | 1154 |
+| **#Qakbot** | 2 | 28 | 122 | 1156 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 0 | 12 | 158 |
 | **#Remcos** | 0 | 114 | 410 | 3358 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 8 |
-| **#2** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 5 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 50 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 8 |
+| **#3** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 5 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
