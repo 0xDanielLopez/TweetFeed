@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-27 12:33:21 (UTC)</th>
+        <th colspan=4>2025-09-27 12:52:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 68 | 1285 | 5631 | 78483 |
+| **:link: URLs** | 70 | 1287 | 5633 | 78485 |
 | **:globe_with_meridians: Domains** | 13 | 444 | 1964 | 50073 |
 | **:triangular_flag_on_post: IPs** | 54 | 724 | 3203 | 26191 |
 | **:1234: SHA256** | 1 | 22 | 203 | 1868 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 102 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 104 |
 | **#2** | [c9lab_soc](https://twitter.com/c9lab_soc) | 10 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 8 |
