@@ -11,6 +11,20 @@
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
       <item>
+         <title>https://kokusei.leyu-leyutiyu.com/mykokusei</title>
+         <link>https://x.com/harugasumi/status/1971829540772368712</link>
+         <description>@harugasumi | url | #phishing</description>
+         <guid>https://kokusei.leyu-leyutiyu.com/mykokusei</guid>
+         <pubDate>Sat, 27 Sep 2025 06:49:31 -0000</pubDate>
+      </item>
+      <item>
+         <title>kokusei.leyu-leyutiyu.com</title>
+         <link>https://x.com/harugasumi/status/1971829540772368712</link>
+         <description>@harugasumi | domain | #phishing</description>
+         <guid isPermaLink="false">kokusei.leyu-leyutiyu.com</guid>
+         <pubDate>Sat, 27 Sep 2025 06:49:31 -0000</pubDate>
+      </item>
+      <item>
          <title>213.176.18.51</title>
          <link>https://x.com/drb_ra/status/1971820988196442634</link>
          <description>@drb_ra | ip | #AsyncRAT #C2</description>
@@ -67,13 +81,6 @@
          <pubDate>Sat, 27 Sep 2025 06:13:50 -0000</pubDate>
       </item>
       <item>
-         <title>43.161.221.153</title>
-         <link>https://x.com/drb_ra/status/1971820413786509337</link>
-         <description>@drb_ra | ip | #Reverse_SSH #C2</description>
-         <guid isPermaLink="false">43.161.221.153</guid>
-         <pubDate>Sat, 27 Sep 2025 06:13:15 -0000</pubDate>
-      </item>
-      <item>
          <title>http://43.161.221.153:3232</title>
          <link>https://x.com/drb_ra/status/1971820413786509337</link>
          <description>@drb_ra | url | #Reverse_SSH #C2</description>
@@ -81,17 +88,24 @@
          <pubDate>Sat, 27 Sep 2025 06:13:15 -0000</pubDate>
       </item>
       <item>
-         <title>123.4.40.146</title>
-         <link>https://x.com/drb_ra/status/1971820270098042923</link>
+         <title>43.161.221.153</title>
+         <link>https://x.com/drb_ra/status/1971820413786509337</link>
          <description>@drb_ra | ip | #Reverse_SSH #C2</description>
-         <guid isPermaLink="false">123.4.40.146</guid>
-         <pubDate>Sat, 27 Sep 2025 06:12:41 -0000</pubDate>
+         <guid isPermaLink="false">43.161.221.153</guid>
+         <pubDate>Sat, 27 Sep 2025 06:13:15 -0000</pubDate>
       </item>
       <item>
          <title>http://123.4.40.146:3232</title>
          <link>https://x.com/drb_ra/status/1971820270098042923</link>
          <description>@drb_ra | url | #Reverse_SSH #C2</description>
          <guid>http://123.4.40.146:3232</guid>
+         <pubDate>Sat, 27 Sep 2025 06:12:41 -0000</pubDate>
+      </item>
+      <item>
+         <title>123.4.40.146</title>
+         <link>https://x.com/drb_ra/status/1971820270098042923</link>
+         <description>@drb_ra | ip | #Reverse_SSH #C2</description>
+         <guid isPermaLink="false">123.4.40.146</guid>
          <pubDate>Sat, 27 Sep 2025 06:12:41 -0000</pubDate>
       </item>
       <item>
@@ -151,13 +165,6 @@
          <pubDate>Sat, 27 Sep 2025 06:10:25 -0000</pubDate>
       </item>
       <item>
-         <title>62.60.131.168</title>
-         <link>https://x.com/drb_ra/status/1971819553970897397</link>
-         <description>@drb_ra | ip | #C2 #Remcos</description>
-         <guid isPermaLink="false">62.60.131.168</guid>
-         <pubDate>Sat, 27 Sep 2025 06:09:50 -0000</pubDate>
-      </item>
-      <item>
          <title>http://62.60.131.168:2404</title>
          <link>https://x.com/drb_ra/status/1971819553970897397</link>
          <description>@drb_ra | url | #C2 #Remcos</description>
@@ -165,11 +172,11 @@
          <pubDate>Sat, 27 Sep 2025 06:09:50 -0000</pubDate>
       </item>
       <item>
-         <title>196.251.81.162</title>
-         <link>https://x.com/drb_ra/status/1971819410747785395</link>
+         <title>62.60.131.168</title>
+         <link>https://x.com/drb_ra/status/1971819553970897397</link>
          <description>@drb_ra | ip | #C2 #Remcos</description>
-         <guid isPermaLink="false">196.251.81.162</guid>
-         <pubDate>Sat, 27 Sep 2025 06:09:16 -0000</pubDate>
+         <guid isPermaLink="false">62.60.131.168</guid>
+         <pubDate>Sat, 27 Sep 2025 06:09:50 -0000</pubDate>
       </item>
       <item>
          <title>http://196.251.81.162:2404</title>
@@ -179,17 +186,24 @@
          <pubDate>Sat, 27 Sep 2025 06:09:16 -0000</pubDate>
       </item>
       <item>
-         <title>186.169.33.26</title>
-         <link>https://x.com/drb_ra/status/1971819267541627357</link>
+         <title>196.251.81.162</title>
+         <link>https://x.com/drb_ra/status/1971819410747785395</link>
          <description>@drb_ra | ip | #C2 #Remcos</description>
-         <guid isPermaLink="false">186.169.33.26</guid>
-         <pubDate>Sat, 27 Sep 2025 06:08:42 -0000</pubDate>
+         <guid isPermaLink="false">196.251.81.162</guid>
+         <pubDate>Sat, 27 Sep 2025 06:09:16 -0000</pubDate>
       </item>
       <item>
          <title>http://186.169.33.26:2404</title>
          <link>https://x.com/drb_ra/status/1971819267541627357</link>
          <description>@drb_ra | url | #C2 #Remcos</description>
          <guid>http://186.169.33.26:2404</guid>
+         <pubDate>Sat, 27 Sep 2025 06:08:42 -0000</pubDate>
+      </item>
+      <item>
+         <title>186.169.33.26</title>
+         <link>https://x.com/drb_ra/status/1971819267541627357</link>
+         <description>@drb_ra | ip | #C2 #Remcos</description>
+         <guid isPermaLink="false">186.169.33.26</guid>
          <pubDate>Sat, 27 Sep 2025 06:08:42 -0000</pubDate>
       </item>
       <item>
@@ -242,13 +256,6 @@
          <pubDate>Sat, 27 Sep 2025 06:06:26 -0000</pubDate>
       </item>
       <item>
-         <title>34.202.169.107</title>
-         <link>https://x.com/drb_ra/status/1971818037427720334</link>
-         <description>@drb_ra | ip | #Deimos #C2</description>
-         <guid isPermaLink="false">34.202.169.107</guid>
-         <pubDate>Sat, 27 Sep 2025 06:03:49 -0000</pubDate>
-      </item>
-      <item>
          <title>http://34.202.169.107:443</title>
          <link>https://x.com/drb_ra/status/1971818037427720334</link>
          <description>@drb_ra | url | #Deimos #C2</description>
@@ -256,11 +263,11 @@
          <pubDate>Sat, 27 Sep 2025 06:03:49 -0000</pubDate>
       </item>
       <item>
-         <title>154.214.45.42</title>
-         <link>https://x.com/drb_ra/status/1971817894200725766</link>
-         <description>@drb_ra | ip | #C2 #Deimos</description>
-         <guid isPermaLink="false">154.214.45.42</guid>
-         <pubDate>Sat, 27 Sep 2025 06:03:15 -0000</pubDate>
+         <title>34.202.169.107</title>
+         <link>https://x.com/drb_ra/status/1971818037427720334</link>
+         <description>@drb_ra | ip | #Deimos #C2</description>
+         <guid isPermaLink="false">34.202.169.107</guid>
+         <pubDate>Sat, 27 Sep 2025 06:03:49 -0000</pubDate>
       </item>
       <item>
          <title>http://154.214.45.42:443</title>
@@ -270,17 +277,24 @@
          <pubDate>Sat, 27 Sep 2025 06:03:15 -0000</pubDate>
       </item>
       <item>
-         <title>13.62.134.6</title>
-         <link>https://x.com/drb_ra/status/1971817750239523124</link>
-         <description>@drb_ra | ip | #C2 #Havoc</description>
-         <guid isPermaLink="false">13.62.134.6</guid>
-         <pubDate>Sat, 27 Sep 2025 06:02:40 -0000</pubDate>
+         <title>154.214.45.42</title>
+         <link>https://x.com/drb_ra/status/1971817894200725766</link>
+         <description>@drb_ra | ip | #C2 #Deimos</description>
+         <guid isPermaLink="false">154.214.45.42</guid>
+         <pubDate>Sat, 27 Sep 2025 06:03:15 -0000</pubDate>
       </item>
       <item>
          <title>http://13.62.134.6:443</title>
          <link>https://x.com/drb_ra/status/1971817750239523124</link>
          <description>@drb_ra | url | #C2 #Havoc</description>
          <guid>http://13.62.134.6:443</guid>
+         <pubDate>Sat, 27 Sep 2025 06:02:40 -0000</pubDate>
+      </item>
+      <item>
+         <title>13.62.134.6</title>
+         <link>https://x.com/drb_ra/status/1971817750239523124</link>
+         <description>@drb_ra | ip | #C2 #Havoc</description>
+         <guid isPermaLink="false">13.62.134.6</guid>
          <pubDate>Sat, 27 Sep 2025 06:02:40 -0000</pubDate>
       </item>
       <item>
@@ -326,6 +340,13 @@
          <pubDate>Sat, 27 Sep 2025 06:00:58 -0000</pubDate>
       </item>
       <item>
+         <title>http://139.84.133.84:443</title>
+         <link>https://x.com/drb_ra/status/1971817176895311929</link>
+         <description>@drb_ra | url | #C2 #Havoc</description>
+         <guid>http://139.84.133.84:443</guid>
+         <pubDate>Sat, 27 Sep 2025 06:00:24 -0000</pubDate>
+      </item>
+      <item>
          <title>139.84.133.84</title>
          <link>https://x.com/drb_ra/status/1971817176895311929</link>
          <description>@drb_ra | ip | #C2 #Havoc</description>
@@ -333,11 +354,18 @@
          <pubDate>Sat, 27 Sep 2025 06:00:24 -0000</pubDate>
       </item>
       <item>
-         <title>http://139.84.133.84:443</title>
-         <link>https://x.com/drb_ra/status/1971817176895311929</link>
-         <description>@drb_ra | url | #C2 #Havoc</description>
-         <guid>http://139.84.133.84:443</guid>
-         <pubDate>Sat, 27 Sep 2025 06:00:24 -0000</pubDate>
+         <title>infoshawmember.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/1971817107240243547</link>
+         <description>@urldna_bot | domain | #phishing #scam</description>
+         <guid isPermaLink="false">infoshawmember.weebly.com</guid>
+         <pubDate>Sat, 27 Sep 2025 06:00:07 -0000</pubDate>
+      </item>
+      <item>
+         <title>https://infoshawmember.weebly.com</title>
+         <link>https://x.com/urldna_bot/status/1971817107240243547</link>
+         <description>@urldna_bot | url | #phishing #scam</description>
+         <guid>https://infoshawmember.weebly.com</guid>
+         <pubDate>Sat, 27 Sep 2025 06:00:07 -0000</pubDate>
       </item>
       <item>
          <title>200.91.114.156</title>
@@ -354,17 +382,17 @@
          <pubDate>Sat, 27 Sep 2025 05:59:50 -0000</pubDate>
       </item>
       <item>
-         <title>91.92.242.76</title>
-         <link>https://x.com/drb_ra/status/1971816890050732162</link>
-         <description>@drb_ra | ip | #C2 #Pegasus #Hookbot</description>
-         <guid isPermaLink="false">91.92.242.76</guid>
-         <pubDate>Sat, 27 Sep 2025 05:59:15 -0000</pubDate>
-      </item>
-      <item>
          <title>http://91.92.242.76:80</title>
          <link>https://x.com/drb_ra/status/1971816890050732162</link>
          <description>@drb_ra | url | #C2 #Pegasus #Hookbot</description>
          <guid>http://91.92.242.76:80</guid>
+         <pubDate>Sat, 27 Sep 2025 05:59:15 -0000</pubDate>
+      </item>
+      <item>
+         <title>91.92.242.76</title>
+         <link>https://x.com/drb_ra/status/1971816890050732162</link>
+         <description>@drb_ra | ip | #C2 #Pegasus #Hookbot</description>
+         <guid isPermaLink="false">91.92.242.76</guid>
          <pubDate>Sat, 27 Sep 2025 05:59:15 -0000</pubDate>
       </item>
       <item>
@@ -452,17 +480,17 @@
          <pubDate>Sat, 27 Sep 2025 05:55:15 -0000</pubDate>
       </item>
       <item>
-         <title>34.244.128.40</title>
-         <link>https://x.com/drb_ra/status/1971815738458755557</link>
-         <description>@drb_ra | ip | #C2 #Interactsh</description>
-         <guid isPermaLink="false">34.244.128.40</guid>
-         <pubDate>Sat, 27 Sep 2025 05:54:41 -0000</pubDate>
-      </item>
-      <item>
          <title>http://34.244.128.40:80</title>
          <link>https://x.com/drb_ra/status/1971815738458755557</link>
          <description>@drb_ra | url | #C2 #Interactsh</description>
          <guid>http://34.244.128.40:80</guid>
+         <pubDate>Sat, 27 Sep 2025 05:54:41 -0000</pubDate>
+      </item>
+      <item>
+         <title>34.244.128.40</title>
+         <link>https://x.com/drb_ra/status/1971815738458755557</link>
+         <description>@drb_ra | ip | #C2 #Interactsh</description>
+         <guid isPermaLink="false">34.244.128.40</guid>
          <pubDate>Sat, 27 Sep 2025 05:54:41 -0000</pubDate>
       </item>
       <item>
@@ -536,13 +564,6 @@
          <pubDate>Sat, 27 Sep 2025 05:51:15 -0000</pubDate>
       </item>
       <item>
-         <title>157.230.173.109</title>
-         <link>https://x.com/drb_ra/status/1971814733175992589</link>
-         <description>@drb_ra | ip | #C2 #AsyncRAT</description>
-         <guid isPermaLink="false">157.230.173.109</guid>
-         <pubDate>Sat, 27 Sep 2025 05:50:41 -0000</pubDate>
-      </item>
-      <item>
          <title>http://157.230.173.109:443</title>
          <link>https://x.com/drb_ra/status/1971814733175992589</link>
          <description>@drb_ra | url | #C2 #AsyncRAT</description>
@@ -550,17 +571,24 @@
          <pubDate>Sat, 27 Sep 2025 05:50:41 -0000</pubDate>
       </item>
       <item>
-         <title>20.162.118.231</title>
-         <link>https://x.com/drb_ra/status/1971814074951389521</link>
-         <description>@drb_ra | ip | #C2 #Sliver</description>
-         <guid isPermaLink="false">20.162.118.231</guid>
-         <pubDate>Sat, 27 Sep 2025 05:48:04 -0000</pubDate>
+         <title>157.230.173.109</title>
+         <link>https://x.com/drb_ra/status/1971814733175992589</link>
+         <description>@drb_ra | ip | #C2 #AsyncRAT</description>
+         <guid isPermaLink="false">157.230.173.109</guid>
+         <pubDate>Sat, 27 Sep 2025 05:50:41 -0000</pubDate>
       </item>
       <item>
          <title>http://20.162.118.231:443</title>
          <link>https://x.com/drb_ra/status/1971814074951389521</link>
          <description>@drb_ra | url | #C2 #Sliver</description>
          <guid>http://20.162.118.231:443</guid>
+         <pubDate>Sat, 27 Sep 2025 05:48:04 -0000</pubDate>
+      </item>
+      <item>
+         <title>20.162.118.231</title>
+         <link>https://x.com/drb_ra/status/1971814074951389521</link>
+         <description>@drb_ra | ip | #C2 #Sliver</description>
+         <guid isPermaLink="false">20.162.118.231</guid>
          <pubDate>Sat, 27 Sep 2025 05:48:04 -0000</pubDate>
       </item>
       <item>
@@ -634,20 +662,6 @@
          <pubDate>Sat, 27 Sep 2025 02:52:33 -0000</pubDate>
       </item>
       <item>
-         <title>7be5156d8e9cb0a43e92fe327499d16e</title>
-         <link>https://x.com/skocherhan/status/1971763847045566524</link>
-         <description>@skocherhan | md5 | </description>
-         <guid isPermaLink="false">7be5156d8e9cb0a43e92fe327499d16e</guid>
-         <pubDate>Sat, 27 Sep 2025 02:28:29 -0000</pubDate>
-      </item>
-      <item>
-         <title>232bc5d35ba5e52803d5752270d2f6be</title>
-         <link>https://x.com/skocherhan/status/1971763847045566524</link>
-         <description>@skocherhan | md5 | </description>
-         <guid isPermaLink="false">232bc5d35ba5e52803d5752270d2f6be</guid>
-         <pubDate>Sat, 27 Sep 2025 02:28:29 -0000</pubDate>
-      </item>
-      <item>
          <title>387dc860777bd7289ba6f6b34215549e</title>
          <link>https://x.com/skocherhan/status/1971763847045566524</link>
          <description>@skocherhan | md5 | </description>
@@ -659,6 +673,20 @@
          <link>https://x.com/skocherhan/status/1971763847045566524</link>
          <description>@skocherhan | ip | </description>
          <guid isPermaLink="false">89.44.9.186</guid>
+         <pubDate>Sat, 27 Sep 2025 02:28:29 -0000</pubDate>
+      </item>
+      <item>
+         <title>7be5156d8e9cb0a43e92fe327499d16e</title>
+         <link>https://x.com/skocherhan/status/1971763847045566524</link>
+         <description>@skocherhan | md5 | </description>
+         <guid isPermaLink="false">7be5156d8e9cb0a43e92fe327499d16e</guid>
+         <pubDate>Sat, 27 Sep 2025 02:28:29 -0000</pubDate>
+      </item>
+      <item>
+         <title>232bc5d35ba5e52803d5752270d2f6be</title>
+         <link>https://x.com/skocherhan/status/1971763847045566524</link>
+         <description>@skocherhan | md5 | </description>
+         <guid isPermaLink="false">232bc5d35ba5e52803d5752270d2f6be</guid>
          <pubDate>Sat, 27 Sep 2025 02:28:29 -0000</pubDate>
       </item>
       <item>
