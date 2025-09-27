@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-27 10:36:34 (UTC)</th>
+        <th colspan=4>2025-09-27 10:56:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 58 | 1275 | 5621 | 78473 |
-| **:globe_with_meridians: Domains** | 12 | 443 | 1963 | 50072 |
-| **:triangular_flag_on_post: IPs** | 46 | 716 | 3195 | 26183 |
+| **:link: URLs** | 61 | 1278 | 5624 | 78476 |
+| **:globe_with_meridians: Domains** | 13 | 444 | 1964 | 50073 |
+| **:triangular_flag_on_post: IPs** | 47 | 717 | 3196 | 26184 |
 | **:1234: SHA256** | 1 | 22 | 203 | 1868 |
 | **:1234: MD5** | 7 | 64 | 308 | 3101 |
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 4 | 33 | 201 | 2924 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 354 | 1725 | 12499 |
+| **#CobaltStrike** | 3 | 357 | 1728 | 12502 |
 | **#Dcrat** | 0 | 7 | 62 | 454 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 37 | 49 | 515 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 85 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 88 |
 | **#2** | [c9lab_soc](https://twitter.com/c9lab_soc) | 10 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 8 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [banthisguy9349](https://twitter.com/banthisguy9349) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
