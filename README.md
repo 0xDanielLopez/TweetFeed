@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-09-27 05:06:05 (UTC)</th>
+        <th colspan=4>2025-09-27 05:24:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,7 +109,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 2 | 1219 | 5565 | 78417 |
 | **:globe_with_meridians: Domains** | 2 | 433 | 1953 | 50062 |
-| **:triangular_flag_on_post: IPs** | 2 | 672 | 3151 | 26139 |
+| **:triangular_flag_on_post: IPs** | 5 | 675 | 3154 | 26142 |
 | **:1234: SHA256** | 1 | 22 | 203 | 1868 |
 | **:1234: MD5** | 7 | 64 | 308 | 3101 |
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 2 | 531 | 3013 | 87986 |
 | **#scam** | 2 | 168 | 787 | 11405 |
 | **#opendir** | 0 | 7 | 42 | 778 |
-| **#malware** | 0 | 24 | 238 | 21955 |
+| **#malware** | 3 | 27 | 241 | 21958 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 2 | 12 | 76 | 908 |
 | **#banker** | 0 | 0 | 3 | 3 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 5 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 5 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 8 |
+| **#2** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 5 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
