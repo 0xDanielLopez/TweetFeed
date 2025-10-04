@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-04 15:10:07 (UTC)</th>
+        <th colspan=4>2025-10-04 15:44:00 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 1503 | 6042 | 80022 |
-| **:globe_with_meridians: Domains** | 11 | 896 | 2449 | 50963 |
+| **:link: URLs** | 49 | 1505 | 6044 | 80024 |
+| **:globe_with_meridians: Domains** | 13 | 898 | 2451 | 50965 |
 | **:triangular_flag_on_post: IPs** | 22 | 535 | 3111 | 26747 |
 | **:1234: SHA256** | 2 | 14 | 206 | 1884 |
 | **:1234: MD5** | 0 | 64 | 288 | 3165 |
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [drb_ra](https://twitter.com/drb_ra) | 55 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
 | **#3** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
-| **#4** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 3 |
-| **#5** | [yvesago](https://twitter.com/yvesago) | 3 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 6 |
+| **#5** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
