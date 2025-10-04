@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-04 05:49:19 (UTC)</th>
+        <th colspan=4>2025-10-04 06:21:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 1459 | 5998 | 79978 |
-| **:globe_with_meridians: Domains** | 3 | 888 | 2441 | 50955 |
-| **:triangular_flag_on_post: IPs** | 0 | 513 | 3089 | 26725 |
+| **:link: URLs** | 22 | 1478 | 6017 | 79997 |
+| **:globe_with_meridians: Domains** | 5 | 890 | 2443 | 50957 |
+| **:triangular_flag_on_post: IPs** | 14 | 527 | 3103 | 26739 |
 | **:1234: SHA256** | 0 | 12 | 204 | 1882 |
 | **:1234: MD5** | 0 | 64 | 288 | 3165 |
 
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 6 | 1621 | 3830 | 89645 |
-| **#scam** | 6 | 280 | 922 | 11713 |
+| **#phishing** | 10 | 1625 | 3834 | 89649 |
+| **#scam** | 10 | 284 | 926 | 11717 |
 | **#opendir** | 0 | 12 | 52 | 798 |
 | **#malware** | 0 | 38 | 208 | 22004 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -132,7 +132,7 @@ If you like the project, please consider:
 | **#banker** | 0 | 0 | 3 | 3 |
 | **#AgentTesla** | 0 | 0 | 9 | 209 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
-| **#AsyncRAT** | 0 | 26 | 186 | 2950 |
+| **#AsyncRAT** | 5 | 31 | 191 | 2955 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
 | **#CobaltStrike** | 0 | 145 | 1565 | 12664 |
@@ -147,10 +147,10 @@ If you like the project, please consider:
 | **#log4j** | 0 | 0 | 0 | 13 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
 | **#Njrat** | 0 | 19 | 32 | 1266 |
-| **#Qakbot** | 0 | 14 | 103 | 1172 |
+| **#Qakbot** | 6 | 20 | 109 | 1178 |
 | **#Raccoon** | 0 | 0 | 0 | 0 |
 | **#RedLine** | 0 | 2 | 8 | 160 |
-| **#Remcos** | 0 | 83 | 427 | 3465 |
+| **#Remcos** | 6 | 89 | 433 | 3471 |
 | **#RaspberryRobin** | 0 | 0 | 0 | 0 |
 | **#Spring4Shell** | 0 | 0 | 0 | 0 |
 | **#SocGolish** | 0 | 0 | 0 | 7 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#2** | [-](https://twitter.com/-) | 0 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 31 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#3** | [c9lab_soc](https://twitter.com/c9lab_soc) | 4 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
