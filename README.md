@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-04 11:47:25 (UTC)</th>
+        <th colspan=4>2025-10-04 12:17:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 1498 | 6037 | 80017 |
+| **:link: URLs** | 44 | 1500 | 6039 | 80019 |
 | **:globe_with_meridians: Domains** | 10 | 895 | 2448 | 50962 |
-| **:triangular_flag_on_post: IPs** | 21 | 534 | 3110 | 26746 |
-| **:1234: SHA256** | 1 | 13 | 205 | 1883 |
+| **:triangular_flag_on_post: IPs** | 22 | 535 | 3111 | 26747 |
+| **:1234: SHA256** | 2 | 14 | 206 | 1884 |
 | **:1234: MD5** | 0 | 64 | 288 | 3165 |
 
 </div>
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 12 | 52 | 798 |
 | **#malware** | 0 | 38 | 208 | 22004 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 9 | 70 | 916 |
+| **#ransomware** | 1 | 10 | 71 | 917 |
 | **#banker** | 0 | 0 | 3 | 3 |
 | **#AgentTesla** | 0 | 0 | 9 | 209 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [drb_ra](https://twitter.com/drb_ra) | 52 |
+| **#1** | [drb_ra](https://twitter.com/drb_ra) | 55 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
 | **#3** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
 | **#4** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 3 |
