@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-18 15:48:57 (UTC)</th>
+        <th colspan=4>2025-10-18 16:20:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 987 | 5408 | 82093 |
-| **:globe_with_meridians: Domains** | 16 | 863 | 3272 | 52689 |
+| **:link: URLs** | 17 | 988 | 5409 | 82094 |
+| **:globe_with_meridians: Domains** | 17 | 864 | 3273 | 52690 |
 | **:triangular_flag_on_post: IPs** | 2 | 144 | 1944 | 27113 |
 | **:1234: SHA256** | 0 | 12 | 105 | 1915 |
 | **:1234: MD5** | 0 | 47 | 243 | 3254 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 30 | 1548 | 5600 | 92708 |
+| **#phishing** | 32 | 1550 | 5602 | 92710 |
 | **#scam** | 14 | 235 | 1106 | 12265 |
 | **#opendir** | 0 | 2 | 43 | 807 |
 | **#malware** | 2 | 38 | 166 | 22076 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
-| **#2** | [harugasumi](https://twitter.com/harugasumi) | 11 |
+| **#2** | [harugasumi](https://twitter.com/harugasumi) | 13 |
 | **#3** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
 | **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#5** | [MNovofastovsky](https://twitter.com/MNovofastovsky) | 2 |
