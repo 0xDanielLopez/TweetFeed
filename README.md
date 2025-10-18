@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-18 18:44:36 (UTC)</th>
+        <th colspan=4>2025-10-18 19:12:05 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 56 | 1027 | 5448 | 82133 |
-| **:globe_with_meridians: Domains** | 57 | 904 | 3313 | 52730 |
+| **:link: URLs** | 63 | 1034 | 5455 | 82140 |
+| **:globe_with_meridians: Domains** | 64 | 911 | 3320 | 52737 |
 | **:triangular_flag_on_post: IPs** | 2 | 144 | 1944 | 27113 |
 | **:1234: SHA256** | 0 | 12 | 105 | 1915 |
 | **:1234: MD5** | 0 | 47 | 243 | 3254 |
@@ -168,14 +168,14 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 71 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
-| **#3** | [harugasumi](https://twitter.com/harugasumi) | 13 |
-| **#4** | [josef0x](https://twitter.com/josef0x) | 4 |
-| **#5** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
+| **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 14 |
+| **#4** | [harugasumi](https://twitter.com/harugasumi) | 13 |
+| **#5** | [josef0x](https://twitter.com/josef0x) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [volrant136](https://twitter.com/volrant136) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [AddressIntel](https://twitter.com/AddressIntel) | 2 |
+| **#10** | [volrant136](https://twitter.com/volrant136) | 2 |
 
 </div>
 
