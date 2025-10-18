@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-18 18:17:21 (UTC)</th>
+        <th colspan=4>2025-10-18 18:44:36 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 1024 | 5445 | 82130 |
-| **:globe_with_meridians: Domains** | 54 | 901 | 3310 | 52727 |
+| **:link: URLs** | 56 | 1027 | 5448 | 82133 |
+| **:globe_with_meridians: Domains** | 57 | 904 | 3313 | 52730 |
 | **:triangular_flag_on_post: IPs** | 2 | 144 | 1944 | 27113 |
 | **:1234: SHA256** | 0 | 12 | 105 | 1915 |
 | **:1234: MD5** | 0 | 47 | 243 | 3254 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 105 | 1623 | 5675 | 92783 |
-| **#scam** | 29 | 250 | 1121 | 12280 |
+| **#phishing** | 111 | 1629 | 5681 | 92789 |
+| **#scam** | 31 | 252 | 1123 | 12282 |
 | **#opendir** | 0 | 2 | 43 | 807 |
 | **#malware** | 2 | 38 | 166 | 22076 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,14 +167,14 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 71 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 16 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 13 |
-| **#4** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
-| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
+| **#4** | [josef0x](https://twitter.com/josef0x) | 4 |
+| **#5** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [volrant136](https://twitter.com/volrant136) | 2 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
