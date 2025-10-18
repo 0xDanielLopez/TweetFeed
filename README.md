@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-18 07:44:29 (UTC)</th>
+        <th colspan=4>2025-10-18 08:11:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 10 | 981 | 5402 | 82087 |
-| **:globe_with_meridians: Domains** | 10 | 857 | 3266 | 52683 |
+| **:link: URLs** | 11 | 982 | 5403 | 82088 |
+| **:globe_with_meridians: Domains** | 11 | 858 | 3267 | 52684 |
 | **:triangular_flag_on_post: IPs** | 2 | 144 | 1944 | 27113 |
 | **:1234: SHA256** | 0 | 12 | 105 | 1915 |
 | **:1234: MD5** | 0 | 47 | 243 | 3254 |
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 2 | 43 | 807 |
 | **#malware** | 0 | 36 | 164 | 22074 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 3 | 47 | 931 |
+| **#ransomware** | 2 | 5 | 49 | 933 |
 | **#banker** | 0 | 0 | 3 | 3 |
 | **#AgentTesla** | 0 | 2 | 2 | 211 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -169,7 +169,7 @@ If you like the project, please consider:
 | **#1** | [harugasumi](https://twitter.com/harugasumi) | 11 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#3** | [taku888infinity](https://twitter.com/taku888infinity) | 3 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
