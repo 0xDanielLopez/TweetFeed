@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-25 04:13:47 (UTC)</th>
+        <th colspan=4>2025-10-25 04:47:36 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,7 +107,7 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 6 | 1436 | 5816 | 83699 |
+| **:link: URLs** | 7 | 1437 | 5817 | 83700 |
 | **:globe_with_meridians: Domains** | 6 | 1292 | 4297 | 54152 |
 | **:triangular_flag_on_post: IPs** | 1 | 137 | 1394 | 27250 |
 | **:1234: SHA256** | 0 | 11 | 68 | 1926 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 4 | 2339 | 7547 | 95374 |
-| **#scam** | 4 | 295 | 1274 | 12607 |
+| **#phishing** | 5 | 2340 | 7548 | 95375 |
+| **#scam** | 5 | 296 | 1275 | 12608 |
 | **#opendir** | 0 | 8 | 42 | 815 |
 | **#malware** | 0 | 16 | 148 | 22092 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 6 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 5 |
 | **#3** | [Merlax_](https://twitter.com/Merlax_) | 2 |
 | **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
