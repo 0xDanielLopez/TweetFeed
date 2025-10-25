@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-25 09:01:39 (UTC)</th>
+        <th colspan=4>2025-10-25 09:32:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 1443 | 5823 | 83706 |
-| **:globe_with_meridians: Domains** | 12 | 1298 | 4303 | 54158 |
+| **:link: URLs** | 14 | 1444 | 5824 | 83707 |
+| **:globe_with_meridians: Domains** | 13 | 1299 | 4304 | 54159 |
 | **:triangular_flag_on_post: IPs** | 1 | 137 | 1394 | 27250 |
 | **:1234: SHA256** | 0 | 11 | 68 | 1926 |
 | **:1234: MD5** | 0 | 50 | 240 | 3304 |
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 17 | 2352 | 7560 | 95387 |
 | **#scam** | 9 | 300 | 1279 | 12612 |
 | **#opendir** | 0 | 8 | 42 | 815 |
-| **#malware** | 0 | 16 | 148 | 22092 |
+| **#malware** | 2 | 18 | 150 | 22094 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 10 | 43 | 943 |
 | **#banker** | 0 | 3 | 3 | 6 |
@@ -170,7 +170,7 @@ If you like the project, please consider:
 | **#2** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 6 |
 | **#4** | [Merlax_](https://twitter.com/Merlax_) | 2 |
-| **#5** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 1 |
+| **#5** | [MNovofastovsky](https://twitter.com/MNovofastovsky) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
