@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-10-25 13:42:18 (UTC)</th>
+        <th colspan=4>2025-10-25 14:13:53 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 36 | 1466 | 5846 | 83729 |
-| **:globe_with_meridians: Domains** | 35 | 1321 | 4326 | 54181 |
+| **:link: URLs** | 48 | 1478 | 5858 | 83741 |
+| **:globe_with_meridians: Domains** | 47 | 1333 | 4338 | 54193 |
 | **:triangular_flag_on_post: IPs** | 2 | 138 | 1395 | 27251 |
 | **:1234: SHA256** | 1 | 12 | 69 | 1927 |
 | **:1234: MD5** | 0 | 50 | 240 | 3304 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 62 | 2397 | 7605 | 95432 |
+| **#phishing** | 84 | 2419 | 7627 | 95454 |
 | **#scam** | 15 | 306 | 1285 | 12618 |
 | **#opendir** | 0 | 8 | 42 | 815 |
 | **#malware** | 2 | 18 | 150 | 22094 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 38 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 60 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 13 |
 | **#3** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#4** | [skocherhan](https://twitter.com/skocherhan) | 6 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 1 |
+| **#9** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
