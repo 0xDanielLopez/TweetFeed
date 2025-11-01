@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-01 09:36:21 (UTC)</th>
+        <th colspan=4>2025-11-01 10:02:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 1064 | 5637 | 85022 |
-| **:globe_with_meridians: Domains** | 9 | 925 | 4728 | 55324 |
+| **:link: URLs** | 9 | 1065 | 5638 | 85023 |
+| **:globe_with_meridians: Domains** | 10 | 926 | 4729 | 55325 |
 | **:triangular_flag_on_post: IPs** | 26 | 201 | 958 | 27464 |
 | **:1234: SHA256** | 0 | 19 | 67 | 1946 |
 | **:1234: MD5** | 0 | 40 | 213 | 3348 |
@@ -169,7 +169,7 @@ If you like the project, please consider:
 | **#1** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 30 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
 | **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
