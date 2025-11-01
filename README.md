@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-01 08:16:14 (UTC)</th>
+        <th colspan=4>2025-11-01 08:38:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 5 | 1061 | 5634 | 85019 |
-| **:globe_with_meridians: Domains** | 6 | 922 | 4725 | 55321 |
-| **:triangular_flag_on_post: IPs** | 25 | 200 | 957 | 27463 |
+| **:link: URLs** | 7 | 1063 | 5636 | 85021 |
+| **:globe_with_meridians: Domains** | 8 | 924 | 4727 | 55323 |
+| **:triangular_flag_on_post: IPs** | 26 | 201 | 958 | 27464 |
 | **:1234: SHA256** | 0 | 19 | 67 | 1946 |
 | **:1234: MD5** | 0 | 40 | 213 | 3348 |
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 25 |
+| **#1** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 30 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 7 |
 | **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
 | **#4** | [-](https://twitter.com/-) | 0 |
