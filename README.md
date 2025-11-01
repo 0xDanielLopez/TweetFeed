@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-01 18:55:59 (UTC)</th>
+        <th colspan=4>2025-11-01 19:24:35 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 132 | 1188 | 5761 | 85146 |
-| **:globe_with_meridians: Domains** | 130 | 1046 | 4849 | 55445 |
+| **:link: URLs** | 149 | 1205 | 5778 | 85163 |
+| **:globe_with_meridians: Domains** | 147 | 1063 | 4866 | 55462 |
 | **:triangular_flag_on_post: IPs** | 36 | 211 | 968 | 27474 |
 | **:1234: SHA256** | 8 | 27 | 75 | 1954 |
 | **:1234: MD5** | 0 | 40 | 213 | 3348 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 228 | 1930 | 8978 | 97799 |
-| **#scam** | 39 | 304 | 1331 | 12962 |
+| **#phishing** | 252 | 1954 | 9002 | 97823 |
+| **#scam** | 41 | 306 | 1333 | 12964 |
 | **#opendir** | 0 | 17 | 38 | 832 |
 | **#malware** | 11 | 61 | 166 | 22157 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 178 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 200 |
 | **#2** | [banthisguy9349](https://twitter.com/banthisguy9349) | 32 |
 | **#3** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 30 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 28 |
-| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 15 |
+| **#5** | [urldna_bot](https://twitter.com/urldna_bot) | 17 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [smica83](https://twitter.com/smica83) | 4 |
-| **#10** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 2 |
+| **#9** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
+| **#10** | [AUZombie](https://twitter.com/AUZombie) | 4 |
 
 </div>
 
