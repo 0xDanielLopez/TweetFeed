@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-01 09:07:47 (UTC)</th>
+        <th colspan=4>2025-11-01 09:36:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 1063 | 5636 | 85021 |
-| **:globe_with_meridians: Domains** | 8 | 924 | 4727 | 55323 |
+| **:link: URLs** | 8 | 1064 | 5637 | 85022 |
+| **:globe_with_meridians: Domains** | 9 | 925 | 4728 | 55324 |
 | **:triangular_flag_on_post: IPs** | 26 | 201 | 958 | 27464 |
 | **:1234: SHA256** | 0 | 19 | 67 | 1946 |
 | **:1234: MD5** | 0 | 40 | 213 | 3348 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 7 | 1709 | 8757 | 97578 |
-| **#scam** | 7 | 272 | 1299 | 12930 |
+| **#phishing** | 9 | 1711 | 8759 | 97580 |
+| **#scam** | 9 | 274 | 1301 | 12932 |
 | **#opendir** | 0 | 17 | 38 | 832 |
 | **#malware** | 0 | 50 | 155 | 22146 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 30 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 7 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
 | **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
