@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-01 14:21:35 (UTC)</th>
+        <th colspan=4>2025-11-01 14:46:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 69 | 1125 | 5698 | 85083 |
-| **:globe_with_meridians: Domains** | 67 | 983 | 4786 | 55382 |
-| **:triangular_flag_on_post: IPs** | 29 | 204 | 961 | 27467 |
+| **:link: URLs** | 76 | 1132 | 5705 | 85090 |
+| **:globe_with_meridians: Domains** | 74 | 990 | 4793 | 55389 |
+| **:triangular_flag_on_post: IPs** | 30 | 205 | 962 | 27468 |
 | **:1234: SHA256** | 0 | 19 | 67 | 1946 |
 | **:1234: MD5** | 0 | 40 | 213 | 3348 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 119 | 1821 | 8869 | 97690 |
+| **#phishing** | 134 | 1836 | 8884 | 97705 |
 | **#scam** | 23 | 288 | 1315 | 12946 |
 | **#opendir** | 0 | 17 | 38 | 832 |
 | **#malware** | 6 | 56 | 161 | 22152 |
@@ -166,16 +166,16 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 106 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 108 |
 | **#2** | [K_N1kolenko](https://twitter.com/K_N1kolenko) | 30 |
-| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 11 |
-| **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
-| **#5** | [AUZombie](https://twitter.com/AUZombie) | 4 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 13 |
+| **#4** | [urldna_bot](https://twitter.com/urldna_bot) | 11 |
+| **#5** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [KulinskiArkadi](https://twitter.com/KulinskiArkadi) | 2 |
+| **#10** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
 
 </div>
 
