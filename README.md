@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-01 00:49:22 (UTC)</th>
+        <th colspan=4>2025-11-01 01:16:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 1056 | 5629 | 85014 |
-| **:globe_with_meridians: Domains** | 0 | 916 | 4719 | 55315 |
+| **:link: URLs** | 2 | 1058 | 5631 | 85016 |
+| **:globe_with_meridians: Domains** | 2 | 918 | 4721 | 55317 |
 | **:triangular_flag_on_post: IPs** | 0 | 175 | 932 | 27438 |
 | **:1234: SHA256** | 0 | 19 | 67 | 1946 |
 | **:1234: MD5** | 0 | 40 | 213 | 3348 |
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 17 | 38 | 832 |
 | **#malware** | 0 | 50 | 155 | 22146 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 9 | 36 | 952 |
+| **#ransomware** | 4 | 13 | 40 | 956 |
 | **#banker** | 0 | 0 | 3 | 6 |
 | **#AgentTesla** | 0 | 1 | 3 | 212 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
