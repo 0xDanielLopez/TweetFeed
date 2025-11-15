@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-15 18:58:49 (UTC)</th>
+        <th colspan=4>2025-11-15 19:19:08 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 103 | 1093 | 5885 | 87707 |
-| **:globe_with_meridians: Domains** | 100 | 882 | 5150 | 57620 |
+| **:link: URLs** | 110 | 1100 | 5892 | 87714 |
+| **:globe_with_meridians: Domains** | 107 | 889 | 5157 | 57627 |
 | **:triangular_flag_on_post: IPs** | 2 | 198 | 840 | 27893 |
 | **:1234: SHA256** | 4 | 21 | 96 | 2008 |
 | **:1234: MD5** | 0 | 55 | 232 | 3473 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 190 | 1551 | 9290 | 101684 |
-| **#scam** | 32 | 319 | 1427 | 13624 |
+| **#phishing** | 192 | 1553 | 9292 | 101686 |
+| **#scam** | 34 | 321 | 1429 | 13626 |
 | **#opendir** | 0 | 21 | 73 | 878 |
 | **#malware** | 2 | 47 | 222 | 22271 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -167,15 +167,15 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 160 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 8 |
-| **#4** | [masaomi346](https://twitter.com/masaomi346) | 8 |
-| **#5** | [AmberMille78556](https://twitter.com/AmberMille78556) | 8 |
+| **#2** | [SarlackLab](https://twitter.com/SarlackLab) | 12 |
+| **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 8 |
+| **#5** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#10** | [smica83](https://twitter.com/smica83) | 2 |
+| **#9** | [5kidRo0t_](https://twitter.com/5kidRo0t_) | 2 |
+| **#10** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 
 </div>
 
