@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-15 03:18:50 (UTC)</th>
+        <th colspan=4>2025-11-15 03:41:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 993 | 5785 | 87607 |
-| **:globe_with_meridians: Domains** | 2 | 784 | 5052 | 57522 |
+| **:link: URLs** | 4 | 994 | 5786 | 87608 |
+| **:globe_with_meridians: Domains** | 3 | 785 | 5053 | 57523 |
 | **:triangular_flag_on_post: IPs** | 1 | 197 | 839 | 27892 |
 | **:1234: SHA256** | 1 | 18 | 93 | 2005 |
 | **:1234: MD5** | 0 | 55 | 232 | 3473 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 1363 | 9102 | 101496 |
-| **#scam** | 2 | 289 | 1397 | 13594 |
+| **#phishing** | 4 | 1365 | 9104 | 101498 |
+| **#scam** | 4 | 291 | 1399 | 13596 |
 | **#opendir** | 0 | 21 | 73 | 878 |
 | **#malware** | 1 | 46 | 221 | 22270 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [suyog41](https://twitter.com/suyog41) | 4 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#2** | [suyog41](https://twitter.com/suyog41) | 4 |
 | **#3** | [5kidRo0t_](https://twitter.com/5kidRo0t_) | 1 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
