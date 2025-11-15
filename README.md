@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-15 00:15:24 (UTC)</th>
+        <th colspan=4>2025-11-15 00:40:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -110,7 +110,7 @@ If you like the project, please consider:
 | **:link: URLs** | 0 | 990 | 5782 | 87604 |
 | **:globe_with_meridians: Domains** | 0 | 782 | 5050 | 57520 |
 | **:triangular_flag_on_post: IPs** | 0 | 196 | 838 | 27891 |
-| **:1234: SHA256** | 0 | 17 | 92 | 2004 |
+| **:1234: SHA256** | 1 | 18 | 93 | 2005 |
 | **:1234: MD5** | 0 | 55 | 232 | 3473 |
 
 </div>
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 0 | 1361 | 9100 | 101494 |
 | **#scam** | 0 | 287 | 1395 | 13592 |
 | **#opendir** | 0 | 21 | 73 | 878 |
-| **#malware** | 0 | 45 | 220 | 22269 |
+| **#malware** | 1 | 46 | 221 | 22270 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 22 | 58 | 986 |
 | **#banker** | 0 | 0 | 3 | 6 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [5kidRo0t_](https://twitter.com/5kidRo0t_) | 1 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
