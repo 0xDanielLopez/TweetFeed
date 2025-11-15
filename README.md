@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-15 13:21:25 (UTC)</th>
+        <th colspan=4>2025-11-15 13:45:45 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 42 | 1032 | 5824 | 87646 |
-| **:globe_with_meridians: Domains** | 39 | 821 | 5089 | 57559 |
+| **:link: URLs** | 56 | 1046 | 5838 | 87660 |
+| **:globe_with_meridians: Domains** | 53 | 835 | 5103 | 57573 |
 | **:triangular_flag_on_post: IPs** | 2 | 198 | 840 | 27893 |
 | **:1234: SHA256** | 3 | 20 | 95 | 2007 |
 | **:1234: MD5** | 0 | 55 | 232 | 3473 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 68 | 1429 | 9168 | 101562 |
-| **#scam** | 14 | 301 | 1409 | 13606 |
+| **#phishing** | 96 | 1457 | 9196 | 101590 |
+| **#scam** | 16 | 303 | 1411 | 13608 |
 | **#opendir** | 0 | 21 | 73 | 878 |
 | **#malware** | 1 | 46 | 221 | 22270 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 46 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 72 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 8 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 8 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 2 |
-| **#10** | [5kidRo0t_](https://twitter.com/5kidRo0t_) | 1 |
+| **#10** | [AmberMille78556](https://twitter.com/AmberMille78556) | 2 |
 
 </div>
 
