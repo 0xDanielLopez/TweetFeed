@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-15 04:24:05 (UTC)</th>
+        <th colspan=4>2025-11-15 04:47:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 994 | 5786 | 87608 |
-| **:globe_with_meridians: Domains** | 3 | 785 | 5053 | 57523 |
+| **:link: URLs** | 6 | 996 | 5788 | 87610 |
+| **:globe_with_meridians: Domains** | 5 | 787 | 5055 | 57525 |
 | **:triangular_flag_on_post: IPs** | 1 | 197 | 839 | 27892 |
 | **:1234: SHA256** | 1 | 18 | 93 | 2005 |
 | **:1234: MD5** | 0 | 55 | 232 | 3473 |
@@ -168,8 +168,8 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#2** | [suyog41](https://twitter.com/suyog41) | 4 |
-| **#3** | [5kidRo0t_](https://twitter.com/5kidRo0t_) | 1 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#3** | [skocherhan](https://twitter.com/skocherhan) | 4 |
+| **#4** | [5kidRo0t_](https://twitter.com/5kidRo0t_) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
