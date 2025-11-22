@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-22 10:03:26 (UTC)</th>
+        <th colspan=4>2025-11-22 10:30:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 1074 | 5557 | 88814 |
+| **:link: URLs** | 51 | 1075 | 5558 | 88815 |
 | **:globe_with_meridians: Domains** | 47 | 867 | 4732 | 58519 |
-| **:triangular_flag_on_post: IPs** | 3 | 234 | 942 | 28128 |
+| **:triangular_flag_on_post: IPs** | 4 | 235 | 943 | 28129 |
 | **:1234: SHA256** | 0 | 13 | 99 | 2022 |
 | **:1234: MD5** | 0 | 60 | 252 | 3533 |
 
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 50 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 36 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 38 |
 | **#3** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
 | **#4** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#5** | [smica83](https://twitter.com/smica83) | 2 |
