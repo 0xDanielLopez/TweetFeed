@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-22 04:06:18 (UTC)</th>
+        <th colspan=4>2025-11-22 04:36:36 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 1038 | 5521 | 88778 |
-| **:globe_with_meridians: Domains** | 14 | 834 | 4699 | 58486 |
+| **:link: URLs** | 25 | 1049 | 5532 | 88789 |
+| **:globe_with_meridians: Domains** | 25 | 845 | 4710 | 58497 |
 | **:triangular_flag_on_post: IPs** | 0 | 231 | 939 | 28125 |
 | **:1234: SHA256** | 0 | 13 | 99 | 2022 |
 | **:1234: MD5** | 0 | 60 | 252 | 3533 |
@@ -124,7 +124,7 @@ If you like the project, please consider:
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 0 | 1181 | 8140 | 102913 |
-| **#scam** | 0 | 152 | 1261 | 13788 |
+| **#scam** | 2 | 154 | 1263 | 13790 |
 | **#opendir** | 0 | 2 | 67 | 880 |
 | **#malware** | 0 | 13 | 194 | 22284 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 24 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 46 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
