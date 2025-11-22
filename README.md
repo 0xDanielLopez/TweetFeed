@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-22 03:06:42 (UTC)</th>
+        <th colspan=4>2025-11-22 03:36:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 1028 | 5511 | 88768 |
-| **:globe_with_meridians: Domains** | 4 | 824 | 4689 | 58476 |
+| **:link: URLs** | 9 | 1033 | 5516 | 88773 |
+| **:globe_with_meridians: Domains** | 9 | 829 | 4694 | 58481 |
 | **:triangular_flag_on_post: IPs** | 0 | 231 | 939 | 28125 |
 | **:1234: SHA256** | 0 | 13 | 99 | 2022 |
 | **:1234: MD5** | 0 | 60 | 252 | 3533 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 14 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
