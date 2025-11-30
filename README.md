@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-11-30 00:02:56 (UTC)</th>
+        <th colspan=4>2025-11-30 00:32:44 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 641 | 4900 | 89613 |
-| **:globe_with_meridians: Domains** | 0 | 556 | 4175 | 59220 |
+| **:link: URLs** | 2 | 643 | 4902 | 89615 |
+| **:globe_with_meridians: Domains** | 2 | 558 | 4177 | 59222 |
 | **:triangular_flag_on_post: IPs** | 0 | 91 | 820 | 28226 |
 | **:1234: SHA256** | 0 | 38 | 118 | 2062 |
 | **:1234: MD5** | 0 | 18 | 205 | 3553 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [AmberMille78556](https://twitter.com/AmberMille78556) | 4 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |

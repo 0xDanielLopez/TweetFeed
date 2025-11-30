@@ -10,5 +10,33 @@
          <link>https://tweetfeed.live</link>
       </image>
       <atom:link href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/rss.xml" rel="self" type="application/rss+xml"/>
+      <item>
+         <title>http://test.pudgyweb.com</title>
+         <link>https://x.com/AmberMille78556/status/1994921141064925576</link>
+         <description>@AmberMille78556 | url | </description>
+         <guid>http://test.pudgyweb.com</guid>
+         <pubDate>Sun, 30 Nov 2025 00:07:18 -0000</pubDate>
+      </item>
+      <item>
+         <title>test.pudgyweb.com</title>
+         <link>https://x.com/AmberMille78556/status/1994921141064925576</link>
+         <description>@AmberMille78556 | domain | </description>
+         <guid isPermaLink="false">test.pudgyweb.com</guid>
+         <pubDate>Sun, 30 Nov 2025 00:07:18 -0000</pubDate>
+      </item>
+      <item>
+         <title>http://test.blackdiamondsusa.com</title>
+         <link>https://x.com/AmberMille78556/status/1994921017253531920</link>
+         <description>@AmberMille78556 | url | </description>
+         <guid>http://test.blackdiamondsusa.com</guid>
+         <pubDate>Sun, 30 Nov 2025 00:06:49 -0000</pubDate>
+      </item>
+      <item>
+         <title>test.blackdiamondsusa.com</title>
+         <link>https://x.com/AmberMille78556/status/1994921017253531920</link>
+         <description>@AmberMille78556 | domain | </description>
+         <guid isPermaLink="false">test.blackdiamondsusa.com</guid>
+         <pubDate>Sun, 30 Nov 2025 00:06:49 -0000</pubDate>
+      </item>
    </channel>
 </rss>
