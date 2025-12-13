@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-13 13:28:29 (UTC)</th>
+        <th colspan=4>2025-12-13 13:57:12 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 17 | 1060 | 4548 | 91773 |
-| **:globe_with_meridians: Domains** | 15 | 933 | 3951 | 61168 |
+| **:link: URLs** | 18 | 1061 | 4549 | 91774 |
+| **:globe_with_meridians: Domains** | 16 | 934 | 3952 | 61169 |
 | **:triangular_flag_on_post: IPs** | 2 | 183 | 681 | 28505 |
 | **:1234: SHA256** | 1 | 31 | 128 | 2125 |
 | **:1234: MD5** | 0 | 44 | 166 | 3622 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
-| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 6 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 8 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
 | **#4** | [PaduckLee](https://twitter.com/PaduckLee) | 2 |
 | **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
