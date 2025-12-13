@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-13 13:57:12 (UTC)</th>
+        <th colspan=4>2025-12-13 14:26:46 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 18 | 1061 | 4549 | 91774 |
-| **:globe_with_meridians: Domains** | 16 | 934 | 3952 | 61169 |
+| **:link: URLs** | 20 | 1063 | 4551 | 91776 |
+| **:globe_with_meridians: Domains** | 18 | 936 | 3954 | 61171 |
 | **:triangular_flag_on_post: IPs** | 2 | 183 | 681 | 28505 |
 | **:1234: SHA256** | 1 | 31 | 128 | 2125 |
 | **:1234: MD5** | 0 | 44 | 166 | 3622 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 279 | 3290 | 104292 |
+| **#phishing** | 6 | 283 | 3294 | 104296 |
 | **#scam** | 2 | 99 | 814 | 14308 |
 | **#opendir** | 0 | 0 | 13 | 887 |
 | **#malware** | 0 | 10 | 96 | 22339 |
@@ -169,13 +169,13 @@ If you like the project, please consider:
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
 | **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 8 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
-| **#4** | [PaduckLee](https://twitter.com/PaduckLee) | 2 |
-| **#5** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#4** | [Malwarehunterr](https://twitter.com/Malwarehunterr) | 4 |
+| **#5** | [PaduckLee](https://twitter.com/PaduckLee) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [smica83](https://twitter.com/smica83) | 2 |
-| **#10** | [-](https://twitter.com/-) | 0 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 2 |
+| **#10** | [smica83](https://twitter.com/smica83) | 2 |
 
 </div>
 
