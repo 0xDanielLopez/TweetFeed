@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-13 17:19:45 (UTC)</th>
+        <th colspan=4>2025-12-13 17:48:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 109 | 1152 | 4640 | 91865 |
-| **:globe_with_meridians: Domains** | 107 | 1025 | 4043 | 61260 |
+| **:link: URLs** | 119 | 1162 | 4650 | 91875 |
+| **:globe_with_meridians: Domains** | 117 | 1035 | 4053 | 61270 |
 | **:triangular_flag_on_post: IPs** | 2 | 183 | 681 | 28505 |
 | **:1234: SHA256** | 1 | 31 | 128 | 2125 |
 | **:1234: MD5** | 0 | 44 | 166 | 3622 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 180 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 12 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 198 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 14 |
 | **#3** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 5 |
 | **#4** | [Malwarehunterr](https://twitter.com/Malwarehunterr) | 4 |
 | **#5** | [PaduckLee](https://twitter.com/PaduckLee) | 2 |
