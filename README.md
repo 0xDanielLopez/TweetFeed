@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2025-12-13 08:03:12 (UTC)</th>
+        <th colspan=4>2025-12-13 08:32:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 1050 | 4538 | 91763 |
-| **:globe_with_meridians: Domains** | 7 | 925 | 3943 | 61160 |
+| **:link: URLs** | 8 | 1051 | 4539 | 91764 |
+| **:globe_with_meridians: Domains** | 8 | 926 | 3944 | 61161 |
 | **:triangular_flag_on_post: IPs** | 0 | 181 | 679 | 28503 |
-| **:1234: SHA256** | 0 | 30 | 127 | 2124 |
+| **:1234: SHA256** | 1 | 31 | 128 | 2125 |
 | **:1234: MD5** | 0 | 44 | 166 | 3622 |
 
 </div>
@@ -167,10 +167,10 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#2** | [PaduckLee](https://twitter.com/PaduckLee) | 2 |
-| **#3** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#4** | [u3_timi](https://twitter.com/u3_timi) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#2** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 3 |
+| **#3** | [PaduckLee](https://twitter.com/PaduckLee) | 2 |
+| **#4** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#5** | [u3_timi](https://twitter.com/u3_timi) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
