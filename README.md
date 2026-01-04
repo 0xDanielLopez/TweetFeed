@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-04 11:16:19 (UTC)</th>
+        <th colspan=4>2026-01-04 11:45:59 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 872 | 4404 | 91065 |
-| **:globe_with_meridians: Domains** | 13 | 761 | 3828 | 61037 |
+| **:link: URLs** | 16 | 874 | 4406 | 91067 |
+| **:globe_with_meridians: Domains** | 15 | 763 | 3830 | 61039 |
 | **:triangular_flag_on_post: IPs** | 1 | 125 | 680 | 28015 |
 | **:1234: SHA256** | 0 | 8 | 100 | 2173 |
 | **:1234: MD5** | 0 | 48 | 162 | 3659 |
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
-| **#2** | [masaomi346](https://twitter.com/masaomi346) | 8 |
-| **#3** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 8 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
+| **#2** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 10 |
+| **#3** | [masaomi346](https://twitter.com/masaomi346) | 8 |
 | **#4** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 4 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
