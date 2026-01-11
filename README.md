@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-11 09:06:49 (UTC)</th>
+        <th colspan=4>2026-01-11 09:35:03 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 95 | 1301 | 4634 | 90075 |
-| **:globe_with_meridians: Domains** | 94 | 1096 | 3977 | 60330 |
+| **:link: URLs** | 97 | 1303 | 4636 | 90077 |
+| **:globe_with_meridians: Domains** | 95 | 1097 | 3978 | 60331 |
 | **:triangular_flag_on_post: IPs** | 0 | 248 | 745 | 27804 |
 | **:1234: SHA256** | 0 | 17 | 84 | 2168 |
 | **:1234: MD5** | 0 | 52 | 169 | 3642 |
@@ -167,9 +167,9 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 182 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
-| **#4** | [AddressIntel](https://twitter.com/AddressIntel) | 1 |
+| **#4** | [AddressIntel](https://twitter.com/AddressIntel) | 2 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
