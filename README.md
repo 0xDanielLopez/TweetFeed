@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-11 07:11:56 (UTC)</th>
+        <th colspan=4>2026-01-11 07:39:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 69 | 1275 | 4608 | 90049 |
-| **:globe_with_meridians: Domains** | 69 | 1071 | 3952 | 60305 |
+| **:link: URLs** | 76 | 1282 | 4615 | 90056 |
+| **:globe_with_meridians: Domains** | 76 | 1078 | 3959 | 60312 |
 | **:triangular_flag_on_post: IPs** | 0 | 248 | 745 | 27804 |
 | **:1234: SHA256** | 0 | 17 | 84 | 2168 |
 | **:1234: MD5** | 0 | 52 | 169 | 3642 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 132 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 146 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 4 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
