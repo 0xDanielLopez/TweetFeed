@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-11 00:10:24 (UTC)</th>
+        <th colspan=4>2026-01-11 00:39:03 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 1206 | 4539 | 89980 |
-| **:globe_with_meridians: Domains** | 0 | 1002 | 3883 | 60236 |
+| **:link: URLs** | 2 | 1208 | 4541 | 89982 |
+| **:globe_with_meridians: Domains** | 2 | 1004 | 3885 | 60238 |
 | **:triangular_flag_on_post: IPs** | 0 | 248 | 745 | 27804 |
 | **:1234: SHA256** | 0 | 17 | 84 | 2168 |
 | **:1234: MD5** | 0 | 52 | 169 | 3642 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 4 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
