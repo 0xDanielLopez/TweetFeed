@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-18 01:53:27 (UTC)</th>
+        <th colspan=4>2026-01-18 02:25:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,7 +109,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 1 | 814 | 4644 | 88654 |
 | **:globe_with_meridians: Domains** | 1 | 705 | 3964 | 59450 |
-| **:triangular_flag_on_post: IPs** | 0 | 105 | 750 | 27301 |
+| **:triangular_flag_on_post: IPs** | 1 | 106 | 751 | 27302 |
 | **:1234: SHA256** | 0 | 24 | 83 | 2171 |
 | **:1234: MD5** | 0 | 47 | 197 | 3629 |
 
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#2** | [crhua](https://twitter.com/crhua) | 1 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
