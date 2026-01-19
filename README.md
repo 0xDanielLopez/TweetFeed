@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-19 00:42:35 (UTC)</th>
+        <th colspan=4>2026-01-19 01:14:50 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 759 | 4565 | 88469 |
-| **:globe_with_meridians: Domains** | 1 | 644 | 3944 | 59289 |
+| **:link: URLs** | 5 | 761 | 4567 | 88471 |
+| **:globe_with_meridians: Domains** | 3 | 646 | 3946 | 59291 |
 | **:triangular_flag_on_post: IPs** | 1 | 106 | 671 | 27278 |
 | **:1234: SHA256** | 1 | 26 | 81 | 2173 |
 | **:1234: MD5** | 0 | 37 | 184 | 3627 |
@@ -123,12 +123,12 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 102 | 1543 | 93167 |
+| **#phishing** | 2 | 104 | 1545 | 93169 |
 | **#scam** | 0 | 45 | 358 | 13301 |
 | **#opendir** | 0 | 21 | 33 | 854 |
 | **#malware** | 0 | 21 | 60 | 18669 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 18 | 47 | 1094 |
+| **#ransomware** | 2 | 20 | 49 | 1096 |
 | **#banker** | 0 | 0 | 0 | 6 |
 | **#AgentTesla** | 0 | 0 | 0 | 220 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -167,8 +167,8 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 6 |
-| **#2** | [-](https://twitter.com/-) | 0 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#2** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#3** | [fbgwls245](https://twitter.com/fbgwls245) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
