@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-29 03:21:57 (UTC)</th>
+        <th colspan=4>2026-01-29 03:56:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 31 | 1077 | 4867 | 86695 |
-| **:globe_with_meridians: Domains** | 21 | 986 | 4252 | 58282 |
+| **:link: URLs** | 32 | 1078 | 4868 | 86696 |
+| **:globe_with_meridians: Domains** | 22 | 987 | 4253 | 58283 |
 | **:triangular_flag_on_post: IPs** | 27 | 117 | 700 | 26669 |
 | **:1234: SHA256** | 0 | 21 | 97 | 2197 |
 | **:1234: MD5** | 0 | 32 | 201 | 3610 |
@@ -174,7 +174,7 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
