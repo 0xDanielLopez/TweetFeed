@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-29 08:12:50 (UTC)</th>
+        <th colspan=4>2026-01-29 08:46:41 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 1093 | 4883 | 86711 |
-| **:globe_with_meridians: Domains** | 30 | 995 | 4261 | 58291 |
+| **:link: URLs** | 48 | 1094 | 4884 | 86712 |
+| **:globe_with_meridians: Domains** | 31 | 996 | 4262 | 58292 |
 | **:triangular_flag_on_post: IPs** | 42 | 132 | 715 | 26684 |
 | **:1234: SHA256** | 0 | 21 | 97 | 2197 |
 | **:1234: MD5** | 1 | 33 | 202 | 3611 |
@@ -174,8 +174,8 @@ If you like the project, please consider:
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [PaduckLee](https://twitter.com/PaduckLee) | 3 |
-| **#10** | [masaomi346](https://twitter.com/masaomi346) | 2 |
+| **#9** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 4 |
+| **#10** | [PaduckLee](https://twitter.com/PaduckLee) | 3 |
 
 </div>
 
