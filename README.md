@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-29 06:31:43 (UTC)</th>
+        <th colspan=4>2026-01-29 07:04:43 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 1081 | 4871 | 86699 |
-| **:globe_with_meridians: Domains** | 24 | 989 | 4255 | 58285 |
-| **:triangular_flag_on_post: IPs** | 28 | 118 | 701 | 26670 |
+| **:link: URLs** | 39 | 1085 | 4875 | 86703 |
+| **:globe_with_meridians: Domains** | 25 | 990 | 4256 | 58286 |
+| **:triangular_flag_on_post: IPs** | 32 | 122 | 705 | 26674 |
 | **:1234: SHA256** | 0 | 21 | 97 | 2197 |
 | **:1234: MD5** | 0 | 32 | 201 | 3610 |
 
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 47 |
-| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 13 |
+| **#2** | [Metemcyber](https://twitter.com/Metemcyber) | 19 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
 | **#4** | [fbgwls245](https://twitter.com/fbgwls245) | 4 |
 | **#5** | [skocherhan](https://twitter.com/skocherhan) | 4 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [CarlyGriggs13](https://twitter.com/CarlyGriggs13) | 2 |
-| **#10** | [RakeshKrish12](https://twitter.com/RakeshKrish12) | 1 |
+| **#10** | [JAMESWT_WT](https://twitter.com/JAMESWT_WT) | 2 |
 
 </div>
 
