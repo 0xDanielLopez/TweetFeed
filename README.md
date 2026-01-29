@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-01-29 00:25:10 (UTC)</th>
+        <th colspan=4>2026-01-29 00:53:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 1046 | 4836 | 86664 |
-| **:globe_with_meridians: Domains** | 0 | 965 | 4231 | 58261 |
-| **:triangular_flag_on_post: IPs** | 0 | 90 | 673 | 26642 |
+| **:link: URLs** | 4 | 1050 | 4840 | 86668 |
+| **:globe_with_meridians: Domains** | 2 | 967 | 4233 | 58263 |
+| **:triangular_flag_on_post: IPs** | 2 | 92 | 675 | 26644 |
 | **:1234: SHA256** | 0 | 21 | 97 | 2197 |
 | **:1234: MD5** | 0 | 32 | 201 | 3610 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 82 | 1333 | 88942 |
+| **#phishing** | 2 | 84 | 1335 | 88944 |
 | **#scam** | 0 | 88 | 386 | 12878 |
 | **#opendir** | 0 | 10 | 54 | 847 |
 | **#malware** | 0 | 9 | 61 | 17161 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#1** | [SarlackLab](https://twitter.com/SarlackLab) | 6 |
+| **#2** | [masaomi346](https://twitter.com/masaomi346) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
