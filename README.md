@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-08 13:12:34 (UTC)</th>
+        <th colspan=4>2026-02-08 13:47:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 7 | 438 | 4173 | 83538 |
-| **:globe_with_meridians: Domains** | 6 | 327 | 3664 | 55749 |
-| **:triangular_flag_on_post: IPs** | 2 | 116 | 541 | 26102 |
+| **:link: URLs** | 10 | 441 | 4176 | 83541 |
+| **:globe_with_meridians: Domains** | 8 | 329 | 3666 | 55751 |
+| **:triangular_flag_on_post: IPs** | 3 | 117 | 542 | 26103 |
 | **:1234: SHA256** | 1 | 14 | 101 | 2175 |
 | **:1234: MD5** | 0 | 43 | 170 | 3594 |
 
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 4 | 6 | 184 |
 | **#log4j** | 0 | 0 | 0 | 10 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 9 | 27 | 1138 |
+| **#Njrat** | 4 | 13 | 31 | 1142 |
 | **#Qakbot** | 0 | 0 | 0 | 1024 |
 | **#Raccoon** | 0 | 0 | 3 | 3 |
 | **#RedLine** | 0 | 2 | 8 | 167 |
@@ -166,11 +166,11 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 11 |
-| **#2** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 3 |
-| **#3** | [skocherhan](https://twitter.com/skocherhan) | 1 |
-| **#4** | [404LABSx](https://twitter.com/404LABSx) | 1 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 13 |
+| **#2** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
+| **#3** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 3 |
+| **#4** | [skocherhan](https://twitter.com/skocherhan) | 1 |
+| **#5** | [404LABSx](https://twitter.com/404LABSx) | 1 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
