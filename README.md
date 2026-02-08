@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-08 11:10:50 (UTC)</th>
+        <th colspan=4>2026-02-08 11:54:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 6 | 437 | 4172 | 83537 |
-| **:globe_with_meridians: Domains** | 5 | 326 | 3663 | 55748 |
-| **:triangular_flag_on_post: IPs** | 1 | 115 | 540 | 26101 |
+| **:link: URLs** | 7 | 438 | 4173 | 83538 |
+| **:globe_with_meridians: Domains** | 6 | 327 | 3664 | 55749 |
+| **:triangular_flag_on_post: IPs** | 2 | 116 | 541 | 26102 |
 | **:1234: SHA256** | 1 | 14 | 101 | 2175 |
 | **:1234: MD5** | 0 | 43 | 170 | 3594 |
 
@@ -166,10 +166,10 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 9 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 11 |
 | **#2** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 3 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 1 |
-| **#4** | [-](https://twitter.com/-) | 0 |
+| **#4** | [404LABSx](https://twitter.com/404LABSx) | 1 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
