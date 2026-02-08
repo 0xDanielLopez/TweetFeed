@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-08 14:59:27 (UTC)</th>
+        <th colspan=4>2026-02-08 15:36:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 444 | 4179 | 83544 |
-| **:globe_with_meridians: Domains** | 10 | 331 | 3668 | 55753 |
+| **:link: URLs** | 14 | 445 | 4180 | 83545 |
+| **:globe_with_meridians: Domains** | 11 | 332 | 3669 | 55754 |
 | **:triangular_flag_on_post: IPs** | 4 | 118 | 543 | 26104 |
-| **:1234: SHA256** | 3 | 16 | 103 | 2177 |
+| **:1234: SHA256** | 4 | 17 | 104 | 2178 |
 | **:1234: MD5** | 4 | 47 | 174 | 3598 |
 
 </div>
@@ -128,7 +128,7 @@ If you like the project, please consider:
 | **#opendir** | 0 | 10 | 60 | 819 |
 | **#malware** | 0 | 13 | 81 | 14996 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
-| **#ransomware** | 0 | 6 | 67 | 1074 |
+| **#ransomware** | 1 | 7 | 68 | 1075 |
 | **#banker** | 0 | 0 | 0 | 6 |
 | **#AgentTesla** | 0 | 2 | 2 | 220 |
 | **#Alienbot** | 0 | 0 | 0 | 0 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 13 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 15 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 4 |
 | **#4** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 3 |
