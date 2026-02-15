@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 18:24:21 (UTC)</th>
+        <th colspan=4>2026-02-15 18:50:54 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 53 | 704 | 3625 | 80572 |
-| **:globe_with_meridians: Domains** | 43 | 538 | 3062 | 53252 |
+| **:link: URLs** | 54 | 705 | 3626 | 80573 |
+| **:globe_with_meridians: Domains** | 44 | 539 | 3063 | 53253 |
 | **:triangular_flag_on_post: IPs** | 8 | 172 | 605 | 25704 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
-| **:1234: MD5** | 5 | 106 | 235 | 3658 |
+| **:1234: MD5** | 6 | 107 | 236 | 3659 |
 
 </div>
 
@@ -126,7 +126,7 @@ If you like the project, please consider:
 | **#phishing** | 32 | 206 | 643 | 77231 |
 | **#scam** | 6 | 36 | 266 | 11383 |
 | **#opendir** | 0 | 10 | 58 | 808 |
-| **#malware** | 0 | 32 | 93 | 13452 |
+| **#malware** | 2 | 34 | 95 | 13454 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
 | **#ransomware** | 0 | 15 | 64 | 1075 |
 | **#banker** | 0 | 0 | 0 | 6 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 56 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 57 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 19 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 9 |
 | **#4** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 7 |
@@ -175,7 +175,7 @@ If you like the project, please consider:
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
 | **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
-| **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
+| **#10** | [phatomcandle](https://twitter.com/phatomcandle) | 2 |
 
 </div>
 
