@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 03:15:34 (UTC)</th>
+        <th colspan=4>2026-02-15 03:41:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 654 | 3575 | 80522 |
-| **:globe_with_meridians: Domains** | 1 | 496 | 3020 | 53210 |
-| **:triangular_flag_on_post: IPs** | 0 | 164 | 597 | 25696 |
+| **:link: URLs** | 8 | 659 | 3580 | 80527 |
+| **:globe_with_meridians: Domains** | 3 | 498 | 3022 | 53212 |
+| **:triangular_flag_on_post: IPs** | 2 | 166 | 599 | 25698 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
-| **:1234: MD5** | 0 | 101 | 230 | 3653 |
+| **:1234: MD5** | 2 | 103 | 232 | 3655 |
 
 </div>
 
@@ -166,9 +166,9 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [smica83](https://twitter.com/smica83) | 2 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 8 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 5 |
+| **#3** | [smica83](https://twitter.com/smica83) | 2 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
