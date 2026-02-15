@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 15:35:09 (UTC)</th>
+        <th colspan=4>2026-02-15 15:58:04 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 46 | 697 | 3618 | 80565 |
-| **:globe_with_meridians: Domains** | 36 | 531 | 3055 | 53245 |
+| **:link: URLs** | 47 | 698 | 3619 | 80566 |
+| **:globe_with_meridians: Domains** | 37 | 532 | 3056 | 53246 |
 | **:triangular_flag_on_post: IPs** | 6 | 170 | 603 | 25702 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
 | **:1234: MD5** | 5 | 106 | 235 | 3658 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 54 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 15 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 17 |
 | **#3** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 7 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#5** | [volrant136](https://twitter.com/volrant136) | 5 |
