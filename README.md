@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 16:24:06 (UTC)</th>
+        <th colspan=4>2026-02-15 16:46:09 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 47 | 698 | 3619 | 80566 |
-| **:globe_with_meridians: Domains** | 37 | 532 | 3056 | 53246 |
-| **:triangular_flag_on_post: IPs** | 6 | 170 | 603 | 25702 |
+| **:link: URLs** | 48 | 699 | 3620 | 80567 |
+| **:globe_with_meridians: Domains** | 38 | 533 | 3057 | 53247 |
+| **:triangular_flag_on_post: IPs** | 8 | 172 | 605 | 25704 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
 | **:1234: MD5** | 5 | 106 | 235 | 3658 |
 
@@ -168,13 +168,13 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 54 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 17 |
-| **#3** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 7 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 9 |
+| **#4** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 7 |
 | **#5** | [volrant136](https://twitter.com/volrant136) | 5 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#9** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 </div>
