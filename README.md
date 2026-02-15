@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 19:17:38 (UTC)</th>
+        <th colspan=4>2026-02-15 19:40:57 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 59 | 710 | 3631 | 80578 |
-| **:globe_with_meridians: Domains** | 49 | 544 | 3068 | 53258 |
+| **:link: URLs** | 61 | 712 | 3633 | 80580 |
+| **:globe_with_meridians: Domains** | 51 | 546 | 3070 | 53260 |
 | **:triangular_flag_on_post: IPs** | 8 | 172 | 605 | 25704 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
 | **:1234: MD5** | 6 | 107 | 236 | 3659 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 57 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 19 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 59 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 21 |
 | **#3** | [SarlackLab](https://twitter.com/SarlackLab) | 12 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 9 |
 | **#5** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 7 |
