@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 01:22:45 (UTC)</th>
+        <th colspan=4>2026-02-15 01:43:03 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 653 | 3574 | 80521 |
-| **:globe_with_meridians: Domains** | 0 | 495 | 3019 | 53209 |
+| **:link: URLs** | 3 | 654 | 3575 | 80522 |
+| **:globe_with_meridians: Domains** | 1 | 496 | 3020 | 53210 |
 | **:triangular_flag_on_post: IPs** | 0 | 164 | 597 | 25696 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
 | **:1234: MD5** | 0 | 101 | 230 | 3653 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [smica83](https://twitter.com/smica83) | 2 |
-| **#2** | [-](https://twitter.com/-) | 0 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
