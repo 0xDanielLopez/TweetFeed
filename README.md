@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 12:13:10 (UTC)</th>
+        <th colspan=4>2026-02-15 12:39:13 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 686 | 3607 | 80554 |
-| **:globe_with_meridians: Domains** | 28 | 523 | 3047 | 53237 |
-| **:triangular_flag_on_post: IPs** | 3 | 167 | 600 | 25699 |
+| **:link: URLs** | 41 | 692 | 3613 | 80560 |
+| **:globe_with_meridians: Domains** | 32 | 527 | 3051 | 53241 |
+| **:triangular_flag_on_post: IPs** | 6 | 170 | 603 | 25702 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
 | **:1234: MD5** | 5 | 106 | 235 | 3658 |
 
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 20 | 194 | 631 | 77219 |
+| **#phishing** | 25 | 199 | 636 | 77224 |
 | **#scam** | 0 | 30 | 260 | 11377 |
 | **#opendir** | 0 | 10 | 58 | 808 |
 | **#malware** | 0 | 32 | 93 | 13452 |
@@ -146,7 +146,7 @@ If you like the project, please consider:
 | **#Lokibot** | 0 | 2 | 8 | 180 |
 | **#log4j** | 0 | 0 | 0 | 10 |
 | **#Log4shell** | 0 | 0 | 0 | 0 |
-| **#Njrat** | 0 | 8 | 33 | 1105 |
+| **#Njrat** | 2 | 10 | 35 | 1107 |
 | **#Qakbot** | 0 | 0 | 0 | 1000 |
 | **#Raccoon** | 0 | 0 | 3 | 3 |
 | **#RedLine** | 0 | 0 | 6 | 165 |
@@ -168,9 +168,9 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 54 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 13 |
-| **#3** | [smica83](https://twitter.com/smica83) | 2 |
-| **#4** | [masaomi346](https://twitter.com/masaomi346) | 2 |
-| **#5** | [-](https://twitter.com/-) | 0 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#4** | [volrant136](https://twitter.com/volrant136) | 5 |
+| **#5** | [smica83](https://twitter.com/smica83) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
