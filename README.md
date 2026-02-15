@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-15 18:00:55 (UTC)</th>
+        <th colspan=4>2026-02-15 18:24:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 50 | 701 | 3622 | 80569 |
-| **:globe_with_meridians: Domains** | 40 | 535 | 3059 | 53249 |
+| **:link: URLs** | 53 | 704 | 3625 | 80572 |
+| **:globe_with_meridians: Domains** | 43 | 538 | 3062 | 53252 |
 | **:triangular_flag_on_post: IPs** | 8 | 172 | 605 | 25704 |
 | **:1234: SHA256** | 0 | 9 | 93 | 2105 |
 | **:1234: MD5** | 5 | 106 | 235 | 3658 |
@@ -123,8 +123,8 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 28 | 202 | 639 | 77227 |
-| **#scam** | 2 | 32 | 262 | 11379 |
+| **#phishing** | 32 | 206 | 643 | 77231 |
+| **#scam** | 6 | 36 | 266 | 11383 |
 | **#opendir** | 0 | 10 | 58 | 808 |
 | **#malware** | 0 | 32 | 93 | 13452 |
 | **#maldoc** | 0 | 0 | 0 | 4 |
@@ -166,15 +166,15 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 54 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 56 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 19 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 9 |
 | **#4** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 7 |
-| **#5** | [volrant136](https://twitter.com/volrant136) | 5 |
+| **#5** | [c9lab_soc](https://twitter.com/c9lab_soc) | 6 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
-| **#9** | [c9lab_soc](https://twitter.com/c9lab_soc) | 2 |
+| **#9** | [SarlackLab](https://twitter.com/SarlackLab) | 2 |
 | **#10** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
 
 </div>
