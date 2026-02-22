@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-22 07:13:57 (UTC)</th>
+        <th colspan=4>2026-02-22 07:35:40 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 595 | 3522 | 77723 |
-| **:globe_with_meridians: Domains** | 12 | 420 | 2907 | 50960 |
+| **:link: URLs** | 31 | 613 | 3540 | 77741 |
+| **:globe_with_meridians: Domains** | 30 | 438 | 2925 | 50978 |
 | **:triangular_flag_on_post: IPs** | 3 | 183 | 665 | 25187 |
 | **:1234: SHA256** | 0 | 10 | 63 | 2055 |
 | **:1234: MD5** | 12 | 179 | 381 | 3759 |
@@ -138,7 +138,7 @@ If you like the project, please consider:
 | **#CobaltStrike** | 3 | 3 | 5 | 10484 |
 | **#Dcrat** | 0 | 0 | 0 | 404 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
-| **#Formbook** | 13 | 13 | 26 | 550 |
+| **#Formbook** | 47 | 47 | 60 | 584 |
 | **#GootLoader** | 0 | 0 | 0 | 0 |
 | **#GuLoader** | 0 | 0 | 3 | 56 |
 | **#IcedID** | 0 | 0 | 0 | 0 |
@@ -166,8 +166,8 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 28 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 62 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 8 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
