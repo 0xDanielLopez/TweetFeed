@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-22 10:19:43 (UTC)</th>
+        <th colspan=4>2026-02-22 10:41:42 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 621 | 3548 | 77749 |
-| **:globe_with_meridians: Domains** | 38 | 446 | 2933 | 50986 |
+| **:link: URLs** | 68 | 650 | 3577 | 77778 |
+| **:globe_with_meridians: Domains** | 67 | 475 | 2962 | 51015 |
 | **:triangular_flag_on_post: IPs** | 3 | 183 | 665 | 25187 |
 | **:1234: SHA256** | 1 | 11 | 64 | 2056 |
 | **:1234: MD5** | 12 | 179 | 381 | 3759 |
@@ -123,7 +123,7 @@ If you like the project, please consider:
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 82 | 567 | 72029 |
+| **#phishing** | 2 | 84 | 569 | 72031 |
 | **#scam** | 0 | 34 | 246 | 10803 |
 | **#opendir** | 0 | 31 | 63 | 788 |
 | **#malware** | 0 | 27 | 99 | 12186 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 77 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 135 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 10 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#4** | [-](https://twitter.com/-) | 0 |
