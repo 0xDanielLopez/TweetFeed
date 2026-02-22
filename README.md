@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-22 01:35:11 (UTC)</th>
+        <th colspan=4>2026-02-22 01:58:30 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -111,7 +111,7 @@ If you like the project, please consider:
 | **:globe_with_meridians: Domains** | 1 | 409 | 2896 | 50949 |
 | **:triangular_flag_on_post: IPs** | 0 | 180 | 662 | 25184 |
 | **:1234: SHA256** | 0 | 10 | 63 | 2055 |
-| **:1234: MD5** | 2 | 169 | 371 | 3749 |
+| **:1234: MD5** | 5 | 172 | 374 | 3752 |
 
 </div>
 
@@ -135,7 +135,7 @@ If you like the project, please consider:
 | **#AsyncRAT** | 0 | 10 | 68 | 2284 |
 | **#Batloader** | 0 | 0 | 0 | 0 |
 | **#BazarLoader** | 0 | 0 | 0 | 0 |
-| **#CobaltStrike** | 0 | 0 | 2 | 10481 |
+| **#CobaltStrike** | 3 | 3 | 5 | 10484 |
 | **#Dcrat** | 0 | 0 | 0 | 404 |
 | **#Emotet** | 0 | 0 | 0 | 0 |
 | **#Formbook** | 0 | 0 | 13 | 537 |
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [skocherhan](https://twitter.com/skocherhan) | 2 |
+| **#1** | [skocherhan](https://twitter.com/skocherhan) | 5 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 2 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
