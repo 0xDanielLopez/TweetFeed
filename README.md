@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-02-22 05:42:16 (UTC)</th>
+        <th colspan=4>2026-02-22 06:03:14 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,9 +107,9 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 4 | 586 | 3513 | 77714 |
-| **:globe_with_meridians: Domains** | 4 | 412 | 2899 | 50952 |
-| **:triangular_flag_on_post: IPs** | 0 | 180 | 662 | 25184 |
+| **:link: URLs** | 6 | 588 | 3515 | 77716 |
+| **:globe_with_meridians: Domains** | 6 | 414 | 2901 | 50954 |
+| **:triangular_flag_on_post: IPs** | 2 | 182 | 664 | 25186 |
 | **:1234: SHA256** | 0 | 10 | 63 | 2055 |
 | **:1234: MD5** | 11 | 178 | 380 | 3758 |
 
@@ -168,7 +168,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 13 |
 | **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 6 |
-| **#3** | [-](https://twitter.com/-) | 0 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 6 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
