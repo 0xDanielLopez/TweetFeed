@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-03-08 07:21:46 (UTC)</th>
+        <th colspan=4>2026-03-08 07:41:39 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 386 | 2306 | 73159 |
-| **:globe_with_meridians: Domains** | 2 | 280 | 1696 | 47497 |
+| **:link: URLs** | 4 | 387 | 2307 | 73160 |
+| **:globe_with_meridians: Domains** | 3 | 281 | 1697 | 47498 |
 | **:triangular_flag_on_post: IPs** | 0 | 113 | 644 | 24089 |
 | **:1234: SHA256** | 0 | 11 | 59 | 1865 |
 | **:1234: MD5** | 8 | 74 | 435 | 3816 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [skocherhan](https://twitter.com/skocherhan) | 8 |
-| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 5 |
+| **#2** | [urldna_bot](https://twitter.com/urldna_bot) | 7 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
 | **#5** | [-](https://twitter.com/-) | 0 |
