@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-03-15 17:37:55 (UTC)</th>
+        <th colspan=4>2026-03-15 17:59:11 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,10 +107,10 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 459 | 2237 | 71345 |
-| **:globe_with_meridians: Domains** | 14 | 366 | 1670 | 46136 |
+| **:link: URLs** | 17 | 460 | 2238 | 71346 |
+| **:globe_with_meridians: Domains** | 15 | 367 | 1671 | 46137 |
 | **:triangular_flag_on_post: IPs** | 4 | 136 | 617 | 23659 |
-| **:1234: SHA256** | 0 | 6 | 57 | 1768 |
+| **:1234: SHA256** | 1 | 7 | 58 | 1769 |
 | **:1234: MD5** | 1 | 21 | 375 | 3790 |
 
 </div>
@@ -169,8 +169,8 @@ If you like the project, please consider:
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
 | **#2** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 3 |
-| **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 2 |
-| **#5** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
+| **#4** | [g0njxa](https://twitter.com/g0njxa) | 3 |
+| **#5** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 2 |
 | **#6** | [@Phish_Destroy](https://twitter.com/@Phish_Destroy) | 6 |
 | **#7** | [@CarlyGriggs13](https://twitter.com/@CarlyGriggs13) | 4 |
 | **#8** | [@urldna_bot](https://twitter.com/@urldna_bot) | 2 |
