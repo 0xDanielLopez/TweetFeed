@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-03-15 19:03:46 (UTC)</th>
+        <th colspan=4>2026-03-15 19:25:56 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,11 +107,11 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 28 | 471 | 2249 | 71357 |
-| **:globe_with_meridians: Domains** | 25 | 377 | 1681 | 46147 |
+| **:link: URLs** | 29 | 472 | 2250 | 71358 |
+| **:globe_with_meridians: Domains** | 26 | 378 | 1682 | 46148 |
 | **:triangular_flag_on_post: IPs** | 4 | 136 | 617 | 23659 |
 | **:1234: SHA256** | 1 | 7 | 58 | 1769 |
-| **:1234: MD5** | 1 | 21 | 375 | 3790 |
+| **:1234: MD5** | 2 | 22 | 376 | 3791 |
 
 </div>
 
@@ -166,7 +166,7 @@ If you like the project, please consider:
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
+| **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 21 |
 | **#2** | [SarlackLab](https://twitter.com/SarlackLab) | 14 |
 | **#3** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#4** | [tial_cl](https://twitter.com/tial_cl) | 6 |
