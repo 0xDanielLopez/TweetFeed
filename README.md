@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-03-15 17:16:49 (UTC)</th>
+        <th colspan=4>2026-03-15 17:37:55 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -107,8 +107,8 @@ If you like the project, please consider:
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 458 | 2236 | 71344 |
-| **:globe_with_meridians: Domains** | 13 | 365 | 1669 | 46135 |
+| **:link: URLs** | 16 | 459 | 2237 | 71345 |
+| **:globe_with_meridians: Domains** | 14 | 366 | 1670 | 46136 |
 | **:triangular_flag_on_post: IPs** | 4 | 136 | 617 | 23659 |
 | **:1234: SHA256** | 0 | 6 | 57 | 1768 |
 | **:1234: MD5** | 1 | 21 | 375 | 3790 |
@@ -167,7 +167,7 @@ If you like the project, please consider:
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [urldna_bot](https://twitter.com/urldna_bot) | 18 |
-| **#2** | [skocherhan](https://twitter.com/skocherhan) | 9 |
+| **#2** | [skocherhan](https://twitter.com/skocherhan) | 11 |
 | **#3** | [harugasumi](https://twitter.com/harugasumi) | 3 |
 | **#4** | [FalconFeedsio](https://twitter.com/FalconFeedsio) | 2 |
 | **#5** | [Fact_Finder03](https://twitter.com/Fact_Finder03) | 1 |
