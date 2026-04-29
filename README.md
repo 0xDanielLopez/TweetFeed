@@ -45,7 +45,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-04-29 06:15:10 (UTC)</th>
+        <th colspan=4>2026-04-29 06:30:10 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -109,7 +109,7 @@ If you like the project, please consider:
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 7 | 329 | 1853 | 58646 |
 | **:globe_with_meridians: Domains** | 6 | 256 | 1374 | 38481 |
-| **:triangular_flag_on_post: IPs** | 3 | 123 | 755 | 20057 |
+| **:triangular_flag_on_post: IPs** | 4 | 124 | 756 | 20058 |
 | **:1234: SHA256** | 0 | 15 | 61 | 1252 |
 | **:1234: MD5** | 3 | 23 | 134 | 3342 |
 
