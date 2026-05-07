@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #ransomware IOC feed</title>
+      <link>https://tweetfeed.live/tag/ransomware/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #ransomware on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain — https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #ransomware IOC feed</title>
+         <link>https://tweetfeed.live/tag/ransomware/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/ransomware.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Thu, 07 May 2026 00:00:13 +0000</lastBuildDate>
+      <ttl>15</ttl>
+   </channel>
+</rss>
