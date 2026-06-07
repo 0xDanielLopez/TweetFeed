@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-06-07 05:00:17 (UTC)</th>
+        <th colspan=4>2026-06-07 05:15:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,9 +144,9 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 1264 | 7788 | 58287 |
-| **:globe_with_meridians: Domains** | 9 | 997 | 6916 | 41369 |
-| **:triangular_flag_on_post: IPs** | 1 | 211 | 853 | 14170 |
+| **:link: URLs** | 33 | 1288 | 7812 | 58311 |
+| **:globe_with_meridians: Domains** | 22 | 1010 | 6929 | 41382 |
+| **:triangular_flag_on_post: IPs** | 12 | 222 | 864 | 14181 |
 | **:1234: SHA256** | 1 | 139 | 488 | 1489 |
 | **:1234: MD5** | 0 | 22 | 126 | 2706 |
 
@@ -186,10 +186,10 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [patialavii](https://x.com/patialavii) | 11 |
-| **#2** | [urldna_bot](https://x.com/urldna_bot) | 6 |
-| **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#4** | [-](https://x.com/-) | 0 |
+| **#1** | [nahamike01](https://x.com/nahamike01) | 48 |
+| **#2** | [patialavii](https://x.com/patialavii) | 11 |
+| **#3** | [urldna_bot](https://x.com/urldna_bot) | 6 |
+| **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
