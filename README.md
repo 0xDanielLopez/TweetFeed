@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-06-07 07:30:18 (UTC)</th>
+        <th colspan=4>2026-06-07 07:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 36 | 1291 | 7815 | 58314 |
-| **:globe_with_meridians: Domains** | 24 | 1012 | 6931 | 41384 |
+| **:link: URLs** | 37 | 1292 | 7816 | 58315 |
+| **:globe_with_meridians: Domains** | 25 | 1013 | 6932 | 41385 |
 | **:triangular_flag_on_post: IPs** | 12 | 222 | 864 | 14181 |
 | **:1234: SHA256** | 3 | 141 | 490 | 1491 |
 | **:1234: MD5** | 0 | 22 | 126 | 2706 |
@@ -167,7 +167,7 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 | **#DPRK** | 0 | 1482 | 9586 | 10356 |
 | **#scam** | 8 | 147 | 494 | 7360 |
 | **#CobaltStrike** | 0 | 0 | 3 | 5649 |
-| **#malware** | 0 | 49 | 294 | 4057 |
+| **#malware** | 2 | 51 | 296 | 4059 |
 | **#Interactsh** | 0 | 0 | 0 | 1959 |
 | **#APT** | 0 | 19 | 143 | 1713 |
 | **#Remcos** | 0 | 0 | 23 | 1523 |
@@ -191,7 +191,7 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 | **#3** | [urldna_bot](https://x.com/urldna_bot) | 8 |
 | **#4** | [smica83](https://x.com/smica83) | 5 |
 | **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
