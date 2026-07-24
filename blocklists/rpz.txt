@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4423
-; Updated: 2026-07-24T05:15:22Z
+; Entries: 4424
+; Updated: 2026-07-24T05:30:22Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784870122 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784871022 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -304,6 +304,8 @@ aelyva.com CNAME .
 *.aelyva.com CNAME .
 aeon.ahzvenm.cn CNAME .
 *.aeon.ahzvenm.cn CNAME .
+aeon.aymmejx.cn CNAME .
+*.aeon.aymmejx.cn CNAME .
 aeon.ytepokk.cn CNAME .
 *.aeon.ytepokk.cn CNAME .
 aereseabtuariagob.top CNAME .
