@@ -1,5 +1,5 @@
 {
-  "count": 3346,
+  "count": 3377,
   "dead_tweets": {
     "2076952338955370806": {
       "attempts": 2,
@@ -2415,6 +2415,38 @@
       "type": "ip",
       "value": "151.243.219.156"
     },
+    "152.232.62.49": {
+      "confidence": 0.6,
+      "date": "2026-07-23 22:23:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "rat"
+      ],
+      "summary": "C2 endpoint at 152.232.62.49:3390 on AS55286 B2 Net Solutions (US).",
+      "threat_type": "c2",
+      "tweet_id": "2080418436992086051",
+      "type": "ip",
+      "value": "152.232.62.49"
+    },
+    "152.232.62.49:3390": {
+      "confidence": 0.6,
+      "date": "2026-07-23 22:23:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "rat"
+      ],
+      "summary": "C2 endpoint at 152.232.62.49:3390 on AS55286 B2 Net Solutions (US).",
+      "threat_type": "c2",
+      "tweet_id": "2080418436992086051",
+      "type": "url",
+      "value": "http://152.232.62.49:3390"
+    },
     "152.32.138.116": {
       "confidence": 0.93,
       "date": "2026-07-12 16:51:00",
@@ -3142,6 +3174,22 @@
       "tweet_id": "2077801434066911245",
       "type": "url",
       "value": "http://162.252.173.37:85/api/"
+    },
+    "162c8c9dd215a42a59aa83df9d3064d7": {
+      "confidence": 0.9,
+      "date": "2026-07-23 20:19:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": "HijackLoader",
+      "suggested_tags": [
+        "hijackloader",
+        "malware",
+        "trojan"
+      ],
+      "summary": "HijackLoader sample identified by MD5 162c8c9dd215a42a59aa83df9d3064d7.",
+      "threat_type": "malware",
+      "tweet_id": "2080387314358870089",
+      "type": "md5",
+      "value": "162c8c9dd215a42a59aa83df9d3064d7"
     },
     "163.245.218.93": {
       "confidence": 0.9,
@@ -3950,6 +3998,42 @@
       "type": "url",
       "value": "http://185.28.85.164:3000"
     },
+    "185.95.156.74": {
+      "confidence": 0.75,
+      "date": "2026-07-23 19:47:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK inside zip (ProtokolZatrimannya) fetches PowerShell dropper from 185.95.156.74; Gamaredon-linked infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2080379396712443952",
+      "type": "ip",
+      "value": "185.95.156.74"
+    },
+    "185.95.156.74/szch2107/westreader.ps1": {
+      "confidence": 0.75,
+      "date": "2026-07-23 19:47:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK inside zip (ProtokolZatrimannya) fetches PowerShell dropper from 185.95.156.74; Gamaredon-linked infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2080379396712443952",
+      "type": "url",
+      "value": "http://185.95.156.74/szch2107/westreader.ps1"
+    },
     "185.95.156.75": {
       "confidence": 0.6,
       "date": "2026-07-22 17:53:00",
@@ -3981,6 +4065,42 @@
       "tweet_id": "2079988294150951250",
       "type": "url",
       "value": "http://185.95.156.75/wiss1g4/footATM.ps1"
+    },
+    "185.95.156.76": {
+      "confidence": 0.75,
+      "date": "2026-07-23 19:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK (Spysok_Mayna.docx.lnk) drops PowerShell from 185.95.156.76/krr4g4/knittingdonation.ps1; Gamaredon-linked IP.",
+      "threat_type": "malware",
+      "tweet_id": "2080381006398238995",
+      "type": "ip",
+      "value": "185.95.156.76"
+    },
+    "185.95.156.76/krr4g4/knittingdonation.ps1": {
+      "confidence": 0.75,
+      "date": "2026-07-23 19:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK (Spysok_Mayna.docx.lnk) drops PowerShell from 185.95.156.76/krr4g4/knittingdonation.ps1; Gamaredon-linked IP.",
+      "threat_type": "malware",
+      "tweet_id": "2080381006398238995",
+      "type": "url",
+      "value": "http://185.95.156.76/krr4g4/knittingdonation.ps1"
     },
     "186.241.66.4": {
       "confidence": 0.7,
@@ -4952,6 +5072,22 @@
       "type": "domain",
       "value": "1passwordnewsletter.com"
     },
+    "1qx7r7mj78molew3.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "1qx7r7mj78molew3.dropboxx.us"
+    },
     "2.27.248.138": {
       "confidence": 0.75,
       "date": "2026-07-12 07:58:00",
@@ -5757,6 +5893,23 @@
       "tweet_id": "2080264963734516189",
       "type": "url",
       "value": "http://23.226.57.16"
+    },
+    "23.226.57.16:771": {
+      "confidence": 0.85,
+      "date": "2026-07-23 22:34:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": "ValleyRat",
+      "suggested_tags": [
+        "c2",
+        "rat",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ValleyRat C2 at 23.226.57.16:771 (AS138643, KH) linked to yuanbao_7.2.314_64x.zip dropper seen from Singapore.",
+      "threat_type": "c2",
+      "tweet_id": "2080421339278483693",
+      "type": "url",
+      "value": "http://23.226.57.16:771"
     },
     "23.26.201.54": {
       "confidence": 0.9,
@@ -6770,6 +6923,22 @@
       "tweet_id": "2079934157589709195",
       "type": "sha256",
       "value": "38cec7299bcbcc334633c87de5ed0d8355df8c73fadd26a8b5ca3862c2ea4357"
+    },
+    "38d8cygy7yl5kgvr.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "38d8cygy7yl5kgvr.dropboxx.us"
     },
     "396add01e02d5d834df8565606afe4c7535bd318d61350f67c1657d9dd62d5ae": {
       "confidence": 0.72,
@@ -10360,6 +10529,22 @@
       "type": "url",
       "value": "http://85.137.53.71"
     },
+    "85.239.149.16": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "url",
+      "value": "http://85.239.149.16"
+    },
     "86.107.168.127": {
       "confidence": 0.9,
       "date": "2026-07-13 20:05:00",
@@ -10751,6 +10936,24 @@
       "tweet_id": "2079673044516155664",
       "type": "url",
       "value": "http://89.34.90.99:56001"
+    },
+    "8a50ed3d9d9e90c971100e211b7f5c8c7128ccbf9164cf3bd1beed8a49da6ab6": {
+      "confidence": 0.75,
+      "date": "2026-07-23 19:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK (Spysok_Mayna.docx.lnk) drops PowerShell from 185.95.156.76/krr4g4/knittingdonation.ps1; Gamaredon-linked IP.",
+      "threat_type": "malware",
+      "tweet_id": "2080381006398238995",
+      "type": "sha256",
+      "value": "8a50ed3d9d9e90c971100e211b7f5c8c7128ccbf9164cf3bd1beed8a49da6ab6"
     },
     "8a5c4e15fd676de9cef0d1d20a2e5dfe864aeaf4be85239e9e1cb785b8d3d5e6": {
       "confidence": 0.8,
@@ -11245,6 +11448,24 @@
       "type": "sha256",
       "value": "95626cc9665d3acd3aa2991aee8e8028f8126c8fb3dce8a5079b6dd51d0d3b70"
     },
+    "962bd2fdde0752a0ba60650f3808a99a3dfe1068b0a8c7a50360134ea8bb1f92": {
+      "confidence": 0.65,
+      "date": "2026-07-23 19:51:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon"
+      ],
+      "summary": "Russian-language drone-themed LNK lure from Russia fetching remote payload; C2 IPs 195.133.53.98, 13.140.8.25, 78.153.149.152.",
+      "threat_type": "malware",
+      "tweet_id": "2080380264048394420",
+      "type": "sha256",
+      "value": "962bd2fdde0752a0ba60650f3808a99a3dfe1068b0a8c7a50360134ea8bb1f92"
+    },
     "965894996e2cb9be1e0ccc509e079e7eca072cbc4e68945beb00ff5979dda19c": {
       "confidence": 0.85,
       "date": "2026-07-23 09:54:00",
@@ -11523,6 +11744,24 @@
       "type": "sha256",
       "value": "9d8e67acc8362da1eb87339e548db45d8112175404df30b9960ecad208c329eb"
     },
+    "9dfabf218925dc71598897415dcbcce8": {
+      "confidence": 0.72,
+      "date": "2026-07-23 20:22:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK file (Spysok_Mayna.docx.lnk) fetching PowerShell dropper from 185.95.156.76, consistent with Gamaredon TTPs.",
+      "threat_type": "malware",
+      "tweet_id": "2080388083690672268",
+      "type": "md5",
+      "value": "9dfabf218925dc71598897415dcbcce8"
+    },
     "9e82e564a9654e224b8251a4bed4a456": {
       "confidence": 0.75,
       "date": "2026-07-12 10:58:00",
@@ -11666,6 +11905,22 @@
       "tweet_id": "2078395004809019903",
       "type": "sha256",
       "value": "a3f67197a98766b98a1f331d86e7a60a7516c720c97290c0f294b98757745364"
+    },
+    "a58e4a8366ab4084d8d5e74e11b9a6f1": {
+      "confidence": 0.9,
+      "date": "2026-07-23 20:31:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": "HijackLoader",
+      "suggested_tags": [
+        "hijackloader",
+        "malware",
+        "trojan"
+      ],
+      "summary": "HijackLoader and TinycallProxy sample identified by MD5 a58e4a8366ab4084d8d5e74e11b9a6f1.",
+      "threat_type": "malware",
+      "tweet_id": "2080390375131267140",
+      "type": "md5",
+      "value": "a58e4a8366ab4084d8d5e74e11b9a6f1"
     },
     "a68256638a3fe1a2ca48f7aad37da281f85f3a907ee234c28d1ccab0c25f2a7d": {
       "confidence": 0.4,
@@ -14568,6 +14823,22 @@
       "type": "url",
       "value": "http://axes.endl.site/adv2.php"
     },
+    "ayaya.beauty": {
+      "confidence": 0.75,
+      "date": "2026-07-23 22:27:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Infostealer campaign using multiple domains exfiltrating MAC address and machine ID; zip lure seen from Germany.",
+      "threat_type": "malware",
+      "tweet_id": "2080419659552080347",
+      "type": "domain",
+      "value": "ayaya.beauty"
+    },
     "azealousgreat.duckdns.org": {
       "confidence": 0.6,
       "date": "2026-07-22 17:58:00",
@@ -17027,6 +17298,22 @@
       "type": "domain",
       "value": "cloud.hat9ex.dns.army"
     },
+    "cmduwmuk8iyjhmq0.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "cmduwmuk8iyjhmq0.dropboxx.us"
+    },
     "cnaubria.com": {
       "confidence": 0.55,
       "date": "2026-07-21 15:33:00",
@@ -17521,6 +17808,37 @@
       "tweet_id": "2079508536132845897",
       "type": "domain",
       "value": "cucukekekre5335.dynuddns.net"
+    },
+    "cuddly-lamp.vercel.app": {
+      "confidence": 0.7,
+      "date": "2026-07-24 00:11:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "malware"
+      ],
+      "summary": "Vercel-hosted domain cuddly-lamp.vercel.app flagged as confirmed scam by web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2080445685883629801",
+      "type": "domain",
+      "value": "cuddly-lamp.vercel.app"
+    },
+    "culiao.lol": {
+      "confidence": 0.75,
+      "date": "2026-07-23 22:27:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Infostealer campaign using multiple domains exfiltrating MAC address and machine ID; zip lure seen from Germany.",
+      "threat_type": "malware",
+      "tweet_id": "2080419659552080347",
+      "type": "domain",
+      "value": "culiao.lol"
     },
     "cumbose.vngfzsoz.cn": {
       "confidence": 0.9,
@@ -18052,6 +18370,22 @@
       "tweet_id": "2076259925030809714",
       "type": "md5",
       "value": "dedd6d6b77ab093098050405ada305d8"
+    },
+    "default-ygg.patchy.moe": {
+      "confidence": 0.75,
+      "date": "2026-07-23 22:27:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Infostealer campaign using multiple domains exfiltrating MAC address and machine ID; zip lure seen from Germany.",
+      "threat_type": "malware",
+      "tweet_id": "2080419659552080347",
+      "type": "domain",
+      "value": "default-ygg.patchy.moe"
     },
     "delivery-info-review.dns.army": {
       "confidence": 0.93,
@@ -18957,6 +19291,22 @@
       "type": "domain",
       "value": "driving-approach-sword-ave.trycloudflare.com"
     },
+    "dropboxi.com": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "dropboxi.com"
+    },
     "dsefer.dewqa.club": {
       "confidence": 0.9,
       "date": "2026-07-15 01:14:00",
@@ -19164,6 +19514,24 @@
       "tweet_id": "2080043274212102332",
       "type": "sha256",
       "value": "e2f78e3cd83f5c1869cd1f28db9051b786955c01243a64c570356d7e6d70a2f5"
+    },
+    "e388e7ce2449ba4100483186d9242e96f0cf74196d2519d37b581df682c57de6": {
+      "confidence": 0.75,
+      "date": "2026-07-23 19:47:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "rat",
+        "gamaredon",
+        "apt"
+      ],
+      "summary": "Ukrainian-lure LNK inside zip (ProtokolZatrimannya) fetches PowerShell dropper from 185.95.156.74; Gamaredon-linked infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2080379396712443952",
+      "type": "sha256",
+      "value": "e388e7ce2449ba4100483186d9242e96f0cf74196d2519d37b581df682c57de6"
     },
     "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
       "confidence": 0.25,
@@ -22694,6 +23062,23 @@
       "type": "domain",
       "value": "fireblocksdocusign.icu"
     },
+    "flimora.top": {
+      "confidence": 0.92,
+      "date": "2026-07-23 21:23:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": "AsyncRat",
+      "suggested_tags": [
+        "asyncrat",
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "AsyncRat C2 domain flimora.top listening on multiple ports including 443, 80, 8080, 8443.",
+      "threat_type": "c2",
+      "tweet_id": "2080403531127759294",
+      "type": "domain",
+      "value": "flimora.top"
+    },
     "flow-apcoa.help": {
       "confidence": 0.95,
       "date": "2026-07-22 21:19:00",
@@ -25564,6 +25949,22 @@
       "type": "domain",
       "value": "iflat0pd7wo7mnrm.ntpx12ee.dns.army"
     },
+    "igkyvvj3yq.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "igkyvvj3yq.dropboxx.us"
+    },
     "igyeu61mb4mt6pq9.enav.itpxops.dynv6.net": {
       "confidence": 0.92,
       "date": "2026-07-12 16:51:00",
@@ -27134,6 +27535,22 @@
       "tweet_id": "2079590696932024660",
       "type": "domain",
       "value": "k-team.cloud"
+    },
+    "k02jmug.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "k02jmug.dropboxx.us"
     },
     "k0kyrmfcou.ntsgo.dynuddns.net": {
       "confidence": 0.92,
@@ -28864,6 +29281,22 @@
       "type": "domain",
       "value": "mail.appvpensan.com"
     },
+    "mail.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "mail.dropboxx.us"
+    },
     "mail.trimnt.com": {
       "confidence": 0.85,
       "date": "2026-07-17 14:05:00",
@@ -28988,6 +29421,21 @@
       "tweet_id": "2079590696932024660",
       "type": "domain",
       "value": "markushepp.de"
+    },
+    "marmiorobicl.it": {
+      "confidence": 0.92,
+      "date": "2026-07-23 22:16:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Fake Microsoft Teams page at marmiorobicl.it abusing device-code authentication flow to steal Microsoft credentials (AiTM).",
+      "threat_type": "phishing",
+      "tweet_id": "2080416771941540050",
+      "type": "domain",
+      "value": "marmiorobicl.it"
     },
     "marqueq.lol": {
       "confidence": 0.93,
@@ -40275,6 +40723,22 @@
       "tweet_id": "2076269554972700946",
       "type": "domain",
       "value": "pat-re-on.site"
+    },
+    "patchy.moe": {
+      "confidence": 0.75,
+      "date": "2026-07-23 22:27:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Infostealer campaign using multiple domains exfiltrating MAC address and machine ID; zip lure seen from Germany.",
+      "threat_type": "malware",
+      "tweet_id": "2080419659552080347",
+      "type": "domain",
+      "value": "patchy.moe"
     },
     "pavanmtls.duckdns.org": {
       "confidence": 0.75,
@@ -53058,6 +53522,22 @@
       "type": "domain",
       "value": "y4e0e.v6.navy"
     },
+    "y8lf207nc5p9nnjz.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "y8lf207nc5p9nnjz.dropboxx.us"
+    },
     "y9v3iz4bi4.ntxreflist.dynu.net": {
       "confidence": 0.93,
       "date": "2026-07-12 16:59:00",
@@ -53597,6 +54077,22 @@
       "type": "url",
       "value": "https://zhuodashufa.com/safety/update/"
     },
+    "zmctqosqlqccayhq.dropboxx.us": {
+      "confidence": 0.75,
+      "date": "2026-07-23 20:54:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam",
+        "malware"
+      ],
+      "summary": "Dropbox-impersonating phishing/malware infrastructure across multiple dropboxx.us subdomains and dropboxi.com, hosted on DE IPs.",
+      "threat_type": "phishing",
+      "tweet_id": "2080396099043348746",
+      "type": "domain",
+      "value": "zmctqosqlqccayhq.dropboxx.us"
+    },
     "zohooenterprise.com": {
       "confidence": 0.87,
       "date": "2026-07-12 11:40:00",
@@ -53985,6 +54481,22 @@
       "type": "domain",
       "value": "zzddwzm.cn"
     },
+    "zzls.xyz": {
+      "confidence": 0.75,
+      "date": "2026-07-23 22:27:00",
+      "enriched_at": "2026-07-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Infostealer campaign using multiple domains exfiltrating MAC address and machine ID; zip lure seen from Germany.",
+      "threat_type": "malware",
+      "tweet_id": "2080419659552080347",
+      "type": "domain",
+      "value": "zzls.xyz"
+    },
     "\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u8acb\u6c42\u66f8.zip": {
       "confidence": 0.72,
       "date": "2026-07-21 13:31:00",
@@ -54048,6 +54560,6 @@
       "value": "\u8acb\u6c42\u66f8.zip"
     }
   },
-  "generated_at": "2026-07-23T18:40:03Z",
+  "generated_at": "2026-07-24T00:40:04Z",
   "window_days": 30
 }
