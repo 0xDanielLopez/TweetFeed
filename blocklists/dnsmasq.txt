@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4838
-# Updated: 2026-07-24T14:15:33Z
+# Entries: 4839
+# Updated: 2026-07-24T14:30:32Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -4618,6 +4618,7 @@ address=/wrenixo.cfd/0.0.0.0
 address=/ws.geschmeidig6307-kotyatanet.sbs/0.0.0.0
 address=/wsbv.lat/0.0.0.0
 address=/wscript.shell.run/0.0.0.0
+address=/wslog.com.br/0.0.0.0
 address=/wt.chaoweinet.cn/0.0.0.0
 address=/wtwabq60q6zya592w83v7s.live/0.0.0.0
 address=/wuxiongmeme.top/0.0.0.0

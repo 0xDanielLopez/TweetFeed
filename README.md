@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 14:15:33 (UTC)</th>
+        <th colspan=4>2026-07-24 14:30:32 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 531 | 1660 | 6177 | 54704 |
-| **:globe_with_meridians: Domains** | 469 | 1441 | 5219 | 40955 |
+| **:link: URLs** | 532 | 1661 | 6178 | 54705 |
+| **:globe_with_meridians: Domains** | 470 | 1442 | 5220 | 40956 |
 | **:triangular_flag_on_post: IPs** | 4 | 122 | 722 | 11415 |
 | **:1234: SHA256** | 8 | 148 | 554 | 2323 |
 | **:1234: MD5** | 12 | 32 | 212 | 2557 |
@@ -161,7 +161,7 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 902 | 1726 | 5773 | 36811 |
+| **#phishing** | 904 | 1728 | 5775 | 36813 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
 | **#C2** | 11 | 188 | 453 | 14258 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |

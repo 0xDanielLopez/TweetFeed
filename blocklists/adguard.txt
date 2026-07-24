@@ -1,7 +1,7 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 4838
-# Updated: 2026-07-24T14:15:33Z
+# Entries: 4839
+# Updated: 2026-07-24T14:30:32Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -4618,6 +4618,7 @@
 ||ws.geschmeidig6307-kotyatanet.sbs^
 ||wsbv.lat^
 ||wscript.shell.run^
+||wslog.com.br^
 ||wt.chaoweinet.cn^
 ||wtwabq60q6zya592w83v7s.live^
 ||wuxiongmeme.top^
