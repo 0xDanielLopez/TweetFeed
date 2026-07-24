@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 13:45:29 (UTC)</th>
+        <th colspan=4>2026-07-24 14:00:31 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 520 | 1649 | 6166 | 54693 |
-| **:globe_with_meridians: Domains** | 459 | 1431 | 5209 | 40945 |
+| **:link: URLs** | 521 | 1650 | 6167 | 54694 |
+| **:globe_with_meridians: Domains** | 460 | 1432 | 5210 | 40946 |
 | **:triangular_flag_on_post: IPs** | 4 | 122 | 722 | 11415 |
 | **:1234: SHA256** | 8 | 148 | 554 | 2323 |
 | **:1234: MD5** | 12 | 32 | 212 | 2557 |
@@ -188,8 +188,8 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 | :--- | :---: | :---: |
 | **#1** | [skocherhan](https://x.com/skocherhan) | 880 |
 | **#2** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 62 |
-| **#3** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |
-| **#4** | [smica83](https://x.com/smica83) | 10 |
+| **#3** | [smica83](https://x.com/smica83) | 12 |
+| **#4** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |
 | **#5** | [patialavii](https://x.com/patialavii) | 8 |
 | **#6** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#7** | [masaomi346](https://x.com/masaomi346) | 6 |
