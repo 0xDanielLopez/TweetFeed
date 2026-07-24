@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4422
-; Updated: 2026-07-24T05:00:23Z
+; Entries: 4423
+; Updated: 2026-07-24T05:15:22Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784869223 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784870122 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -8616,6 +8616,8 @@ yudts.eu.cc CNAME .
 *.yudts.eu.cc CNAME .
 yugalpachori.in CNAME .
 *.yugalpachori.in CNAME .
+yuhkdsmylzqx.top CNAME .
+*.yuhkdsmylzqx.top CNAME .
 yun-feiji.com.cn CNAME .
 *.yun-feiji.com.cn CNAME .
 yunczfkm.cyou CNAME .
