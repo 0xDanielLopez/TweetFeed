@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4415
-; Updated: 2026-07-24T00:30:15Z
+; Entries: 4417
+; Updated: 2026-07-24T01:45:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784853015 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784857516 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -262,6 +262,8 @@ accountinprogresse.s487d9.com CNAME .
 *.accountinprogresse.s487d9.com CNAME .
 accounts.appearance.vu CNAME .
 *.accounts.appearance.vu CNAME .
+accounts.grjiks.top CNAME .
+*.accounts.grjiks.top CNAME .
 accounts.webdocudux.icu CNAME .
 *.accounts.webdocudux.icu CNAME .
 accreditedrec.xyz CNAME .
@@ -1760,6 +1762,8 @@ dp-zhifeiji.com.cn CNAME .
 *.dp-zhifeiji.com.cn CNAME .
 dpd.dpnpl.com CNAME .
 *.dpd.dpnpl.com CNAME .
+dpfamilylawfirm.s3.us-east-2.amazonaws.com CNAME .
+*.dpfamilylawfirm.s3.us-east-2.amazonaws.com CNAME .
 dq-zhifeiji.com.cn CNAME .
 *.dq-zhifeiji.com.cn CNAME .
 dr-zhifeiji.com.cn CNAME .

@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 01:30:16 (UTC)</th>
+        <th colspan=4>2026-07-24 01:45:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 1130 | 5647 | 54174 |
-| **:globe_with_meridians: Domains** | 1 | 973 | 4751 | 40487 |
+| **:link: URLs** | 3 | 1132 | 5649 | 54176 |
+| **:globe_with_meridians: Domains** | 3 | 975 | 4753 | 40489 |
 | **:triangular_flag_on_post: IPs** | 0 | 118 | 718 | 11411 |
 | **:1234: SHA256** | 0 | 140 | 546 | 2315 |
 | **:1234: MD5** | 0 | 20 | 200 | 2545 |
@@ -161,7 +161,7 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 0 | 824 | 4871 | 35909 |
+| **#phishing** | 4 | 828 | 4875 | 35913 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
 | **#C2** | 0 | 177 | 442 | 14247 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |
@@ -186,8 +186,8 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#2** | [-](https://x.com/-) | 0 |
+| **#1** | [patialavii](https://x.com/patialavii) | 4 |
+| **#2** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#3** | [-](https://x.com/-) | 0 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
