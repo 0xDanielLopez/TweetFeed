@@ -1,6 +1,358 @@
 {
-  "campaign_count": 18,
+  "campaign_count": 24,
   "campaigns": [
+    {
+      "anchors": {
+        "registered_domains": [
+          "232323.eu.org",
+          "5001.zip",
+          "ajvcu.cn",
+          "apcconstruction.com",
+          "audiosnws.com",
+          "auth-id-browser.info",
+          "bitbrarwser.com",
+          "catapulto.tech",
+          "computer-tech.net",
+          "docs163.com",
+          "dynamichorizon.app",
+          "filpack.fr",
+          "jarretelvankortrijk.be",
+          "kimi.page",
+          "ndiewh.com",
+          "panychurasc0.com",
+          "playcomla.com.ar",
+          "pub-cc9d5dea66b0416b9dea589e3bdd8f2e.r2.dev",
+          "renaultsatelite.com.mx",
+          "safeguard829102.icu",
+          "shopleta.ru",
+          "vpu.baby"
+        ],
+        "tags": [
+          "#ClickFix",
+          "#Vidar"
+        ],
+        "url_path_patterns": [
+          "/Client.hta",
+          "/ConnectWiseControl.Client.exe",
+          "/N.zip",
+          "/N_drv.bat",
+          "/N_ftp.bat",
+          "/N_smb.bat",
+          "/NrwryyN-Nvyvayjx-hwNuuuNv-NdgkmeNr/Safe-N.zip",
+          "/ORIGINAL/N.exe",
+          "/RjNhPQQOhiLfNQci",
+          "/Safe-N.zip",
+          "/XinPu.zip",
+          "/aNeNdeNdNbN",
+          "/app.any.run/tasks",
+          "/auth/recovery.hta",
+          "/handler.php",
+          "/menu.bat",
+          "/page",
+          "/portal",
+          "/run.bat",
+          "/stiller.exe",
+          "/updatechrome.exe",
+          "/verification.html"
+        ]
+      },
+      "confidence": "high",
+      "context": "A ClickFix social engineering campaign delivers Vidar stealer payloads through staged batch scripts, ZIP archives, and HTA files hosted across more than 20 domains, with ConnectWise Control client binaries also present in the payload infrastructure. Victims are directed to fake browser verification pages that inject clipboard commands; payload staging paths follow consistent naming conventions including N.zip, N_drv.bat, N_smb.bat, and N_ftp.bat. Six researchers reported 96 IOCs spanning July 18 to July 23.",
+      "first_seen": "2026-07-18",
+      "id": "tfc-f8e0c948e13d",
+      "ioc_count": 96,
+      "iocs": [
+        {
+          "date": "2026-07-23 14:47:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080303722727629142",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://helpdesk.catapulto.tech/portal/?id=<ID>&tag=psping"
+        },
+        {
+          "date": "2026-07-23 14:47:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080303722727629142",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://helpdesk.catapulto.tech/handler.php"
+        },
+        {
+          "date": "2026-07-23 14:47:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080303722727629142",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://helpdesk.catapulto.tech"
+        },
+        {
+          "date": "2026-07-23 14:47:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080303722727629142",
+          "type": "domain",
+          "user": "Malwarehunterr",
+          "value": "helpdesk.catapulto.tech"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "domain",
+          "user": "Malwarehunterr",
+          "value": "safeguard829102.icu"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "domain",
+          "user": "Malwarehunterr",
+          "value": "pub-cc9d5dea66b0416b9dea589e3bdd8f2e.r2.dev"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://safeguard829102.icu/verification.html"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://pub-cc9d5dea66b0416b9dea589e3bdd8f2e.r2.dev/Safe-1.zip"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://65.21.208.199/Rj6hPQQOhiLf9Qci"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://65.21.208.199"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://135.181.127.216/94rwryy7-6vyvayjx-hw6uuu6v-6dgkme2r/Safe-1.zip"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://135.181.127.216"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "sha256",
+          "user": "Malwarehunterr",
+          "value": "be2503e89f34fa3465632f691c073c3f5ba835dd3e59fc3cb0ae7ba33a485766"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "sha256",
+          "user": "Malwarehunterr",
+          "value": "9f57ce68fb4ad9416c78bb2c90f4efae1a6fadf2826caa07caa9e06491181b55"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "sha256",
+          "user": "Malwarehunterr",
+          "value": "8c73889ebe685824f43273130eb8fdcc42267bf34c76fe6fe74fdb1810b18b52"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "ip",
+          "user": "Malwarehunterr",
+          "value": "65.21.208.199"
+        },
+        {
+          "date": "2026-07-23 12:58:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080276380986872284",
+          "type": "ip",
+          "user": "Malwarehunterr",
+          "value": "135.181.127.216"
+        },
+        {
+          "date": "2026-07-22 15:21:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
+          "type": "url",
+          "user": "ThreatOpsX",
+          "value": "https://filpack.fr"
+        },
+        {
+          "date": "2026-07-22 15:21:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
+          "type": "url",
+          "user": "ThreatOpsX",
+          "value": "http://95.85.238.57:8080/stiller.exe"
+        },
+        {
+          "date": "2026-07-22 15:21:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
+          "type": "domain",
+          "user": "ThreatOpsX",
+          "value": "filpack.fr"
+        },
+        {
+          "date": "2026-07-22 15:21:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
+          "type": "ip",
+          "user": "ThreatOpsX",
+          "value": "95.85.238.57"
+        },
+        {
+          "date": "2026-07-21 17:38:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/MarceloRivero/status/2062295320722055512",
+          "type": "url",
+          "user": "MarceloRivero",
+          "value": "http://dynamichorizon.app"
+        },
+        {
+          "date": "2026-07-21 17:38:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/MarceloRivero/status/2062295320722055512",
+          "type": "domain",
+          "user": "MarceloRivero",
+          "value": "dynamichorizon.app"
+        },
+        {
+          "date": "2026-07-20 22:34:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://audiosnws.com"
+        },
+        {
+          "date": "2026-07-20 22:34:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://172.86.107.229:3000"
+        }
+      ],
+      "last_seen": "2026-07-23",
+      "member_cluster_ids": [
+        "tfc-f8e0c948e13d"
+      ],
+      "name": "ClickFix AiTM phishing via Russian-domain infrastructure",
+      "reporters": [
+        "James_inthe_box",
+        "Malwarehunterr",
+        "MarceloRivero",
+        "ThreatOpsX",
+        "muha2xmad",
+        "skocherhan"
+      ],
+      "tags": [
+        "#ClickFix",
+        "#Vidar",
+        "#malware",
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 27,
+        "ip": 6,
+        "sha256": 12,
+        "url": 51
+      }
+    },
     {
       "anchors": {
         "registered_domains": [
@@ -24,6 +376,7 @@
           "cucukekekre5335.dynuddns.net",
           "eromefotosprivadas.sbs",
           "fddfdf353.dynuddns.net",
+          "flimora.top",
           "fsocietyandtools.workers.dev",
           "getthebreather.io",
           "keobongdaworldcup2026.com",
@@ -50,11 +403,31 @@
         ]
       },
       "confidence": "medium",
-      "context": "AsyncRAT and DCrat payloads communicate via C2 infrastructure spread across multiple free DDNS providers including dynuddns.com, bumbleshrimp.com, ddnsguru.com, and 1cooldns.com, alongside a shared listener at 157.10.53.213 on ports 443 and 8080. A World Cup 2026-themed lure domain (keobongdaworldcup2026.com) is also present, consistent with social engineering timed to high-traffic sports events. Two researchers reported 93 IOCs between July 20 and July 21.",
+      "context": "AsyncRAT and DCrat payloads communicate via C2 nodes distributed across multiple free DDNS providers including dynuddns.com, bumbleshrimp.com, ddnsguru.com, and 1cooldns.com, alongside a shared listener at 157.10.53.213 on ports 443 and 8080. A World Cup 2026-themed lure domain (keobongdaworldcup2026.com) is also associated, consistent with social engineering timed to high-traffic events. Two researchers reported 95 IOCs between July 20 and July 23.",
       "first_seen": "2026-07-20",
       "id": "tfc-ed88d34356b8",
-      "ioc_count": 93,
+      "ioc_count": 95,
       "iocs": [
+        {
+          "date": "2026-07-23 21:23:00",
+          "tags": [
+            "#AsyncRAT"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2080403531127759294",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://flimora.top"
+        },
+        {
+          "date": "2026-07-23 21:23:00",
+          "tags": [
+            "#AsyncRAT"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2080403531127759294",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "flimora.top"
+        },
         {
           "date": "2026-07-21 13:05:00",
           "tags": [
@@ -290,29 +663,9 @@
           "type": "url",
           "user": "skocherhan",
           "value": "http://kijijjicc4.bumbleshrimp.com"
-        },
-        {
-          "date": "2026-07-21 10:07:00",
-          "tags": [
-            "#AsyncRAT"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079508536132845897",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://fsocietyandtools.workers.dev"
-        },
-        {
-          "date": "2026-07-21 10:07:00",
-          "tags": [
-            "#AsyncRAT"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079508536132845897",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://fddfdf353.dynuddns.net"
         }
       ],
-      "last_seen": "2026-07-21",
+      "last_seen": "2026-07-23",
       "member_cluster_ids": [
         "tfc-ed88d34356b8"
       ],
@@ -328,607 +681,10 @@
       ],
       "targeted_brand": null,
       "types": {
-        "domain": 37,
+        "domain": 38,
         "ip": 6,
         "sha256": 1,
-        "url": 49
-      }
-    },
-    {
-      "anchors": {
-        "registered_domains": [
-          "232323.eu.org",
-          "5001.zip",
-          "ajvcu.cn",
-          "apcconstruction.com",
-          "audiosnws.com",
-          "auth-id-browser.info",
-          "bitbrarwser.com",
-          "computer-tech.net",
-          "docs163.com",
-          "dynamichorizon.app",
-          "filpack.fr",
-          "jarretelvankortrijk.be",
-          "kimi.page",
-          "ndiewh.com",
-          "panychurasc0.com",
-          "playcomla.com.ar",
-          "renaultsatelite.com.mx",
-          "shopleta.ru",
-          "vpu.baby"
-        ],
-        "tags": [
-          "#ClickFix",
-          "#Vidar"
-        ],
-        "url_path_patterns": [
-          "/Client.hta",
-          "/ConnectWiseControl.Client.exe",
-          "/N.zip",
-          "/N_drv.bat",
-          "/N_ftp.bat",
-          "/N_smb.bat",
-          "/ORIGINAL/N.exe",
-          "/XinPu.zip",
-          "/aNeNdeNdNbN",
-          "/app.any.run/tasks",
-          "/auth/recovery.hta",
-          "/menu.bat",
-          "/page",
-          "/run.bat",
-          "/stiller.exe",
-          "/updatechrome.exe"
-        ]
-      },
-      "confidence": "high",
-      "context": "A ClickFix campaign delivers Vidar stealer payloads via staged batch scripts, ZIP archives, and HTA files. Victims execute clipboard-injected commands after interacting with a fake browser verification page; payload files follow consistent naming conventions including N.zip, N_drv.bat, N_smb.bat, and N_ftp.bat. Infrastructure includes shopleta.ru and panychurasc0.com; six researchers reported 79 IOCs between July 18 and July 22.",
-      "first_seen": "2026-07-18",
-      "id": "tfc-f8e0c948e13d",
-      "ioc_count": 79,
-      "iocs": [
-        {
-          "date": "2026-07-22 15:21:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
-          "type": "url",
-          "user": "ThreatOpsX",
-          "value": "https://filpack.fr"
-        },
-        {
-          "date": "2026-07-22 15:21:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
-          "type": "url",
-          "user": "ThreatOpsX",
-          "value": "http://95.85.238.57:8080/stiller.exe"
-        },
-        {
-          "date": "2026-07-22 15:21:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
-          "type": "domain",
-          "user": "ThreatOpsX",
-          "value": "filpack.fr"
-        },
-        {
-          "date": "2026-07-22 15:21:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/ThreatOpsX/status/2079949926876823789",
-          "type": "ip",
-          "user": "ThreatOpsX",
-          "value": "95.85.238.57"
-        },
-        {
-          "date": "2026-07-21 17:38:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/MarceloRivero/status/2062295320722055512",
-          "type": "url",
-          "user": "MarceloRivero",
-          "value": "http://dynamichorizon.app"
-        },
-        {
-          "date": "2026-07-21 17:38:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/MarceloRivero/status/2062295320722055512",
-          "type": "domain",
-          "user": "MarceloRivero",
-          "value": "dynamichorizon.app"
-        },
-        {
-          "date": "2026-07-20 22:34:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "https://audiosnws.com"
-        },
-        {
-          "date": "2026-07-20 22:34:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://172.86.107.229:3000"
-        },
-        {
-          "date": "2026-07-20 22:34:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
-          "type": "sha256",
-          "user": "Malwarehunterr",
-          "value": "e7ea16e2e4e5b04606cddc28baf53cf400eea46fb1d7be39c55ffd54711b3c2e"
-        },
-        {
-          "date": "2026-07-20 22:34:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
-          "type": "domain",
-          "user": "Malwarehunterr",
-          "value": "audiosnws.com"
-        },
-        {
-          "date": "2026-07-20 22:34:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079334098456412314",
-          "type": "ip",
-          "user": "Malwarehunterr",
-          "value": "172.86.107.229"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "domain",
-          "user": "Malwarehunterr",
-          "value": "relay.computer-tech.net:8041"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "domain",
-          "user": "Malwarehunterr",
-          "value": "relay.computer-tech.net"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://relay.computer-tech.net:8041"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://relay.computer-tech.net"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://138.124.93.26/ConnectWiseControl.Client.exe"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://138.124.93.26/Client.hta"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://138.124.93.26"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "sha256",
-          "user": "Malwarehunterr",
-          "value": "a752682e45b0917cf5e81b6f2510e507068ca0b3a5f5188498519bbe50e9c24e"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "sha256",
-          "user": "Malwarehunterr",
-          "value": "40177ce3847b97d7a2619e0698ebe180938357149036bafa8787444707f25be8"
-        },
-        {
-          "date": "2026-07-20 19:28:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079287390959776116",
-          "type": "ip",
-          "user": "Malwarehunterr",
-          "value": "138.124.93.26"
-        },
-        {
-          "date": "2026-07-20 17:44:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/muha2xmad/status/2079261142069682606",
-          "type": "url",
-          "user": "muha2xmad",
-          "value": "http://auth-id-browser.info/a165e6de98d386b7"
-        },
-        {
-          "date": "2026-07-20 17:44:00",
-          "tags": [
-            "#ClickFix"
-          ],
-          "tweet": "https://x.com/muha2xmad/status/2079261142069682606",
-          "type": "domain",
-          "user": "muha2xmad",
-          "value": "auth-id-browser.info"
-        },
-        {
-          "date": "2026-07-20 17:38:00",
-          "tags": [
-            "#ClickFix",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079259574507626680",
-          "type": "domain",
-          "user": "Malwarehunterr",
-          "value": "t43wmtq3rv5rs.kimi.page"
-        },
-        {
-          "date": "2026-07-20 17:38:00",
-          "tags": [
-            "#ClickFix",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2079259574507626680",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "https://t43wmtq3rv5rs.kimi.page/auth/recovery.hta"
-        }
-      ],
-      "last_seen": "2026-07-22",
-      "member_cluster_ids": [
-        "tfc-f8e0c948e13d"
-      ],
-      "name": "ClickFix AiTM phishing via Russian-domain infrastructure",
-      "reporters": [
-        "James_inthe_box",
-        "Malwarehunterr",
-        "MarceloRivero",
-        "ThreatOpsX",
-        "muha2xmad",
-        "skocherhan"
-      ],
-      "tags": [
-        "#ClickFix",
-        "#Vidar",
-        "#malware",
-        "#phishing"
-      ],
-      "targeted_brand": null,
-      "types": {
-        "domain": 24,
-        "ip": 4,
-        "sha256": 9,
-        "url": 42
-      }
-    },
-    {
-      "anchors": {
-        "registered_domains": [
-          "0djedia.duckdns.org",
-          "230528.top",
-          "3jqa0awh.duckdns.org",
-          "7jbockzc.duckdns.org",
-          "ghj44hs.github.io",
-          "ishlrk27.github.io",
-          "ngnwenh.top"
-        ],
-        "tags": [
-          "#Android"
-        ],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "An Android malware cluster uses duckdns.org dynamic DNS subdomains and attacker-controlled GitHub Pages (github.io) alongside .top domains for command-and-control communication. Multiple MD5 and SHA-256 hashes indicate several associated samples in active circulation. Three researchers reported 20 IOCs between July 17 and July 22.",
-      "first_seen": "2026-07-17",
-      "id": "tfc-12890342f855",
-      "ioc_count": 20,
-      "iocs": [
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "ishlrk27.github.io"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://ishlrk27.github.io"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://ghj44hs.github.io"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://a.ngnwenh.top"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://a.230528.top"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://7jbockzc.duckdns.org"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://3jqa0awh.duckdns.org"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://0djedia.duckdns.org"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "ghj44hs.github.io"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "a.ngnwenh.top"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "a.230528.top"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "7jbockzc.duckdns.org"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "3jqa0awh.duckdns.org"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "md5",
-          "user": "skocherhan",
-          "value": "139912756c7b0b4f9fbf7dab562f1852"
-        },
-        {
-          "date": "2026-07-22 08:33:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "0djedia.duckdns.org"
-        },
-        {
-          "date": "2026-07-22 07:21:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/d1v35hresearch/status/2079829287109296521",
-          "type": "sha256",
-          "user": "d1v35hresearch",
-          "value": "104447278779517e2b397a18d501685ae61a9da84abe1c180ff9bb67a5a0f0fc"
-        },
-        {
-          "date": "2026-07-17 07:43:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/smica83/status/2078022693757108299",
-          "type": "sha256",
-          "user": "smica83",
-          "value": "c6528aba9265127234f36dab178d1688b541c1878ba3093ddd7d5b84535a9d76"
-        },
-        {
-          "date": "2026-07-17 07:43:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/smica83/status/2078022693757108299",
-          "type": "sha256",
-          "user": "smica83",
-          "value": "974974cb3771f3511b28056d6170d30536eefe022304eeaac4e47d4b598f76b0"
-        },
-        {
-          "date": "2026-07-17 07:43:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/d1v35hresearch/status/2077997483062677742",
-          "type": "md5",
-          "user": "d1v35hresearch",
-          "value": "9694294addbe58be93ddbb6cabc499ce"
-        },
-        {
-          "date": "2026-07-17 07:43:00",
-          "tags": [
-            "#Android",
-            "#malware"
-          ],
-          "tweet": "https://x.com/d1v35hresearch/status/2077997483062677742",
-          "type": "md5",
-          "user": "d1v35hresearch",
-          "value": "58330aaf1f533e9fe03b6355c60347b4"
-        }
-      ],
-      "last_seen": "2026-07-22",
-      "member_cluster_ids": [
-        "tfc-12890342f855"
-      ],
-      "name": "Android malware cluster using duckdns and GitHub Pages for C2",
-      "reporters": [
-        "d1v35hresearch",
-        "skocherhan",
-        "smica83"
-      ],
-      "tags": [
-        "#Android",
-        "#malware"
-      ],
-      "targeted_brand": null,
-      "types": {
-        "domain": 7,
-        "md5": 3,
-        "sha256": 3,
-        "url": 7
+        "url": 50
       }
     },
     {
@@ -940,7 +696,7 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "A single domain, lestrani.de, hosts subdomains impersonating at least five European organizations: Agenzia delle Entrate (Italian tax authority), ANTAI amendes (French road fines authority), Elster/Finanzamt (German tax portal), Commerzbank (German bank), and AXA insurance. The multi-country, multi-brand abuse of a single base domain is consistent with a phishing kit deployed by one actor or service running parallel credential-harvest pages for European victims across different national contexts. One researcher reported 18 IOCs on July 20.",
+      "context": "A single domain, lestrani.de, hosts subdomains impersonating at least five European organizations: Agenzia delle Entrate (Italian tax authority), ANTAI amendes (French road fines authority), Elster/Finanzamt (German tax portal), Commerzbank (German bank), and AXA insurance. The multi-country, multi-brand abuse of a single base domain is consistent with a phishing kit deployed by one actor running parallel credential-harvest pages targeting European victims across different national contexts. One researcher reported 18 IOCs on July 20.",
       "first_seen": "2026-07-20",
       "id": "tfc-4681bab591c1",
       "ioc_count": 18,
@@ -1146,188 +902,378 @@
     {
       "anchors": {
         "registered_domains": [
-          "driving-approach-sword-ave.trycloudflare.com",
-          "exhibit-thereafter-surrounded-editorial.trycloudflare.com",
-          "eye-cardiovascular-biological-fruit.trycloudflare.com",
-          "lodging-dictionaries-jill-ministry.trycloudflare.com",
-          "visits-fool-judicial-outer.trycloudflare.com"
+          "0djedia.duckdns.org",
+          "230528.top",
+          "3jqa0awh.duckdns.org",
+          "7jbockzc.duckdns.org",
+          "ghj44hs.github.io",
+          "ishlrk27.github.io",
+          "ngnwenh.top"
         ],
         "tags": [
-          "#WsgiDAV"
+          "#Android"
         ],
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "Multiple attacker-controlled Cloudflare Tunnel subdomains expose WsgiDAV or generic open directory listings used to stage and serve malware. The use of trycloudflare.com provides HTTPS coverage and bypasses domain-reputation controls by routing through trusted Cloudflare infrastructure. Three reporters flagged 15 combined IOCs across six tunnel hostnames between July 17 and July 22.",
-      "first_seen": "2026-07-17",
-      "id": "tfc-c46e2567d45c",
-      "ioc_count": 15,
+      "context": "An Android malware cluster uses duckdns.org dynamic DNS subdomains and attacker-controlled GitHub Pages alongside .top domains for command-and-control communication. Associated MD5 and SHA-256 hashes indicate multiple samples in active circulation across the campaign. Two researchers reported 16 IOCs on July 22.",
+      "first_seen": "2026-07-22",
+      "id": "tfc-12890342f855",
+      "ioc_count": 16,
       "iocs": [
         {
-          "date": "2026-07-22 22:22:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2080055851646136692",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://exhibit-thereafter-surrounded-editorial.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-22 22:22:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2080055851646136692",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://driving-approach-sword-ave.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-22 22:22:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2080055851646136692",
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "domain",
           "user": "skocherhan",
-          "value": "exhibit-thereafter-surrounded-editorial.trycloudflare.com"
+          "value": "ishlrk27.github.io"
         },
         {
-          "date": "2026-07-22 22:22:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2080055851646136692",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "driving-approach-sword-ave.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-22 17:58:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2079989351388238147",
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "url",
           "user": "skocherhan",
-          "value": "http://visits-fool-judicial-outer.trycloudflare.com"
+          "value": "http://ishlrk27.github.io"
         },
         {
-          "date": "2026-07-22 17:55:00",
+          "date": "2026-07-22 08:33:00",
           "tags": [
-            "#WsgiDAV",
-            "#opendir"
+            "#Android",
+            "#malware"
           ],
-          "tweet": "https://x.com/smica83/status/2079988837196124368",
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "url",
-          "user": "smica83",
-          "value": "https://eye-cardiovascular-biological-fruit.trycloudflare.com"
+          "user": "skocherhan",
+          "value": "http://ghj44hs.github.io"
         },
         {
-          "date": "2026-07-22 17:55:00",
+          "date": "2026-07-22 08:33:00",
           "tags": [
-            "#WsgiDAV",
-            "#opendir"
+            "#Android",
+            "#malware"
           ],
-          "tweet": "https://x.com/smica83/status/2079988837196124368",
-          "type": "domain",
-          "user": "smica83",
-          "value": "eye-cardiovascular-biological-fruit.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-22 17:36:00",
-          "tags": [
-            "#WsgiDAV",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/smica83/status/2079983859962200369",
-          "type": "domain",
-          "user": "smica83",
-          "value": "visits-fool-judicial-outer.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-22 17:36:00",
-          "tags": [
-            "#WsgiDAV",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/smica83/status/2079983859962200369",
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "url",
-          "user": "smica83",
-          "value": "https://visits-fool-judicial-outer.trycloudflare.com"
+          "user": "skocherhan",
+          "value": "http://a.ngnwenh.top"
         },
         {
-          "date": "2026-07-20 10:46:00",
+          "date": "2026-07-22 08:33:00",
           "tags": [
-            "#WsgiDAV",
-            "#opendir"
+            "#Android",
+            "#malware"
           ],
-          "tweet": "https://x.com/smica83/status/2079156061198533038",
-          "type": "domain",
-          "user": "smica83",
-          "value": "lodging-dictionaries-jill-ministry.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-20 10:46:00",
-          "tags": [
-            "#WsgiDAV",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/smica83/status/2079156061198533038",
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "url",
-          "user": "smica83",
-          "value": "https://lodging-dictionaries-jill-ministry.trycloudflare.com"
+          "user": "skocherhan",
+          "value": "http://a.230528.top"
         },
         {
-          "date": "2026-07-17 11:41:00",
+          "date": "2026-07-22 08:33:00",
           "tags": [
-            "#opendir"
+            "#Android",
+            "#malware"
           ],
-          "tweet": "https://x.com/smica83/status/2078082569992614251",
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "url",
-          "user": "smica83",
-          "value": "https://driving-approach-sword-ave.trycloudflare.com"
+          "user": "skocherhan",
+          "value": "http://7jbockzc.duckdns.org"
         },
         {
-          "date": "2026-07-17 11:41:00",
+          "date": "2026-07-22 08:33:00",
           "tags": [
-            "#opendir"
+            "#Android",
+            "#malware"
           ],
-          "tweet": "https://x.com/smica83/status/2078082569992614251",
-          "type": "domain",
-          "user": "smica83",
-          "value": "driving-approach-sword-ave.trycloudflare.com"
-        },
-        {
-          "date": "2026-07-17 11:39:00",
-          "tags": [
-            "#opendir"
-          ],
-          "tweet": "https://x.com/smica83/status/2078082104118628506",
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "url",
-          "user": "smica83",
-          "value": "https://exhibit-thereafter-surrounded-editorial.trycloudflare.com"
+          "user": "skocherhan",
+          "value": "http://3jqa0awh.duckdns.org"
         },
         {
-          "date": "2026-07-17 11:39:00",
+          "date": "2026-07-22 08:33:00",
           "tags": [
-            "#opendir"
+            "#Android",
+            "#malware"
           ],
-          "tweet": "https://x.com/smica83/status/2078082104118628506",
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://0djedia.duckdns.org"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
           "type": "domain",
-          "user": "smica83",
-          "value": "exhibit-thereafter-surrounded-editorial.trycloudflare.com"
+          "user": "skocherhan",
+          "value": "ghj44hs.github.io"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "a.ngnwenh.top"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "a.230528.top"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "7jbockzc.duckdns.org"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "3jqa0awh.duckdns.org"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "md5",
+          "user": "skocherhan",
+          "value": "139912756c7b0b4f9fbf7dab562f1852"
+        },
+        {
+          "date": "2026-07-22 08:33:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079847226403131412",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "0djedia.duckdns.org"
+        },
+        {
+          "date": "2026-07-22 07:21:00",
+          "tags": [
+            "#Android",
+            "#malware"
+          ],
+          "tweet": "https://x.com/d1v35hresearch/status/2079829287109296521",
+          "type": "sha256",
+          "user": "d1v35hresearch",
+          "value": "104447278779517e2b397a18d501685ae61a9da84abe1c180ff9bb67a5a0f0fc"
         }
       ],
       "last_seen": "2026-07-22",
       "member_cluster_ids": [
-        "tfc-c46e2567d45c",
-        "tfc-9cd8beab075b",
-        "tfc-f7e3d525a3be"
+        "tfc-12890342f855"
       ],
-      "name": "Malware staging via WsgiDAV open directories on trycloudflare tunnels",
+      "name": "Android malware cluster using duckdns and GitHub Pages for C2",
       "reporters": [
-        "skocherhan",
-        "smica83"
+        "d1v35hresearch",
+        "skocherhan"
       ],
       "tags": [
-        "#WsgiDAV",
-        "#opendir"
+        "#Android",
+        "#malware"
       ],
       "targeted_brand": null,
       "types": {
         "domain": 7,
+        "md5": 1,
+        "sha256": 1,
+        "url": 7
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "dropboxx.us"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "medium",
+      "context": "The domain dropboxx.us, a double-x typosquat of dropbox.com, hosts a mail subdomain alongside multiple randomly-named subdomains consistent with per-victim tracking links used in credential-harvesting campaigns. The infrastructure pattern - a branded typosquat with a mail endpoint and generated random subdomains - is consistent with a phishing kit targeting Dropbox users via email lures. One researcher reported 16 IOCs on July 23.",
+      "first_seen": "2026-07-23",
+      "id": "tfc-8d312b3e34eb",
+      "ioc_count": 16,
+      "iocs": [
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "zmctqosqlqccayhq.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "y8lf207nc5p9nnjz.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "mail.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "k02jmug.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "igkyvvj3yq.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://zmctqosqlqccayhq.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://y8lf207nc5p9nnjz.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://mail.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://k02jmug.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://igkyvvj3yq.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://cmduwmuk8iyjhmq0.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://38d8cygy7yl5kgvr.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://1qx7r7mj78molew3.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "cmduwmuk8iyjhmq0.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "38d8cygy7yl5kgvr.dropboxx.us"
+        },
+        {
+          "date": "2026-07-23 20:54:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2080396099043348746",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "1qx7r7mj78molew3.dropboxx.us"
+        }
+      ],
+      "last_seen": "2026-07-23",
+      "member_cluster_ids": [
+        "tfc-8d312b3e34eb"
+      ],
+      "name": "Dropbox credential phishing via dropboxx.us typosquat domain",
+      "reporters": [
+        "skocherhan"
+      ],
+      "tags": [],
+      "targeted_brand": "Dropbox",
+      "types": {
+        "domain": 8,
         "url": 8
       }
     },
@@ -1336,7 +1282,8 @@
         "registered_domains": [
           "ijexgroup.com.br",
           "lockalcontractiongesatate.cc",
-          "screenconnect.com"
+          "screenconnect.com",
+          "tomballtxplumbers.com"
         ],
         "tags": [],
         "url_path_patterns": [
@@ -1346,11 +1293,35 @@
         ]
       },
       "confidence": "medium",
-      "context": "Attackers deliver ConnectWise ScreenConnect client MSI installers via legitimate cloud relay subdomains (rtsinternationals.screenconnect.com, gooseberry.screenconnect.com) and attacker-controlled domains including lockalcontractiongesatate.cc and a compromised WordPress site at ijexgroup.com.br. The MSI installer delivers persistent remote access under the guise of legitimate remote support software. Three reporters flagged 13 combined IOCs between July 17 and July 22.",
-      "first_seen": "2026-07-17",
+      "context": "Attackers deliver ConnectWise ScreenConnect client MSI installers via legitimate cloud relay subdomains on screenconnect.com and attacker-controlled domains including lockalcontractiongesatate.cc, alongside compromised WordPress sites at ijexgroup.com.br and tomballtxplumbers.com. The MSI installers grant persistent remote access under the guise of legitimate remote support software. Three reporters flagged 14 combined IOCs between July 18 and July 23.",
+      "first_seen": "2026-07-18",
       "id": "tfc-0c9f521dafd5",
-      "ioc_count": 13,
+      "ioc_count": 14,
       "iocs": [
+        {
+          "date": "2026-07-23 12:03:00",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2080262473765081105",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://80.76.49.90:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
+        },
+        {
+          "date": "2026-07-23 11:44:00",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2080257652530020763",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://an.tomballtxplumbers.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
+        },
+        {
+          "date": "2026-07-23 11:44:00",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2080257652530020763",
+          "type": "domain",
+          "user": "smica83",
+          "value": "an.tomballtxplumbers.com"
+        },
         {
           "date": "2026-07-22 17:55:00",
           "tags": [
@@ -1458,25 +1429,9 @@
           "type": "url",
           "user": "smica83",
           "value": "http://192.158.233.206:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
-        },
-        {
-          "date": "2026-07-17 19:38:00",
-          "tags": [],
-          "tweet": "https://x.com/smica83/status/2078202658821665091",
-          "type": "domain",
-          "user": "smica83",
-          "value": "rtsinternationals.screenconnect.com"
-        },
-        {
-          "date": "2026-07-17 19:38:00",
-          "tags": [],
-          "tweet": "https://x.com/smica83/status/2078202658821665091",
-          "type": "url",
-          "user": "smica83",
-          "value": "https://rtsinternationals.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
         }
       ],
-      "last_seen": "2026-07-22",
+      "last_seen": "2026-07-23",
       "member_cluster_ids": [
         "tfc-0c9f521dafd5",
         "tfc-05a8018894b3"
@@ -1493,7 +1448,7 @@
       "targeted_brand": null,
       "types": {
         "domain": 4,
-        "url": 9
+        "url": 10
       }
     },
     {
@@ -1511,7 +1466,7 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "A Magecart campaign uses relay subdomains on cloudservicecon.com, cdn-statmetrics.com, dinkfoundry.com, and infolservice.com to exfiltrate payment card data from compromised e-commerce sites, with faketools.click also associated with the cluster. The relay naming mimics legitimate CDN and analytics services to blend into normal web traffic. Two researchers reported 10 IOCs on July 22.",
+      "context": "A Magecart campaign uses relay subdomains on cloudservicecon.com, cdn-statmetrics.com, dinkfoundry.com, and infolservice.com to exfiltrate payment card data from compromised e-commerce sites, with faketools.click also associated with the cluster. The relay subdomain naming mimics legitimate CDN and analytics services to blend into normal web traffic. Two researchers reported 10 IOCs on July 22.",
       "first_seen": "2026-07-22",
       "id": "tfc-ba140c5b9a6b",
       "ioc_count": 10,
@@ -1638,121 +1593,114 @@
     {
       "anchors": {
         "registered_domains": [
-          "aochz.com",
-          "rujun.xyz",
-          "teamswedenclub.com",
-          "workinghardo.link"
+          "heliumcompliance.info"
         ],
         "tags": [],
-        "url_path_patterns": [
-          "/login"
-        ]
+        "url_path_patterns": []
       },
-      "confidence": "medium",
-      "context": "Phishing pages impersonating Resona Bank appear on a subdomain of aochz.com alongside other domains serving credential-harvesting endpoints at consistent /login paths. The shared path pattern and subdomain naming across multiple hosts suggest a single kit operator; aochz.com previously appeared in a related Japanese consumer phishing cluster. Four researchers reported 9 IOCs between July 17 and July 22.",
-      "first_seen": "2026-07-17",
-      "id": "tfc-1e9353f8a563",
-      "ioc_count": 9,
+      "confidence": "low",
+      "context": "The domain heliumcompliance.info and its review subdomain serve malware from short path identifiers including trailing dash and single-character variants, with both HTTP and HTTPS variants active. The compliance-themed domain name is consistent with a social engineering lure presenting a fake review or compliance requirement to prompt victim interaction. Two researchers reported 8 IOCs on July 22.",
+      "first_seen": "2026-07-22",
+      "id": "tfc-05e8774a706d",
+      "ioc_count": 8,
       "iocs": [
         {
-          "date": "2026-07-22 10:09:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2079871354061332618",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "vpn.rujun.xyz"
-        },
-        {
-          "date": "2026-07-22 10:09:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2079871354061332618",
+          "date": "2026-07-22 21:57:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2080049566053753104",
           "type": "url",
           "user": "skocherhan",
-          "value": "http://vpn.rujun.xyz/login"
+          "value": "https://www.heliumcompliance.info/I"
         },
         {
-          "date": "2026-07-22 10:01:00",
-          "tags": [],
-          "tweet": "https://x.com/malwrhunterteam/status/2079869512615071810",
+          "date": "2026-07-22 21:57:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2080049566053753104",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://www.heliumcompliance.info/-"
+        },
+        {
+          "date": "2026-07-22 21:57:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2080049566053753104",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://review.heliumcompliance.info/-"
+        },
+        {
+          "date": "2026-07-22 21:32:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080043274212102332",
           "type": "domain",
-          "user": "malwrhunterteam",
-          "value": "workinghardo.link"
+          "user": "Malwarehunterr",
+          "value": "review.heliumcompliance.info"
         },
         {
-          "date": "2026-07-22 10:01:00",
-          "tags": [],
-          "tweet": "https://x.com/malwrhunterteam/status/2079869512615071810",
-          "type": "url",
-          "user": "malwrhunterteam",
-          "value": "http://workinghardo.link/login"
-        },
-        {
-          "date": "2026-07-22 09:22:00",
+          "date": "2026-07-22 21:32:00",
           "tags": [
-            "#phishing"
+            "#malware"
           ],
-          "tweet": "https://x.com/masaomi346/status/2079859596626448718",
+          "tweet": "https://x.com/Malwarehunterr/status/2080043274212102332",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://www.heliumcompliance.info"
+        },
+        {
+          "date": "2026-07-22 21:32:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080043274212102332",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "https://review.heliumcompliance.info"
+        },
+        {
+          "date": "2026-07-22 21:32:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080043274212102332",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://review.heliumcompliance.info"
+        },
+        {
+          "date": "2026-07-22 21:32:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2080043274212102332",
           "type": "domain",
-          "user": "masaomi346",
-          "value": "teamswedenclub.com"
-        },
-        {
-          "date": "2026-07-22 09:22:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2079859596626448718",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://teamswedenclub.com/login"
-        },
-        {
-          "date": "2026-07-20 01:59:00",
-          "tags": [],
-          "tweet": "https://x.com/2eroHunter/status/2079023331874128204",
-          "type": "url",
-          "user": "2eroHunter",
-          "value": "https://79.76.52.42:3333/login"
-        },
-        {
-          "date": "2026-07-17 06:28:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2078003816226865482",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "resona-bank.aochz.com"
-        },
-        {
-          "date": "2026-07-17 06:28:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2078003816226865482",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://resona-bank.aochz.com/login"
+          "user": "Malwarehunterr",
+          "value": "heliumcompliance.info"
         }
       ],
       "last_seen": "2026-07-22",
       "member_cluster_ids": [
-        "tfc-1e9353f8a563"
+        "tfc-05e8774a706d"
       ],
-      "name": "Japanese bank phishing targeting Resona Bank via /login pages",
+      "name": "Malware distribution via heliumcompliance.info compliance lure",
       "reporters": [
-        "2eroHunter",
-        "malwrhunterteam",
-        "masaomi346",
+        "Malwarehunterr",
         "skocherhan"
       ],
       "tags": [
-        "#phishing"
+        "#malware"
       ],
-      "targeted_brand": "Resona Bank",
+      "targeted_brand": null,
       "types": {
-        "domain": 4,
-        "url": 5
+        "domain": 2,
+        "url": 6
       }
     },
     {
@@ -1878,7 +1826,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "The domain eznamsk.com hosts a phishing endpoint at the /sk/ path alongside a matomo.eznamsk.com analytics subdomain, indicating active monitoring of victim visits. The combination of a regional path identifier and analytics integration is consistent with a targeted credential-harvesting operation tracking visitor behavior. Two researchers reported 8 IOCs between July 21 and July 22.",
+      "context": "The domain eznamsk.com hosts a phishing endpoint at the /sk/ path alongside a matomo.eznamsk.com analytics subdomain, indicating active monitoring of victim visits using open-source web analytics. The combination of a regional path identifier and embedded analytics is consistent with a targeted credential-harvesting operation tracking visitor behavior in real time. Two researchers reported 8 IOCs between July 21 and July 22.",
       "first_seen": "2026-07-21",
       "id": "tfc-8e0dbedd08d3",
       "ioc_count": 8,
@@ -1996,7 +1944,7 @@
         ]
       },
       "confidence": "low",
-      "context": "Four domains - skjwoodstone.com, tonghedianzi.com, yijiatuliao.com, and zhuodashufa.com - all host phishing pages at /safety/update/, consistent with a single kit deployed across multiple hosts using a shared path as a campaign marker. Domain names appear to be transliterations of Chinese business terms, suggesting Chinese-registered infrastructure. One researcher reported 8 IOCs on July 22.",
+      "context": "Four domains - skjwoodstone.com, tonghedianzi.com, yijiatuliao.com, and zhuodashufa.com - host phishing pages at the /safety/update/ path, consistent with a single kit deployed across multiple hosts using a shared path as a campaign marker. Domain names appear to be transliterations of Chinese business terms, suggesting Chinese-registered infrastructure behind the campaign. One researcher reported 8 IOCs on July 22.",
       "first_seen": "2026-07-22",
       "id": "tfc-d6af5145cace",
       "ioc_count": 8,
@@ -2111,6 +2059,105 @@
     {
       "anchors": {
         "registered_domains": [
+          "rujun.xyz",
+          "teamswedenclub.com",
+          "workinghardo.link"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/login"
+        ]
+      },
+      "confidence": "medium",
+      "context": "Phishing pages impersonating Resona Bank appear across multiple domains sharing a /login path, including teamswedenclub.com, workinghardo.link, and vpn.rujun.xyz, alongside a direct IP listener at 79.76.52.42:3333. The shared path pattern and consistent endpoint structure across geographically diverse hosts suggest a single kit operator running parallel credential-harvest pages. Four researchers reported 7 IOCs between July 20 and July 22.",
+      "first_seen": "2026-07-20",
+      "id": "tfc-1e9353f8a563",
+      "ioc_count": 7,
+      "iocs": [
+        {
+          "date": "2026-07-22 10:09:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2079871354061332618",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "vpn.rujun.xyz"
+        },
+        {
+          "date": "2026-07-22 10:09:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2079871354061332618",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://vpn.rujun.xyz/login"
+        },
+        {
+          "date": "2026-07-22 10:01:00",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2079869512615071810",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "workinghardo.link"
+        },
+        {
+          "date": "2026-07-22 10:01:00",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2079869512615071810",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://workinghardo.link/login"
+        },
+        {
+          "date": "2026-07-22 09:22:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2079859596626448718",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "teamswedenclub.com"
+        },
+        {
+          "date": "2026-07-22 09:22:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2079859596626448718",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://teamswedenclub.com/login"
+        },
+        {
+          "date": "2026-07-20 01:59:00",
+          "tags": [],
+          "tweet": "https://x.com/2eroHunter/status/2079023331874128204",
+          "type": "url",
+          "user": "2eroHunter",
+          "value": "https://79.76.52.42:3333/login"
+        }
+      ],
+      "last_seen": "2026-07-22",
+      "member_cluster_ids": [
+        "tfc-1e9353f8a563"
+      ],
+      "name": "Japanese bank phishing targeting Resona Bank via /login pages",
+      "reporters": [
+        "2eroHunter",
+        "malwrhunterteam",
+        "masaomi346",
+        "skocherhan"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": "Resona Bank",
+      "types": {
+        "domain": 3,
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
           "fasthouse.me",
           "usafansweepstakes2026.us",
           "zynimg.com"
@@ -2126,7 +2173,7 @@
         ]
       },
       "confidence": "low",
-      "context": "Remcos RAT is delivered via an HTA file with an unusually long filename designed to obscure the payload type, staged on an IP-based host and distributed via redirect URLs on fasthouse.me. Supporting payload URLs on zynimg.com and usafansweepstakes2026.us serve additional stages under image-hosting-style paths. One researcher reported 7 IOCs on July 21.",
+      "context": "Remcos RAT is delivered via an HTA file with an unusually long descriptive filename designed to obscure the payload type, staged on an IP-based host and distributed through redirect URLs on fasthouse.me. Supporting payload URLs on zynimg.com and usafansweepstakes2026.us serve additional stages under image-hosting-style paths. One researcher reported 7 IOCs on July 21.",
       "first_seen": "2026-07-21",
       "id": "tfc-24c78f3caa0f",
       "ioc_count": 7,
@@ -2222,13 +2269,379 @@
     {
       "anchors": {
         "registered_domains": [
+          "eye-cardiovascular-biological-fruit.trycloudflare.com",
+          "lodging-dictionaries-jill-ministry.trycloudflare.com",
+          "visits-fool-judicial-outer.trycloudflare.com"
+        ],
+        "tags": [
+          "#WsgiDAV"
+        ],
+        "url_path_patterns": []
+      },
+      "confidence": "medium",
+      "context": "Multiple attacker-controlled Cloudflare Tunnel subdomains on trycloudflare.com expose WsgiDAV or generic open directory listings used to stage and serve malware. The use of trycloudflare.com provides HTTPS coverage and bypasses domain-reputation controls by routing through trusted Cloudflare infrastructure. Two reporters flagged 7 IOCs across three tunnel hostnames between July 20 and July 22.",
+      "first_seen": "2026-07-20",
+      "id": "tfc-c46e2567d45c",
+      "ioc_count": 7,
+      "iocs": [
+        {
+          "date": "2026-07-22 17:58:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2079989351388238147",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://visits-fool-judicial-outer.trycloudflare.com"
+        },
+        {
+          "date": "2026-07-22 17:55:00",
+          "tags": [
+            "#WsgiDAV",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/smica83/status/2079988837196124368",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://eye-cardiovascular-biological-fruit.trycloudflare.com"
+        },
+        {
+          "date": "2026-07-22 17:55:00",
+          "tags": [
+            "#WsgiDAV",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/smica83/status/2079988837196124368",
+          "type": "domain",
+          "user": "smica83",
+          "value": "eye-cardiovascular-biological-fruit.trycloudflare.com"
+        },
+        {
+          "date": "2026-07-22 17:36:00",
+          "tags": [
+            "#WsgiDAV",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/smica83/status/2079983859962200369",
+          "type": "domain",
+          "user": "smica83",
+          "value": "visits-fool-judicial-outer.trycloudflare.com"
+        },
+        {
+          "date": "2026-07-22 17:36:00",
+          "tags": [
+            "#WsgiDAV",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/smica83/status/2079983859962200369",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://visits-fool-judicial-outer.trycloudflare.com"
+        },
+        {
+          "date": "2026-07-20 10:46:00",
+          "tags": [
+            "#WsgiDAV",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/smica83/status/2079156061198533038",
+          "type": "domain",
+          "user": "smica83",
+          "value": "lodging-dictionaries-jill-ministry.trycloudflare.com"
+        },
+        {
+          "date": "2026-07-20 10:46:00",
+          "tags": [
+            "#WsgiDAV",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/smica83/status/2079156061198533038",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://lodging-dictionaries-jill-ministry.trycloudflare.com"
+        }
+      ],
+      "last_seen": "2026-07-22",
+      "member_cluster_ids": [
+        "tfc-c46e2567d45c"
+      ],
+      "name": "Malware staging via WsgiDAV open directories on trycloudflare tunnels",
+      "reporters": [
+        "skocherhan",
+        "smica83"
+      ],
+      "tags": [
+        "#WsgiDAV",
+        "#opendir"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 3,
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "endl.site",
+          "global-research.space"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/advN.php"
+        ]
+      },
+      "confidence": "low",
+      "context": "Domains endl.site and global-research.space expose PHP redirect or gate endpoints following an /advN.php naming pattern across multiple subdomains including docsmanagement and axes on endl.site. The structured PHP path pattern and involvement of abuse_ch as a reporter suggest this infrastructure functions as a traffic distribution system or redirect layer within a malware delivery chain. Three researchers including abuse_ch reported 6 IOCs between July 22 and July 23.",
+      "first_seen": "2026-07-22",
+      "id": "tfc-0b2ef4b260ba",
+      "ioc_count": 6,
+      "iocs": [
+        {
+          "date": "2026-07-23 06:45:00",
+          "tags": [],
+          "tweet": "https://x.com/abuse_ch/status/2080182533447184651",
+          "type": "url",
+          "user": "abuse_ch",
+          "value": "http://axes.endl.site/adv2.php"
+        },
+        {
+          "date": "2026-07-23 06:45:00",
+          "tags": [],
+          "tweet": "https://x.com/abuse_ch/status/2080182533447184651",
+          "type": "domain",
+          "user": "abuse_ch",
+          "value": "axes.endl.site"
+        },
+        {
+          "date": "2026-07-22 18:21:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2079995315285897560",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "sni13.docsmanagement.endl.site"
+        },
+        {
+          "date": "2026-07-22 18:21:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2079995315285897560",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://sni13.docsmanagement.endl.site"
+        },
+        {
+          "date": "2026-07-22 18:03:00",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2079990627001921880",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://global-research.space/adv13.php"
+        },
+        {
+          "date": "2026-07-22 18:03:00",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2079990627001921880",
+          "type": "domain",
+          "user": "smica83",
+          "value": "global-research.space"
+        }
+      ],
+      "last_seen": "2026-07-23",
+      "member_cluster_ids": [
+        "tfc-0b2ef4b260ba"
+      ],
+      "name": "Traffic distribution infrastructure using adv*.php endpoints on endl.site",
+      "reporters": [
+        "abuse_ch",
+        "skocherhan",
+        "smica83"
+      ],
+      "tags": [],
+      "targeted_brand": null,
+      "types": {
+        "domain": 3,
+        "url": 3
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "datusha.com.cn"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "The domain datusha.com.cn communicates on non-standard ports 6685 and 6698, a pattern consistent with malware C2 using custom port configurations to evade default traffic monitoring. Two reporters flagged 6 IOCs on July 21 but no specific malware family was identified in the available data.",
+      "first_seen": "2026-07-21",
+      "id": "tfc-a7049a06807d",
+      "ioc_count": 6,
+      "iocs": [
+        {
+          "date": "2026-07-21 08:38:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2079486240966226194",
+          "type": "url",
+          "user": "bomccss",
+          "value": "http://datusha.com.cn:6698"
+        },
+        {
+          "date": "2026-07-21 08:38:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2079486240966226194",
+          "type": "url",
+          "user": "bomccss",
+          "value": "http://datusha.com.cn:6685"
+        },
+        {
+          "date": "2026-07-21 08:38:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2079486240966226194",
+          "type": "domain",
+          "user": "bomccss",
+          "value": "datusha.com.cn:6698"
+        },
+        {
+          "date": "2026-07-21 08:38:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2079486240966226194",
+          "type": "domain",
+          "user": "bomccss",
+          "value": "datusha.com.cn:6685"
+        },
+        {
+          "date": "2026-07-21 06:51:00",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2079459160526352835",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://datusha.com.cn"
+        },
+        {
+          "date": "2026-07-21 06:51:00",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2079459160526352835",
+          "type": "domain",
+          "user": "tdatwja",
+          "value": "datusha.com.cn"
+        }
+      ],
+      "last_seen": "2026-07-21",
+      "member_cluster_ids": [
+        "tfc-a7049a06807d"
+      ],
+      "name": "Chinese domain C2 on custom ports at datusha.com.cn",
+      "reporters": [
+        "bomccss",
+        "tdatwja"
+      ],
+      "tags": [],
+      "targeted_brand": null,
+      "types": {
+        "domain": 3,
+        "url": 3
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "alwoodleybuildinganddevelopments.co.uk"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "The domain alwoodleybuildinganddevelopments.co.uk, a legitimate UK construction company site, hosts three subdomains whose names are full 40-character SHA-1 hashes, a distinctive pattern associated with bot C2 frameworks that use DNS as a covert channel. No malware family tag is available from the data, but the infrastructure pattern is consistent with a compromised domain repurposed for C2 communication. One researcher reported 6 IOCs on July 21.",
+      "first_seen": "2026-07-21",
+      "id": "tfc-afd450e0a009",
+      "ioc_count": 6,
+      "iocs": [
+        {
+          "date": "2026-07-21 15:28:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079589391182303376",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://b311d5dd4ef08523c67110252f032bd635d71123.alwoodleybuildinganddevelopments.co.uk"
+        },
+        {
+          "date": "2026-07-21 15:28:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079589391182303376",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://5646e143790fcd3087a7bbff89eee6d48c2d4ab7.alwoodleybuildinganddevelopments.co.uk"
+        },
+        {
+          "date": "2026-07-21 15:28:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079589391182303376",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://1caec4734b93f6afd9d2c90adbe48d8dc36b52dd.alwoodleybuildinganddevelopments.co.uk"
+        },
+        {
+          "date": "2026-07-21 15:28:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079589391182303376",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "b311d5dd4ef08523c67110252f032bd635d71123.alwoodleybuildinganddevelopments.co.uk"
+        },
+        {
+          "date": "2026-07-21 15:28:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079589391182303376",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "5646e143790fcd3087a7bbff89eee6d48c2d4ab7.alwoodleybuildinganddevelopments.co.uk"
+        },
+        {
+          "date": "2026-07-21 15:28:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2079589391182303376",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "1caec4734b93f6afd9d2c90adbe48d8dc36b52dd.alwoodleybuildinganddevelopments.co.uk"
+        }
+      ],
+      "last_seen": "2026-07-21",
+      "member_cluster_ids": [
+        "tfc-afd450e0a009"
+      ],
+      "name": "SHA-1 hash subdomains on compromised UK construction domain",
+      "reporters": [
+        "skocherhan"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 3,
+        "url": 3
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
           "reha-stims.com"
         ],
         "tags": [],
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "The domain reha-stims.com hosts subdomains impersonating webmail portals for mzkt.by (a Belarusian heavy vehicle manufacturer) and customs.go.kr (South Korean customs authority). The multi-country, cross-sector targeting on a single base domain suggests a shared phishing service or kit operator running parallel credential-harvesting pages. One researcher reported 6 IOCs on July 22.",
+      "context": "The domain reha-stims.com hosts subdomains impersonating webmail portals for mzkt.by, a Belarusian heavy vehicle manufacturer, and customs.go.kr, the South Korean customs authority. The multi-country, cross-sector targeting on a single base domain suggests a shared phishing service or kit operator running parallel credential-harvesting pages. One researcher reported 6 IOCs on July 22.",
       "first_seen": "2026-07-22",
       "id": "tfc-f51773d01fd0",
       "ioc_count": 6,
@@ -2314,75 +2727,249 @@
     {
       "anchors": {
         "registered_domains": [
-          "51bxun.com",
-          "cqurg.com"
+          "martincristal.com.ar"
         ],
         "tags": [],
         "url_path_patterns": [
-          "/JxBgwINm"
+          "/wp-admin/JCP"
         ]
       },
       "confidence": "low",
-      "context": "Two domains, 51bxun.com and cqurg.com, host phishing pages under a shared path /JxBgwINm, a pattern consistent with a single phishing kit deployment using a fixed campaign identifier across multiple hosts. The targeted brand or sector is not identifiable from the available IOCs. One researcher flagged 4 IOCs between July 17 and July 19.",
-      "first_seen": "2026-07-17",
-      "id": "tfc-0ae35c8801b9",
-      "ioc_count": 4,
+      "context": "The wp-admin directory of martincristal.com.ar, an apparently compromised Argentine business site, hosts a PHP download script and ZIP payload within a /wp-admin/JCP/ path used for malware staging. Abusing a legitimate site's WordPress admin path is a common technique to exploit existing domain reputation for payload delivery. Two researchers reported 5 IOCs on July 22.",
+      "first_seen": "2026-07-22",
+      "id": "tfc-f5b4e4be7798",
+      "ioc_count": 5,
       "iocs": [
         {
-          "date": "2026-07-19 14:52:00",
+          "date": "2026-07-22 18:26:00",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2078855556069212637",
+          "tweet": "https://x.com/skocherhan/status/2079996543579406594",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://cqurg.com/JxBgwINm/"
+          "user": "skocherhan",
+          "value": "https://martincristal.com.ar/wp-admin/JCP/download.phpSHA256"
         },
         {
-          "date": "2026-07-19 14:52:00",
+          "date": "2026-07-22 18:26:00",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2078855556069212637",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "cqurg.com"
-        },
-        {
-          "date": "2026-07-17 13:26:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2078108974927495371",
+          "tweet": "https://x.com/skocherhan/status/2079996543579406594",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://51bxun.com/JxBgwINm/"
+          "user": "skocherhan",
+          "value": "https://martincristal.com.ar/wp-admin/JCP/ZIP"
         },
         {
-          "date": "2026-07-17 13:26:00",
+          "date": "2026-07-22 18:14:00",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2078108974927495371",
+          "tweet": "https://x.com/patialavii/status/2079993536599175619",
           "type": "domain",
-          "user": "masaomi346",
-          "value": "51bxun.com"
+          "user": "patialavii",
+          "value": "martincristal.com.ar"
+        },
+        {
+          "date": "2026-07-22 18:14:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2079993536599175619",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://martincristal.com.ar/wp-admin/JCP/download.php"
+        },
+        {
+          "date": "2026-07-22 18:14:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2079993536599175619",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://martincristal.com.ar/wp-admin/JCP/"
         }
       ],
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-22",
       "member_cluster_ids": [
-        "tfc-0ae35c8801b9"
+        "tfc-f5b4e4be7798"
       ],
-      "name": "Phishing kit deployment on .com pair with fixed campaign path",
+      "name": "Payload delivery via compromised WordPress admin path at martincristal.com.ar",
       "reporters": [
-        "masaomi346"
+        "patialavii",
+        "skocherhan"
       ],
       "tags": [
         "#phishing"
       ],
       "targeted_brand": null,
       "types": {
-        "domain": 2,
+        "domain": 1,
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "github.com"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/business-N",
+          "/dm-N/dz-nvd",
+          "/seanN"
+        ]
+      },
+      "confidence": "low",
+      "context": "Several GitHub repositories and user accounts are flagged for hosting or distributing malware, including a raw ZIP download from the dm-7926/dz-nvd repository and accounts using the handles business-49 and sean100496. The use of legitimate GitHub infrastructure for malware staging is a common technique to bypass URL reputation filtering and security product blocks. Four researchers reported 4 IOCs between July 18 and July 23.",
+      "first_seen": "2026-07-18",
+      "id": "tfc-11a6005614dd",
+      "ioc_count": 4,
+      "iocs": [
+        {
+          "date": "2026-07-23 07:58:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2080200885024518241",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://github.com/sean100496#ThreatIntel"
+        },
+        {
+          "date": "2026-07-23 06:01:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2080171347448352794",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://github.com/sean100496"
+        },
+        {
+          "date": "2026-07-20 02:43:00",
+          "tags": [],
+          "tweet": "https://x.com/banthisguy9349/status/2079034460901929367",
+          "type": "url",
+          "user": "banthisguy9349",
+          "value": "https://github.com/business-49"
+        },
+        {
+          "date": "2026-07-18 09:07:00",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2078406259032694809",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://github.com/dm-7926/dz-nvd/raw/main/m1n.zip"
+        }
+      ],
+      "last_seen": "2026-07-23",
+      "member_cluster_ids": [
+        "tfc-11a6005614dd"
+      ],
+      "name": "Malware delivery via attacker-controlled GitHub repositories",
+      "reporters": [
+        "banthisguy9349",
+        "patialavii",
+        "skocherhan",
+        "smica83"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "udnvk.site"
+        ],
+        "tags": [
+          "#Kimsuky"
+        ],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "The domain udnvk.site and its associated IP 27.102.137.59 are attributed to Kimsuky, a North Korean state-sponsored threat actor known for spear-phishing and intelligence-collection campaigns targeting government, defense, and research organizations. A single researcher reported 4 IOCs on July 23; the attribution rests on that researcher's analysis and is not corroborated by additional reporters.",
+      "first_seen": "2026-07-23",
+      "id": "tfc-a7a62de735ef",
+      "ioc_count": 4,
+      "iocs": [
+        {
+          "date": "2026-07-23 18:00:00",
+          "tags": [
+            "#APT",
+            "#C2",
+            "#Kimsuky",
+            "#malware"
+          ],
+          "tweet": "https://x.com/phatomcandle/status/2080352364511588392",
+          "type": "domain",
+          "user": "phatomcandle",
+          "value": "udnvk.site"
+        },
+        {
+          "date": "2026-07-23 18:00:00",
+          "tags": [
+            "#APT",
+            "#C2",
+            "#Kimsuky",
+            "#malware"
+          ],
+          "tweet": "https://x.com/phatomcandle/status/2080352364511588392",
+          "type": "url",
+          "user": "phatomcandle",
+          "value": "http://udnvk.site"
+        },
+        {
+          "date": "2026-07-23 18:00:00",
+          "tags": [
+            "#APT",
+            "#C2",
+            "#Kimsuky",
+            "#malware"
+          ],
+          "tweet": "https://x.com/phatomcandle/status/2080352364511588392",
+          "type": "url",
+          "user": "phatomcandle",
+          "value": "http://27.102.137.59"
+        },
+        {
+          "date": "2026-07-23 18:00:00",
+          "tags": [
+            "#APT",
+            "#C2",
+            "#Kimsuky",
+            "#malware"
+          ],
+          "tweet": "https://x.com/phatomcandle/status/2080352364511588392",
+          "type": "ip",
+          "user": "phatomcandle",
+          "value": "27.102.137.59"
+        }
+      ],
+      "last_seen": "2026-07-23",
+      "member_cluster_ids": [
+        "tfc-a7a62de735ef"
+      ],
+      "name": "Kimsuky APT C2 node at udnvk.site",
+      "reporters": [
+        "phatomcandle"
+      ],
+      "tags": [
+        "#APT",
+        "#C2",
+        "#Kimsuky",
+        "#malware"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 1,
+        "ip": 1,
         "url": 2
       }
     },
@@ -2470,7 +3057,7 @@
         ]
       },
       "confidence": "low",
-      "context": "A domain named extensionscover.xyz serves a NetLock RMM Agent installer for 64-bit Windows alongside a PowerShell setup script, following a pattern consistent with malicious RMM tool deployment for unauthorized remote access. The domain name is designed to suggest browser extension infrastructure, likely as a social engineering lure to prompt installation. Two researchers flagged 4 IOCs on July 20.",
+      "context": "The domain extensionscover.xyz serves a NetLock RMM Agent installer for 64-bit Windows alongside a PowerShell setup script, following a pattern consistent with malicious RMM tool deployment for unauthorized remote access. The domain name is designed to suggest browser extension infrastructure, likely used as a social engineering lure to prompt installation. Two researchers flagged 4 IOCs on July 20.",
       "first_seen": "2026-07-20",
       "id": "tfc-b1052bda06f6",
       "ioc_count": 4,
@@ -2526,89 +3113,6 @@
     },
     {
       "anchors": {
-        "registered_domains": [],
-        "tags": [
-          "#Sliver"
-        ],
-        "url_path_patterns": []
-      },
-      "confidence": "low",
-      "context": "Sliver C2 implants beacon to 185.132.53.171 and 38.47.198.41, with the latter exposing listener ports 8082 and 8444. Four SHA-256 hashes indicate staged payload delivery consistent with an open directory on the C2 host. Two researchers reported 8 IOCs between July 15 and July 17.",
-      "first_seen": "2026-07-17",
-      "id": "tfc-c104d3859500",
-      "ioc_count": 4,
-      "iocs": [
-        {
-          "date": "2026-07-17 21:29:00",
-          "tags": [
-            "#C2",
-            "#Sliver",
-            "#malware"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2078230723396534728",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://38.47.198.41:8444"
-        },
-        {
-          "date": "2026-07-17 21:29:00",
-          "tags": [
-            "#C2",
-            "#Sliver",
-            "#malware"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2078230723396534728",
-          "type": "url",
-          "user": "Malwarehunterr",
-          "value": "http://38.47.198.41:8082"
-        },
-        {
-          "date": "2026-07-17 21:29:00",
-          "tags": [
-            "#C2",
-            "#Sliver",
-            "#malware"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2078230723396534728",
-          "type": "ip",
-          "user": "Malwarehunterr",
-          "value": "38.47.198.41"
-        },
-        {
-          "date": "2026-07-17 21:29:00",
-          "tags": [
-            "#C2",
-            "#Sliver",
-            "#malware"
-          ],
-          "tweet": "https://x.com/Malwarehunterr/status/2078230723396534728",
-          "type": "sha256",
-          "user": "Malwarehunterr",
-          "value": "11be8cac8706b75a9e854873e714ee66d247b6b61e311722130c248c4a8a0260"
-        }
-      ],
-      "last_seen": "2026-07-17",
-      "member_cluster_ids": [
-        "tfc-c104d3859500"
-      ],
-      "name": "Sliver C2 framework on two IPs with open directory",
-      "reporters": [
-        "Malwarehunterr"
-      ],
-      "tags": [
-        "#C2",
-        "#Sliver",
-        "#malware"
-      ],
-      "targeted_brand": null,
-      "types": {
-        "ip": 1,
-        "sha256": 1,
-        "url": 2
-      }
-    },
-    {
-      "anchors": {
         "registered_domains": [
           "portmap.host"
         ],
@@ -2618,7 +3122,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "An Njrat C2 node at 193.161.193.99 is mapped through a portmap.host dynamic DNS subdomain that encodes an attacker handle and port number in the hostname (ahmeddoserr-37232). Portmap.host is a free port-forwarding service frequently abused by RAT operators to obscure static IP attribution and maintain C2 availability across IP changes. One researcher reported 4 IOCs on July 20.",
+      "context": "An Njrat C2 node at 193.161.193.99 is mapped through a portmap.host dynamic DNS subdomain that encodes an attacker handle and port number in the hostname (ahmeddoserr-37232). Portmap.host is a free port-forwarding service frequently abused by RAT operators to obscure IP attribution and maintain C2 availability across IP changes. One researcher reported 4 IOCs on July 20.",
       "first_seen": "2026-07-20",
       "id": "tfc-ca40ae401401",
       "ioc_count": 4,
@@ -2683,7 +3187,7 @@
       }
     }
   ],
-  "generated_at": "2026-07-23T06:38:51Z",
+  "generated_at": "2026-07-24T06:30:48Z",
   "stale": false,
   "stale_since": null,
   "version": 1,
