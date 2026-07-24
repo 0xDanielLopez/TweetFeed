@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 09:15:27 (UTC)</th>
+        <th colspan=4>2026-07-24 09:30:28 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 450 | 1579 | 6096 | 54623 |
-| **:globe_with_meridians: Domains** | 392 | 1364 | 5142 | 40878 |
+| **:link: URLs** | 452 | 1581 | 6098 | 54625 |
+| **:globe_with_meridians: Domains** | 394 | 1366 | 5144 | 40880 |
 | **:triangular_flag_on_post: IPs** | 2 | 120 | 720 | 11413 |
 | **:1234: SHA256** | 4 | 144 | 550 | 2319 |
 | **:1234: MD5** | 5 | 25 | 205 | 2550 |
@@ -161,11 +161,11 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 840 | 1664 | 5711 | 36749 |
+| **#phishing** | 844 | 1668 | 5715 | 36753 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
 | **#C2** | 11 | 188 | 453 | 14258 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |
-| **#scam** | 4 | 70 | 149 | 6219 |
+| **#scam** | 6 | 72 | 151 | 6221 |
 | **#CobaltStrike** | 0 | 3 | 3 | 3522 |
 | **#malware** | 2 | 123 | 630 | 2655 |
 | **#APT** | 0 | 13 | 216 | 1733 |
@@ -190,11 +190,11 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 | **#2** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |
 | **#3** | [patialavii](https://x.com/patialavii) | 8 |
 | **#4** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#5** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#6** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
 | **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#8** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#9** | [illegalFawn](https://x.com/illegalFawn) | 2 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
 

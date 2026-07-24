@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @illegalFawn</title>
+      <link>https://x.com/illegalFawn</link>
+      <description>IOCs shared by @illegalFawn and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @illegalFawn</title>
+         <link>https://x.com/illegalFawn</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/illegalfawn.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Fri, 24 Jul 2026 09:30:28 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://apresfrom.space/ndjb79</title>
+         <link>https://x.com/illegalFawn/status/2080583594196467798</link>
+         <description>@illegalFawn | url | #phishing #scam
+Value: https://apresfrom.space/ndjb79
+Tweet: https://x.com/illegalFawn/status/2080583594196467798</description>
+         <guid isPermaLink="false">https://apresfrom.space/ndjb79</guid>
+         <pubDate>Fri, 24 Jul 2026 09:19:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+         <category>#scam</category>
+      </item>
+      <item>
+         <title>apresfrom.space</title>
+         <link>https://x.com/illegalFawn/status/2080583594196467798</link>
+         <description>@illegalFawn | domain | #phishing #scam
+Value: apresfrom.space
+Tweet: https://x.com/illegalFawn/status/2080583594196467798</description>
+         <guid isPermaLink="false">apresfrom.space</guid>
+         <pubDate>Fri, 24 Jul 2026 09:19:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+         <category>#scam</category>
+      </item>
+   </channel>
+</rss>

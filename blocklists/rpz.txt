@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4797
-; Updated: 2026-07-24T09:00:28Z
+; Entries: 4799
+; Updated: 2026-07-24T09:30:27Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784883628 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784885427 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -660,6 +660,8 @@ apply-pncgrant-regional-claim.s3.eu-west-3.amazonaws.com CNAME .
 *.apply-pncgrant-regional-claim.s3.eu-west-3.amazonaws.com CNAME .
 apps-feiji.com.cn CNAME .
 *.apps-feiji.com.cn CNAME .
+apresfrom.space CNAME .
+*.apresfrom.space CNAME .
 aqq-feiji.com.cn CNAME .
 *.aqq-feiji.com.cn CNAME .
 aqrltrade.com CNAME .
@@ -8486,6 +8488,8 @@ vcfdt.eu.cc CNAME .
 *.vcfdt.eu.cc CNAME .
 vcggbft.com CNAME .
 *.vcggbft.com CNAME .
+vckvjn.asia CNAME .
+*.vckvjn.asia CNAME .
 vcqjkv.gleeze.com CNAME .
 *.vcqjkv.gleeze.com CNAME .
 vcssoul.online CNAME .
