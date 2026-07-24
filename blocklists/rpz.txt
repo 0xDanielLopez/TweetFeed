@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4414
-; Updated: 2026-07-24T00:00:20Z
+; Entries: 4415
+; Updated: 2026-07-24T00:30:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784851220 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784853015 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1494,6 +1494,8 @@ cubana.cloud CNAME .
 *.cubana.cloud CNAME .
 cucukekekre5335.dynuddns.net CNAME .
 *.cucukekekre5335.dynuddns.net CNAME .
+cuddly-lamp.vercel.app CNAME .
+*.cuddly-lamp.vercel.app CNAME .
 culiao.lol CNAME .
 *.culiao.lol CNAME .
 cumbose.vngfzsoz.cn CNAME .

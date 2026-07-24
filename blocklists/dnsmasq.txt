@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4414
-# Updated: 2026-07-24T00:00:20Z
+# Entries: 4415
+# Updated: 2026-07-24T00:30:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -748,6 +748,7 @@ address=/ctwelo.de/0.0.0.0
 address=/cuadricenal.digital/0.0.0.0
 address=/cubana.cloud/0.0.0.0
 address=/cucukekekre5335.dynuddns.net/0.0.0.0
+address=/cuddly-lamp.vercel.app/0.0.0.0
 address=/culiao.lol/0.0.0.0
 address=/cumbose.vngfzsoz.cn/0.0.0.0
 address=/cuotasypagos.online/0.0.0.0
