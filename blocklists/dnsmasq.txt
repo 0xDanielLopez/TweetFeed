@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4825
-# Updated: 2026-07-24T10:00:28Z
+# Entries: 4826
+# Updated: 2026-07-24T11:15:29Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -686,6 +686,7 @@ address=/cdnjs.{cloudflare.com|fastly.net|keyicon.com|akamai.net|cloudfront.net|
 address=/cdnorigin.net/0.0.0.0
 address=/cdocmudancastransportes.lat/0.0.0.0
 address=/cds-gruop.com/0.0.0.0
+address=/cds.aiservices.workers.dev/0.0.0.0
 address=/cdwety.niwmy.xyz/0.0.0.0
 address=/cebcfc.com/0.0.0.0
 address=/cebracfoz.com.br/0.0.0.0

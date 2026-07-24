@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 4825
-# Updated: 2026-07-24T10:00:28Z
+# Entries: 4826
+# Updated: 2026-07-24T11:15:29Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
@@ -686,6 +686,7 @@
 0.0.0.0 cdnorigin.net
 0.0.0.0 cdocmudancastransportes.lat
 0.0.0.0 cds-gruop.com
+0.0.0.0 cds.aiservices.workers.dev
 0.0.0.0 cdwety.niwmy.xyz
 0.0.0.0 cebcfc.com
 0.0.0.0 cebracfoz.com.br

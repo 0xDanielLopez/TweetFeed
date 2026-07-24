@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 4825
-# Updated: 2026-07-24T10:00:28Z
+# Entries: 4826
+# Updated: 2026-07-24T11:15:29Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/domains.txt
 # https://tweetfeed.live
@@ -686,6 +686,7 @@ cdnjs.{cloudflare.com|fastly.net|keyicon.com|akamai.net|cloudfront.net|gcorelabs
 cdnorigin.net
 cdocmudancastransportes.lat
 cds-gruop.com
+cds.aiservices.workers.dev
 cdwety.niwmy.xyz
 cebcfc.com
 cebracfoz.com.br
