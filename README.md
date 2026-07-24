@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 04:45:22 (UTC)</th>
+        <th colspan=4>2026-07-24 05:00:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 6 | 1135 | 5652 | 54179 |
-| **:globe_with_meridians: Domains** | 6 | 978 | 4756 | 40492 |
+| **:link: URLs** | 8 | 1137 | 5654 | 54181 |
+| **:globe_with_meridians: Domains** | 8 | 980 | 4758 | 40494 |
 | **:triangular_flag_on_post: IPs** | 0 | 118 | 718 | 11411 |
 | **:1234: SHA256** | 0 | 140 | 546 | 2315 |
 | **:1234: MD5** | 0 | 20 | 200 | 2545 |
@@ -161,11 +161,11 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 10 | 834 | 4881 | 35919 |
+| **#phishing** | 14 | 838 | 4885 | 35923 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
 | **#C2** | 0 | 177 | 442 | 14247 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |
-| **#scam** | 0 | 66 | 145 | 6215 |
+| **#scam** | 4 | 70 | 149 | 6219 |
 | **#CobaltStrike** | 0 | 3 | 3 | 3522 |
 | **#malware** | 2 | 123 | 630 | 2655 |
 | **#APT** | 0 | 13 | 216 | 1733 |
@@ -188,9 +188,9 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 | :--- | :---: | :---: |
 | **#1** | [patialavii](https://x.com/patialavii) | 4 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#3** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#5** | [-](https://x.com/-) | 0 |
+| **#3** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#6** | [-](https://x.com/-) | 0 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |

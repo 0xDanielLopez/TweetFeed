@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 4420
-# Updated: 2026-07-24T04:00:22Z
+# Entries: 4422
+# Updated: 2026-07-24T05:00:23Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
@@ -3389,6 +3389,8 @@
 0.0.0.0 smtaxconsultant.com
 0.0.0.0 smtp.barzi.health.gov.il
 0.0.0.0 smubo-seurs.com
+0.0.0.0 snapchat-login-secure.com
+0.0.0.0 snapchat-plus.online
 0.0.0.0 sni13.docsmanagement.endl.site
 0.0.0.0 so-net-ne-jp.duckdns.org
 0.0.0.0 societyplural.click

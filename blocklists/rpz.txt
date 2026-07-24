@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4420
-; Updated: 2026-07-24T04:00:22Z
+; Entries: 4422
+; Updated: 2026-07-24T05:00:23Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784865622 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784869223 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -6776,6 +6776,10 @@ smtp.barzi.health.gov.il CNAME .
 *.smtp.barzi.health.gov.il CNAME .
 smubo-seurs.com CNAME .
 *.smubo-seurs.com CNAME .
+snapchat-login-secure.com CNAME .
+*.snapchat-login-secure.com CNAME .
+snapchat-plus.online CNAME .
+*.snapchat-plus.online CNAME .
 sni13.docsmanagement.endl.site CNAME .
 *.sni13.docsmanagement.endl.site CNAME .
 so-net-ne-jp.duckdns.org CNAME .

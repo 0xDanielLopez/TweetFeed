@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4420
-# Updated: 2026-07-24T04:00:22Z
+# Entries: 4422
+# Updated: 2026-07-24T05:00:23Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -3389,6 +3389,8 @@ address=/smdh7.surf/0.0.0.0
 address=/smtaxconsultant.com/0.0.0.0
 address=/smtp.barzi.health.gov.il/0.0.0.0
 address=/smubo-seurs.com/0.0.0.0
+address=/snapchat-login-secure.com/0.0.0.0
+address=/snapchat-plus.online/0.0.0.0
 address=/sni13.docsmanagement.endl.site/0.0.0.0
 address=/so-net-ne-jp.duckdns.org/0.0.0.0
 address=/societyplural.click/0.0.0.0
