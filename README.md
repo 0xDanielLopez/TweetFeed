@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 12:00:31 (UTC)</th>
+        <th colspan=4>2026-07-24 12:15:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 510 | 1639 | 6156 | 54683 |
-| **:globe_with_meridians: Domains** | 452 | 1424 | 5202 | 40938 |
+| **:link: URLs** | 511 | 1640 | 6157 | 54684 |
+| **:globe_with_meridians: Domains** | 453 | 1425 | 5203 | 40939 |
 | **:triangular_flag_on_post: IPs** | 2 | 120 | 720 | 11413 |
 | **:1234: SHA256** | 4 | 144 | 550 | 2319 |
 | **:1234: MD5** | 7 | 27 | 207 | 2552 |
@@ -193,9 +193,9 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 | **#5** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 6 |
 | **#7** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#10** | [illegalFawn](https://x.com/illegalFawn) | 2 |
+| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [PhishStats](https://x.com/PhishStats) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

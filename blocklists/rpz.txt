@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4826
-; Updated: 2026-07-24T11:15:29Z
+; Entries: 4827
+; Updated: 2026-07-24T12:15:29Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784891729 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784895329 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1794,6 +1794,8 @@ deloitteback2026.onrender.com CNAME .
 *.deloitteback2026.onrender.com CNAME .
 deltaopeak.comp.de CNAME .
 *.deltaopeak.comp.de CNAME .
+deme.stanford.edu CNAME .
+*.deme.stanford.edu CNAME .
 demo.mybluekart.com CNAME .
 *.demo.mybluekart.com CNAME .
 demovote.irsservice.info CNAME .

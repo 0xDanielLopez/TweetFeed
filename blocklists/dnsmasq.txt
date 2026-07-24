@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4826
-# Updated: 2026-07-24T11:15:29Z
+# Entries: 4827
+# Updated: 2026-07-24T12:15:29Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -898,6 +898,7 @@ address=/deliverytradehub.com/0.0.0.0
 address=/deloitte-careers.com/0.0.0.0
 address=/deloitteback2026.onrender.com/0.0.0.0
 address=/deltaopeak.comp.de/0.0.0.0
+address=/deme.stanford.edu/0.0.0.0
 address=/demo.mybluekart.com/0.0.0.0
 address=/demovote.irsservice.info/0.0.0.0
 address=/demovote.lunitefx.com/0.0.0.0
