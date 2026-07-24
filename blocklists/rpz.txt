@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4427
-; Updated: 2026-07-24T06:15:24Z
+; Entries: 4428
+; Updated: 2026-07-24T07:45:24Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784873724 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784879124 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -418,6 +418,8 @@ ai42k661ixylqc0o.tprecord26id.dynv6.net CNAME .
 *.ai42k661ixylqc0o.tprecord26id.dynv6.net CNAME .
 aicvranker.com CNAME .
 *.aicvranker.com CNAME .
+aidlifempowerment.com CNAME .
+*.aidlifempowerment.com CNAME .
 aims-intl.org CNAME .
 *.aims-intl.org CNAME .
 airdrop-destranetwork.live CNAME .

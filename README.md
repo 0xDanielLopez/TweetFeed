@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 07:30:26 (UTC)</th>
+        <th colspan=4>2026-07-24 07:45:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,10 +144,10 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 1144 | 5661 | 54188 |
-| **:globe_with_meridians: Domains** | 13 | 985 | 4763 | 40499 |
+| **:link: URLs** | 17 | 1146 | 5663 | 54190 |
+| **:globe_with_meridians: Domains** | 14 | 986 | 4764 | 40500 |
 | **:triangular_flag_on_post: IPs** | 2 | 120 | 720 | 11413 |
-| **:1234: SHA256** | 0 | 140 | 546 | 2315 |
+| **:1234: SHA256** | 1 | 141 | 547 | 2316 |
 | **:1234: MD5** | 5 | 25 | 205 | 2550 |
 
 </div>
@@ -161,7 +161,7 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 22 | 846 | 4893 | 35931 |
+| **#phishing** | 26 | 850 | 4897 | 35935 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
 | **#C2** | 11 | 188 | 453 | 14258 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |
@@ -187,8 +187,8 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |
-| **#2** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#3** | [patialavii](https://x.com/patialavii) | 4 |
+| **#2** | [patialavii](https://x.com/patialavii) | 8 |
+| **#3** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
 | **#5** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
 | **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
