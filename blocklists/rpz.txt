@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4799
-; Updated: 2026-07-24T09:30:27Z
+; Entries: 4825
+; Updated: 2026-07-24T10:00:28Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784885427 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784887228 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1822,8 +1822,12 @@ devambuly.com CNAME .
 *.devambuly.com CNAME .
 devhub-36yl.pages.dev CNAME .
 *.devhub-36yl.pages.dev CNAME .
+deviwe.ct.ws CNAME .
+*.deviwe.ct.ws CNAME .
 devon-camel-bring-enquiry.trycloudflare.com CNAME .
 *.devon-camel-bring-enquiry.trycloudflare.com CNAME .
+dezined.ct.ws CNAME .
+*.dezined.ct.ws CNAME .
 df.sjickdeh.org CNAME .
 *.df.sjickdeh.org CNAME .
 dfiuygu.work CNAME .
@@ -2518,6 +2522,8 @@ faccai22.com CNAME .
 *.faccai22.com CNAME .
 factor-re.co.il CNAME .
 *.factor-re.co.il CNAME .
+fairelectpodcast.unaux.com CNAME .
+*.fairelectpodcast.unaux.com CNAME .
 faketools.click CNAME .
 *.faketools.click CNAME .
 familiar-tear-freeze-towns.trycloudflare.com CNAME .
@@ -2734,6 +2740,8 @@ fussschmerzenade.de CNAME .
 *.fussschmerzenade.de CNAME .
 futbolt.com.ar CNAME .
 *.futbolt.com.ar CNAME .
+fuxypod.unaux.com CNAME .
+*.fuxypod.unaux.com CNAME .
 fvxcuvuyte.live CNAME .
 *.fvxcuvuyte.live CNAME .
 fwiu.eu.cc CNAME .
@@ -2904,6 +2912,8 @@ googlemeet98ty.pages.dev CNAME .
 *.googlemeet98ty.pages.dev CNAME .
 googlemeeting.help CNAME .
 *.googlemeeting.help CNAME .
+googlepodstream.unaux.com CNAME .
+*.googlepodstream.unaux.com CNAME .
 googletranslatesupport.blog CNAME .
 *.googletranslatesupport.blog CNAME .
 gooqlemeet-now.live CNAME .
@@ -6424,6 +6434,8 @@ police9cs.dns.navy CNAME .
 *.police9cs.dns.navy CNAME .
 politicsinsights.com CNAME .
 *.politicsinsights.com CNAME .
+polverse.pages.dev CNAME .
+*.polverse.pages.dev CNAME .
 portalwale.online CNAME .
 *.portalwale.online CNAME .
 portalyouentregedree.icu CNAME .
@@ -6490,8 +6502,16 @@ predictsuite.io CNAME .
 *.predictsuite.io CNAME .
 premiata.rest CNAME .
 *.premiata.rest CNAME .
+premiumkeypodcast.unaux.com CNAME .
+*.premiumkeypodcast.unaux.com CNAME .
+premiumtalkspodcast.unaux.com CNAME .
+*.premiumtalkspodcast.unaux.com CNAME .
 premiumwebserver.shop CNAME .
 *.premiumwebserver.shop CNAME .
+premiumxtalkspodcast.unaux.com CNAME .
+*.premiumxtalkspodcast.unaux.com CNAME .
+premiumxvote.unaux.com CNAME .
+*.premiumxvote.unaux.com CNAME .
 president.zip CNAME .
 *.president.zip CNAME .
 prestigeloscabo.com CNAME .
@@ -6608,6 +6628,10 @@ public-revenue-info.biz CNAME .
 *.public-revenue-info.biz CNAME .
 publication-saving-reef-delete.trycloudflare.com CNAME .
 *.publication-saving-reef-delete.trycloudflare.com CNAME .
+publichoicepodcast.unaux.com CNAME .
+*.publichoicepodcast.unaux.com CNAME .
+publicxpodcast.unaux.com CNAME .
+*.publicxpodcast.unaux.com CNAME .
 pulseeeee.beer CNAME .
 *.pulseeeee.beer CNAME .
 punchbowl.cyou CNAME .
@@ -8194,6 +8218,8 @@ tuxoiu.net CNAME .
 *.tuxoiu.net CNAME .
 tvcengineeringgroup.com CNAME .
 *.tvcengineeringgroup.com CNAME .
+tvshowhosting.unaux.com CNAME .
+*.tvshowhosting.unaux.com CNAME .
 txmfeidfzs.dns.navy CNAME .
 *.txmfeidfzs.dns.navy CNAME .
 u-feiji.com.cn CNAME .
@@ -8530,6 +8556,8 @@ vestmar-regnskap.xyz CNAME .
 *.vestmar-regnskap.xyz CNAME .
 vestmargruppen.xyz CNAME .
 *.vestmargruppen.xyz CNAME .
+vevicced.ct.ws CNAME .
+*.vevicced.ct.ws CNAME .
 vfvxvbb.com CNAME .
 *.vfvxvbb.com CNAME .
 vibranovax.click CNAME .
@@ -8594,6 +8622,8 @@ volkswagenfinancial.com CNAME .
 *.volkswagenfinancial.com CNAME .
 volkswagenfinancialservicesbrasil.com CNAME .
 *.volkswagenfinancialservicesbrasil.com CNAME .
+vonxypod.unaux.com CNAME .
+*.vonxypod.unaux.com CNAME .
 vorpluxian.site CNAME .
 *.vorpluxian.site CNAME .
 vortix.vu CNAME .
@@ -8654,6 +8684,8 @@ vote.br5ve.top CNAME .
 *.vote.br5ve.top CNAME .
 vote.c4ble.top CNAME .
 *.vote.c4ble.top CNAME .
+vote.ce4se.top CNAME .
+*.vote.ce4se.top CNAME .
 vote.ci4ty.top CNAME .
 *.vote.ci4ty.top CNAME .
 vote.cl4im.top CNAME .
@@ -8864,6 +8896,8 @@ votepodcast.org CNAME .
 *.votepodcast.org CNAME .
 votepoll.freewebhostmost.com CNAME .
 *.votepoll.freewebhostmost.com CNAME .
+votepr6me.ct.ws CNAME .
+*.votepr6me.ct.ws CNAME .
 votepub.org CNAME .
 *.votepub.org CNAME .
 votequests.org CNAME .
@@ -8906,20 +8940,30 @@ voting.hvc7.top CNAME .
 *.voting.hvc7.top CNAME .
 voting.platfom8.top CNAME .
 *.voting.platfom8.top CNAME .
+votingchoice.ichoose-deal.cfd CNAME .
+*.votingchoice.ichoose-deal.cfd CNAME .
 votingglobalprime.ct.ws CNAME .
 *.votingglobalprime.ct.ws CNAME .
 votinghubprime-lv.ct.ws CNAME .
 *.votinghubprime-lv.ct.ws CNAME .
 votinghubprimes-lv.ct.ws CNAME .
 *.votinghubprimes-lv.ct.ws CNAME .
+votingllobalsprimes.fwh.is CNAME .
+*.votingllobalsprimes.fwh.is CNAME .
 votingonline.co.in CNAME .
 *.votingonline.co.in CNAME .
 votingplatform-dl.ct.ws CNAME .
 *.votingplatform-dl.ct.ws CNAME .
 votingsglobals.ct.ws CNAME .
 *.votingsglobals.ct.ws CNAME .
+votzypod.unaux.com CNAME .
+*.votzypod.unaux.com CNAME .
 voxlypod.org CNAME .
 *.voxlypod.org CNAME .
+voxnypod.unaux.com CNAME .
+*.voxnypod.unaux.com CNAME .
+vozyspotifypod.unaux.com CNAME .
+*.vozyspotifypod.unaux.com CNAME .
 vp-cpd.net CNAME .
 *.vp-cpd.net CNAME .
 vpass-co.zip CNAME .
@@ -8990,6 +9034,8 @@ wasitai.com CNAME .
 *.wasitai.com CNAME .
 wattever.com CNAME .
 *.wattever.com CNAME .
+waveformpod.unaux.com CNAME .
+*.waveformpod.unaux.com CNAME .
 wavegate343.ru.com CNAME .
 *.wavegate343.ru.com CNAME .
 wavo4.v6.rocks CNAME .
@@ -9402,10 +9448,16 @@ zebvem.fwh.is CNAME .
 *.zebvem.fwh.is CNAME .
 zecizide.fwh.is CNAME .
 *.zecizide.fwh.is CNAME .
+zemevim.com CNAME .
+*.zemevim.com CNAME .
 zeninc.com CNAME .
 *.zeninc.com CNAME .
+zepodcen.fwh.is CNAME .
+*.zepodcen.fwh.is CNAME .
 zero.heritagenb.net CNAME .
 *.zero.heritagenb.net CNAME .
+zesenik.com CNAME .
+*.zesenik.com CNAME .
 zetewawe.shorts.gy CNAME .
 *.zetewawe.shorts.gy CNAME .
 zezi-pod.ct.ws CNAME .
