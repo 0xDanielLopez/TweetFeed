@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4827
-; Updated: 2026-07-24T12:15:29Z
+; Entries: 4828
+; Updated: 2026-07-24T12:30:29Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784895329 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784896229 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -8494,6 +8494,8 @@ vagaro.online CNAME .
 *.vagaro.online CNAME .
 vagarodas.com CNAME .
 *.vagarodas.com CNAME .
+vapeauroz.com CNAME .
+*.vapeauroz.com CNAME .
 vardag.fit CNAME .
 *.vardag.fit CNAME .
 varq.org CNAME .

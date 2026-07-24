@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 12:15:29 (UTC)</th>
+        <th colspan=4>2026-07-24 12:30:29 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,11 +144,11 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 511 | 1640 | 6157 | 54684 |
-| **:globe_with_meridians: Domains** | 453 | 1425 | 5203 | 40939 |
+| **:link: URLs** | 512 | 1641 | 6158 | 54685 |
+| **:globe_with_meridians: Domains** | 454 | 1426 | 5204 | 40940 |
 | **:triangular_flag_on_post: IPs** | 2 | 120 | 720 | 11413 |
 | **:1234: SHA256** | 4 | 144 | 550 | 2319 |
-| **:1234: MD5** | 7 | 27 | 207 | 2552 |
+| **:1234: MD5** | 8 | 28 | 208 | 2553 |
 
 </div>
 
@@ -186,14 +186,14 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [skocherhan](https://x.com/skocherhan) | 868 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 869 |
 | **#2** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 62 |
 | **#3** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |
 | **#4** | [patialavii](https://x.com/patialavii) | 8 |
 | **#5** | [Metemcyber](https://x.com/Metemcyber) | 8 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 6 |
-| **#7** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 6 |
+| **#8** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
 | **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#10** | [PhishStats](https://x.com/PhishStats) | 2 |
 <!-- TOP_REPORTERS_END -->
