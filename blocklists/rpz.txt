@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4428
-; Updated: 2026-07-24T07:45:24Z
+; Entries: 4479
+; Updated: 2026-07-24T08:15:35Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784879124 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784880935 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1156,6 +1156,8 @@ canetworkcabling.com CNAME .
 *.canetworkcabling.com CNAME .
 canhovinhomesnguyentrai.com CNAME .
 *.canhovinhomesnguyentrai.com CNAME .
+canovaelectric.com CNAME .
+*.canovaelectric.com CNAME .
 canrsa.31thbi.info CNAME .
 *.canrsa.31thbi.info CNAME .
 cantinhodeanjo.com.br CNAME .
@@ -1250,6 +1252,10 @@ ceh.download-msoffice.com CNAME .
 *.ceh.download-msoffice.com CNAME .
 cementslabconstruction.com CNAME .
 *.cementslabconstruction.com CNAME .
+centivote.org CNAME .
+*.centivote.org CNAME .
+centvote.org CNAME .
+*.centvote.org CNAME .
 certainlyous.ppipioo.cn CNAME .
 *.certainlyous.ppipioo.cn CNAME .
 certifiedwebbrowsed.shop CNAME .
@@ -1444,6 +1450,8 @@ coolsshservers.com CNAME .
 *.coolsshservers.com CNAME .
 coral-unique-wasabi.glitch.me CNAME .
 *.coral-unique-wasabi.glitch.me CNAME .
+core-ksa.com CNAME .
+*.core-ksa.com CNAME .
 coredeskio.com CNAME .
 *.coredeskio.com CNAME .
 corepost13.com CNAME .
@@ -1494,6 +1502,8 @@ crypto-pink-eta.vercel.app CNAME .
 *.crypto-pink-eta.vercel.app CNAME .
 csuitexecutive.com CNAME .
 *.csuitexecutive.com CNAME .
+ctfbff.com.br CNAME .
+*.ctfbff.com.br CNAME .
 ctwelo.de CNAME .
 *.ctwelo.de CNAME .
 cuadricenal.digital CNAME .
@@ -1876,6 +1886,8 @@ edew-wlpep.formstack.com CNAME .
 *.edew-wlpep.formstack.com CNAME .
 edition-happens-promised-webcast.trycloudflare.com CNAME .
 *.edition-happens-promised-webcast.trycloudflare.com CNAME .
+edmond-ntakpe.com CNAME .
+*.edmond-ntakpe.com CNAME .
 edoagh.pw CNAME .
 *.edoagh.pw CNAME .
 edoc-eviewerpdf.emilycam.top CNAME .
@@ -2682,6 +2694,8 @@ greenbullet.su CNAME .
 *.greenbullet.su CNAME .
 greenproxysimpleserver.cc CNAME .
 *.greenproxysimpleserver.cc CNAME .
+groendj.nl CNAME .
+*.groendj.nl CNAME .
 groupaz.online CNAME .
 *.groupaz.online CNAME .
 groupeprotectionsecurit.com CNAME .
@@ -2710,6 +2724,10 @@ gtagro.mx CNAME .
 *.gtagro.mx CNAME .
 guck.top CNAME .
 *.guck.top CNAME .
+guestpod.org CNAME .
+*.guestpod.org CNAME .
+guestvoter.org CNAME .
+*.guestvoter.org CNAME .
 guhudeolokghguhumandeylikebroemdfhhfhsjj.duckdns.org CNAME .
 *.guhudeolokghguhumandeylikebroemdfhhfhsjj.duckdns.org CNAME .
 guider.serverpit.com CNAME .
@@ -2996,6 +3014,8 @@ hub.necpas.org CNAME .
 *.hub.necpas.org CNAME .
 hubexus.com CNAME .
 *.hubexus.com CNAME .
+hublyvote.org CNAME .
+*.hublyvote.org CNAME .
 huntinton.top CNAME .
 *.huntinton.top CNAME .
 hurlzo.net CNAME .
@@ -5338,6 +5358,8 @@ opsdn.vu CNAME .
 *.opsdn.vu CNAME .
 options-coinbase.com CNAME .
 *.options-coinbase.com CNAME .
+optivote.org CNAME .
+*.optivote.org CNAME .
 oqbwzb.net CNAME .
 *.oqbwzb.net CNAME .
 orantow.com CNAME .
@@ -5924,6 +5946,8 @@ podstreamglobal.fwh.is CNAME .
 *.podstreamglobal.fwh.is CNAME .
 podstreamglobalsprimes-vl.fwh.is CNAME .
 *.podstreamglobalsprimes-vl.fwh.is CNAME .
+podvote.org CNAME .
+*.podvote.org CNAME .
 podvotinghub.fwh.is CNAME .
 *.podvotinghub.fwh.is CNAME .
 pokergram.de CNAME .
@@ -6036,10 +6060,14 @@ preximportadora.shop CNAME .
 *.preximportadora.shop CNAME .
 priced-broadway-reform-gene.trycloudflare.com CNAME .
 *.priced-broadway-reform-gene.trycloudflare.com CNAME .
+primavote.org CNAME .
+*.primavote.org CNAME .
 primecontent.online CNAME .
 *.primecontent.online CNAME .
 printion.top CNAME .
 *.printion.top CNAME .
+privote.org CNAME .
+*.privote.org CNAME .
 prizeswin.com CNAME .
 *.prizeswin.com CNAME .
 pro-feiji.com.cn CNAME .
@@ -6076,6 +6104,8 @@ prospay.app CNAME .
 *.prospay.app CNAME .
 protocoventures.com CNAME .
 *.protocoventures.com CNAME .
+provoting.org CNAME .
+*.provoting.org CNAME .
 proxyarmy.com CNAME .
 *.proxyarmy.com CNAME .
 prvservice.com CNAME .
@@ -6818,6 +6848,8 @@ solarplusmfg.com CNAME .
 *.solarplusmfg.com CNAME .
 solarplusproducts.com CNAME .
 *.solarplusproducts.com CNAME .
+solunaenterprises.org CNAME .
+*.solunaenterprises.org CNAME .
 solutionpelle.info CNAME .
 *.solutionpelle.info CNAME .
 somethingelse.org.uk CNAME .
@@ -7396,6 +7428,10 @@ theoceanac.online CNAME .
 *.theoceanac.online CNAME .
 thepasastesintagi.casa CNAME .
 *.thepasastesintagi.casa CNAME .
+thevotehost.org CNAME .
+*.thevotehost.org CNAME .
+thevotex.org CNAME .
+*.thevotex.org CNAME .
 thibahlt.lol CNAME .
 *.thibahlt.lol CNAME .
 thisisafalsepositive.st CNAME .
@@ -7480,6 +7516,8 @@ tq8j.com CNAME .
 *.tq8j.com CNAME .
 tradeswheel.lovestoblog.com CNAME .
 *.tradeswheel.lovestoblog.com CNAME .
+tradexexpertfxcourse.com CNAME .
+*.tradexexpertfxcourse.com CNAME .
 tradingview.download CNAME .
 *.tradingview.download CNAME .
 tradingview.marketing CNAME .
@@ -7954,6 +7992,8 @@ vortix.vu CNAME .
 *.vortix.vu CNAME .
 voss-salestraining.de CNAME .
 *.voss-salestraining.de CNAME .
+votarly.org CNAME .
+*.votarly.org CNAME .
 votce-new.ct.ws CNAME .
 *.votce-new.ct.ws CNAME .
 vote-03.ct.ws CNAME .
@@ -8150,12 +8190,36 @@ vote5.netlify.app CNAME .
 *.vote5.netlify.app CNAME .
 vote7.gt.tc CNAME .
 *.vote7.gt.tc CNAME .
+votebase.org CNAME .
+*.votebase.org CNAME .
+votecastly.org CNAME .
+*.votecastly.org CNAME .
+votecat.org CNAME .
+*.votecat.org CNAME .
+votecente.org CNAME .
+*.votecente.org CNAME .
+votecentral.org CNAME .
+*.votecentral.org CNAME .
 votecity.org CNAME .
 *.votecity.org CNAME .
 votecount.wuaze.com CNAME .
 *.votecount.wuaze.com CNAME .
+votecx.org CNAME .
+*.votecx.org CNAME .
+votecycle.org CNAME .
+*.votecycle.org CNAME .
+votedigitals.org CNAME .
+*.votedigitals.org CNAME .
 votefairly.000.pe CNAME .
 *.votefairly.000.pe CNAME .
+voteflyer.org CNAME .
+*.voteflyer.org CNAME .
+voteguest.org CNAME .
+*.voteguest.org CNAME .
+votegy.org CNAME .
+*.votegy.org CNAME .
+votehaus.org CNAME .
+*.votehaus.org CNAME .
 votehub.axqrl.top CNAME .
 *.votehub.axqrl.top CNAME .
 votehubs.xyz.goldenheritagebank.online CNAME .
@@ -8164,10 +8228,20 @@ votehubspotify.pages.dev CNAME .
 *.votehubspotify.pages.dev CNAME .
 votej2umptop.fwh.is CNAME .
 *.votej2umptop.fwh.is CNAME .
+votelement.org CNAME .
+*.votelement.org CNAME .
+voteli.org CNAME .
+*.voteli.org CNAME .
 votelink.dwx2.top CNAME .
 *.votelink.dwx2.top CNAME .
 votelink.w6qx.top CNAME .
 *.votelink.w6qx.top CNAME .
+votelite.org CNAME .
+*.votelite.org CNAME .
+votellc.org CNAME .
+*.votellc.org CNAME .
+votelyte.org CNAME .
+*.votelyte.org CNAME .
 votemax.p07x.top CNAME .
 *.votemax.p07x.top CNAME .
 votenow.c0m6.top CNAME .
@@ -8178,20 +8252,44 @@ votenow.ra1n.xyz CNAME .
 *.votenow.ra1n.xyz CNAME .
 voteplatform.w9y.top CNAME .
 *.voteplatform.w9y.top CNAME .
+votepodcast.org CNAME .
+*.votepodcast.org CNAME .
 votepoll.freewebhostmost.com CNAME .
 *.votepoll.freewebhostmost.com CNAME .
+votepub.org CNAME .
+*.votepub.org CNAME .
+votequests.org CNAME .
+*.votequests.org CNAME .
+votersbase.org CNAME .
+*.votersbase.org CNAME .
 votes.c0m4.top CNAME .
 *.votes.c0m4.top CNAME .
 votes.kr1n.xyz CNAME .
 *.votes.kr1n.xyz CNAME .
 votes.vex1.top CNAME .
 *.votes.vex1.top CNAME .
+votesens.org CNAME .
+*.votesens.org CNAME .
+votesh.org CNAME .
+*.votesh.org CNAME .
 votesite.dwx2.top CNAME .
 *.votesite.dwx2.top CNAME .
+votesocial.org CNAME .
+*.votesocial.org CNAME .
 votesportifyz.pages.dev CNAME .
 *.votesportifyz.pages.dev CNAME .
+votestudio.org CNAME .
+*.votestudio.org CNAME .
 votestyle.b02x.top CNAME .
 *.votestyle.b02x.top CNAME .
+votesurf.org CNAME .
+*.votesurf.org CNAME .
+votesynch.org CNAME .
+*.votesynch.org CNAME .
+votetlc.org CNAME .
+*.votetlc.org CNAME .
+voteway.org CNAME .
+*.voteway.org CNAME .
 voting.br1.xyz CNAME .
 *.voting.br1.xyz CNAME .
 voting.c0m6.top CNAME .
@@ -8210,6 +8308,8 @@ votingplatform-dl.ct.ws CNAME .
 *.votingplatform-dl.ct.ws CNAME .
 votingsglobals.ct.ws CNAME .
 *.votingsglobals.ct.ws CNAME .
+voxlypod.org CNAME .
+*.voxlypod.org CNAME .
 vpass-co.zip CNAME .
 *.vpass-co.zip CNAME .
 vpiwynids.trxs34es.dns.navy CNAME .
@@ -8334,6 +8434,8 @@ weitoub.top CNAME .
 *.weitoub.top CNAME .
 wekash.net CNAME .
 *.wekash.net CNAME .
+wellsvote.org CNAME .
+*.wellsvote.org CNAME .
 west.nous-legal.be CNAME .
 *.west.nous-legal.be CNAME .
 westpeakproperties.net CNAME .
