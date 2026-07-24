@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4424
-; Updated: 2026-07-24T05:30:22Z
+; Entries: 4427
+; Updated: 2026-07-24T06:15:24Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784871022 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784873724 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2210,6 +2210,8 @@ esdeekid.st CNAME .
 *.esdeekid.st CNAME .
 eservices-flenker.de CNAME .
 *.eservices-flenker.de CNAME .
+esevasecurefile.store CNAME .
+*.esevasecurefile.store CNAME .
 espiro.info CNAME .
 *.espiro.info CNAME .
 essilorusa.cfd CNAME .
@@ -4000,6 +4002,10 @@ mois-viewer.o-r.kr CNAME .
 *.mois-viewer.o-r.kr CNAME .
 mongorialialianana.com CNAME .
 *.mongorialialianana.com CNAME .
+monitorondomainwintgt.store CNAME .
+*.monitorondomainwintgt.store CNAME .
+monitorondomainwintgt2.store CNAME .
+*.monitorondomainwintgt2.store CNAME .
 monntgro.com CNAME .
 *.monntgro.com CNAME .
 monteiro.click CNAME .

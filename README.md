@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 06:00:23 (UTC)</th>
+        <th colspan=4>2026-07-24 06:15:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,11 +144,11 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 1141 | 5658 | 54185 |
-| **:globe_with_meridians: Domains** | 10 | 982 | 4760 | 40496 |
+| **:link: URLs** | 15 | 1144 | 5661 | 54188 |
+| **:globe_with_meridians: Domains** | 13 | 985 | 4763 | 40499 |
 | **:triangular_flag_on_post: IPs** | 2 | 120 | 720 | 11413 |
 | **:1234: SHA256** | 0 | 140 | 546 | 2315 |
-| **:1234: MD5** | 0 | 20 | 200 | 2545 |
+| **:1234: MD5** | 5 | 25 | 205 | 2550 |
 
 </div>
 
@@ -163,7 +163,7 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 22 | 846 | 4893 | 35931 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
-| **#C2** | 0 | 177 | 442 | 14247 |
+| **#C2** | 11 | 188 | 453 | 14258 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |
 | **#scam** | 4 | 70 | 149 | 6219 |
 | **#CobaltStrike** | 0 | 3 | 3 | 3522 |
@@ -186,13 +186,13 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [Metemcyber](https://x.com/Metemcyber) | 8 |
-| **#2** | [patialavii](https://x.com/patialavii) | 4 |
-| **#3** | [masaomi346](https://x.com/masaomi346) | 4 |
-| **#4** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
-| **#5** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#1** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |
+| **#2** | [Metemcyber](https://x.com/Metemcyber) | 8 |
+| **#3** | [patialavii](https://x.com/patialavii) | 4 |
+| **#4** | [masaomi346](https://x.com/masaomi346) | 4 |
+| **#5** | [c9lab_soc](https://x.com/c9lab_soc) | 4 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 2 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
