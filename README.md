@@ -46,7 +46,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-07-24 14:00:31 (UTC)</th>
+        <th colspan=4>2026-07-24 14:15:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -144,8 +144,8 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 521 | 1650 | 6167 | 54694 |
-| **:globe_with_meridians: Domains** | 460 | 1432 | 5210 | 40946 |
+| **:link: URLs** | 531 | 1660 | 6177 | 54704 |
+| **:globe_with_meridians: Domains** | 469 | 1441 | 5219 | 40955 |
 | **:triangular_flag_on_post: IPs** | 4 | 122 | 722 | 11415 |
 | **:1234: SHA256** | 8 | 148 | 554 | 2323 |
 | **:1234: MD5** | 12 | 32 | 212 | 2557 |
@@ -161,13 +161,13 @@ See <a href="https://tweetfeed.live/agents/">tweetfeed.live/agents/</a> for the 
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 896 | 1720 | 5767 | 36805 |
+| **#phishing** | 902 | 1726 | 5773 | 36811 |
 | **#Kimsuky** | 0 | 4 | 2148 | 15101 |
 | **#C2** | 11 | 188 | 453 | 14258 |
 | **#DPRK** | 0 | 0 | 2146 | 13479 |
 | **#scam** | 6 | 72 | 151 | 6221 |
 | **#CobaltStrike** | 0 | 3 | 3 | 3522 |
-| **#malware** | 4 | 125 | 632 | 2657 |
+| **#malware** | 5 | 126 | 633 | 2658 |
 | **#APT** | 3 | 16 | 219 | 1736 |
 | **#Interactsh** | 0 | 0 | 0 | 1564 |
 | **#Remcos** | 0 | 7 | 92 | 1245 |
@@ -186,7 +186,7 @@ The full catalog of 120 tags with per-tag landing pages and CSV exports lives at
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [skocherhan](https://x.com/skocherhan) | 880 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 898 |
 | **#2** | [Kb4Threatlabs](https://x.com/Kb4Threatlabs) | 62 |
 | **#3** | [smica83](https://x.com/smica83) | 12 |
 | **#4** | [goldenjackel12](https://x.com/goldenjackel12) | 11 |

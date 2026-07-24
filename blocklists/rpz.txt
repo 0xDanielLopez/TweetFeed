@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4832
-; Updated: 2026-07-24T14:00:31Z
+; Entries: 4838
+; Updated: 2026-07-24T14:15:33Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1784901631 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1784902533 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1716,6 +1716,8 @@ cy51nhs8we6w2s6p.nxdeliv-24id.dynv6.net CNAME .
 *.cy51nhs8we6w2s6p.nxdeliv-24id.dynv6.net CNAME .
 cyberjscore.com CNAME .
 *.cyberjscore.com CNAME .
+cybernode.ru.com CNAME .
+*.cybernode.ru.com CNAME .
 cysta.eu.cc CNAME .
 *.cysta.eu.cc CNAME .
 cz-glszngroup.top CNAME .
@@ -3578,6 +3580,8 @@ iranxfin.online CNAME .
 *.iranxfin.online CNAME .
 irg8gqizqz.dns.army CNAME .
 *.irg8gqizqz.dns.army CNAME .
+irisbutt.duckdns.org CNAME .
+*.irisbutt.duckdns.org CNAME .
 is.gakjhss.com CNAME .
 *.is.gakjhss.com CNAME .
 isfya.eu.cc CNAME .
@@ -3930,6 +3934,8 @@ lamsharedonlywinsdom.sbs CNAME .
 *.lamsharedonlywinsdom.sbs CNAME .
 lanbrio.vu CNAME .
 *.lanbrio.vu CNAME .
+landgforce.duckdns.org CNAME .
+*.landgforce.duckdns.org CNAME .
 lankystocks.com CNAME .
 *.lankystocks.com CNAME .
 lanrio.vu CNAME .
@@ -4184,6 +4190,8 @@ maisonchristina.com CNAME .
 *.maisonchristina.com CNAME .
 makharza.ps CNAME .
 *.makharza.ps CNAME .
+maks.mx CNAME .
+*.maks.mx CNAME .
 malakanifoods.com CNAME .
 *.malakanifoods.com CNAME .
 manage.cdn-verifying.homes CNAME .
@@ -6554,6 +6562,8 @@ procaver.de CNAME .
 *.procaver.de CNAME .
 productinform.com CNAME .
 *.productinform.com CNAME .
+profession-head-wealth-trains.trycloudflare.com CNAME .
+*.profession-head-wealth-trains.trycloudflare.com CNAME .
 proffsen.biz CNAME .
 *.proffsen.biz CNAME .
 programms.cfd CNAME .
@@ -7210,6 +7220,8 @@ service-checkdate-iduser92749.patisonia.com CNAME .
 *.service-checkdate-iduser92749.patisonia.com CNAME .
 service-ocn.duckdns.org CNAME .
 *.service-ocn.duckdns.org CNAME .
+service-onlineauth-ausgov.com CNAME .
+*.service-onlineauth-ausgov.com CNAME .
 service1.truecreds.org CNAME .
 *.service1.truecreds.org CNAME .
 services-so-net.duckdns.org CNAME .
