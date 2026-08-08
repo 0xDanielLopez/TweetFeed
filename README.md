@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 17:00:34 (UTC)</th>
+        <th colspan=4>2026-08-08 17:07:38 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,11 +180,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 34 | 952 | 6491 | 54743 |
-| **:globe_with_meridians: Domains** | 22 | 790 | 5567 | 41861 |
-| **:triangular_flag_on_post: IPs** | 20 | 237 | 884 | 10721 |
-| **:1234: SHA256** | 6 | 142 | 528 | 2519 |
-| **:1234: MD5** | 1 | 91 | 258 | 2548 |
+| **:link: URLs** | 33 | 949 | 5780 | 53689 |
+| **:globe_with_meridians: Domains** | 23 | 788 | 4979 | 40943 |
+| **:triangular_flag_on_post: IPs** | 19 | 236 | 833 | 10656 |
+| **:1234: SHA256** | 5 | 119 | 502 | 2504 |
+| **:1234: MD5** | 1 | 89 | 253 | 2542 |
 
 </div>
 
@@ -197,14 +197,14 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 23 | 805 | 6047 | 38661 |
-| **#Kimsuky** | 0 | 0 | 2082 | 15035 |
-| **#DPRK** | 1 | 3 | 2082 | 13433 |
-| **#C2** | 0 | 48 | 412 | 11802 |
+| **#phishing** | 25 | 807 | 6047 | 38587 |
+| **#Kimsuky** | 0 | 0 | 774 | 13170 |
+| **#C2** | 0 | 48 | 403 | 11798 |
+| **#DPRK** | 1 | 3 | 774 | 11568 |
 | **#scam** | 0 | 6 | 144 | 5869 |
 | **#CobaltStrike** | 0 | 0 | 5 | 2753 |
-| **#malware** | 13 | 113 | 528 | 2749 |
-| **#APT** | 5 | 60 | 123 | 1683 |
+| **#malware** | 13 | 111 | 528 | 2745 |
+| **#APT** | 2 | 60 | 123 | 1680 |
 | **#Interactsh** | 0 | 0 | 0 | 1408 |
 | **#Remcos** | 0 | 0 | 85 | 1008 |
 <!-- TAG_TABLE_END -->
@@ -227,11 +227,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#3** | [webamon_search](https://x.com/webamon_search) | 6 |
 | **#4** | [harugasumi](https://x.com/harugasumi) | 6 |
 | **#5** | [0xhido](https://x.com/0xhido) | 6 |
-| **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
-| **#7** | [sicehice](https://x.com/sicehice) | 4 |
+| **#6** | [sicehice](https://x.com/sicehice) | 4 |
+| **#7** | [phishunt_io](https://x.com/phishunt_io) | 4 |
 | **#8** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
 | **#9** | [abuse_ch](https://x.com/abuse_ch) | 4 |
-| **#10** | [phishunt_io](https://x.com/phishunt_io) | 2 |
+| **#10** | [masaomi346](https://x.com/masaomi346) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
@@ -244,7 +244,7 @@ Search tweets that contain certain tags **or** that are posted by certain *infos
 
 <!-- TAGS_LIST_START -->
 ```
-#phishing, #Kimsuky, #DPRK, #C2, #scam, #CobaltStrike, #malware,
+#phishing, #Kimsuky, #C2, #DPRK, #scam, #CobaltStrike, #malware,
 #APT, #Interactsh, #Remcos
 ```
 <!-- TAGS_LIST_END -->
