@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 10:00:26 (UTC)</th>
+        <th colspan=4>2026-08-08 10:15:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -183,7 +183,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **:link: URLs** | 8 | 926 | 6465 | 54717 |
 | **:globe_with_meridians: Domains** | 6 | 774 | 5551 | 41845 |
 | **:triangular_flag_on_post: IPs** | 7 | 224 | 871 | 10708 |
-| **:1234: SHA256** | 0 | 136 | 522 | 2513 |
+| **:1234: SHA256** | 1 | 137 | 523 | 2514 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
 
 </div>
@@ -203,7 +203,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#C2** | 0 | 48 | 412 | 11802 |
 | **#scam** | 0 | 6 | 144 | 5869 |
 | **#CobaltStrike** | 0 | 0 | 5 | 2753 |
-| **#malware** | 4 | 104 | 519 | 2740 |
+| **#malware** | 5 | 105 | 520 | 2741 |
 | **#APT** | 0 | 55 | 118 | 1678 |
 | **#Interactsh** | 0 | 0 | 0 | 1408 |
 | **#Remcos** | 0 | 0 | 85 | 1008 |
@@ -228,7 +228,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
 | **#5** | [phishunt_io](https://x.com/phishunt_io) | 2 |
 | **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#7** | [akudryk007](https://x.com/akudryk007) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |

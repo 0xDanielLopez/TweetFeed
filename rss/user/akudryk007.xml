@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @akudryk007</title>
+      <link>https://x.com/akudryk007</link>
+      <description>IOCs shared by @akudryk007 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @akudryk007</title>
+         <link>https://x.com/akudryk007</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/akudryk007.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 10:15:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>8a05758bf149bc80368a74d9bff47bea03be779f1013816aafe6886dcdfa9bda</title>
+         <link>https://x.com/akudryk007/status/2086030345506361516</link>
+         <description>@akudryk007 | sha256 | #malware #ransomware
+Value: 8a05758bf149bc80368a74d9bff47bea03be779f1013816aafe6886dcdfa9bda
+Tweet: https://x.com/akudryk007/status/2086030345506361516</description>
+         <guid isPermaLink="false">8a05758bf149bc80368a74d9bff47bea03be779f1013816aafe6886dcdfa9bda</guid>
+         <pubDate>Sat, 08 Aug 2026 10:02:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>
