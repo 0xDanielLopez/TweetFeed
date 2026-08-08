@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 12:15:26 (UTC)</th>
+        <th colspan=4>2026-08-08 12:30:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,8 +180,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 14 | 932 | 6471 | 54723 |
-| **:globe_with_meridians: Domains** | 10 | 778 | 5555 | 41849 |
+| **:link: URLs** | 15 | 933 | 6472 | 54724 |
+| **:globe_with_meridians: Domains** | 11 | 779 | 5556 | 41850 |
 | **:triangular_flag_on_post: IPs** | 12 | 229 | 876 | 10713 |
 | **:1234: SHA256** | 2 | 138 | 524 | 2515 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
@@ -230,8 +230,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
 | **#7** | [phishunt_io](https://x.com/phishunt_io) | 2 |
 | **#8** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#9** | [akudryk007](https://x.com/akudryk007) | 1 |
-| **#10** | [smica83](https://x.com/smica83) | 1 |
+| **#9** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 2 |
+| **#10** | [akudryk007](https://x.com/akudryk007) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
