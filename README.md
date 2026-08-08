@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 13:30:28 (UTC)</th>
+        <th colspan=4>2026-08-08 13:45:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,9 +180,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 29 | 947 | 6486 | 54738 |
-| **:globe_with_meridians: Domains** | 19 | 787 | 5564 | 41858 |
-| **:triangular_flag_on_post: IPs** | 17 | 234 | 881 | 10718 |
+| **:link: URLs** | 31 | 949 | 6488 | 54740 |
+| **:globe_with_meridians: Domains** | 20 | 788 | 5565 | 41859 |
+| **:triangular_flag_on_post: IPs** | 18 | 235 | 882 | 10719 |
 | **:1234: SHA256** | 3 | 139 | 525 | 2516 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
 
@@ -229,9 +229,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#5** | [sicehice](https://x.com/sicehice) | 4 |
 | **#6** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
 | **#7** | [abuse_ch](https://x.com/abuse_ch) | 4 |
-| **#8** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
-| **#9** | [phishunt_io](https://x.com/phishunt_io) | 2 |
-| **#10** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#8** | [0xhido](https://x.com/0xhido) | 4 |
+| **#9** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
+| **#10** | [phishunt_io](https://x.com/phishunt_io) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

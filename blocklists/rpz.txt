@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5415
-; Updated: 2026-08-08T13:00:30Z
+; Entries: 5416
+; Updated: 2026-08-08T13:45:27Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786194030 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786196727 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1790,6 +1790,8 @@ cleanascanbee.com.au CNAME .
 *.cleanascanbee.com.au CNAME .
 clientes-empresa-caixa.com CNAME .
 *.clientes-empresa-caixa.com CNAME .
+clientproject.fun CNAME .
+*.clientproject.fun CNAME .
 climacoolllll202620262026.dynuddns.net CNAME .
 *.climacoolllll202620262026.dynuddns.net CNAME .
 clip-stash.beer CNAME .
