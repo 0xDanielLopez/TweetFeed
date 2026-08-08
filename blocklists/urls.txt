@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 6318
-# Updated: 2026-08-08T00:00:19Z
+# Entries: 6319
+# Updated: 2026-08-08T03:15:17Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -702,6 +702,7 @@ http://94.249.203.150:8080/getcmd
 http://94.249.203.150:8080/status
 http://95.155.151.113/d/xd.arm
 http://95.155.151.113/d/xd.arm7
+http://95.155.151.113/sensi_av.sh
 http://95.181.173.101
 http://95.85.238.57:8080/stiller.exe
 http://96.44.169.124
