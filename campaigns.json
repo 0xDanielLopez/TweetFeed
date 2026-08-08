@@ -1,5 +1,5 @@
 {
-  "campaign_count": 16,
+  "campaign_count": 20,
   "campaigns": [
     {
       "anchors": {
@@ -13,17 +13,16 @@
           "014901490149y.com",
           "014901490149z.com",
           "www01490243dd.com",
-          "www01490258dd.com",
-          "www01490260dd.com"
+          "www01490258dd.com"
         ],
         "tags": [],
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "Hundreds of subdomains across 11 numerically-patterned apex domains (014901490149h/x/y/z/f/i/j/w.com and www01490258/43/60dd.com) embed a baidu label plus a date token in each subdomain name, consistent with Baidu brand impersonation or search-engine abuse. All apex domains were reported by a single researcher on August 4 with over 270 combined IOCs. The shared numeric-suffix naming pattern indicates coordinated infrastructure provisioning by a single actor.",
+      "context": "Hundreds of subdomains across 10 numerically-patterned apex domains (014901490149f/h/i/j/w/x/y/z.com and www01490243/58dd.com) embed a baidu label plus a date token in each subdomain name, consistent with Baidu brand impersonation or search-engine abuse. All apex domains were reported by a single researcher on 2026-08-04 with over 280 combined IOCs. The shared numeric-suffix naming pattern indicates coordinated infrastructure provisioning by a single actor.",
       "first_seen": "2026-08-04",
       "id": "tfc-576f29177a0e",
-      "ioc_count": 270,
+      "ioc_count": 266,
       "iocs": [
         {
           "date": "2026-08-04 22:40:00",
@@ -96,14 +95,6 @@
           "type": "domain",
           "user": "skocherhan",
           "value": "xxdxsw-baidu2026730z.014901490149x.com"
-        },
-        {
-          "date": "2026-08-04 22:40:00",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2084771538969002414",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "www01490260dd.com"
         },
         {
           "date": "2026-08-04 22:40:00",
@@ -224,6 +215,14 @@
           "type": "domain",
           "user": "skocherhan",
           "value": "wsxedzz-baidu2026730z.014901490149i.com"
+        },
+        {
+          "date": "2026-08-04 22:40:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2084771538969002414",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "wsxedyy-baidu2026730z.014901490149i.com"
         }
       ],
       "last_seen": "2026-08-04",
@@ -237,8 +236,7 @@
         "tfc-9d402c58bfd8",
         "tfc-51daf297fd86",
         "tfc-0279c89f4214",
-        "tfc-308eca7fe164",
-        "tfc-76246624f798"
+        "tfc-308eca7fe164"
       ],
       "name": "Baidu phishing wave on 014901490149* family domains",
       "reporters": [
@@ -247,8 +245,8 @@
       "tags": [],
       "targeted_brand": "Baidu",
       "types": {
-        "domain": 135,
-        "url": 135
+        "domain": 133,
+        "url": 133
       }
     },
     {
@@ -264,7 +262,7 @@
         ]
       },
       "confidence": "medium",
-      "context": "Subdomains on catex.at and locaz.icu serve phishing pages at the path /cnbcard/web_sms_activate.php, consistent with a fake card activation flow that harvests SMS one-time passwords. The shared path structure across two unrelated apex domains indicates a common phishing kit deployed on multiple hosts. One researcher reported 19 IOCs on August 4.",
+      "context": "Subdomains on catex.at and locaz.icu serve phishing pages at the path /cnbcard/web_sms_activate.php, consistent with a fake card activation flow that harvests SMS one-time passwords. The shared path structure across two unrelated apex domains indicates a common phishing kit deployed on multiple hosts. One researcher reported 19 IOCs on 2026-08-04.",
       "first_seen": "2026-08-04",
       "id": "tfc-f745f9191a29",
       "ioc_count": 19,
@@ -488,7 +486,7 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "Multiple domains impersonate Telegram using deliberate misspellings - telergam-cdn* subdomains on aa9977rt.com, telegramtghg.com.cn, and fi-telegram.hl.cn - to host phishing pages targeting Telegram users. The Chinese ccTLD usage and .cn-registered subdomains suggest a focus on Chinese-speaking users. A single researcher reported all three clusters on August 4.",
+      "context": "Multiple domains impersonate Telegram using deliberate misspellings - telergam-cdn* subdomains on aa9977rt.com, telegramtghg.com.cn, and fi-telegram.hl.cn - to host phishing pages. The Chinese-registered domains (.com.cn, .hl.cn) and date tokens in subdomain names suggest a focus on Chinese-speaking users. A single researcher reported all three clusters on 2026-08-04.",
       "first_seen": "2026-08-04",
       "id": "tfc-d32a9ac646c3",
       "ioc_count": 14,
@@ -662,7 +660,7 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "Twelve IP addresses tagged as Evilginx adversary-in-the-middle phishing infrastructure were reported by Team Cymru S2 on August 6. Evilginx proxies legitimate login pages to intercept credentials and session cookies, bypassing multi-factor authentication. The IPs span multiple hosting providers and geographic regions, indicating distributed phishing campaign infrastructure.",
+      "context": "Twelve IP addresses tagged as Evilginx adversary-in-the-middle phishing infrastructure were reported by Team Cymru S2 on 2026-08-06. Evilginx proxies legitimate login pages to intercept credentials and session cookies, bypassing multi-factor authentication. The IPs span multiple hosting providers and geographic regions, indicating distributed phishing campaign infrastructure.",
       "first_seen": "2026-08-06",
       "id": "tfc-c0dc0ffd19e4",
       "ioc_count": 12,
@@ -820,6 +818,177 @@
     {
       "anchors": {
         "registered_domains": [
+          "getpixeltap.com",
+          "pub-32e2f642271c45008a1601bacbdfd3f1.r2.dev",
+          "siege-close.com"
+        ],
+        "tags": [
+          "#ClickFix"
+        ],
+        "url_path_patterns": [
+          "/xNiNmd/wN"
+        ]
+      },
+      "confidence": "medium",
+      "context": "A ClickFix social engineering campaign uses fake landing pages on getpixeltap.com and siege-close.com, plus a Cloudflare R2 bucket, to deliver malware with two known SHA256 hashes. A C2 IP at 31.76.87.37 responds on ports 80 and 8443. Four researchers reported 12 IOCs on 2026-08-07.",
+      "first_seen": "2026-08-07",
+      "id": "tfc-d481be07de78",
+      "ioc_count": 12,
+      "iocs": [
+        {
+          "date": "2026-08-07 15:48:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085754876840022351",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "siege-close.com"
+        },
+        {
+          "date": "2026-08-07 15:48:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085754876840022351",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://siege-close.com/x9i32md/w1/la02The"
+        },
+        {
+          "date": "2026-08-07 15:42:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/craiu/status/2085753478039662997",
+          "type": "url",
+          "user": "craiu",
+          "value": "http://siege-close.com/x9i32md/w1/la02"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "domain",
+          "user": "Malwarehunterr",
+          "value": "pub-32e2f642271c45008a1601bacbdfd3f1.r2.dev"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://pub-32e2f642271c45008a1601bacbdfd3f1.r2.dev"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://31.76.87.37:8443"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "url",
+          "user": "Malwarehunterr",
+          "value": "http://31.76.87.37"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "sha256",
+          "user": "Malwarehunterr",
+          "value": "ceb70e58e63eac81b8193e7b0dabd42168feb7929a0005c883967b99e1759732"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "sha256",
+          "user": "Malwarehunterr",
+          "value": "447adde94a1f14ba36c831b1009bd35992e66404aa3a4114b4bca921edab3969"
+        },
+        {
+          "date": "2026-08-07 12:45:00",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/Malwarehunterr/status/2085708869406273724",
+          "type": "ip",
+          "user": "Malwarehunterr",
+          "value": "31.76.87.37"
+        },
+        {
+          "date": "2026-08-07 08:49:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/500mk500/status/2085649442015690895",
+          "type": "url",
+          "user": "500mk500",
+          "value": "http://applanding.getpixeltap.com"
+        },
+        {
+          "date": "2026-08-07 08:49:00",
+          "tags": [
+            "#ClickFix"
+          ],
+          "tweet": "https://x.com/500mk500/status/2085649442015690895",
+          "type": "domain",
+          "user": "500mk500",
+          "value": "applanding.getpixeltap.com"
+        }
+      ],
+      "last_seen": "2026-08-07",
+      "member_cluster_ids": [
+        "tfc-d481be07de78"
+      ],
+      "name": "ClickFix malware delivery via getpixeltap.com and siege-close.com",
+      "reporters": [
+        "500mk500",
+        "Malwarehunterr",
+        "craiu",
+        "skocherhan"
+      ],
+      "tags": [
+        "#ClickFix",
+        "#malware"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 3,
+        "ip": 1,
+        "sha256": 2,
+        "url": 6
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
           "qbnzgt.cfd",
           "rdwksm.cfd",
           "vokser.cfd",
@@ -834,7 +1003,7 @@
         ]
       },
       "confidence": "medium",
-      "context": "Four .cfd domains - vokser.cfd, rdwksm.cfd, vorlen.cfd, and qbnzgt.cfd - serve phishing redirect pages where Cloudflare IP addresses are embedded directly in the URL path after a short token, for example /Ek41lT172.67.157.36CAPTCHA. The CAPTCHA suffix in some paths suggests a fake human-verification lure. Multiple researchers reported combined IOCs on August 3.",
+      "context": "Four .cfd domains - vokser.cfd, rdwksm.cfd, vorlen.cfd, and qbnzgt.cfd - serve phishing redirect pages where Cloudflare IP addresses are embedded directly in the URL path after a short token, for example /Ek41lT172.67.157.36CAPTCHA. The CAPTCHA suffix in some paths suggests a fake human-verification lure. Multiple researchers reported combined IOCs on 2026-08-03.",
       "first_seen": "2026-08-03",
       "id": "tfc-48a44780cc26",
       "ioc_count": 11,
@@ -974,8 +1143,158 @@
     {
       "anchors": {
         "registered_domains": [
+          "angels-travel.com",
+          "caixacat.com",
+          "geek-asylum.com",
+          "urbanizab2b.com",
+          "vignobles-lorgeril.com"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/jmFfvPRN",
+          "/jmFfvPRN/ip"
+        ]
+      },
+      "confidence": "low",
+      "context": "Phishing pages at /jmFfvPRN/ appear on five compromised legitimate hosts - urbanizab2b.com (Spanish B2B), vignobles-lorgeril.com (French winery), angels-travel.com, caixacat.com, and geek-asylum.com. An /ip endpoint variant suggests victim IP geolocation or filtering to serve targeted content. Three researchers reported 11 IOCs between 2026-08-05 and 2026-08-07.",
+      "first_seen": "2026-08-05",
+      "id": "tfc-85433ddf3d14",
+      "ioc_count": 11,
+      "iocs": [
+        {
+          "date": "2026-08-07 22:48:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
+          "type": "url",
+          "user": "kubotaa3",
+          "value": "https://geek-asylum.com/jmFfvPRN/"
+        },
+        {
+          "date": "2026-08-07 22:48:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
+          "type": "url",
+          "user": "kubotaa3",
+          "value": "https://caixacat.com/jmFfvPRN/"
+        },
+        {
+          "date": "2026-08-07 22:48:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
+          "type": "domain",
+          "user": "kubotaa3",
+          "value": "geek-asylum.com"
+        },
+        {
+          "date": "2026-08-07 22:48:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
+          "type": "domain",
+          "user": "kubotaa3",
+          "value": "caixacat.com"
+        },
+        {
+          "date": "2026-08-07 14:44:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2085738913289945155",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://angels-travel.com/jmFfvPRN/"
+        },
+        {
+          "date": "2026-08-07 14:44:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2085738913289945155",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "angels-travel.com"
+        },
+        {
+          "date": "2026-08-05 21:19:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "vignobles-lorgeril.com"
+        },
+        {
+          "date": "2026-08-05 21:19:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "urbanizab2b.com"
+        },
+        {
+          "date": "2026-08-05 21:19:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://vignobles-lorgeril.com/jmFfvPRN/"
+        },
+        {
+          "date": "2026-08-05 21:19:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://urbanizab2b.com/jmFfvPRN/ip"
+        },
+        {
+          "date": "2026-08-05 21:07:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085110467488632880",
+          "type": "url",
+          "user": "kubotaa3",
+          "value": "https://urbanizab2b.com/jmFfvPRN/"
+        }
+      ],
+      "last_seen": "2026-08-07",
+      "member_cluster_ids": [
+        "tfc-85433ddf3d14"
+      ],
+      "name": "Phishing kit on compromised legitimate sites via /jmFfvPRN/ path",
+      "reporters": [
+        "kubotaa3",
+        "masaomi346",
+        "skocherhan"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 5,
+        "url": 6
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
           "ashveil.org",
-          "cf19-427.workers.dev",
           "github.com"
         ],
         "tags": [
@@ -983,16 +1302,48 @@
         ],
         "url_path_patterns": [
           "/dcmN-N",
+          "/dmN-N",
           "/newallyson/ColdCard",
+          "/oven-sh/bun",
           "/serverops-admin/sliver"
         ]
       },
       "confidence": "medium",
-      "context": "Sliver C2 framework is distributed via multiple GitHub repositories using lookalike organization names such as business-N and bytecategory, with a Cloudflare Worker at package-proxy.cf19-427.workers.dev providing proxy routing. The C2 infrastructure resolves to 43.157.204.73 with c2.ashveil.org as a callback domain. Five researchers reported 15 IOCs between July 31 and August 3.",
-      "first_seen": "2026-08-01",
+      "context": "Sliver C2 framework is distributed via multiple GitHub repositories using lookalike organization names, with C2 endpoints at c2.ashveil.org and 43.157.204.73. A fake ColdCard cryptocurrency wallet page (github.com/newallyson/ColdCard) is linked as a lure, and multiple ephemeral GitHub paths (dcm1-*, dm1-*) suggest ongoing infrastructure churn. Four researchers reported 11 IOCs between 2026-08-02 and 2026-08-07.",
+      "first_seen": "2026-08-02",
       "id": "tfc-a281899eb71a",
       "ioc_count": 11,
       "iocs": [
+        {
+          "date": "2026-08-07 10:24:00",
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/ishivtripathi/status/2085673388266369237",
+          "type": "url",
+          "user": "ishivtripathi",
+          "value": "https://github.com/oven-sh/bun/releases/download/"
+        },
+        {
+          "date": "2026-08-07 10:02:00",
+          "tags": [
+            "#stealer"
+          ],
+          "tweet": "https://x.com/suyog41/status/2085667850132558196",
+          "type": "url",
+          "user": "suyog41",
+          "value": "http://github.com/dm1-21726"
+        },
+        {
+          "date": "2026-08-07 10:02:00",
+          "tags": [
+            "#stealer"
+          ],
+          "tweet": "https://x.com/suyog41/status/2085667850132558196",
+          "type": "url",
+          "user": "suyog41",
+          "value": "http://github.com/dcm1-6626"
+        },
         {
           "date": "2026-08-03 17:20:00",
           "tags": [],
@@ -1077,58 +1428,30 @@
           "type": "ip",
           "user": "Yusufcancakiir",
           "value": "43.157.204.73"
-        },
-        {
-          "date": "2026-08-01 23:30:00",
-          "tags": [
-            "#stealer"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2083696922271879306",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://github.com/dcm1-6626"
-        },
-        {
-          "date": "2026-08-01 14:19:00",
-          "tags": [
-            "#Sliver"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2083558212591087649",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "package-proxy.cf19-427.workers.dev"
-        },
-        {
-          "date": "2026-08-01 14:19:00",
-          "tags": [
-            "#Sliver"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2083558212591087649",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://package-proxy.cf19-427.workers.dev"
         }
       ],
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-07",
       "member_cluster_ids": [
         "tfc-a281899eb71a"
       ],
       "name": "Sliver C2 distributed via GitHub lookalike repositories",
       "reporters": [
         "Yusufcancakiir",
-        "skocherhan",
+        "ishivtripathi",
+        "suyog41",
         "threatinsight"
       ],
       "tags": [
         "#C2",
         "#Sliver",
+        "#malware",
         "#stealer"
       ],
       "targeted_brand": null,
       "types": {
-        "domain": 2,
+        "domain": 1,
         "ip": 1,
-        "url": 8
+        "url": 9
       }
     },
     {
@@ -1144,7 +1467,7 @@
         ]
       },
       "confidence": "low",
-      "context": "Nine Android malware samples linked to a Pastebin raw URL (pastebin.com/raw/uh8JXav2) are tagged as Android Trojan. The distinct MD5 hashes suggest active repackaging or multiple payload variants staged at the same URL. Three researchers reported 10 IOCs between August 4 and 6.",
+      "context": "Nine Android malware samples linked to a Pastebin raw URL (pastebin.com/raw/uh8JXav2) are tagged as Android Trojan. The distinct MD5 hashes suggest active repackaging or multiple payload variants staged at the same URL. Three researchers reported 10 IOCs between 2026-08-04 and 2026-08-06.",
       "first_seen": "2026-08-04",
       "id": "tfc-2a49cff13479",
       "ioc_count": 10,
@@ -1290,6 +1613,263 @@
     },
     {
       "anchors": {
+        "registered_domains": [
+          "careerlongprofit.duckdns.org",
+          "cinnamonthai.com",
+          "comeforreealz.duckdns.org",
+          "ygto.com"
+        ],
+        "tags": [
+          "#RemcosRAT"
+        ],
+        "url_path_patterns": [
+          "/cgi-bins/N.N_N_N.exe"
+        ]
+      },
+      "confidence": "medium",
+      "context": "RemcosRAT samples are staged at cinnamonthai.com under /cgi-bins/ with versioned filenames (e.g. 05.08_8080_64.exe) and use DuckDNS hostnames careerlongprofit.duckdns.org and comeforreealz.duckdns.org plus tomwim.ygto.com as C2 endpoints. Two payload MD5 hashes are known. D3LabIT reported 10 IOCs between 2026-08-03 and 2026-08-07.",
+      "first_seen": "2026-08-03",
+      "id": "tfc-7eefe328fb54",
+      "ioc_count": 10,
+      "iocs": [
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "url",
+          "user": "D3LabIT",
+          "value": "http://comeforreealz.duckdns.org"
+        },
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "url",
+          "user": "D3LabIT",
+          "value": "http://cinnamonthai.com/cgi-bins/05.08_8080_64.exe"
+        },
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "url",
+          "user": "D3LabIT",
+          "value": "http://careerlongprofit.duckdns.org"
+        },
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "domain",
+          "user": "D3LabIT",
+          "value": "comeforreealz.duckdns.org"
+        },
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "domain",
+          "user": "D3LabIT",
+          "value": "cinnamonthai.com"
+        },
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "domain",
+          "user": "D3LabIT",
+          "value": "careerlongprofit.duckdns.org"
+        },
+        {
+          "date": "2026-08-07 07:53:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2085635481727897848",
+          "type": "md5",
+          "user": "D3LabIT",
+          "value": "c5572f461bcc603de50104ec6c245098"
+        },
+        {
+          "date": "2026-08-03 10:14:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2084221238768029845",
+          "type": "domain",
+          "user": "D3LabIT",
+          "value": "tomwim.ygto.com"
+        },
+        {
+          "date": "2026-08-03 10:14:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2084221238768029845",
+          "type": "url",
+          "user": "D3LabIT",
+          "value": "http://tomwim.ygto.com"
+        },
+        {
+          "date": "2026-08-03 10:14:00",
+          "tags": [
+            "#RemcosRAT"
+          ],
+          "tweet": "https://x.com/D3LabIT/status/2084221238768029845",
+          "type": "md5",
+          "user": "D3LabIT",
+          "value": "a0cea8cab9dffb06bed0ddd29c9b55c0"
+        }
+      ],
+      "last_seen": "2026-08-07",
+      "member_cluster_ids": [
+        "tfc-7eefe328fb54"
+      ],
+      "name": "RemcosRAT distributed via cinnamonthai.com and DuckDNS C2",
+      "reporters": [
+        "D3LabIT"
+      ],
+      "tags": [
+        "#RemcosRAT"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 4,
+        "md5": 2,
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "anfrgroup.com",
+          "dreamstravelandtour.com",
+          "microsharp.net",
+          "mostaqpal-masr.com"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/secure/secured.php"
+        ]
+      },
+      "confidence": "low",
+      "context": "Phishing pages at /secure/secured.php appear on four domains - anfrgroup.com, dreamstravelandtour.com, microsharp.net, and mostaqpal-masr.com - a mix of likely compromised legitimate sites spanning multiple countries. The consistent path structure across unrelated hosts suggests a shared phishing kit. Kb4Threatlabs reported 8 IOCs on 2026-08-07.",
+      "first_seen": "2026-08-07",
+      "id": "tfc-26851a0c259f",
+      "ioc_count": 8,
+      "iocs": [
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "domain",
+          "user": "Kb4Threatlabs",
+          "value": "testcrm.microsharp.net"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "domain",
+          "user": "Kb4Threatlabs",
+          "value": "mostaqpal-masr.com"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "url",
+          "user": "Kb4Threatlabs",
+          "value": "http://testcrm.microsharp.net/secure/secured.php"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "url",
+          "user": "Kb4Threatlabs",
+          "value": "http://mostaqpal-masr.com/secure/secured.php"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "url",
+          "user": "Kb4Threatlabs",
+          "value": "http://carrental.dreamstravelandtour.com/secure/secured.php"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "url",
+          "user": "Kb4Threatlabs",
+          "value": "http://anfrgroup.com/secure/secured.php"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "domain",
+          "user": "Kb4Threatlabs",
+          "value": "carrental.dreamstravelandtour.com"
+        },
+        {
+          "date": "2026-08-07 12:47:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/Kb4Threatlabs/status/2085709307879035358",
+          "type": "domain",
+          "user": "Kb4Threatlabs",
+          "value": "anfrgroup.com"
+        }
+      ],
+      "last_seen": "2026-08-07",
+      "member_cluster_ids": [
+        "tfc-26851a0c259f"
+      ],
+      "name": "Phishing kit at /secure/secured.php on compromised hosts",
+      "reporters": [
+        "Kb4Threatlabs"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 4,
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
         "registered_domains": [],
         "tags": [
           "#Magecart"
@@ -1297,7 +1877,7 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "Eight IP addresses - a near-consecutive block of 188.127.246.70 through 188.127.246.76 plus 151.243.113.23 - are tagged as Magecart payment-card skimmer infrastructure. The tight sequential IP range suggests a single hosting customer provisioning dedicated skimmer back-end capacity. One researcher from Team Cymru S2 reported 8 IOCs on August 4.",
+      "context": "Eight IP addresses - a near-consecutive block of 188.127.246.70 through 188.127.246.76 plus 151.243.113.23 - are tagged as Magecart payment-card skimmer infrastructure. The tight sequential IP range suggests a single hosting customer provisioning dedicated skimmer back-end capacity. Team Cymru S2 reported 8 IOCs on 2026-08-04.",
       "first_seen": "2026-08-04",
       "id": "tfc-667ab15d22c8",
       "ioc_count": 8,
@@ -1402,6 +1982,217 @@
     {
       "anchors": {
         "registered_domains": [
+          "ra-kusdoawds.com",
+          "ra-posadwad.com"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/MS/main"
+        ]
+      },
+      "confidence": "medium",
+      "context": "Phishing pages at /MS/main/RBS/loginUsername on ra-kusdoawds.com and ra-posadwad.com impersonate Royal Bank of Scotland online banking login. The ra- prefix and shared path structure across both domains suggest a common phishing kit deployment on dedicated infrastructure. Two researchers reported 8 IOCs between 2026-08-06 and 2026-08-07.",
+      "first_seen": "2026-08-06",
+      "id": "tfc-a3636e7e6b5f",
+      "ioc_count": 8,
+      "iocs": [
+        {
+          "date": "2026-08-07 14:25:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085734032415854882",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "ra-posadwad.com"
+        },
+        {
+          "date": "2026-08-07 14:25:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085734032415854882",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "ra-kusdoawds.com"
+        },
+        {
+          "date": "2026-08-07 14:25:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085734032415854882",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://ra-posadwad.com/MS/main/RBS/loginUsername"
+        },
+        {
+          "date": "2026-08-07 14:25:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085734032415854882",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://ra-kusdoawds.com/MS/main/RBS/loginUsername"
+        },
+        {
+          "date": "2026-08-06 21:29:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085478409447374973",
+          "type": "domain",
+          "user": "kubotaa3",
+          "value": "ra-posadwad.com"
+        },
+        {
+          "date": "2026-08-06 21:29:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085478409447374973",
+          "type": "domain",
+          "user": "kubotaa3",
+          "value": "ra-kusdoawds.com"
+        },
+        {
+          "date": "2026-08-06 21:29:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085478409447374973",
+          "type": "url",
+          "user": "kubotaa3",
+          "value": "https://ra-posadwad.com/MS/main/RBS/loginUsername"
+        },
+        {
+          "date": "2026-08-06 21:29:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/kubotaa3/status/2085478409447374973",
+          "type": "url",
+          "user": "kubotaa3",
+          "value": "https://ra-kusdoawds.com/MS/main/RBS/loginUsername"
+        }
+      ],
+      "last_seen": "2026-08-07",
+      "member_cluster_ids": [
+        "tfc-a3636e7e6b5f"
+      ],
+      "name": "Royal Bank of Scotland login phishing on ra-* domains",
+      "reporters": [
+        "kubotaa3",
+        "skocherhan"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": "Royal Bank of Scotland",
+      "types": {
+        "domain": 4,
+        "url": 4
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "secureserver.net"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/pdfPDF",
+          "/vendas.html"
+        ]
+      },
+      "confidence": "low",
+      "context": "Phishing pages are hosted via IP-encoded subdomains on GoDaddy's secureserver.net (e.g. 93.105.205.92.host.secureserver.net), serving content at /vendas.html (Portuguese for 'sales') and /pdfPDF. Using a trusted registrar's shared hosting domain reduces domain-reputation blocking effectiveness. One researcher reported 8 IOCs on 2026-08-07.",
+      "first_seen": "2026-08-07",
+      "id": "tfc-f0c6d53c27e4",
+      "ioc_count": 8,
+      "iocs": [
+        {
+          "date": "2026-08-07 16:12:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085760937739374794",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://93.105.205.92.host.secureserver.net"
+        },
+        {
+          "date": "2026-08-07 16:12:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085760937739374794",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://105.205.92.host.secureserver.net"
+        },
+        {
+          "date": "2026-08-07 16:12:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085760937739374794",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "105.205.92.host.secureserver.net"
+        },
+        {
+          "date": "2026-08-07 15:35:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085751679895429348",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://93.105.205.92.host.secureserver.net/vendas.html"
+        },
+        {
+          "date": "2026-08-07 15:35:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085751679895429348",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "93.105.205.92.host.secureserver.net"
+        },
+        {
+          "date": "2026-08-07 15:11:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085745772406968560",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://10.196.252.46.host.secureserver.net/pdfPDF"
+        },
+        {
+          "date": "2026-08-07 15:11:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2085745772406968560",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "10.196.252.46.host.secureserver.net"
+        },
+        {
+          "date": "2026-08-07 15:07:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085744703325065370",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://10.196.252.46.host.secureserver.net/pdf"
+        }
+      ],
+      "last_seen": "2026-08-07",
+      "member_cluster_ids": [
+        "tfc-f0c6d53c27e4"
+      ],
+      "name": "Phishing on GoDaddy secureserver.net via IP-encoded subdomains",
+      "reporters": [
+        "skocherhan"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "types": {
+        "domain": 3,
+        "url": 5
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
           "dslkk.cn",
           "niuaniu.top",
           "raaglpfplzp.top"
@@ -1412,7 +2203,7 @@
         ]
       },
       "confidence": "low",
-      "context": "Phishing pages at /login paths on dslkk.cn, niuaniu.top, and raaglpfplzp.top target Japanese bank customers, consistent with Resona Bank impersonation previously identified for this cluster. The uniform /login path across geographically diverse hosts is consistent with a shared phishing kit. Two researchers reported 6 IOCs between August 5 and 7.",
+      "context": "Phishing pages at /login paths on dslkk.cn, niuaniu.top, and raaglpfplzp.top target Japanese bank customers, consistent with Resona Bank impersonation. The uniform /login path across geographically diverse hosts is consistent with a shared phishing kit. Two researchers reported 6 IOCs between 2026-08-05 and 2026-08-07.",
       "first_seen": "2026-08-05",
       "id": "tfc-1e9353f8a563",
       "ioc_count": 6,
@@ -1504,7 +2295,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "Three randomized subdomains on edgeone.dev, Tencent's edge cloud platform, are tagged as phishing pages and were active from August 2 to 7. Hosting phishing on legitimate cloud infrastructure reduces the effectiveness of domain-based blocking. One reporter flagged 6 IOCs with no identified targeted brand.",
+      "context": "Three randomized subdomains on edgeone.dev, Tencent's edge cloud platform, are tagged as phishing pages and were active from 2026-08-02 to 2026-08-07. Hosting phishing on legitimate cloud infrastructure reduces the effectiveness of domain-based blocking. One reporter flagged 6 IOCs with no identified targeted brand.",
       "first_seen": "2026-08-02",
       "id": "tfc-212cab595f34",
       "ioc_count": 6,
@@ -1599,7 +2390,7 @@
         ]
       },
       "confidence": "low",
-      "context": "Open directories on nfe.boletos-notas.com, pdf-bro.lat, and dnf.nfexmlfiscal.com.br serve Brazilian Nota Fiscal Eletronica invoice-themed ZIP archives with names such as Nota_-SZESAW.zip, consistent with malware delivery via fake invoice lures. The uniform nfe subdomain pattern and stage-N tracking paths across multiple domains suggest a shared deployment kit. Three reporters flagged 15 IOCs between July 31 and August 5.",
+      "context": "Open directories on dokument-pdf.lat and nfexmlfiscal.com.br (subdomains dnf and xml) expose Brazilian Nota Fiscal Eletronica invoice-themed files, consistent with malware delivery via fake e-invoice lures. The uniform /files/ path and NF-e subdomain naming across unrelated domains suggest a shared deployment kit targeting Brazilian users. JAMESWT_WT reported 6 IOCs on 2026-08-05.",
       "first_seen": "2026-08-05",
       "id": "tfc-2684f8ec85e4",
       "ioc_count": 6,
@@ -1685,276 +2476,142 @@
     {
       "anchors": {
         "registered_domains": [
-          "apreciaciones.com",
-          "aunquenolocreas.com",
-          "baddiehub.com.co"
+          "jpword.cc"
         ],
         "tags": [],
         "url_path_patterns": [
-          "/~netcentrixco/intesasanpaolo"
-        ]
-      },
-      "confidence": "medium",
-      "context": "Compromised shared hosting accounts at apreciaciones.com, baddiehub.com.co, and aunquenolocreas.com host phishing pages under a /~netcentrixco/intesasanpaolo/ path, impersonating the Italian bank Intesa Sanpaolo. The netcentrixco component suggests a recurring actor using the same directory structure across multiple breached hosts. One researcher reported 6 IOCs between August 1 and 2.",
-      "first_seen": "2026-08-01",
-      "id": "tfc-647cce869b07",
-      "ioc_count": 6,
-      "iocs": [
-        {
-          "date": "2026-08-02 13:20:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/AddressIntel/status/2083905676682596691",
-          "type": "url",
-          "user": "AddressIntel",
-          "value": "https://aunquenolocreas.com/~netcentrixco/intesasanpaolo/logi"
-        },
-        {
-          "date": "2026-08-02 13:20:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/AddressIntel/status/2083905676682596691",
-          "type": "domain",
-          "user": "AddressIntel",
-          "value": "aunquenolocreas.com"
-        },
-        {
-          "date": "2026-08-01 13:40:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/AddressIntel/status/2083548317389086733",
-          "type": "url",
-          "user": "AddressIntel",
-          "value": "https://baddiehub.com.co/~netcentrixco/intesasanpaolo/login"
-        },
-        {
-          "date": "2026-08-01 13:40:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/AddressIntel/status/2083548317389086733",
-          "type": "domain",
-          "user": "AddressIntel",
-          "value": "baddiehub.com.co"
-        },
-        {
-          "date": "2026-08-01 13:20:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/AddressIntel/status/2083543287227453574",
-          "type": "url",
-          "user": "AddressIntel",
-          "value": "https://apreciaciones.com/~netcentrixco/intesasanpaolo/login-"
-        },
-        {
-          "date": "2026-08-01 13:20:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/AddressIntel/status/2083543287227453574",
-          "type": "domain",
-          "user": "AddressIntel",
-          "value": "apreciaciones.com"
-        }
-      ],
-      "last_seen": "2026-08-02",
-      "member_cluster_ids": [
-        "tfc-647cce869b07"
-      ],
-      "name": "Intesa Sanpaolo phishing on shared hosting",
-      "reporters": [
-        "AddressIntel"
-      ],
-      "tags": [
-        "#phishing"
-      ],
-      "targeted_brand": "Intesa Sanpaolo",
-      "types": {
-        "domain": 3,
-        "url": 3
-      }
-    },
-    {
-      "anchors": {
-        "registered_domains": [
-          "mg-euwqnasnd.com",
-          "mu-hiqwnkesad.com"
-        ],
-        "tags": [],
-        "url_path_patterns": [
-          "/pc_N/sp_NuN"
+          "/setup.pdf"
         ]
       },
       "confidence": "low",
-      "context": "Randomized domains mu-hiqwnkesad.com and mg-euwqnasnd.com serve phishing pages using a /pc_NNNN/sp_NNNuNNN/login/loginUsername path structure consistent with Japanese banking credential harvesting. The numeric codes in the path may encode victim or session identifiers. Two researchers reported 6 IOCs between August 1 and 5.",
-      "first_seen": "2026-08-01",
-      "id": "tfc-6a6c6aa7836a",
-      "ioc_count": 6,
-      "iocs": [
-        {
-          "date": "2026-08-05 21:21:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085114015420735794",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "mg-euwqnasnd.com"
-        },
-        {
-          "date": "2026-08-05 21:21:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085114015420735794",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginUsername"
-        },
-        {
-          "date": "2026-08-02 02:46:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2083746267960840662",
-          "type": "domain",
-          "user": "kubotaa3",
-          "value": "mg-euwqnasnd.com"
-        },
-        {
-          "date": "2026-08-02 02:46:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2083746267960840662",
-          "type": "url",
-          "user": "kubotaa3",
-          "value": "https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginUsername"
-        },
-        {
-          "date": "2026-08-01 01:40:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2083367233183715611",
-          "type": "domain",
-          "user": "kubotaa3",
-          "value": "mu-hiqwnkesad.com"
-        },
-        {
-          "date": "2026-08-01 01:40:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2083367233183715611",
-          "type": "url",
-          "user": "kubotaa3",
-          "value": "https://mu-hiqwnkesad.com/pc_0010021312/sp_001239u1923/login/loginUsername"
-        }
-      ],
-      "last_seen": "2026-08-05",
-      "member_cluster_ids": [
-        "tfc-6a6c6aa7836a"
-      ],
-      "name": "Japanese bank login phishing on randomized domains",
-      "reporters": [
-        "kubotaa3",
-        "skocherhan"
-      ],
-      "tags": [
-        "#phishing"
-      ],
-      "targeted_brand": null,
-      "types": {
-        "domain": 3,
-        "url": 3
-      }
-    },
-    {
-      "anchors": {
-        "registered_domains": [
-          "urbanizab2b.com",
-          "vignobles-lorgeril.com"
-        ],
-        "tags": [],
-        "url_path_patterns": [
-          "/jmFfvPRN",
-          "/jmFfvPRN/ip"
-        ]
-      },
-      "confidence": "low",
-      "context": "Phishing pages under the path /jmFfvPRN/ appear on urbanizab2b.com, a Spanish B2B platform, and vignobles-lorgeril.com, a French winery, both likely compromised legitimate hosts. An /ip endpoint variant suggests victim IP geolocation or filtering is in use to serve targeted content. Two researchers reported 5 IOCs on August 5.",
-      "first_seen": "2026-08-05",
-      "id": "tfc-85433ddf3d14",
+      "context": "The domain jpword.cc and subdomain agent.jpword.cc serve a /setup.pdf file suggesting a document lure for malware delivery, with jpword.cc also accessible on port 8383 as a likely C2 endpoint. Two researchers reported 5 IOCs on 2026-08-06.",
+      "first_seen": "2026-08-06",
+      "id": "tfc-650dbb7a3d9b",
       "ioc_count": 5,
       "iocs": [
         {
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "date": "2026-08-06 08:29:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2085282101403017672",
+          "type": "url",
+          "user": "bomccss",
+          "value": "https://jpword.cc:8383"
+        },
+        {
+          "date": "2026-08-06 08:29:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2085282101403017672",
+          "type": "url",
+          "user": "bomccss",
+          "value": "https://agent.jpword.cc/setup.pdf"
+        },
+        {
+          "date": "2026-08-06 08:29:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2085282101403017672",
           "type": "domain",
-          "user": "skocherhan",
-          "value": "vignobles-lorgeril.com"
+          "user": "bomccss",
+          "value": "agent.jpword.cc"
         },
         {
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "date": "2026-08-06 07:44:00",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2085270818209374435",
           "type": "domain",
-          "user": "skocherhan",
-          "value": "urbanizab2b.com"
+          "user": "tdatwja",
+          "value": "jpword.cc"
         },
         {
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
+          "date": "2026-08-06 07:44:00",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2085270818209374435",
           "type": "url",
-          "user": "skocherhan",
-          "value": "https://vignobles-lorgeril.com/jmFfvPRN/"
-        },
-        {
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "https://urbanizab2b.com/jmFfvPRN/ip"
-        },
-        {
-          "date": "2026-08-05 21:07:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2085110467488632880",
-          "type": "url",
-          "user": "kubotaa3",
-          "value": "https://urbanizab2b.com/jmFfvPRN/"
+          "user": "tdatwja",
+          "value": "http://jpword.cc"
         }
       ],
-      "last_seen": "2026-08-05",
+      "last_seen": "2026-08-06",
       "member_cluster_ids": [
-        "tfc-85433ddf3d14"
+        "tfc-650dbb7a3d9b"
       ],
-      "name": "Phishing kit on compromised legitimate sites via /jmFfvPRN/ path",
+      "name": "Malware delivery via jpword.cc with /setup.pdf lure",
       "reporters": [
-        "kubotaa3",
-        "skocherhan"
+        "bomccss",
+        "tdatwja"
       ],
-      "tags": [
-        "#phishing"
+      "tags": [],
+      "targeted_brand": null,
+      "types": {
+        "domain": 2,
+        "url": 3
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
+          "hostinger.com"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "Subdomains smtp.hostinger.com and c2smtp.hostinger.com on port 587 appear in IOC feeds as command-and-control SMTP channels. The c2smtp subdomain label directly indicates malicious use, likely data exfiltration or bot tasking routed through legitimate Hostinger email infrastructure to evade IP-based blocking. Two researchers reported 5 IOCs on 2026-08-06.",
+      "first_seen": "2026-08-06",
+      "id": "tfc-85f9d7ba4fd0",
+      "ioc_count": 5,
+      "iocs": [
+        {
+          "date": "2026-08-06 16:50:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085408100324925763",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://C2smtp.hostinger.com:587"
+        },
+        {
+          "date": "2026-08-06 16:50:00",
+          "tags": [],
+          "tweet": "https://x.com/skocherhan/status/2085408100324925763",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "c2smtp.hostinger.com"
+        },
+        {
+          "date": "2026-08-06 14:35:00",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2085374322970165406",
+          "type": "url",
+          "user": "bomccss",
+          "value": "http://smtp.hostinger.com:587"
+        },
+        {
+          "date": "2026-08-06 08:03:00",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2085275624449708515",
+          "type": "domain",
+          "user": "tdatwja",
+          "value": "smtp.hostinger.com"
+        },
+        {
+          "date": "2026-08-06 08:03:00",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2085275624449708515",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://smtp.hostinger.com"
+        }
       ],
+      "last_seen": "2026-08-06",
+      "member_cluster_ids": [
+        "tfc-85f9d7ba4fd0"
+      ],
+      "name": "C2 SMTP channel via Hostinger mail infrastructure",
+      "reporters": [
+        "bomccss",
+        "skocherhan",
+        "tdatwja"
+      ],
+      "tags": [],
       "targeted_brand": null,
       "types": {
         "domain": 2,
@@ -1970,7 +2627,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "Subdomains a2 and e1 on cdnresolver.com are tagged as stealer command-and-control endpoints. The domain name mimics a legitimate CDN resolver service to blend malicious traffic with routine network infrastructure lookups. One researcher reported 4 IOCs on August 4.",
+      "context": "Subdomains a2 and e1 on cdnresolver.com are tagged as stealer command-and-control endpoints. The domain name mimics a legitimate CDN resolver service to blend malicious traffic with routine network infrastructure lookups. One researcher reported 4 IOCs on 2026-08-04.",
       "first_seen": "2026-08-04",
       "id": "tfc-1634dd345048",
       "ioc_count": 4,
@@ -2032,82 +2689,9 @@
         "domain": 2,
         "url": 2
       }
-    },
-    {
-      "anchors": {
-        "registered_domains": [
-          "eliice.com"
-        ],
-        "tags": [],
-        "url_path_patterns": []
-      },
-      "confidence": "low",
-      "context": "Eliice.com, a scam site previously observed alongside the lookalike domain eliece.vip, continues to be flagged with 4 IOCs. The same two researchers flagged both domains on August 1-2, suggesting a single actor operating near-identical sites under slightly different names to capture mistyped traffic.",
-      "first_seen": "2026-08-01",
-      "id": "tfc-2b86246a7089",
-      "ioc_count": 4,
-      "iocs": [
-        {
-          "date": "2026-08-02 06:10:00",
-          "tags": [
-            "#scam"
-          ],
-          "tweet": "https://x.com/DanielWils59/status/2083797488222298572",
-          "type": "url",
-          "user": "DanielWils59",
-          "value": "http://eliice.com"
-        },
-        {
-          "date": "2026-08-02 06:10:00",
-          "tags": [
-            "#scam"
-          ],
-          "tweet": "https://x.com/DanielWils59/status/2083797488222298572",
-          "type": "domain",
-          "user": "DanielWils59",
-          "value": "eliice.com"
-        },
-        {
-          "date": "2026-08-01 05:07:00",
-          "tags": [
-            "#scam"
-          ],
-          "tweet": "https://x.com/Azzzzng71/status/2083419281597849775",
-          "type": "url",
-          "user": "Azzzzng71",
-          "value": "http://eliice.com"
-        },
-        {
-          "date": "2026-08-01 05:07:00",
-          "tags": [
-            "#scam"
-          ],
-          "tweet": "https://x.com/Azzzzng71/status/2083419281597849775",
-          "type": "domain",
-          "user": "Azzzzng71",
-          "value": "eliice.com"
-        }
-      ],
-      "last_seen": "2026-08-02",
-      "member_cluster_ids": [
-        "tfc-2b86246a7089"
-      ],
-      "name": "Scam cluster on eliice.com and eliece.vip",
-      "reporters": [
-        "Azzzzng71",
-        "DanielWils59"
-      ],
-      "tags": [
-        "#scam"
-      ],
-      "targeted_brand": null,
-      "types": {
-        "domain": 2,
-        "url": 2
-      }
     }
   ],
-  "generated_at": "2026-08-07T06:29:07Z",
+  "generated_at": "2026-08-08T06:29:51Z",
   "stale": false,
   "stale_since": null,
   "version": 1,
