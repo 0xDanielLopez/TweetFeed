@@ -1,5 +1,5 @@
 {
-  "count": 7597,
+  "count": 7600,
   "dead_tweets": {},
   "entries": {
     "000.rich": {
@@ -23820,6 +23820,21 @@
       "type": "sha256",
       "value": "915ea4f614150d2228d248a1af6086bdb0b40a71c6c8baaa86cdccf0f6f4095e"
     },
+    "917d572e7e89670bc817a44dd2c47fa5": {
+      "confidence": 0.82,
+      "date": "2026-08-08 02:53:00",
+      "enriched_at": "2026-08-08T06:40:04Z",
+      "family": "multiverze",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "RCE exploit targeting AVTECH AVM1203 cameras via CVE-2024-7029 to deploy Multiverze DDoS malware from NL IP.",
+      "threat_type": "malware",
+      "tweet_id": "2085922429092712628",
+      "type": "md5",
+      "value": "917d572e7e89670bc817a44dd2c47fa5"
+    },
     "918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593": {
       "confidence": 0.3,
       "date": "2026-08-01 04:49:00",
@@ -24429,6 +24444,36 @@
       "tweet_id": "2083976089622196409",
       "type": "url",
       "value": "http://95.155.151.113/d/xd.arm7"
+    },
+    "95.155.151.113/sensi_av.sh": {
+      "confidence": 0.82,
+      "date": "2026-08-08 02:53:00",
+      "enriched_at": "2026-08-08T06:40:04Z",
+      "family": "multiverze",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "RCE exploit targeting AVTECH AVM1203 cameras via CVE-2024-7029 to deploy Multiverze DDoS malware from NL IP.",
+      "threat_type": "malware",
+      "tweet_id": "2085922429092712628",
+      "type": "url",
+      "value": "http://95.155.151.113/sensi_av.sh"
+    },
+    "95.155.151.24": {
+      "confidence": 0.82,
+      "date": "2026-08-08 02:53:00",
+      "enriched_at": "2026-08-08T06:40:04Z",
+      "family": "multiverze",
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "RCE exploit targeting AVTECH AVM1203 cameras via CVE-2024-7029 to deploy Multiverze DDoS malware from NL IP.",
+      "threat_type": "malware",
+      "tweet_id": "2085922429092712628",
+      "type": "ip",
+      "value": "95.155.151.24"
     },
     "95.181.173.101": {
       "confidence": 0.75,
@@ -119600,6 +119645,6 @@
       "value": "\ubd84\uc11d-votingonline.co.in"
     }
   },
-  "generated_at": "2026-08-08T00:40:03Z",
+  "generated_at": "2026-08-08T06:40:04Z",
   "window_days": 30
 }
