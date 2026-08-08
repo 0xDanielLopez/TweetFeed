@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 6328
-# Updated: 2026-08-08T10:45:25Z
+# Entries: 6330
+# Updated: 2026-08-08T11:45:25Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -137,6 +137,8 @@ http://123.58.201.222
 http://123.58.201.34
 http://123.58.201.8
 http://124.198.132.5
+http://124.46.130.42/login.png
+http://124.46.130.42/view.php?type=apple&seed=[MAC
 http://125.47.207.244:49245/Mozi.m
 http://127.0.0.1:12437
 http://129.121.91.245:9000

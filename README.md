@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 11:30:26 (UTC)</th>
+        <th colspan=4>2026-08-08 11:45:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,9 +180,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 12 | 930 | 6469 | 54721 |
+| **:link: URLs** | 14 | 932 | 6471 | 54723 |
 | **:globe_with_meridians: Domains** | 10 | 778 | 5555 | 41849 |
-| **:triangular_flag_on_post: IPs** | 7 | 224 | 871 | 10708 |
+| **:triangular_flag_on_post: IPs** | 8 | 225 | 872 | 10709 |
 | **:1234: SHA256** | 2 | 138 | 524 | 2515 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#scam** | 0 | 6 | 144 | 5869 |
 | **#CobaltStrike** | 0 | 0 | 5 | 2753 |
 | **#malware** | 5 | 105 | 520 | 2741 |
-| **#APT** | 0 | 55 | 118 | 1678 |
+| **#APT** | 3 | 58 | 121 | 1681 |
 | **#Interactsh** | 0 | 0 | 0 | 1408 |
 | **#Remcos** | 0 | 0 | 85 | 1008 |
 <!-- TAG_TABLE_END -->
@@ -226,11 +226,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#2** | [sicehice](https://x.com/sicehice) | 4 |
 | **#3** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
 | **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#5** | [phishunt_io](https://x.com/phishunt_io) | 2 |
-| **#6** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#7** | [akudryk007](https://x.com/akudryk007) | 1 |
-| **#8** | [smica83](https://x.com/smica83) | 1 |
-| **#9** | [-](https://x.com/-) | 0 |
+| **#5** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 2 |
+| **#7** | [masaomi346](https://x.com/masaomi346) | 2 |
+| **#8** | [akudryk007](https://x.com/akudryk007) | 1 |
+| **#9** | [smica83](https://x.com/smica83) | 1 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
 
