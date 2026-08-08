@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5405
-; Updated: 2026-08-08T09:00:26Z
+; Entries: 5407
+; Updated: 2026-08-08T10:30:25Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786179626 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786185025 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1562,6 +1562,8 @@ careconx.com CNAME .
 *.careconx.com CNAME .
 careerlongprofit.duckdns.org CNAME .
 *.careerlongprofit.duckdns.org CNAME .
+carefullinkwatch.shop CNAME .
+*.carefullinkwatch.shop CNAME .
 carlightingking.com CNAME .
 *.carlightingking.com CNAME .
 carogra.biz CNAME .
@@ -7184,6 +7186,8 @@ ppqianu.net CNAME .
 *.ppqianu.net CNAME .
 ppz0y9a6grw3veoqwz.live CNAME .
 *.ppz0y9a6grw3veoqwz.live CNAME .
+practicalnetworkwatch.shop CNAME .
+*.practicalnetworkwatch.shop CNAME .
 premiata.rest CNAME .
 *.premiata.rest CNAME .
 premio-instagram.com CNAME .
