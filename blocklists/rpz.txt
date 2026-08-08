@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5402
-; Updated: 2026-08-08T08:30:24Z
+; Entries: 5405
+; Updated: 2026-08-08T09:00:26Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786177824 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786179626 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2886,6 +2886,8 @@ essnacex.top CNAME .
 *.essnacex.top CNAME .
 eta.389838.xyz CNAME .
 *.eta.389838.xyz CNAME .
+ethercdnns.beer CNAME .
+*.ethercdnns.beer CNAME .
 ethereum-rpc.publicnode.com CNAME .
 *.ethereum-rpc.publicnode.com CNAME .
 ethervane.com CNAME .
@@ -4454,6 +4456,8 @@ lcloud-findmydevicesid.com CNAME .
 *.lcloud-findmydevicesid.com CNAME .
 lcloud-findmydevicesid.net CNAME .
 *.lcloud-findmydevicesid.net CNAME .
+ldnscreatejs.beer CNAME .
+*.ldnscreatejs.beer CNAME .
 leads.marke-ter.online CNAME .
 *.leads.marke-ter.online CNAME .
 learntheaddress.org CNAME .
@@ -5602,6 +5606,8 @@ ndoctax.dns.navy CNAME .
 *.ndoctax.dns.navy CNAME .
 neighborhood-renovations.com CNAME .
 *.neighborhood-renovations.com CNAME .
+neiwteamcdn.beer CNAME .
+*.neiwteamcdn.beer CNAME .
 nemvem.fwh.is CNAME .
 *.nemvem.fwh.is CNAME .
 nentendo.net CNAME .
