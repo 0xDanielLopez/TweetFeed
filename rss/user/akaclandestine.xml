@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @akaclandestine</title>
+      <link>https://x.com/akaclandestine</link>
+      <description>IOCs shared by @akaclandestine and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @akaclandestine</title>
+         <link>https://x.com/akaclandestine</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/akaclandestine.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 14:30:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>5.230.54.41</title>
+         <link>https://x.com/akaclandestine/status/2086061744615489923</link>
+         <description>@akaclandestine | ip | #phishing
+Value: 5.230.54.41
+Tweet: https://x.com/akaclandestine/status/2086061744615489923</description>
+         <guid isPermaLink="false">5.230.54.41</guid>
+         <pubDate>Sat, 08 Aug 2026 12:07:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>
