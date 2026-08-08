@@ -1,5 +1,5 @@
 {
-  "count": 7570,
+  "count": 7597,
   "dead_tweets": {},
   "entries": {
     "000.rich": {
@@ -1577,6 +1577,38 @@
       "tweet_id": "2080980884162023621",
       "type": "ip",
       "value": "103.106.66.147"
+    },
+    "103.112.97.64": {
+      "confidence": 0.87,
+      "date": "2026-08-07 21:45:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "c2"
+      ],
+      "summary": "ValleyRAT/SilverFox samples with DLL sideloading, gist-hosted payload staging, and C2 at 103.112.97.64:8080 (AROSSCLOUD).",
+      "threat_type": "malware",
+      "tweet_id": "2085844709713358923",
+      "type": "ip",
+      "value": "103.112.97.64"
+    },
+    "103.112.97.64:8080": {
+      "confidence": 0.87,
+      "date": "2026-08-07 21:45:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "c2"
+      ],
+      "summary": "ValleyRAT/SilverFox samples with DLL sideloading, gist-hosted payload staging, and C2 at 103.112.97.64:8080 (AROSSCLOUD).",
+      "threat_type": "malware",
+      "tweet_id": "2085844709713358923",
+      "type": "url",
+      "value": "http://103.112.97.64:8080"
     },
     "103.117.100.117": {
       "confidence": 0.8,
@@ -4358,6 +4390,54 @@
       "type": "url",
       "value": "http://134.122.185.201:6698"
     },
+    "134.122.204.55": {
+      "confidence": 0.85,
+      "date": "2026-08-07 22:06:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT/SilverFox C2 infrastructure at 134.122.204.55 on ports 6666 and 8888, hosted by CTG Server Limited (Japan).",
+      "threat_type": "c2",
+      "tweet_id": "2085850140334489715",
+      "type": "ip",
+      "value": "134.122.204.55"
+    },
+    "134.122.204.55:6666": {
+      "confidence": 0.85,
+      "date": "2026-08-07 22:06:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT/SilverFox C2 infrastructure at 134.122.204.55 on ports 6666 and 8888, hosted by CTG Server Limited (Japan).",
+      "threat_type": "c2",
+      "tweet_id": "2085850140334489715",
+      "type": "url",
+      "value": "http://134.122.204.55:6666"
+    },
+    "134.122.204.55:8888": {
+      "confidence": 0.85,
+      "date": "2026-08-07 22:06:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT/SilverFox C2 infrastructure at 134.122.204.55 on ports 6666 and 8888, hosted by CTG Server Limited (Japan).",
+      "threat_type": "c2",
+      "tweet_id": "2085850140334489715",
+      "type": "url",
+      "value": "http://134.122.204.55:8888"
+    },
     "134.195.88.33": {
       "confidence": 0.9,
       "date": "2026-07-26 15:38:00",
@@ -5928,6 +6008,20 @@
       "type": "ip",
       "value": "154.201.70.25"
     },
+    "154.204.26.195": {
+      "confidence": 0.95,
+      "date": "2026-08-07 22:48:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) using caixacat.com and geek-asylum.com domains hosted on GNET (AS9294).",
+      "threat_type": "phishing",
+      "tweet_id": "2085860573259210880",
+      "type": "ip",
+      "value": "154.204.26.195"
+    },
     "154.217.241.175": {
       "confidence": 0.8,
       "date": "2026-08-07 13:03:00",
@@ -6677,6 +6771,20 @@
       "tweet_id": "2080979122709545087",
       "type": "ip",
       "value": "163.5.102.194"
+    },
+    "163ahkd7k.duckdns.org": {
+      "confidence": 0.92,
+      "date": "2026-08-07 22:58:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) via DuckDNS subdomains and IPs on Hdtidc Limited infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2085863285014855955",
+      "type": "domain",
+      "value": "163ahkd7k.duckdns.org"
     },
     "163e4a72cbe392c073eddc60aee69dc1cf87ce492c375af74e923d75d8084683": {
       "confidence": 0.7,
@@ -7830,6 +7938,20 @@
       "type": "sha256",
       "value": "181349b08b8da309823b3b6a670ce13581ff82af7b03db71ba60c705d0620261"
     },
+    "182.161.66.14": {
+      "confidence": 0.92,
+      "date": "2026-08-07 22:58:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) via DuckDNS subdomains and IPs on Hdtidc Limited infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2085863285014855955",
+      "type": "url",
+      "value": "http://182.161.66.14"
+    },
     "182.92.180.194": {
       "confidence": 0.8,
       "date": "2026-08-07 07:14:00",
@@ -8822,6 +8944,23 @@
       "tweet_id": "2078199955047543181",
       "type": "ip",
       "value": "192.238.181.60"
+    },
+    "192.252.178.228": {
+      "confidence": 0.82,
+      "date": "2026-08-07 20:53:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "opendir",
+        "c2"
+      ],
+      "summary": "Ravartar malware open directory at 192.252.178.228; ZillberRelayHost.exe and LNK dropper observed, hosted by CTG Server Limited (US).",
+      "threat_type": "malware",
+      "tweet_id": "2085831821615333436",
+      "type": "url",
+      "value": "http://192.252.178.228"
     },
     "192.252.180.45": {
       "confidence": 0.75,
@@ -9886,6 +10025,23 @@
       "tweet_id": "2079454428038406646",
       "type": "sha256",
       "value": "1aadea997fc4eda5a8a04e68f6e1828c93e00e817e50c5b6ef874faef43f7fca"
+    },
+    "1ac13ebb0f5f90bae4692a4c7fe8b6c2": {
+      "confidence": 0.82,
+      "date": "2026-08-07 20:53:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "opendir",
+        "c2"
+      ],
+      "summary": "Ravartar malware open directory at 192.252.178.228; ZillberRelayHost.exe and LNK dropper observed, hosted by CTG Server Limited (US).",
+      "threat_type": "malware",
+      "tweet_id": "2085831821615333436",
+      "type": "md5",
+      "value": "1ac13ebb0f5f90bae4692a4c7fe8b6c2"
     },
     "1ac87c87bc585605b75b269ca510fc52": {
       "confidence": 0.88,
@@ -15623,6 +15779,23 @@
       "type": "sha256",
       "value": "41ee7ddb2be173686dc3a73a49b4e93bc883ef363acca770f7ede891451122ab"
     },
+    "424276f503040bf22b9d98f61fbe49c0": {
+      "confidence": 0.82,
+      "date": "2026-08-07 20:53:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "opendir",
+        "c2"
+      ],
+      "summary": "Ravartar malware open directory at 192.252.178.228; ZillberRelayHost.exe and LNK dropper observed, hosted by CTG Server Limited (US).",
+      "threat_type": "malware",
+      "tweet_id": "2085831821615333436",
+      "type": "md5",
+      "value": "424276f503040bf22b9d98f61fbe49c0"
+    },
     "425bf771c8c9f740b1ae9803dcb4fd45af4d6a6f171fcc72fc7d511095ca82ce": {
       "confidence": 0.8,
       "date": "2026-07-15 08:27:00",
@@ -19030,6 +19203,20 @@
       "type": "sha256",
       "value": "61f092356ad5cc8f60f512df897c9e1977c428b63ff312b47dd58345eea62259"
     },
+    "61xs28l.duckdns.org": {
+      "confidence": 0.92,
+      "date": "2026-08-07 22:58:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) via DuckDNS subdomains and IPs on Hdtidc Limited infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2085863285014855955",
+      "type": "domain",
+      "value": "61xs28l.duckdns.org"
+    },
     "62.171.154.66": {
       "confidence": 0.75,
       "date": "2026-07-21 07:30:00",
@@ -19474,6 +19661,21 @@
       "tweet_id": "2079155119988289981",
       "type": "sha256",
       "value": "65ab49119c845801f29a57e8aa177146b2ffbd289d4278109b146f933380f951"
+    },
+    "65dfef87fda30c9614f3738bc737c34a": {
+      "confidence": 0.8,
+      "date": "2026-08-07 21:23:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "PureRAT sample identified by MD5 hash.",
+      "threat_type": "malware",
+      "tweet_id": "2085839203011588121",
+      "type": "md5",
+      "value": "65dfef87fda30c9614f3738bc737c34a"
     },
     "65f22339ca6da33a0c38475b1aaeb4b59140aebe7e30d84d05fe95ebcfb55cd8": {
       "confidence": 0.82,
@@ -23423,6 +23625,20 @@
       "type": "ip",
       "value": "91.204.209.35"
     },
+    "91.204.224.146": {
+      "confidence": 0.92,
+      "date": "2026-08-07 22:58:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) via DuckDNS subdomains and IPs on Hdtidc Limited infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2085863285014855955",
+      "type": "url",
+      "value": "http://91.204.224.146"
+    },
     "91.84.123.114": {
       "confidence": 0.93,
       "date": "2026-07-30 11:11:00",
@@ -25436,6 +25652,22 @@
       "type": "md5",
       "value": "a6ae1288b4475523b246fd27adfea3a5"
     },
+    "a6ddb9ad5b0df54e5342d3cf8fcbcd57": {
+      "confidence": 0.87,
+      "date": "2026-08-07 21:45:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "c2"
+      ],
+      "summary": "ValleyRAT/SilverFox samples with DLL sideloading, gist-hosted payload staging, and C2 at 103.112.97.64:8080 (AROSSCLOUD).",
+      "threat_type": "malware",
+      "tweet_id": "2085844709713358923",
+      "type": "md5",
+      "value": "a6ddb9ad5b0df54e5342d3cf8fcbcd57"
+    },
     "a71455506d7048f1dbbcdd48100860a8cd2088cbe4a0b3881cc8a179ce494e99": {
       "confidence": 0.85,
       "date": "2026-07-14 20:31:00",
@@ -27091,6 +27323,36 @@
       "tweet_id": "2080039966659199364",
       "type": "domain",
       "value": "aereseabtuariagob.top"
+    },
+    "aerrixon.com": {
+      "confidence": 0.72,
+      "date": "2026-08-07 20:18:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malware delivery chain via aerrixon.com HTML lure leading to 2026Statement.exe hosted on mustafacorp.com, suspected RMM or trojan dropper.",
+      "threat_type": "malware",
+      "tweet_id": "2085822978395459781",
+      "type": "domain",
+      "value": "aerrixon.com"
+    },
+    "aerrixon.com/filee.html": {
+      "confidence": 0.72,
+      "date": "2026-08-07 20:18:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malware delivery chain via aerrixon.com HTML lure leading to 2026Statement.exe hosted on mustafacorp.com, suspected RMM or trojan dropper.",
+      "threat_type": "malware",
+      "tweet_id": "2085822978395459781",
+      "type": "url",
+      "value": "https://aerrixon.com/filee.html"
     },
     "aethernetworking.cc": {
       "confidence": 0.7,
@@ -36540,6 +36802,21 @@
       "type": "sha256",
       "value": "c1939ee768b4f50124ef42b19114693b85c364f61c90522ac38df2111af3a4e7"
     },
+    "c19ded65e822bb43ad0381c58abf33b7c8890f7bcc7125058a0c849c7e1a6054": {
+      "confidence": 0.95,
+      "date": "2026-08-07 21:30:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Storm-1175 deploys StormEncryptor ransomware (C++), likely exploiting CVE-2026-18577 in N-able; post-compromise uses Mimikatz and RMM tools.",
+      "threat_type": "ransomware",
+      "tweet_id": "2085841121637229038",
+      "type": "sha256",
+      "value": "c19ded65e822bb43ad0381c58abf33b7c8890f7bcc7125058a0c849c7e1a6054"
+    },
     "c2.ashveil.org": {
       "confidence": 0.93,
       "date": "2026-08-02 18:29:00",
@@ -36962,6 +37239,34 @@
       "tweet_id": "2084211031522627987",
       "type": "md5",
       "value": "cae7e1192eb824214833bb1e8ac092b8"
+    },
+    "caixacat.com": {
+      "confidence": 0.95,
+      "date": "2026-08-07 22:48:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) using caixacat.com and geek-asylum.com domains hosted on GNET (AS9294).",
+      "threat_type": "phishing",
+      "tweet_id": "2085860573259210880",
+      "type": "domain",
+      "value": "caixacat.com"
+    },
+    "caixacat.com/jmffvprn": {
+      "confidence": 0.95,
+      "date": "2026-08-07 22:48:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) using caixacat.com and geek-asylum.com domains hosted on GNET (AS9294).",
+      "threat_type": "phishing",
+      "tweet_id": "2085860573259210880",
+      "type": "url",
+      "value": "https://caixacat.com/jmFfvPRN/"
     },
     "cakhiaqq.io": {
       "confidence": 0.92,
@@ -37804,6 +38109,22 @@
       "tweet_id": "2084268587741802553",
       "type": "md5",
       "value": "cc2c8ac5aea8d7c36e9161d54e4255f3"
+    },
+    "cc3954d9e5cc013c6d110d1156b70ed3": {
+      "confidence": 0.87,
+      "date": "2026-08-07 21:45:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "c2"
+      ],
+      "summary": "ValleyRAT/SilverFox samples with DLL sideloading, gist-hosted payload staging, and C2 at 103.112.97.64:8080 (AROSSCLOUD).",
+      "threat_type": "malware",
+      "tweet_id": "2085844709713358923",
+      "type": "md5",
+      "value": "cc3954d9e5cc013c6d110d1156b70ed3"
     },
     "cc8b9d524ed2c1ffe7ddc578abf356f35c3c352f2b38251928f6b7c0e13cbc73": {
       "confidence": 0.75,
@@ -51762,6 +52083,22 @@
       "type": "domain",
       "value": "fawary-nfc-1.site"
     },
+    "fb4ba2e5283e16c3d2512a5eb92bfb77": {
+      "confidence": 0.87,
+      "date": "2026-08-07 21:45:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "c2"
+      ],
+      "summary": "ValleyRAT/SilverFox samples with DLL sideloading, gist-hosted payload staging, and C2 at 103.112.97.64:8080 (AROSSCLOUD).",
+      "threat_type": "malware",
+      "tweet_id": "2085844709713358923",
+      "type": "md5",
+      "value": "fb4ba2e5283e16c3d2512a5eb92bfb77"
+    },
     "fbrgroup-gov.top": {
       "confidence": 0.95,
       "date": "2026-07-22 21:19:00",
@@ -54847,6 +55184,34 @@
       "type": "url",
       "value": "https://gecnlxpwzds.top/jp"
     },
+    "geek-asylum.com": {
+      "confidence": 0.95,
+      "date": "2026-08-07 22:48:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) using caixacat.com and geek-asylum.com domains hosted on GNET (AS9294).",
+      "threat_type": "phishing",
+      "tweet_id": "2085860573259210880",
+      "type": "domain",
+      "value": "geek-asylum.com"
+    },
+    "geek-asylum.com/jmffvprn": {
+      "confidence": 0.95,
+      "date": "2026-08-07 22:48:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing campaign targeting Resona Bank (Japan) using caixacat.com and geek-asylum.com domains hosted on GNET (AS9294).",
+      "threat_type": "phishing",
+      "tweet_id": "2085860573259210880",
+      "type": "url",
+      "value": "https://geek-asylum.com/jmFfvPRN/"
+    },
     "gen7250js.duckdns.org": {
       "confidence": 0.83,
       "date": "2026-07-28 20:50:00",
@@ -55367,6 +55732,22 @@
       "tweet_id": "2079873182278803650",
       "type": "url",
       "value": "http://girope.hu/downloads/page/excel-document.php/en-US?doc=Document&action=download&slot=0&dstamp=2026_07_20_174434&_t=1784562412393"
+    },
+    "gist.githubusercontent.com/mjust5092-ai/59583624b151ac9b734fc155c5b14272/raw?v=59203": {
+      "confidence": 0.87,
+      "date": "2026-08-07 21:45:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "c2"
+      ],
+      "summary": "ValleyRAT/SilverFox samples with DLL sideloading, gist-hosted payload staging, and C2 at 103.112.97.64:8080 (AROSSCLOUD).",
+      "threat_type": "malware",
+      "tweet_id": "2085844709713358923",
+      "type": "url",
+      "value": "http://gist.githubusercontent.com/mjust5092-ai/59583624b151ac9b734fc155c5b14272/raw?v=59203"
     },
     "git-security-audit.xyz": {
       "confidence": 0.45,
@@ -72537,6 +72918,36 @@
       "tweet_id": "2079590696932024660",
       "type": "domain",
       "value": "musikgarten-wessling.de"
+    },
+    "mustafacorp.com": {
+      "confidence": 0.72,
+      "date": "2026-08-07 20:18:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malware delivery chain via aerrixon.com HTML lure leading to 2026Statement.exe hosted on mustafacorp.com, suspected RMM or trojan dropper.",
+      "threat_type": "malware",
+      "tweet_id": "2085822978395459781",
+      "type": "domain",
+      "value": "mustafacorp.com"
+    },
+    "mustafacorp.com/ref/2026statement.exe": {
+      "confidence": 0.72,
+      "date": "2026-08-07 20:18:00",
+      "enriched_at": "2026-08-08T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malware delivery chain via aerrixon.com HTML lure leading to 2026Statement.exe hosted on mustafacorp.com, suspected RMM or trojan dropper.",
+      "threat_type": "malware",
+      "tweet_id": "2085822978395459781",
+      "type": "url",
+      "value": "https://mustafacorp.com/ref/2026Statement.exe"
     },
     "mvstr-pagos.site": {
       "confidence": 0.95,
@@ -119189,6 +119600,6 @@
       "value": "\ubd84\uc11d-votingonline.co.in"
     }
   },
-  "generated_at": "2026-08-07T18:40:03Z",
+  "generated_at": "2026-08-08T00:40:03Z",
   "window_days": 30
 }
