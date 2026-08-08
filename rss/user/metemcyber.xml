@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Metemcyber</title>
+      <link>https://x.com/Metemcyber</link>
+      <description>IOCs shared by @Metemcyber and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Metemcyber</title>
+         <link>https://x.com/Metemcyber</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/metemcyber.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>8.211.178.99</title>
+         <link>https://x.com/Metemcyber/status/2085275278281175109</link>
+         <description>@Metemcyber | ip | #phishing
+Value: 8.211.178.99
+Tweet: https://x.com/Metemcyber/status/2085275278281175109</description>
+         <guid isPermaLink="false">8.211.178.99</guid>
+         <pubDate>Thu, 06 Aug 2026 08:02:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://tlktok.maurenou.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840</title>
+         <link>https://x.com/Metemcyber/status/2085275278281175109</link>
+         <description>@Metemcyber | url | #phishing
+Value: https://tlktok.maurenou.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840
+Tweet: https://x.com/Metemcyber/status/2085275278281175109</description>
+         <guid isPermaLink="false">https://tlktok.maurenou.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840</guid>
+         <pubDate>Thu, 06 Aug 2026 08:02:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>tlktok.maurenou.com</title>
+         <link>https://x.com/Metemcyber/status/2085275278281175109</link>
+         <description>@Metemcyber | domain | #phishing
+Value: tlktok.maurenou.com
+Tweet: https://x.com/Metemcyber/status/2085275278281175109</description>
+         <guid isPermaLink="false">tlktok.maurenou.com</guid>
+         <pubDate>Thu, 06 Aug 2026 08:02:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

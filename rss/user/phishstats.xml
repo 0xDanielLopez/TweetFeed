@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @PhishStats</title>
+      <link>https://x.com/PhishStats</link>
+      <description>IOCs shared by @PhishStats and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @PhishStats</title>
+         <link>https://x.com/PhishStats</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/phishstats.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://thehatfieldhotel-9g5jl.ondigitalocean.app</title>
+         <link>https://x.com/PhishStats/status/2084169660962938961</link>
+         <description>@PhishStats | url | #phishing
+Value: https://thehatfieldhotel-9g5jl.ondigitalocean.app
+Tweet: https://x.com/PhishStats/status/2084169660962938961</description>
+         <guid isPermaLink="false">https://thehatfieldhotel-9g5jl.ondigitalocean.app</guid>
+         <pubDate>Mon, 03 Aug 2026 06:49:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>thehatfieldhotel-9g5jl.ondigitalocean.app</title>
+         <link>https://x.com/PhishStats/status/2084169660962938961</link>
+         <description>@PhishStats | domain | #phishing
+Value: thehatfieldhotel-9g5jl.ondigitalocean.app
+Tweet: https://x.com/PhishStats/status/2084169660962938961</description>
+         <guid isPermaLink="false">thehatfieldhotel-9g5jl.ondigitalocean.app</guid>
+         <pubDate>Mon, 03 Aug 2026 06:49:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>64.89.161.147</title>
+         <link>https://x.com/PhishStats/status/2083799280570044916</link>
+         <description>@PhishStats | ip | #phishing
+Value: 64.89.161.147
+Tweet: https://x.com/PhishStats/status/2083799280570044916</description>
+         <guid isPermaLink="false">64.89.161.147</guid>
+         <pubDate>Sun, 02 Aug 2026 06:17:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://email-social.com</title>
+         <link>https://x.com/PhishStats/status/2083799280570044916</link>
+         <description>@PhishStats | url | #phishing
+Value: https://email-social.com
+Tweet: https://x.com/PhishStats/status/2083799280570044916</description>
+         <guid isPermaLink="false">https://email-social.com</guid>
+         <pubDate>Sun, 02 Aug 2026 06:17:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>email-social.com</title>
+         <link>https://x.com/PhishStats/status/2083799280570044916</link>
+         <description>@PhishStats | domain | #phishing
+Value: email-social.com
+Tweet: https://x.com/PhishStats/status/2083799280570044916</description>
+         <guid isPermaLink="false">email-social.com</guid>
+         <pubDate>Sun, 02 Aug 2026 06:17:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

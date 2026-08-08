@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @k3dg3</title>
+      <link>https://x.com/k3dg3</link>
+      <description>IOCs shared by @k3dg3 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @k3dg3</title>
+         <link>https://x.com/k3dg3</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/k3dg3.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>6941fbafdf1c7e5ddd12b9050c27501aba8b0ab05e1916afffd21ba30257ebf8</title>
+         <link>https://x.com/k3dg3/status/2084767008508518911</link>
+         <description>@k3dg3 | sha256 | 
+Value: 6941fbafdf1c7e5ddd12b9050c27501aba8b0ab05e1916afffd21ba30257ebf8
+Tweet: https://x.com/k3dg3/status/2084767008508518911</description>
+         <guid isPermaLink="false">6941fbafdf1c7e5ddd12b9050c27501aba8b0ab05e1916afffd21ba30257ebf8</guid>
+         <pubDate>Tue, 04 Aug 2026 22:22:00 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>fe8277705549324d8fdb94cc7d9a9083190f3e93e8e5dfec582b5afa5d42c97d</title>
+         <link>https://x.com/k3dg3/status/2084767008508518911</link>
+         <description>@k3dg3 | sha256 | 
+Value: fe8277705549324d8fdb94cc7d9a9083190f3e93e8e5dfec582b5afa5d42c97d
+Tweet: https://x.com/k3dg3/status/2084767008508518911</description>
+         <guid isPermaLink="false">fe8277705549324d8fdb94cc7d9a9083190f3e93e8e5dfec582b5afa5d42c97d</guid>
+         <pubDate>Tue, 04 Aug 2026 22:22:00 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

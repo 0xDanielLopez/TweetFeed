@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #dprk IOC feed</title>
+      <link>https://tweetfeed.live/tag/dprk/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #dprk on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #dprk IOC feed</title>
+         <link>https://tweetfeed.live/tag/dprk/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/dprk.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>23.27.20.187</title>
+         <link>https://x.com/MichalKoczwara/status/2084665483832254821</link>
+         <description>@MichalKoczwara | ip | #DPRK
+Value: 23.27.20.187
+Tweet: https://x.com/MichalKoczwara/status/2084665483832254821</description>
+         <guid isPermaLink="false">23.27.20.187</guid>
+         <pubDate>Tue, 04 Aug 2026 15:39:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#DPRK</category>
+      </item>
+      <item>
+         <title>198.105.127.210</title>
+         <link>https://x.com/MichalKoczwara/status/2084665483832254821</link>
+         <description>@MichalKoczwara | ip | #DPRK
+Value: 198.105.127.210
+Tweet: https://x.com/MichalKoczwara/status/2084665483832254821</description>
+         <guid isPermaLink="false">198.105.127.210</guid>
+         <pubDate>Tue, 04 Aug 2026 15:39:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#DPRK</category>
+      </item>
+   </channel>
+</rss>

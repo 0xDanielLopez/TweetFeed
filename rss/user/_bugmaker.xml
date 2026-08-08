@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @_bugmaker</title>
+      <link>https://x.com/_bugmaker</link>
+      <description>IOCs shared by @_bugmaker and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @_bugmaker</title>
+         <link>https://x.com/_bugmaker</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/_bugmaker.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://lavidawellness.it</title>
+         <link>https://x.com/_bugmaker/status/2084985110705606932</link>
+         <description>@_bugmaker | url | #phishing
+Value: http://lavidawellness.it
+Tweet: https://x.com/_bugmaker/status/2084985110705606932</description>
+         <guid isPermaLink="false">http://lavidawellness.it</guid>
+         <pubDate>Wed, 05 Aug 2026 12:49:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>lavidawellness.it</title>
+         <link>https://x.com/_bugmaker/status/2084985110705606932</link>
+         <description>@_bugmaker | domain | #phishing
+Value: lavidawellness.it
+Tweet: https://x.com/_bugmaker/status/2084985110705606932</description>
+         <guid isPermaLink="false">lavidawellness.it</guid>
+         <pubDate>Wed, 05 Aug 2026 12:49:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

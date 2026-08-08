@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @MsftSecIntel</title>
+      <link>https://x.com/MsftSecIntel</link>
+      <description>IOCs shared by @MsftSecIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @MsftSecIntel</title>
+         <link>https://x.com/MsftSecIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/msftsecintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>c19ded65e822bb43ad0381c58abf33b7c8890f7bcc7125058a0c849c7e1a6054</title>
+         <link>https://x.com/MsftSecIntel/status/2085841121637229038</link>
+         <description>@MsftSecIntel | sha256 | 
+Value: c19ded65e822bb43ad0381c58abf33b7c8890f7bcc7125058a0c849c7e1a6054
+Tweet: https://x.com/MsftSecIntel/status/2085841121637229038</description>
+         <guid isPermaLink="false">c19ded65e822bb43ad0381c58abf33b7c8890f7bcc7125058a0c849c7e1a6054</guid>
+         <pubDate>Fri, 07 Aug 2026 21:30:00 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

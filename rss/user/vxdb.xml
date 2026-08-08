@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @vxdb</title>
+      <link>https://x.com/vxdb</link>
+      <description>IOCs shared by @vxdb and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @vxdb</title>
+         <link>https://x.com/vxdb</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/vxdb.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://AntiStock.io</title>
+         <link>https://x.com/vxdb/status/2084305733793751550</link>
+         <description>@vxdb | url | 
+Value: http://AntiStock.io
+Tweet: https://x.com/vxdb/status/2084305733793751550</description>
+         <guid isPermaLink="false">http://AntiStock.io</guid>
+         <pubDate>Mon, 03 Aug 2026 15:49:00 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>antistock.io</title>
+         <link>https://x.com/vxdb/status/2084305733793751550</link>
+         <description>@vxdb | domain | 
+Value: antistock.io
+Tweet: https://x.com/vxdb/status/2084305733793751550</description>
+         <guid isPermaLink="false">antistock.io</guid>
+         <pubDate>Mon, 03 Aug 2026 15:49:00 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

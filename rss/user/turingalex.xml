@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TuringAlex</title>
+      <link>https://x.com/TuringAlex</link>
+      <description>IOCs shared by @TuringAlex and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @TuringAlex</title>
+         <link>https://x.com/TuringAlex</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/turingalex.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>104.194.140.150</title>
+         <link>https://x.com/TuringAlex/status/2085373661993988567</link>
+         <description>@TuringAlex | ip | 
+Value: 104.194.140.150
+Tweet: https://x.com/TuringAlex/status/2085373661993988567</description>
+         <guid isPermaLink="false">104.194.140.150</guid>
+         <pubDate>Thu, 06 Aug 2026 14:33:00 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://104.194.140.150:8080/54ac4810b1d01207/ca06059d5d3d81d2.sh</title>
+         <link>https://x.com/TuringAlex/status/2085373661993988567</link>
+         <description>@TuringAlex | url | 
+Value: http://104.194.140.150:8080/54ac4810b1d01207/ca06059d5d3d81d2.sh
+Tweet: https://x.com/TuringAlex/status/2085373661993988567</description>
+         <guid isPermaLink="false">http://104.194.140.150:8080/54ac4810b1d01207/ca06059d5d3d81d2.sh</guid>
+         <pubDate>Thu, 06 Aug 2026 14:33:00 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

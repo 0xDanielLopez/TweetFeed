@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #agenttesla IOC feed</title>
+      <link>https://tweetfeed.live/tag/agenttesla/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #agenttesla on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #agenttesla IOC feed</title>
+         <link>https://tweetfeed.live/tag/agenttesla/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/agenttesla.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>a7640dc0ccba4a073c09925c5ae0519e9b5f4f311b41cd1c6ca0aa93f16e8e04</title>
+         <link>https://x.com/bomccss/status/2085374321133002962</link>
+         <description>@bomccss | sha256 | #AgentTesla
+Value: a7640dc0ccba4a073c09925c5ae0519e9b5f4f311b41cd1c6ca0aa93f16e8e04
+Tweet: https://x.com/bomccss/status/2085374321133002962</description>
+         <guid isPermaLink="false">a7640dc0ccba4a073c09925c5ae0519e9b5f4f311b41cd1c6ca0aa93f16e8e04</guid>
+         <pubDate>Thu, 06 Aug 2026 14:35:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#AgentTesla</category>
+      </item>
+      <item>
+         <title>5b86f6a04b58c3bbefaea113f9198c91573556ee50c30d8297cc6a0affc52011</title>
+         <link>https://x.com/bomccss/status/2085371682618056794</link>
+         <description>@bomccss | sha256 | #AgentTesla
+Value: 5b86f6a04b58c3bbefaea113f9198c91573556ee50c30d8297cc6a0affc52011
+Tweet: https://x.com/bomccss/status/2085371682618056794</description>
+         <guid isPermaLink="false">5b86f6a04b58c3bbefaea113f9198c91573556ee50c30d8297cc6a0affc52011</guid>
+         <pubDate>Thu, 06 Aug 2026 14:25:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#AgentTesla</category>
+      </item>
+   </channel>
+</rss>

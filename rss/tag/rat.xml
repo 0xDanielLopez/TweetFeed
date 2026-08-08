@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #rat IOC feed</title>
+      <link>https://tweetfeed.live/tag/rat/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #rat on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #rat IOC feed</title>
+         <link>https://tweetfeed.live/tag/rat/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/rat.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>0f94b72741ecedb2ff640497d0f3cf10fcbc851ccf7c93e9b17f8f6d4475ca54</title>
+         <link>https://x.com/Fact_Finder03/status/2085647634690179245</link>
+         <description>@Fact_Finder03 | sha256 | #C2 #RAT
+Value: 0f94b72741ecedb2ff640497d0f3cf10fcbc851ccf7c93e9b17f8f6d4475ca54
+Tweet: https://x.com/Fact_Finder03/status/2085647634690179245</description>
+         <guid isPermaLink="false">0f94b72741ecedb2ff640497d0f3cf10fcbc851ccf7c93e9b17f8f6d4475ca54</guid>
+         <pubDate>Fri, 07 Aug 2026 08:42:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>37.60.250.63</title>
+         <link>https://x.com/Fact_Finder03/status/2085647634690179245</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 37.60.250.63
+Tweet: https://x.com/Fact_Finder03/status/2085647634690179245</description>
+         <guid isPermaLink="false">37.60.250.63</guid>
+         <pubDate>Fri, 07 Aug 2026 08:42:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>182.92.180.194</title>
+         <link>https://x.com/Fact_Finder03/status/2085625624534941911</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 182.92.180.194
+Tweet: https://x.com/Fact_Finder03/status/2085625624534941911</description>
+         <guid isPermaLink="false">182.92.180.194</guid>
+         <pubDate>Fri, 07 Aug 2026 07:14:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>185.199.198.71</title>
+         <link>https://x.com/Fact_Finder03/status/2084963830208282887</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 185.199.198.71
+Tweet: https://x.com/Fact_Finder03/status/2084963830208282887</description>
+         <guid isPermaLink="false">185.199.198.71</guid>
+         <pubDate>Wed, 05 Aug 2026 11:24:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @leoescobarq</title>
+      <link>https://x.com/leoescobarq</link>
+      <description>IOCs shared by @leoescobarq and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @leoescobarq</title>
+         <link>https://x.com/leoescobarq</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/leoescobarq.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://my.tervel-zan.co/tp/#/page/index</title>
+         <link>https://x.com/leoescobarq/status/2084740074000851199</link>
+         <description>@leoescobarq | url | #phishing
+Value: https://my.tervel-zan.co/tp/#/page/index
+Tweet: https://x.com/leoescobarq/status/2084740074000851199</description>
+         <guid isPermaLink="false">https://my.tervel-zan.co/tp/#/page/index</guid>
+         <pubDate>Tue, 04 Aug 2026 20:35:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>my.tervel-zan.co</title>
+         <link>https://x.com/leoescobarq/status/2084740074000851199</link>
+         <description>@leoescobarq | domain | #phishing
+Value: my.tervel-zan.co
+Tweet: https://x.com/leoescobarq/status/2084740074000851199</description>
+         <guid isPermaLink="false">my.tervel-zan.co</guid>
+         <pubDate>Tue, 04 Aug 2026 20:35:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

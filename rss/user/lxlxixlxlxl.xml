@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @LxlxIxlxlxL</title>
+      <link>https://x.com/LxlxIxlxlxL</link>
+      <description>IOCs shared by @LxlxIxlxlxL and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @LxlxIxlxlxL</title>
+         <link>https://x.com/LxlxIxlxlxL</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/lxlxixlxlxl.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>2945c9a7bdcd541372a883eed3a1e045ff39078c5bfec708aee3e5e1b5b80311</title>
+         <link>https://x.com/LxlxIxlxlxL/status/2084035985051168991</link>
+         <description>@LxlxIxlxlxL | sha256 | #malware
+Value: 2945c9a7bdcd541372a883eed3a1e045ff39078c5bfec708aee3e5e1b5b80311
+Tweet: https://x.com/LxlxIxlxlxL/status/2084035985051168991</description>
+         <guid isPermaLink="false">2945c9a7bdcd541372a883eed3a1e045ff39078c5bfec708aee3e5e1b5b80311</guid>
+         <pubDate>Sun, 02 Aug 2026 21:57:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>370e4d4ffbed3835c515ba94454b3d3002a007bfc7e11eb275081209878146cd</title>
+         <link>https://x.com/LxlxIxlxlxL/status/2084025714391781673</link>
+         <description>@LxlxIxlxlxL | sha256 | #malware
+Value: 370e4d4ffbed3835c515ba94454b3d3002a007bfc7e11eb275081209878146cd
+Tweet: https://x.com/LxlxIxlxlxL/status/2084025714391781673</description>
+         <guid isPermaLink="false">370e4d4ffbed3835c515ba94454b3d3002a007bfc7e11eb275081209878146cd</guid>
+         <pubDate>Sun, 02 Aug 2026 21:17:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>ef436a36b3b42525f06b3839d5e3f50f6ff217549c8f25d88dfe6f24385ed161</title>
+         <link>https://x.com/LxlxIxlxlxL/status/2083815805242970509</link>
+         <description>@LxlxIxlxlxL | sha256 | #malware
+Value: ef436a36b3b42525f06b3839d5e3f50f6ff217549c8f25d88dfe6f24385ed161
+Tweet: https://x.com/LxlxIxlxlxL/status/2083815805242970509</description>
+         <guid isPermaLink="false">ef436a36b3b42525f06b3839d5e3f50f6ff217549c8f25d88dfe6f24385ed161</guid>
+         <pubDate>Sun, 02 Aug 2026 07:22:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

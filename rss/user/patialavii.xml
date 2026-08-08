@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @patialavii</title>
+      <link>https://x.com/patialavii</link>
+      <description>IOCs shared by @patialavii and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @patialavii</title>
+         <link>https://x.com/patialavii</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/patialavii.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>e9a902cb380eda3d3b4e4153c3f8c637a650bd51d299f3a75dce4c0007a64985</title>
+         <link>https://x.com/patialavii/status/2084323106483822909</link>
+         <description>@patialavii | sha256 | #phishing
+Value: e9a902cb380eda3d3b4e4153c3f8c637a650bd51d299f3a75dce4c0007a64985
+Tweet: https://x.com/patialavii/status/2084323106483822909</description>
+         <guid isPermaLink="false">e9a902cb380eda3d3b4e4153c3f8c637a650bd51d299f3a75dce4c0007a64985</guid>
+         <pubDate>Mon, 03 Aug 2026 16:58:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://cookiespace.hu/error/docusign/Windows/oo-syspectr-setupf83f403f-d1f1-429f-bf63-0f7a3cbf1696.exe</title>
+         <link>https://x.com/patialavii/status/2084323106483822909</link>
+         <description>@patialavii | url | #phishing
+Value: https://cookiespace.hu/error/docusign/Windows/oo-syspectr-setupf83f403f-d1f1-429f-bf63-0f7a3cbf1696.exe
+Tweet: https://x.com/patialavii/status/2084323106483822909</description>
+         <guid isPermaLink="false">https://cookiespace.hu/error/docusign/Windows/oo-syspectr-setupf83f403f-d1f1-429f-bf63-0f7a3cbf1696.exe</guid>
+         <pubDate>Mon, 03 Aug 2026 16:58:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://cookiespace.hu/error/docusign/</title>
+         <link>https://x.com/patialavii/status/2084323106483822909</link>
+         <description>@patialavii | url | #phishing
+Value: https://cookiespace.hu/error/docusign/
+Tweet: https://x.com/patialavii/status/2084323106483822909</description>
+         <guid isPermaLink="false">https://cookiespace.hu/error/docusign/</guid>
+         <pubDate>Mon, 03 Aug 2026 16:58:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>cookiespace.hu</title>
+         <link>https://x.com/patialavii/status/2084323106483822909</link>
+         <description>@patialavii | domain | #phishing
+Value: cookiespace.hu
+Tweet: https://x.com/patialavii/status/2084323106483822909</description>
+         <guid isPermaLink="false">cookiespace.hu</guid>
+         <pubDate>Mon, 03 Aug 2026 16:58:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

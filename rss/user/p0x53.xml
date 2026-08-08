@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @p0x53</title>
+      <link>https://x.com/p0x53</link>
+      <description>IOCs shared by @p0x53 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @p0x53</title>
+         <link>https://x.com/p0x53</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/p0x53.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://edge.cdn-vitals.com</title>
+         <link>https://x.com/p0x53/status/2085422305468166352</link>
+         <description>@p0x53 | url | #malware
+Value: http://edge.cdn-vitals.com
+Tweet: https://x.com/p0x53/status/2085422305468166352</description>
+         <guid isPermaLink="false">http://edge.cdn-vitals.com</guid>
+         <pubDate>Thu, 06 Aug 2026 17:46:00 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>edge.cdn-vitals.com</title>
+         <link>https://x.com/p0x53/status/2085422305468166352</link>
+         <description>@p0x53 | domain | #malware
+Value: edge.cdn-vitals.com
+Tweet: https://x.com/p0x53/status/2085422305468166352</description>
+         <guid isPermaLink="false">edge.cdn-vitals.com</guid>
+         <pubDate>Thu, 06 Aug 2026 17:46:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

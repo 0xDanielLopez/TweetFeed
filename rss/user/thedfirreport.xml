@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TheDFIRReport</title>
+      <link>https://x.com/TheDFIRReport</link>
+      <description>IOCs shared by @TheDFIRReport and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @TheDFIRReport</title>
+         <link>https://x.com/TheDFIRReport</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/thedfirreport.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://download-center.online</title>
+         <link>https://x.com/TheDFIRReport/status/2085340125572035013</link>
+         <description>@TheDFIRReport | url | 
+Value: http://download-center.online
+Tweet: https://x.com/TheDFIRReport/status/2085340125572035013</description>
+         <guid isPermaLink="false">http://download-center.online</guid>
+         <pubDate>Thu, 06 Aug 2026 12:20:00 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>download-center.online</title>
+         <link>https://x.com/TheDFIRReport/status/2085340125572035013</link>
+         <description>@TheDFIRReport | domain | 
+Value: download-center.online
+Tweet: https://x.com/TheDFIRReport/status/2085340125572035013</description>
+         <guid isPermaLink="false">download-center.online</guid>
+         <pubDate>Thu, 06 Aug 2026 12:20:00 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://opmanager.pro</title>
+         <link>https://x.com/TheDFIRReport/status/2085340125572035013</link>
+         <description>@TheDFIRReport | url | 
+Value: http://opmanager.pro
+Tweet: https://x.com/TheDFIRReport/status/2085340125572035013</description>
+         <guid isPermaLink="false">http://opmanager.pro</guid>
+         <pubDate>Thu, 06 Aug 2026 12:20:00 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>opmanager.pro</title>
+         <link>https://x.com/TheDFIRReport/status/2085340125572035013</link>
+         <description>@TheDFIRReport | domain | 
+Value: opmanager.pro
+Tweet: https://x.com/TheDFIRReport/status/2085340125572035013</description>
+         <guid isPermaLink="false">opmanager.pro</guid>
+         <pubDate>Thu, 06 Aug 2026 12:20:00 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

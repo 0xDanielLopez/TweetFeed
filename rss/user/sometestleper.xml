@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SomeTestLeper</title>
+      <link>https://x.com/SomeTestLeper</link>
+      <description>IOCs shared by @SomeTestLeper and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @SomeTestLeper</title>
+         <link>https://x.com/SomeTestLeper</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/sometestleper.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>6bd742f693e7350b27de5ec9fde0712c</title>
+         <link>https://x.com/SomeTestLeper/status/2083732061949686250</link>
+         <description>@SomeTestLeper | md5 | #opendir
+Value: 6bd742f693e7350b27de5ec9fde0712c
+Tweet: https://x.com/SomeTestLeper/status/2083732061949686250</description>
+         <guid isPermaLink="false">6bd742f693e7350b27de5ec9fde0712c</guid>
+         <pubDate>Sun, 02 Aug 2026 01:50:00 +0000</pubDate>
+         <category>md5</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>91.92.241.160</title>
+         <link>https://x.com/SomeTestLeper/status/2083732061949686250</link>
+         <description>@SomeTestLeper | ip | #opendir
+Value: 91.92.241.160
+Tweet: https://x.com/SomeTestLeper/status/2083732061949686250</description>
+         <guid isPermaLink="false">91.92.241.160</guid>
+         <pubDate>Sun, 02 Aug 2026 01:50:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>178.17.61.110</title>
+         <link>https://x.com/SomeTestLeper/status/2083732061949686250</link>
+         <description>@SomeTestLeper | ip | #opendir
+Value: 178.17.61.110
+Tweet: https://x.com/SomeTestLeper/status/2083732061949686250</description>
+         <guid isPermaLink="false">178.17.61.110</guid>
+         <pubDate>Sun, 02 Aug 2026 01:50:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>http://91.92.241.160</title>
+         <link>https://x.com/SomeTestLeper/status/2083732061949686250</link>
+         <description>@SomeTestLeper | url | #opendir
+Value: http://91.92.241.160
+Tweet: https://x.com/SomeTestLeper/status/2083732061949686250</description>
+         <guid isPermaLink="false">http://91.92.241.160</guid>
+         <pubDate>Sun, 02 Aug 2026 01:50:00 +0000</pubDate>
+         <category>url</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>http://178.17.61.110</title>
+         <link>https://x.com/SomeTestLeper/status/2083732061949686250</link>
+         <description>@SomeTestLeper | url | #opendir
+Value: http://178.17.61.110
+Tweet: https://x.com/SomeTestLeper/status/2083732061949686250</description>
+         <guid isPermaLink="false">http://178.17.61.110</guid>
+         <pubDate>Sun, 02 Aug 2026 01:50:00 +0000</pubDate>
+         <category>url</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

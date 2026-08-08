@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @volrant136</title>
+      <link>https://x.com/volrant136</link>
+      <description>IOCs shared by @volrant136 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @volrant136</title>
+         <link>https://x.com/volrant136</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/volrant136.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://milllitelecom.netlify.app</title>
+         <link>https://x.com/volrant136/status/2084677130965901540</link>
+         <description>@volrant136 | url | #phishing
+Value: http://milllitelecom.netlify.app
+Tweet: https://x.com/volrant136/status/2084677130965901540</description>
+         <guid isPermaLink="false">http://milllitelecom.netlify.app</guid>
+         <pubDate>Tue, 04 Aug 2026 16:25:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>milllitelecom.netlify.app</title>
+         <link>https://x.com/volrant136/status/2084677130965901540</link>
+         <description>@volrant136 | domain | #phishing
+Value: milllitelecom.netlify.app
+Tweet: https://x.com/volrant136/status/2084677130965901540</description>
+         <guid isPermaLink="false">milllitelecom.netlify.app</guid>
+         <pubDate>Tue, 04 Aug 2026 16:25:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

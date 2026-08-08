@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @0xhido</title>
+      <link>https://x.com/0xhido</link>
+      <description>IOCs shared by @0xhido and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @0xhido</title>
+         <link>https://x.com/0xhido</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/0xhido.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 08 Aug 2026 00:00:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>195.160.221.203</title>
+         <link>https://x.com/0xhido/status/2084669788572246287</link>
+         <description>@0xhido | ip | 
+Value: 195.160.221.203
+Tweet: https://x.com/0xhido/status/2084669788572246287</description>
+         <guid isPermaLink="false">195.160.221.203</guid>
+         <pubDate>Tue, 04 Aug 2026 15:56:00 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>148.224.63.123</title>
+         <link>https://x.com/0xhido/status/2084669788572246287</link>
+         <description>@0xhido | ip | 
+Value: 148.224.63.123
+Tweet: https://x.com/0xhido/status/2084669788572246287</description>
+         <guid isPermaLink="false">148.224.63.123</guid>
+         <pubDate>Tue, 04 Aug 2026 15:56:00 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://195.160.221.203:8080</title>
+         <link>https://x.com/0xhido/status/2084669788572246287</link>
+         <description>@0xhido | url | 
+Value: http://195.160.221.203:8080
+Tweet: https://x.com/0xhido/status/2084669788572246287</description>
+         <guid isPermaLink="false">http://195.160.221.203:8080</guid>
+         <pubDate>Tue, 04 Aug 2026 15:56:00 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>http://148.224.63.123</title>
+         <link>https://x.com/0xhido/status/2084669788572246287</link>
+         <description>@0xhido | url | 
+Value: http://148.224.63.123
+Tweet: https://x.com/0xhido/status/2084669788572246287</description>
+         <guid isPermaLink="false">http://148.224.63.123</guid>
+         <pubDate>Tue, 04 Aug 2026 15:56:00 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>
