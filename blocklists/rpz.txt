@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5414
-; Updated: 2026-08-08T12:45:26Z
+; Entries: 5415
+; Updated: 2026-08-08T13:00:30Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786193126 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786194030 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -9644,6 +9644,8 @@ verbodoavivamento.org.br CNAME .
 *.verbodoavivamento.org.br CNAME .
 verceljs-kappa.vercel.app CNAME .
 *.verceljs-kappa.vercel.app CNAME .
+verifieer-gesprek.com CNAME .
+*.verifieer-gesprek.com CNAME .
 verify.rubicon-contract.ru CNAME .
 *.verify.rubicon-contract.ru CNAME .
 verifyd0cs.com CNAME .
