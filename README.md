@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 14:00:30 (UTC)</th>
+        <th colspan=4>2026-08-08 14:15:27 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -183,7 +183,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **:link: URLs** | 31 | 949 | 6488 | 54740 |
 | **:globe_with_meridians: Domains** | 20 | 788 | 5565 | 41859 |
 | **:triangular_flag_on_post: IPs** | 18 | 235 | 882 | 10719 |
-| **:1234: SHA256** | 3 | 139 | 525 | 2516 |
+| **:1234: SHA256** | 5 | 141 | 527 | 2518 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
 
 </div>
@@ -199,12 +199,12 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 20 | 802 | 6044 | 38658 |
 | **#Kimsuky** | 0 | 0 | 2082 | 15035 |
-| **#DPRK** | 0 | 2 | 2081 | 13432 |
+| **#DPRK** | 1 | 3 | 2082 | 13433 |
 | **#C2** | 0 | 48 | 412 | 11802 |
 | **#scam** | 0 | 6 | 144 | 5869 |
 | **#CobaltStrike** | 0 | 0 | 5 | 2753 |
 | **#malware** | 13 | 113 | 528 | 2749 |
-| **#APT** | 3 | 58 | 121 | 1681 |
+| **#APT** | 5 | 60 | 123 | 1683 |
 | **#Interactsh** | 0 | 0 | 0 | 1408 |
 | **#Remcos** | 0 | 0 | 85 | 1008 |
 <!-- TAG_TABLE_END -->
@@ -226,11 +226,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 12 |
 | **#3** | [webamon_search](https://x.com/webamon_search) | 6 |
 | **#4** | [harugasumi](https://x.com/harugasumi) | 6 |
-| **#5** | [sicehice](https://x.com/sicehice) | 4 |
-| **#6** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
-| **#7** | [abuse_ch](https://x.com/abuse_ch) | 4 |
-| **#8** | [0xhido](https://x.com/0xhido) | 4 |
-| **#9** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
+| **#5** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 5 |
+| **#6** | [sicehice](https://x.com/sicehice) | 4 |
+| **#7** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
+| **#8** | [abuse_ch](https://x.com/abuse_ch) | 4 |
+| **#9** | [0xhido](https://x.com/0xhido) | 4 |
 | **#10** | [phishunt_io](https://x.com/phishunt_io) | 2 |
 <!-- TOP_REPORTERS_END -->
 
