@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5401
-; Updated: 2026-08-08T07:15:22Z
+; Entries: 5402
+; Updated: 2026-08-08T08:30:24Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786173322 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786177824 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2242,6 +2242,8 @@ doc.lnkuserauth.giize.com CNAME .
 *.doc.lnkuserauth.giize.com CNAME .
 dockey.vu CNAME .
 *.dockey.vu CNAME .
+docomo-my.com CNAME .
+*.docomo-my.com CNAME .
 docs-view.givingmachinenwa.com CNAME .
 *.docs-view.givingmachinenwa.com CNAME .
 docs-viewmicrosoft.info CNAME .

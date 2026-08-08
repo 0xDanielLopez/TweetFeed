@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 5401
-# Updated: 2026-08-08T07:15:22Z
+# Entries: 5402
+# Updated: 2026-08-08T08:30:24Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -1122,6 +1122,7 @@ address=/doc-sign.xyz/0.0.0.0
 address=/doc.jason-lou-teo-hock.workers.dev/0.0.0.0
 address=/doc.lnkuserauth.giize.com/0.0.0.0
 address=/dockey.vu/0.0.0.0
+address=/docomo-my.com/0.0.0.0
 address=/docs-view.givingmachinenwa.com/0.0.0.0
 address=/docs-viewmicrosoft.info/0.0.0.0
 address=/docs163.com/0.0.0.0

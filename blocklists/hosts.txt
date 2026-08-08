@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 5401
-# Updated: 2026-08-08T07:15:22Z
+# Entries: 5402
+# Updated: 2026-08-08T08:30:24Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
@@ -1122,6 +1122,7 @@
 0.0.0.0 doc.jason-lou-teo-hock.workers.dev
 0.0.0.0 doc.lnkuserauth.giize.com
 0.0.0.0 dockey.vu
+0.0.0.0 docomo-my.com
 0.0.0.0 docs-view.givingmachinenwa.com
 0.0.0.0 docs-viewmicrosoft.info
 0.0.0.0 docs163.com

@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 08:15:24 (UTC)</th>
+        <th colspan=4>2026-08-08 08:30:25 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,8 +180,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 2 | 920 | 6459 | 54711 |
-| **:globe_with_meridians: Domains** | 1 | 769 | 5546 | 41840 |
+| **:link: URLs** | 3 | 921 | 6460 | 54712 |
+| **:globe_with_meridians: Domains** | 2 | 770 | 5547 | 41841 |
 | **:triangular_flag_on_post: IPs** | 2 | 219 | 866 | 10703 |
 | **:1234: SHA256** | 0 | 136 | 522 | 2513 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
@@ -197,7 +197,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 2 | 784 | 6026 | 38640 |
+| **#phishing** | 4 | 786 | 6028 | 38642 |
 | **#Kimsuky** | 0 | 0 | 2082 | 15035 |
 | **#DPRK** | 0 | 2 | 2081 | 13432 |
 | **#C2** | 0 | 48 | 412 | 11802 |
@@ -224,7 +224,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [sicehice](https://x.com/sicehice) | 4 |
 | **#2** | [phishunt_io](https://x.com/phishunt_io) | 2 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#3** | [masaomi346](https://x.com/masaomi346) | 2 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
