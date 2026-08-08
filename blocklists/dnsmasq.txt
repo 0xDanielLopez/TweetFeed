@@ -1,13 +1,14 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 5408
-# Updated: 2026-08-08T10:45:25Z
+# Entries: 5414
+# Updated: 2026-08-08T12:45:26Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
 address=/000.rich/0.0.0.0
+address=/0002302.pro/0.0.0.0
 address=/000games.com/0.0.0.0
 address=/000register.com/0.0.0.0
 address=/0055xing.com/0.0.0.0
@@ -43,6 +44,7 @@ address=/1-800-495-2277-scotiabank.com/0.0.0.0
 address=/1.232323.eu.org/0.0.0.0
 address=/1.mvuianh.cn/0.0.0.0
 address=/10.196.252.46.host.secureserver.net/0.0.0.0
+address=/100mocks.com/0.0.0.0
 address=/105.205.92.host.secureserver.net/0.0.0.0
 address=/11ccukcptk2udqvc.ntax-memd86s.dynv6.net/0.0.0.0
 address=/1221sys.ru/0.0.0.0
@@ -357,6 +359,7 @@ address=/al39nhs.dns.navy/0.0.0.0
 address=/al4nhs.dns.navy/0.0.0.0
 address=/alacfonta.es/0.0.0.0
 address=/alarm-doc-review.site/0.0.0.0
+address=/alberthumanclinic.com/0.0.0.0
 address=/alcatelonetouch.us/0.0.0.0
 address=/aldibiki.com/0.0.0.0
 address=/alert-bh.com/0.0.0.0
@@ -2015,6 +2018,7 @@ address=/interdoclist.dynu.net/0.0.0.0
 address=/interdoclists.dynu.net/0.0.0.0
 address=/intesa.banca-rs.com/0.0.0.0
 address=/intexxxxmanifold.com/0.0.0.0
+address=/intfdt.com/0.0.0.0
 address=/inventionsplendid.mbrceuo.com/0.0.0.0
 address=/investmentachievementcelebration.xyz/0.0.0.0
 address=/invitation.bronex.vu/0.0.0.0
@@ -2146,6 +2150,7 @@ address=/kc2-icloud.top/0.0.0.0
 address=/kcdxy.dns.army/0.0.0.0
 address=/kcjsjyeaw.eu.cc/0.0.0.0
 address=/ke6jp62jt2.dynv6.net/0.0.0.0
+address=/keeed.top/0.0.0.0
 address=/kekwkekw.minecraftnoob.com/0.0.0.0
 address=/keneedy.lol/0.0.0.0
 address=/keobongdaworldcup2026.com/0.0.0.0
@@ -4606,6 +4611,7 @@ address=/tlcketleap.com/0.0.0.0
 address=/tlktok.heiodora.com/0.0.0.0
 address=/tlktok.maurenou.com/0.0.0.0
 address=/tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion/0.0.0.0
+address=/tmallpeaceful.com/0.0.0.0
 address=/tme-proxy.alex-074.workers.dev/0.0.0.0
 address=/toccaball.com/0.0.0.0
 address=/todocuacho.es/0.0.0.0

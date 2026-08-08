@@ -1,5 +1,5 @@
 {
-  "count": 7600,
+  "count": 7620,
   "dead_tweets": {},
   "entries": {
     "000.rich": {
@@ -4001,6 +4001,51 @@
       "type": "ip",
       "value": "124.223.49.5"
     },
+    "124.46.130.42": {
+      "confidence": 0.6,
+      "date": "2026-08-08 11:37:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "APT-attributed suspicious .lnk dropper fetching login.png and a seeded view.php from a Chinese IP, possibly targeting Apple users.",
+      "threat_type": "malware",
+      "tweet_id": "2085515117983342884",
+      "type": "ip",
+      "value": "124.46.130.42"
+    },
+    "124.46.130.42/login.png": {
+      "confidence": 0.6,
+      "date": "2026-08-08 11:37:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "APT-attributed suspicious .lnk dropper fetching login.png and a seeded view.php from a Chinese IP, possibly targeting Apple users.",
+      "threat_type": "malware",
+      "tweet_id": "2085515117983342884",
+      "type": "url",
+      "value": "http://124.46.130.42/login.png"
+    },
+    "124.46.130.42/view.php?type=apple&seed=[mac": {
+      "confidence": 0.6,
+      "date": "2026-08-08 11:37:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "APT-attributed suspicious .lnk dropper fetching login.png and a seeded view.php from a Chinese IP, possibly targeting Apple users.",
+      "threat_type": "malware",
+      "tweet_id": "2085515117983342884",
+      "type": "url",
+      "value": "http://124.46.130.42/view.php?type=apple&seed=[MAC"
+    },
     "125.47.207.244": {
       "confidence": 0.82,
       "date": "2026-07-25 23:12:00",
@@ -6161,6 +6206,38 @@
       "type": "url",
       "value": "http://155.103.71.115:15608"
     },
+    "155.2.192.235": {
+      "confidence": 0.85,
+      "date": "2026-08-08 11:57:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake COLDCARD crypto wallet domain lures victims into downloading a DocuSign MSI that drops rogue ScreenConnect RMM; opendir observed on threat actor domain.",
+      "threat_type": "malware",
+      "tweet_id": "2086059184991113496",
+      "type": "ip",
+      "value": "155.2.192.235"
+    },
+    "155.2.192.94": {
+      "confidence": 0.85,
+      "date": "2026-08-08 11:57:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake COLDCARD crypto wallet domain lures victims into downloading a DocuSign MSI that drops rogue ScreenConnect RMM; opendir observed on threat actor domain.",
+      "threat_type": "malware",
+      "tweet_id": "2086059184991113496",
+      "type": "ip",
+      "value": "155.2.192.94"
+    },
     "155.254.25.34": {
       "confidence": 0.91,
       "date": "2026-07-25 22:33:00",
@@ -8137,6 +8214,22 @@
       "tweet_id": "2082511685240184885",
       "type": "ip",
       "value": "185.158.133.1"
+    },
+    "185.174.101.132": {
+      "confidence": 0.85,
+      "date": "2026-08-08 11:57:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake COLDCARD crypto wallet domain lures victims into downloading a DocuSign MSI that drops rogue ScreenConnect RMM; opendir observed on threat actor domain.",
+      "threat_type": "malware",
+      "tweet_id": "2086059184991113496",
+      "type": "ip",
+      "value": "185.174.101.132"
     },
     "185.178.208.153": {
       "confidence": 0.95,
@@ -11324,6 +11417,22 @@
       "type": "domain",
       "value": "202608045201545111.zip"
     },
+    "203.159.90.31": {
+      "confidence": 0.85,
+      "date": "2026-08-08 11:57:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "c2",
+        "malware"
+      ],
+      "summary": "Fake COLDCARD crypto wallet domain lures victims into downloading a DocuSign MSI that drops rogue ScreenConnect RMM; opendir observed on threat actor domain.",
+      "threat_type": "malware",
+      "tweet_id": "2086059184991113496",
+      "type": "ip",
+      "value": "203.159.90.31"
+    },
     "203.88.119.53": {
       "confidence": 0.88,
       "date": "2026-07-28 20:55:00",
@@ -13000,6 +13109,20 @@
       "tweet_id": "2077481987921547359",
       "type": "ip",
       "value": "26.1.1.70"
+    },
+    "26.3.1.7": {
+      "confidence": 0.7,
+      "date": "2026-08-08 07:04:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "Daily threat intel briefing covering actively exploited CVEs: N-central auth-bypass, Langflow RCE, Cisco FMC zero-day, WordPress wp2shell, and Rails Active Storage RCE.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2085985401441825052",
+      "type": "ip",
+      "value": "26.3.1.7"
     },
     "261a6daa4ba6016af869c7c47a8281472f2694909d048015e1b6b8ae12358d2c": {
       "confidence": 0.77,
@@ -23056,6 +23179,23 @@
       "type": "url",
       "value": "http://89.110.110.119"
     },
+    "89.125.255.236": {
+      "confidence": 0.85,
+      "date": "2026-08-08 08:51:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "trojan",
+        "rat"
+      ],
+      "summary": "Fake Google Meets MSI delivered via PowerShell uses K7 AV DLL sideloading to execute SpectraEmu second-stage payload, which connects to a C2 on port 3333.",
+      "threat_type": "malware",
+      "tweet_id": "2086012452475748830",
+      "type": "url",
+      "value": "http://89.125.255.236"
+    },
     "89.147.101.197": {
       "confidence": 0.92,
       "date": "2026-07-12 23:05:00",
@@ -23359,6 +23499,21 @@
       "tweet_id": "2085006627518697683",
       "type": "ip",
       "value": "89.42.134.220"
+    },
+    "8a05758bf149bc80368a74d9bff47bea03be779f1013816aafe6886dcdfa9bda": {
+      "confidence": 0.6,
+      "date": "2026-08-08 10:02:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware",
+        "malware"
+      ],
+      "summary": "Ransomware sample identified by SHA256 hash submitted to VirusTotal.",
+      "threat_type": "ransomware",
+      "tweet_id": "2086030345506361516",
+      "type": "sha256",
+      "value": "8a05758bf149bc80368a74d9bff47bea03be779f1013816aafe6886dcdfa9bda"
     },
     "8a50ed3d9d9e90c971100e211b7f5c8c7128ccbf9164cf3bd1beed8a49da6ab6": {
       "confidence": 0.75,
@@ -29282,6 +29437,21 @@
       "tweet_id": "2084972884384948628",
       "type": "url",
       "value": "http://allegrolokalnie.alleprodukt58932.sbs/oferta/gogle-vr-meta-quest-3/655691063?fbclid=iwy2xjawtffdtlehrua2flbqixmqbzcn"
+    },
+    "allegrolokalnie.lokalna-ofera293925.lol": {
+      "confidence": 0.95,
+      "date": "2026-08-08 07:00:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing site impersonating Allegro Lokalnie Polish marketplace, hosted behind Cloudflare infrastructure in the US.",
+      "threat_type": "phishing",
+      "tweet_id": "2085984603857203426",
+      "type": "domain",
+      "value": "allegrolokalnie.lokalna-ofera293925.lol"
     },
     "allegrolokalnie.pl-odbior-platnosci-7321.click": {
       "confidence": 0.9,
@@ -37681,6 +37851,22 @@
       "type": "domain",
       "value": "careerlongprofit.duckdns.org"
     },
+    "carefullinkwatch.shop": {
+      "confidence": 0.9,
+      "date": "2026-08-08 10:26:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malvertising",
+        "scam"
+      ],
+      "summary": "McAfee-branded phishing campaign using three .shop domains distributed via Outbrain ad network under the alias 'Web Software Solutions'.",
+      "threat_type": "phishing",
+      "tweet_id": "2086036267209314591",
+      "type": "domain",
+      "value": "carefullinkwatch.shop"
+    },
     "carlightingking.com": {
       "confidence": 0.55,
       "date": "2026-07-21 15:33:00",
@@ -44446,6 +44632,20 @@
       "type": "url",
       "value": "http://dockey.vu/jpearrow"
     },
+    "docomo-my.com": {
+      "confidence": 0.95,
+      "date": "2026-08-08 08:20:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating NTT Docomo mobile carrier targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2086004580735934474",
+      "type": "domain",
+      "value": "docomo-my.com"
+    },
     "docs-view.givingmachinenwa.com": {
       "confidence": 0.85,
       "date": "2026-07-23 11:44:00",
@@ -50565,6 +50765,22 @@
       "tweet_id": "2084564653015757266",
       "type": "domain",
       "value": "eta.389838.xyz"
+    },
+    "ethercdnns.beer": {
+      "confidence": 0.92,
+      "date": "2026-08-08 08:45:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "clearfake",
+        "malware"
+      ],
+      "summary": "Three .beer domains identified as ClickFix and ClearFake malware distribution infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2086010887198908478",
+      "type": "domain",
+      "value": "ethercdnns.beer"
     },
     "ethervane.com": {
       "confidence": 0.93,
@@ -65866,6 +66082,22 @@
       "type": "domain",
       "value": "lcloud-findmydevicesid.net"
     },
+    "ldnscreatejs.beer": {
+      "confidence": 0.92,
+      "date": "2026-08-08 08:45:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "clearfake",
+        "malware"
+      ],
+      "summary": "Three .beer domains identified as ClickFix and ClearFake malware distribution infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2086010887198908478",
+      "type": "domain",
+      "value": "ldnscreatejs.beer"
+    },
     "leads.marke-ter.online": {
       "confidence": 0.92,
       "date": "2026-07-24 08:35:00",
@@ -76423,6 +76655,22 @@
       "tweet_id": "2080572519006773555",
       "type": "url",
       "value": "http://neighborhood-renovations.com/bless/"
+    },
+    "neiwteamcdn.beer": {
+      "confidence": 0.92,
+      "date": "2026-08-08 08:45:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "clearfake",
+        "malware"
+      ],
+      "summary": "Three .beer domains identified as ClickFix and ClearFake malware distribution infrastructure.",
+      "threat_type": "malware",
+      "tweet_id": "2086010887198908478",
+      "type": "domain",
+      "value": "neiwteamcdn.beer"
     },
     "nentendo.net": {
       "confidence": 0.9,
@@ -89629,6 +89877,22 @@
       "type": "domain",
       "value": "ppz0y9a6grw3veoqwz.live"
     },
+    "practicalnetworkwatch.shop": {
+      "confidence": 0.9,
+      "date": "2026-08-08 10:26:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malvertising",
+        "scam"
+      ],
+      "summary": "McAfee-branded phishing campaign using three .shop domains distributed via Outbrain ad network under the alias 'Web Software Solutions'.",
+      "threat_type": "phishing",
+      "tweet_id": "2086036267209314591",
+      "type": "domain",
+      "value": "practicalnetworkwatch.shop"
+    },
     "premiata.rest": {
       "confidence": 0.55,
       "date": "2026-07-21 15:33:00",
@@ -89736,6 +90000,22 @@
       "tweet_id": "2080588110094532696",
       "type": "domain",
       "value": "premiumtalkspodcast.unaux.com"
+    },
+    "premiumwebserver.shop": {
+      "confidence": 0.9,
+      "date": "2026-08-08 10:26:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malvertising",
+        "scam"
+      ],
+      "summary": "McAfee-branded phishing campaign using three .shop domains distributed via Outbrain ad network under the alias 'Web Software Solutions'.",
+      "threat_type": "phishing",
+      "tweet_id": "2086036267209314591",
+      "type": "domain",
+      "value": "premiumwebserver.shop"
     },
     "premiumxtalkspodcast.unaux.com": {
       "confidence": 0.82,
@@ -90114,6 +90394,22 @@
       "tweet_id": "2079590696932024660",
       "type": "domain",
       "value": "projectorion.online"
+    },
+    "prolegiot.pro": {
+      "confidence": 0.65,
+      "date": "2026-08-08 10:34:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "stealer"
+      ],
+      "summary": "Malware sample disguised as a PDF/Adobe Reader document scanner RAR, delivered from Ukraine via a reg.ru-registered domain.",
+      "threat_type": "malware",
+      "tweet_id": "2086038365908980066",
+      "type": "domain",
+      "value": "prolegiot.pro"
     },
     "prolinor.de": {
       "confidence": 0.55,
@@ -114247,6 +114543,20 @@
       "type": "url",
       "value": "http://www.digital-post.live"
     },
+    "www.docomo-my.com": {
+      "confidence": 0.95,
+      "date": "2026-08-08 08:20:00",
+      "enriched_at": "2026-08-08T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating NTT Docomo mobile carrier targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2086004580735934474",
+      "type": "url",
+      "value": "https://www.docomo-my.com"
+    },
     "www.download.renaultsatelite.com.mx": {
       "confidence": 0.87,
       "date": "2026-07-18 14:18:00",
@@ -119645,6 +119955,6 @@
       "value": "\ubd84\uc11d-votingonline.co.in"
     }
   },
-  "generated_at": "2026-08-08T06:40:04Z",
+  "generated_at": "2026-08-08T12:40:03Z",
   "window_days": 30
 }

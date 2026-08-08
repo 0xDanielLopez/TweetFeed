@@ -1,19 +1,21 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5408
-; Updated: 2026-08-08T10:45:25Z
+; Entries: 5414
+; Updated: 2026-08-08T12:45:26Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786185925 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786193126 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
 000.rich CNAME .
 *.000.rich CNAME .
+0002302.pro CNAME .
+*.0002302.pro CNAME .
 000games.com CNAME .
 *.000games.com CNAME .
 000register.com CNAME .
@@ -84,6 +86,8 @@ $TTL 300
 *.1.mvuianh.cn CNAME .
 10.196.252.46.host.secureserver.net CNAME .
 *.10.196.252.46.host.secureserver.net CNAME .
+100mocks.com CNAME .
+*.100mocks.com CNAME .
 105.205.92.host.secureserver.net CNAME .
 *.105.205.92.host.secureserver.net CNAME .
 11ccukcptk2udqvc.ntax-memd86s.dynv6.net CNAME .
@@ -712,6 +716,8 @@ alacfonta.es CNAME .
 *.alacfonta.es CNAME .
 alarm-doc-review.site CNAME .
 *.alarm-doc-review.site CNAME .
+alberthumanclinic.com CNAME .
+*.alberthumanclinic.com CNAME .
 alcatelonetouch.us CNAME .
 *.alcatelonetouch.us CNAME .
 aldibiki.com CNAME .
@@ -4028,6 +4034,8 @@ intesa.banca-rs.com CNAME .
 *.intesa.banca-rs.com CNAME .
 intexxxxmanifold.com CNAME .
 *.intexxxxmanifold.com CNAME .
+intfdt.com CNAME .
+*.intfdt.com CNAME .
 inventionsplendid.mbrceuo.com CNAME .
 *.inventionsplendid.mbrceuo.com CNAME .
 investmentachievementcelebration.xyz CNAME .
@@ -4290,6 +4298,8 @@ kcjsjyeaw.eu.cc CNAME .
 *.kcjsjyeaw.eu.cc CNAME .
 ke6jp62jt2.dynv6.net CNAME .
 *.ke6jp62jt2.dynv6.net CNAME .
+keeed.top CNAME .
+*.keeed.top CNAME .
 kekwkekw.minecraftnoob.com CNAME .
 *.kekwkekw.minecraftnoob.com CNAME .
 keneedy.lol CNAME .
@@ -9210,6 +9220,8 @@ tlktok.maurenou.com CNAME .
 *.tlktok.maurenou.com CNAME .
 tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion CNAME .
 *.tlxoddx4odmc2qvsmtsbgwwsv5j45osb5sox7mz6izxliuju5mkulzad.onion CNAME .
+tmallpeaceful.com CNAME .
+*.tmallpeaceful.com CNAME .
 tme-proxy.alex-074.workers.dev CNAME .
 *.tme-proxy.alex-074.workers.dev CNAME .
 toccaball.com CNAME .

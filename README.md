@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 12:30:27 (UTC)</th>
+        <th colspan=4>2026-08-08 12:45:26 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,10 +180,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 933 | 6472 | 54724 |
-| **:globe_with_meridians: Domains** | 11 | 779 | 5556 | 41850 |
-| **:triangular_flag_on_post: IPs** | 12 | 229 | 876 | 10713 |
-| **:1234: SHA256** | 2 | 138 | 524 | 2515 |
+| **:link: URLs** | 27 | 945 | 6484 | 54736 |
+| **:globe_with_meridians: Domains** | 18 | 786 | 5563 | 41857 |
+| **:triangular_flag_on_post: IPs** | 16 | 233 | 880 | 10717 |
+| **:1234: SHA256** | 3 | 139 | 525 | 2516 |
 | **:1234: MD5** | 1 | 91 | 258 | 2548 |
 
 </div>
@@ -197,13 +197,13 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 10 | 792 | 6034 | 38648 |
+| **#phishing** | 16 | 798 | 6040 | 38654 |
 | **#Kimsuky** | 0 | 0 | 2082 | 15035 |
 | **#DPRK** | 0 | 2 | 2081 | 13432 |
 | **#C2** | 0 | 48 | 412 | 11802 |
 | **#scam** | 0 | 6 | 144 | 5869 |
 | **#CobaltStrike** | 0 | 0 | 5 | 2753 |
-| **#malware** | 5 | 105 | 520 | 2741 |
+| **#malware** | 13 | 113 | 528 | 2749 |
 | **#APT** | 3 | 58 | 121 | 1681 |
 | **#Interactsh** | 0 | 0 | 0 | 1408 |
 | **#Remcos** | 0 | 0 | 85 | 1008 |
@@ -222,16 +222,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [skocherhan](https://x.com/skocherhan) | 14 |
-| **#2** | [sicehice](https://x.com/sicehice) | 4 |
-| **#3** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
-| **#4** | [Malwarehunterr](https://x.com/Malwarehunterr) | 4 |
-| **#5** | [abuse_ch](https://x.com/abuse_ch) | 4 |
-| **#6** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
-| **#7** | [phishunt_io](https://x.com/phishunt_io) | 2 |
-| **#8** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#9** | [JAMESWT_WT](https://x.com/JAMESWT_WT) | 2 |
-| **#10** | [akudryk007](https://x.com/akudryk007) | 1 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 18 |
+| **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 12 |
+| **#3** | [webamon_search](https://x.com/webamon_search) | 6 |
+| **#4** | [harugasumi](https://x.com/harugasumi) | 6 |
+| **#5** | [sicehice](https://x.com/sicehice) | 4 |
+| **#6** | [UK_Daniel_Card](https://x.com/UK_Daniel_Card) | 4 |
+| **#7** | [abuse_ch](https://x.com/abuse_ch) | 4 |
+| **#8** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 3 |
+| **#9** | [phishunt_io](https://x.com/phishunt_io) | 2 |
+| **#10** | [masaomi346](https://x.com/masaomi346) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

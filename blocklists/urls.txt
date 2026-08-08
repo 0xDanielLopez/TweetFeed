@@ -1,13 +1,14 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 6330
-# Updated: 2026-08-08T11:45:25Z
+# Entries: 6341
+# Updated: 2026-08-08T12:45:26Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
 # Community-reported IOCs. Use at your own risk.
 
 http://000.rich
+http://0002302.pro
 http://000games.com
 http://000register.com
 http://0055xing.com
@@ -44,6 +45,7 @@ http://10.160.197.88:1521
 http://10.160.197.88:7575
 http://10.196.252.46.host.secureserver.net/pdf
 http://10.196.252.46.host.secureserver.net/pdfPDF
+http://100mocks.com
 http://101.36.114.215
 http://101.36.114.231
 http://101.36.114.24
@@ -374,6 +376,8 @@ http://20260730023139.zip
 http://20260730141517.zip
 http://20260731173614.zip
 http://202608045201545111.zip
+http://203.188.171.167
+http://203.188.171.167:8041
 http://203.88.119.53
 http://204.194.50.231
 http://204.194.50.231/9856.png
@@ -383,6 +387,7 @@ http://204.44.69.210
 http://206.119.81.53
 http://207.174.0.143:8080
 http://207.180.56.150
+http://207.189.8.63
 http://207.189.9.139
 http://207.56.138.216
 http://207.56.138.83
@@ -891,6 +896,7 @@ http://al39nhs.dns.navy
 http://al4nhs.dns.navy
 http://alacfonta.es
 http://alarm-doc-review.site
+http://alberthumanclinic.com
 http://alcatelonetouch.us
 http://aldibiki.com/madison/
 http://alert-bh.com
@@ -2437,6 +2443,8 @@ http://interdoclist.dynu.net
 http://interdoclists.dynu.net
 http://intesa.banca-rs.com
 http://intexxxxmanifold.com
+http://intfdt.com
+http://intfdt.com:8041
 http://investmentachievementcelebration.xyz
 http://invitation.bronex.vu/google/
 http://invoice-doc.tj5jw.rea5wljzgp.dns.army
@@ -6021,6 +6029,7 @@ https://ik.imagekit.io/wxydeiplp/RAD%200612671-pdf.url
 https://immenseastonish.jszmbdw.com
 https://inbio.me/EE
 https://initiatives-interfaces-impossible-illustration.trycloudflare.com
+https://intfdt.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 https://inventionsplendid.mbrceuo.com
 https://invitparrties.top
 https://invitparrties.top/Download
@@ -6043,6 +6052,7 @@ https://jzbrmq.cfd/gRB0qs
 https://kaiwyrey.eu.cc/d/bdc9637e70c2
 https://kaiwyrey.eu.cc/d/fe93220bfecf/file?code=1082658a8855be82a6859324aef5153d
 https://kalorexivakena.net/jp
+https://keeed.top/jp/
 https://kingston-coding-rely-fourth.trycloudflare.com
 https://kixoro.cfd/w/Sign/i.html
 https://kpptgup.s3.us-east-1.amazonaws.com/equium.html
@@ -6243,6 +6253,7 @@ https://thehatfieldhotel-9g5jl.ondigitalocean.app
 https://ticxqjl.com/TeamsA/Teams10/Windows/invite.php
 https://tlktok.heiodora.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840
 https://tlktok.maurenou.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840
+https://tmallpeaceful.com/page/xvfhptkuqu
 https://tonghedianzi.com/safety/update/
 https://tridus.vu/ftx/
 https://turn.rubicon-contract.ru
