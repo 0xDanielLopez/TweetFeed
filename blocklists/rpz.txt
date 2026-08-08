@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5400
-; Updated: 2026-08-08T00:00:19Z
+; Entries: 5401
+; Updated: 2026-08-08T07:15:22Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786147219 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786173322 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -750,6 +750,8 @@ allegro.2391290h945.shop CNAME .
 *.allegro.2391290h945.shop CNAME .
 allegrolokalnie.alleprodukt58932.sbs CNAME .
 *.allegrolokalnie.alleprodukt58932.sbs CNAME .
+allegrolokalnie.lokalna-ofera293925.lol CNAME .
+*.allegrolokalnie.lokalna-ofera293925.lol CNAME .
 allegrolokalnie.pl-odbior-platnosci-7321.click CNAME .
 *.allegrolokalnie.pl-odbior-platnosci-7321.click CNAME .
 allianceglobal.com.tr CNAME .
