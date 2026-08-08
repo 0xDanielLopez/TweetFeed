@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 6346
-# Updated: 2026-08-08T14:45:26Z
+# Entries: 6348
+# Updated: 2026-08-08T16:15:28Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -317,6 +317,7 @@ http://193.233.19.134/page
 http://193.233.198.18:3000
 http://193.24.123.18:85/api/
 http://193.26.115.118:8443
+http://193.26.115.17:56001
 http://193.34.212.132
 http://193.58.121.48:3000
 http://194.213.18.137
@@ -4017,6 +4018,7 @@ http://punts.shop
 http://purchasevalley.com/wenkegreenhouses/download.html
 http://purchasing-amazon.com
 http://pure26.myftp.org:56001
+http://purecoder.io
 http://pusealant.com
 http://put1lvgvo6l0p7cuif.live
 http://putevi-srbije.cyou

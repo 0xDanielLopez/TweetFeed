@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 5417
-; Updated: 2026-08-08T14:45:26Z
+; Entries: 5418
+; Updated: 2026-08-08T16:15:28Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1786200326 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1786205728 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -7356,6 +7356,8 @@ purchasing-amazon.com CNAME .
 *.purchasing-amazon.com CNAME .
 pure26.myftp.org CNAME .
 *.pure26.myftp.org CNAME .
+purecoder.io CNAME .
+*.purecoder.io CNAME .
 pusealant.com CNAME .
 *.pusealant.com CNAME .
 put1lvgvo6l0p7cuif.live CNAME .
