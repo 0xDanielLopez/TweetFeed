@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-08 17:15:29 (UTC)</th>
+        <th colspan=4>2026-08-08 17:29:07 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,9 +180,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 33 | 949 | 5780 | 53689 |
-| **:globe_with_meridians: Domains** | 23 | 788 | 4979 | 40943 |
-| **:triangular_flag_on_post: IPs** | 19 | 236 | 833 | 10656 |
+| **:link: URLs** | 33 | 949 | 5780 | 53681 |
+| **:globe_with_meridians: Domains** | 23 | 788 | 4979 | 40939 |
+| **:triangular_flag_on_post: IPs** | 19 | 236 | 833 | 10647 |
 | **:1234: SHA256** | 5 | 119 | 502 | 2504 |
 | **:1234: MD5** | 1 | 89 | 253 | 2542 |
 
@@ -199,11 +199,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 25 | 807 | 6047 | 38587 |
 | **#Kimsuky** | 0 | 0 | 774 | 13170 |
-| **#C2** | 0 | 48 | 403 | 11798 |
+| **#C2** | 0 | 48 | 403 | 11787 |
 | **#DPRK** | 1 | 3 | 774 | 11568 |
 | **#scam** | 0 | 6 | 144 | 5869 |
-| **#CobaltStrike** | 0 | 0 | 5 | 2753 |
 | **#malware** | 13 | 111 | 528 | 2745 |
+| **#CobaltStrike** | 0 | 0 | 5 | 2742 |
 | **#APT** | 2 | 60 | 123 | 1680 |
 | **#Interactsh** | 0 | 0 | 0 | 1408 |
 | **#Remcos** | 0 | 0 | 85 | 1008 |
@@ -244,7 +244,7 @@ Search tweets that contain certain tags **or** that are posted by certain *infos
 
 <!-- TAGS_LIST_START -->
 ```
-#phishing, #Kimsuky, #C2, #DPRK, #scam, #CobaltStrike, #malware,
+#phishing, #Kimsuky, #C2, #DPRK, #scam, #malware, #CobaltStrike,
 #APT, #Interactsh, #Remcos
 ```
 <!-- TAGS_LIST_END -->
