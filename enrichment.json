@@ -1,5 +1,5 @@
 {
-  "count": 7537,
+  "count": 7541,
   "dead_tweets": {
     "2079534358914850868": {
       "attempts": 2,
@@ -13909,23 +13909,6 @@
       "type": "sha256",
       "value": "3279296c6bf2251e2a1dfabb921bb01823faabc3e8e5767d7321a1d7cc49a8ce"
     },
-    "32a962439ec0fb5559e494fe1ea6be039815d3c4c1cceb95b16dc123e5abde61": {
-      "confidence": 0.82,
-      "date": "2026-07-23 06:13:00",
-      "enriched_at": "2026-08-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "apt",
-        "rat"
-      ],
-      "summary": "Targeted malware against Ukrainian users uses DNS TXT record covert channel to deliver PowerShell commands and fetch second-stage payload from global-research.space.",
-      "threat_type": "malware",
-      "tweet_id": "2080174484154204529",
-      "type": "sha256",
-      "value": "32a962439ec0fb5559e494fe1ea6be039815d3c4c1cceb95b16dc123e5abde61"
-    },
     "33016cc9ff0f4bbf257a83c4b895a466": {
       "confidence": 0.7,
       "date": "2026-07-28 10:50:00",
@@ -16691,21 +16674,6 @@
       "tweet_id": "2082465509560266820",
       "type": "sha256",
       "value": "4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466"
-    },
-    "453b69743065d01f530ee95b04da99382a3290087457f3a4d594d89be9a2976a": {
-      "confidence": 0.9,
-      "date": "2026-07-23 06:07:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM MSI via invitation-themed lure at punchbowl.cyou.",
-      "threat_type": "phishing",
-      "tweet_id": "2080172844450037916",
-      "type": "sha256",
-      "value": "453b69743065d01f530ee95b04da99382a3290087457f3a4d594d89be9a2976a"
     },
     "456345345.net": {
       "confidence": 0.98,
@@ -35268,20 +35236,6 @@
       "type": "domain",
       "value": "biglobe.superrroofer2397.workers.dev"
     },
-    "biglobemailsjp.vercel.app": {
-      "confidence": 0.95,
-      "date": "2026-07-23 01:31:00",
-      "enriched_at": "2026-07-23T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating BIGLOBE (Japanese ISP) hosted on Vercel at biglobemailsjp.vercel.app.",
-      "threat_type": "phishing",
-      "tweet_id": "2080103456434725042",
-      "type": "domain",
-      "value": "biglobemailsjp.vercel.app"
-    },
     "biiousdt.com": {
       "confidence": 0.9,
       "date": "2026-08-14 13:50:15",
@@ -36779,6 +36733,21 @@
       "tweet_id": "2084771538969002414",
       "type": "domain",
       "value": "bsgdop-baidu2026730z.014901490149k.com"
+    },
+    "bsmaopm.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-07-28 21:55:00",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "wsgidav",
+        "opendir"
+      ],
+      "summary": "DuckDNS domains associated with WsgiDAV open directory, likely serving malware payloads via Cloudflare tunnel.",
+      "threat_type": "malware",
+      "tweet_id": "2082223545300508818",
+      "type": "domain",
+      "value": "bsmaopm.duckdns.org"
     },
     "bsvr.rnvdmhsrsrndnvgncsl.com": {
       "confidence": 0.98,
@@ -42860,6 +42829,20 @@
       "type": "url",
       "value": "http://cvnjlox.com/DCahCpNp"
     },
+    "cvqgs36nhw-wtrkblpw-3i2d0e-cvq79c.pages.dev": {
+      "confidence": 0.62,
+      "date": "2026-08-22 02:53:35",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Cloudflare Pages subdomain flagged as confirmed scam by automated malware scan verdict.",
+      "threat_type": "scam",
+      "tweet_id": "2090995771168481618",
+      "type": "domain",
+      "value": "cvqgs36nhw-wtrkblpw-3i2d0e-cvq79c.pages.dev"
+    },
     "cw.kizlarburada.click": {
       "confidence": 0.98,
       "date": "2026-08-09 22:41:50",
@@ -43574,21 +43557,6 @@
       "tweet_id": "2085760937739374794",
       "type": "domain",
       "value": "dadjugs.cfd"
-    },
-    "dae-mul-17.com": {
-      "confidence": 0.65,
-      "date": "2026-07-23 04:30:00",
-      "enriched_at": "2026-07-23T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "malware"
-      ],
-      "summary": "Third-party scan flagged dae-mul-17.com as a confirmed scam site.",
-      "threat_type": "scam",
-      "tweet_id": "2080148566891233462",
-      "type": "domain",
-      "value": "dae-mul-17.com"
     },
     "dae-mul-18.com": {
       "confidence": 0.8,
@@ -46349,6 +46317,21 @@
       "tweet_id": "2088625699493941341",
       "type": "domain",
       "value": "docusign.ostium-terms.com"
+    },
+    "docusign.ostiumterms.com": {
+      "confidence": 0.95,
+      "date": "2026-08-15 13:55:46",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Large DocuSign phishing campaign with 80+ lookalike domains targeting crypto exchanges (Fireblocks, Binance, Coinbase) and financial platforms.",
+      "threat_type": "phishing",
+      "tweet_id": "2088625699493941341",
+      "type": "domain",
+      "value": "docusign.ostiumterms.com"
     },
     "docusign.pdf-adobe.us": {
       "confidence": 0.92,
@@ -53746,6 +53729,22 @@
       "type": "url",
       "value": "http://fiorenzapaes.com.br/court/"
     },
+    "fireblocksdocusign.icu": {
+      "confidence": 0.92,
+      "date": "2026-07-27 15:16:00",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "booking"
+      ],
+      "summary": "Brand impersonation campaign: 129 domains targeting WhatsApp, banks, Microsoft, DocuSign, crypto exchanges (Binance, Coinbase), and social media; fireblocksdocusign.icu confirmed malicious.",
+      "threat_type": "phishing",
+      "tweet_id": "2081760527257149767",
+      "type": "domain",
+      "value": "fireblocksdocusign.icu"
+    },
     "firstdominha.shop": {
       "confidence": 0.92,
       "date": "2026-08-11 18:06:05",
@@ -55939,6 +55938,20 @@
       "type": "domain",
       "value": "gfagfasdgaas.sbs"
     },
+    "gfytvd-wiyn-np4qjd-g9ewg7.pages.dev": {
+      "confidence": 0.62,
+      "date": "2026-08-22 04:50:02",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Cloudflare Pages subdomain flagged as confirmed scam by automated malware scan verdict.",
+      "threat_type": "scam",
+      "tweet_id": "2091025078561452488",
+      "type": "domain",
+      "value": "gfytvd-wiyn-np4qjd-g9ewg7.pages.dev"
+    },
     "gg.qunaeer.com": {
       "confidence": 0.87,
       "date": "2026-08-10 21:17:12",
@@ -56468,21 +56481,6 @@
       "tweet_id": "2085673388266369237",
       "type": "url",
       "value": "https://github.com/oven-sh/bun/releases/download/"
-    },
-    "github.com/sean100496": {
-      "confidence": 0.9,
-      "date": "2026-07-23 06:01:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure at invitparrties.top; payload hosted on GitHub.",
-      "threat_type": "phishing",
-      "tweet_id": "2080171347448352794",
-      "type": "url",
-      "value": "https://github.com/sean100496"
     },
     "github.com/sean100496#threatintel": {
       "confidence": 0.85,
@@ -58907,6 +58905,21 @@
       "type": "domain",
       "value": "helengarentals.com"
     },
+    "heliumcompliance.info": {
+      "confidence": 0.95,
+      "date": "2026-08-15 13:55:46",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Large DocuSign phishing campaign with 80+ lookalike domains targeting crypto exchanges (Fireblocks, Binance, Coinbase) and financial platforms.",
+      "threat_type": "phishing",
+      "tweet_id": "2088625699493941341",
+      "type": "domain",
+      "value": "heliumcompliance.info"
+    },
     "hello-4xs.pages.dev": {
       "confidence": 0.95,
       "date": "2026-08-04 08:58:00",
@@ -60000,6 +60013,21 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "hizlionaylarseninlebirlikteherzaman.com.tr"
+    },
+    "hjupow.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-07-28 21:55:00",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "wsgidav",
+        "opendir"
+      ],
+      "summary": "DuckDNS domains associated with WsgiDAV open directory, likely serving malware payloads via Cloudflare tunnel.",
+      "threat_type": "malware",
+      "tweet_id": "2082223545300508818",
+      "type": "domain",
+      "value": "hjupow.duckdns.org"
     },
     "hk-whatsapp.one": {
       "confidence": 0.95,
@@ -63260,21 +63288,6 @@
       "type": "domain",
       "value": "invites.chat"
     },
-    "invitparrties.top": {
-      "confidence": 0.9,
-      "date": "2026-07-23 06:01:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure at invitparrties.top; payload hosted on GitHub.",
-      "threat_type": "phishing",
-      "tweet_id": "2080171347448352794",
-      "type": "url",
-      "value": "https://invitparrties.top"
-    },
     "invitparrties.top/download": {
       "confidence": 0.85,
       "date": "2026-07-23 07:58:00",
@@ -63413,6 +63426,21 @@
       "tweet_id": "2080572519006773555",
       "type": "url",
       "value": "http://iooshosting.com/noth/download.html"
+    },
+    "iotapolicyreview.org": {
+      "confidence": 0.95,
+      "date": "2026-08-15 13:55:46",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Large DocuSign phishing campaign with 80+ lookalike domains targeting crypto exchanges (Fireblocks, Binance, Coinbase) and financial platforms.",
+      "threat_type": "phishing",
+      "tweet_id": "2088625699493941341",
+      "type": "domain",
+      "value": "iotapolicyreview.org"
     },
     "ip.bj89.cc.cd": {
       "confidence": 0.95,
@@ -65247,6 +65275,23 @@
       "tweet_id": "2084771538969002414",
       "type": "domain",
       "value": "jsp-baidu260804.www01490271dd.com"
+    },
+    "jul1986icara.duckdns.org": {
+      "confidence": 0.9,
+      "date": "2026-07-28 20:50:00",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "remcosrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "Large cluster of DuckDNS C2 domains with naming patterns explicitly referencing XWorm and Remcos RAT campaigns across multiple date-keyed campaigns.",
+      "threat_type": "c2",
+      "tweet_id": "2082207113011724298",
+      "type": "domain",
+      "value": "jul1986icara.duckdns.org"
     },
     "jul5050quasaf.duckdns.org": {
       "confidence": 0.83,
@@ -67546,20 +67591,6 @@
       "type": "url",
       "value": "http://lanrio.vu/v3"
     },
-    "lapsus.bz": {
-      "confidence": 0.5,
-      "date": "2026-07-23 02:44:00",
-      "enriched_at": "2026-07-23T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt"
-      ],
-      "summary": "Statement posted on lapsus.bz claiming LAPSUS$ threat group has permanently ceased operations.",
-      "threat_type": "other",
-      "tweet_id": "2080121866421989505",
-      "type": "domain",
-      "value": "lapsus.bz"
-    },
     "lar7250js.duckdns.org": {
       "confidence": 0.83,
       "date": "2026-07-28 20:50:00",
@@ -68573,6 +68604,20 @@
       "tweet_id": "2089107474825527555",
       "type": "domain",
       "value": "live-led-ger-sso-auth.typedream.app"
+    },
+    "live-zoorn.com": {
+      "confidence": 0.85,
+      "date": "2026-08-22 04:23:30",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Zoom-themed phishing domain live-zoorn.com targeting Zoom users via typosquatting.",
+      "threat_type": "phishing",
+      "tweet_id": "2091018400403501447",
+      "type": "domain",
+      "value": "live-zoorn.com"
     },
     "liveadobe.com": {
       "confidence": 0.95,
@@ -70128,6 +70173,34 @@
       "type": "url",
       "value": "http://maakmaghdouche.org/fxpay/download.html"
     },
+    "macielsoaresimobiliaria.com.br": {
+      "confidence": 0.85,
+      "date": "2026-08-22 05:04:51",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Lolipop (Japanese web hosting service) hosted on a compromised Brazilian real estate domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2091028805095973316",
+      "type": "domain",
+      "value": "macielsoaresimobiliaria.com.br"
+    },
+    "macielsoaresimobiliaria.com.br/lolipop": {
+      "confidence": 0.85,
+      "date": "2026-08-22 05:04:51",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Lolipop (Japanese web hosting service) hosted on a compromised Brazilian real estate domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2091028805095973316",
+      "type": "url",
+      "value": "https://macielsoaresimobiliaria.com.br/lolipop/"
+    },
     "macosapplesecure.com": {
       "confidence": 0.95,
       "date": "2026-07-28 17:07:00",
@@ -71131,6 +71204,23 @@
       "tweet_id": "2082207113011724298",
       "type": "domain",
       "value": "maynewxw9402.duckdns.org"
+    },
+    "mayvioel1982.duckdns.org": {
+      "confidence": 0.9,
+      "date": "2026-07-28 20:50:00",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": "XWorm",
+      "suggested_tags": [
+        "xworm",
+        "remcosrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "Large cluster of DuckDNS C2 domains with naming patterns explicitly referencing XWorm and Remcos RAT campaigns across multiple date-keyed campaigns.",
+      "threat_type": "c2",
+      "tweet_id": "2082207113011724298",
+      "type": "domain",
+      "value": "mayvioel1982.duckdns.org"
     },
     "mayxw9402.duckdns.org": {
       "confidence": 0.83,
@@ -74544,34 +74634,6 @@
       "tweet_id": "2088261925574492649",
       "type": "domain",
       "value": "moxcz.com"
-    },
-    "mqebv.com": {
-      "confidence": 0.95,
-      "date": "2026-07-23 06:04:00",
-      "enriched_at": "2026-07-23T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating JCB (Japanese credit card brand) hosted at mqebv.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2080172153748759023",
-      "type": "domain",
-      "value": "mqebv.com"
-    },
-    "mqebv.com/9ti7la5n": {
-      "confidence": 0.95,
-      "date": "2026-07-23 06:04:00",
-      "enriched_at": "2026-07-23T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating JCB (Japanese credit card brand) hosted at mqebv.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2080172153748759023",
-      "type": "url",
-      "value": "https://mqebv.com/9tI7La5n/"
     },
     "mr-156528.zip": {
       "confidence": 0.83,
@@ -84690,36 +84752,6 @@
       "type": "url",
       "value": "http://publlic-trezor-suite.typedream.app/en-us"
     },
-    "punchbowl.cyou": {
-      "confidence": 0.9,
-      "date": "2026-07-23 06:07:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM MSI via invitation-themed lure at punchbowl.cyou.",
-      "threat_type": "phishing",
-      "tweet_id": "2080172844450037916",
-      "type": "domain",
-      "value": "punchbowl.cyou"
-    },
-    "punchbowl.cyou/screenconnect.clientsetup.msi": {
-      "confidence": 0.9,
-      "date": "2026-07-23 06:07:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM MSI via invitation-themed lure at punchbowl.cyou.",
-      "threat_type": "phishing",
-      "tweet_id": "2080172844450037916",
-      "type": "url",
-      "value": "https://punchbowl.cyou/ScreenConnect.ClientSetup.msi"
-    },
     "punts.shop": {
       "confidence": 0.91,
       "date": "2026-07-25 13:30:00",
@@ -86535,21 +86567,6 @@
       "type": "url",
       "value": "https://raw.githubusercontent.com/Hac0185/bcc/refs/heads/main/ScreenConnect.ClientSetup.exe"
     },
-    "raw.githubusercontent.com/sean100496/bnb/refs/heads/main/screenconnect.clientsetup.exe": {
-      "confidence": 0.9,
-      "date": "2026-07-23 06:01:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure at invitparrties.top; payload hosted on GitHub.",
-      "threat_type": "phishing",
-      "tweet_id": "2080171347448352794",
-      "type": "url",
-      "value": "https://raw.githubusercontent.com/sean100496/bnb/refs/heads/main/ScreenConnect.ClientSetup.exe"
-    },
     "raw.githubusercontent.com/sean100496/bnb/refs/heads/main/screenconnect.clientsetup.exesha256": {
       "confidence": 0.85,
       "date": "2026-07-23 07:58:00",
@@ -87902,6 +87919,21 @@
       "type": "url",
       "value": "http://review.amrogn.com/appleton/download.html"
     },
+    "review.casacompliance.info": {
+      "confidence": 0.95,
+      "date": "2026-08-15 13:55:46",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Large DocuSign phishing campaign with 80+ lookalike domains targeting crypto exchanges (Fireblocks, Binance, Coinbase) and financial platforms.",
+      "threat_type": "phishing",
+      "tweet_id": "2088625699493941341",
+      "type": "domain",
+      "value": "review.casacompliance.info"
+    },
     "revviewfiles.es": {
       "confidence": 0.9,
       "date": "2026-08-03 00:57:00",
@@ -88607,6 +88639,21 @@
       "tweet_id": "2082150910101225915",
       "type": "domain",
       "value": "robilox.fun"
+    },
+    "robin43hf.duckdns.org": {
+      "confidence": 0.85,
+      "date": "2026-07-28 20:41:00",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "wsgidav",
+        "opendir"
+      ],
+      "summary": "DuckDNS domains linked to WsgiDAV open directory alongside Cloudflare tunnel infrastructure, likely hosting malware payloads.",
+      "threat_type": "malware",
+      "tweet_id": "2082204771331575833",
+      "type": "domain",
+      "value": "robin43hf.duckdns.org"
     },
     "robiox.cn": {
       "confidence": 0.9,
@@ -90362,6 +90409,21 @@
       "tweet_id": "2082151080973201598",
       "type": "domain",
       "value": "scotiareset.app"
+    },
+    "scr33nc0nn3ctz00m.com": {
+      "confidence": 0.52,
+      "date": "2026-08-22 03:45:03",
+      "enriched_at": "2026-08-22T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Newly registered domain scr33nc0nn3ctz00m.com typosquatting ScreenConnect remote access software, likely used for malware delivery.",
+      "threat_type": "malware",
+      "tweet_id": "2091008723959623721",
+      "type": "domain",
+      "value": "scr33nc0nn3ctz00m.com"
     },
     "sdfgryu.omvhq.xyz": {
       "confidence": 0.85,
@@ -114885,6 +114947,6 @@
       "value": "\ubd84\uc11d-votingonline.co.in"
     }
   },
-  "generated_at": "2026-08-22T00:40:04Z",
+  "generated_at": "2026-08-22T06:40:04Z",
   "window_days": 30
 }
