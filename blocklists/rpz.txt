@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4853
-; Updated: 2026-08-22T03:15:18Z
+; Entries: 4854
+; Updated: 2026-08-22T04:15:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787368518 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787372116 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -7078,6 +7078,8 @@ scotiaonline-websecurity.com CNAME .
 *.scotiaonline-websecurity.com CNAME .
 scotiareset.app CNAME .
 *.scotiareset.app CNAME .
+scr33nc0nn3ctz00m.com CNAME .
+*.scr33nc0nn3ctz00m.com CNAME .
 sdfgryu.omvhq.xyz CNAME .
 *.sdfgryu.omvhq.xyz CNAME .
 sdjwhb.com CNAME .
