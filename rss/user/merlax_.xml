@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Merlax_</title>
+      <link>https://x.com/Merlax_</link>
+      <description>IOCs shared by @Merlax_ and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Merlax_</title>
+         <link>https://x.com/Merlax_</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/merlax_.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>207.180.3.193</title>
+         <link>https://x.com/Merlax_/status/2090592485814714549</link>
+         <description>@Merlax_ | ip | #malware
+Value: 207.180.3.193
+Tweet: https://x.com/Merlax_/status/2090592485814714549</description>
+         <guid isPermaLink="false">207.180.3.193</guid>
+         <pubDate>Fri, 21 Aug 2026 00:11:04 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://207.180.3.193/launcher_raptor/src/</title>
+         <link>https://x.com/Merlax_/status/2090592485814714549</link>
+         <description>@Merlax_ | url | #malware
+Value: http://207.180.3.193/launcher_raptor/src/
+Tweet: https://x.com/Merlax_/status/2090592485814714549</description>
+         <guid isPermaLink="false">http://207.180.3.193/launcher_raptor/src/</guid>
+         <pubDate>Fri, 21 Aug 2026 00:11:04 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>https://sistematroll.net</title>
+         <link>https://x.com/Merlax_/status/2090592485814714549</link>
+         <description>@Merlax_ | url | #malware
+Value: https://sistematroll.net
+Tweet: https://x.com/Merlax_/status/2090592485814714549</description>
+         <guid isPermaLink="false">https://sistematroll.net</guid>
+         <pubDate>Fri, 21 Aug 2026 00:11:04 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>sistematroll.net</title>
+         <link>https://x.com/Merlax_/status/2090592485814714549</link>
+         <description>@Merlax_ | domain | #malware
+Value: sistematroll.net
+Tweet: https://x.com/Merlax_/status/2090592485814714549</description>
+         <guid isPermaLink="false">sistematroll.net</guid>
+         <pubDate>Fri, 21 Aug 2026 00:11:04 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

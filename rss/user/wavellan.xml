@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @wavellan</title>
+      <link>https://x.com/wavellan</link>
+      <description>IOCs shared by @wavellan and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @wavellan</title>
+         <link>https://x.com/wavellan</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/wavellan.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>1f5a27b1c6531500eb65026fb665d32af512e24aa047d63bd130998c77209edf</title>
+         <link>https://x.com/wavellan/status/2090577860415426609</link>
+         <description>@wavellan | sha256 | #phishing
+Value: 1f5a27b1c6531500eb65026fb665d32af512e24aa047d63bd130998c77209edf
+Tweet: https://x.com/wavellan/status/2090577860415426609</description>
+         <guid isPermaLink="false">1f5a27b1c6531500eb65026fb665d32af512e24aa047d63bd130998c77209edf</guid>
+         <pubDate>Thu, 20 Aug 2026 23:12:57 +0000</pubDate>
+         <category>sha256</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

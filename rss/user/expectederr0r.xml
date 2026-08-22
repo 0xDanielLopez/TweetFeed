@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @ExpectedErr0r</title>
+      <link>https://x.com/ExpectedErr0r</link>
+      <description>IOCs shared by @ExpectedErr0r and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @ExpectedErr0r</title>
+         <link>https://x.com/ExpectedErr0r</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/expectederr0r.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://fuoe333.club</title>
+         <link>https://x.com/ExpectedErr0r/status/2090011242547261839</link>
+         <description>@ExpectedErr0r | url | 
+Value: http://fuoe333.club
+Tweet: https://x.com/ExpectedErr0r/status/2090011242547261839</description>
+         <guid isPermaLink="false">http://fuoe333.club</guid>
+         <pubDate>Thu, 20 Aug 2026 19:56:48 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>fuoe333.club</title>
+         <link>https://x.com/ExpectedErr0r/status/2090011242547261839</link>
+         <description>@ExpectedErr0r | domain | 
+Value: fuoe333.club
+Tweet: https://x.com/ExpectedErr0r/status/2090011242547261839</description>
+         <guid isPermaLink="false">fuoe333.club</guid>
+         <pubDate>Thu, 20 Aug 2026 19:56:48 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

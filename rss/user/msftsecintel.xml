@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @MsftSecIntel</title>
+      <link>https://x.com/MsftSecIntel</link>
+      <description>IOCs shared by @MsftSecIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @MsftSecIntel</title>
+         <link>https://x.com/MsftSecIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/msftsecintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>84006055916e267f7c2f9324f1848563e589e4526a296d4e9e9ce8e2112d357c</title>
+         <link>https://x.com/MsftSecIntel/status/2089878169037738202</link>
+         <description>@MsftSecIntel | sha256 | 
+Value: 84006055916e267f7c2f9324f1848563e589e4526a296d4e9e9ce8e2112d357c
+Tweet: https://x.com/MsftSecIntel/status/2089878169037738202</description>
+         <guid isPermaLink="false">84006055916e267f7c2f9324f1848563e589e4526a296d4e9e9ce8e2112d357c</guid>
+         <pubDate>Wed, 19 Aug 2026 00:52:38 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>http://auto.c3pool.org:443</title>
+         <link>https://x.com/MsftSecIntel/status/2089878169037738202</link>
+         <description>@MsftSecIntel | url | 
+Value: http://auto.c3pool.org:443
+Tweet: https://x.com/MsftSecIntel/status/2089878169037738202</description>
+         <guid isPermaLink="false">http://auto.c3pool.org:443</guid>
+         <pubDate>Wed, 19 Aug 2026 00:52:38 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>auto.c3pool.org</title>
+         <link>https://x.com/MsftSecIntel/status/2089878169037738202</link>
+         <description>@MsftSecIntel | domain | 
+Value: auto.c3pool.org
+Tweet: https://x.com/MsftSecIntel/status/2089878169037738202</description>
+         <guid isPermaLink="false">auto.c3pool.org</guid>
+         <pubDate>Wed, 19 Aug 2026 00:52:38 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

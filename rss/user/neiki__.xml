@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Neiki__</title>
+      <link>https://x.com/Neiki__</link>
+      <description>IOCs shared by @Neiki__ and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Neiki__</title>
+         <link>https://x.com/Neiki__</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/neiki__.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://jlab.threat.rip</title>
+         <link>https://x.com/Neiki__/status/2090904540690170057</link>
+         <description>@Neiki__ | url | 
+Value: http://jlab.threat.rip
+Tweet: https://x.com/Neiki__/status/2090904540690170057</description>
+         <guid isPermaLink="false">http://jlab.threat.rip</guid>
+         <pubDate>Fri, 21 Aug 2026 20:51:04 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>jlab.threat.rip</title>
+         <link>https://x.com/Neiki__/status/2090904540690170057</link>
+         <description>@Neiki__ | domain | 
+Value: jlab.threat.rip
+Tweet: https://x.com/Neiki__/status/2090904540690170057</description>
+         <guid isPermaLink="false">jlab.threat.rip</guid>
+         <pubDate>Fri, 21 Aug 2026 20:51:04 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

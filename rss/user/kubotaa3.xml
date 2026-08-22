@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @kubotaa3</title>
+      <link>https://x.com/kubotaa3</link>
+      <description>IOCs shared by @kubotaa3 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @kubotaa3</title>
+         <link>https://x.com/kubotaa3</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/kubotaa3.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>47.91.10.53</title>
+         <link>https://x.com/kubotaa3/status/2089094634501013893</link>
+         <description>@kubotaa3 | ip | #phishing
+Value: 47.91.10.53
+Tweet: https://x.com/kubotaa3/status/2089094634501013893</description>
+         <guid isPermaLink="false">47.91.10.53</guid>
+         <pubDate>Sun, 16 Aug 2026 20:59:09 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://syhzp.com/IBmWlZEh/</title>
+         <link>https://x.com/kubotaa3/status/2089094634501013893</link>
+         <description>@kubotaa3 | url | #phishing
+Value: https://syhzp.com/IBmWlZEh/
+Tweet: https://x.com/kubotaa3/status/2089094634501013893</description>
+         <guid isPermaLink="false">https://syhzp.com/IBmWlZEh/</guid>
+         <pubDate>Sun, 16 Aug 2026 20:59:09 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>syhzp.com</title>
+         <link>https://x.com/kubotaa3/status/2089094634501013893</link>
+         <description>@kubotaa3 | domain | #phishing
+Value: syhzp.com
+Tweet: https://x.com/kubotaa3/status/2089094634501013893</description>
+         <guid isPermaLink="false">syhzp.com</guid>
+         <pubDate>Sun, 16 Aug 2026 20:59:09 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

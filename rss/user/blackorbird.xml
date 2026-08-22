@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @blackorbird</title>
+      <link>https://x.com/blackorbird</link>
+      <description>IOCs shared by @blackorbird and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @blackorbird</title>
+         <link>https://x.com/blackorbird</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/blackorbird.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://plugandpwn.com</title>
+         <link>https://x.com/blackorbird/status/2089027052733424051</link>
+         <description>@blackorbird | url | 
+Value: http://plugandpwn.com
+Tweet: https://x.com/blackorbird/status/2089027052733424051</description>
+         <guid isPermaLink="false">http://plugandpwn.com</guid>
+         <pubDate>Sun, 16 Aug 2026 16:30:36 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>plugandpwn.com</title>
+         <link>https://x.com/blackorbird/status/2089027052733424051</link>
+         <description>@blackorbird | domain | 
+Value: plugandpwn.com
+Tweet: https://x.com/blackorbird/status/2089027052733424051</description>
+         <guid isPermaLink="false">plugandpwn.com</guid>
+         <pubDate>Sun, 16 Aug 2026 16:30:36 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

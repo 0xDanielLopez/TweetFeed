@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @threatcluster</title>
+      <link>https://x.com/threatcluster</link>
+      <description>IOCs shared by @threatcluster and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @threatcluster</title>
+         <link>https://x.com/threatcluster</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/threatcluster.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>196.251.84.11</title>
+         <link>https://x.com/threatcluster/status/2090363532218880234</link>
+         <description>@threatcluster | ip | 
+Value: 196.251.84.11
+Tweet: https://x.com/threatcluster/status/2090363532218880234</description>
+         <guid isPermaLink="false">196.251.84.11</guid>
+         <pubDate>Thu, 20 Aug 2026 09:01:17 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://196.251.84.11</title>
+         <link>https://x.com/threatcluster/status/2090363532218880234</link>
+         <description>@threatcluster | url | 
+Value: http://196.251.84.11
+Tweet: https://x.com/threatcluster/status/2090363532218880234</description>
+         <guid isPermaLink="false">http://196.251.84.11</guid>
+         <pubDate>Thu, 20 Aug 2026 09:01:17 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>http://spyroid.net</title>
+         <link>https://x.com/threatcluster/status/2090363532218880234</link>
+         <description>@threatcluster | url | 
+Value: http://spyroid.net
+Tweet: https://x.com/threatcluster/status/2090363532218880234</description>
+         <guid isPermaLink="false">http://spyroid.net</guid>
+         <pubDate>Thu, 20 Aug 2026 09:01:17 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>spyroid.net</title>
+         <link>https://x.com/threatcluster/status/2090363532218880234</link>
+         <description>@threatcluster | domain | 
+Value: spyroid.net
+Tweet: https://x.com/threatcluster/status/2090363532218880234</description>
+         <guid isPermaLink="false">spyroid.net</guid>
+         <pubDate>Thu, 20 Aug 2026 09:01:17 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>dc2c5491afdc25a2a5588c2ba2d1f054b0e2bdf4c925304fa0825f25f9d57dc8</title>
+         <link>https://x.com/threatcluster/status/2090363312466722885</link>
+         <description>@threatcluster | sha256 | 
+Value: dc2c5491afdc25a2a5588c2ba2d1f054b0e2bdf4c925304fa0825f25f9d57dc8
+Tweet: https://x.com/threatcluster/status/2090363312466722885</description>
+         <guid isPermaLink="false">dc2c5491afdc25a2a5588c2ba2d1f054b0e2bdf4c925304fa0825f25f9d57dc8</guid>
+         <pubDate>Thu, 20 Aug 2026 09:00:25 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

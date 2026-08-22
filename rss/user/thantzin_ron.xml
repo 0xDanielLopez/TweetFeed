@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @ThantZin_Ron</title>
+      <link>https://x.com/ThantZin_Ron</link>
+      <description>IOCs shared by @ThantZin_Ron and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @ThantZin_Ron</title>
+         <link>https://x.com/ThantZin_Ron</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/thantzin_ron.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>103.236.64.164</title>
+         <link>https://x.com/ThantZin_Ron/status/2090338529960509781</link>
+         <description>@ThantZin_Ron | ip | 
+Value: 103.236.64.164
+Tweet: https://x.com/ThantZin_Ron/status/2090338529960509781</description>
+         <guid isPermaLink="false">103.236.64.164</guid>
+         <pubDate>Thu, 20 Aug 2026 07:21:56 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://103.236.64.164:9999</title>
+         <link>https://x.com/ThantZin_Ron/status/2090338529960509781</link>
+         <description>@ThantZin_Ron | url | 
+Value: http://103.236.64.164:9999
+Tweet: https://x.com/ThantZin_Ron/status/2090338529960509781</description>
+         <guid isPermaLink="false">http://103.236.64.164:9999</guid>
+         <pubDate>Thu, 20 Aug 2026 07:21:56 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>https://rongassist.xiaofengzi.cc:8443</title>
+         <link>https://x.com/ThantZin_Ron/status/2090003561128280303</link>
+         <description>@ThantZin_Ron | url | #phishing
+Value: https://rongassist.xiaofengzi.cc:8443
+Tweet: https://x.com/ThantZin_Ron/status/2090003561128280303</description>
+         <guid isPermaLink="false">https://rongassist.xiaofengzi.cc:8443</guid>
+         <pubDate>Wed, 19 Aug 2026 09:10:54 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>rongassist.xiaofengzi.cc</title>
+         <link>https://x.com/ThantZin_Ron/status/2090003561128280303</link>
+         <description>@ThantZin_Ron | domain | #phishing
+Value: rongassist.xiaofengzi.cc
+Tweet: https://x.com/ThantZin_Ron/status/2090003561128280303</description>
+         <guid isPermaLink="false">rongassist.xiaofengzi.cc</guid>
+         <pubDate>Wed, 19 Aug 2026 09:10:54 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

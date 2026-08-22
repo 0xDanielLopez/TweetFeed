@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @DezeStijn</title>
+      <link>https://x.com/DezeStijn</link>
+      <description>IOCs shared by @DezeStijn and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @DezeStijn</title>
+         <link>https://x.com/DezeStijn</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/dezestijn.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://j4suf.test-app.link/****</title>
+         <link>https://x.com/DezeStijn/status/2090515549381943750</link>
+         <description>@DezeStijn | url | #phishing
+Value: https://j4suf.test-app.link/****
+Tweet: https://x.com/DezeStijn/status/2090515549381943750</description>
+         <guid isPermaLink="false">https://j4suf.test-app.link/****</guid>
+         <pubDate>Thu, 20 Aug 2026 19:05:21 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>j4suf.test-app.link</title>
+         <link>https://x.com/DezeStijn/status/2090515549381943750</link>
+         <description>@DezeStijn | domain | #phishing
+Value: j4suf.test-app.link
+Tweet: https://x.com/DezeStijn/status/2090515549381943750</description>
+         <guid isPermaLink="false">j4suf.test-app.link</guid>
+         <pubDate>Thu, 20 Aug 2026 19:05:21 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

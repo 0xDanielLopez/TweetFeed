@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @BlinkzSec</title>
+      <link>https://x.com/BlinkzSec</link>
+      <description>IOCs shared by @BlinkzSec and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @BlinkzSec</title>
+         <link>https://x.com/BlinkzSec</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/blinkzsec.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3</title>
+         <link>https://x.com/BlinkzSec/status/2088904764864037259</link>
+         <description>@BlinkzSec | sha256 | 
+Value: f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3
+Tweet: https://x.com/BlinkzSec/status/2088904764864037259</description>
+         <guid isPermaLink="false">f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3</guid>
+         <pubDate>Sun, 16 Aug 2026 08:24:40 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641</title>
+         <link>https://x.com/BlinkzSec/status/2088904764864037259</link>
+         <description>@BlinkzSec | sha256 | 
+Value: 719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641
+Tweet: https://x.com/BlinkzSec/status/2088904764864037259</description>
+         <guid isPermaLink="false">719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641</guid>
+         <pubDate>Sun, 16 Aug 2026 08:24:40 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>3fd0447568473c470d7eeaaf7d114e1ae11dcc44171a229b150b4d8b43f7e5d3</title>
+         <link>https://x.com/BlinkzSec/status/2088904764864037259</link>
+         <description>@BlinkzSec | sha256 | 
+Value: 3fd0447568473c470d7eeaaf7d114e1ae11dcc44171a229b150b4d8b43f7e5d3
+Tweet: https://x.com/BlinkzSec/status/2088904764864037259</description>
+         <guid isPermaLink="false">3fd0447568473c470d7eeaaf7d114e1ae11dcc44171a229b150b4d8b43f7e5d3</guid>
+         <pubDate>Sun, 16 Aug 2026 08:24:40 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>7a9f8afbe39560ea52daada8700749371f189345aa7ec213dbdb537387c01d79</title>
+         <link>https://x.com/BlinkzSec/status/2088904764864037259</link>
+         <description>@BlinkzSec | sha256 | 
+Value: 7a9f8afbe39560ea52daada8700749371f189345aa7ec213dbdb537387c01d79
+Tweet: https://x.com/BlinkzSec/status/2088904764864037259</description>
+         <guid isPermaLink="false">7a9f8afbe39560ea52daada8700749371f189345aa7ec213dbdb537387c01d79</guid>
+         <pubDate>Sun, 16 Aug 2026 08:24:40 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

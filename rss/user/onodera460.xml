@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @onodera460</title>
+      <link>https://x.com/onodera460</link>
+      <description>IOCs shared by @onodera460 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @onodera460</title>
+         <link>https://x.com/onodera460</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/onodera460.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>1.1.4.1</title>
+         <link>https://x.com/onodera460/status/2090498758140154125</link>
+         <description>@onodera460 | ip | 
+Value: 1.1.4.1
+Tweet: https://x.com/onodera460/status/2090498758140154125</description>
+         <guid isPermaLink="false">1.1.4.1</guid>
+         <pubDate>Thu, 20 Aug 2026 17:58:38 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>1.1.4.2</title>
+         <link>https://x.com/onodera460/status/2089603888982708661</link>
+         <description>@onodera460 | ip | 
+Value: 1.1.4.2
+Tweet: https://x.com/onodera460/status/2089603888982708661</description>
+         <guid isPermaLink="false">1.1.4.2</guid>
+         <pubDate>Tue, 18 Aug 2026 06:42:44 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>

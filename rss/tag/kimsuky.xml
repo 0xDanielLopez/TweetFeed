@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #kimsuky IOC feed</title>
+      <link>https://tweetfeed.live/tag/kimsuky/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #kimsuky on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #kimsuky IOC feed</title>
+         <link>https://tweetfeed.live/tag/kimsuky/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/kimsuky.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://www.auth-accounts.dynuddns.com</title>
+         <link>https://x.com/phatomcandle/status/2089774346592202787</link>
+         <description>@phatomcandle | url | #APT #C2 #Kimsuky #malware
+Value: http://www.auth-accounts.dynuddns.com
+Tweet: https://x.com/phatomcandle/status/2089774346592202787</description>
+         <guid isPermaLink="false">http://www.auth-accounts.dynuddns.com</guid>
+         <pubDate>Tue, 18 Aug 2026 18:00:05 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>auth-accounts.dynuddns.com</title>
+         <link>https://x.com/phatomcandle/status/2089774346592202787</link>
+         <description>@phatomcandle | domain | #APT #C2 #Kimsuky #malware
+Value: auth-accounts.dynuddns.com
+Tweet: https://x.com/phatomcandle/status/2089774346592202787</description>
+         <guid isPermaLink="false">auth-accounts.dynuddns.com</guid>
+         <pubDate>Tue, 18 Aug 2026 18:00:05 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

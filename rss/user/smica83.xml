@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @smica83</title>
+      <link>https://x.com/smica83</link>
+      <description>IOCs shared by @smica83 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @smica83</title>
+         <link>https://x.com/smica83</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/smica83.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d</title>
+         <link>https://x.com/smica83/status/2035099325290738036</link>
+         <description>@smica83 | sha256 | 
+Value: 5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d
+Tweet: https://x.com/smica83/status/2035099325290738036</description>
+         <guid isPermaLink="false">5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d</guid>
+         <pubDate>Tue, 18 Aug 2026 14:35:06 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

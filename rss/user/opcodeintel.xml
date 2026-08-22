@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @OpcodeIntel</title>
+      <link>https://x.com/OpcodeIntel</link>
+      <description>IOCs shared by @OpcodeIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @OpcodeIntel</title>
+         <link>https://x.com/OpcodeIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/opcodeintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 22 Aug 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://panel.xxcqw.icu</title>
+         <link>https://x.com/OpcodeIntel/status/2090691448287179250</link>
+         <description>@OpcodeIntel | url | #C2 #malware
+Value: http://panel.xxcqw.icu
+Tweet: https://x.com/OpcodeIntel/status/2090691448287179250</description>
+         <guid isPermaLink="false">http://panel.xxcqw.icu</guid>
+         <pubDate>Fri, 21 Aug 2026 06:44:19 +0000</pubDate>
+         <category>url</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>panel.xxcqw.icu</title>
+         <link>https://x.com/OpcodeIntel/status/2090691448287179250</link>
+         <description>@OpcodeIntel | domain | #C2 #malware
+Value: panel.xxcqw.icu
+Tweet: https://x.com/OpcodeIntel/status/2090691448287179250</description>
+         <guid isPermaLink="false">panel.xxcqw.icu</guid>
+         <pubDate>Fri, 21 Aug 2026 06:44:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://usa-legalforms.com</title>
+         <link>https://x.com/OpcodeIntel/status/2090030910423138706</link>
+         <description>@OpcodeIntel | url | 
+Value: http://usa-legalforms.com
+Tweet: https://x.com/OpcodeIntel/status/2090030910423138706</description>
+         <guid isPermaLink="false">http://usa-legalforms.com</guid>
+         <pubDate>Wed, 19 Aug 2026 10:59:34 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>usa-legalforms.com</title>
+         <link>https://x.com/OpcodeIntel/status/2090030910423138706</link>
+         <description>@OpcodeIntel | domain | 
+Value: usa-legalforms.com
+Tweet: https://x.com/OpcodeIntel/status/2090030910423138706</description>
+         <guid isPermaLink="false">usa-legalforms.com</guid>
+         <pubDate>Wed, 19 Aug 2026 10:59:34 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>38.134.148.214</title>
+         <link>https://x.com/OpcodeIntel/status/2090029896609452372</link>
+         <description>@OpcodeIntel | ip | #malware #opendir
+Value: 38.134.148.214
+Tweet: https://x.com/OpcodeIntel/status/2090029896609452372</description>
+         <guid isPermaLink="false">38.134.148.214</guid>
+         <pubDate>Wed, 19 Aug 2026 10:55:32 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>
