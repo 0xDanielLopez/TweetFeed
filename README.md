@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-22 18:00:21 (UTC)</th>
+        <th colspan=4>2026-08-22 18:10:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,9 +180,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 31 | 701 | 5612 | 53667 |
-| **:globe_with_meridians: Domains** | 30 | 594 | 4987 | 42278 |
-| **:triangular_flag_on_post: IPs** | 1 | 167 | 816 | 9625 |
+| **:link: URLs** | 29 | 699 | 5610 | 53665 |
+| **:globe_with_meridians: Domains** | 28 | 592 | 4985 | 42275 |
+| **:triangular_flag_on_post: IPs** | 1 | 167 | 813 | 9620 |
 | **:1234: SHA256** | 1 | 88 | 444 | 2675 |
 | **:1234: MD5** | 0 | 28 | 240 | 2486 |
 
@@ -197,7 +197,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 42 | 866 | 7303 | 40731 |
+| **#phishing** | 40 | 864 | 7301 | 40726 |
 | **#Kimsuky** | 0 | 2 | 82 | 13247 |
 | **#DPRK** | 0 | 0 | 83 | 11647 |
 | **#C2** | 1 | 25 | 168 | 9380 |
@@ -222,14 +222,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [TKemmerling](https://x.com/TKemmerling) | 26 |
+| **#1** | [TKemmerling](https://x.com/TKemmerling) | 24 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 10 |
 | **#3** | [masaomi346](https://x.com/masaomi346) | 8 |
 | **#4** | [patialavii](https://x.com/patialavii) | 6 |
 | **#5** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 6 |
 | **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#7** | [MalwareBibleJP](https://x.com/MalwareBibleJP) | 2 |
-| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->

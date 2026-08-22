@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4877
-; Updated: 2026-08-22T12:45:18Z
+; Entries: 4875
+; Updated: 2026-08-22T18:10:19Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787402718 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787422219 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2118,8 +2118,6 @@ crowdstrike-securitypatch.com CNAME .
 *.crowdstrike-securitypatch.com CNAME .
 crowdstrikedlp.store CNAME .
 *.crowdstrikedlp.store CNAME .
-crt.name CNAME .
-*.crt.name CNAME .
 cryptoteek.online CNAME .
 *.cryptoteek.online CNAME .
 cryptotek.site CNAME .
@@ -7160,8 +7158,6 @@ securityhelp-microsoft.com CNAME .
 *.securityhelp-microsoft.com CNAME .
 securityhelpmicrosoft.com CNAME .
 *.securityhelpmicrosoft.com CNAME .
-seen.com CNAME .
-*.seen.com CNAME .
 sega-ads-territories-appendix.trycloudflare.com CNAME .
 *.sega-ads-territories-appendix.trycloudflare.com CNAME .
 sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com CNAME .
