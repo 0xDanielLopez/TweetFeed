@@ -1,7 +1,7 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 4867
-# Updated: 2026-08-22T08:00:18Z
+# Entries: 4869
+# Updated: 2026-08-22T08:15:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -3084,7 +3084,9 @@
 ||payeesuv.xyz^
 ||payment-zoomninfo.com^
 ||paymentrun4190auth.us-mia-1.linodeobjects.com^
+||paypal-check.com^
 ||paypal-details.com^
+||paypal-payout.com^
 ||paypal-refund.com^
 ||paypal.baby^
 ||paypal.dashboard-manage.net^
