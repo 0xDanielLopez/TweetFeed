@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4876
-# Updated: 2026-08-22T10:00:17Z
+# Entries: 4877
+# Updated: 2026-08-22T12:45:18Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -1060,6 +1060,7 @@ address=/createssopasskey.com/0.0.0.0
 address=/creativecurrentmedia.com/0.0.0.0
 address=/crowdstrike-securitypatch.com/0.0.0.0
 address=/crowdstrikedlp.store/0.0.0.0
+address=/crt.name/0.0.0.0
 address=/cryptoteek.online/0.0.0.0
 address=/cryptotek.site/0.0.0.0
 address=/crystalmorrowlighthouse.com/0.0.0.0

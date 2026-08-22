@@ -1,5 +1,5 @@
 {
-  "count": 7541,
+  "count": 7513,
   "dead_tweets": {
     "2079534358914850868": {
       "attempts": 2,
@@ -544,21 +544,6 @@
       "type": "domain",
       "value": "020gfhs.com"
     },
-    "0248c26c25bb5804f0c6d83238b6172c": {
-      "confidence": 0.85,
-      "date": "2026-07-23 10:09:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Phantom Stealer v3.5.0 JavaScript infostealer sample (PS_94956954.js) shared for threat intelligence.",
-      "threat_type": "malware",
-      "tweet_id": "2080233826861867174",
-      "type": "md5",
-      "value": "0248c26c25bb5804f0c6d83238b6172c"
-    },
     "025930176d45d2726ec0a7d275da6969be1bd47fbc9ad9ec41a505fb91d5f3f0": {
       "confidence": 0.7,
       "date": "2026-07-26 14:35:00",
@@ -870,20 +855,6 @@
       "tweet_id": "2085682189715546454",
       "type": "sha256",
       "value": "0614cca495539cfe5c281a638060f1d9c990b6be0eda7c3bdbb363bd4f18206c"
-    },
-    "061b6d1c2a31a9ffc986f426ba4532a4476e9170fb4cb9f167dff7c7c7058ce6": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:41:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malware RAR archive disguised as Adobe Reader document scanner, sourced from Ukraine and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2080226858675712326",
-      "type": "sha256",
-      "value": "061b6d1c2a31a9ffc986f426ba4532a4476e9170fb4cb9f167dff7c7c7058ce6"
     },
     "064a17321a401f48b0f757ff52458df111802fa6476e2d752e79e6a79c113fd9": {
       "confidence": 0.8,
@@ -1385,6 +1356,23 @@
       "tweet_id": "2084337326981869950",
       "type": "md5",
       "value": "0e51138ef195ac755f052babb761a1e7"
+    },
+    "0e5b4d540f72a6d2d3c470b0455c5f59ac65413da375d702f8430edd981e07d3": {
+      "confidence": 0.95,
+      "date": "2026-08-22 09:47:08",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "c2",
+        "malware"
+      ],
+      "summary": "ClickFix attack uses fake Cloudflare CAPTCHA to trick Windows/macOS users into running malicious code; C2 at triapfog.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091099845285330991",
+      "type": "sha256",
+      "value": "0e5b4d540f72a6d2d3c470b0455c5f59ac65413da375d702f8430edd981e07d3"
     },
     "0f530c413a9dbfb63bec51dc3e0bf1131b86730aa81510c911dd2a53959c3b66": {
       "confidence": 0.9,
@@ -3211,22 +3199,6 @@
       "tweet_id": "2089042063086203045",
       "type": "ip",
       "value": "108.165.179.230"
-    },
-    "108.165.230.212": {
-      "confidence": 0.8,
-      "date": "2026-07-23 08:51:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "Drazy Stealer with C2 dashboard exposed at 108.165.230.212:3001; possible associated sample hash provided.",
-      "threat_type": "malware",
-      "tweet_id": "2080214185611608170",
-      "type": "ip",
-      "value": "108.165.230.212"
     },
     "108.167.146.200": {
       "confidence": 0.95,
@@ -5927,36 +5899,6 @@
       "type": "url",
       "value": "http://154.90.70.23/x86"
     },
-    "155.103.71.115": {
-      "confidence": 0.75,
-      "date": "2026-07-23 11:47:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "PowerShell dropper (secured_stub.ps1) distributed from 198.12.110.206 with C2 beacon at 155.103.71.115:15608.",
-      "threat_type": "malware",
-      "tweet_id": "2080258605907874020",
-      "type": "ip",
-      "value": "155.103.71.115"
-    },
-    "155.103.71.115:15608": {
-      "confidence": 0.75,
-      "date": "2026-07-23 11:47:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "PowerShell dropper (secured_stub.ps1) distributed from 198.12.110.206 with C2 beacon at 155.103.71.115:15608.",
-      "threat_type": "malware",
-      "tweet_id": "2080258605907874020",
-      "type": "url",
-      "value": "http://155.103.71.115:15608"
-    },
     "155.2.192.235": {
       "confidence": 0.85,
       "date": "2026-08-08 11:57:00",
@@ -8572,20 +8514,6 @@
       "type": "sha256",
       "value": "19056def396417054344b132f421eee153e0c4adb62259d96b54387edc515110"
     },
-    "1909a7bed21f14dd3ff1ce904d3caab1b513408efe73a51d4e8017aa19f8c2e2": {
-      "confidence": 0.7,
-      "date": "2026-07-23 11:21:00",
-      "enriched_at": "2026-08-14T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Unidentified ransomware sample identified by SHA256 hash.",
-      "threat_type": "ransomware",
-      "tweet_id": "2080252033819418867",
-      "type": "sha256",
-      "value": "1909a7bed21f14dd3ff1ce904d3caab1b513408efe73a51d4e8017aa19f8c2e2"
-    },
     "192.109.11.213": {
       "confidence": 0.75,
       "date": "2026-08-07 10:44:00",
@@ -9571,36 +9499,6 @@
       "tweet_id": "2084665483832254821",
       "type": "ip",
       "value": "198.105.127.210"
-    },
-    "198.12.110.206": {
-      "confidence": 0.75,
-      "date": "2026-07-23 11:47:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "PowerShell dropper (secured_stub.ps1) distributed from 198.12.110.206 with C2 beacon at 155.103.71.115:15608.",
-      "threat_type": "malware",
-      "tweet_id": "2080258605907874020",
-      "type": "ip",
-      "value": "198.12.110.206"
-    },
-    "198.12.110.206/shell/secured_stub.ps1": {
-      "confidence": 0.75,
-      "date": "2026-07-23 11:47:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "PowerShell dropper (secured_stub.ps1) distributed from 198.12.110.206 with C2 beacon at 155.103.71.115:15608.",
-      "threat_type": "malware",
-      "tweet_id": "2080258605907874020",
-      "type": "url",
-      "value": "http://198.12.110.206/shell/secured_stub.ps1"
     },
     "198.144.179.82/1.sh": {
       "confidence": 0.78,
@@ -12225,21 +12123,6 @@
       "type": "ip",
       "value": "23.224.4.114"
     },
-    "23.226.57.16": {
-      "confidence": 0.75,
-      "date": "2026-07-23 12:13:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware ZIP disguised as Yuanbao AI app (v7.2.314) from Singapore with C2 at 23.226.57.16, flagged as fully undetected.",
-      "threat_type": "malware",
-      "tweet_id": "2080264963734516189",
-      "type": "url",
-      "value": "http://23.226.57.16"
-    },
     "23.226.57.16:771": {
       "confidence": 0.85,
       "date": "2026-07-23 22:34:00",
@@ -14220,21 +14103,6 @@
       "type": "domain",
       "value": "35686575624243654.org"
     },
-    "3598ce0c91a71cf6634f476d89ce173bfc8ccfe050cdc7cc8760490797b80c68": {
-      "confidence": 0.75,
-      "date": "2026-07-23 12:09:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware MSI posing as system diagnostics tool with C2 at 38.47.208.2, flagged as fully undetected.",
-      "threat_type": "malware",
-      "tweet_id": "2080264074412113920",
-      "type": "sha256",
-      "value": "3598ce0c91a71cf6634f476d89ce173bfc8ccfe050cdc7cc8760490797b80c68"
-    },
     "35af2cf5494181920b8624c7b719d39590e2a5ff5eaa1a2fa1ba86b2b5aa9b43": {
       "confidence": 0.88,
       "date": "2026-08-17 10:01:19",
@@ -14582,21 +14450,6 @@
       "tweet_id": "2085615388575101396",
       "type": "url",
       "value": "http://38.42.59.171"
-    },
-    "38.47.208.2": {
-      "confidence": 0.75,
-      "date": "2026-07-23 12:09:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware MSI posing as system diagnostics tool with C2 at 38.47.208.2, flagged as fully undetected.",
-      "threat_type": "malware",
-      "tweet_id": "2080264074412113920",
-      "type": "url",
-      "value": "http://38.47.208.2"
     },
     "38.55.194.116": {
       "confidence": 0.78,
@@ -15015,20 +14868,6 @@
       "tweet_id": "2080713383301574861",
       "type": "sha256",
       "value": "3c254614de8c1a2f213c526b0e5072d43ffeb7cc340d9a4a6ebaa16592b3bbe0"
-    },
-    "3cbc4be157777afb8f4a38673a1910fe7a615135e4819069818e590f4b82f717": {
-      "confidence": 0.7,
-      "date": "2026-07-23 12:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Random-named MSI dropper (FDALDGAG.msi) hosted at 89.34.90.50, submitted to abuse.ch MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2080263161517642213",
-      "type": "sha256",
-      "value": "3cbc4be157777afb8f4a38673a1910fe7a615135e4819069818e590f4b82f717"
     },
     "3cs4cma9t69dy37av8.live": {
       "confidence": 0.95,
@@ -15449,36 +15288,6 @@
       "tweet_id": "2088151364790554893",
       "type": "domain",
       "value": "4098zpoq.lol"
-    },
-    "409f79a9ee68c282a7d2b5738d63a310dd33345cb43fb23f11f92f54308a8b1e": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "URL file from Colombia dropping VBS loader fetching a RAT variant; stages hosted on imagekit.io and tugou.com.co.",
-      "threat_type": "malware",
-      "tweet_id": "2080218069998113125",
-      "type": "sha256",
-      "value": "409f79a9ee68c282a7d2b5738d63a310dd33345cb43fb23f11f92f54308a8b1e"
-    },
-    "40bd243e3246d22a519995ed54036e3f53279a99be514bae836ecf971f3fc856": {
-      "confidence": 0.65,
-      "date": "2026-07-23 11:51:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "apt"
-      ],
-      "summary": "Ukrainian document-lure malware samples with .uk domain; researcher questions possible UAC-0050 threat actor link.",
-      "threat_type": "malware",
-      "tweet_id": "2080259500313866363",
-      "type": "sha256",
-      "value": "40bd243e3246d22a519995ed54036e3f53279a99be514bae836ecf971f3fc856"
     },
     "412941234531.com": {
       "confidence": 0.98,
@@ -17115,21 +16924,6 @@
       "type": "sha256",
       "value": "47c4077decff58ceefe85ccf98d172456d8b3f9aab7f6bf8ce237ff67c718880"
     },
-    "48313342aac1bcb0a7a6dbae54dc59a76c796da083d8d5299719876470c1668b": {
-      "confidence": 0.85,
-      "date": "2026-07-23 07:58:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure; payload hosted on GitHub repository sean100496.",
-      "threat_type": "phishing",
-      "tweet_id": "2080200885024518241",
-      "type": "sha256",
-      "value": "48313342aac1bcb0a7a6dbae54dc59a76c796da083d8d5299719876470c1668b"
-    },
     "483b7b73f19fd2029f4503c7b7c35840": {
       "confidence": 0.82,
       "date": "2026-08-06 08:03:00",
@@ -18326,21 +18120,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "5638563454132.org"
-    },
-    "565461bae08cfa9eaa861faeadc7d146afa42e9a1eea65e8fc56cd233c5819a0": {
-      "confidence": 0.85,
-      "date": "2026-07-23 12:03:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "HTA lure (SSA_Statement.hta) delivering ScreenConnect RMM client from 80.76.49.90:8040, flagged as fully undetected.",
-      "threat_type": "phishing",
-      "tweet_id": "2080262473765081105",
-      "type": "sha256",
-      "value": "565461bae08cfa9eaa861faeadc7d146afa42e9a1eea65e8fc56cd233c5819a0"
     },
     "56732423564357.org": {
       "confidence": 0.98,
@@ -21105,20 +20884,6 @@
       "type": "domain",
       "value": "75853489.xyz"
     },
-    "75f1ae88690d298f139caf7471058b3b4d05b9d22c7c364b8af5ce9110918346": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:48:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Fake Adobe Reader RAR archive from Ukraine, related to ongoing document-lure malware campaign; possible state-linked activity.",
-      "threat_type": "malware",
-      "tweet_id": "2080228517837447252",
-      "type": "sha256",
-      "value": "75f1ae88690d298f139caf7471058b3b4d05b9d22c7c364b8af5ce9110918346"
-    },
     "76.103.148.180": {
       "confidence": 0.95,
       "date": "2026-08-07 06:33:00",
@@ -22250,36 +22015,6 @@
       "tweet_id": "2086638821526138910",
       "type": "ip",
       "value": "8.217.165.249"
-    },
-    "80.76.49.90": {
-      "confidence": 0.85,
-      "date": "2026-07-23 12:03:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "HTA lure (SSA_Statement.hta) delivering ScreenConnect RMM client from 80.76.49.90:8040, flagged as fully undetected.",
-      "threat_type": "phishing",
-      "tweet_id": "2080262473765081105",
-      "type": "ip",
-      "value": "80.76.49.90"
-    },
-    "80.76.49.90:8040/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
-      "confidence": 0.85,
-      "date": "2026-07-23 12:03:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "HTA lure (SSA_Statement.hta) delivering ScreenConnect RMM client from 80.76.49.90:8040, flagged as fully undetected.",
-      "threat_type": "phishing",
-      "tweet_id": "2080262473765081105",
-      "type": "url",
-      "value": "http://80.76.49.90:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
     },
     "800-495-2277-scotiaonline-scotiabank.com": {
       "confidence": 0.9,
@@ -23491,34 +23226,6 @@
       "type": "ip",
       "value": "89.34.90.45"
     },
-    "89.34.90.50": {
-      "confidence": 0.7,
-      "date": "2026-07-23 12:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Random-named MSI dropper (FDALDGAG.msi) hosted at 89.34.90.50, submitted to abuse.ch MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2080263161517642213",
-      "type": "ip",
-      "value": "89.34.90.50"
-    },
-    "89.34.90.50/ab3swjtr/fdaldgag.msi": {
-      "confidence": 0.7,
-      "date": "2026-07-23 12:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Random-named MSI dropper (FDALDGAG.msi) hosted at 89.34.90.50, submitted to abuse.ch MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2080263161517642213",
-      "type": "url",
-      "value": "http://89.34.90.50/ab3swjtr/FDALDGAG.msi"
-    },
     "89.40.31.124": {
       "confidence": 0.88,
       "date": "2026-08-03 11:17:00",
@@ -24703,21 +24410,6 @@
       "type": "sha256",
       "value": "95079f32b29e0a3d3d3a060072c1472383f249fea2c0bed4cbda175e2437f5b3"
     },
-    "95626cc9665d3acd3aa2991aee8e8028f8126c8fb3dce8a5079b6dd51d0d3b70": {
-      "confidence": 0.85,
-      "date": "2026-07-23 11:44:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "BAT script (Adobe-Install.bat) downloading ScreenConnect RMM MSI via fake Adobe page and compromised domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2080257652530020763",
-      "type": "sha256",
-      "value": "95626cc9665d3acd3aa2991aee8e8028f8126c8fb3dce8a5079b6dd51d0d3b70"
-    },
     "95814ce45fa953600f89878d81d9169ef708ad8070f404576b1e0f882c76f538": {
       "confidence": 0.88,
       "date": "2026-08-13 08:19:21",
@@ -24825,21 +24517,6 @@
       "tweet_id": "2084609934960857194",
       "type": "sha256",
       "value": "962fb670510807fd5cab3a6e6f886aeb2b925c42054c29fa02f67011be935954"
-    },
-    "965894996e2cb9be1e0ccc509e079e7eca072cbc4e68945beb00ff5979dda19c": {
-      "confidence": 0.85,
-      "date": "2026-07-23 09:54:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "mustangpanda"
-      ],
-      "summary": "TA416 (Mustang Panda) malware sample on VirusTotal; China-aligned actor resumed targeting European government entities mid-2025.",
-      "threat_type": "malware",
-      "tweet_id": "2080229994450612662",
-      "type": "sha256",
-      "value": "965894996e2cb9be1e0ccc509e079e7eca072cbc4e68945beb00ff5979dda19c"
     },
     "96a9a7b014a3a9925b4969b837501f88ae60345cb438dd2eddc721cc3d8c0ff6": {
       "confidence": 0.9,
@@ -25167,22 +24844,6 @@
       "tweet_id": "2090371340176146695",
       "type": "sha256",
       "value": "98aea63f7c88d733504c08b165fd68a917e256f2cfaeaa742323ef6dddbbce29"
-    },
-    "98c185174e9f659b91b9f82250546ab3": {
-      "confidence": 0.85,
-      "date": "2026-07-23 12:05:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Lorax Loader delivering CRAFTRISE Stealer as observed payload; MD5 hashes shared for DFIR and threat hunting.",
-      "threat_type": "malware",
-      "tweet_id": "2080263076595814880",
-      "type": "md5",
-      "value": "98c185174e9f659b91b9f82250546ab3"
     },
     "99540423f8e9c25d1ea5c0b04abe707e": {
       "confidence": 0.95,
@@ -25700,21 +25361,6 @@
       "tweet_id": "2084716944834584984",
       "type": "domain",
       "value": "a2026804002105.zip"
-    },
-    "a25ffcdd9e9409efe9df85f03a7218c644ad5fa4839c5f19ec7fbca069a98ffb": {
-      "confidence": 0.75,
-      "date": "2026-07-23 11:47:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "PowerShell dropper (secured_stub.ps1) distributed from 198.12.110.206 with C2 beacon at 155.103.71.115:15608.",
-      "threat_type": "malware",
-      "tweet_id": "2080258605907874020",
-      "type": "sha256",
-      "value": "a25ffcdd9e9409efe9df85f03a7218c644ad5fa4839c5f19ec7fbca069a98ffb"
     },
     "a27a52fcf49fda4cd81f6d6fb1701204": {
       "confidence": 0.78,
@@ -27659,21 +27305,6 @@
       "tweet_id": "2086713984103665860",
       "type": "domain",
       "value": "afc_security_report_2026.pdf.lnkxyzblue.dpdns.org"
-    },
-    "aff385e48471ae461ee8e0b27e31bd41c90c99b4d2c9100eaacfdeea234da1a6": {
-      "confidence": 0.85,
-      "date": "2026-07-23 10:00:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "mustangpanda"
-      ],
-      "summary": "TA416 (Mustang Panda) malware sample targeting European government and diplomatic organizations, uploaded to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2080231459621568985",
-      "type": "sha256",
-      "value": "aff385e48471ae461ee8e0b27e31bd41c90c99b4d2c9100eaacfdeea234da1a6"
     },
     "aftabparsian.co": {
       "confidence": 0.92,
@@ -30175,36 +29806,6 @@
       "tweet_id": "2087388143310057856",
       "type": "url",
       "value": "https://amyadamsfan.com/assets/ASAHI//?email=aaaa@example.jp"
-    },
-    "an.tomballtxplumbers.com": {
-      "confidence": 0.85,
-      "date": "2026-07-23 11:44:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "BAT script (Adobe-Install.bat) downloading ScreenConnect RMM MSI via fake Adobe page and compromised domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2080257652530020763",
-      "type": "domain",
-      "value": "an.tomballtxplumbers.com"
-    },
-    "an.tomballtxplumbers.com/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
-      "confidence": 0.85,
-      "date": "2026-07-23 11:44:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "BAT script (Adobe-Install.bat) downloading ScreenConnect RMM MSI via fake Adobe page and compromised domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2080257652530020763",
-      "type": "url",
-      "value": "http://an.tomballtxplumbers.com/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
     },
     "ana-co.cafelevain.com": {
       "confidence": 0.92,
@@ -32846,36 +32447,6 @@
       "type": "domain",
       "value": "ax.nousomtr1.bond"
     },
-    "axes.endl.site": {
-      "confidence": 0.65,
-      "date": "2026-07-23 06:45:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample linked to PHP endpoint axes.endl.site/adv2.php acting as C2 or dropper; related abuse.ch submissions.",
-      "threat_type": "malware",
-      "tweet_id": "2080182533447184651",
-      "type": "domain",
-      "value": "axes.endl.site"
-    },
-    "axes.endl.site/adv2.php": {
-      "confidence": 0.65,
-      "date": "2026-07-23 06:45:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample linked to PHP endpoint axes.endl.site/adv2.php acting as C2 or dropper; related abuse.ch submissions.",
-      "threat_type": "malware",
-      "tweet_id": "2080182533447184651",
-      "type": "url",
-      "value": "http://axes.endl.site/adv2.php"
-    },
     "axiscom.xyz": {
       "confidence": 0.87,
       "date": "2026-08-12 15:02:23",
@@ -34160,6 +33731,21 @@
       "tweet_id": "2088151364790554893",
       "type": "domain",
       "value": "batestruckings.com"
+    },
+    "bayberryalgebraic.com": {
+      "confidence": 0.9,
+      "date": "2026-08-22 07:07:25",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates Seen Mastercard with fake $3,000 offer; sender bayberryalgebraic.com links to landmailman.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059652893225404",
+      "type": "domain",
+      "value": "bayberryalgebraic.com"
     },
     "bb8f534fbff5ee61a95af9c4740ae043": {
       "confidence": 0.85,
@@ -38191,6 +37777,22 @@
       "type": "url",
       "value": "http://canovaelectric.com/fed/irstranscripviewer/"
     },
+    "canvas-35.com": {
+      "confidence": 0.87,
+      "date": "2026-08-22 09:52:05",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malvertising",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Malvertising campaign delivers infostealer via fake Homebrew installer page; malicious domain canvas-35.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091101089705971718",
+      "type": "domain",
+      "value": "canvas-35.com"
+    },
     "capsulux.ca": {
       "confidence": 0.92,
       "date": "2026-07-24 08:35:00",
@@ -39006,20 +38608,6 @@
       "tweet_id": "2080780888904786015",
       "type": "domain",
       "value": "cdn.clintonpqfg-adriance.workers.dev"
-    },
-    "cdn.secure-data.nl": {
-      "confidence": 0.75,
-      "date": "2026-07-23 08:36:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing domain cdn.secure-data.nl flagged; likely credential harvesting or malware delivery lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2080210313945776615",
-      "type": "domain",
-      "value": "cdn.secure-data.nl"
     },
     "cds.aiservices.workers.dev": {
       "confidence": 0.72,
@@ -40632,6 +40220,22 @@
       "tweet_id": "2090652692762743220",
       "type": "url",
       "value": "https://clevercarves.com/Bin/ScreenConnect.ClientSetup.msi"
+    },
+    "cli-guides.com": {
+      "confidence": 0.87,
+      "date": "2026-08-22 09:41:46",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malvertising",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Malvertising campaign uses fake Claude AI installer at cli-guides.com to deliver infostealer via perchframe15.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091098495105314893",
+      "type": "domain",
+      "value": "cli-guides.com"
     },
     "clientes-empresa-caixa.com": {
       "confidence": 0.95,
@@ -44240,22 +43844,6 @@
       "type": "url",
       "value": "http://dealoffr.com/xollo/download.html"
     },
-    "dec873fd811d43f9860fcd33ab637ab4": {
-      "confidence": 0.85,
-      "date": "2026-07-23 12:05:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "Lorax Loader delivering CRAFTRISE Stealer as observed payload; MD5 hashes shared for DFIR and threat hunting.",
-      "threat_type": "malware",
-      "tweet_id": "2080263076595814880",
-      "type": "md5",
-      "value": "dec873fd811d43f9860fcd33ab637ab4"
-    },
     "dec9402xwo.duckdns.org": {
       "confidence": 0.83,
       "date": "2026-07-28 20:50:00",
@@ -44751,20 +44339,6 @@
       "type": "url",
       "value": "http://devambuly.com/ino/download.html"
     },
-    "devhub-36yl.pages.dev": {
-      "confidence": 0.9,
-      "date": "2026-07-23 08:21:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloudflare Pages phishing lure impersonating cgtrader.com document portal; uses Cloudflare Worker for dynamic next-stage redirect.",
-      "threat_type": "phishing",
-      "tweet_id": "2080206718496362514",
-      "type": "domain",
-      "value": "devhub-36yl.pages.dev"
-    },
     "device-findmy.com": {
       "confidence": 0.9,
       "date": "2026-07-28 01:23:00",
@@ -44841,21 +44415,6 @@
       "tweet_id": "2080588110094532696",
       "type": "domain",
       "value": "dezined.ct.ws"
-    },
-    "dfba893f29cc0599b5261738d3292a624d853a0f1bb61b1116604716af4f4612": {
-      "confidence": 0.75,
-      "date": "2026-07-23 12:13:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware ZIP disguised as Yuanbao AI app (v7.2.314) from Singapore with C2 at 23.226.57.16, flagged as fully undetected.",
-      "threat_type": "malware",
-      "tweet_id": "2080264963734516189",
-      "type": "sha256",
-      "value": "dfba893f29cc0599b5261738d3292a624d853a0f1bb61b1116604716af4f4612"
     },
     "dfbkskbsb.vip": {
       "confidence": 0.98,
@@ -45920,36 +45479,6 @@
       "tweet_id": "2089107474825527555",
       "type": "domain",
       "value": "docs-trezr-begin-help.typedream.app"
-    },
-    "docs-view.givingmachinenwa.com": {
-      "confidence": 0.85,
-      "date": "2026-07-23 11:44:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "BAT script (Adobe-Install.bat) downloading ScreenConnect RMM MSI via fake Adobe page and compromised domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2080257652530020763",
-      "type": "domain",
-      "value": "docs-view.givingmachinenwa.com"
-    },
-    "docs-view.givingmachinenwa.com/dw.php": {
-      "confidence": 0.85,
-      "date": "2026-07-23 11:44:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "BAT script (Adobe-Install.bat) downloading ScreenConnect RMM MSI via fake Adobe page and compromised domains.",
-      "threat_type": "phishing",
-      "tweet_id": "2080257652530020763",
-      "type": "url",
-      "value": "https://docs-view.givingmachinenwa.com/dw.php"
     },
     "docs-viewmicrosoft.info": {
       "confidence": 0.95,
@@ -47933,21 +47462,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "e-mhrs.digital"
-    },
-    "e02012ca164fa43c575d86a3e0855328a785b020ef5a268548b1cbb3224f7e86": {
-      "confidence": 0.65,
-      "date": "2026-07-23 06:45:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malware sample linked to PHP endpoint axes.endl.site/adv2.php acting as C2 or dropper; related abuse.ch submissions.",
-      "threat_type": "malware",
-      "tweet_id": "2080182533447184651",
-      "type": "sha256",
-      "value": "e02012ca164fa43c575d86a3e0855328a785b020ef5a268548b1cbb3224f7e86"
     },
     "e04fcb2b674eac8cd6cc41e62da7af73c91f2334ca97668e1977f16a15846984": {
       "confidence": 0.8,
@@ -51654,22 +51168,6 @@
       "type": "sha256",
       "value": "fa65142b7d45df9a2d0e95872f655b51510a246d3533032f7757e9aec99e3f46"
     },
-    "fa87f6cf9e97dfbb3c87ed228ef03eea52bf561b3f8ae0bbf432427e865ab312": {
-      "confidence": 0.8,
-      "date": "2026-07-23 08:51:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "Drazy Stealer with C2 dashboard exposed at 108.165.230.212:3001; possible associated sample hash provided.",
-      "threat_type": "malware",
-      "tweet_id": "2080214185611608170",
-      "type": "sha256",
-      "value": "fa87f6cf9e97dfbb3c87ed228ef03eea52bf561b3f8ae0bbf432427e865ab312"
-    },
     "facaa8870869b1e66c051c00ffc5ada4": {
       "confidence": 0.9,
       "date": "2026-08-13 12:57:09",
@@ -52605,21 +52103,6 @@
       "type": "domain",
       "value": "fedexxl.deliverys.online"
     },
-    "fee6353b6b1d8a6efa09b78cc6a32a2cd65e6a90c171e406a162af3c09c5366f": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "URL file from Colombia dropping VBS loader fetching a RAT variant; stages hosted on imagekit.io and tugou.com.co.",
-      "threat_type": "malware",
-      "tweet_id": "2080218069998113125",
-      "type": "sha256",
-      "value": "fee6353b6b1d8a6efa09b78cc6a32a2cd65e6a90c171e406a162af3c09c5366f"
-    },
     "fei-telegram.com.cn": {
       "confidence": 0.95,
       "date": "2026-08-04 08:58:00",
@@ -53062,36 +52545,6 @@
       "tweet_id": "2080572519006773555",
       "type": "url",
       "value": "http://file.pdf-docuadobe.cam/windows/"
-    },
-    "file.tugou.com.co": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "URL file from Colombia dropping VBS loader fetching a RAT variant; stages hosted on imagekit.io and tugou.com.co.",
-      "threat_type": "malware",
-      "tweet_id": "2080218069998113125",
-      "type": "domain",
-      "value": "file.tugou.com.co"
-    },
-    "file.tugou.com.co/files/rrobkvb52q.vbs": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "URL file from Colombia dropping VBS loader fetching a RAT variant; stages hosted on imagekit.io and tugou.com.co.",
-      "threat_type": "malware",
-      "tweet_id": "2080218069998113125",
-      "type": "url",
-      "value": "https://file.tugou.com.co/files/rrobKVb52q.vbs"
     },
     "fileamazoncloud.com": {
       "confidence": 0.95,
@@ -53852,6 +53305,21 @@
       "tweet_id": "2088625699493941341",
       "type": "domain",
       "value": "flarion.vu"
+    },
+    "flashstoreshopping.net": {
+      "confidence": 0.88,
+      "date": "2026-08-22 07:06:40",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email uses fake cloud storage deletion threat to harvest payment details; from usdxag.com linking to flashstoreshopping.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059460915740948",
+      "type": "domain",
+      "value": "flashstoreshopping.net"
     },
     "flb.obd.mybluehost.me": {
       "confidence": 0.95,
@@ -56482,21 +55950,6 @@
       "type": "url",
       "value": "https://github.com/oven-sh/bun/releases/download/"
     },
-    "github.com/sean100496#threatintel": {
-      "confidence": 0.85,
-      "date": "2026-07-23 07:58:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure; payload hosted on GitHub repository sean100496.",
-      "threat_type": "phishing",
-      "tweet_id": "2080200885024518241",
-      "type": "url",
-      "value": "https://github.com/sean100496#ThreatIntel"
-    },
     "github.com/serverops-admin/sliver": {
       "confidence": 0.93,
       "date": "2026-08-02 18:29:00",
@@ -58015,6 +57468,21 @@
       "tweet_id": "2086628376173834503",
       "type": "domain",
       "value": "gwwwq.top"
+    },
+    "gwzfish.org": {
+      "confidence": 0.9,
+      "date": "2026-08-22 07:05:35",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates Paramount+ subscription renewal; sender gwzfish.org redirects victims through vkvfaith.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059189724643531",
+      "type": "domain",
+      "value": "gwzfish.org"
     },
     "gxh-baidu260804.www01490242dd.com": {
       "confidence": 0.75,
@@ -62022,21 +61490,6 @@
       "type": "domain",
       "value": "ijxcoxweb.top"
     },
-    "ik.imagekit.io/wxydeiplp/rad%200612671-pdf.url": {
-      "confidence": 0.75,
-      "date": "2026-07-23 09:06:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "URL file from Colombia dropping VBS loader fetching a RAT variant; stages hosted on imagekit.io and tugou.com.co.",
-      "threat_type": "malware",
-      "tweet_id": "2080218069998113125",
-      "type": "url",
-      "value": "https://ik.imagekit.io/wxydeiplp/RAD%200612671-pdf.url"
-    },
     "il7-icloud.top": {
       "confidence": 0.9,
       "date": "2026-07-28 01:23:00",
@@ -63287,21 +62740,6 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "invites.chat"
-    },
-    "invitparrties.top/download": {
-      "confidence": 0.85,
-      "date": "2026-07-23 07:58:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure; payload hosted on GitHub repository sean100496.",
-      "threat_type": "phishing",
-      "tweet_id": "2080200885024518241",
-      "type": "url",
-      "value": "https://invitparrties.top/Download"
     },
     "invoicing-linkedln.com": {
       "confidence": 0.95,
@@ -67485,6 +66923,21 @@
       "type": "url",
       "value": "https://landingingtradesinternational.com/document/Secured_document.msi"
     },
+    "landmailman.com": {
+      "confidence": 0.9,
+      "date": "2026-08-22 07:07:25",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates Seen Mastercard with fake $3,000 offer; sender bayberryalgebraic.com links to landmailman.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059652893225404",
+      "type": "domain",
+      "value": "landmailman.com"
+    },
     "landoflawns.com": {
       "confidence": 0.85,
       "date": "2026-08-10 13:02:45",
@@ -68139,6 +67592,21 @@
       "type": "url",
       "value": "https://lenotecadiarqua.it:443"
     },
+    "lesliebernini.org": {
+      "confidence": 0.9,
+      "date": "2026-08-22 07:07:05",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates FedEx with fake missing package and $100 compensation lure; originates from lesliebernini.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059567291781294",
+      "type": "domain",
+      "value": "lesliebernini.org"
+    },
     "letjavinvestments.com": {
       "confidence": 0.92,
       "date": "2026-07-24 08:35:00",
@@ -68634,6 +68102,21 @@
       "tweet_id": "2081760527257149767",
       "type": "domain",
       "value": "liveadobe.com"
+    },
+    "liveryfunky.org": {
+      "confidence": 0.9,
+      "date": "2026-08-22 06:58:32",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates Apple Cloud+ threatening photo/backup deletion to harvest payment info; from liveryfunky.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2091057413717958974",
+      "type": "domain",
+      "value": "liveryfunky.org"
     },
     "lixsjsd.duckdns.org": {
       "confidence": 0.8,
@@ -73403,20 +72886,6 @@
       "type": "domain",
       "value": "microsoftdocusign.com"
     },
-    "microsoftmailsupports.com": {
-      "confidence": 0.9,
-      "date": "2026-07-23 11:01:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft email support phishing domain microsoftmailsupports.com detected; credential harvesting lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2080246932400713880",
-      "type": "domain",
-      "value": "microsoftmailsupports.com"
-    },
     "microsoftoffice365login.com": {
       "confidence": 0.95,
       "date": "2026-07-27 15:16:00",
@@ -73736,34 +73205,6 @@
       "tweet_id": "2088682699129024911",
       "type": "domain",
       "value": "mirroflobsny.sytes.net"
-    },
-    "mjoyvlht.ssetchonddontpins1975.workers.dev": {
-      "confidence": 0.9,
-      "date": "2026-07-23 08:21:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloudflare Pages phishing lure impersonating cgtrader.com document portal; uses Cloudflare Worker for dynamic next-stage redirect.",
-      "threat_type": "phishing",
-      "tweet_id": "2080206718496362514",
-      "type": "domain",
-      "value": "mjoyvlht.ssetchonddontpins1975.workers.dev"
-    },
-    "mjoyvlht.ssetchonddontpins1975.workers.dev/get-link": {
-      "confidence": 0.9,
-      "date": "2026-07-23 08:21:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloudflare Pages phishing lure impersonating cgtrader.com document portal; uses Cloudflare Worker for dynamic next-stage redirect.",
-      "threat_type": "phishing",
-      "tweet_id": "2080206718496362514",
-      "type": "url",
-      "value": "https://mjoyvlht.ssetchonddontpins1975.workers.dev/get-link"
     },
     "mjrnarch.com": {
       "confidence": 0.9,
@@ -81844,20 +81285,95 @@
       "type": "domain",
       "value": "paymentrun4190auth.us-mia-1.linodeobjects.com"
     },
-    "paypal-refund.com": {
-      "confidence": 0.9,
-      "date": "2026-07-23 11:02:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
+    "paypal-check.com": {
+      "confidence": 0.92,
+      "date": "2026-08-22 07:55:54",
+      "enriched_at": "2026-08-22T12:40:04Z",
       "family": null,
       "suggested_tags": [
         "phishing",
         "scam"
       ],
-      "summary": "PayPal phishing domain paypal-refund.com detected; fake refund/shopping scam lure.",
+      "summary": "PayPal phishing domains paypal-check.com and paypal-payout.com targeting PayPal users for credential/payment data theft.",
       "threat_type": "phishing",
-      "tweet_id": "2080247179852108241",
+      "tweet_id": "2091071853913641115",
       "type": "domain",
-      "value": "paypal-refund.com"
+      "value": "paypal-check.com"
+    },
+    "paypal-details.com": {
+      "confidence": 0.85,
+      "date": "2026-08-22 07:44:59",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing domain paypal-details.com redirecting to PayPal US site, likely used for credential harvesting.",
+      "threat_type": "phishing",
+      "tweet_id": "2091069103742288005",
+      "type": "domain",
+      "value": "paypal-details.com"
+    },
+    "paypal-invoice.com": {
+      "confidence": 0.92,
+      "date": "2026-08-22 08:05:59",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Multiple PayPal-branded phishing domains: paypal-invoice.com, paypal-receipt.com, paypal-receipt.xyz targeting PayPal users.",
+      "threat_type": "phishing",
+      "tweet_id": "2091074390318276802",
+      "type": "domain",
+      "value": "paypal-invoice.com"
+    },
+    "paypal-payout.com": {
+      "confidence": 0.92,
+      "date": "2026-08-22 07:55:54",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "PayPal phishing domains paypal-check.com and paypal-payout.com targeting PayPal users for credential/payment data theft.",
+      "threat_type": "phishing",
+      "tweet_id": "2091071853913641115",
+      "type": "domain",
+      "value": "paypal-payout.com"
+    },
+    "paypal-receipt.com": {
+      "confidence": 0.92,
+      "date": "2026-08-22 08:05:59",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Multiple PayPal-branded phishing domains: paypal-invoice.com, paypal-receipt.com, paypal-receipt.xyz targeting PayPal users.",
+      "threat_type": "phishing",
+      "tweet_id": "2091074390318276802",
+      "type": "domain",
+      "value": "paypal-receipt.com"
+    },
+    "paypal-receipt.xyz": {
+      "confidence": 0.92,
+      "date": "2026-08-22 08:05:59",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Multiple PayPal-branded phishing domains: paypal-invoice.com, paypal-receipt.com, paypal-receipt.xyz targeting PayPal users.",
+      "threat_type": "phishing",
+      "tweet_id": "2091074390318276802",
+      "type": "domain",
+      "value": "paypal-receipt.xyz"
     },
     "paypal.baby": {
       "confidence": 0.95,
@@ -81917,21 +81433,6 @@
       "tweet_id": "2081598767409647929",
       "type": "domain",
       "value": "paypalcredit.cc"
-    },
-    "paypalhit.com": {
-      "confidence": 0.9,
-      "date": "2026-07-23 11:02:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "PayPal phishing domain paypalhit.com detected; fake payment/shopping scam lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2080247049564438562",
-      "type": "domain",
-      "value": "paypalhit.com"
     },
     "paypaln.com": {
       "confidence": 0.95,
@@ -82409,6 +81910,22 @@
       "tweet_id": "2086635708375028154",
       "type": "domain",
       "value": "penningtonchurch.com"
+    },
+    "perchframe15.com": {
+      "confidence": 0.87,
+      "date": "2026-08-22 09:41:46",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malvertising",
+        "infostealer",
+        "malware"
+      ],
+      "summary": "Malvertising campaign uses fake Claude AI installer at cli-guides.com to deliver infostealer via perchframe15.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091098495105314893",
+      "type": "domain",
+      "value": "perchframe15.com"
     },
     "perpika.com": {
       "confidence": 0.92,
@@ -85762,6 +85279,23 @@
       "type": "domain",
       "value": "quest-22.com"
     },
+    "quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat": {
+      "confidence": 0.95,
+      "date": "2026-08-22 09:47:08",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "c2",
+        "malware"
+      ],
+      "summary": "ClickFix attack uses fake Cloudflare CAPTCHA to trick Windows/macOS users into running malicious code; C2 at triapfog.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091099845285330991",
+      "type": "url",
+      "value": "https://quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat"
+    },
     "questealer.world": {
       "confidence": 0.85,
       "date": "2026-08-02 11:17:00",
@@ -86566,21 +86100,6 @@
       "tweet_id": "2087044655762543044",
       "type": "url",
       "value": "https://raw.githubusercontent.com/Hac0185/bcc/refs/heads/main/ScreenConnect.ClientSetup.exe"
-    },
-    "raw.githubusercontent.com/sean100496/bnb/refs/heads/main/screenconnect.clientsetup.exesha256": {
-      "confidence": 0.85,
-      "date": "2026-07-23 07:58:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "rat"
-      ],
-      "summary": "Phishing delivering ScreenConnect RMM via invitation-themed lure; payload hosted on GitHub repository sean100496.",
-      "threat_type": "phishing",
-      "tweet_id": "2080200885024518241",
-      "type": "url",
-      "value": "https://raw.githubusercontent.com/sean100496/bnb/refs/heads/main/ScreenConnect.ClientSetup.exeSHA256"
     },
     "raw.githubusercontent.com/sean1004960/bgf/refs/heads/main/screenconnect.clientsetup.msi": {
       "confidence": 0.91,
@@ -90818,6 +90337,21 @@
       "tweet_id": "2081760527257149767",
       "type": "domain",
       "value": "securityhelpmicrosoft.com"
+    },
+    "seen.com": {
+      "confidence": 0.9,
+      "date": "2026-08-22 07:07:25",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates Seen Mastercard with fake $3,000 offer; sender bayberryalgebraic.com links to landmailman.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059652893225404",
+      "type": "domain",
+      "value": "seen.com"
     },
     "sega-ads-territories-appendix.trycloudflare.com": {
       "confidence": 0.98,
@@ -96831,20 +96365,6 @@
       "type": "domain",
       "value": "telegraam-app.com"
     },
-    "telegram-6.com": {
-      "confidence": 0.85,
-      "date": "2026-07-23 11:01:00",
-      "enriched_at": "2026-07-23T12:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing domain telegram-6.com impersonating Telegram messaging platform detected.",
-      "threat_type": "phishing",
-      "tweet_id": "2080246999094288800",
-      "type": "domain",
-      "value": "telegram-6.com"
-    },
     "telegram-7.com": {
       "confidence": 0.95,
       "date": "2026-08-04 08:58:00",
@@ -100891,6 +100411,57 @@
       "type": "domain",
       "value": "trezur-start-base-faqs-io.typedream.app"
     },
+    "triapfog.com": {
+      "confidence": 0.95,
+      "date": "2026-08-22 09:47:08",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "c2",
+        "malware"
+      ],
+      "summary": "ClickFix attack uses fake Cloudflare CAPTCHA to trick Windows/macOS users into running malicious code; C2 at triapfog.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091099845285330991",
+      "type": "domain",
+      "value": "triapfog.com"
+    },
+    "triapfog.com/hex/traffic": {
+      "confidence": 0.95,
+      "date": "2026-08-22 09:47:08",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "c2",
+        "malware"
+      ],
+      "summary": "ClickFix attack uses fake Cloudflare CAPTCHA to trick Windows/macOS users into running malicious code; C2 at triapfog.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091099845285330991",
+      "type": "url",
+      "value": "https://triapfog.com/hex/Traffic"
+    },
+    "triapfog.com/traffic/api": {
+      "confidence": 0.95,
+      "date": "2026-08-22 09:47:08",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "c2",
+        "malware"
+      ],
+      "summary": "ClickFix attack uses fake Cloudflare CAPTCHA to trick Windows/macOS users into running malicious code; C2 at triapfog.com.",
+      "threat_type": "malware",
+      "tweet_id": "2091099845285330991",
+      "type": "url",
+      "value": "https://triapfog.com/Traffic/api"
+    },
     "tridus.vu": {
       "confidence": 0.9,
       "date": "2026-07-29 16:40:00",
@@ -102531,6 +102102,21 @@
       "type": "domain",
       "value": "twinclothing.lk"
     },
+    "twomenandatruckdaytons.com": {
+      "confidence": 0.88,
+      "date": "2026-08-22 07:06:18",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonates QuoteWizard/LendingTree auto-insurance offer from twomenandatruckdaytons.com to harvest personal data.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059372206215597",
+      "type": "domain",
+      "value": "twomenandatruckdaytons.com"
+    },
     "txpfproxy.vip": {
       "confidence": 0.9,
       "date": "2026-08-04 01:04:00",
@@ -103859,6 +103445,21 @@
       "tweet_id": "2081598767409647929",
       "type": "domain",
       "value": "usappleid.com.cn"
+    },
+    "usdxag.com": {
+      "confidence": 0.88,
+      "date": "2026-08-22 07:06:40",
+      "enriched_at": "2026-08-22T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email uses fake cloud storage deletion threat to harvest payment details; from usdxag.com linking to flashstoreshopping.net.",
+      "threat_type": "phishing",
+      "tweet_id": "2091059460915740948",
+      "type": "domain",
+      "value": "usdxag.com"
     },
     "user-kakao.login-accounts.dynv6.net": {
       "confidence": 0.95,
@@ -114947,6 +114548,6 @@
       "value": "\ubd84\uc11d-votingonline.co.in"
     }
   },
-  "generated_at": "2026-08-22T06:40:04Z",
+  "generated_at": "2026-08-22T12:40:04Z",
   "window_days": 30
 }
