@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4858
-; Updated: 2026-08-22T07:15:15Z
+; Entries: 4866
+; Updated: 2026-08-22T07:30:19Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787382915 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787383819 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1322,6 +1322,8 @@ basliyoruz7.xyz CNAME .
 *.basliyoruz7.xyz CNAME .
 batestruckings.com CNAME .
 *.batestruckings.com CNAME .
+bayberryalgebraic.com CNAME .
+*.bayberryalgebraic.com CNAME .
 bbdxsw-baidu2026730z.014901490149x.com CNAME .
 *.bbdxsw-baidu2026730z.014901490149x.com CNAME .
 bbhgdop-baidu2026730z.014901490149y.com CNAME .
@@ -3174,6 +3176,8 @@ fjzebovin.com CNAME .
 *.fjzebovin.com CNAME .
 flarion.vu CNAME .
 *.flarion.vu CNAME .
+flashstoreshopping.net CNAME .
+*.flashstoreshopping.net CNAME .
 flb.obd.mybluehost.me CNAME .
 *.flb.obd.mybluehost.me CNAME .
 flewzxdumainuie.shop CNAME .
@@ -3570,6 +3574,8 @@ gwwwh.top CNAME .
 *.gwwwh.top CNAME .
 gwwwq.top CNAME .
 *.gwwwq.top CNAME .
+gwzfish.org CNAME .
+*.gwzfish.org CNAME .
 gxh-baidu260804.www01490242dd.com CNAME .
 *.gxh-baidu260804.www01490242dd.com CNAME .
 gyfguyhb.onlinewebshop.net CNAME .
@@ -4558,6 +4564,8 @@ landgforce.duckdns.org CNAME .
 *.landgforce.duckdns.org CNAME .
 landingingtradesinternational.com CNAME .
 *.landingingtradesinternational.com CNAME .
+landmailman.com CNAME .
+*.landmailman.com CNAME .
 landoflawns.com CNAME .
 *.landoflawns.com CNAME .
 lankystocks.com CNAME .
@@ -4634,6 +4642,8 @@ lemaxgcc.com CNAME .
 *.lemaxgcc.com CNAME .
 lenotecadiarqua.it CNAME .
 *.lenotecadiarqua.it CNAME .
+lesliebernini.org CNAME .
+*.lesliebernini.org CNAME .
 letjavinvestments.com CNAME .
 *.letjavinvestments.com CNAME .
 lewokodwqko.icu CNAME .
@@ -7130,6 +7140,8 @@ securityhelp-microsoft.com CNAME .
 *.securityhelp-microsoft.com CNAME .
 securityhelpmicrosoft.com CNAME .
 *.securityhelpmicrosoft.com CNAME .
+seen.com CNAME .
+*.seen.com CNAME .
 sega-ads-territories-appendix.trycloudflare.com CNAME .
 *.sega-ads-territories-appendix.trycloudflare.com CNAME .
 sektorukapatiyorumkimsereklamacamaztaklaciguvercin.com CNAME .
@@ -8454,6 +8466,8 @@ twconnect.net CNAME .
 *.twconnect.net CNAME .
 twinclothing.lk CNAME .
 *.twinclothing.lk CNAME .
+twomenandatruckdaytons.com CNAME .
+*.twomenandatruckdaytons.com CNAME .
 txpfproxy.vip CNAME .
 *.txpfproxy.vip CNAME .
 uafsoftware.in CNAME .
@@ -8568,6 +8582,8 @@ usa-legalforms.com CNAME .
 *.usa-legalforms.com CNAME .
 usappleid.com.cn CNAME .
 *.usappleid.com.cn CNAME .
+usdxag.com CNAME .
+*.usdxag.com CNAME .
 user-kakao.login-accounts.dynv6.net CNAME .
 *.user-kakao.login-accounts.dynv6.net CNAME .
 usfcu.com CNAME .
