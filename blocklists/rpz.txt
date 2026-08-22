@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4855
-; Updated: 2026-08-22T04:45:16Z
+; Entries: 4856
+; Updated: 2026-08-22T05:00:19Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787373916 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787374819 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3394,6 +3394,8 @@ gf.mahuacm.com CNAME .
 *.gf.mahuacm.com CNAME .
 gfagfasdgaas.sbs CNAME .
 *.gfagfasdgaas.sbs CNAME .
+gfytvd-wiyn-np4qjd-g9ewg7.pages.dev CNAME .
+*.gfytvd-wiyn-np4qjd-g9ewg7.pages.dev CNAME .
 gg.qunaeer.com CNAME .
 *.gg.qunaeer.com CNAME .
 gghgdop-baidu2026730z.014901490149y.com CNAME .
