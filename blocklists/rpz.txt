@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4857
-; Updated: 2026-08-22T05:30:17Z
+; Entries: 4858
+; Updated: 2026-08-22T07:15:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787376617 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787382915 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4688,6 +4688,8 @@ live-zoorn.com CNAME .
 *.live-zoorn.com CNAME .
 liveadobe.com CNAME .
 *.liveadobe.com CNAME .
+liveryfunky.org CNAME .
+*.liveryfunky.org CNAME .
 lixsjsd.duckdns.org CNAME .
 *.lixsjsd.duckdns.org CNAME .
 ljbss.com CNAME .
