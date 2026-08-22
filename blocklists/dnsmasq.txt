@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 4869
-# Updated: 2026-08-22T08:15:15Z
+# Entries: 4872
+# Updated: 2026-08-22T08:30:18Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -3086,7 +3086,10 @@ address=/payment-zoomninfo.com/0.0.0.0
 address=/paymentrun4190auth.us-mia-1.linodeobjects.com/0.0.0.0
 address=/paypal-check.com/0.0.0.0
 address=/paypal-details.com/0.0.0.0
+address=/paypal-invoice.com/0.0.0.0
 address=/paypal-payout.com/0.0.0.0
+address=/paypal-receipt.com/0.0.0.0
+address=/paypal-receipt.xyz/0.0.0.0
 address=/paypal-refund.com/0.0.0.0
 address=/paypal.baby/0.0.0.0
 address=/paypal.dashboard-manage.net/0.0.0.0

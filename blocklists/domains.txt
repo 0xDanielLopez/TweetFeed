@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 4869
-# Updated: 2026-08-22T08:15:15Z
+# Entries: 4872
+# Updated: 2026-08-22T08:30:18Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/domains.txt
 # https://tweetfeed.live
@@ -3086,7 +3086,10 @@ payment-zoomninfo.com
 paymentrun4190auth.us-mia-1.linodeobjects.com
 paypal-check.com
 paypal-details.com
+paypal-invoice.com
 paypal-payout.com
+paypal-receipt.com
+paypal-receipt.xyz
 paypal-refund.com
 paypal.baby
 paypal.dashboard-manage.net

@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4869
-; Updated: 2026-08-22T08:15:15Z
+; Entries: 4872
+; Updated: 2026-08-22T08:30:18Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787386515 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787387418 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -6170,8 +6170,14 @@ paypal-check.com CNAME .
 *.paypal-check.com CNAME .
 paypal-details.com CNAME .
 *.paypal-details.com CNAME .
+paypal-invoice.com CNAME .
+*.paypal-invoice.com CNAME .
 paypal-payout.com CNAME .
 *.paypal-payout.com CNAME .
+paypal-receipt.com CNAME .
+*.paypal-receipt.com CNAME .
+paypal-receipt.xyz CNAME .
+*.paypal-receipt.xyz CNAME .
 paypal-refund.com CNAME .
 *.paypal-refund.com CNAME .
 paypal.baby CNAME .

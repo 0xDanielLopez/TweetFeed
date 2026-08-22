@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 5487
-# Updated: 2026-08-22T08:15:15Z
+# Entries: 5490
+# Updated: 2026-08-22T08:30:18Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -3294,7 +3294,10 @@ http://payment-zoomninfo.com
 http://paymentrun4190auth.us-mia-1.linodeobjects.com
 http://paypal-check.com
 http://paypal-details.com
+http://paypal-invoice.com
 http://paypal-payout.com
+http://paypal-receipt.com
+http://paypal-receipt.xyz
 http://paypal-refund.com
 http://paypal.baby
 http://paypal.dashboard-manage.net

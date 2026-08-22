@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 4869
-# Updated: 2026-08-22T08:15:15Z
+# Entries: 4872
+# Updated: 2026-08-22T08:30:18Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
@@ -3086,7 +3086,10 @@
 0.0.0.0 paymentrun4190auth.us-mia-1.linodeobjects.com
 0.0.0.0 paypal-check.com
 0.0.0.0 paypal-details.com
+0.0.0.0 paypal-invoice.com
 0.0.0.0 paypal-payout.com
+0.0.0.0 paypal-receipt.com
+0.0.0.0 paypal-receipt.xyz
 0.0.0.0 paypal-refund.com
 0.0.0.0 paypal.baby
 0.0.0.0 paypal.dashboard-manage.net
