@@ -1,5 +1,5 @@
 {
-  "campaign_count": 20,
+  "campaign_count": 21,
   "campaigns": [
     {
       "anchors": {
@@ -347,8 +347,8 @@
       "last_seen": "2026-08-21",
       "member_cluster_ids": [
         "tfc-dde90fa9be06",
-        "tfc-1d9b97d48905",
         "tfc-dda1bb85e675",
+        "tfc-1d9b97d48905",
         "tfc-a83d7bb39bc0",
         "tfc-d75c5c619ba1"
       ],
@@ -438,7 +438,7 @@
         ]
       },
       "confidence": "high",
-      "context": "AsyncRAT, DCrat, Remcos, and XWorm share C2 infrastructure across DuckDNS, Dynuddns, and ydns.eu DDNS providers. Executables are staged via /cgi-bins/ versioned paths, GitHub repos, and open directories on dedicated domains. Multiple researchers reported over 170 combined IOCs between 2026-07-23 and 2026-08-17.",
+      "context": "AsyncRAT, DCrat, Remcos, and XWorm C2s use DuckDNS, Dynuddns, and ydns.eu DDNS providers alongside dedicated .top and .live domains. Remcos payloads are also staged via /cgi-bins/ versioned EXE paths on cinnamonthai.com and ygto.com subdomains. Multiple researchers reported over 170 combined IOCs between 2026-07-23 and 2026-08-17.",
       "first_seen": "2026-07-23",
       "id": "tfc-6bbdecb6b0f7",
       "ioc_count": 173,
@@ -813,7 +813,7 @@
         ]
       },
       "confidence": "high",
-      "context": "Multiple domains impersonate Zoom via /Windows/invite.php, /Zoom.us/Windows, and /images/ZoomInstaller.msi paths across .click, .im, .live, .us, .top, and .vn TLDs. A Google Meet lure on googlemeet0.pages.dev and interview-themed domains with /install-guide.php are also present. Multiple researchers reported over 118 combined IOCs between 2026-07-24 and 2026-08-18.",
+      "context": "Multiple fake Zoom domains serve a shared invite.php kit via /Windows/, /Zoom.us/Windows/, /zoom.us/Windows/, and /ZOOM/Windows/ path variants across .click, .im, .live, .us, .top, and .vn TLDs. A Google Meet lure on googlemeet0.pages.dev and interview-themed pages with /install-guide.php extend the same campaign. Multiple researchers reported over 130 combined IOCs between 2026-07-24 and 2026-08-17.",
       "first_seen": "2026-07-24",
       "id": "tfc-9e6eb064d5b2",
       "ioc_count": 118,
@@ -1079,8 +1079,8 @@
         "tfc-86cdfb6c823e",
         "tfc-8018cc994a7b",
         "tfc-8fcc8afdd1b7",
-        "tfc-a84e5fec9f4d",
         "tfc-8a8c2ce082f8",
+        "tfc-a84e5fec9f4d",
         "tfc-4fe8b58099bc",
         "tfc-0ec6152add92",
         "tfc-2c6e1372ce95"
@@ -2941,7 +2941,7 @@
         ]
       },
       "confidence": "medium",
-      "context": "Attackers distribute ScreenConnect installers via unauthorized tenant subdomains on screenconnect.com and GitHub repositories hosting ClientSetup executables. A C2 listener on port 8041 at mychap.co.uk ties the cluster together. Multiple researchers reported over 31 combined IOCs between 2026-07-23 and 2026-08-18.",
+      "context": "ScreenConnect installer files are distributed via unauthorized tenant subdomains on screenconnect.com and GitHub repositories (sean100496, Hac0185) hosting ClientSetup.exe and .msi binaries. A C2 listener on port 8041 at mychap.co.uk ties the cluster together. Multiple researchers reported over 31 combined IOCs between 2026-07-23 and 2026-08-18.",
       "first_seen": "2026-07-23",
       "id": "tfc-55f22b660783",
       "ioc_count": 31,
@@ -3202,7 +3202,7 @@
         "tfc-7f8f65eaeb32",
         "tfc-509ef14441f1"
       ],
-      "name": "Unauthorized ScreenConnect RAT delivery via intfdt.com",
+      "name": "Unauthorized ScreenConnect RAT delivery via tenant subdomains",
       "reporters": [
         "Malwarehunterr",
         "TheM3gatr0n",
@@ -3451,10 +3451,10 @@
       "member_cluster_ids": [
         "tfc-650dbb7a3d9b",
         "tfc-0e82c93d186d",
-        "tfc-0ee2f9a84dc7",
         "tfc-2ca20eab86c7",
-        "tfc-3e59dac7e8ab",
-        "tfc-f871587fe987"
+        "tfc-0ee2f9a84dc7",
+        "tfc-f871587fe987",
+        "tfc-3e59dac7e8ab"
       ],
       "name": "Malware staging and C2 at jpword.cc and rukeyou.com",
       "reporters": [
@@ -4267,7 +4267,7 @@
         ]
       },
       "confidence": "low",
-      "context": "Spear-phishing URLs on elementfx.com, scienceontheweb.net, mywebcommunity.org, and onlinewebshop.net pass [userdomain] and [username] template variables to /indown.php or /setting.php for per-victim payload tracking. The consistent URL template across multiple domains suggests a shared phishing kit or APT tooling. Reporters flagged 10 combined IOCs between 2026-08-04 and 2026-08-19.",
+      "context": "Spear-phishing URLs on elementfx.com, scienceontheweb.net, mywebcommunity.org, and onlinewebshop.net inject per-victim [userdomain] and [username] parameters into download endpoints at /indown.php and /setting.php for payload tracking. The consistent victim-tracking URL template across multiple shared-hosting domains suggests a shared kit. Reporter byrne_emmy12099 flagged 10 combined IOCs between 2026-08-04 and 2026-08-19.",
       "first_seen": "2026-08-04",
       "id": "tfc-c17532a192a4",
       "ioc_count": 10,
@@ -4826,6 +4826,86 @@
     {
       "anchors": {
         "registered_domains": [
+          "bnznji.net"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/Adobe/Adobe-digital-exe"
+        ]
+      },
+      "confidence": "low",
+      "context": "A single host gk.bnznji.net serves fake Adobe Digital Edition installers via /Adobe/Adobe-digital-exe/download.php, impersonating Adobe's software distribution site. Two researchers flagged 4 IOCs on 2026-08-17.",
+      "first_seen": "2026-08-17",
+      "id": "tfc-58a8465f8f21",
+      "ioc_count": 4,
+      "ioc_count_1d": 0,
+      "ioc_count_30d": 4,
+      "ioc_count_7d": 4,
+      "iocs": [
+        {
+          "date": "2026-08-17 15:57:19",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089381066251419788",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://gk.bnznji.net/Adobe/Adobe-digital-exe/download.php"
+        },
+        {
+          "date": "2026-08-17 15:57:19",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089381066251419788",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "https://gk.bnznji.net/Adobe/Adobe-digital-exe/Download"
+        },
+        {
+          "date": "2026-08-17 15:57:19",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089381066251419788",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "gk.bnznji.net"
+        },
+        {
+          "date": "2026-08-17 15:51:32",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2089379610861699295",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://gk.bnznji.net/Adobe/Adobe-digital-exe/"
+        }
+      ],
+      "last_seen": "2026-08-17",
+      "member_cluster_ids": [
+        "tfc-58a8465f8f21"
+      ],
+      "name": "Adobe Digital Edition phishing via bnznji.net",
+      "reporters": [
+        "patialavii",
+        "skocherhan"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": "Adobe",
+      "targeted_country": null,
+      "targeted_sector": "technology",
+      "types": {
+        "domain": 1,
+        "url": 3
+      }
+    },
+    {
+      "anchors": {
+        "registered_domains": [
           "kharwadejewellers.com"
         ],
         "tags": [],
@@ -4901,7 +4981,7 @@
       }
     }
   ],
-  "generated_at": "2026-08-22T12:53:22Z",
+  "generated_at": "2026-08-22T13:11:56Z",
   "stale": false,
   "stale_since": null,
   "version": 1,
