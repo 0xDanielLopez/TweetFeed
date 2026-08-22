@@ -47,7 +47,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-08-22 09:45:16 (UTC)</th>
+        <th colspan=4>2026-08-22 10:00:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -180,10 +180,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 24 | 694 | 5605 | 53660 |
-| **:globe_with_meridians: Domains** | 24 | 588 | 4981 | 42272 |
+| **:link: URLs** | 30 | 700 | 5611 | 53666 |
+| **:globe_with_meridians: Domains** | 29 | 593 | 4986 | 42277 |
 | **:triangular_flag_on_post: IPs** | 0 | 166 | 815 | 9624 |
-| **:1234: SHA256** | 0 | 87 | 443 | 2674 |
+| **:1234: SHA256** | 1 | 88 | 444 | 2675 |
 | **:1234: MD5** | 0 | 28 | 240 | 2486 |
 
 </div>
@@ -202,7 +202,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 83 | 11647 |
 | **#C2** | 0 | 24 | 167 | 9379 |
 | **#scam** | 0 | 6 | 55 | 5550 |
-| **#malware** | 0 | 55 | 499 | 2808 |
+| **#malware** | 6 | 61 | 505 | 2814 |
 | **#CobaltStrike** | 0 | 0 | 9 | 2172 |
 | **#APT** | 0 | 18 | 145 | 1671 |
 | **#AsyncRAT** | 0 | 21 | 75 | 923 |
@@ -224,10 +224,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->93<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 26 |
 | **#2** | [skocherhan](https://x.com/skocherhan) | 10 |
-| **#3** | [patialavii](https://x.com/patialavii) | 6 |
-| **#4** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#5** | [masaomi346](https://x.com/masaomi346) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#3** | [masaomi346](https://x.com/masaomi346) | 8 |
+| **#4** | [patialavii](https://x.com/patialavii) | 6 |
+| **#5** | [TheM3gatr0n](https://x.com/TheM3gatr0n) | 6 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |

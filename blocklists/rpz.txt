@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 4872
-; Updated: 2026-08-22T08:30:18Z
+; Entries: 4876
+; Updated: 2026-08-22T10:00:17Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1787387418 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1787392817 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1700,6 +1700,8 @@ canorte.com CNAME .
 *.canorte.com CNAME .
 canovaelectric.com CNAME .
 *.canovaelectric.com CNAME .
+canvas-35.com CNAME .
+*.canvas-35.com CNAME .
 capsulux.ca CNAME .
 *.capsulux.ca CNAME .
 captcha-loading.com CNAME .
@@ -1928,6 +1930,8 @@ cleanascanbee.com.au CNAME .
 *.cleanascanbee.com.au CNAME .
 clevercarves.com CNAME .
 *.clevercarves.com CNAME .
+cli-guides.com CNAME .
+*.cli-guides.com CNAME .
 clientes-empresa-caixa.com CNAME .
 *.clientes-empresa-caixa.com CNAME .
 clientmeetingzoomspace.com CNAME .
@@ -6232,6 +6236,8 @@ pelosfilhos.com.br CNAME .
 *.pelosfilhos.com.br CNAME .
 penningtonchurch.com CNAME .
 *.penningtonchurch.com CNAME .
+perchframe15.com CNAME .
+*.perchframe15.com CNAME .
 perpika.com CNAME .
 *.perpika.com CNAME .
 persikmarket.fun CNAME .
@@ -8262,6 +8268,8 @@ trezrsite-web-us.typedream.app CNAME .
 *.trezrsite-web-us.typedream.app CNAME .
 trezur-start-base-faqs-io.typedream.app CNAME .
 *.trezur-start-base-faqs-io.typedream.app CNAME .
+triapfog.com CNAME .
+*.triapfog.com CNAME .
 tridus.vu CNAME .
 *.tridus.vu CNAME .
 trlmech.com CNAME .
