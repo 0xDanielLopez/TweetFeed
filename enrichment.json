@@ -1,5 +1,5 @@
 {
-  "count": 4155,
+  "count": 4089,
   "dead_tweets": {
     "2083405583823126654": {
       "attempts": 2,
@@ -526,22 +526,6 @@
       "type": "sha256",
       "value": "0614cca495539cfe5c281a638060f1d9c990b6be0eda7c3bdbb363bd4f18206c"
     },
-    "069reselling.com": {
-      "confidence": 0.68,
-      "date": "2026-08-06 12:10:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "clickfix",
-        "scam"
-      ],
-      "summary": "Threat brief: 4,820 new malicious domains in 24h; notable ClickFix, casino crypto-fraud (073752.com), and phishing clusters with high infrastructure churn.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2085337645261979903",
-      "type": "domain",
-      "value": "069reselling.com"
-    },
     "06b32d2c3ed5de1b8eda0665b5758272": {
       "confidence": 0.75,
       "date": "2026-08-24 14:01:25",
@@ -602,22 +586,6 @@
       "tweet_id": "2089388552882622939",
       "type": "url",
       "value": "http://06updatelive.xyz/Zoom.us/Windows/invite.php"
-    },
-    "073752.com": {
-      "confidence": 0.68,
-      "date": "2026-08-06 12:10:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "clickfix",
-        "scam"
-      ],
-      "summary": "Threat brief: 4,820 new malicious domains in 24h; notable ClickFix, casino crypto-fraud (073752.com), and phishing clusters with high infrastructure churn.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2085337645261979903",
-      "type": "domain",
-      "value": "073752.com"
     },
     "07c9e525a4c2196234ea5f8d588916e23c9ac49a0df837a002b283eceb6ca5c0": {
       "confidence": 0.97,
@@ -1450,22 +1418,6 @@
       "tweet_id": "2085403006879637538",
       "type": "ip",
       "value": "103.176.145.220"
-    },
-    "103.193.172.103": {
-      "confidence": 0.87,
-      "date": "2026-08-06 08:29:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious IMG file containing VBS script communicating with jpword.cc and 122.10.117.3:8383 as C2; linked to Japanese purchase-order malspam.",
-      "threat_type": "malware",
-      "tweet_id": "2085282101403017672",
-      "type": "url",
-      "value": "http://103.193.172.103"
     },
     "103.214.68.193": {
       "confidence": 0.82,
@@ -2521,38 +2473,6 @@
       "tweet_id": "2086807858507600185",
       "type": "ip",
       "value": "121.43.59.16"
-    },
-    "122.10.117.3": {
-      "confidence": 0.87,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with fake purchase order PDF linking to w1mail.com; downloads IMG file beaconing to jpword.cc:8383 and 122.10.117.3:8383.",
-      "threat_type": "malware",
-      "tweet_id": "2085270818209374435",
-      "type": "ip",
-      "value": "122.10.117.3"
-    },
-    "122.10.117.3:8383": {
-      "confidence": 0.87,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with fake purchase order PDF linking to w1mail.com; downloads IMG file beaconing to jpword.cc:8383 and 122.10.117.3:8383.",
-      "threat_type": "malware",
-      "tweet_id": "2085270818209374435",
-      "type": "url",
-      "value": "http://122.10.117.3:8383"
     },
     "123.103.114.37": {
       "confidence": 0.9,
@@ -5653,40 +5573,6 @@
       "type": "ip",
       "value": "193.203.27.244"
     },
-    "193.221.200.175": {
-      "confidence": 0.87,
-      "date": "2026-08-06 10:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "infostealer",
-        "opendir",
-        "malware",
-        "stealer"
-      ],
-      "summary": "Remus infostealer distributed via fake cracked software lures resolves C2 from Ethereum smart contract; open directory exposed fresh samples.",
-      "threat_type": "malware",
-      "tweet_id": "2085317636750217388",
-      "type": "ip",
-      "value": "193.221.200.175"
-    },
-    "193.221.200.64": {
-      "confidence": 0.95,
-      "date": "2026-08-06 11:43:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "clickfix",
-        "amosstealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "macOS ClickFix campaign uses server-side fingerprinting to deliver MacSync and Atomic Stealer (AMOS) infostealers via look-alike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085330913530094015",
-      "type": "ip",
-      "value": "193.221.200.64"
-    },
     "193.221.201.195": {
       "confidence": 0.8,
       "date": "2026-08-16 17:18:08",
@@ -5926,22 +5812,6 @@
       "tweet_id": "2089400926507274706",
       "type": "ip",
       "value": "194.87.31.229"
-    },
-    "1946315d645d9a8c5114759b350ec4f85dba5f9ee4a63d74437d7a068bff7752": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "1946315d645d9a8c5114759b350ec4f85dba5f9ee4a63d74437d7a068bff7752"
     },
     "195.140.213.114": {
       "confidence": 0.95,
@@ -6369,20 +6239,6 @@
       "tweet_id": "2092861713196704173",
       "type": "sha256",
       "value": "1c53a0ee082f53f584297c44d9d1ee40e5b835cfc4543d409178aad704fd8ce5"
-    },
-    "1c7918f2bb51facc9a043a2e07f5f7226a1ba4a3f283308fbcc2790fd1c644e4": {
-      "confidence": 0.8,
-      "date": "2026-08-06 07:53:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with ZIP attachment containing malicious .bat file disguised as a quotation request document dated 2026-08-05.",
-      "threat_type": "malware",
-      "tweet_id": "2085273126926275020",
-      "type": "sha256",
-      "value": "1c7918f2bb51facc9a043a2e07f5f7226a1ba4a3f283308fbcc2790fd1c644e4"
     },
     "1cafe9068460d856d5646c4f8f775132c1142ffef7f4b8ea7dbfeb9fbd07ff96": {
       "confidence": 0.92,
@@ -8078,22 +7934,6 @@
       "type": "sha256",
       "value": "270ec6c35b56cb6fc47bc4c095ab7e0fec69e80979d51b0bc189ce5665e8fb21"
     },
-    "27a49a71dfa781e18d8c85b8bdbb89c5feac5bf85a5236ea5f99211665c7780f": {
-      "confidence": 0.93,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "DoNot APT malicious Excel documents with shipping and invitation lures dropping dn110mploc.dll downloader DLL.",
-      "threat_type": "malware",
-      "tweet_id": "2085270695898997135",
-      "type": "sha256",
-      "value": "27a49a71dfa781e18d8c85b8bdbb89c5feac5bf85a5236ea5f99211665c7780f"
-    },
     "2841948923.com": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -8107,22 +7947,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "2841948923.com"
-    },
-    "28916c496d32ee3fde4f9edb44dda56d737cf194116bf9ca67e99cf14db9be63": {
-      "confidence": 0.85,
-      "date": "2026-08-06 08:29:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2"
-      ],
-      "summary": "Japanese-language malspam with fake purchase order PDF linking to w1mail.com; downloads IMG file communicating with jpword.cc C2 on port 8383.",
-      "threat_type": "malware",
-      "tweet_id": "2085282098601243004",
-      "type": "sha256",
-      "value": "28916c496d32ee3fde4f9edb44dda56d737cf194116bf9ca67e99cf14db9be63"
     },
     "28e4e19d097d6c779516e8bf1ed3611c85f536c48b7f45a882224e31f6e1f94c": {
       "confidence": 0.7,
@@ -8181,22 +8005,6 @@
       "type": "domain",
       "value": "2a0aabb0-e.b-cdn.net"
     },
-    "2a1510fc4a82d44cc82d481f3d46105f30c9243312b3e98227c97d125b2370be": {
-      "confidence": 0.93,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "DoNot APT malicious Excel documents with shipping and invitation lures dropping dn110mploc.dll downloader DLL.",
-      "threat_type": "malware",
-      "tweet_id": "2085270695898997135",
-      "type": "sha256",
-      "value": "2a1510fc4a82d44cc82d481f3d46105f30c9243312b3e98227c97d125b2370be"
-    },
     "2cf2e35468887d7754461f9133b71426162348f66c91b4e6f863fadd422d0105": {
       "confidence": 0.88,
       "date": "2026-08-17 15:57:19",
@@ -8212,24 +8020,6 @@
       "type": "sha256",
       "value": "2cf2e35468887d7754461f9133b71426162348f66c91b4e6f863fadd422d0105"
     },
-    "2d5e8f6fa5828a8be068e1e9059d66a2b9ba5d1c9baf1989b5371ceae8e2dd97": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "sha256",
-      "value": "2d5e8f6fa5828a8be068e1e9059d66a2b9ba5d1c9baf1989b5371ceae8e2dd97"
-    },
     "2d7351aa765bb2feed9536cc392b2013361c193e99841c5b56591d988bd4b582": {
       "confidence": 0.85,
       "date": "2026-08-09 08:51:45",
@@ -8243,22 +8033,6 @@
       "tweet_id": "2086374865704018116",
       "type": "sha256",
       "value": "2d7351aa765bb2feed9536cc392b2013361c193e99841c5b56591d988bd4b582"
-    },
-    "2e1cd6ed59c790965ea60b124397703258f50fa6c4dd6c605179f92849ce5306": {
-      "confidence": 0.87,
-      "date": "2026-08-06 08:29:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious IMG file containing VBS script communicating with jpword.cc and 122.10.117.3:8383 as C2; linked to Japanese purchase-order malspam.",
-      "threat_type": "malware",
-      "tweet_id": "2085282101403017672",
-      "type": "sha256",
-      "value": "2e1cd6ed59c790965ea60b124397703258f50fa6c4dd6c605179f92849ce5306"
     },
     "2oomiinvittee.com": {
       "confidence": 0.95,
@@ -9114,22 +8888,6 @@
       "type": "domain",
       "value": "389912834.sbs"
     },
-    "394ebca8fe5b92a028cd8c30a609d912": {
-      "confidence": 0.95,
-      "date": "2026-08-06 08:23:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Joker Trojan discovered on Google Play Store in app com.smstap.messages.message targeting Android devices.",
-      "threat_type": "malware",
-      "tweet_id": "2085280571031540140",
-      "type": "md5",
-      "value": "394ebca8fe5b92a028cd8c30a609d912"
-    },
     "39847b786611e5dd1a60fb0b5113f5253534401a2824850e3ebc6696b844ba8e": {
       "confidence": 0.68,
       "date": "2026-08-25 05:55:29",
@@ -9307,34 +9065,6 @@
       "tweet_id": "2086148083986116926",
       "type": "sha256",
       "value": "3eaf786bfb4ae5688b347511f98d74c948b7dc0749558acbdc6bbe33dcfa3a61"
-    },
-    "3f-icloud.com": {
-      "confidence": 0.97,
-      "date": "2026-08-06 07:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Apple iCloud phishing page hosted at 3f-icloud.com on Oracle Cloud infrastructure targeting Apple account credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2085259783813181568",
-      "type": "domain",
-      "value": "3f-icloud.com"
-    },
-    "3f-icloud.com/fl26": {
-      "confidence": 0.97,
-      "date": "2026-08-06 07:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Apple iCloud phishing page hosted at 3f-icloud.com on Oracle Cloud infrastructure targeting Apple account credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2085259783813181568",
-      "type": "url",
-      "value": "http://3f-icloud.com/fl26"
     },
     "3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a": {
       "confidence": 0.82,
@@ -10169,23 +9899,6 @@
       "type": "ip",
       "value": "45.144.136.244"
     },
-    "45.151.106.233": {
-      "confidence": 0.95,
-      "date": "2026-08-06 11:43:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "clickfix",
-        "amosstealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "macOS ClickFix campaign uses server-side fingerprinting to deliver MacSync and Atomic Stealer (AMOS) infostealers via look-alike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085330913530094015",
-      "type": "ip",
-      "value": "45.151.106.233"
-    },
     "45.151.91.14": {
       "confidence": 0.9,
       "date": "2026-08-15 04:24:41",
@@ -10560,20 +10273,6 @@
       "type": "md5",
       "value": "466a990698c559b4eccca876bc698cfc"
     },
-    "468292b5638bba8338b82527d2970f6b11853d6c71f56f336798a99451411706": {
-      "confidence": 0.45,
-      "date": "2026-08-06 09:16:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Additional malware sample hash shared in relation to an unspecified campaign discussed by infosec researchers.",
-      "threat_type": "malware",
-      "tweet_id": "2085293993123012691",
-      "type": "sha256",
-      "value": "468292b5638bba8338b82527d2970f6b11853d6c71f56f336798a99451411706"
-    },
     "47.109.196.181": {
       "confidence": 0.6,
       "date": "2026-08-11 07:36:04",
@@ -10693,6 +10392,21 @@
       "type": "ip",
       "value": "47.252.41.23"
     },
+    "47.57.138.67": {
+      "confidence": 0.87,
+      "date": "2026-09-05 11:07:00",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android"
+      ],
+      "summary": "Google phishing page at apk-google.cn hosted on Alibaba in Hong Kong; APK-themed domain suggests Android lure.",
+      "threat_type": "phishing",
+      "tweet_id": "2096193372595626269",
+      "type": "ip",
+      "value": "47.57.138.67"
+    },
     "47.76.182.255": {
       "confidence": 0.92,
       "date": "2026-08-10 02:20:37",
@@ -10781,20 +10495,6 @@
       "tweet_id": "2092202464401392078",
       "type": "sha256",
       "value": "47adb40e9ee04ee3a50e099fecd488f6eaf78a6e3abb9653d346cc5ae4648126"
-    },
-    "483b7b73f19fd2029f4503c7b7c35840": {
-      "confidence": 0.82,
-      "date": "2026-08-06 08:03:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with .tar attachment containing malicious .js file using Hostinger SMTP infrastructure for delivery.",
-      "threat_type": "malware",
-      "tweet_id": "2085275624449708515",
-      "type": "md5",
-      "value": "483b7b73f19fd2029f4503c7b7c35840"
     },
     "485e02db-a.b-cdn.net": {
       "confidence": 0.98,
@@ -13025,21 +12725,6 @@
       "type": "sha256",
       "value": "69e591d01328b3c72576c654298689980d32f1051044b4ab04b2eb469a459a49"
     },
-    "6a197a50e78aa671622d4a033e532f52": {
-      "confidence": 0.78,
-      "date": "2026-08-06 12:33:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "DLL sideloading campaign distributes malicious ZIP from pfbofa.com containing sideloaded DLL with C2 at v0hkpadr04mbz5lkearqa.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085343386723082532",
-      "type": "md5",
-      "value": "6a197a50e78aa671622d4a033e532f52"
-    },
     "6b1c5rssx.duckdns.org": {
       "confidence": 0.95,
       "date": "2026-08-13 23:17:43",
@@ -13054,21 +12739,6 @@
       "tweet_id": "2088042344771932639",
       "type": "domain",
       "value": "6b1c5rssx.duckdns.org"
-    },
-    "6bb802895b427ca1868e6e0dd525ad61": {
-      "confidence": 0.83,
-      "date": "2026-08-06 07:59:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with ZIP attachment containing malicious .js file communicating to ftp.3dsportsgins.com as C2.",
-      "threat_type": "malware",
-      "tweet_id": "2085274507795951684",
-      "type": "md5",
-      "value": "6bb802895b427ca1868e6e0dd525ad61"
     },
     "6bbff1c69b203a8b4fec033f83d2f4b7": {
       "confidence": 0.9,
@@ -13132,36 +12802,6 @@
       "tweet_id": "2090776748212576720",
       "type": "sha256",
       "value": "6cdf04b4cc459bebf1ac78e54997e242ee41aaecdd7f61e705987c47c2a33c9e"
-    },
-    "6cea60db12dcf7def057c16a09f848aa87718cb52cf5266c3566e78c1e823ef8": {
-      "confidence": 0.82,
-      "date": "2026-08-06 08:03:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with .tar attachment containing malicious .js file using Hostinger SMTP infrastructure for delivery.",
-      "threat_type": "malware",
-      "tweet_id": "2085275624449708515",
-      "type": "sha256",
-      "value": "6cea60db12dcf7def057c16a09f848aa87718cb52cf5266c3566e78c1e823ef8"
-    },
-    "6d8312056fda39a69783b99b8a9413074d1171bbb8e408ff65e722334c5f3478": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "6d8312056fda39a69783b99b8a9413074d1171bbb8e408ff65e722334c5f3478"
     },
     "6dedb6bd-3.b-cdn.net": {
       "confidence": 0.98,
@@ -14073,22 +13713,6 @@
       "type": "domain",
       "value": "789797.net"
     },
-    "78bf27a03eab7685b36a7a949468978ba2b119343b81ee2be1e9499f83773b7f": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "78bf27a03eab7685b36a7a949468978ba2b119343b81ee2be1e9499f83773b7f"
-    },
     "796a88349395366586f8f1c4624a3aaa": {
       "confidence": 0.82,
       "date": "2026-08-09 20:53:03",
@@ -14465,20 +14089,6 @@
       "type": "url",
       "value": "http://8.209.252.179"
     },
-    "8.211.178.99": {
-      "confidence": 0.96,
-      "date": "2026-08-06 08:02:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "TikTok phishing site targeting Japanese users via tlktok.maurenou.com with fake credit limit inquiry path on AS45102.",
-      "threat_type": "phishing",
-      "tweet_id": "2085275278281175109",
-      "type": "ip",
-      "value": "8.211.178.99"
-    },
     "8.217.165.249": {
       "confidence": 0.92,
       "date": "2026-08-10 02:20:37",
@@ -14802,22 +14412,6 @@
       "type": "domain",
       "value": "838466ca-e.b-cdn.net"
     },
-    "83b3a6605171440d7d9582b35cbe8dca839ffe234ec8cca0fb92e32b91501d9c": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "83b3a6605171440d7d9582b35cbe8dca839ffe234ec8cca0fb92e32b91501d9c"
-    },
     "84.247.187.67": {
       "confidence": 0.95,
       "date": "2026-08-22 13:35:34",
@@ -15074,20 +14668,6 @@
       "type": "ip",
       "value": "87.199.197.84"
     },
-    "87.58.199.8": {
-      "confidence": 0.7,
-      "date": "2026-08-06 09:22:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory identified at 87.58.199.8 flagged by infosec researchers as potentially hosting malicious files.",
-      "threat_type": "other",
-      "tweet_id": "2085295494256103517",
-      "type": "url",
-      "value": "http://87.58.199.8"
-    },
     "874d6851049e38e2e439acb6545f3fb3": {
       "confidence": 0.75,
       "date": "2026-08-16 20:27:38",
@@ -15129,20 +14709,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "8768345345.net"
-    },
-    "87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff": {
-      "confidence": 0.88,
-      "date": "2026-08-06 06:45:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "BYOVD driver EDR killer absent from Microsoft block lists terminates 140+ security products; activates on ScreenConnect-related strings via ZwTerminateProcess.",
-      "threat_type": "malware",
-      "tweet_id": "2085255978367569939",
-      "type": "sha256",
-      "value": "87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff"
     },
     "87hermana26laafirmacion.vip": {
       "confidence": 0.75,
@@ -15286,6 +14852,22 @@
       "tweet_id": "2088008030625427887",
       "type": "sha256",
       "value": "8a1848d89621b7c05ffd881e3a6bdd0c84ba358bfffe3dd9420c7c9f65e78608"
+    },
+    "8a7db4271f1103fe195591ce3e500faa": {
+      "confidence": 0.9,
+      "date": "2026-09-05 08:58:50",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideWinder APT spear-phishing Pakistan Finance Division via malicious DOCX lure; MD5 pivot from related campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2096161119836512463",
+      "type": "md5",
+      "value": "8a7db4271f1103fe195591ce3e500faa"
     },
     "8b141a7c5d8af94ed37ea2b5dd676f9cb105ba8a6eedda36349899a2f1d065ff": {
       "confidence": 0.92,
@@ -15448,22 +15030,6 @@
       "tweet_id": "2090191328881639433",
       "type": "sha256",
       "value": "8f210a32b10e65bf7984d6425888f7fb25f8a1ce998b809b561dbfe95b53382d"
-    },
-    "902d1dee3000361a49b22d81c52a410a3521e06dcfd5b1422f46a5c2c3f80191": {
-      "confidence": 0.93,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "DoNot APT malicious Excel documents with shipping and invitation lures dropping dn110mploc.dll downloader DLL.",
-      "threat_type": "malware",
-      "tweet_id": "2085270695898997135",
-      "type": "sha256",
-      "value": "902d1dee3000361a49b22d81c52a410a3521e06dcfd5b1422f46a5c2c3f80191"
     },
     "9033f5bed49269403341abcfbd8244eb": {
       "confidence": 0.65,
@@ -15748,23 +15314,6 @@
       "type": "url",
       "value": "http://93.105.205.92.host.secureserver.net/vendas.html"
     },
-    "93.190.247.6": {
-      "confidence": 0.95,
-      "date": "2026-08-06 11:43:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "clickfix",
-        "amosstealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "macOS ClickFix campaign uses server-side fingerprinting to deliver MacSync and Atomic Stealer (AMOS) infostealers via look-alike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2085330913530094015",
-      "type": "ip",
-      "value": "93.190.247.6"
-    },
     "930bcbd2d3f7227b51ad1439ad854fd8": {
       "confidence": 0.28,
       "date": "2026-08-24 03:39:03",
@@ -15932,36 +15481,6 @@
       "tweet_id": "2088680116402454825",
       "type": "sha256",
       "value": "959fccb66ebe3971a54eb01bfca34dae3ed95f531ccbd1a2b610b530ac922f44"
-    },
-    "96.125.163.17": {
-      "confidence": 0.95,
-      "date": "2026-08-06 07:00:00",
-      "enriched_at": "2026-08-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Apple iCloud phishing site at 3f-icloud[.]com/fl26 hosted on Oracle Cloud (AS31898) at 96.125.163.17.",
-      "threat_type": "phishing",
-      "tweet_id": "2085259783813181568",
-      "type": "ip",
-      "value": "96.125.163.17"
-    },
-    "96a9a7b014a3a9925b4969b837501f88ae60345cb438dd2eddc721cc3d8c0ff6": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "96a9a7b014a3a9925b4969b837501f88ae60345cb438dd2eddc721cc3d8c0ff6"
     },
     "978645534.net": {
       "confidence": 0.98,
@@ -16363,24 +15882,6 @@
       "tweet_id": "2090934982953095549",
       "type": "sha256",
       "value": "a38a4cde2af1ff4830fa778780fc4031a384189edcfae5bf92152839fb22982e"
-    },
-    "a574173f6f46428bfbf852c9b9da1ed6ab4bdf11064fe719040ffffb271511be": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "sha256",
-      "value": "a574173f6f46428bfbf852c9b9da1ed6ab4bdf11064fe719040ffffb271511be"
     },
     "a5a9b99066d1d27899506a2bf138da3289f9c33fc4dc5b8fd76be9c32c2bf90a": {
       "confidence": 0.95,
@@ -17448,38 +16949,6 @@
       "tweet_id": "2093624547002265970",
       "type": "url",
       "value": "https://afterpartycandleco.com/gbjynqku/"
-    },
-    "agent.jpword.cc": {
-      "confidence": 0.87,
-      "date": "2026-08-06 08:29:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious IMG file containing VBS script communicating with jpword.cc and 122.10.117.3:8383 as C2; linked to Japanese purchase-order malspam.",
-      "threat_type": "malware",
-      "tweet_id": "2085282101403017672",
-      "type": "domain",
-      "value": "agent.jpword.cc"
-    },
-    "agent.jpword.cc/setup.pdf": {
-      "confidence": 0.87,
-      "date": "2026-08-06 08:29:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious IMG file containing VBS script communicating with jpword.cc and 122.10.117.3:8383 as C2; linked to Japanese purchase-order malspam.",
-      "threat_type": "malware",
-      "tweet_id": "2085282101403017672",
-      "type": "url",
-      "value": "https://agent.jpword.cc/setup.pdf"
     },
     "agwrlwr.xyz": {
       "confidence": 0.98,
@@ -18689,6 +18158,21 @@
       "type": "domain",
       "value": "api.us8266iw.xyz"
     },
+    "apk-google.cn": {
+      "confidence": 0.87,
+      "date": "2026-09-05 11:07:00",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android"
+      ],
+      "summary": "Google phishing page at apk-google.cn hosted on Alibaba in Hong Kong; APK-themed domain suggests Android lure.",
+      "threat_type": "phishing",
+      "tweet_id": "2096193372595626269",
+      "type": "domain",
+      "value": "apk-google.cn"
+    },
     "apm.hexin.cn": {
       "confidence": 0.87,
       "date": "2026-08-20 04:20:04",
@@ -19871,20 +19355,6 @@
       "type": "domain",
       "value": "badghatshop.com"
     },
-    "baf1edd4bf11b606aab1c1a574f3373685d0a71c1ddf264f53365098b685b3f9": {
-      "confidence": 0.97,
-      "date": "2026-08-06 11:15:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating Jochen Schweizer using fake PDF RFP lure with CAPTCHA and fake Microsoft login for credential harvesting.",
-      "threat_type": "phishing",
-      "tweet_id": "2085323966890000721",
-      "type": "sha256",
-      "value": "baf1edd4bf11b606aab1c1a574f3373685d0a71c1ddf264f53365098b685b3f9"
-    },
     "baihailing.com": {
       "confidence": 0.85,
       "date": "2026-08-10 02:08:15",
@@ -19997,6 +19467,21 @@
       "tweet_id": "2091428743705473079",
       "type": "domain",
       "value": "banderasbayvacationrentals.com"
+    },
+    "bankofamericanonline.com": {
+      "confidence": 0.97,
+      "date": "2026-09-05 12:01:21",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Bank of America phishing site hosted on Google Cloud via bankofamericanonline.com, registered through Name.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2096207052980814175",
+      "type": "domain",
+      "value": "bankofamericanonline.com"
     },
     "baouie2.club": {
       "confidence": 0.8,
@@ -20143,6 +19628,20 @@
       "tweet_id": "2089291476328939641",
       "type": "sha256",
       "value": "bc090d75f51c293d916c40d4b21094faaec191a42d97448c92d264875bf1f17b"
+    },
+    "bc48086b5b9d893ad51224fe7425914ed4d76ec14f01d3125b6a7289d774aa6e": {
+      "confidence": 0.62,
+      "date": "2026-09-05 08:49:06",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android"
+      ],
+      "summary": "Android local privilege escalation exploit sample shared; researcher notes AI-assisted LPE is increasingly accessible.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2096158669339590946",
+      "type": "sha256",
+      "value": "bc48086b5b9d893ad51224fe7425914ed4d76ec14f01d3125b6a7289d774aa6e"
     },
     "bc480c5e99cc86f26c33ea43d0fe8c68": {
       "confidence": 0.9,
@@ -22348,22 +21847,6 @@
       "type": "sha256",
       "value": "c350977580504f29104a7d8966891b073380496d1aefd2fd426da66f0f398c64"
     },
-    "c3db655f8db53640c013455f14e3fcf92a2e0a57df600726777cfb47073972cc": {
-      "confidence": 0.93,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "DoNot APT malicious Excel documents with shipping and invitation lures dropping dn110mploc.dll downloader DLL.",
-      "threat_type": "malware",
-      "tweet_id": "2085270695898997135",
-      "type": "sha256",
-      "value": "c3db655f8db53640c013455f14e3fcf92a2e0a57df600726777cfb47073972cc"
-    },
     "c4d8131276e43961e9460e5e6735bc718afd9d9e6eaefeab476cc042c5c38635": {
       "confidence": 0.82,
       "date": "2026-08-18 15:33:13",
@@ -22527,24 +22010,6 @@
       "tweet_id": "2091716762219786366",
       "type": "md5",
       "value": "c92d3d255e4e0cc98410b1bbffa80416"
-    },
-    "c92dd1c640c5c2ce75aed0fd62633c96591930b8dabf5b6e4ec406b827fde87a": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "sha256",
-      "value": "c92dd1c640c5c2ce75aed0fd62633c96591930b8dabf5b6e4ec406b827fde87a"
     },
     "c9561a3b00a0fa38b7772675d987f84bd429c55cd024fc08a98245c2d1632848": {
       "confidence": 0.95,
@@ -23052,6 +22517,22 @@
       "type": "sha256",
       "value": "cb50ef00f2f61f976ce80e301beccf5f96e5d474ee7cd358d93c3ffc30d0c50a"
     },
+    "cb5d4335ac73dc0cab2bbe6310fac64537352ed368049700d3993b53f6cf0884": {
+      "confidence": 0.88,
+      "date": "2026-09-05 07:00:45",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple etax-*.com phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2096131403025109209",
+      "type": "sha256",
+      "value": "cb5d4335ac73dc0cab2bbe6310fac64537352ed368049700d3993b53f6cf0884"
+    },
     "cb5f23db25beb1488652c6284e233c3bed51b14c645fcf4dbc5451294cb36251": {
       "confidence": 0.85,
       "date": "2026-08-07 10:59:00",
@@ -23351,22 +22832,6 @@
       "tweet_id": "2088224210116391104",
       "type": "sha256",
       "value": "cf033483cc323119f300d24a6b4a5b0b05ee3a5d8af6b07fd69123103111ad41"
-    },
-    "cf5436d33a4b9658ebb488522de84c52ce7d5de900fcb7abc6274997887289f6": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "cf5436d33a4b9658ebb488522de84c52ce7d5de900fcb7abc6274997887289f6"
     },
     "cfdd8d82fa71383c9ed92d1c21dd64b0eda3d8bb622d71be7205802269fe8e58": {
       "confidence": 0.9,
@@ -24929,42 +24394,6 @@
       "type": "domain",
       "value": "createssopasskey.com"
     },
-    "creativecurrentmedia.com": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "domain",
-      "value": "creativecurrentmedia.com"
-    },
-    "creativecurrentmedia.com/api/init/1ea26e48-510a-406a-97f2-8c220585f4c8": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "url",
-      "value": "https://creativecurrentmedia.com/api/init/1ea26e48-510a-406a-97f2-8c220585f4c8"
-    },
     "crimson-orbit-tdrnyc2s.expresshost.cloud": {
       "confidence": 0.85,
       "date": "2026-08-25 04:39:07",
@@ -25371,24 +24800,6 @@
       "type": "sha256",
       "value": "d03922043df8bc90b60236eb8c625e017151ca0f748e723745899d5e423cde6d"
     },
-    "d0428eeb54e6625605b4e3bc9007da53f70dc39a16b112dbeac395ea7ae89743": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "sha256",
-      "value": "d0428eeb54e6625605b4e3bc9007da53f70dc39a16b112dbeac395ea7ae89743"
-    },
     "d0cf38716e43563331c02cf645ecd993": {
       "confidence": 0.88,
       "date": "2026-08-20 07:34:56",
@@ -25438,22 +24849,6 @@
       "type": "sha256",
       "value": "d14d4bc85313b7e06535197bed53c5e8dce7da5922791c9ff36183e2bca0fad7"
     },
-    "d1e6d67b48b7832f57601f81ac8cd38fe5b2e817c118dc3fc8e713cf21f90fc6": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "d1e6d67b48b7832f57601f81ac8cd38fe5b2e817c118dc3fc8e713cf21f90fc6"
-    },
     "d28c4902-a.b-cdn.net": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -25486,24 +24881,6 @@
       "type": "md5",
       "value": "d2f245c8d6f7615f1274cfca61c5a26f"
     },
-    "d38c5641bcf7f5b8e7eb5caf369e487278e3cc7d1b3d6f9f5c2e2ac7d0bf1b21": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "sha256",
-      "value": "d38c5641bcf7f5b8e7eb5caf369e487278e3cc7d1b3d6f9f5c2e2ac7d0bf1b21"
-    },
     "d505e2297629a1cd2d9a85825cb0c7b02f19674a80f43216fd3fb365c22bca80": {
       "confidence": 0.75,
       "date": "2026-08-06 18:40:00",
@@ -25518,21 +24895,6 @@
       "tweet_id": "2085435802167734510",
       "type": "sha256",
       "value": "d505e2297629a1cd2d9a85825cb0c7b02f19674a80f43216fd3fb365c22bca80"
-    },
-    "d571b2027b88a131ba04ad035896977c": {
-      "confidence": 0.78,
-      "date": "2026-08-06 12:33:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "DLL sideloading campaign distributes malicious ZIP from pfbofa.com containing sideloaded DLL with C2 at v0hkpadr04mbz5lkearqa.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085343386723082532",
-      "type": "md5",
-      "value": "d571b2027b88a131ba04ad035896977c"
     },
     "d59f36ddcc7460bf5bcd9fde274982bb": {
       "confidence": 0.85,
@@ -25879,20 +25241,6 @@
       "type": "domain",
       "value": "damaicn.cc"
     },
-    "darkforums.ru": {
-      "confidence": 0.85,
-      "date": "2026-08-06 09:23:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New ransomware actor BARRACUDA (BRKD) operates Tor leak site and posts victim data on DarkForums.ru; contacted via Jabber and TOX.",
-      "threat_type": "ransomware",
-      "tweet_id": "2085295719045599403",
-      "type": "domain",
-      "value": "darkforums.ru"
-    },
     "dash-coon.top": {
       "confidence": 0.85,
       "date": "2026-08-09 06:00:16",
@@ -26187,24 +25535,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "december-humans-blend-word.trycloudflare.com"
-    },
-    "decoded-2.ps": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "domain",
-      "value": "decoded-2.ps"
     },
     "decorhomeproduct.info": {
       "confidence": 0.82,
@@ -26832,20 +26162,6 @@
       "tweet_id": "2091504455619412393",
       "type": "url",
       "value": "https://discord.gg/FreeUp"
-    },
-    "distinctiveonlinebrand.de": {
-      "confidence": 0.97,
-      "date": "2026-08-06 11:15:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating Jochen Schweizer using fake PDF RFP lure with CAPTCHA and fake Microsoft login for credential harvesting.",
-      "threat_type": "phishing",
-      "tweet_id": "2085323966890000721",
-      "type": "domain",
-      "value": "distinctiveonlinebrand.de"
     },
     "dl-trustwallet.com": {
       "confidence": 0.95,
@@ -27601,22 +26917,6 @@
       "type": "url",
       "value": "https://dossieretudiant.polymlt.ca/WebEtudiant7/poly.html"
     },
-    "download-center.online": {
-      "confidence": 0.92,
-      "date": "2026-08-06 12:20:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Malvertising via Bing ads for ManageEngine OpManager leads to trojanized ~269 MB installer download.",
-      "threat_type": "malware",
-      "tweet_id": "2085340125572035013",
-      "type": "domain",
-      "value": "download-center.online"
-    },
     "download-trustwallet.com": {
       "confidence": 0.95,
       "date": "2026-08-15 20:42:06",
@@ -28347,22 +27647,6 @@
       "type": "sha256",
       "value": "e84ec80f900a629e61a8af8323106dba506b0f40b6b3f295e4637251f842d7af"
     },
-    "e93fadfff4634a5b5fd77dba5705e761": {
-      "confidence": 0.95,
-      "date": "2026-08-06 06:59:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Joker Trojan discovered on Google Play Store in app com.pilots.atool.cleaner targeting Android devices.",
-      "threat_type": "malware",
-      "tweet_id": "2085259472948396046",
-      "type": "md5",
-      "value": "e93fadfff4634a5b5fd77dba5705e761"
-    },
     "e95095a09b0a9fa2a5b67783fe93c2f5679e00d3214c6ca4d94bef209ed4b545": {
       "confidence": 0.88,
       "date": "2026-08-20 04:28:27",
@@ -28391,22 +27675,6 @@
       "tweet_id": "2090355505973563838",
       "type": "sha256",
       "value": "e9c086c4309a3b60ad80b3ce8fe53a8bb8a171c5b6eb8da9f19c3eb316fb7cf7"
-    },
-    "eb14daab2c93da84c0daad05d3eaa50c6d4f4d4055f7d6000665a19c5fce3915": {
-      "confidence": 0.93,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "DoNot APT malicious Excel documents with shipping and invitation lures dropping dn110mploc.dll downloader DLL.",
-      "threat_type": "malware",
-      "tweet_id": "2085270695898997135",
-      "type": "sha256",
-      "value": "eb14daab2c93da84c0daad05d3eaa50c6d4f4d4055f7d6000665a19c5fce3915"
     },
     "eb289d5c-5.b-cdn.net": {
       "confidence": 0.98,
@@ -28480,20 +27748,6 @@
       "tweet_id": "2088734421729915223",
       "type": "md5",
       "value": "ece99b043edb41b85103417099a3033c"
-    },
-    "echohcp.care": {
-      "confidence": 0.97,
-      "date": "2026-08-06 11:15:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating Jochen Schweizer using fake PDF RFP lure with CAPTCHA and fake Microsoft login for credential harvesting.",
-      "threat_type": "phishing",
-      "tweet_id": "2085323966890000721",
-      "type": "domain",
-      "value": "echohcp.care"
     },
     "eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion": {
       "confidence": 0.9,
@@ -29083,6 +28337,86 @@
       "type": "domain",
       "value": "esrpos.posmasters.lk"
     },
+    "etax-olimw.com": {
+      "confidence": 0.88,
+      "date": "2026-09-05 07:00:45",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple etax-*.com phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2096131403025109209",
+      "type": "domain",
+      "value": "etax-olimw.com"
+    },
+    "etax-pliwka.com": {
+      "confidence": 0.88,
+      "date": "2026-09-05 07:00:45",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple etax-*.com phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2096131403025109209",
+      "type": "domain",
+      "value": "etax-pliwka.com"
+    },
+    "etax-plwads.com": {
+      "confidence": 0.88,
+      "date": "2026-09-05 07:00:45",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple etax-*.com phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2096131403025109209",
+      "type": "domain",
+      "value": "etax-plwads.com"
+    },
+    "etax-uwaiosd.com": {
+      "confidence": 0.88,
+      "date": "2026-09-05 07:00:45",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple etax-*.com phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2096131403025109209",
+      "type": "domain",
+      "value": "etax-uwaiosd.com"
+    },
+    "etax-wusasd.com": {
+      "confidence": 0.88,
+      "date": "2026-09-05 07:00:45",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service distributed via multiple etax-*.com phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2096131403025109209",
+      "type": "domain",
+      "value": "etax-wusasd.com"
+    },
     "etc.meisai.zywblog.com": {
       "confidence": 0.95,
       "date": "2026-08-20 23:24:49",
@@ -29416,20 +28750,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "f13682ae-e.b-cdn.net"
-    },
-    "f17c5438f826795499586b0bd122fbf6": {
-      "confidence": 0.8,
-      "date": "2026-08-06 07:53:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with ZIP attachment containing malicious .bat file disguised as a quotation request document dated 2026-08-05.",
-      "threat_type": "malware",
-      "tweet_id": "2085273126926275020",
-      "type": "md5",
-      "value": "f17c5438f826795499586b0bd122fbf6"
     },
     "f1bd5817678f498966f033f61b617dee5c8e81191901fea7c4a89146bfe91091": {
       "confidence": 0.7,
@@ -29810,22 +29130,6 @@
       "type": "sha256",
       "value": "facf78d474b66ed821288db41fa6ad8a7b6f30650eb12127cb3e9a3cc6146116"
     },
-    "fad4ceb5da3ca2a3457285823bc990a2e13e883bbf0471dda5e6c953a17291e0": {
-      "confidence": 0.93,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "DoNot APT malicious Excel documents with shipping and invitation lures dropping dn110mploc.dll downloader DLL.",
-      "threat_type": "malware",
-      "tweet_id": "2085270695898997135",
-      "type": "sha256",
-      "value": "fad4ceb5da3ca2a3457285823bc990a2e13e883bbf0471dda5e6c953a17291e0"
-    },
     "faq-app-trzor-suite.typedream.app": {
       "confidence": 0.98,
       "date": "2026-08-16 21:50:10",
@@ -30063,22 +29367,6 @@
       "type": "domain",
       "value": "fcp.tiu.mybluehost.me"
     },
-    "fd2d6f0dc2a61a8f4f09ad103dfb2cdd4b8965ed36dfa645b9d1396849bd250e": {
-      "confidence": 0.9,
-      "date": "2026-08-06 10:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "trojan"
-      ],
-      "summary": "APT-C-24 (Rattlesnake) malicious Excel docs use Workbook_Open VBA macros to download DLL and EXE payloads from C2 servers into C:\\ProgramData.",
-      "threat_type": "malware",
-      "tweet_id": "2085304887345090625",
-      "type": "sha256",
-      "value": "fd2d6f0dc2a61a8f4f09ad103dfb2cdd4b8965ed36dfa645b9d1396849bd250e"
-    },
     "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb": {
       "confidence": 0.87,
       "date": "2026-08-07 10:24:00",
@@ -30094,21 +29382,6 @@
       "tweet_id": "2085673388266369237",
       "type": "sha256",
       "value": "fd3ca4007b225fdf8de7af4345a19179d5efa8c4bb9205f88cda806e5684b1eb"
-    },
-    "fe109a9a24843e7f34d32bc715342fdd019ae3c6df308af4a581f130c89c0872": {
-      "confidence": 0.83,
-      "date": "2026-08-06 07:59:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with ZIP attachment containing malicious .js file communicating to ftp.3dsportsgins.com as C2.",
-      "threat_type": "malware",
-      "tweet_id": "2085274507795951684",
-      "type": "sha256",
-      "value": "fe109a9a24843e7f34d32bc715342fdd019ae3c6df308af4a581f130c89c0872"
     },
     "fe97d502bdac69d80d2dfb2fb15065556906393d02008e00e1c9c1af59319331": {
       "confidence": 0.6,
@@ -30441,6 +29714,22 @@
       "tweet_id": "2088625699493941341",
       "type": "domain",
       "value": "filedocusign.shop"
+    },
+    "finance-gov-pk.fetchdrives.info": {
+      "confidence": 0.93,
+      "date": "2026-09-05 08:51:25",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideWinder APT IOCs: fetchdrives.info subdomains used in spear-phishing against Pakistan Finance Division via malicious DOCX.",
+      "threat_type": "phishing",
+      "tweet_id": "2096159255233483246",
+      "type": "domain",
+      "value": "finance-gov-pk.fetchdrives.info"
     },
     "financialmarkets.info": {
       "confidence": 0.87,
@@ -31106,21 +30395,6 @@
       "tweet_id": "2086940734607724572",
       "type": "domain",
       "value": "fszzm.com"
-    },
-    "ftp.3dsportsgins.com": {
-      "confidence": 0.83,
-      "date": "2026-08-06 07:59:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with ZIP attachment containing malicious .js file communicating to ftp.3dsportsgins.com as C2.",
-      "threat_type": "malware",
-      "tweet_id": "2085274507795951684",
-      "type": "domain",
-      "value": "ftp.3dsportsgins.com"
     },
     "ftp.cuteops.fr": {
       "confidence": 0.9,
@@ -33615,20 +32889,6 @@
       "tweet_id": "2088727959175614655",
       "type": "domain",
       "value": "hearmenowradio.com"
-    },
-    "heitaeunlimited.com": {
-      "confidence": 0.97,
-      "date": "2026-08-06 11:15:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating Jochen Schweizer using fake PDF RFP lure with CAPTCHA and fake Microsoft login for credential harvesting.",
-      "threat_type": "phishing",
-      "tweet_id": "2085323966890000721",
-      "type": "domain",
-      "value": "heitaeunlimited.com"
     },
     "helengarentals.com": {
       "confidence": 0.95,
@@ -36801,20 +36061,6 @@
       "type": "domain",
       "value": "jd09_109_r01000331_202608.zip"
     },
-    "jdmsortlng.com": {
-      "confidence": 0.97,
-      "date": "2026-08-06 11:15:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign impersonating Jochen Schweizer using fake PDF RFP lure with CAPTCHA and fake Microsoft login for credential harvesting.",
-      "threat_type": "phishing",
-      "tweet_id": "2085323966890000721",
-      "type": "domain",
-      "value": "jdmsortlng.com"
-    },
     "jebwpgkoaiee.top": {
       "confidence": 0.9,
       "date": "2026-08-10 01:39:07",
@@ -37269,38 +36515,6 @@
       "tweet_id": "2086635708375028154",
       "type": "domain",
       "value": "joyopposites.com"
-    },
-    "jpword.cc": {
-      "confidence": 0.87,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with fake purchase order PDF linking to w1mail.com; downloads IMG file beaconing to jpword.cc:8383 and 122.10.117.3:8383.",
-      "threat_type": "malware",
-      "tweet_id": "2085270818209374435",
-      "type": "domain",
-      "value": "jpword.cc"
-    },
-    "jpword.cc:8383": {
-      "confidence": 0.87,
-      "date": "2026-08-06 08:29:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Malicious IMG file containing VBS script communicating with jpword.cc and 122.10.117.3:8383 as C2; linked to Japanese purchase-order malspam.",
-      "threat_type": "malware",
-      "tweet_id": "2085282101403017672",
-      "type": "url",
-      "value": "https://jpword.cc:8383"
     },
     "jpxnziiujbcvf.top": {
       "confidence": 0.9,
@@ -40861,20 +40075,6 @@
       "type": "domain",
       "value": "meshcore.nephelae-cloud.com"
     },
-    "metamask-login-11.gitbook.io": {
-      "confidence": 0.98,
-      "date": "2026-08-06 12:00:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "MetaMask cryptocurrency wallet phishing page hosted on gitbook.io via Cloudflare infrastructure.",
-      "threat_type": "phishing",
-      "tweet_id": "2085335284011430121",
-      "type": "domain",
-      "value": "metamask-login-11.gitbook.io"
-    },
     "metamasky.com": {
       "confidence": 0.95,
       "date": "2026-08-15 20:42:06",
@@ -42124,21 +41324,6 @@
       "tweet_id": "2088261925574492649",
       "type": "domain",
       "value": "moxcz.com"
-    },
-    "mr-156528.zip": {
-      "confidence": 0.83,
-      "date": "2026-08-06 07:59:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with ZIP attachment containing malicious .js file communicating to ftp.3dsportsgins.com as C2.",
-      "threat_type": "malware",
-      "tweet_id": "2085274507795951684",
-      "type": "domain",
-      "value": "mr-156528.zip"
     },
     "mrhs-aps.online": {
       "confidence": 0.98,
@@ -44485,22 +43670,6 @@
       "type": "domain",
       "value": "opensea-session443.onrender.com"
     },
-    "opmanager.pro": {
-      "confidence": 0.92,
-      "date": "2026-08-06 12:20:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Malvertising via Bing ads for ManageEngine OpManager leads to trojanized ~269 MB installer download.",
-      "threat_type": "malware",
-      "tweet_id": "2085340125572035013",
-      "type": "domain",
-      "value": "opmanager.pro"
-    },
     "opt.jcd666.vip": {
       "confidence": 0.87,
       "date": "2026-08-10 21:17:12",
@@ -44863,20 +44032,6 @@
       "tweet_id": "2087968705233801507",
       "type": "domain",
       "value": "paraminasconstrucao.com"
-    },
-    "paranoid.network": {
-      "confidence": 0.85,
-      "date": "2026-08-06 09:23:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New ransomware actor BARRACUDA (BRKD) operates Tor leak site and posts victim data on DarkForums.ru; contacted via Jabber and TOX.",
-      "threat_type": "ransomware",
-      "tweet_id": "2085295719045599403",
-      "type": "domain",
-      "value": "paranoid.network"
     },
     "parentpreneurx.com": {
       "confidence": 0.9,
@@ -45270,36 +44425,6 @@
       "type": "domain",
       "value": "pet.opx.mybluehost.me"
     },
-    "pfbofa.com": {
-      "confidence": 0.78,
-      "date": "2026-08-06 12:33:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "DLL sideloading campaign distributes malicious ZIP from pfbofa.com containing sideloaded DLL with C2 at v0hkpadr04mbz5lkearqa.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085343386723082532",
-      "type": "domain",
-      "value": "pfbofa.com"
-    },
-    "pfbofa.com/pfbofa.zip": {
-      "confidence": 0.78,
-      "date": "2026-08-06 12:33:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "DLL sideloading campaign distributes malicious ZIP from pfbofa.com containing sideloaded DLL with C2 at v0hkpadr04mbz5lkearqa.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085343386723082532",
-      "type": "url",
-      "value": "https://pfbofa.com/pfbofa.zip"
-    },
     "phlsky.com": {
       "confidence": 0.85,
       "date": "2026-08-10 02:08:15",
@@ -45476,6 +44601,22 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "pjn.kjz.mybluehost.me"
+    },
+    "pk.fetchdrives.info": {
+      "confidence": 0.93,
+      "date": "2026-09-05 08:51:25",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideWinder APT IOCs: fetchdrives.info subdomains used in spear-phishing against Pakistan Finance Division via malicious DOCX.",
+      "threat_type": "phishing",
+      "tweet_id": "2096159255233483246",
+      "type": "domain",
+      "value": "pk.fetchdrives.info"
     },
     "pl06_106_r01000331_20260824.zip": {
       "confidence": 0.87,
@@ -50473,20 +49614,6 @@
       "type": "domain",
       "value": "smnoz.dynu.org"
     },
-    "smtp.hostinger.com": {
-      "confidence": 0.82,
-      "date": "2026-08-06 08:03:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Japanese-language malspam with .tar attachment containing malicious .js file using Hostinger SMTP infrastructure for delivery.",
-      "threat_type": "malware",
-      "tweet_id": "2085275624449708515",
-      "type": "domain",
-      "value": "smtp.hostinger.com"
-    },
     "smtp.hostinger.com:587": {
       "confidence": 0.9,
       "date": "2026-08-06 14:35:00",
@@ -50934,22 +50061,6 @@
       "tweet_id": "2090363532218880234",
       "type": "domain",
       "value": "spyroid.net"
-    },
-    "sqllq.com": {
-      "confidence": 0.85,
-      "date": "2026-08-06 12:10:00",
-      "enriched_at": "2026-09-05T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "clickfix",
-        "fakecaptcha"
-      ],
-      "summary": "Webamon daily brief: sqllq.com subdomain phishing (1,476 new domains), ClickFix fake-Cloudflare delivery (242 domains, high churn), fake CAPTCHA active.",
-      "threat_type": "phishing",
-      "tweet_id": "2085337645261979903",
-      "type": "domain",
-      "value": "sqllq.com"
     },
     "srt.kizlarburada.click": {
       "confidence": 0.98,
@@ -53468,62 +52579,6 @@
       "tweet_id": "2092109492695491017",
       "type": "domain",
       "value": "tljt369.com"
-    },
-    "tlktok.heiodora.com": {
-      "confidence": 0.95,
-      "date": "2026-08-06 08:06:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating TikTok targeting Japanese users with a fake credit limit inquiry URL at tlktok.heiodora.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2085276299489427589",
-      "type": "domain",
-      "value": "tlktok.heiodora.com"
-    },
-    "tlktok.heiodora.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840": {
-      "confidence": 0.95,
-      "date": "2026-08-06 08:06:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating TikTok targeting Japanese users with a fake credit limit inquiry URL at tlktok.heiodora.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2085276299489427589",
-      "type": "url",
-      "value": "https://tlktok.heiodora.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840"
-    },
-    "tlktok.maurenou.com": {
-      "confidence": 0.96,
-      "date": "2026-08-06 08:02:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "TikTok phishing site targeting Japanese users via tlktok.maurenou.com with fake credit limit inquiry path on AS45102.",
-      "threat_type": "phishing",
-      "tweet_id": "2085275278281175109",
-      "type": "domain",
-      "value": "tlktok.maurenou.com"
-    },
-    "tlktok.maurenou.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/d10203840": {
-      "confidence": 0.96,
-      "date": "2026-08-06 08:02:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "TikTok phishing site targeting Japanese users via tlktok.maurenou.com with fake credit limit inquiry path on AS45102.",
-      "threat_type": "phishing",
-      "tweet_id": "2085275278281175109",
-      "type": "url",
-      "value": "https://tlktok.maurenou.com/security/ap/loginlogout/login/creditlimit/inquirycreditlimit/D10203840"
     },
     "tlnktlanmana.net": {
       "confidence": 0.98,
@@ -56996,20 +56051,6 @@
       "type": "domain",
       "value": "uukuz.wanjiangmei.com"
     },
-    "uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion": {
-      "confidence": 0.85,
-      "date": "2026-08-06 09:23:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New ransomware actor BARRACUDA (BRKD) operates Tor leak site and posts victim data on DarkForums.ru; contacted via Jabber and TOX.",
-      "threat_type": "ransomware",
-      "tweet_id": "2085295719045599403",
-      "type": "domain",
-      "value": "uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion"
-    },
     "uyu.ker.mybluehost.me": {
       "confidence": 0.95,
       "date": "2026-08-17 21:14:37",
@@ -58089,22 +57130,6 @@
       "type": "domain",
       "value": "w.zukwalletclaim.com"
     },
-    "w1mail.com": {
-      "confidence": 0.87,
-      "date": "2026-08-06 07:44:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2",
-        "trojan"
-      ],
-      "summary": "Japanese-language malspam with fake purchase order PDF linking to w1mail.com; downloads IMG file beaconing to jpword.cc:8383 and 122.10.117.3:8383.",
-      "threat_type": "malware",
-      "tweet_id": "2085270818209374435",
-      "type": "domain",
-      "value": "w1mail.com"
-    },
     "w50kzn94.xyz": {
       "confidence": 0.93,
       "date": "2026-08-12 00:13:07",
@@ -58282,42 +57307,6 @@
       "tweet_id": "2086635708375028154",
       "type": "domain",
       "value": "wanderlustjar.com"
-    },
-    "wandertalesblog.com": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "domain",
-      "value": "wandertalesblog.com"
-    },
-    "wandertalesblog.com/api/init/1ea26e48-510a-406a-97f2-8c220585f4c8": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "url",
-      "value": "https://wandertalesblog.com/api/init/1ea26e48-510a-406a-97f2-8c220585f4c8"
     },
     "warqwrghw.xyz": {
       "confidence": 0.98,
@@ -59171,20 +58160,6 @@
       "type": "domain",
       "value": "wrappiness.co"
     },
-    "writetousbrkdat2mail.co": {
-      "confidence": 0.85,
-      "date": "2026-08-06 09:23:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New ransomware actor BARRACUDA (BRKD) operates Tor leak site and posts victim data on DarkForums.ru; contacted via Jabber and TOX.",
-      "threat_type": "ransomware",
-      "tweet_id": "2085295719045599403",
-      "type": "domain",
-      "value": "writetousbrkdat2mail.co"
-    },
     "wrproducoes.com.br": {
       "confidence": 0.95,
       "date": "2026-08-13 11:36:37",
@@ -59365,6 +58340,22 @@
       "tweet_id": "2092554043709329808",
       "type": "url",
       "value": "https://wwufzpm.cn/rlEIdbAG/"
+    },
+    "www-finance-gov-pk.fetchdrives.info": {
+      "confidence": 0.93,
+      "date": "2026-09-05 08:51:25",
+      "enriched_at": "2026-09-05T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "apt",
+        "malware"
+      ],
+      "summary": "SideWinder APT IOCs: fetchdrives.info subdomains used in spear-phishing against Pakistan Finance Division via malicious DOCX.",
+      "threat_type": "phishing",
+      "tweet_id": "2096159255233483246",
+      "type": "domain",
+      "value": "www-finance-gov-pk.fetchdrives.info"
     },
     "www-itausegurancas.rf.gd": {
       "confidence": 0.95,
@@ -59652,24 +58643,6 @@
       "tweet_id": "2086924852993073222",
       "type": "url",
       "value": "http://www.jingdon8.com"
-    },
-    "www.letsdiskuss.com/user/dhuahsd12d2752": {
-      "confidence": 0.9,
-      "date": "2026-08-06 08:50:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Boxter malware uses trojanized Microsoft Teams installer to deploy PowerShell loaders, inject shellcode in-memory, and beacon C2 via blogging platforms.",
-      "threat_type": "malware",
-      "tweet_id": "2085287319612133566",
-      "type": "url",
-      "value": "https://www.letsdiskuss.com/user/dhuahsd12d2752"
     },
     "www.login-accounts.dynu.net": {
       "confidence": 0.88,
@@ -62726,6 +61699,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-05T06:40:04Z",
+  "generated_at": "2026-09-05T12:40:04Z",
   "window_days": 30
 }
