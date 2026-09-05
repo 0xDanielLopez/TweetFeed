@@ -1,10 +1,6 @@
 {
-  "count": 4162,
+  "count": 4155,
   "dead_tweets": {
-    "2082982439425560754": {
-      "attempts": 2,
-      "last_attempt": "2026-08-29T06:40:04Z"
-    },
     "2083405583823126654": {
       "attempts": 2,
       "last_attempt": "2026-08-31T18:40:04Z"
@@ -26,8 +22,8 @@
       "last_attempt": "2026-08-31T18:40:04Z"
     },
     "2087799248439902618": {
-      "attempts": 1,
-      "last_attempt": "2026-09-05T00:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-09-05T06:40:04Z"
     }
   },
   "entries": {
@@ -639,22 +635,6 @@
       "tweet_id": "2089400926507274706",
       "type": "sha256",
       "value": "07c9e525a4c2196234ea5f8d588916e23c9ac49a0df837a002b283eceb6ca5c0"
-    },
-    "0822e2e190d05897cb3594fb868370d4": {
-      "confidence": 0.92,
-      "date": "2026-08-06 05:55:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": "Joker",
-      "suggested_tags": [
-        "android",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Joker Trojan found on Google Play in com.ultraclean.optimizeapp; MD5: 0822e2e190d05897cb3594fb868370d4",
-      "threat_type": "malware",
-      "tweet_id": "2085243321925140490",
-      "type": "md5",
-      "value": "0822e2e190d05897cb3594fb868370d4"
     },
     "0830a7330c3b6fbf799ff5481048f6784342b16e456b2ac8c0fb645baa00fea6": {
       "confidence": 0.9,
@@ -4228,23 +4208,6 @@
       "type": "url",
       "value": "http://170.62.130.47:449"
     },
-    "171.229.217.2": {
-      "confidence": 0.72,
-      "date": "2026-08-06 02:21:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": "AMOS",
-      "suggested_tags": [
-        "c2",
-        "amosstealer",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "C2 control panel at 171.229.217.2:3000; reported by same researchers tracking AMOS stealer panels",
-      "threat_type": "c2",
-      "tweet_id": "2085189426335154410",
-      "type": "ip",
-      "value": "171.229.217.2"
-    },
     "172.245.10.140": {
       "confidence": 0.72,
       "date": "2026-08-21 14:14:42",
@@ -5500,6 +5463,21 @@
       "tweet_id": "2091571392420467110",
       "type": "ip",
       "value": "192.185.216.47"
+    },
+    "192.238.160.133": {
+      "confidence": 0.95,
+      "date": "2026-08-06 21:29:00",
+      "enriched_at": "2026-09-05T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "banker"
+      ],
+      "summary": "Rakuten Bank phishing campaign using ra-kusdoawds.com and ra-posadwad.com targeting Japanese banking credentials, hosted on AS138995 Antbox Networks.",
+      "threat_type": "phishing",
+      "tweet_id": "2085478409447374973",
+      "type": "ip",
+      "value": "192.238.160.133"
     },
     "192.252.178.228": {
       "confidence": 0.82,
@@ -7297,23 +7275,6 @@
       "type": "url",
       "value": "http://20billionn.ddns.net:62699"
     },
-    "212.119.42.58": {
-      "confidence": 0.9,
-      "date": "2026-08-06 03:24:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": "AMOS",
-      "suggested_tags": [
-        "c2",
-        "amosstealer",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "Atomic stealer (AMOS) C2 panel identified at 212.119.42.58:3000 and atomicpanel.duckdns.org",
-      "threat_type": "c2",
-      "tweet_id": "2085205219554566219",
-      "type": "ip",
-      "value": "212.119.42.58"
-    },
     "212acf6988a147dc48a67ac51cbd267121791f8f79ae733698c614ab56511fa6": {
       "confidence": 0.8,
       "date": "2026-08-09 09:33:00",
@@ -9030,22 +8991,6 @@
       "type": "md5",
       "value": "374c7a1815373b88dd4723a405d8c7a3"
     },
-    "37f3156a3de77d3470a09029dc3fcfa5": {
-      "confidence": 0.92,
-      "date": "2026-08-06 05:53:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": "Joker",
-      "suggested_tags": [
-        "android",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Joker Trojan found on Google Play in com.cachefc.clean.masterxvhsjk; MD5: 37f3156a3de77d3470a09029dc3fcfa5",
-      "threat_type": "malware",
-      "tweet_id": "2085242862078509239",
-      "type": "md5",
-      "value": "37f3156a3de77d3470a09029dc3fcfa5"
-    },
     "38.134.148.214": {
       "confidence": 0.85,
       "date": "2026-08-19 10:55:32",
@@ -9405,22 +9350,6 @@
       "tweet_id": "2090411885925736919",
       "type": "sha256",
       "value": "3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a"
-    },
-    "3f5393dc8ce0ab48fb0c4639b345bd60": {
-      "confidence": 0.95,
-      "date": "2026-08-06 06:30:00",
-      "enriched_at": "2026-08-06T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "trojan",
-        "malware"
-      ],
-      "summary": "Joker Trojan discovered on Google Play Store in app com.pureplus.fileguardclean targeting Android devices.",
-      "threat_type": "malware",
-      "tweet_id": "2085252246217101580",
-      "type": "md5",
-      "value": "3f5393dc8ce0ab48fb0c4639b345bd60"
     },
     "3f95b05881b55ef778c5388183973f980548d94782a82c9086430cd953dfe883": {
       "confidence": 0.2,
@@ -27995,20 +27924,6 @@
       "type": "domain",
       "value": "dsadasasdasasdadsdasdsaadsdas.com"
     },
-    "dslkk.cn": {
-      "confidence": 0.87,
-      "date": "2026-08-06 01:55:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VJA (Japanese organization) hosted at dslkk.cn/login",
-      "threat_type": "phishing",
-      "tweet_id": "2085182979777954073",
-      "type": "domain",
-      "value": "dslkk.cn"
-    },
     "du-a2026081702100.zip": {
       "confidence": 0.87,
       "date": "2026-08-20 04:20:04",
@@ -45636,20 +45551,6 @@
       "type": "domain",
       "value": "plugandpwn.com"
     },
-    "pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion": {
-      "confidence": 0.8,
-      "date": "2026-08-06 03:18:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": "Panzer",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "New Panzer ransomware group recruiting affiliates; 80/20 split; multi-platform lockers for Windows, Linux, ESXi, FreeBSD; onion leak site active",
-      "threat_type": "ransomware",
-      "tweet_id": "2085040081098690995",
-      "type": "domain",
-      "value": "pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion"
-    },
     "point-plsidaw.com": {
       "confidence": 0.85,
       "date": "2026-09-01 00:31:39",
@@ -59663,20 +59564,6 @@
       "type": "url",
       "value": "http://www.dongjiaotcn.com"
     },
-    "www.dslkk.cn/login": {
-      "confidence": 0.87,
-      "date": "2026-08-06 01:55:00",
-      "enriched_at": "2026-08-06T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating VJA (Japanese organization) hosted at dslkk.cn/login",
-      "threat_type": "phishing",
-      "tweet_id": "2085182979777954073",
-      "type": "url",
-      "value": "https://www.dslkk.cn/login"
-    },
     "www.facebook.com/gononstopukraine": {
       "confidence": 0.65,
       "date": "2026-08-21 11:31:43",
@@ -62839,6 +62726,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-05T00:40:04Z",
+  "generated_at": "2026-09-05T06:40:04Z",
   "window_days": 30
 }

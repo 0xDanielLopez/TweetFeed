@@ -1,5 +1,5 @@
 {
-  "campaign_count": 45,
+  "campaign_count": 44,
   "campaigns": [
     {
       "activity": {
@@ -443,7 +443,7 @@
       ],
       "name": "Crypto phishing targeting Binance, Ledger, Trezor and Bybit",
       "related": {
-        "checked_at": "2026-09-04T06:56:16Z",
+        "checked_at": "2026-09-05T06:43:57Z",
         "match_count": 3,
         "matches": [
           {
@@ -904,7 +904,7 @@
         }
       ],
       "ioc_count": 88,
-      "ioc_count_1d": 2,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 88,
       "ioc_count_7d": 6,
       "iocs": [
@@ -1753,7 +1753,7 @@
     },
     {
       "activity": {
-        "2026-08-09": 68
+        "2026-08-09": 78
       },
       "anchors": {
         "registered_domains": [
@@ -1785,6 +1785,11 @@
           "hmnislmnkts.net",
           "hmnislmnktsan.net",
           "hmnismlntans.net",
+          "islemkhemennktasi.net",
+          "islemnokta-nasita.net",
+          "islemnoktasihemenne.net",
+          "islemnoktasihemn.net",
+          "islemnoktnasni.net",
           "sonuc-baksrnaltas.net",
           "sonuc-islemkantas.net",
           "sonuc-islemonktans.net",
@@ -1797,7 +1802,7 @@
       },
       "confidence": "medium",
       "context": "Multiple waves of Turkish-language .net domains impersonate Turkey's MHRS central physician appointment portal. Domain prefixes include hemen-, hmnis-, islem-, and sonuc- combined with appointment-system word fragments. One reporter flagged 200-plus fake domains targeting Turkish citizens seeking medical appointments on 2026-08-09.",
-      "enriched_count": 68,
+      "enriched_count": 78,
       "families": {},
       "first_seen": "2026-08-09",
       "history": {
@@ -1811,19 +1816,24 @@
             "domains_365d": 6,
             "first_seen_365d": "2026-08-09",
             "regex": "^sonuc[a-z0-9-]{10,14}\\.net$"
+          },
+          {
+            "domains_365d": 5,
+            "first_seen_365d": "2026-08-09",
+            "regex": "^islem[a-z0-9-]{9,14}\\.net$"
           }
         ],
-        "domains_365d": 34,
+        "domains_365d": 39,
         "first_seen_365d": "2026-08-09",
-        "iocs_365d": 68,
+        "iocs_365d": 78,
         "iocs_before_window": 0,
         "last_seen_365d": "2026-08-09",
         "window_days": 365
       },
       "id": "tfc-6d1d0b38e121",
-      "ioc_count": 68,
+      "ioc_count": 78,
       "ioc_count_1d": 0,
-      "ioc_count_30d": 68,
+      "ioc_count_30d": 78,
       "ioc_count_7d": 0,
       "iocs": [
         {
@@ -1874,9 +1884,9 @@
             "#phishing"
           ],
           "tweet": "https://x.com/skocherhan/status/2086592966127177859",
-          "type": "url",
+          "type": "domain",
           "user": "skocherhan",
-          "value": "http://hmnislmnkts.net"
+          "value": "islemnokta-nasita.net"
         },
         {
           "ai": {
@@ -1955,32 +1965,6 @@
           "type": "url",
           "user": "skocherhan",
           "value": "http://hmnislemnktans.net"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-09 23:18:24",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2086592966127177859",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://hemenislemnoktasnin.net"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-09 23:18:24",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2086592966127177859",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://hemenislemnktsi.net"
         },
         {
           "ai": {
@@ -2134,6 +2118,32 @@
             "#phishing"
           ],
           "tweet": "https://x.com/skocherhan/status/2086583761274012009",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "islemnoktasihemenne.net"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-08-09 22:41:50",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2086583761274012009",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "islemkhemennktasi.net"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-08-09 22:41:50",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2086583761274012009",
           "type": "url",
           "user": "skocherhan",
           "value": "http://hemenislemnktasna.net"
@@ -2156,7 +2166,8 @@
       "member_cluster_ids": [
         "tfc-6d1d0b38e121",
         "tfc-267a534dad7f",
-        "tfc-d6206dd76567"
+        "tfc-d6206dd76567",
+        "tfc-2378b4a213a0"
       ],
       "name": "MHRS appointment phishing on hemen-prefixed .net domains",
       "patterns": [
@@ -2185,6 +2196,19 @@
           "ioc_count": 12,
           "last_seen": "2026-08-09",
           "regex": "^sonuc[a-z0-9-]{10,14}\\.net$"
+        },
+        {
+          "domain_count": 5,
+          "domains_elsewhere_30d": 0,
+          "examples": [
+            "islemkhemennktasi.net",
+            "islemnokta-nasita.net",
+            "islemnoktasihemenne.net"
+          ],
+          "first_seen": "2026-08-09",
+          "ioc_count": 10,
+          "last_seen": "2026-08-09",
+          "regex": "^islem[a-z0-9-]{9,14}\\.net$"
         }
       ],
       "reporters": [
@@ -2197,15 +2221,15 @@
       "targeted_country": "TR",
       "targeted_sector": "healthcare",
       "threat_types": {
-        "phishing": 68
+        "phishing": 78
       },
       "ttps": [
         "T1566.002",
         "T1583.001"
       ],
       "types": {
-        "domain": 34,
-        "url": 34
+        "domain": 39,
+        "url": 39
       }
     },
     {
@@ -2648,7 +2672,7 @@
         }
       ],
       "ioc_count": 59,
-      "ioc_count_1d": 2,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 59,
       "ioc_count_7d": 2,
       "iocs": [
@@ -3063,13 +3087,12 @@
     },
     {
       "activity": {
-        "2026-08-05": 2,
         "2026-08-10": 4,
         "2026-08-18": 2,
         "2026-08-19": 1,
-        "2026-08-20": 13,
-        "2026-08-24": 17,
-        "2026-08-25": 16
+        "2026-08-20": 14,
+        "2026-08-24": 19,
+        "2026-08-25": 17
       },
       "anchors": {
         "families": [
@@ -3080,17 +3103,17 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "ValleyRAT C2 infrastructure bucket attributed via local enrichment, covering IPs, MD5 hashes, and SHA256 hashes with no registered domains. C2 IPs include 121.127.253.206 on CTG Server Limited (HK) and 156.251.16.29 used for PNG staging. Grouping is based on malware family attribution rather than shared domain or URL patterns. Four reporters flagged indicators from 2026-08-04 to 2026-08-25.",
-      "enriched_count": 55,
+      "context": "ValleyRAT C2 infrastructure bucket attributed via local enrichment, covering IPs, MD5 hashes, and SHA256 hashes with no registered domains. C2 IPs include 121.127.253.206, 202.146.222.95, and 202.61.140.222; sideloading DLLs such as nW_Elf.dll appear among the shared hashes. Grouping is based on malware family attribution rather than shared domain or URL patterns. Three reporters flagged 57 indicators from 2026-08-10 to 2026-08-25.",
+      "enriched_count": 57,
       "families": {
-        "ValleyRAT": 55
+        "ValleyRAT": 57
       },
-      "first_seen": "2026-08-05",
+      "first_seen": "2026-08-10",
       "id": "tfc-b11700d6b3c1",
       "infra": [
         {
           "country": "HK",
-          "ip_count": 3,
+          "ip_count": 5,
           "org": "AS152194 CTG Server Limited"
         },
         {
@@ -3119,9 +3142,9 @@
           "org": "AS979 NetLab Global"
         }
       ],
-      "ioc_count": 55,
+      "ioc_count": 57,
       "ioc_count_1d": 0,
-      "ioc_count_30d": 55,
+      "ioc_count_30d": 57,
       "ioc_count_7d": 0,
       "iocs": [
         {
@@ -3135,6 +3158,22 @@
           "type": "sha256",
           "user": "bomccss",
           "value": "320763f4ac63a15f2a9b690c1d7adc753c3d8665b1371578f80a25417673ec95"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-25 09:40:50",
+          "net": {
+            "country": "HK",
+            "org": "AS152194 CTG Server Limited"
+          },
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2092185421711331386",
+          "type": "ip",
+          "user": "bomccss",
+          "value": "121.127.253.206"
         },
         {
           "ai": {
@@ -3363,18 +3402,6 @@
         {
           "ai": {
             "family": "ValleyRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-24 07:31:35",
-          "tags": [],
-          "tweet": "https://x.com/tdatwja/status/2091790507085373910",
-          "type": "sha256",
-          "user": "tdatwja",
-          "value": "facf78d474b66ed821288db41fa6ad8a7b6f30650eb12127cb3e9a3cc6146116"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
             "threat_type": "c2"
           },
           "date": "2026-08-24 07:31:34",
@@ -3472,14 +3499,14 @@
       "targeted_country": null,
       "targeted_sector": null,
       "threat_types": {
-        "c2": 16,
+        "c2": 18,
         "malware": 39
       },
       "ttps": [
         "T1071.001"
       ],
       "types": {
-        "ip": 15,
+        "ip": 17,
         "md5": 14,
         "sha256": 26
       }
@@ -3940,7 +3967,7 @@
       "ioc_count": 48,
       "ioc_count_1d": 0,
       "ioc_count_30d": 48,
-      "ioc_count_7d": 6,
+      "ioc_count_7d": 2,
       "iocs": [
         {
           "ai": {
@@ -4734,491 +4761,6 @@
     },
     {
       "activity": {
-        "2026-08-05": 1,
-        "2026-08-14": 10,
-        "2026-08-17": 21
-      },
-      "anchors": {
-        "registered_domains": [
-          "0306sendrat.duckdns.org",
-          "08yvh4.com",
-          "0906envdcrat.duckdns.org",
-          "100blackmenofsanantonio.org",
-          "andresherrerapi66.gleeze.com",
-          "app-bitmoon.fun",
-          "connect-bitmoon.fun",
-          "github.com",
-          "portal-bitmoon.fun",
-          "qq8875.online",
-          "rewards-bitmoon.fun",
-          "sharjahaquarium.com",
-          "trade-bitmoon.fun",
-          "verify-bitmoon.fun"
-        ],
-        "tags": [
-          "#AsyncRAT",
-          "#Dcrat",
-          "#Xworm"
-        ],
-        "url_path_patterns": [
-          "/jhfgdafsdgsfhdgjfhk"
-        ]
-      },
-      "confidence": "medium",
-      "context": "DcRat, AsyncRAT, and XWorm C2 infrastructure spans bitmoon-themed domains (app-bitmoon.fun, trade-bitmoon.fun, verify-bitmoon.fun), a gleeze.com subdomain, DuckDNS nodes, and a GitHub repository. The bitmoon cluster suggests a fake crypto platform used as a social-engineering lure. Enrichment attributes 31 DcRat and 3 AsyncRAT samples to this infrastructure.",
-      "enriched_count": 32,
-      "families": {
-        "AsyncRAT": 1,
-        "dcrat": 31
-      },
-      "first_seen": "2026-08-05",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 14,
-        "first_seen_365d": "2025-09-08",
-        "iocs_365d": 196,
-        "iocs_before_window": 149,
-        "last_seen_365d": "2026-08-24",
-        "window_days": 365
-      },
-      "id": "tfc-5d3456bc193c",
-      "infra": [
-        {
-          "country": "DE",
-          "ip_count": 1,
-          "org": "AS202412 Omegatech LTD"
-        },
-        {
-          "country": "NL",
-          "ip_count": 1,
-          "org": "AS212477 RoyaleHosting BV"
-        }
-      ],
-      "ioc_count": 32,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 32,
-      "ioc_count_7d": 0,
-      "iocs": [
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "verify-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "trade-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "sharjahaquarium.com"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "rewards-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "portal-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://portal-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://github.com/jhfgdafsdgsfhdgjfhk"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://connect-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://app-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://andresherrerapi66.gleeze.com"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://78.17.71.8:5025"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "connect-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "app-bitmoon.fun"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "andresherrerapi66.gleeze.com"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-17 19:15:27",
-          "net": {
-            "country": "NL",
-            "org": "AS212477 RoyaleHosting BV"
-          },
-          "tags": [
-            "#AsyncRAT",
-            "#Dcrat",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
-          "type": "ip",
-          "user": "skocherhan",
-          "value": "78.17.71.8"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "url",
-          "user": "teamcymru_S2",
-          "value": "http://100blackmenofsanantonio.org"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "url",
-          "user": "teamcymru_S2",
-          "value": "http://1.qq8875.online"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "url",
-          "user": "teamcymru_S2",
-          "value": "http://0906envdcrat.duckdns.org"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "url",
-          "user": "teamcymru_S2",
-          "value": "http://08yvh4.com"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "url",
-          "user": "teamcymru_S2",
-          "value": "http://0306sendrat.duckdns.org"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "domain",
-          "user": "teamcymru_S2",
-          "value": "100blackmenofsanantonio.org"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "domain",
-          "user": "teamcymru_S2",
-          "value": "1.qq8875.online"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "domain",
-          "user": "teamcymru_S2",
-          "value": "0906envdcrat.duckdns.org"
-        },
-        {
-          "ai": {
-            "family": "dcrat",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-14 13:13:15",
-          "tags": [
-            "#Dcrat"
-          ],
-          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
-          "type": "domain",
-          "user": "teamcymru_S2",
-          "value": "08yvh4.com"
-        },
-        {
-          "ai": {
-            "family": "AsyncRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-05 17:30:00",
-          "tags": [],
-          "tweet": "https://x.com/bomccss/status/2085055822833566010",
-          "type": "sha256",
-          "user": "bomccss",
-          "value": "47c4077decff58ceefe85ccf98d172456d8b3f9aab7f6bf8ce237ff67c718880"
-        }
-      ],
-      "last_seen": "2026-08-17",
-      "member_cluster_ids": [
-        "tfc-5d3456bc193c"
-      ],
-      "name": "DcRat and AsyncRAT C2 on bitmoon-themed and DDNS domains",
-      "reporters": [
-        "bomccss",
-        "skocherhan",
-        "teamcymru_S2"
-      ],
-      "tags": [
-        "#AsyncRAT",
-        "#Dcrat",
-        "#Xworm"
-      ],
-      "targeted_brand": null,
-      "targeted_country": null,
-      "targeted_sector": null,
-      "threat_types": {
-        "c2": 10,
-        "malware": 22
-      },
-      "ttps": [
-        "T1588.001",
-        "T1071.001",
-        "T1102",
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 13,
-        "ip": 2,
-        "sha256": 1,
-        "url": 16
-      }
-    },
-    {
-      "activity": {
         "2026-08-15": 32
       },
       "anchors": {
@@ -5600,9 +5142,9 @@
       },
       "id": "tfc-8b21dd67cb9f",
       "ioc_count": 32,
-      "ioc_count_1d": 2,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 32,
-      "ioc_count_7d": 26,
+      "ioc_count_7d": 20,
       "iocs": [
         {
           "ai": {
@@ -5933,12 +5475,12 @@
       "last_seen": "2026-09-03",
       "member_cluster_ids": [
         "tfc-8b21dd67cb9f",
-        "tfc-51f5603e6046",
         "tfc-b911e8d321c7",
+        "tfc-38face3f9c3f",
         "tfc-b00feaa7092d",
-        "tfc-6f9affa8dd1e",
         "tfc-c215b9b09fc9",
-        "tfc-38face3f9c3f"
+        "tfc-51f5603e6046",
+        "tfc-6f9affa8dd1e"
       ],
       "name": "Fake cloud-storage warning phishing on random-name domains",
       "reporters": [
@@ -5959,6 +5501,491 @@
       ],
       "types": {
         "domain": 16,
+        "url": 16
+      }
+    },
+    {
+      "activity": {
+        "2026-08-14": 10,
+        "2026-08-17": 21
+      },
+      "anchors": {
+        "registered_domains": [
+          "0306sendrat.duckdns.org",
+          "08yvh4.com",
+          "0906envdcrat.duckdns.org",
+          "100blackmenofsanantonio.org",
+          "andresherrerapi66.gleeze.com",
+          "app-bitmoon.fun",
+          "connect-bitmoon.fun",
+          "github.com",
+          "portal-bitmoon.fun",
+          "qq8875.online",
+          "rewards-bitmoon.fun",
+          "sharjahaquarium.com",
+          "trade-bitmoon.fun",
+          "verify-bitmoon.fun"
+        ],
+        "tags": [
+          "#AsyncRAT",
+          "#Dcrat",
+          "#Xworm"
+        ],
+        "url_path_patterns": [
+          "/jhfgdafsdgsfhdgjfhk"
+        ]
+      },
+      "confidence": "medium",
+      "context": "DcRat, AsyncRAT, and XWorm C2 infrastructure spans bitmoon-themed domains (app-bitmoon.fun, trade-bitmoon.fun, verify-bitmoon.fun), a gleeze.com subdomain, DuckDNS nodes, and a GitHub repository. The bitmoon cluster suggests a fake crypto platform used as a social-engineering lure. Enrichment attributes 31 DcRat and 3 AsyncRAT samples to this infrastructure.",
+      "enriched_count": 31,
+      "families": {
+        "dcrat": 31
+      },
+      "first_seen": "2026-08-14",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 14,
+        "first_seen_365d": "2025-09-08",
+        "iocs_365d": 196,
+        "iocs_before_window": 149,
+        "last_seen_365d": "2026-08-24",
+        "window_days": 365
+      },
+      "id": "tfc-5d3456bc193c",
+      "infra": [
+        {
+          "country": "DE",
+          "ip_count": 1,
+          "org": "AS202412 Omegatech LTD"
+        },
+        {
+          "country": "NL",
+          "ip_count": 1,
+          "org": "AS212477 RoyaleHosting BV"
+        }
+      ],
+      "ioc_count": 31,
+      "ioc_count_1d": 0,
+      "ioc_count_30d": 31,
+      "ioc_count_7d": 0,
+      "iocs": [
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "verify-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "trade-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "sharjahaquarium.com"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "rewards-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "portal-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://rewards-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://portal-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://github.com/jhfgdafsdgsfhdgjfhk"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://connect-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://app-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://andresherrerapi66.gleeze.com"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://78.17.71.8:5025"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "connect-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "app-bitmoon.fun"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "andresherrerapi66.gleeze.com"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-08-17 19:15:27",
+          "net": {
+            "country": "NL",
+            "org": "AS212477 RoyaleHosting BV"
+          },
+          "tags": [
+            "#AsyncRAT",
+            "#Dcrat",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2089430925595619565",
+          "type": "ip",
+          "user": "skocherhan",
+          "value": "78.17.71.8"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "url",
+          "user": "teamcymru_S2",
+          "value": "http://100blackmenofsanantonio.org"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "url",
+          "user": "teamcymru_S2",
+          "value": "http://1.qq8875.online"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "url",
+          "user": "teamcymru_S2",
+          "value": "http://0906envdcrat.duckdns.org"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "url",
+          "user": "teamcymru_S2",
+          "value": "http://08yvh4.com"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "url",
+          "user": "teamcymru_S2",
+          "value": "http://0306sendrat.duckdns.org"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "domain",
+          "user": "teamcymru_S2",
+          "value": "100blackmenofsanantonio.org"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "domain",
+          "user": "teamcymru_S2",
+          "value": "1.qq8875.online"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "domain",
+          "user": "teamcymru_S2",
+          "value": "0906envdcrat.duckdns.org"
+        },
+        {
+          "ai": {
+            "family": "dcrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-14 13:13:15",
+          "tags": [
+            "#Dcrat"
+          ],
+          "tweet": "https://x.com/teamcymru_S2/status/2088252611208061382",
+          "type": "domain",
+          "user": "teamcymru_S2",
+          "value": "08yvh4.com"
+        }
+      ],
+      "last_seen": "2026-08-17",
+      "member_cluster_ids": [
+        "tfc-5d3456bc193c"
+      ],
+      "name": "DcRat and AsyncRAT C2 on bitmoon-themed and DDNS domains",
+      "reporters": [
+        "skocherhan",
+        "teamcymru_S2"
+      ],
+      "tags": [
+        "#AsyncRAT",
+        "#Dcrat",
+        "#Xworm"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "c2": 10,
+        "malware": 21
+      },
+      "ttps": [
+        "T1588.001",
+        "T1071.001",
+        "T1102",
+        "T1583.001"
+      ],
+      "types": {
+        "domain": 13,
+        "ip": 2,
         "url": 16
       }
     },
@@ -6858,7 +6885,7 @@
         }
       ],
       "ioc_count": 19,
-      "ioc_count_1d": 10,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 19,
       "ioc_count_7d": 10,
       "iocs": [
@@ -7188,7 +7215,6 @@
     },
     {
       "activity": {
-        "2026-08-05": 2,
         "2026-08-06": 2,
         "2026-08-07": 2,
         "2026-08-13": 1,
@@ -7196,7 +7222,8 @@
         "2026-08-17": 2,
         "2026-08-18": 2,
         "2026-08-21": 4,
-        "2026-08-25": 2
+        "2026-08-25": 2,
+        "2026-09-04": 2
       },
       "anchors": {
         "registered_domains": [
@@ -7207,8 +7234,8 @@
           "hhttps-www-roblox.co",
           "joannsalestore.com",
           "niuaniu.top",
-          "raaglpfplzp.top",
-          "tichbox.com"
+          "tichbox.com",
+          "zylvshiw.com"
         ],
         "tags": [],
         "url_path_patterns": [
@@ -7216,25 +7243,51 @@
         ]
       },
       "confidence": "low",
-      "context": "A shared /login phishing kit spans Chinese-registered .cn and .top domains alongside generic TLDs including joannsalestore.com and hhttps-www-roblox.co, the latter a Roblox lookalike. Consistent /login path patterns across random-label domains suggest a shared kit deployed against multiple targets including Apple and Docomo. Four reporters flagged 19 IOCs between 2026-08-05 and 2026-08-25.",
+      "context": "A shared /login phishing kit spans Chinese-registered .cn and .top domains alongside generic TLDs including joannsalestore.com and hhttps-www-roblox.co, the latter a Roblox lookalike. Consistent /login path patterns across random-label domains suggest a shared kit deployed against multiple targets including Apple and Docomo. Four reporters flagged 19 IOCs between 2026-08-06 and 2026-09-04.",
       "enriched_count": 19,
       "families": {},
-      "first_seen": "2026-08-05",
+      "first_seen": "2026-08-06",
       "history": {
         "by_pattern": [],
         "domains_365d": 9,
-        "first_seen_365d": "2026-08-05",
+        "first_seen_365d": "2026-08-06",
         "iocs_365d": 18,
         "iocs_before_window": 0,
-        "last_seen_365d": "2026-08-25",
+        "last_seen_365d": "2026-09-04",
         "window_days": 365
       },
       "id": "tfc-66e666c2695d",
       "ioc_count": 19,
-      "ioc_count_1d": 0,
+      "ioc_count_1d": 2,
       "ioc_count_30d": 17,
-      "ioc_count_7d": 0,
+      "ioc_count_7d": 2,
       "iocs": [
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-04 08:53:54",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2095797492768231545",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "login.zylvshiw.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-04 08:53:54",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2095797492768231545",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://login.zylvshiw.com/login"
+        },
         {
           "ai": {
             "threat_type": "phishing"
@@ -7455,35 +7508,9 @@
           "type": "domain",
           "user": "masaomi346",
           "value": "dslkk.cn"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 00:41:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2084801945295098263",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "login.raaglpfplzp.top"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 00:41:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2084801945295098263",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://login.raaglpfplzp.top/login"
         }
       ],
-      "last_seen": "2026-08-25",
+      "last_seen": "2026-09-04",
       "member_cluster_ids": [
         "tfc-66e666c2695d"
       ],
@@ -7549,7 +7576,7 @@
       "ioc_count": 18,
       "ioc_count_1d": 0,
       "ioc_count_30d": 18,
-      "ioc_count_7d": 6,
+      "ioc_count_7d": 4,
       "iocs": [
         {
           "ai": {
@@ -7832,7 +7859,7 @@
       },
       "confidence": "low",
       "context": "Personal loan, debt-consolidation, and cloud-storage quota phishing emails use invisible Unicode padding in subject lines to evade filters, routing victims to recently registered domains including yancha123.com, hbjbkf.com, harbor-belong.com, and nsbpay.com. TKemmerling flagged combined IOCs between 2026-08-26 and 2026-09-04.",
-      "enriched_count": 14,
+      "enriched_count": 18,
       "families": {},
       "first_seen": "2026-08-26",
       "history": {
@@ -7846,11 +7873,14 @@
       },
       "id": "tfc-621fee6c649f",
       "ioc_count": 18,
-      "ioc_count_1d": 4,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 18,
-      "ioc_count_7d": 16,
+      "ioc_count_7d": 10,
       "iocs": [
         {
+          "ai": {
+            "threat_type": "phishing"
+          },
           "date": "2026-09-04 03:01:53",
           "tags": [
             "#phishing"
@@ -7861,6 +7891,9 @@
           "value": "ra.hbjbkf.com"
         },
         {
+          "ai": {
+            "threat_type": "phishing"
+          },
           "date": "2026-09-04 03:01:53",
           "tags": [
             "#phishing"
@@ -7871,6 +7904,9 @@
           "value": "http://ra.hbjbkf.com"
         },
         {
+          "ai": {
+            "threat_type": "phishing"
+          },
           "date": "2026-09-04 02:50:06",
           "tags": [
             "#phishing"
@@ -7881,6 +7917,9 @@
           "value": "se.nsbpay.com"
         },
         {
+          "ai": {
+            "threat_type": "phishing"
+          },
           "date": "2026-09-04 02:50:06",
           "tags": [
             "#phishing"
@@ -8091,7 +8130,7 @@
       "targeted_country": null,
       "targeted_sector": "financial-services",
       "threat_types": {
-        "phishing": 14
+        "phishing": 18
       },
       "ttps": [
         "T1566.002",
@@ -8104,7 +8143,6 @@
     },
     {
       "activity": {
-        "2026-08-05": 2,
         "2026-08-06": 2,
         "2026-08-07": 2,
         "2026-08-08": 2,
@@ -8123,22 +8161,22 @@
       },
       "confidence": "low",
       "context": "sqllq.com operates as a cloaking funnel routing visitors to an online betting platform. Enrichment describes a churning gambling domain network alongside an active gambling ASN and SSL certificate pair. One reporter flagged 20 IOC observations of the same domain between 2026-08-04 and 2026-08-13.",
-      "enriched_count": 18,
+      "enriched_count": 16,
       "families": {},
-      "first_seen": "2026-08-05",
+      "first_seen": "2026-08-06",
       "history": {
         "by_pattern": [],
         "domains_365d": 1,
         "first_seen_365d": "2026-07-28",
         "iocs_365d": 32,
-        "iocs_before_window": 14,
+        "iocs_before_window": 16,
         "last_seen_365d": "2026-08-13",
         "window_days": 365
       },
       "id": "tfc-732ca93798d6",
-      "ioc_count": 18,
+      "ioc_count": 16,
       "ioc_count_1d": 0,
-      "ioc_count_30d": 18,
+      "ioc_count_30d": 16,
       "ioc_count_7d": 0,
       "iocs": [
         {
@@ -8316,28 +8354,6 @@
           "type": "url",
           "user": "webamon_search",
           "value": "http://sqllq.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 13:36:00",
-          "tags": [],
-          "tweet": "https://x.com/webamon_search/status/2084996888487469305",
-          "type": "domain",
-          "user": "webamon_search",
-          "value": "sqllq.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 13:36:00",
-          "tags": [],
-          "tweet": "https://x.com/webamon_search/status/2084996888487469305",
-          "type": "url",
-          "user": "webamon_search",
-          "value": "http://sqllq.com"
         }
       ],
       "last_seen": "2026-08-13",
@@ -8353,19 +8369,363 @@
       "targeted_country": null,
       "targeted_sector": null,
       "threat_types": {
-        "phishing": 18
+        "phishing": 16
       },
       "ttps": [
         "T1583.001"
       ],
       "types": {
-        "domain": 9,
-        "url": 9
+        "domain": 8,
+        "url": 8
       }
     },
     {
       "activity": {
-        "2026-08-05": 2,
+        "2026-08-08": 3,
+        "2026-08-10": 2,
+        "2026-08-11": 2,
+        "2026-08-15": 2,
+        "2026-08-29": 4,
+        "2026-09-04": 2
+      },
+      "anchors": {
+        "registered_domains": [
+          "xyzblue.dpdns.org"
+        ],
+        "tags": [
+          "#ClickFix",
+          "#CobaltStrike",
+          "#log4j"
+        ],
+        "url_path_patterns": []
+      },
+      "confidence": "medium",
+      "context": "ClickFix lure abuses the search-ms protocol at xyzblue.dpdns.org to relay NTLM credentials before deploying a CobaltStrike beacon via .lnk dropper with AMSI bypass and fileless execution. Open directories at 154.94.224.35:54321 and 8.137.23.180 expose staged tooling alongside Log4j exploitation. Three researchers reported 15 IOCs between 2026-08-08 and 2026-09-04.",
+      "enriched_count": 15,
+      "families": {
+        "CobaltStrike": 10
+      },
+      "first_seen": "2026-08-08",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 1,
+        "first_seen_365d": "2026-08-08",
+        "iocs_365d": 4,
+        "iocs_before_window": 0,
+        "last_seen_365d": "2026-08-10",
+        "window_days": 365
+      },
+      "id": "tfc-463d53f90671",
+      "infra": [
+        {
+          "country": "US",
+          "ip_count": 1,
+          "org": "AS132203 Tencent Building, Kejizhongyi Avenue"
+        },
+        {
+          "country": "CN",
+          "ip_count": 1,
+          "org": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+        },
+        {
+          "country": "HK",
+          "ip_count": 1,
+          "org": "AS401701 cognetcloud INC"
+        },
+        {
+          "country": "CN",
+          "ip_count": 1,
+          "org": "AS45090 Shenzhen Tencent Computer Systems Company Limited"
+        },
+        {
+          "country": "FR",
+          "ip_count": 1,
+          "org": "AS51167 Contabo GmbH"
+        }
+      ],
+      "ioc_count": 15,
+      "ioc_count_1d": 2,
+      "ioc_count_30d": 15,
+      "ioc_count_7d": 6,
+      "iocs": [
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-04 15:32:14",
+          "tags": [
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/_AkatsukiLegion/status/2095897733223612698",
+          "type": "url",
+          "user": "_AkatsukiLegion",
+          "value": "http://101.42.136.73"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-04 15:32:14",
+          "net": {
+            "country": "CN",
+            "org": "AS45090 Shenzhen Tencent Computer Systems Company Limited"
+          },
+          "tags": [
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/_AkatsukiLegion/status/2095897733223612698",
+          "type": "ip",
+          "user": "_AkatsukiLegion",
+          "value": "101.42.136.73"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-29 07:10:17",
+          "tags": [
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/abodovic1/status/2093597089171124550",
+          "type": "url",
+          "user": "abodovic1",
+          "value": "http://49.51.230.17:8888"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-29 07:10:17",
+          "net": {
+            "country": "US",
+            "org": "AS132203 Tencent Building, Kejizhongyi Avenue"
+          },
+          "tags": [
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/abodovic1/status/2093597089171124550",
+          "type": "ip",
+          "user": "abodovic1",
+          "value": "49.51.230.17"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-29 07:00:27",
+          "tags": [
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/abodovic1/status/2093594610937258360",
+          "type": "url",
+          "user": "abodovic1",
+          "value": "http://154.94.224.35:54321"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-29 07:00:27",
+          "net": {
+            "country": "HK",
+            "org": "AS401701 cognetcloud INC"
+          },
+          "tags": [
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/abodovic1/status/2093594610937258360",
+          "type": "ip",
+          "user": "abodovic1",
+          "value": "154.94.224.35"
+        },
+        {
+          "ai": {
+            "threat_type": "c2"
+          },
+          "date": "2026-08-15 15:57:56",
+          "tags": [
+            "#CobaltStrike",
+            "#malware",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/etugenio/status/2088656446174970367",
+          "type": "url",
+          "user": "etugenio",
+          "value": "http://8.137.23.180"
+        },
+        {
+          "ai": {
+            "threat_type": "c2"
+          },
+          "date": "2026-08-15 15:57:56",
+          "net": {
+            "country": "CN",
+            "org": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
+          },
+          "tags": [
+            "#CobaltStrike",
+            "#malware",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/etugenio/status/2088656446174970367",
+          "type": "ip",
+          "user": "etugenio",
+          "value": "8.137.23.180"
+        },
+        {
+          "ai": {
+            "threat_type": "c2"
+          },
+          "date": "2026-08-11 06:05:08",
+          "tags": [
+            "#CobaltStrike",
+            "#log4j",
+            "#malware"
+          ],
+          "tweet": "https://x.com/etugenio/status/2087057711183585573",
+          "type": "url",
+          "user": "etugenio",
+          "value": "http://169.58.82.229"
+        },
+        {
+          "ai": {
+            "threat_type": "c2"
+          },
+          "date": "2026-08-11 06:05:08",
+          "net": {
+            "country": "FR",
+            "org": "AS51167 Contabo GmbH"
+          },
+          "tags": [
+            "#CobaltStrike",
+            "#log4j",
+            "#malware"
+          ],
+          "tweet": "https://x.com/etugenio/status/2087057711183585573",
+          "type": "ip",
+          "user": "etugenio",
+          "value": "169.58.82.229"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-10 05:01:22",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/etugenio/status/2086679273444606245",
+          "type": "domain",
+          "user": "etugenio",
+          "value": "xyzblue.dpdns.org"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-10 05:01:22",
+          "tags": [
+            "#ClickFix",
+            "#malware"
+          ],
+          "tweet": "https://x.com/etugenio/status/2086679273444606245",
+          "type": "url",
+          "user": "etugenio",
+          "value": "http://xyzblue.dpdns.org"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-08 18:06:17",
+          "tags": [
+            "#ClickFix",
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/Yusufcancakiir/status/2086152030024855665",
+          "type": "domain",
+          "user": "Yusufcancakiir",
+          "value": "xyzblue.dpdns.org"
+        },
+        {
+          "ai": {
+            "family": "CobaltStrike",
+            "threat_type": "c2"
+          },
+          "date": "2026-08-08 18:06:17",
+          "tags": [
+            "#ClickFix",
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/Yusufcancakiir/status/2086152030024855665",
+          "type": "url",
+          "user": "Yusufcancakiir",
+          "value": "http://xyzblue.dpdns.org"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-08-08 18:06:17",
+          "tags": [
+            "#ClickFix",
+            "#CobaltStrike"
+          ],
+          "tweet": "https://x.com/Yusufcancakiir/status/2086152030024855665",
+          "type": "url",
+          "user": "Yusufcancakiir",
+          "value": "http://43.156.228.149"
+        }
+      ],
+      "last_seen": "2026-09-04",
+      "member_cluster_ids": [
+        "tfc-463d53f90671"
+      ],
+      "name": "CobaltStrike via ClickFix with open-directory C2 servers",
+      "reporters": [
+        "Yusufcancakiir",
+        "_AkatsukiLegion",
+        "abodovic1",
+        "etugenio"
+      ],
+      "tags": [
+        "#ClickFix",
+        "#CobaltStrike",
+        "#log4j",
+        "#malware",
+        "#opendir"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "c2": 14,
+        "malware": 1
+      },
+      "ttps": [
+        "T1588.002",
+        "T1204.004",
+        "T1608.001",
+        "T1071.001"
+      ],
+      "types": {
+        "domain": 2,
+        "ip": 5,
+        "url": 8
+      }
+    },
+    {
+      "activity": {
         "2026-08-06": 5,
         "2026-08-10": 1,
         "2026-08-12": 1,
@@ -8387,12 +8747,12 @@
         ]
       },
       "confidence": "medium",
-      "context": "An Android trojan campaign distributes malicious APKs and retrieves C2 config from a Pastebin raw endpoint. The /police/mydata.php path on ptnrmat.xyz exfiltrates documents, WhatsApp media, contacts, and device info, suggesting law-enforcement app impersonation as the lure. Three reporters flagged 18 IOCs between 2026-08-04 and 2026-08-24.",
-      "enriched_count": 17,
+      "context": "An Android trojan campaign distributes malicious APKs and retrieves C2 config from a Pastebin raw endpoint. The /police/mydata.php path on ptnrmat.xyz exfiltrates documents, WhatsApp media, contacts, and device info, suggesting law-enforcement app impersonation as the lure. Three reporters flagged 15 IOCs between 2026-08-06 and 2026-08-24.",
+      "enriched_count": 15,
       "families": {
-        "Joker": 10
+        "Joker": 8
       },
-      "first_seen": "2026-08-05",
+      "first_seen": "2026-08-06",
       "history": {
         "by_pattern": [],
         "domains_365d": 2,
@@ -8403,9 +8763,9 @@
         "window_days": 365
       },
       "id": "tfc-f7f1750c34a4",
-      "ioc_count": 17,
+      "ioc_count": 15,
       "ioc_count_1d": 0,
-      "ioc_count_30d": 16,
+      "ioc_count_30d": 12,
       "ioc_count_7d": 0,
       "iocs": [
         {
@@ -8638,38 +8998,6 @@
           "type": "md5",
           "user": "ReBensk",
           "value": "37f3156a3de77d3470a09029dc3fcfa5"
-        },
-        {
-          "ai": {
-            "family": "Joker",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-05 07:20:00",
-          "tags": [
-            "#Android",
-            "#Trojan",
-            "#malware"
-          ],
-          "tweet": "https://x.com/ReBensk/status/2084902400901742646",
-          "type": "md5",
-          "user": "ReBensk",
-          "value": "275ca41efe4cca35a5672d81630bb25c"
-        },
-        {
-          "ai": {
-            "family": "Joker",
-            "threat_type": "malware"
-          },
-          "date": "2026-08-05 06:41:00",
-          "tags": [
-            "#Android",
-            "#Trojan",
-            "#malware"
-          ],
-          "tweet": "https://x.com/ReBensk/status/2084892553745440795",
-          "type": "md5",
-          "user": "ReBensk",
-          "value": "38446c05a225119e5a6c002d207c5aaf"
         }
       ],
       "last_seen": "2026-08-24",
@@ -8690,7 +9018,7 @@
       "targeted_country": null,
       "targeted_sector": null,
       "threat_types": {
-        "malware": 17
+        "malware": 15
       },
       "ttps": [
         "T1102",
@@ -8698,7 +9026,7 @@
       ],
       "types": {
         "domain": 2,
-        "md5": 13,
+        "md5": 11,
         "url": 2
       }
     },
@@ -8949,312 +9277,6 @@
     },
     {
       "activity": {
-        "2026-08-08": 3,
-        "2026-08-10": 2,
-        "2026-08-11": 2,
-        "2026-08-15": 2,
-        "2026-08-29": 4
-      },
-      "anchors": {
-        "registered_domains": [
-          "xyzblue.dpdns.org"
-        ],
-        "tags": [
-          "#ClickFix",
-          "#CobaltStrike",
-          "#log4j"
-        ],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "ClickFix lure abuses the search-ms protocol at xyzblue.dpdns.org to relay NTLM credentials before deploying a CobaltStrike beacon via .lnk dropper with AMSI bypass and fileless execution. Open directories at 154.94.224.35:54321 and 8.137.23.180 expose staged tooling alongside Log4j exploitation. Three researchers reported 13 IOCs between 2026-08-08 and 2026-08-29.",
-      "enriched_count": 13,
-      "families": {
-        "CobaltStrike": 8
-      },
-      "first_seen": "2026-08-08",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-08-08",
-        "iocs_365d": 4,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-08-10",
-        "window_days": 365
-      },
-      "id": "tfc-463d53f90671",
-      "infra": [
-        {
-          "country": "US",
-          "ip_count": 1,
-          "org": "AS132203 Tencent Building, Kejizhongyi Avenue"
-        },
-        {
-          "country": "CN",
-          "ip_count": 1,
-          "org": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
-        },
-        {
-          "country": "HK",
-          "ip_count": 1,
-          "org": "AS401701 cognetcloud INC"
-        },
-        {
-          "country": "FR",
-          "ip_count": 1,
-          "org": "AS51167 Contabo GmbH"
-        }
-      ],
-      "ioc_count": 13,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 13,
-      "ioc_count_7d": 4,
-      "iocs": [
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-29 07:10:17",
-          "tags": [
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/abodovic1/status/2093597089171124550",
-          "type": "url",
-          "user": "abodovic1",
-          "value": "http://49.51.230.17:8888"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-29 07:10:17",
-          "net": {
-            "country": "US",
-            "org": "AS132203 Tencent Building, Kejizhongyi Avenue"
-          },
-          "tags": [
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/abodovic1/status/2093597089171124550",
-          "type": "ip",
-          "user": "abodovic1",
-          "value": "49.51.230.17"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-29 07:00:27",
-          "tags": [
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/abodovic1/status/2093594610937258360",
-          "type": "url",
-          "user": "abodovic1",
-          "value": "http://154.94.224.35:54321"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-29 07:00:27",
-          "net": {
-            "country": "HK",
-            "org": "AS401701 cognetcloud INC"
-          },
-          "tags": [
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/abodovic1/status/2093594610937258360",
-          "type": "ip",
-          "user": "abodovic1",
-          "value": "154.94.224.35"
-        },
-        {
-          "ai": {
-            "threat_type": "c2"
-          },
-          "date": "2026-08-15 15:57:56",
-          "tags": [
-            "#CobaltStrike",
-            "#malware",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/etugenio/status/2088656446174970367",
-          "type": "url",
-          "user": "etugenio",
-          "value": "http://8.137.23.180"
-        },
-        {
-          "ai": {
-            "threat_type": "c2"
-          },
-          "date": "2026-08-15 15:57:56",
-          "net": {
-            "country": "CN",
-            "org": "AS37963 Hangzhou Alibaba Advertising Co.,Ltd."
-          },
-          "tags": [
-            "#CobaltStrike",
-            "#malware",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/etugenio/status/2088656446174970367",
-          "type": "ip",
-          "user": "etugenio",
-          "value": "8.137.23.180"
-        },
-        {
-          "ai": {
-            "threat_type": "c2"
-          },
-          "date": "2026-08-11 06:05:08",
-          "tags": [
-            "#CobaltStrike",
-            "#log4j",
-            "#malware"
-          ],
-          "tweet": "https://x.com/etugenio/status/2087057711183585573",
-          "type": "url",
-          "user": "etugenio",
-          "value": "http://169.58.82.229"
-        },
-        {
-          "ai": {
-            "threat_type": "c2"
-          },
-          "date": "2026-08-11 06:05:08",
-          "net": {
-            "country": "FR",
-            "org": "AS51167 Contabo GmbH"
-          },
-          "tags": [
-            "#CobaltStrike",
-            "#log4j",
-            "#malware"
-          ],
-          "tweet": "https://x.com/etugenio/status/2087057711183585573",
-          "type": "ip",
-          "user": "etugenio",
-          "value": "169.58.82.229"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-10 05:01:22",
-          "tags": [
-            "#ClickFix",
-            "#malware"
-          ],
-          "tweet": "https://x.com/etugenio/status/2086679273444606245",
-          "type": "domain",
-          "user": "etugenio",
-          "value": "xyzblue.dpdns.org"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-10 05:01:22",
-          "tags": [
-            "#ClickFix",
-            "#malware"
-          ],
-          "tweet": "https://x.com/etugenio/status/2086679273444606245",
-          "type": "url",
-          "user": "etugenio",
-          "value": "http://xyzblue.dpdns.org"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-08 18:06:17",
-          "tags": [
-            "#ClickFix",
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/Yusufcancakiir/status/2086152030024855665",
-          "type": "domain",
-          "user": "Yusufcancakiir",
-          "value": "xyzblue.dpdns.org"
-        },
-        {
-          "ai": {
-            "family": "CobaltStrike",
-            "threat_type": "c2"
-          },
-          "date": "2026-08-08 18:06:17",
-          "tags": [
-            "#ClickFix",
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/Yusufcancakiir/status/2086152030024855665",
-          "type": "url",
-          "user": "Yusufcancakiir",
-          "value": "http://xyzblue.dpdns.org"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-08-08 18:06:17",
-          "tags": [
-            "#ClickFix",
-            "#CobaltStrike"
-          ],
-          "tweet": "https://x.com/Yusufcancakiir/status/2086152030024855665",
-          "type": "url",
-          "user": "Yusufcancakiir",
-          "value": "http://43.156.228.149"
-        }
-      ],
-      "last_seen": "2026-08-29",
-      "member_cluster_ids": [
-        "tfc-463d53f90671"
-      ],
-      "name": "CobaltStrike via ClickFix with open-directory C2 servers",
-      "reporters": [
-        "Yusufcancakiir",
-        "abodovic1",
-        "etugenio"
-      ],
-      "tags": [
-        "#ClickFix",
-        "#CobaltStrike",
-        "#log4j",
-        "#malware",
-        "#opendir"
-      ],
-      "targeted_brand": null,
-      "targeted_country": null,
-      "targeted_sector": null,
-      "threat_types": {
-        "c2": 12,
-        "malware": 1
-      },
-      "ttps": [
-        "T1588.002",
-        "T1204.004",
-        "T1608.001",
-        "T1071.001"
-      ],
-      "types": {
-        "domain": 2,
-        "ip": 4,
-        "url": 7
-      }
-    },
-    {
-      "activity": {
         "2026-08-21": 2,
         "2026-08-27": 4,
         "2026-08-29": 4,
@@ -9269,7 +9291,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "Phishing emails impersonating Insurify insurance comparison route victims to anadolucuhuriyeti.info via terminandoconlatrata.com, and separately to a DGA-style domain via ezcapsforums.com. Both waves use unrelated business domains as senders to obscure the brand impersonation. TKemmerling flagged 12 combined IOCs between 2026-08-21 and 2026-08-29.",
+      "context": "Phishing emails impersonating Insurify insurance comparison route victims to anadolucuhuriyeti.info via terminandoconlatrata.com, and separately to a DGA-style domain via ezcapsforums.com. Both waves use unrelated business domains as senders to obscure the brand impersonation. TKemmerling flagged 12 combined IOCs between 2026-08-21 and 2026-09-02.",
       "enriched_count": 12,
       "families": {},
       "first_seen": "2026-08-21",
@@ -9286,7 +9308,7 @@
       "ioc_count": 12,
       "ioc_count_1d": 0,
       "ioc_count_30d": 12,
-      "ioc_count_7d": 6,
+      "ioc_count_7d": 2,
       "iocs": [
         {
           "ai": {
@@ -10257,217 +10279,6 @@
     },
     {
       "activity": {
-        "2026-08-05": 5,
-        "2026-08-07": 6
-      },
-      "anchors": {
-        "registered_domains": [
-          "angels-travel.com",
-          "caixacat.com",
-          "geek-asylum.com",
-          "urbanizab2b.com",
-          "vignobles-lorgeril.com"
-        ],
-        "tags": [],
-        "url_path_patterns": [
-          "/jmFfvPRN",
-          "/jmFfvPRN/ip"
-        ]
-      },
-      "confidence": "medium",
-      "context": "Five domains - caixacat.com, geek-asylum.com, angels-travel.com, urbanizab2b.com, and vignobles-lorgeril.com - share the /jmFfvPRN/ kit path hosting Resona Bank credential-harvest pages. The domains appear unrelated to banking but are registered via Gname and hosted on HostPapa and GNET infrastructure. Three reporters flagged 11 IOCs between 2026-08-05 and 2026-08-07.",
-      "enriched_count": 11,
-      "families": {},
-      "first_seen": "2026-08-05",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 5,
-        "first_seen_365d": "2026-08-05",
-        "iocs_365d": 11,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-08-07",
-        "window_days": 365
-      },
-      "id": "tfc-c817d4987dd0",
-      "ioc_count": 11,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 11,
-      "ioc_count_7d": 0,
-      "iocs": [
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-07 22:48:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
-          "type": "url",
-          "user": "kubotaa3",
-          "value": "https://geek-asylum.com/jmFfvPRN/"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-07 22:48:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
-          "type": "url",
-          "user": "kubotaa3",
-          "value": "https://caixacat.com/jmFfvPRN/"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-07 22:48:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
-          "type": "domain",
-          "user": "kubotaa3",
-          "value": "geek-asylum.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-07 22:48:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2085860573259210880",
-          "type": "domain",
-          "user": "kubotaa3",
-          "value": "caixacat.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-07 14:44:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2085738913289945155",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://angels-travel.com/jmFfvPRN/"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-07 14:44:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2085738913289945155",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "angels-travel.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "vignobles-lorgeril.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "urbanizab2b.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "https://vignobles-lorgeril.com/jmFfvPRN/"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 21:19:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2085113595487047788",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "https://urbanizab2b.com/jmFfvPRN/ip"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-08-05 21:07:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/kubotaa3/status/2085110467488632880",
-          "type": "url",
-          "user": "kubotaa3",
-          "value": "https://urbanizab2b.com/jmFfvPRN/"
-        }
-      ],
-      "last_seen": "2026-08-07",
-      "member_cluster_ids": [
-        "tfc-c817d4987dd0"
-      ],
-      "name": "Resona Bank phishing via /jmFfvPRN/ kit on unrelated domains",
-      "reporters": [
-        "kubotaa3",
-        "masaomi346",
-        "skocherhan"
-      ],
-      "tags": [
-        "#phishing"
-      ],
-      "targeted_brand": "Resona Bank",
-      "targeted_country": "JP",
-      "targeted_sector": "financial-services",
-      "threat_types": {
-        "phishing": 11
-      },
-      "ttps": [
-        "T1566.002",
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 5,
-        "url": 6
-      }
-    },
-    {
-      "activity": {
         "2026-08-23": 8
       },
       "anchors": {
@@ -10989,7 +10800,7 @@
       "ioc_count": 6,
       "ioc_count_1d": 0,
       "ioc_count_30d": 6,
-      "ioc_count_7d": 6,
+      "ioc_count_7d": 4,
       "iocs": [
         {
           "ai": {
@@ -11268,7 +11079,7 @@
       "ioc_count": 5,
       "ioc_count_1d": 0,
       "ioc_count_30d": 5,
-      "ioc_count_7d": 1,
+      "ioc_count_7d": 0,
       "iocs": [
         {
           "ai": {
@@ -12342,7 +12153,7 @@
       ],
       "name": "Apple iCloud phishing on icloud-i-cl.com lookalike domain",
       "related": {
-        "checked_at": "2026-09-04T06:56:16Z",
+        "checked_at": "2026-09-05T06:43:57Z",
         "match_count": 2,
         "matches": [
           {
@@ -12483,7 +12294,7 @@
       }
     }
   ],
-  "generated_at": "2026-09-04T06:56:16Z",
+  "generated_at": "2026-09-05T06:43:57Z",
   "stale": false,
   "stale_since": null,
   "version": 1,
