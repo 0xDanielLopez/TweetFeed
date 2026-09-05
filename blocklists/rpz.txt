@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2625
-; Updated: 2026-09-05T07:15:15Z
+; Entries: 2628
+; Updated: 2026-09-05T09:15:17Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788592515 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788599717 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1686,6 +1686,8 @@ file-share-image-2026-8368-736-dropbox.cloud CNAME .
 *.file-share-image-2026-8368-736-dropbox.cloud CNAME .
 filedocusign.shop CNAME .
 *.filedocusign.shop CNAME .
+finance-gov-pk.fetchdrives.info CNAME .
+*.finance-gov-pk.fetchdrives.info CNAME .
 financialmarkets.info CNAME .
 *.financialmarkets.info CNAME .
 findsafwewohabwqo.tk CNAME .
@@ -3408,6 +3410,8 @@ piyasabizim.click CNAME .
 *.piyasabizim.click CNAME .
 pjn.kjz.mybluehost.me CNAME .
 *.pjn.kjz.mybluehost.me CNAME .
+pk.fetchdrives.info CNAME .
+*.pk.fetchdrives.info CNAME .
 play.softcube.fr CNAME .
 *.play.softcube.fr CNAME .
 plrdanbrdansnnn.com CNAME .
@@ -4962,6 +4966,8 @@ wwc7yw.duckdns.org CNAME .
 *.wwc7yw.duckdns.org CNAME .
 wwufzpm.cn CNAME .
 *.wwufzpm.cn CNAME .
+www-finance-gov-pk.fetchdrives.info CNAME .
+*.www-finance-gov-pk.fetchdrives.info CNAME .
 www-itausegurancas.rf.gd CNAME .
 *.www-itausegurancas.rf.gd CNAME .
 wxcdc.movaci.net CNAME .
