@@ -1,5 +1,5 @@
 {
-  "count": 4089,
+  "count": 4044,
   "dead_tweets": {
     "2083405583823126654": {
       "attempts": 2,
@@ -24,6 +24,10 @@
     "2087799248439902618": {
       "attempts": 2,
       "last_attempt": "2026-09-05T06:40:04Z"
+    },
+    "2096234357635834097": {
+      "attempts": 1,
+      "last_attempt": "2026-09-05T18:40:04Z"
     }
   },
   "entries": {
@@ -1402,23 +1406,6 @@
       "type": "url",
       "value": "http://103.170.154.120:443"
     },
-    "103.176.145.220": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "103.176.145.220"
-    },
     "103.214.68.193": {
       "confidence": 0.82,
       "date": "2026-08-17 08:20:21",
@@ -1446,6 +1433,20 @@
       "tweet_id": "2090121733340590247",
       "type": "ip",
       "value": "103.22.175.82"
+    },
+    "103.234.185.7": {
+      "confidence": 0.95,
+      "date": "2026-09-05 17:00:57",
+      "enriched_at": "2026-09-05T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "WhatsApp phishing site at whatsapp.traviyo.in (103.234.185.7) hosted on Indian AS140641 YOTTA NETWORK SERVICES; SSL by SSL2BUY EMEA RSA DV CA.",
+      "threat_type": "phishing",
+      "tweet_id": "2096282449089106217",
+      "type": "ip",
+      "value": "103.234.185.7"
     },
     "103.236.64.164": {
       "confidence": 0.85,
@@ -1655,21 +1656,6 @@
       "type": "url",
       "value": "http://103.79.16.76"
     },
-    "103.81.116.10": {
-      "confidence": 0.5,
-      "date": "2026-08-06 13:50:00",
-      "enriched_at": "2026-08-30T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Suspected malware C2 at 103.81.116.10 labeled MSOfficeServer with embedded authentication key fragment, flagged 2026-08-06.",
-      "threat_type": "c2",
-      "tweet_id": "2085362767008276950",
-      "type": "ip",
-      "value": "103.81.116.10"
-    },
     "103.83.86.143": {
       "confidence": 0.93,
       "date": "2026-08-17 15:13:09",
@@ -1703,53 +1689,6 @@
       "tweet_id": "2089369951635136673",
       "type": "ip",
       "value": "103.83.86.48"
-    },
-    "104.128.90.27": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "104.128.90.27"
-    },
-    "104.194.140.150": {
-      "confidence": 0.82,
-      "date": "2026-08-06 14:33:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Self-propagating cryptominer worm using blockchain-based C2 with bootstrap failover, shell script dropper.",
-      "threat_type": "malware",
-      "tweet_id": "2085373661993988567",
-      "type": "ip",
-      "value": "104.194.140.150"
-    },
-    "104.194.140.150:8080/54ac4810b1d01207/ca06059d5d3d81d2.sh": {
-      "confidence": 0.82,
-      "date": "2026-08-06 14:33:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Self-propagating cryptominer worm using blockchain-based C2 with bootstrap failover, shell script dropper.",
-      "threat_type": "malware",
-      "tweet_id": "2085373661993988567",
-      "type": "url",
-      "value": "http://104.194.140.150:8080/54ac4810b1d01207/ca06059d5d3d81d2.sh"
     },
     "104.194.153.144": {
       "confidence": 0.75,
@@ -1979,23 +1918,6 @@
       "tweet_id": "2087783996675752291",
       "type": "url",
       "value": "http://107.173.177.166"
-    },
-    "107.174.244.118": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "107.174.244.118"
     },
     "107.189.16.254": {
       "confidence": 0.75,
@@ -2849,23 +2771,6 @@
       "tweet_id": "2085850140334489715",
       "type": "url",
       "value": "http://134.122.204.55:8888"
-    },
-    "134.209.9.147": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "134.209.9.147"
     },
     "135.181.34.42": {
       "confidence": 0.95,
@@ -3920,23 +3825,6 @@
       "type": "url",
       "value": "http://167.172.177.118:3000"
     },
-    "167.71.140.130": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "167.71.140.130"
-    },
     "167.71.169.239": {
       "confidence": 0.95,
       "date": "2026-08-21 07:01:01",
@@ -4062,23 +3950,6 @@
       "tweet_id": "2091781040469672305",
       "type": "sha256",
       "value": "169586b6eb36b17520ef5afd206da86c4de89eb01d6294ba9631414271ba752f"
-    },
-    "170.39.185.141": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "170.39.185.141"
     },
     "170.62.130.47": {
       "confidence": 0.87,
@@ -4685,23 +4556,6 @@
       "tweet_id": "2088151364790554893",
       "type": "domain",
       "value": "183.it.com"
-    },
-    "185.104.248.45": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "185.104.248.45"
     },
     "185.112.59.160": {
       "confidence": 0.95,
@@ -5541,23 +5395,6 @@
       "type": "ip",
       "value": "193.164.4.31"
     },
-    "193.202.11.45": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "193.202.11.45"
-    },
     "193.203.27.244": {
       "confidence": 0.65,
       "date": "2026-08-24 14:42:24",
@@ -6209,21 +6046,6 @@
       "tweet_id": "2091790507085373910",
       "type": "md5",
       "value": "1afdac960243d3c9b888689394148bb0"
-    },
-    "1b873c981db25d16bd539aef3952a2e869dd55c27e0937064cafc5dafb70c79a": {
-      "confidence": 0.75,
-      "date": "2026-08-06 17:39:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory hosting malware loader samples with low VT detection; loader and payload hashes submitted to URLhaus and MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2085420410091233507",
-      "type": "sha256",
-      "value": "1b873c981db25d16bd539aef3952a2e869dd55c27e0937064cafc5dafb70c79a"
     },
     "1c53a0ee082f53f584297c44d9d1ee40e5b835cfc4543d409178aad704fd8ce5": {
       "confidence": 0.8,
@@ -7147,23 +6969,6 @@
       "type": "sha256",
       "value": "212acf6988a147dc48a67ac51cbd267121791f8f79ae733698c614ab56511fa6"
     },
-    "213.160.77.221": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "213.160.77.221"
-    },
     "213.74.196.21": {
       "confidence": 0.93,
       "date": "2026-08-10 20:52:27",
@@ -7808,21 +7613,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "252525-26526.xyz"
-    },
-    "2556da51d1b4d0fd2616df8d77a1c557095bd0b41b76432039ed9ebca058a2c2": {
-      "confidence": 0.75,
-      "date": "2026-08-06 18:40:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Multi-stage malware chain: BAT dropper \u2192 AutoHotKey FUD loader \u2192 two payload files.",
-      "threat_type": "malware",
-      "tweet_id": "2085435802167734510",
-      "type": "sha256",
-      "value": "2556da51d1b4d0fd2616df8d77a1c557095bd0b41b76432039ed9ebca058a2c2"
     },
     "258bet8.com": {
       "confidence": 0.87,
@@ -9433,21 +9223,6 @@
       "type": "ip",
       "value": "43.153.167.191"
     },
-    "43.155.174.59": {
-      "confidence": 0.88,
-      "date": "2026-08-06 12:51:00",
-      "enriched_at": "2026-09-03T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing impersonating Japan's Statistics Bureau via CAPTCHA redirect chain through yuntianchina.com and galaxytx.com, resolving to 43.155.174.59.",
-      "threat_type": "phishing",
-      "tweet_id": "2085347926331793834",
-      "type": "ip",
-      "value": "43.155.174.59"
-    },
     "43.155.223.139": {
       "confidence": 0.9,
       "date": "2026-08-15 04:24:41",
@@ -9522,21 +9297,6 @@
       "tweet_id": "2094315172395708636",
       "type": "url",
       "value": "http://43.160.253.172"
-    },
-    "43.163.207.119": {
-      "confidence": 0.85,
-      "date": "2026-08-06 12:51:00",
-      "enriched_at": "2026-08-31T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing impersonating Japan's Ministry of Internal Affairs labor survey, CAPTCHA-gated, routed through 43.163.207.119 to 43.155.174.59",
-      "threat_type": "phishing",
-      "tweet_id": "2085347926331793834",
-      "type": "ip",
-      "value": "43.163.207.119"
     },
     "43.165.128.22": {
       "confidence": 0.92,
@@ -10657,21 +10417,6 @@
       "type": "sha256",
       "value": "4bba6b60b45168479c953df2a538aa69a21a8735a83f76974508b09888ce2c76"
     },
-    "4bbb6bb94343c2eb9a2de93be956043456c732a2bf3c2549bbb7dc9c31d9c31d": {
-      "confidence": 0.75,
-      "date": "2026-08-06 18:40:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Multi-stage malware chain: BAT dropper \u2192 AutoHotKey FUD loader \u2192 two payload files.",
-      "threat_type": "malware",
-      "tweet_id": "2085435802167734510",
-      "type": "sha256",
-      "value": "4bbb6bb94343c2eb9a2de93be956043456c732a2bf3c2549bbb7dc9c31d9c31d"
-    },
     "4cacc410b45f5099e53b9d7451b60d110aad9ab5e8311db7551b5a3ad5738965": {
       "confidence": 0.85,
       "date": "2026-08-13 07:53:01",
@@ -10828,23 +10573,6 @@
       "tweet_id": "2087521743665844640",
       "type": "ip",
       "value": "5.181.3.108"
-    },
-    "5.181.3.137": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "5.181.3.137"
     },
     "5.230.54.41": {
       "confidence": 0.9,
@@ -11606,21 +11334,6 @@
       "type": "sha256",
       "value": "5a8ab21cb329b8672379421dcf5bc59e6f174da6b835d5650cd0f50d7c4df534"
     },
-    "5aa0339a6544700fd9087b54b701c4f2d8ac19b2865dec4640cf97fc704cc8ba": {
-      "confidence": 0.75,
-      "date": "2026-08-06 17:39:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory hosting malware loader samples with low VT detection; loader and payload hashes submitted to URLhaus and MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2085420410091233507",
-      "type": "sha256",
-      "value": "5aa0339a6544700fd9087b54b701c4f2d8ac19b2865dec4640cf97fc704cc8ba"
-    },
     "5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d": {
       "confidence": 0.48,
       "date": "2026-08-18 14:35:06",
@@ -11635,39 +11348,6 @@
       "tweet_id": "2035099325290738036",
       "type": "sha256",
       "value": "5ab7b4677f8c02d57436dc1710e269c547ae54e8e753c6d5fbdfc07804602b8d"
-    },
-    "5adae26409c6576f95270ce9ca3877df3ee60849c18540fd92c0c9c974ba2f6d": {
-      "confidence": 0.9,
-      "date": "2026-08-06 13:35:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "plugx",
-      "suggested_tags": [
-        "plugx",
-        "apt",
-        "malware"
-      ],
-      "summary": "China-nexus APT delivers PlugX malware targeting Persian Gulf countries, exploiting renewed Middle East conflict as lure starting March 2026.",
-      "threat_type": "malware",
-      "tweet_id": "2085359123097391319",
-      "type": "sha256",
-      "value": "5adae26409c6576f95270ce9ca3877df3ee60849c18540fd92c0c9c974ba2f6d"
-    },
-    "5b86f6a04b58c3bbefaea113f9198c91573556ee50c30d8297cc6a0affc52011": {
-      "confidence": 0.95,
-      "date": "2026-08-06 14:25:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "AgentTesla infostealer delivered via Japanese-language malspam with .zip/.js dropper, exfiltrating via FTP to ftp.3dsportsgins.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085371682618056794",
-      "type": "sha256",
-      "value": "5b86f6a04b58c3bbefaea113f9198c91573556ee50c30d8297cc6a0affc52011"
     },
     "5b92a74a6e9405e418a138a2cbbddb36": {
       "confidence": 0.9,
@@ -11952,20 +11632,6 @@
       "tweet_id": "2087598313378119925",
       "type": "ip",
       "value": "62.182.80.48"
-    },
-    "62.210.172.147": {
-      "confidence": 0.95,
-      "date": "2026-08-06 17:00:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Trezor hardware wallet at startapps-trezor.wasmer.app hosted on Scaleway in France.",
-      "threat_type": "phishing",
-      "tweet_id": "2085410754497257605",
-      "type": "ip",
-      "value": "62.210.172.147"
     },
     "62354234.net": {
       "confidence": 0.98,
@@ -13585,23 +13251,6 @@
       "type": "url",
       "value": "http://78.153.149.56"
     },
-    "78.153.155.124": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "78.153.155.124"
-    },
     "78.154.103.38": {
       "confidence": 0.95,
       "date": "2026-08-11 07:25:05",
@@ -14549,42 +14198,6 @@
       "type": "url",
       "value": "http://85.215.197.9:8080"
     },
-    "86.107.32.99": {
-      "confidence": 0.9,
-      "date": "2026-08-06 14:35:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla C2 infrastructure: delivery via lenotecadiarqua.it (86.107.32.99:443) and SMTP exfiltration over smtp.hostinger.com:587.",
-      "threat_type": "malware",
-      "tweet_id": "2085374322970165406",
-      "type": "ip",
-      "value": "86.107.32.99"
-    },
-    "86.107.32.99:443": {
-      "confidence": 0.9,
-      "date": "2026-08-06 14:35:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla C2 infrastructure: delivery via lenotecadiarqua.it (86.107.32.99:443) and SMTP exfiltration over smtp.hostinger.com:587.",
-      "threat_type": "malware",
-      "tweet_id": "2085374322970165406",
-      "type": "url",
-      "value": "http://86.107.32.99:443"
-    },
     "864ed6df1ba1b615f2db460666e2aee72a025754f5d78be3d83ec8e3c41d4a09": {
       "confidence": 0.9,
       "date": "2026-08-24 06:53:58",
@@ -14771,23 +14384,6 @@
       "tweet_id": "2086012452475748830",
       "type": "url",
       "value": "http://89.125.255.236"
-    },
-    "89.185.80.222": {
-      "confidence": 0.93,
-      "date": "2026-08-06 16:29:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "evilginx",
-        "aitm",
-        "evilgophish"
-      ],
-      "summary": "Credential-harvesting infrastructure: 1,504 Gophish servers and AiTM reverse-proxy kits (Evilginx, Modlishka) across 303 ASNs stealing MFA sessions.",
-      "threat_type": "phishing",
-      "tweet_id": "2085403006879637538",
-      "type": "ip",
-      "value": "89.185.80.222"
     },
     "89.34.90.45": {
       "confidence": 0.9,
@@ -15977,23 +15573,6 @@
       "type": "sha256",
       "value": "a6fda8c32f72a68d544ccb4b3da6c669b0966b52edd8b44e34ff210a5ebb572f"
     },
-    "a7640dc0ccba4a073c09925c5ae0519e9b5f4f311b41cd1c6ca0aa93f16e8e04": {
-      "confidence": 0.95,
-      "date": "2026-08-06 14:35:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware"
-      ],
-      "summary": "AgentTesla infostealer delivered via Japanese-language malspam with .tar/.js dropper, exfiltrating credentials via smtp.hostinger.com.",
-      "threat_type": "malware",
-      "tweet_id": "2085374321133002962",
-      "type": "sha256",
-      "value": "a7640dc0ccba4a073c09925c5ae0519e9b5f4f311b41cd1c6ca0aa93f16e8e04"
-    },
     "a7bcf7ea8e9f3f36ebfb85b823e39d91": {
       "confidence": 0.82,
       "date": "2026-08-21 20:45:37",
@@ -16870,24 +16449,6 @@
       "tweet_id": "2091719761684041947",
       "type": "domain",
       "value": "aeyh688.club"
-    },
-    "af0309aa38d067373c54b2a7774a32f68ab72cb2dbf5aed74ac784b079830184": {
-      "confidence": 0.9,
-      "date": "2026-08-06 14:31:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "dprk",
-        "apt",
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "DPRK-linked actor targets South Korean companies via LNK files with XenoRAT malware using GitHub as C2 infrastructure; targets active since 2024.",
-      "threat_type": "malware",
-      "tweet_id": "2085373311635075368",
-      "type": "sha256",
-      "value": "af0309aa38d067373c54b2a7774a32f68ab72cb2dbf5aed74ac784b079830184"
     },
     "af66498a766b7b6153a3c01b77050ff4759e76622c7894f2aa0e4556363fbecc": {
       "confidence": 0.82,
@@ -21713,57 +21274,6 @@
       "type": "sha256",
       "value": "c240b8b5400a53cae0401e1c38b5a61fd5796ce6ff74b90724de12c334e50d86"
     },
-    "c2b69bf29fd585489bfad78ca1f9597a575ce1e2a79f8972e489a1c5bfad432f": {
-      "confidence": 0.75,
-      "date": "2026-08-06 17:39:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory hosting malware loader samples with low VT detection; loader and payload hashes submitted to URLhaus and MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2085420410091233507",
-      "type": "sha256",
-      "value": "c2b69bf29fd585489bfad78ca1f9597a575ce1e2a79f8972e489a1c5bfad432f"
-    },
-    "c2smtp.hostinger.com": {
-      "confidence": 0.82,
-      "date": "2026-08-06 16:50:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla malware using lenotecadiarqua.it (86.107.32.99:443) for delivery and smtp.hostinger.com:587 for SMTP exfiltration.",
-      "threat_type": "malware",
-      "tweet_id": "2085408100324925763",
-      "type": "domain",
-      "value": "c2smtp.hostinger.com"
-    },
-    "c2smtp.hostinger.com:587": {
-      "confidence": 0.82,
-      "date": "2026-08-06 16:50:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla malware using lenotecadiarqua.it (86.107.32.99:443) for delivery and smtp.hostinger.com:587 for SMTP exfiltration.",
-      "threat_type": "malware",
-      "tweet_id": "2085408100324925763",
-      "type": "url",
-      "value": "http://C2smtp.hostinger.com:587"
-    },
     "c2test.ranftler.eu": {
       "confidence": 0.9,
       "date": "2026-08-18 17:50:47",
@@ -22669,22 +22179,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "ccnsksndnsndnsadasa.com"
-    },
-    "cdbcf64d418903ae385ff1942b51cbf0": {
-      "confidence": 0.72,
-      "date": "2026-08-06 13:18:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "CATShadow Grabber infostealer sample identified by MD5 hash cdbcf64d418903ae385ff1942b51cbf0.",
-      "threat_type": "malware",
-      "tweet_id": "2085354776204824752",
-      "type": "md5",
-      "value": "cdbcf64d418903ae385ff1942b51cbf0"
     },
     "cdf7a0cc26ed6b4136ce69b74d8694ed": {
       "confidence": 0.85,
@@ -24881,21 +24375,6 @@
       "type": "md5",
       "value": "d2f245c8d6f7615f1274cfca61c5a26f"
     },
-    "d505e2297629a1cd2d9a85825cb0c7b02f19674a80f43216fd3fb365c22bca80": {
-      "confidence": 0.75,
-      "date": "2026-08-06 18:40:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Multi-stage malware chain: BAT dropper \u2192 AutoHotKey FUD loader \u2192 two payload files.",
-      "threat_type": "malware",
-      "tweet_id": "2085435802167734510",
-      "type": "sha256",
-      "value": "d505e2297629a1cd2d9a85825cb0c7b02f19674a80f43216fd3fb365c22bca80"
-    },
     "d59f36ddcc7460bf5bcd9fde274982bb": {
       "confidence": 0.85,
       "date": "2026-08-20 09:32:19",
@@ -24911,21 +24390,6 @@
       "tweet_id": "2090371340176146695",
       "type": "md5",
       "value": "d59f36ddcc7460bf5bcd9fde274982bb"
-    },
-    "d6639cd7dd18b5094f229a36cadda9aec9aa9cd269e59a0c40f05760107c62cb": {
-      "confidence": 0.75,
-      "date": "2026-08-06 18:40:00",
-      "enriched_at": "2026-08-07T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Multi-stage malware chain: BAT dropper \u2192 AutoHotKey FUD loader \u2192 two payload files.",
-      "threat_type": "malware",
-      "tweet_id": "2085435802167734510",
-      "type": "sha256",
-      "value": "d6639cd7dd18b5094f229a36cadda9aec9aa9cd269e59a0c40f05760107c62cb"
     },
     "d68810f29a58f09db1f036393cfc52c6b0934e7089077bc90a38fdece78489d9": {
       "confidence": 0.97,
@@ -25195,22 +24659,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "dagsdghqw.sbs"
-    },
-    "dahdangshan-1372261619.cos.accelerate.myqcloud.com": {
-      "confidence": 0.8,
-      "date": "2026-08-06 17:42:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "malware"
-      ],
-      "summary": "ValleyRAT C2 domain dahdangshan-1372261619.cos.accelerate.myqcloud.com identified via retrohunt on myqcloud infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2085421177976041587",
-      "type": "domain",
-      "value": "dahdangshan-1372261619.cos.accelerate.myqcloud.com"
     },
     "dakkllners.com": {
       "confidence": 0.9,
@@ -25567,22 +25015,6 @@
       "tweet_id": "2087203109764317459",
       "type": "domain",
       "value": "deepseek-desktop.com.cn"
-    },
-    "defense-housing-authority.vagued.live": {
-      "confidence": 0.87,
-      "date": "2026-08-06 15:18:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware",
-        "rat"
-      ],
-      "summary": "SideWinder APT delivers obfuscated .NET payload via DHA-themed Word document using remote template injection from defense-housing-authority.vagued.live.",
-      "threat_type": "malware",
-      "tweet_id": "2085384961570349091",
-      "type": "domain",
-      "value": "defense-housing-authority.vagued.live"
     },
     "defhost.co": {
       "confidence": 0.88,
@@ -27794,21 +27226,6 @@
       "tweet_id": "2090926084116369463",
       "type": "sha256",
       "value": "ed546ce79f253124189f0fabd432475e08fc2425a5e37052e05e2dd58f037f97"
-    },
-    "edge.cdn-vitals.com": {
-      "confidence": 0.6,
-      "date": "2026-08-06 17:46:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart"
-      ],
-      "summary": "Suspicious domain edge.cdn-vitals.com injected into pubfig.min.js on publisherfirst with high URLScan activity.",
-      "threat_type": "malware",
-      "tweet_id": "2085422305468166352",
-      "type": "domain",
-      "value": "edge.cdn-vitals.com"
     },
     "edgeupstudio.com": {
       "confidence": 0.88,
@@ -30411,23 +29828,6 @@
       "tweet_id": "2089772009744150862",
       "type": "domain",
       "value": "ftp.cuteops.fr"
-    },
-    "ftp://ftp.3dsportsgins.com:21": {
-      "confidence": 0.9,
-      "date": "2026-08-06 14:25:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "c2",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "AgentTesla FTP exfiltration C2 endpoint at ftp.3dsportsgins.com port 21.",
-      "threat_type": "c2",
-      "tweet_id": "2085371684413227342",
-      "type": "url",
-      "value": "ftp://ftp.3dsportsgins.com:21"
     },
     "fuoe333.club": {
       "confidence": 0.35,
@@ -37557,36 +36957,6 @@
       "type": "domain",
       "value": "kuisusdt.com"
     },
-    "kupxphlecnejs.top": {
-      "confidence": 0.9,
-      "date": "2026-08-06 12:51:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing campaign impersonating Japan's 2026 labor survey / Ministry of Finance using fake CAPTCHA gate to redirect victims to credential-harvesting site.",
-      "threat_type": "phishing",
-      "tweet_id": "2085347926331793834",
-      "type": "domain",
-      "value": "kupxphlecnejs.top"
-    },
-    "kupxphlecnejs.top/jp": {
-      "confidence": 0.9,
-      "date": "2026-08-06 12:51:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing campaign impersonating Japan's 2026 labor survey / Ministry of Finance using fake CAPTCHA gate to redirect victims to credential-harvesting site.",
-      "threat_type": "phishing",
-      "tweet_id": "2085347926331793834",
-      "type": "url",
-      "value": "https://kupxphlecnejs.top/jp"
-    },
     "kwmsteam.com": {
       "confidence": 0.88,
       "date": "2026-08-19 04:13:43",
@@ -38219,42 +37589,6 @@
       "tweet_id": "2086635708375028154",
       "type": "domain",
       "value": "leketiyu.com"
-    },
-    "lenotecadiarqua.it": {
-      "confidence": 0.9,
-      "date": "2026-08-06 14:35:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla C2 infrastructure: delivery via lenotecadiarqua.it (86.107.32.99:443) and SMTP exfiltration over smtp.hostinger.com:587.",
-      "threat_type": "malware",
-      "tweet_id": "2085374322970165406",
-      "type": "domain",
-      "value": "lenotecadiarqua.it"
-    },
-    "lenotecadiarqua.it:443": {
-      "confidence": 0.82,
-      "date": "2026-08-06 16:50:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla malware using lenotecadiarqua.it (86.107.32.99:443) for delivery and smtp.hostinger.com:587 for SMTP exfiltration.",
-      "threat_type": "malware",
-      "tweet_id": "2085408100324925763",
-      "type": "url",
-      "value": "https://lenotecadiarqua.it:443"
     },
     "lesliebernini.org": {
       "confidence": 0.9,
@@ -42963,21 +42297,6 @@
       "type": "domain",
       "value": "ntnmid.dynuddns.com"
     },
-    "ntpack.online": {
-      "confidence": 0.75,
-      "date": "2026-08-06 18:00:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "APT PaperWerewolf malware domain ntpack.online linked to cyber espionage campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2085425690456047898",
-      "type": "domain",
-      "value": "ntpack.online"
-    },
     "ntpchecksum.online": {
       "confidence": 0.62,
       "date": "2026-08-12 18:00:03",
@@ -42993,21 +42312,6 @@
       "tweet_id": "2087600014411616593",
       "type": "domain",
       "value": "ntpchecksum.online"
-    },
-    "ntpsetup.online": {
-      "confidence": 0.75,
-      "date": "2026-08-06 18:05:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "APT PaperWerewolf malware domain ntpsetup.online linked to cyber espionage campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2085426957714333877",
-      "type": "domain",
-      "value": "ntpsetup.online"
     },
     "ntx-store.dynv6.net": {
       "confidence": 0.95,
@@ -43943,6 +43247,34 @@
       "tweet_id": "2089388552882622939",
       "type": "url",
       "value": "http://painel.guintter.com.br/Windows/invite.php"
+    },
+    "paintingth.iqlvebw.cn": {
+      "confidence": 0.93,
+      "date": "2026-09-05 14:32:24",
+      "enriched_at": "2026-09-05T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Japan Post at paintingth.iqlvebw.cn targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2096245063844299048",
+      "type": "domain",
+      "value": "paintingth.iqlvebw.cn"
+    },
+    "paintingth.iqlvebw.cn/szhusg/potyunde": {
+      "confidence": 0.93,
+      "date": "2026-09-05 14:32:24",
+      "enriched_at": "2026-09-05T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Japan Post at paintingth.iqlvebw.cn targeting Japanese users.",
+      "threat_type": "phishing",
+      "tweet_id": "2096245063844299048",
+      "type": "url",
+      "value": "https://paintingth.iqlvebw.cn/SZHUSg/potyunde"
     },
     "paintshop.posmasters.lk": {
       "confidence": 0.95,
@@ -49614,24 +48946,6 @@
       "type": "domain",
       "value": "smnoz.dynu.org"
     },
-    "smtp.hostinger.com:587": {
-      "confidence": 0.9,
-      "date": "2026-08-06 14:35:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": "agenttesla",
-      "suggested_tags": [
-        "agenttesla",
-        "infostealer",
-        "stealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "AgentTesla C2 infrastructure: delivery via lenotecadiarqua.it (86.107.32.99:443) and SMTP exfiltration over smtp.hostinger.com:587.",
-      "threat_type": "malware",
-      "tweet_id": "2085374322970165406",
-      "type": "url",
-      "value": "http://smtp.hostinger.com:587"
-    },
     "snc.posmasters.lk": {
       "confidence": 0.95,
       "date": "2026-08-17 21:14:37",
@@ -50245,20 +49559,6 @@
       "tweet_id": "2089107474825527555",
       "type": "domain",
       "value": "start-live--ledger-app.typedream.app"
-    },
-    "startapps-trezor.wasmer.app": {
-      "confidence": 0.95,
-      "date": "2026-08-06 17:00:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Trezor hardware wallet at startapps-trezor.wasmer.app hosted on Scaleway in France.",
-      "threat_type": "phishing",
-      "tweet_id": "2085410754497257605",
-      "type": "domain",
-      "value": "startapps-trezor.wasmer.app"
     },
     "startfestuk.top": {
       "confidence": 0.9,
@@ -57755,6 +57055,20 @@
       "type": "domain",
       "value": "wg777slot02.cc"
     },
+    "whatsapp.traviyo.in": {
+      "confidence": 0.95,
+      "date": "2026-09-05 17:00:57",
+      "enriched_at": "2026-09-05T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "WhatsApp phishing site at whatsapp.traviyo.in (103.234.185.7) hosted on Indian AS140641 YOTTA NETWORK SERVICES; SSL by SSL2BUY EMEA RSA DV CA.",
+      "threat_type": "phishing",
+      "tweet_id": "2096282449089106217",
+      "type": "domain",
+      "value": "whatsapp.traviyo.in"
+    },
     "wheatnwhiskey.info": {
       "confidence": 0.9,
       "date": "2026-08-29 02:57:14",
@@ -60135,20 +59449,6 @@
       "type": "domain",
       "value": "ypj.wie.mybluehost.me"
     },
-    "yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion": {
-      "confidence": 0.9,
-      "date": "2026-08-06 16:40:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Storm ransomware new Tor leak site listing 6 victims.",
-      "threat_type": "ransomware",
-      "tweet_id": "2085405624243040556",
-      "type": "domain",
-      "value": "yqhecvqtdvq6p7duqcgw2qca77spbgakxcoibtx6zpvfshltsbbbhfqd.onion"
-    },
     "yqtxeterferh.top": {
       "confidence": 0.9,
       "date": "2026-08-10 01:39:07",
@@ -60205,36 +59505,6 @@
       "tweet_id": "2086924852993073222",
       "type": "domain",
       "value": "yun.jcd666.vip"
-    },
-    "yuntianchina.com": {
-      "confidence": 0.9,
-      "date": "2026-08-06 12:51:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing campaign impersonating Japan's 2026 labor survey / Ministry of Finance using fake CAPTCHA gate to redirect victims to credential-harvesting site.",
-      "threat_type": "phishing",
-      "tweet_id": "2085347926331793834",
-      "type": "domain",
-      "value": "yuntianchina.com"
-    },
-    "yuntianchina.com/page/qqevtkxrsi": {
-      "confidence": 0.9,
-      "date": "2026-08-06 12:51:00",
-      "enriched_at": "2026-08-06T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "fakecaptcha"
-      ],
-      "summary": "Phishing campaign impersonating Japan's 2026 labor survey / Ministry of Finance using fake CAPTCHA gate to redirect victims to credential-harvesting site.",
-      "threat_type": "phishing",
-      "tweet_id": "2085347926331793834",
-      "type": "url",
-      "value": "https://yuntianchina.com/page/qqevtkxrsi"
     },
     "yunxusdt.com": {
       "confidence": 0.9,
@@ -61699,6 +60969,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-05T12:40:04Z",
+  "generated_at": "2026-09-05T18:40:04Z",
   "window_days": 30
 }
