@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2636
-# Updated: 2026-09-05T19:15:16Z
+# Entries: 2638
+# Updated: 2026-09-05T21:30:17Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -551,6 +551,7 @@ address=/cloud-access.org/0.0.0.0
 address=/cloud-flare-authenticator.link/0.0.0.0
 address=/cloud-warppe-d-ether-walle-t.typedream.app/0.0.0.0
 address=/cloud.fanpro.top/0.0.0.0
+address=/cloud.shikarathekashmirspride.com/0.0.0.0
 address=/cloudfrontenterprise.com/0.0.0.0
 address=/cloudmora.site/0.0.0.0
 address=/clubdenut.club/0.0.0.0
@@ -1431,6 +1432,7 @@ address=/merkezrandevu-hi.com/0.0.0.0
 address=/meshcore.nephelae-cloud.com/0.0.0.0
 address=/metamask-login-11.gitbook.io/0.0.0.0
 address=/metamasky.com/0.0.0.0
+address=/metamonetization.live/0.0.0.0
 address=/metropenhouses.com/0.0.0.0
 address=/mfapasskeysetup.com/0.0.0.0
 address=/mh-r-al-randv-simdi-hemence.duckdns.org/0.0.0.0

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 2636
-# Updated: 2026-09-05T19:15:16Z
+# Entries: 2638
+# Updated: 2026-09-05T21:30:17Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -551,6 +551,7 @@
 ||cloud-flare-authenticator.link^
 ||cloud-warppe-d-ether-walle-t.typedream.app^
 ||cloud.fanpro.top^
+||cloud.shikarathekashmirspride.com^
 ||cloudfrontenterprise.com^
 ||cloudmora.site^
 ||clubdenut.club^
@@ -1431,6 +1432,7 @@
 ||meshcore.nephelae-cloud.com^
 ||metamask-login-11.gitbook.io^
 ||metamasky.com^
+||metamonetization.live^
 ||metropenhouses.com^
 ||mfapasskeysetup.com^
 ||mh-r-al-randv-simdi-hemence.duckdns.org^
