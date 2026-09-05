@@ -1,5 +1,5 @@
 {
-  "count": 4194,
+  "count": 4162,
   "dead_tweets": {
     "2082982439425560754": {
       "attempts": 2,
@@ -24,6 +24,10 @@
     "2083797555658252619": {
       "attempts": 2,
       "last_attempt": "2026-08-31T18:40:04Z"
+    },
+    "2087799248439902618": {
+      "attempts": 1,
+      "last_attempt": "2026-09-05T00:40:04Z"
     }
   },
   "entries": {
@@ -2442,6 +2446,24 @@
       "tweet_id": "2088178962065457539",
       "type": "sha256",
       "value": "1191426749c2f3a6e1c5dadf11ad8ce5bd2ae3225fe11103230112b5b9731669"
+    },
+    "120.26.146.96": {
+      "confidence": 0.85,
+      "date": "2026-08-07 13:03:00",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "opendir",
+        "malware",
+        "rat"
+      ],
+      "summary": "Self-hosted AI stacks on open directories co-located with Sliver C2 and malware hosting; 120.26.146.96 flagged with sub2api, Sliver, and malware.",
+      "threat_type": "c2",
+      "tweet_id": "2085713328928698486",
+      "type": "ip",
+      "value": "120.26.146.96"
     },
     "121.127.253.206": {
       "confidence": 0.9,
@@ -5479,21 +5501,6 @@
       "type": "ip",
       "value": "192.185.216.47"
     },
-    "192.238.160.133": {
-      "confidence": 0.93,
-      "date": "2026-08-05 21:21:00",
-      "enriched_at": "2026-09-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing targeting MUFG (\u4e09\u83f1UFJ\u9280\u884c) via mg-euwqnasnd.com hosted at 192.238.160.133 (AS138995 Antbox Networks, Aceville Pte. registrar).",
-      "threat_type": "phishing",
-      "tweet_id": "2085114015420735794",
-      "type": "ip",
-      "value": "192.238.160.133"
-    },
     "192.252.178.228": {
       "confidence": 0.82,
       "date": "2026-08-07 20:53:00",
@@ -5510,6 +5517,40 @@
       "tweet_id": "2085831821615333436",
       "type": "url",
       "value": "http://192.252.178.228"
+    },
+    "192.252.180.45": {
+      "confidence": 0.92,
+      "date": "2026-08-10 05:25:03",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ValleyRAT distributed via Japanese tax notice email lure (7z/img); C2 at 192.252.180.45:6666 and 64.81.30.192:6666.",
+      "threat_type": "c2",
+      "tweet_id": "2086685235241259225",
+      "type": "ip",
+      "value": "192.252.180.45"
+    },
+    "192.252.180.45:6666": {
+      "confidence": 0.92,
+      "date": "2026-08-10 05:25:03",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ValleyRAT distributed via Japanese tax notice email lure (7z/img); C2 at 192.252.180.45:6666 and 64.81.30.192:6666.",
+      "threat_type": "c2",
+      "tweet_id": "2086685235241259225",
+      "type": "url",
+      "value": "http://192.252.180.45:6666"
     },
     "192.255.139.5": {
       "confidence": 0.85,
@@ -5540,21 +5581,6 @@
       "tweet_id": "2087771977775767769",
       "type": "url",
       "value": "http://192.3.1.116"
-    },
-    "192.3.140.114": {
-      "confidence": 0.96,
-      "date": "2026-08-05 21:19:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing sites impersonating Resona Bank (\u308a\u305d\u306a\u9280\u884c) hosted on HostPapa infrastructure, registrar Gname.",
-      "threat_type": "phishing",
-      "tweet_id": "2085113595487047788",
-      "type": "ip",
-      "value": "192.3.140.114"
     },
     "192.58.21.65": {
       "confidence": 0.65,
@@ -5698,6 +5724,22 @@
       "tweet_id": "2089039015131668631",
       "type": "ip",
       "value": "193.221.201.195"
+    },
+    "193.247.144.38": {
+      "confidence": 0.85,
+      "date": "2026-09-04 21:34:28",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Active DEV#POPPER campaign uses fake Babel NPM package with ETH smart contract C2 resolution, targeting job seekers via spearphishing.",
+      "threat_type": "malware",
+      "tweet_id": "2095988892029559100",
+      "type": "ip",
+      "value": "193.247.144.38"
     },
     "193.26.115.17": {
       "confidence": 0.85,
@@ -8793,21 +8835,6 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "347456586543242.org"
-    },
-    "3516fb765a25525198d8b304527738d4": {
-      "confidence": 0.4,
-      "date": "2026-08-05 21:35:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "MD5 hash flagged as RatHat malware sample with minimal context.",
-      "threat_type": "malware",
-      "tweet_id": "2085117574212161628",
-      "type": "md5",
-      "value": "3516fb765a25525198d8b304527738d4"
     },
     "354653468000.net": {
       "confidence": 0.98,
@@ -12399,6 +12426,40 @@
       "type": "ip",
       "value": "64.239.123.65"
     },
+    "64.81.30.192": {
+      "confidence": 0.92,
+      "date": "2026-08-10 05:25:03",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ValleyRAT distributed via Japanese tax notice email lure (7z/img); C2 at 192.252.180.45:6666 and 64.81.30.192:6666.",
+      "threat_type": "c2",
+      "tweet_id": "2086685235241259225",
+      "type": "ip",
+      "value": "64.81.30.192"
+    },
+    "64.81.30.192:6666": {
+      "confidence": 0.92,
+      "date": "2026-08-10 05:25:03",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "rat",
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "ValleyRAT distributed via Japanese tax notice email lure (7z/img); C2 at 192.252.180.45:6666 and 64.81.30.192:6666.",
+      "threat_type": "c2",
+      "tweet_id": "2086685235241259225",
+      "type": "url",
+      "value": "http://64.81.30.192:6666"
+    },
     "64.89.160.97": {
       "confidence": 0.82,
       "date": "2026-08-09 07:38:17",
@@ -12729,6 +12790,21 @@
       "tweet_id": "2089772009744150862",
       "type": "url",
       "value": "http://67.190.127.122:8080"
+    },
+    "67.215.232.25": {
+      "confidence": 0.6,
+      "date": "2026-09-04 20:05:10",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "opendir"
+      ],
+      "summary": "Windows host 67.215.232.25 observed with a comprehensive set of offensive/malicious tools.",
+      "threat_type": "malware",
+      "tweet_id": "2095966422283231580",
+      "type": "ip",
+      "value": "67.215.232.25"
     },
     "67.217.228.244": {
       "confidence": 0.7,
@@ -13187,6 +13263,24 @@
       "tweet_id": "2087819891676176792",
       "type": "md5",
       "value": "6e5022d49b561db98abd4c676dbec56b"
+    },
+    "6e6addf3e7287cf160054ef4647f8c67754f3cdc6efbdf21f117cb98c4c95534": {
+      "confidence": 0.95,
+      "date": "2026-08-24 06:53:58",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Kimsuky APT spearphishing delivers malicious LNK via OneDrive ZIP, deploys VBScript, keylogger, and remote access tools against SK/JP targets.",
+      "threat_type": "malware",
+      "tweet_id": "2091781040469672305",
+      "type": "sha256",
+      "value": "6e6addf3e7287cf160054ef4647f8c67754f3cdc6efbdf21f117cb98c4c95534"
     },
     "6f4bb2d74cc44ef3563a05eec27a2a7f": {
       "confidence": 0.82,
@@ -15280,6 +15374,21 @@
       "tweet_id": "2091722747470872799",
       "type": "sha256",
       "value": "8b141a7c5d8af94ed37ea2b5dd676f9cb105ba8a6eedda36349899a2f1d065ff"
+    },
+    "8b3d8de78681adc71667f6f687102183": {
+      "confidence": 0.7,
+      "date": "2026-09-04 19:37:37",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Malicious EXE dropped via malicious HTA linked to ManageEngine device; downloads payload from wordtax.ink.",
+      "threat_type": "malware",
+      "tweet_id": "2095959489056846084",
+      "type": "md5",
+      "value": "8b3d8de78681adc71667f6f687102183"
     },
     "8be68dea337a1e7ab1224a10c3c6ca640d55292d135194a5e5ec9454b3bda906": {
       "confidence": 0.92,
@@ -17814,6 +17923,20 @@
       "tweet_id": "2086583761274012009",
       "type": "domain",
       "value": "allahiniziskm.duckdns.org"
+    },
+    "allegro.012031928g.lol": {
+      "confidence": 0.9,
+      "date": "2026-09-04 20:32:30",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site at allegro.012031928g.lol impersonating Allegro, hosted on AS52925.",
+      "threat_type": "phishing",
+      "tweet_id": "2095973299167645817",
+      "type": "domain",
+      "value": "allegro.012031928g.lol"
     },
     "allegro.1200000498.casa": {
       "confidence": 0.91,
@@ -21723,21 +21846,6 @@
       "tweet_id": "2089944905661771919",
       "type": "domain",
       "value": "bverster.store"
-    },
-    "bwaoidsankq.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "bwaoidsankq.com"
     },
     "bwdocusignsetup.icu": {
       "confidence": 0.97,
@@ -35345,21 +35453,6 @@
       "type": "url",
       "value": "http://hurtomtracker.live:2428"
     },
-    "hwauynskda.store": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "hwauynskda.store"
-    },
     "hxn20160817021han.zip": {
       "confidence": 0.87,
       "date": "2026-08-19 08:25:06",
@@ -39693,21 +39786,6 @@
       "type": "domain",
       "value": "lowbilding.ydns.eu"
     },
-    "lpomnsadiqbn.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "lpomnsadiqbn.com"
-    },
     "lppppsrppp.xyz": {
       "confidence": 0.98,
       "date": "2026-08-09 23:18:24",
@@ -40926,246 +41004,6 @@
       "tweet_id": "2087154633047446000",
       "type": "domain",
       "value": "mfapasskeysetup.com"
-    },
-    "mg-euwqnasnd.com": {
-      "confidence": 0.93,
-      "date": "2026-08-05 21:21:00",
-      "enriched_at": "2026-09-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing targeting MUFG (\u4e09\u83f1UFJ\u9280\u884c) via mg-euwqnasnd.com hosted at 192.238.160.133 (AS138995 Antbox Networks, Aceville Pte. registrar).",
-      "threat_type": "phishing",
-      "tweet_id": "2085114015420735794",
-      "type": "domain",
-      "value": "mg-euwqnasnd.com"
-    },
-    "mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginusername": {
-      "confidence": 0.93,
-      "date": "2026-08-05 21:21:00",
-      "enriched_at": "2026-09-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing targeting MUFG (\u4e09\u83f1UFJ\u9280\u884c) via mg-euwqnasnd.com hosted at 192.238.160.133 (AS138995 Antbox Networks, Aceville Pte. registrar).",
-      "threat_type": "phishing",
-      "tweet_id": "2085114015420735794",
-      "type": "url",
-      "value": "https://mg-euwqnasnd.com/pc_0010021312/sp_001239u1923/login/loginUsername"
-    },
-    "mg-iuwanmsd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-iuwanmsd.com"
-    },
-    "mg-iuwansmd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-iuwansmd.com"
-    },
-    "mg-iwaimsdas.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-iwaimsdas.com"
-    },
-    "mg-iwaunsdas.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-iwaunsdas.com"
-    },
-    "mg-plasdnwq.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-plasdnwq.com"
-    },
-    "mg-pokemasod.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-pokemasod.com"
-    },
-    "mg-pokqwmdsa.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-pokqwmdsa.com"
-    },
-    "mg-uwannsdas.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-uwannsdas.com"
-    },
-    "mg-uwansda.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-uwansda.com"
-    },
-    "mg-uwansmdas.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-uwansmdas.com"
-    },
-    "mg-uwansmdd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-uwansmdd.com"
-    },
-    "mg-uweansmda.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-uweansmda.com"
-    },
-    "mg-wuajsdqasd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-wuajsdqasd.com"
-    },
-    "mg-wuasdadf.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mg-wuasdadf.com"
     },
     "mh-r-al-randv-simdi-hemence.duckdns.org": {
       "confidence": 0.98,
@@ -42564,216 +42402,6 @@
       "tweet_id": "2086592966127177859",
       "type": "domain",
       "value": "msshrrdkevu.com"
-    },
-    "mu-hninidas.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-hninidas.com"
-    },
-    "mu-iundoanoq.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-iundoanoq.com"
-    },
-    "mu-iwanmdas.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-iwanmdas.com"
-    },
-    "mu-niqwnekads.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-niqwnekads.com"
-    },
-    "mu-pokensma.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-pokensma.com"
-    },
-    "mu-pokwqeasd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-pokwqeasd.com"
-    },
-    "mu-poqwejsda.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-poqwejsda.com"
-    },
-    "mu-poqwensa.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-poqwensa.com"
-    },
-    "mu-posdnqeasd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-posdnqeasd.com"
-    },
-    "mu-pqwenoasd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-pqwenoasd.com"
-    },
-    "mu-sadqweasc.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-sadqweasc.com"
-    },
-    "mu-sndoqasdda.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-sndoqasdda.com"
-    },
-    "mu-uasndqwsd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-uasndqwsd.com"
-    },
-    "mu-uioqwjeasd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "mu-uioqwjeasd.com"
     },
     "mu.jpjy-09.shop": {
       "confidence": 0.95,
@@ -46263,21 +45891,6 @@
       "tweet_id": "2092963159745126554",
       "type": "domain",
       "value": "potwierdzenie-bezpieczenstwa.vercel.app"
-    },
-    "powaujimd.store": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "powaujimd.store"
     },
     "powerepq.com": {
       "confidence": 0.9,
@@ -51421,6 +51034,22 @@
       "type": "domain",
       "value": "spyroid.net"
     },
+    "sqllq.com": {
+      "confidence": 0.85,
+      "date": "2026-08-06 12:10:00",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "clickfix",
+        "fakecaptcha"
+      ],
+      "summary": "Webamon daily brief: sqllq.com subdomain phishing (1,476 new domains), ClickFix fake-Cloudflare delivery (242 domains, high churn), fake CAPTCHA active.",
+      "threat_type": "phishing",
+      "tweet_id": "2085337645261979903",
+      "type": "domain",
+      "value": "sqllq.com"
+    },
     "srt.kizlarburada.click": {
       "confidence": 0.98,
       "date": "2026-08-09 22:41:50",
@@ -53443,6 +53072,20 @@
       "tweet_id": "2091765432038387769",
       "type": "url",
       "value": "http://telegram.me/s11yme"
+    },
+    "telendszes.work": {
+      "confidence": 0.9,
+      "date": "2026-09-04 18:53:52",
+      "enriched_at": "2026-09-05T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing domain telendszes.work targeting Telegram users.",
+      "threat_type": "phishing",
+      "tweet_id": "2095948477679161541",
+      "type": "domain",
+      "value": "telendszes.work"
     },
     "tells-vendors-speech-taste.trycloudflare.com": {
       "confidence": 0.98,
@@ -56784,51 +56427,6 @@
       "type": "domain",
       "value": "uqj3u0wuaqdngwgfkw.vercel.app"
     },
-    "urbanizab2b.com": {
-      "confidence": 0.96,
-      "date": "2026-08-05 21:19:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing sites impersonating Resona Bank (\u308a\u305d\u306a\u9280\u884c) hosted on HostPapa infrastructure, registrar Gname.",
-      "threat_type": "phishing",
-      "tweet_id": "2085113595487047788",
-      "type": "domain",
-      "value": "urbanizab2b.com"
-    },
-    "urbanizab2b.com/jmffvprn": {
-      "confidence": 0.96,
-      "date": "2026-08-05 21:07:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing URL impersonating Resona Bank (\u308a\u305d\u306a\u9280\u884c) at urbanizab2b.com on HostPapa infrastructure.",
-      "threat_type": "phishing",
-      "tweet_id": "2085110467488632880",
-      "type": "url",
-      "value": "https://urbanizab2b.com/jmFfvPRN/"
-    },
-    "urbanizab2b.com/jmffvprn/ip": {
-      "confidence": 0.96,
-      "date": "2026-08-05 21:19:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing sites impersonating Resona Bank (\u308a\u305d\u306a\u9280\u884c) hosted on HostPapa infrastructure, registrar Gname.",
-      "threat_type": "phishing",
-      "tweet_id": "2085113595487047788",
-      "type": "url",
-      "value": "https://urbanizab2b.com/jmFfvPRN/ip"
-    },
     "urlshort-linkmri0w5kc3r96.5go.workers.dev": {
       "confidence": 0.72,
       "date": "2026-08-26 07:11:32",
@@ -57511,21 +57109,6 @@
       "type": "domain",
       "value": "uvm6hk4wwstfddja5z5htgtlehmfyflffijz6iozsuqyacyibzxefkqd.onion"
     },
-    "uwjdqojmnasd.com": {
-      "confidence": 0.97,
-      "date": "2026-08-05 21:29:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing campaign impersonating MUFG (Mitsubishi UFJ Bank) using 33 lookalike domains hosted on Antbox Networks AS138995.",
-      "threat_type": "phishing",
-      "tweet_id": "2085116114846318633",
-      "type": "domain",
-      "value": "uwjdqojmnasd.com"
-    },
     "uyu.ker.mybluehost.me": {
       "confidence": 0.95,
       "date": "2026-08-17 21:14:37",
@@ -58004,36 +57587,6 @@
       "tweet_id": "2089388552882622939",
       "type": "url",
       "value": "http://viewers-media.de/peer/Windows/invite.php"
-    },
-    "vignobles-lorgeril.com": {
-      "confidence": 0.96,
-      "date": "2026-08-05 21:19:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing sites impersonating Resona Bank (\u308a\u305d\u306a\u9280\u884c) hosted on HostPapa infrastructure, registrar Gname.",
-      "threat_type": "phishing",
-      "tweet_id": "2085113595487047788",
-      "type": "domain",
-      "value": "vignobles-lorgeril.com"
-    },
-    "vignobles-lorgeril.com/jmffvprn": {
-      "confidence": 0.96,
-      "date": "2026-08-05 21:19:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing sites impersonating Resona Bank (\u308a\u305d\u306a\u9280\u884c) hosted on HostPapa infrastructure, registrar Gname.",
-      "threat_type": "phishing",
-      "tweet_id": "2085113595487047788",
-      "type": "url",
-      "value": "https://vignobles-lorgeril.com/jmFfvPRN/"
     },
     "vimcolors.com": {
       "confidence": 0.93,
@@ -60934,21 +60487,6 @@
       "type": "domain",
       "value": "xiezuotuan.com"
     },
-    "xingjushidai.cn": {
-      "confidence": 0.6,
-      "date": "2026-08-05 20:52:00",
-      "enriched_at": "2026-08-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malicious kernel driver (kernel_utility_driver64.sys) linked to Chinese domains ludashi.com and xingjushidai.cn flagged on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2085106673748689334",
-      "type": "domain",
-      "value": "xingjushidai.cn"
-    },
     "xiuousdt.com": {
       "confidence": 0.9,
       "date": "2026-08-14 13:50:15",
@@ -63301,6 +62839,6 @@
       "value": "zzx.jcd666.vip"
     }
   },
-  "generated_at": "2026-09-04T18:40:04Z",
+  "generated_at": "2026-09-05T00:40:04Z",
   "window_days": 30
 }
