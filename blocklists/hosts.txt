@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2628
-# Updated: 2026-09-05T09:15:17Z
+# Entries: 2629
+# Updated: 2026-09-05T11:15:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/hosts.txt
 # https://tweetfeed.live
@@ -271,6 +271,7 @@
 0.0.0.0 api.studiotikva.com
 0.0.0.0 api.trycloudflare.com
 0.0.0.0 api.us8266iw.xyz
+0.0.0.0 apk-google.cn
 0.0.0.0 apm.hexin.cn
 0.0.0.0 app----en-bybit-sso.typedream.app
 0.0.0.0 app-bitmoon.fun

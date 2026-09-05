@@ -1,7 +1,7 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 2628
-# Updated: 2026-09-05T09:15:17Z
+# Entries: 2629
+# Updated: 2026-09-05T11:15:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -271,6 +271,7 @@
 ||api.studiotikva.com^
 ||api.trycloudflare.com^
 ||api.us8266iw.xyz^
+||apk-google.cn^
 ||apm.hexin.cn^
 ||app----en-bybit-sso.typedream.app^
 ||app-bitmoon.fun^

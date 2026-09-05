@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2628
-# Updated: 2026-09-05T09:15:17Z
+# Entries: 2629
+# Updated: 2026-09-05T11:15:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -271,6 +271,7 @@ address=/api.mbpartnersfinance.com/0.0.0.0
 address=/api.studiotikva.com/0.0.0.0
 address=/api.trycloudflare.com/0.0.0.0
 address=/api.us8266iw.xyz/0.0.0.0
+address=/apk-google.cn/0.0.0.0
 address=/apm.hexin.cn/0.0.0.0
 address=/app----en-bybit-sso.typedream.app/0.0.0.0
 address=/app-bitmoon.fun/0.0.0.0

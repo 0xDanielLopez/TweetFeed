@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2987
-# Updated: 2026-09-05T09:15:17Z
+# Entries: 2988
+# Updated: 2026-09-05T11:15:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/urls.txt
 # https://tweetfeed.live
@@ -472,6 +472,7 @@ http://api.joefilters.com
 http://api.mbpartnersfinance.com
 http://api.telegram.org/bot8650258937:AAEAHdFRuXkvcEEeRhezk1UulL_kgGMVfzk/sendMessage
 http://api.trycloudflare.com
+http://apk-google.cn
 http://apm.hexin.cn
 http://app----en-bybit-sso.typedream.app
 http://app-bitmoon.fun

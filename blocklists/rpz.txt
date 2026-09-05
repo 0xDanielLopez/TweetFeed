@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2628
-; Updated: 2026-09-05T09:15:17Z
+; Entries: 2629
+; Updated: 2026-09-05T11:15:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788599717 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788606915 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -540,6 +540,8 @@ api.trycloudflare.com CNAME .
 *.api.trycloudflare.com CNAME .
 api.us8266iw.xyz CNAME .
 *.api.us8266iw.xyz CNAME .
+apk-google.cn CNAME .
+*.apk-google.cn CNAME .
 apm.hexin.cn CNAME .
 *.apm.hexin.cn CNAME .
 app----en-bybit-sso.typedream.app CNAME .
