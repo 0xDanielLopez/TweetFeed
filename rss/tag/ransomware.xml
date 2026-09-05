@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #ransomware IOC feed</title>
+      <link>https://tweetfeed.live/tag/ransomware/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #ransomware on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #ransomware IOC feed</title>
+         <link>https://tweetfeed.live/tag/ransomware/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/ransomware.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://mkgheye78fdfb.sryoung56.workers.dev</title>
+         <link>https://x.com/scanmalware/status/2094704700956299541</link>
+         <description>@scanmalware | url | #ransomware
+Value: http://mkgheye78fdfb.sryoung56.workers.dev
+Tweet: https://x.com/scanmalware/status/2094704700956299541</description>
+         <guid isPermaLink="false">http://mkgheye78fdfb.sryoung56.workers.dev</guid>
+         <pubDate>Tue, 01 Sep 2026 08:31:33 +0000</pubDate>
+         <category>url</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>mkgheye78fdfb.sryoung56.workers.dev</title>
+         <link>https://x.com/scanmalware/status/2094704700956299541</link>
+         <description>@scanmalware | domain | #ransomware
+Value: mkgheye78fdfb.sryoung56.workers.dev
+Tweet: https://x.com/scanmalware/status/2094704700956299541</description>
+         <guid isPermaLink="false">mkgheye78fdfb.sryoung56.workers.dev</guid>
+         <pubDate>Tue, 01 Sep 2026 08:31:33 +0000</pubDate>
+         <category>domain</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>88e824ea42dc271f4992957584b57d64</title>
+         <link>https://x.com/akudryk007/status/2093976478622912691</link>
+         <description>@akudryk007 | md5 | #malware #ransomware
+Value: 88e824ea42dc271f4992957584b57d64
+Tweet: https://x.com/akudryk007/status/2093976478622912691</description>
+         <guid isPermaLink="false">88e824ea42dc271f4992957584b57d64</guid>
+         <pubDate>Sun, 30 Aug 2026 08:17:51 +0000</pubDate>
+         <category>md5</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

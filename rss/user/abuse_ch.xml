@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @abuse_ch</title>
+      <link>https://x.com/abuse_ch</link>
+      <description>IOCs shared by @abuse_ch and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @abuse_ch</title>
+         <link>https://x.com/abuse_ch</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/abuse_ch.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>5a8ab21cb329b8672379421dcf5bc59e6f174da6b835d5650cd0f50d7c4df534</title>
+         <link>https://x.com/abuse_ch/status/2095130995443830833</link>
+         <description>@abuse_ch | sha256 | #ClickFix
+Value: 5a8ab21cb329b8672379421dcf5bc59e6f174da6b835d5650cd0f50d7c4df534
+Tweet: https://x.com/abuse_ch/status/2095130995443830833</description>
+         <guid isPermaLink="false">5a8ab21cb329b8672379421dcf5bc59e6f174da6b835d5650cd0f50d7c4df534</guid>
+         <pubDate>Wed, 02 Sep 2026 12:45:29 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+      </item>
+      <item>
+         <title>91.193.7.186</title>
+         <link>https://x.com/abuse_ch/status/2095130995443830833</link>
+         <description>@abuse_ch | ip | #ClickFix
+Value: 91.193.7.186
+Tweet: https://x.com/abuse_ch/status/2095130995443830833</description>
+         <guid isPermaLink="false">91.193.7.186</guid>
+         <pubDate>Wed, 02 Sep 2026 12:45:29 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - ip IOC feed</title>
+      <link>https://tweetfeed.live/malicious-ips/</link>
+      <description>Real-time ip IOCs shared by the infosec community on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - ip IOC feed</title>
+         <link>https://tweetfeed.live/malicious-ips/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/type/ip.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>193.247.144.38</title>
+         <link>https://x.com/SocketSecurity/status/2095988892029559100</link>
+         <description>@SocketSecurity | ip | 
+Value: 193.247.144.38
+Tweet: https://x.com/SocketSecurity/status/2095988892029559100</description>
+         <guid isPermaLink="false">193.247.144.38</guid>
+         <pubDate>Fri, 04 Sep 2026 21:34:28 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>67.215.232.25</title>
+         <link>https://x.com/0xb1lal/status/2095966422283231580</link>
+         <description>@0xb1lal | ip | #malware
+Value: 67.215.232.25
+Tweet: https://x.com/0xb1lal/status/2095966422283231580</description>
+         <guid isPermaLink="false">67.215.232.25</guid>
+         <pubDate>Fri, 04 Sep 2026 20:05:10 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>178.16.54.253</title>
+         <link>https://x.com/phishunt_io/status/2095920123693461751</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 178.16.54.253
+Tweet: https://x.com/phishunt_io/status/2095920123693461751</description>
+         <guid isPermaLink="false">178.16.54.253</guid>
+         <pubDate>Fri, 04 Sep 2026 17:01:12 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>101.42.136.73</title>
+         <link>https://x.com/_AkatsukiLegion/status/2095897733223612698</link>
+         <description>@_AkatsukiLegion | ip | #CobaltStrike
+Value: 101.42.136.73
+Tweet: https://x.com/_AkatsukiLegion/status/2095897733223612698</description>
+         <guid isPermaLink="false">101.42.136.73</guid>
+         <pubDate>Fri, 04 Sep 2026 15:32:14 +0000</pubDate>
+         <category>ip</category>
+         <category>#CobaltStrike</category>
+      </item>
+      <item>
+         <title>185.221.216.117</title>
+         <link>https://x.com/phishunt_io/status/2095769197087224002</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 185.221.216.117
+Tweet: https://x.com/phishunt_io/status/2095769197087224002</description>
+         <guid isPermaLink="false">185.221.216.117</guid>
+         <pubDate>Fri, 04 Sep 2026 07:01:28 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>43.128.228.199</title>
+         <link>https://x.com/Metemcyber/status/2095735726977822881</link>
+         <description>@Metemcyber | ip | #phishing
+Value: 43.128.228.199
+Tweet: https://x.com/Metemcyber/status/2095735726977822881</description>
+         <guid isPermaLink="false">43.128.228.199</guid>
+         <pubDate>Fri, 04 Sep 2026 04:48:28 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>43.167.198.165</title>
+         <link>https://x.com/Metemcyber/status/2095732482943627465</link>
+         <description>@Metemcyber | ip | #phishing
+Value: 43.167.198.165
+Tweet: https://x.com/Metemcyber/status/2095732482943627465</description>
+         <guid isPermaLink="false">43.167.198.165</guid>
+         <pubDate>Fri, 04 Sep 2026 04:35:35 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>182.161.66.236</title>
+         <link>https://x.com/Metemcyber/status/2095729155505811695</link>
+         <description>@Metemcyber | ip | #phishing
+Value: 182.161.66.236
+Tweet: https://x.com/Metemcyber/status/2095729155505811695</description>
+         <guid isPermaLink="false">182.161.66.236</guid>
+         <pubDate>Fri, 04 Sep 2026 04:22:22 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>135.181.34.42</title>
+         <link>https://x.com/phishunt_io/status/2095406821317984369</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 135.181.34.42
+Tweet: https://x.com/phishunt_io/status/2095406821317984369</description>
+         <guid isPermaLink="false">135.181.34.42</guid>
+         <pubDate>Thu, 03 Sep 2026 07:01:31 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>5.135.193.194</title>
+         <link>https://x.com/mugu_reporter/status/2095323366995415429</link>
+         <description>@mugu_reporter | ip | #phishing
+Value: 5.135.193.194
+Tweet: https://x.com/mugu_reporter/status/2095323366995415429</description>
+         <guid isPermaLink="false">5.135.193.194</guid>
+         <pubDate>Thu, 03 Sep 2026 01:29:54 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>45.74.47.19</title>
+         <link>https://x.com/PhishStats/status/2095252780696961246</link>
+         <description>@PhishStats | ip | #phishing
+Value: 45.74.47.19
+Tweet: https://x.com/PhishStats/status/2095252780696961246</description>
+         <guid isPermaLink="false">45.74.47.19</guid>
+         <pubDate>Wed, 02 Sep 2026 20:49:25 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>195.210.46.27</title>
+         <link>https://x.com/phishunt_io/status/2095195309382967660</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 195.210.46.27
+Tweet: https://x.com/phishunt_io/status/2095195309382967660</description>
+         <guid isPermaLink="false">195.210.46.27</guid>
+         <pubDate>Wed, 02 Sep 2026 17:01:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>91.193.7.186</title>
+         <link>https://x.com/abuse_ch/status/2095130995443830833</link>
+         <description>@abuse_ch | ip | #ClickFix
+Value: 91.193.7.186
+Tweet: https://x.com/abuse_ch/status/2095130995443830833</description>
+         <guid isPermaLink="false">91.193.7.186</guid>
+         <pubDate>Wed, 02 Sep 2026 12:45:29 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+      </item>
+      <item>
+         <title>155.138.208.58</title>
+         <link>https://x.com/PhishStats/status/2095074067040669886</link>
+         <description>@PhishStats | ip | #phishing
+Value: 155.138.208.58
+Tweet: https://x.com/PhishStats/status/2095074067040669886</description>
+         <guid isPermaLink="false">155.138.208.58</guid>
+         <pubDate>Wed, 02 Sep 2026 08:59:16 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>185.216.251.10</title>
+         <link>https://x.com/phishunt_io/status/2094832924134609033</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 185.216.251.10
+Tweet: https://x.com/phishunt_io/status/2094832924134609033</description>
+         <guid isPermaLink="false">185.216.251.10</guid>
+         <pubDate>Tue, 01 Sep 2026 17:01:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>103.27.178.242</title>
+         <link>https://x.com/phishunt_io/status/2094758293524676626</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 103.27.178.242
+Tweet: https://x.com/phishunt_io/status/2094758293524676626</description>
+         <guid isPermaLink="false">103.27.178.242</guid>
+         <pubDate>Tue, 01 Sep 2026 12:04:30 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>91.195.240.13</title>
+         <link>https://x.com/PhishStats/status/2094708099001000180</link>
+         <description>@PhishStats | ip | #phishing
+Value: 91.195.240.13
+Tweet: https://x.com/PhishStats/status/2094708099001000180</description>
+         <guid isPermaLink="false">91.195.240.13</guid>
+         <pubDate>Tue, 01 Sep 2026 08:45:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>103.133.1.1</title>
+         <link>https://x.com/phishunt_io/status/2094682017602339118</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 103.133.1.1
+Tweet: https://x.com/phishunt_io/status/2094682017602339118</description>
+         <guid isPermaLink="false">103.133.1.1</guid>
+         <pubDate>Tue, 01 Sep 2026 07:01:24 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>193.32.234.161</title>
+         <link>https://x.com/phishunt_io/status/2094395227507208280</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 193.32.234.161
+Tweet: https://x.com/phishunt_io/status/2094395227507208280</description>
+         <guid isPermaLink="false">193.32.234.161</guid>
+         <pubDate>Mon, 31 Aug 2026 12:01:48 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>144.172.91.11</title>
+         <link>https://x.com/phishunt_io/status/2094319616843538480</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 144.172.91.11
+Tweet: https://x.com/phishunt_io/status/2094319616843538480</description>
+         <guid isPermaLink="false">144.172.91.11</guid>
+         <pubDate>Mon, 31 Aug 2026 07:01:21 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>43.160.253.172</title>
+         <link>https://x.com/Metemcyber/status/2094315172395708636</link>
+         <description>@Metemcyber | ip | #phishing
+Value: 43.160.253.172
+Tweet: https://x.com/Metemcyber/status/2094315172395708636</description>
+         <guid isPermaLink="false">43.160.253.172</guid>
+         <pubDate>Mon, 31 Aug 2026 06:43:42 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>43.165.128.22</title>
+         <link>https://x.com/Metemcyber/status/2094313604724212181</link>
+         <description>@Metemcyber | ip | #phishing
+Value: 43.165.128.22
+Tweet: https://x.com/Metemcyber/status/2094313604724212181</description>
+         <guid isPermaLink="false">43.165.128.22</guid>
+         <pubDate>Mon, 31 Aug 2026 06:37:28 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>3.174.46.41</title>
+         <link>https://x.com/phishunt_io/status/2094108101053915491</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 3.174.46.41
+Tweet: https://x.com/phishunt_io/status/2094108101053915491</description>
+         <guid isPermaLink="false">3.174.46.41</guid>
+         <pubDate>Sun, 30 Aug 2026 17:00:52 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

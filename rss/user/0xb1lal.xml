@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @0xb1lal</title>
+      <link>https://x.com/0xb1lal</link>
+      <description>IOCs shared by @0xb1lal and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @0xb1lal</title>
+         <link>https://x.com/0xb1lal</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/0xb1lal.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>67.215.232.25</title>
+         <link>https://x.com/0xb1lal/status/2095966422283231580</link>
+         <description>@0xb1lal | ip | #malware
+Value: 67.215.232.25
+Tweet: https://x.com/0xb1lal/status/2095966422283231580</description>
+         <guid isPermaLink="false">67.215.232.25</guid>
+         <pubDate>Fri, 04 Sep 2026 20:05:10 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

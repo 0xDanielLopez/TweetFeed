@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #stealer IOC feed</title>
+      <link>https://tweetfeed.live/tag/stealer/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #stealer on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #stealer IOC feed</title>
+         <link>https://tweetfeed.live/tag/stealer/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/stealer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://cizitensports.com</title>
+         <link>https://x.com/j_o_h_d_s/status/2094403513828684228</link>
+         <description>@j_o_h_d_s | url | #ClickFix #stealer
+Value: http://cizitensports.com
+Tweet: https://x.com/j_o_h_d_s/status/2094403513828684228</description>
+         <guid isPermaLink="false">http://cizitensports.com</guid>
+         <pubDate>Mon, 31 Aug 2026 12:34:44 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>cizitensports.com</title>
+         <link>https://x.com/j_o_h_d_s/status/2094403513828684228</link>
+         <description>@j_o_h_d_s | domain | #ClickFix #stealer
+Value: cizitensports.com
+Tweet: https://x.com/j_o_h_d_s/status/2094403513828684228</description>
+         <guid isPermaLink="false">cizitensports.com</guid>
+         <pubDate>Mon, 31 Aug 2026 12:34:44 +0000</pubDate>
+         <category>domain</category>
+         <category>#ClickFix</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>

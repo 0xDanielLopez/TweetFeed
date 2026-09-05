@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SocketSecurity</title>
+      <link>https://x.com/SocketSecurity</link>
+      <description>IOCs shared by @SocketSecurity and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @SocketSecurity</title>
+         <link>https://x.com/SocketSecurity</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/socketsecurity.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>193.247.144.38</title>
+         <link>https://x.com/SocketSecurity/status/2095988892029559100</link>
+         <description>@SocketSecurity | ip | 
+Value: 193.247.144.38
+Tweet: https://x.com/SocketSecurity/status/2095988892029559100</description>
+         <guid isPermaLink="false">193.247.144.38</guid>
+         <pubDate>Fri, 04 Sep 2026 21:34:28 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>

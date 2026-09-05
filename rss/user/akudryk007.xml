@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @akudryk007</title>
+      <link>https://x.com/akudryk007</link>
+      <description>IOCs shared by @akudryk007 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @akudryk007</title>
+         <link>https://x.com/akudryk007</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/akudryk007.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>88e824ea42dc271f4992957584b57d64</title>
+         <link>https://x.com/akudryk007/status/2093976478622912691</link>
+         <description>@akudryk007 | md5 | #malware #ransomware
+Value: 88e824ea42dc271f4992957584b57d64
+Tweet: https://x.com/akudryk007/status/2093976478622912691</description>
+         <guid isPermaLink="false">88e824ea42dc271f4992957584b57d64</guid>
+         <pubDate>Sun, 30 Aug 2026 08:17:51 +0000</pubDate>
+         <category>md5</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

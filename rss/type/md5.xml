@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - md5 IOC feed</title>
+      <link>https://tweetfeed.live/malicious-hashes-md5/</link>
+      <description>Real-time md5 IOCs shared by the infosec community on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - md5 IOC feed</title>
+         <link>https://tweetfeed.live/malicious-hashes-md5/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/type/md5.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>8b3d8de78681adc71667f6f687102183</title>
+         <link>https://x.com/skocherhan/status/2095959489056846084</link>
+         <description>@skocherhan | md5 | 
+Value: 8b3d8de78681adc71667f6f687102183
+Tweet: https://x.com/skocherhan/status/2095959489056846084</description>
+         <guid isPermaLink="false">8b3d8de78681adc71667f6f687102183</guid>
+         <pubDate>Fri, 04 Sep 2026 19:37:37 +0000</pubDate>
+         <category>md5</category>
+      </item>
+      <item>
+         <title>3d0a14d2446efc7cde12984611ec6183</title>
+         <link>https://x.com/sicehice/status/2094946837140549785</link>
+         <description>@sicehice | md5 | #ClickFix
+Value: 3d0a14d2446efc7cde12984611ec6183
+Tweet: https://x.com/sicehice/status/2094946837140549785</description>
+         <guid isPermaLink="false">3d0a14d2446efc7cde12984611ec6183</guid>
+         <pubDate>Wed, 02 Sep 2026 00:33:42 +0000</pubDate>
+         <category>md5</category>
+         <category>#ClickFix</category>
+      </item>
+      <item>
+         <title>88e824ea42dc271f4992957584b57d64</title>
+         <link>https://x.com/akudryk007/status/2093976478622912691</link>
+         <description>@akudryk007 | md5 | #malware #ransomware
+Value: 88e824ea42dc271f4992957584b57d64
+Tweet: https://x.com/akudryk007/status/2093976478622912691</description>
+         <guid isPermaLink="false">88e824ea42dc271f4992957584b57d64</guid>
+         <pubDate>Sun, 30 Aug 2026 08:17:51 +0000</pubDate>
+         <category>md5</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

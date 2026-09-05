@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SpamAuditor</title>
+      <link>https://x.com/SpamAuditor</link>
+      <description>IOCs shared by @SpamAuditor and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @SpamAuditor</title>
+         <link>https://x.com/SpamAuditor</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/spamauditor.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://plugandplay.co.id</title>
+         <link>https://x.com/SpamAuditor/status/2094885332215013475</link>
+         <description>@SpamAuditor | url | #phishing
+Value: https://plugandplay.co.id
+Tweet: https://x.com/SpamAuditor/status/2094885332215013475</description>
+         <guid isPermaLink="false">https://plugandplay.co.id</guid>
+         <pubDate>Tue, 01 Sep 2026 20:29:18 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>plugandplay.co.id</title>
+         <link>https://x.com/SpamAuditor/status/2094885332215013475</link>
+         <description>@SpamAuditor | domain | #phishing
+Value: plugandplay.co.id
+Tweet: https://x.com/SpamAuditor/status/2094885332215013475</description>
+         <guid isPermaLink="false">plugandplay.co.id</guid>
+         <pubDate>Tue, 01 Sep 2026 20:29:18 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

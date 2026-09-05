@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @_AkatsukiLegion</title>
+      <link>https://x.com/_AkatsukiLegion</link>
+      <description>IOCs shared by @_AkatsukiLegion and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @_AkatsukiLegion</title>
+         <link>https://x.com/_AkatsukiLegion</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/_akatsukilegion.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 05 Sep 2026 00:00:25 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>101.42.136.73</title>
+         <link>https://x.com/_AkatsukiLegion/status/2095897733223612698</link>
+         <description>@_AkatsukiLegion | ip | #CobaltStrike
+Value: 101.42.136.73
+Tweet: https://x.com/_AkatsukiLegion/status/2095897733223612698</description>
+         <guid isPermaLink="false">101.42.136.73</guid>
+         <pubDate>Fri, 04 Sep 2026 15:32:14 +0000</pubDate>
+         <category>ip</category>
+         <category>#CobaltStrike</category>
+      </item>
+      <item>
+         <title>http://101.42.136.73</title>
+         <link>https://x.com/_AkatsukiLegion/status/2095897733223612698</link>
+         <description>@_AkatsukiLegion | url | #CobaltStrike
+Value: http://101.42.136.73
+Tweet: https://x.com/_AkatsukiLegion/status/2095897733223612698</description>
+         <guid isPermaLink="false">http://101.42.136.73</guid>
+         <pubDate>Fri, 04 Sep 2026 15:32:14 +0000</pubDate>
+         <category>url</category>
+         <category>#CobaltStrike</category>
+      </item>
+   </channel>
+</rss>
