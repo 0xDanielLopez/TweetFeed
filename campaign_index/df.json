@@ -1,1 +1,1 @@
-{"count":1,"entries":{"mwkim.dynu.org":[{"confidence":"high","id":"tfc-8405633d4c70","ioc_count":88,"last_seen":"2026-09-03","name":"Kimsuky APT C2 infrastructure on DDNS and custom domains","threat_types":{"c2":18,"malware":6,"phishing":64}}]}}
+{"count":1,"entries":{"mwkim.dynu.org":[{"confidence":"high","id":"tfc-8405633d4c70","ioc_count":88,"last_seen":"2026-09-03","name":"Kimsuky APT C2 infrastructure on DDNS and custom domains","threat_types":["phishing","c2","malware"]}]}}

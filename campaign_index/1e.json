@@ -1,1 +1,1 @@
-{"count":1,"entries":{"64.81.30.192":[{"confidence":"medium","id":"tfc-b11700d6b3c1","ioc_count":57,"last_seen":"2026-08-25","name":"ValleyRAT C2 infrastructure - IPs and hashes","threat_types":{"c2":18,"malware":39}}]}}
+{"count":1,"entries":{"64.81.30.192":[{"confidence":"medium","id":"tfc-b11700d6b3c1","ioc_count":57,"last_seen":"2026-08-25","name":"ValleyRAT C2 infrastructure - IPs and hashes","threat_types":["malware","c2"]}]}}
