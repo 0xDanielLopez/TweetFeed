@@ -1,0 +1,162 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-09-05T14:45:56Z",
+ "pipeline": {
+  "interval_seconds": 900,
+  "stale_after_seconds": 1800
+ },
+ "contract": {
+  "license": "CC0-1.0",
+  "tlp": "CLEAR",
+  "live_window_days": 365,
+  "archive": "all history",
+  "docs": "https://tweetfeed.live/api/",
+  "data_repo": "https://github.com/0xDanielLopez/TweetFeed"
+ },
+ "artifacts": {
+  "today.csv": {
+   "kind": "tick",
+   "path": "today.csv",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "today",
+   "rows": 28,
+   "first_row": "2026-09-05 07:00:45",
+   "last_row": "2026-09-05 14:32:24",
+   "data_stale_after_seconds": 28800
+  },
+  "week.csv": {
+   "kind": "tick",
+   "path": "week.csv",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "week",
+   "rows": 299,
+   "first_row": "2026-08-30 01:12:34",
+   "last_row": "2026-09-05 14:32:24",
+   "data_stale_after_seconds": 28800
+  },
+  "month.csv": {
+   "kind": "tick",
+   "path": "month.csv",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "month",
+   "rows": 6803,
+   "first_row": "2026-08-06 01:55:00",
+   "last_row": "2026-09-05 14:32:24",
+   "data_stale_after_seconds": 28800
+  },
+  "year.csv": {
+   "kind": "tick",
+   "path": "year.csv",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "year",
+   "rows": 107559,
+   "first_row": "2025-09-06 00:00:09",
+   "last_row": "2026-09-05 14:32:24",
+   "data_stale_after_seconds": 28800
+  },
+  "rss.xml": {
+   "kind": "tick",
+   "path": "rss.xml",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "counts.json": {
+   "kind": "tick",
+   "path": "counts.json",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "misp": {
+   "kind": "tick",
+   "path": "misp/",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "stix": {
+   "kind": "tick",
+   "path": "stix/",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "blocklists": {
+   "kind": "tick",
+   "path": "blocklists/",
+   "updated_at": "2026-09-05T14:45:56Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "lookup": {
+   "kind": "own-clock",
+   "path": "lookup/",
+   "updated_at": "2026-09-05T14:45:16Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 2700,
+   "shards": 256
+  },
+  "trends.json": {
+   "kind": "own-clock",
+   "path": "trends.json",
+   "updated_at": "2026-09-05T14:45:16Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 2700
+  },
+  "archive": {
+   "kind": "change-driven",
+   "path": "archive/",
+   "updated_at": "2026-09-05T14:45:54Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": null,
+   "note": "generated_at moves only when the archive corpus changes (at most daily); pipeline freshness is the signal"
+  },
+  "external.json": {
+   "kind": "own-clock",
+   "path": "external.json",
+   "updated_at": "2026-09-05T13:25:09Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 27000
+  },
+  "ipmeta.json": {
+   "kind": "own-clock",
+   "path": "ipmeta.json",
+   "updated_at": "2026-09-05T13:35:03Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 27000
+  },
+  "enrichment.json": {
+   "kind": "own-clock",
+   "path": "enrichment.json",
+   "updated_at": "2026-09-05T12:40:04Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 46800
+  },
+  "campaigns.json": {
+   "kind": "own-clock",
+   "path": "campaigns.json",
+   "updated_at": "2026-09-05T06:43:57Z",
+   "interval_seconds": 86400,
+   "stale_after_seconds": 93600,
+   "upstream_stale": false,
+   "upstream_stale_since": null
+  },
+  "domainmeta.json": {
+   "kind": "change-driven",
+   "path": "domainmeta.json",
+   "updated_at": "2026-09-05T14:15:27Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": null,
+   "note": "runs after the git push and rewrites generated_at only when the resolved apex set changes; pipeline freshness is the signal"
+  }
+ }
+}

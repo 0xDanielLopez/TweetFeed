@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2631
-; Updated: 2026-09-05T14:15:15Z
+; Entries: 2632
+; Updated: 2026-09-05T14:45:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788617715 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788619516 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3326,6 +3326,8 @@ packetcheck.online CNAME .
 *.packetcheck.online CNAME .
 painel.guintter.com.br CNAME .
 *.painel.guintter.com.br CNAME .
+paintingth.iqlvebw.cn CNAME .
+*.paintingth.iqlvebw.cn CNAME .
 paintshop.posmasters.lk CNAME .
 *.paintshop.posmasters.lk CNAME .
 pakarmy.insyaallah2k25.workers.dev CNAME .
