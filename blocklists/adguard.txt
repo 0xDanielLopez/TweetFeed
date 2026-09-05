@@ -1,7 +1,7 @@
 # TweetFeed blocklist - AdGuard / uBlock syntax
 # Window: 30 days
-# Entries: 2634
-# Updated: 2026-09-05T18:30:18Z
+# Entries: 2636
+# Updated: 2026-09-05T19:15:16Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/adguard.txt
 # https://tweetfeed.live
@@ -807,6 +807,7 @@
 ||exodus-wallet.global.ssl.fastly.net^
 ||expedia-careers.com^
 ||ezcapsforums.com^
+||f005.backblazeb2.com^
 ||f13682ae-e.b-cdn.net^
 ||f433ddd.triumphexpuocoeventsinc.vu^
 ||faceb00k-br.blogspot.com^
@@ -2040,6 +2041,7 @@
 ||studiotikva.com^
 ||styleompl.com^
 ||stylishhomegallery.com^
+||submit-form.com^
 ||subscription-magnetic-recommended-meat.trycloudflare.com^
 ||sucanday.com^
 ||sucessful.duckdns.org^

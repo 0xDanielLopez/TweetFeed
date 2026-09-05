@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2634
-; Updated: 2026-09-05T18:30:18Z
+; Entries: 2636
+; Updated: 2026-09-05T19:15:16Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788633018 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788635716 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1612,6 +1612,8 @@ expedia-careers.com CNAME .
 *.expedia-careers.com CNAME .
 ezcapsforums.com CNAME .
 *.ezcapsforums.com CNAME .
+f005.backblazeb2.com CNAME .
+*.f005.backblazeb2.com CNAME .
 f13682ae-e.b-cdn.net CNAME .
 *.f13682ae-e.b-cdn.net CNAME .
 f433ddd.triumphexpuocoeventsinc.vu CNAME .
@@ -4078,6 +4080,8 @@ styleompl.com CNAME .
 *.styleompl.com CNAME .
 stylishhomegallery.com CNAME .
 *.stylishhomegallery.com CNAME .
+submit-form.com CNAME .
+*.submit-form.com CNAME .
 subscription-magnetic-recommended-meat.trycloudflare.com CNAME .
 *.subscription-magnetic-recommended-meat.trycloudflare.com CNAME .
 sucanday.com CNAME .
