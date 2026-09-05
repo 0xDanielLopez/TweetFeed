@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2632
-; Updated: 2026-09-05T14:45:16Z
+; Entries: 2633
+; Updated: 2026-09-05T17:30:18Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788619516 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788629418 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4902,6 +4902,8 @@ westers.724s5w8wa.click CNAME .
 *.westers.724s5w8wa.click CNAME .
 wg777slot02.cc CNAME .
 *.wg777slot02.cc CNAME .
+whatsapp.traviyo.in CNAME .
+*.whatsapp.traviyo.in CNAME .
 wheatnwhiskey.info CNAME .
 *.wheatnwhiskey.info CNAME .
 whm.thotera.com CNAME .
