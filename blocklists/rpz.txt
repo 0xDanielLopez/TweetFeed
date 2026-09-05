@@ -1,14 +1,14 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2620
-; Updated: 2026-09-05T00:00:23Z
+; Entries: 2625
+; Updated: 2026-09-05T07:15:15Z
 ; License: CC0
 ; Source: https://api.tweetfeed.live/v1/blocklist/rpz.txt
 ; https://tweetfeed.live
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1788566423 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1788592515 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1560,6 +1560,16 @@ esrcafe.posmasters.lk CNAME .
 *.esrcafe.posmasters.lk CNAME .
 esrpos.posmasters.lk CNAME .
 *.esrpos.posmasters.lk CNAME .
+etax-olimw.com CNAME .
+*.etax-olimw.com CNAME .
+etax-pliwka.com CNAME .
+*.etax-pliwka.com CNAME .
+etax-plwads.com CNAME .
+*.etax-plwads.com CNAME .
+etax-uwaiosd.com CNAME .
+*.etax-uwaiosd.com CNAME .
+etax-wusasd.com CNAME .
+*.etax-wusasd.com CNAME .
 etc.meisai.zywblog.com CNAME .
 *.etc.meisai.zywblog.com CNAME .
 ethercdnns.beer CNAME .

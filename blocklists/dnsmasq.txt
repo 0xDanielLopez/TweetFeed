@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2620
-# Updated: 2026-09-05T00:00:23Z
+# Entries: 2625
+# Updated: 2026-09-05T07:15:15Z
 # License: CC0
 # Source: https://api.tweetfeed.live/v1/blocklist/dnsmasq.txt
 # https://tweetfeed.live
@@ -781,6 +781,11 @@ address=/erkendenalma.duckdns.org/0.0.0.0
 address=/eskitaglimrandevu.duckdns.org/0.0.0.0
 address=/esrcafe.posmasters.lk/0.0.0.0
 address=/esrpos.posmasters.lk/0.0.0.0
+address=/etax-olimw.com/0.0.0.0
+address=/etax-pliwka.com/0.0.0.0
+address=/etax-plwads.com/0.0.0.0
+address=/etax-uwaiosd.com/0.0.0.0
+address=/etax-wusasd.com/0.0.0.0
 address=/etc.meisai.zywblog.com/0.0.0.0
 address=/ethercdnns.beer/0.0.0.0
 address=/ethereum.claim-rewards.my.id/0.0.0.0
