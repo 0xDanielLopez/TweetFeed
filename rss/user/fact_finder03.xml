@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Fact_Finder03</title>
+      <link>https://x.com/Fact_Finder03</link>
+      <description>IOCs shared by @Fact_Finder03 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Fact_Finder03</title>
+         <link>https://x.com/Fact_Finder03</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/fact_finder03.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>43.157.198.190</title>
+         <link>https://x.com/Fact_Finder03/status/2098822950073913513</link>
+         <description>@Fact_Finder03 | ip | #C2 #RAT
+Value: 43.157.198.190
+Tweet: https://x.com/Fact_Finder03/status/2098822950073913513</description>
+         <guid isPermaLink="false">43.157.198.190</guid>
+         <pubDate>Sat, 12 Sep 2026 17:16:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>178.128.173.9</title>
+         <link>https://x.com/Fact_Finder03/status/2098813387081982333</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer
+Value: 178.128.173.9
+Tweet: https://x.com/Fact_Finder03/status/2098813387081982333</description>
+         <guid isPermaLink="false">178.128.173.9</guid>
+         <pubDate>Sat, 12 Sep 2026 16:38:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>5.175.221.206</title>
+         <link>https://x.com/Fact_Finder03/status/2098805600356540695</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer
+Value: 5.175.221.206
+Tweet: https://x.com/Fact_Finder03/status/2098805600356540695</description>
+         <guid isPermaLink="false">5.175.221.206</guid>
+         <pubDate>Sat, 12 Sep 2026 16:07:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>

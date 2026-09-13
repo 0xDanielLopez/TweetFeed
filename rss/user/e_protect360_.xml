@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @e_Protect360_</title>
+      <link>https://x.com/e_Protect360_</link>
+      <description>IOCs shared by @e_Protect360_ and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @e_Protect360_</title>
+         <link>https://x.com/e_Protect360_</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/e_protect360_.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://www.eprotect360.com/#yourname</title>
+         <link>https://x.com/e_Protect360_/status/2097527919161520309</link>
+         <description>@e_Protect360_ | url | #ransomware
+Value: https://www.eprotect360.com/#yourname
+Tweet: https://x.com/e_Protect360_/status/2097527919161520309</description>
+         <guid isPermaLink="false">https://www.eprotect360.com/#yourname</guid>
+         <pubDate>Wed, 09 Sep 2026 03:30:00 +0000</pubDate>
+         <category>url</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>eprotect360.com</title>
+         <link>https://x.com/e_Protect360_/status/2097527919161520309</link>
+         <description>@e_Protect360_ | domain | #ransomware
+Value: eprotect360.com
+Tweet: https://x.com/e_Protect360_/status/2097527919161520309</description>
+         <guid isPermaLink="false">eprotect360.com</guid>
+         <pubDate>Wed, 09 Sep 2026 03:30:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

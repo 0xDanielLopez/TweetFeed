@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #apt IOC feed</title>
+      <link>https://tweetfeed.live/tag/apt/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #apt on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #apt IOC feed</title>
+         <link>https://tweetfeed.live/tag/apt/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/apt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://signning.cloud</title>
+         <link>https://x.com/phatomcandle/status/2097988472032346494</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://signning.cloud
+Tweet: https://x.com/phatomcandle/status/2097988472032346494</description>
+         <guid isPermaLink="false">http://signning.cloud</guid>
+         <pubDate>Thu, 10 Sep 2026 10:00:05 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>signning.cloud</title>
+         <link>https://x.com/phatomcandle/status/2097988472032346494</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: signning.cloud
+Tweet: https://x.com/phatomcandle/status/2097988472032346494</description>
+         <guid isPermaLink="false">signning.cloud</guid>
+         <pubDate>Thu, 10 Sep 2026 10:00:05 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://k-cloud.login-accounts.dynu.net</title>
+         <link>https://x.com/phatomcandle/status/2097626078621966355</link>
+         <description>@phatomcandle | url | #APT #C2 #Kimsuky #malware
+Value: http://k-cloud.login-accounts.dynu.net
+Tweet: https://x.com/phatomcandle/status/2097626078621966355</description>
+         <guid isPermaLink="false">http://k-cloud.login-accounts.dynu.net</guid>
+         <pubDate>Wed, 09 Sep 2026 10:00:03 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>k-cloud.login-accounts.dynu.net</title>
+         <link>https://x.com/phatomcandle/status/2097626078621966355</link>
+         <description>@phatomcandle | domain | #APT #C2 #Kimsuky #malware
+Value: k-cloud.login-accounts.dynu.net
+Tweet: https://x.com/phatomcandle/status/2097626078621966355</description>
+         <guid isPermaLink="false">k-cloud.login-accounts.dynu.net</guid>
+         <pubDate>Wed, 09 Sep 2026 10:00:03 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://for8service.net</title>
+         <link>https://x.com/phatomcandle/status/2097263690961842296</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://for8service.net
+Tweet: https://x.com/phatomcandle/status/2097263690961842296</description>
+         <guid isPermaLink="false">http://for8service.net</guid>
+         <pubDate>Tue, 08 Sep 2026 10:00:03 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>for8service.net</title>
+         <link>https://x.com/phatomcandle/status/2097263690961842296</link>
+         <description>@phatomcandle | domain | #APT #C2 #malware
+Value: for8service.net
+Tweet: https://x.com/phatomcandle/status/2097263690961842296</description>
+         <guid isPermaLink="false">for8service.net</guid>
+         <pubDate>Tue, 08 Sep 2026 10:00:03 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://lucidware.click</title>
+         <link>https://x.com/phatomcandle/status/2096901311593943527</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://lucidware.click
+Tweet: https://x.com/phatomcandle/status/2096901311593943527</description>
+         <guid isPermaLink="false">http://lucidware.click</guid>
+         <pubDate>Mon, 07 Sep 2026 10:00:05 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>lucidware.click</title>
+         <link>https://x.com/phatomcandle/status/2096901311593943527</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: lucidware.click
+Tweet: https://x.com/phatomcandle/status/2096901311593943527</description>
+         <guid isPermaLink="false">lucidware.click</guid>
+         <pubDate>Mon, 07 Sep 2026 10:00:05 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @webamon_search</title>
+      <link>https://x.com/webamon_search</link>
+      <description>IOCs shared by @webamon_search and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @webamon_search</title>
+         <link>https://x.com/webamon_search</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/webamon_search.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://sqllq.com</title>
+         <link>https://x.com/webamon_search/status/2097302183872024687</link>
+         <description>@webamon_search | url | 
+Value: http://sqllq.com
+Tweet: https://x.com/webamon_search/status/2097302183872024687</description>
+         <guid isPermaLink="false">http://sqllq.com</guid>
+         <pubDate>Tue, 08 Sep 2026 12:33:01 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>sqllq.com</title>
+         <link>https://x.com/webamon_search/status/2097302183872024687</link>
+         <description>@webamon_search | domain | 
+Value: sqllq.com
+Tweet: https://x.com/webamon_search/status/2097302183872024687</description>
+         <guid isPermaLink="false">sqllq.com</guid>
+         <pubDate>Tue, 08 Sep 2026 12:33:01 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,24 @@
+name: Bug report
+description: Something broken on tweetfeed.live, the API, the MCP server, TAXII, or the data files
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: surface
+    attributes:
+      label: Where did you find it?
+      options:
+        - Website (tweetfeed.live)
+        - API (api.tweetfeed.live)
+        - MCP server (mcp.tweetfeed.live)
+        - TAXII 2.1
+        - Data files (this repo)
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what you got. Include the URL or request if relevant.
+    validations:
+      required: true

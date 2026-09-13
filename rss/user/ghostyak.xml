@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Ghostyak</title>
+      <link>https://x.com/Ghostyak</link>
+      <description>IOCs shared by @Ghostyak and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Ghostyak</title>
+         <link>https://x.com/Ghostyak</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/ghostyak.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>118.194.249.91</title>
+         <link>https://x.com/Ghostyak/status/2098752915116855627</link>
+         <description>@Ghostyak | ip | #DPRK #Kimsuky
+Value: 118.194.249.91
+Tweet: https://x.com/Ghostyak/status/2098752915116855627</description>
+         <guid isPermaLink="false">118.194.249.91</guid>
+         <pubDate>Sat, 12 Sep 2026 12:37:42 +0000</pubDate>
+         <category>ip</category>
+         <category>#DPRK</category>
+         <category>#Kimsuky</category>
+      </item>
+   </channel>
+</rss>

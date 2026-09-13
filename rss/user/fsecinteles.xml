@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @FsecIntelEs</title>
+      <link>https://x.com/FsecIntelEs</link>
+      <description>IOCs shared by @FsecIntelEs and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @FsecIntelEs</title>
+         <link>https://x.com/FsecIntelEs</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/fsecinteles.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion</title>
+         <link>https://x.com/FsecIntelEs/status/2097502404136603661</link>
+         <description>@FsecIntelEs | url | #ransomware
+Value: http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion
+Tweet: https://x.com/FsecIntelEs/status/2097502404136603661</description>
+         <guid isPermaLink="false">http://eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion</guid>
+         <pubDate>Wed, 09 Sep 2026 01:48:37 +0000</pubDate>
+         <category>url</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion</title>
+         <link>https://x.com/FsecIntelEs/status/2097502404136603661</link>
+         <description>@FsecIntelEs | domain | #ransomware
+Value: eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion
+Tweet: https://x.com/FsecIntelEs/status/2097502404136603661</description>
+         <guid isPermaLink="false">eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion</guid>
+         <pubDate>Wed, 09 Sep 2026 01:48:37 +0000</pubDate>
+         <category>domain</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @siri_urz</title>
+      <link>https://x.com/siri_urz</link>
+      <description>IOCs shared by @siri_urz and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @siri_urz</title>
+         <link>https://x.com/siri_urz</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/siri_urz.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>341ff2ea71c58b09b0634b6a8e66bbf7</title>
+         <link>https://x.com/siri_urz/status/2098383250246820350</link>
+         <description>@siri_urz | md5 | #ransomware
+Value: 341ff2ea71c58b09b0634b6a8e66bbf7
+Tweet: https://x.com/siri_urz/status/2098383250246820350</description>
+         <guid isPermaLink="false">341ff2ea71c58b09b0634b6a8e66bbf7</guid>
+         <pubDate>Fri, 11 Sep 2026 12:08:47 +0000</pubDate>
+         <category>md5</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

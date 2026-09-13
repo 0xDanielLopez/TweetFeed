@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @mugu_reporter</title>
+      <link>https://x.com/mugu_reporter</link>
+      <description>IOCs shared by @mugu_reporter and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @mugu_reporter</title>
+         <link>https://x.com/mugu_reporter</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/mugu_reporter.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://quantum-forgex.com</title>
+         <link>https://x.com/mugu_reporter/status/2096810181740925241</link>
+         <description>@mugu_reporter | url | #scam
+Value: http://quantum-forgex.com
+Tweet: https://x.com/mugu_reporter/status/2096810181740925241</description>
+         <guid isPermaLink="false">http://quantum-forgex.com</guid>
+         <pubDate>Mon, 07 Sep 2026 03:57:58 +0000</pubDate>
+         <category>url</category>
+         <category>#scam</category>
+      </item>
+      <item>
+         <title>quantum-forgex.com</title>
+         <link>https://x.com/mugu_reporter/status/2096810181740925241</link>
+         <description>@mugu_reporter | domain | #scam
+Value: quantum-forgex.com
+Tweet: https://x.com/mugu_reporter/status/2096810181740925241</description>
+         <guid isPermaLink="false">quantum-forgex.com</guid>
+         <pubDate>Mon, 07 Sep 2026 03:57:58 +0000</pubDate>
+         <category>domain</category>
+         <category>#scam</category>
+      </item>
+   </channel>
+</rss>

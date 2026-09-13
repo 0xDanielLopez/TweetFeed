@@ -1,0 +1,3 @@
+# Backup files from FP-cleanup edits (sed -i.bak) must never reach the public data repo
+*.bak
+*.bak.*

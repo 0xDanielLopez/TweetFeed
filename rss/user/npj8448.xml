@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Npj8448</title>
+      <link>https://x.com/Npj8448</link>
+      <description>IOCs shared by @Npj8448 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Npj8448</title>
+         <link>https://x.com/Npj8448</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/npj8448.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://Medela.com</title>
+         <link>https://x.com/Npj8448/status/2096801991280451867</link>
+         <description>@Npj8448 | url | #ransomware
+Value: http://Medela.com
+Tweet: https://x.com/Npj8448/status/2096801991280451867</description>
+         <guid isPermaLink="false">http://Medela.com</guid>
+         <pubDate>Mon, 07 Sep 2026 03:25:26 +0000</pubDate>
+         <category>url</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>medela.com</title>
+         <link>https://x.com/Npj8448/status/2096801991280451867</link>
+         <description>@Npj8448 | domain | #ransomware
+Value: medela.com
+Tweet: https://x.com/Npj8448/status/2096801991280451867</description>
+         <guid isPermaLink="false">medela.com</guid>
+         <pubDate>Mon, 07 Sep 2026 03:25:26 +0000</pubDate>
+         <category>domain</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

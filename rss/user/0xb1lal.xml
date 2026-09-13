@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @0xb1lal</title>
+      <link>https://x.com/0xb1lal</link>
+      <description>IOCs shared by @0xb1lal and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @0xb1lal</title>
+         <link>https://x.com/0xb1lal</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/0xb1lal.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 13 Sep 2026 00:00:35 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>223.26.62.95</title>
+         <link>https://x.com/0xb1lal/status/2098155360829702413</link>
+         <description>@0xb1lal | ip | #malware #opendir
+Value: 223.26.62.95
+Tweet: https://x.com/0xb1lal/status/2098155360829702413</description>
+         <guid isPermaLink="false">223.26.62.95</guid>
+         <pubDate>Thu, 10 Sep 2026 21:03:14 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>179.43.175.2</title>
+         <link>https://x.com/0xb1lal/status/2097434486124290416</link>
+         <description>@0xb1lal | ip | 
+Value: 179.43.175.2
+Tweet: https://x.com/0xb1lal/status/2097434486124290416</description>
+         <guid isPermaLink="false">179.43.175.2</guid>
+         <pubDate>Tue, 08 Sep 2026 21:18:44 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>207.174.0.143</title>
+         <link>https://x.com/0xb1lal/status/2097068147303956740</link>
+         <description>@0xb1lal | ip | #malware
+Value: 207.174.0.143
+Tweet: https://x.com/0xb1lal/status/2097068147303956740</description>
+         <guid isPermaLink="false">207.174.0.143</guid>
+         <pubDate>Mon, 07 Sep 2026 21:03:02 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>
