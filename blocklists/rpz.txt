@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1216
-; Updated: 2026-09-15T04:30:17Z
+; Entries: 1219
+; Updated: 2026-09-15T05:00:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789446617 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789448420 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1392,6 +1392,8 @@ online-interview-meeting.top CNAME .
 *.online-interview-meeting.top CNAME .
 onxsm.styleompl.com CNAME .
 *.onxsm.styleompl.com CNAME .
+ony.srb.temporary.site CNAME .
+*.ony.srb.temporary.site CNAME .
 opalblueprint10.com CNAME .
 *.opalblueprint10.com CNAME .
 orlatiosllc.com CNAME .
@@ -1756,6 +1758,8 @@ scr33nc0nn3ctz00m.com CNAME .
 *.scr33nc0nn3ctz00m.com CNAME .
 sdntds.shop CNAME .
 *.sdntds.shop CNAME .
+se.kivokeyline.com CNAME .
+*.se.kivokeyline.com CNAME .
 se.norahadraivnig.com CNAME .
 *.se.norahadraivnig.com CNAME .
 se.nsbpay.com CNAME .
@@ -1876,6 +1880,8 @@ stdigitalthermometer.info CNAME .
 *.stdigitalthermometer.info CNAME .
 stories.myteenagedream.com CNAME .
 *.stories.myteenagedream.com CNAME .
+strafordhomes.screenconnect.com CNAME .
+*.strafordhomes.screenconnect.com CNAME .
 stride25.com CNAME .
 *.stride25.com CNAME .
 stripl.win-win.buzz CNAME .
