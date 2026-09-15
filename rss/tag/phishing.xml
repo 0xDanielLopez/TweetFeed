@@ -12,8 +12,30 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/tag/phishing.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Tue, 15 Sep 2026 03:00:19 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 15 Sep 2026 03:15:16 +0000</lastBuildDate>
       <ttl>15</ttl>
+      <item>
+         <title>http://altiora.fun</title>
+         <link>https://x.com/TKemmerling/status/2099695723189277034</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://altiora.fun
+Tweet: https://x.com/TKemmerling/status/2099695723189277034</description>
+         <guid isPermaLink="false">http://altiora.fun</guid>
+         <pubDate>Tue, 15 Sep 2026 03:04:05 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>altiora.fun</title>
+         <link>https://x.com/TKemmerling/status/2099695723189277034</link>
+         <description>@TKemmerling | domain | #phishing
+Value: altiora.fun
+Tweet: https://x.com/TKemmerling/status/2099695723189277034</description>
+         <guid isPermaLink="false">altiora.fun</guid>
+         <pubDate>Tue, 15 Sep 2026 03:04:05 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
       <item>
          <title>http://rc.veyosilk.com</title>
          <link>https://x.com/TKemmerling/status/2099689891751997836</link>
@@ -1127,30 +1149,6 @@ Tweet: https://x.com/masaomi346/status/2098801311575933428</description>
          <guid isPermaLink="false">f137cb54d7a25f31d09c681810a5625142d56438ba2c958a7f24bc38e0ae2d2b</guid>
          <pubDate>Sat, 12 Sep 2026 15:50:01 +0000</pubDate>
          <category>sha256</category>
-         <category>#malware</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>https://app.datinglive-jp.com</title>
-         <link>https://x.com/masaomi346/status/2098801311575933428</link>
-         <description>@masaomi346 | url | #malware #phishing
-Value: https://app.datinglive-jp.com
-Tweet: https://x.com/masaomi346/status/2098801311575933428</description>
-         <guid isPermaLink="false">https://app.datinglive-jp.com</guid>
-         <pubDate>Sat, 12 Sep 2026 15:50:01 +0000</pubDate>
-         <category>url</category>
-         <category>#malware</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>app.datinglive-jp.com</title>
-         <link>https://x.com/masaomi346/status/2098801311575933428</link>
-         <description>@masaomi346 | domain | #malware #phishing
-Value: app.datinglive-jp.com
-Tweet: https://x.com/masaomi346/status/2098801311575933428</description>
-         <guid isPermaLink="false">app.datinglive-jp.com</guid>
-         <pubDate>Sat, 12 Sep 2026 15:50:01 +0000</pubDate>
-         <category>domain</category>
          <category>#malware</category>
          <category>#phishing</category>
       </item>
