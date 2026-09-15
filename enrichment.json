@@ -1,10 +1,6 @@
 {
-  "count": 2354,
+  "count": 2183,
   "dead_tweets": {
-    "2086030345506361516": {
-      "attempts": 1,
-      "last_attempt": "2026-09-07T18:40:05Z"
-    },
     "2087799248439902618": {
       "attempts": 2,
       "last_attempt": "2026-09-12T18:40:03Z"
@@ -980,21 +976,6 @@
       "type": "url",
       "value": "http://107.149.105.29"
     },
-    "107.150.32.154": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "url",
-      "value": "http://107.150.32.154"
-    },
     "107.172.243.124": {
       "confidence": 0.9,
       "date": "2026-08-18 17:50:47",
@@ -1167,21 +1148,6 @@
       "tweet_id": "2089369951635136673",
       "type": "domain",
       "value": "11243debestreeeemcoxxxx.duckdns.org"
-    },
-    "112cde15d938ba03e7dc637534746ff5": {
-      "confidence": 0.75,
-      "date": "2026-08-15 21:07:47",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Three MD5 hashes attributed to UAC0099 threat actor, flagged by CERT-UA as malicious files.",
-      "threat_type": "malware",
-      "tweet_id": "2088734421729915223",
-      "type": "md5",
-      "value": "112cde15d938ba03e7dc637534746ff5"
     },
     "113.161.194.129": {
       "confidence": 0.65,
@@ -4422,6 +4388,20 @@
       "type": "ip",
       "value": "23.137.255.139"
     },
+    "23.159.248.93": {
+      "confidence": 0.62,
+      "date": "2026-09-14 22:02:59",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "IP 23.159.248.93 flagged with 176 malicious artifacts including malware and exploit activity, first seen Sep 08.",
+      "threat_type": "malware",
+      "tweet_id": "2099619949513728108",
+      "type": "url",
+      "value": "http://23.159.248.93"
+    },
     "23.254.165.112": {
       "confidence": 0.95,
       "date": "2026-08-20 08:50:18",
@@ -4878,21 +4858,6 @@
       "type": "ip",
       "value": "3.174.46.41"
     },
-    "3000twt.site": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "3000twt.site"
-    },
     "30434bc6ef3f97b986efefbd821df87e7c376a8c6a8cf68001cf6b5aa771df36": {
       "confidence": 0.78,
       "date": "2026-09-11 21:09:16",
@@ -5220,6 +5185,21 @@
       "tweet_id": "2089772009744150862",
       "type": "url",
       "value": "http://37.27.13.155"
+    },
+    "374c7a1815373b88dd4723a405d8c7a3": {
+      "confidence": 0.65,
+      "date": "2026-08-16 18:20:35",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "ScreenConnect remote access tool abuse linked to suspicious domain and MD5 hash sample.",
+      "threat_type": "malware",
+      "tweet_id": "2089054731574341775",
+      "type": "md5",
+      "value": "374c7a1815373b88dd4723a405d8c7a3"
     },
     "38.134.148.214": {
       "confidence": 0.85,
@@ -7391,21 +7371,6 @@
       "type": "sha256",
       "value": "70bf0a8c0ffe5d1aa51358aba0ae365a1fab15cc356a02c07a36de6427e3ca7f"
     },
-    "70f32f8aae511013af26dd9088b1f6ff": {
-      "confidence": 0.75,
-      "date": "2026-08-15 21:07:47",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Three MD5 hashes attributed to UAC0099 threat actor, flagged by CERT-UA as malicious files.",
-      "threat_type": "malware",
-      "tweet_id": "2088734421729915223",
-      "type": "md5",
-      "value": "70f32f8aae511013af26dd9088b1f6ff"
-    },
     "71.216.194.123": {
       "confidence": 0.65,
       "date": "2026-08-24 14:42:24",
@@ -8714,6 +8679,20 @@
       "type": "url",
       "value": "http://95.163.152.97"
     },
+    "95.181.213.21": {
+      "confidence": 0.8,
+      "date": "2026-09-13 04:30:00",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "BAZUKA C2 panel identified at 95.181.213.21:8082.",
+      "threat_type": "c2",
+      "tweet_id": "2098992570898448711",
+      "type": "ip",
+      "value": "95.181.213.21"
+    },
     "9891fdb8857f35ab6c8dd986e3bd46004fba7b479af57dbfc1b15d957fa9d2c5": {
       "confidence": 0.92,
       "date": "2026-08-17 16:12:39",
@@ -8821,21 +8800,6 @@
       "tweet_id": "2089291476328939641",
       "type": "sha256",
       "value": "9f119d05403b1e079893fb77f6b8b2a9682d1df7ced31a189e7490924ccfb170"
-    },
-    "a-z-coin.click": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "a-z-coin.click"
     },
     "a.loaagouda.com": {
       "confidence": 0.9,
@@ -9087,6 +9051,23 @@
       "tweet_id": "2095711621066686787",
       "type": "domain",
       "value": "aadobe07.pages.dev"
+    },
+    "aaroensol-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:07:31",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating V-point loyalty service distributed via multiple smbice.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099651288984436985",
+      "type": "domain",
+      "value": "aaroensol-smbice.com"
     },
     "ab62b50e50d8148e7c894df644e62f365dbe2bd7f7ec0039b7d1af42c555562e": {
       "confidence": 0.91,
@@ -9418,21 +9399,6 @@
       "type": "domain",
       "value": "adirondacsherpa.info"
     },
-    "adl-irn.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "adl-irn.xyz"
-    },
     "admin.thotera.com": {
       "confidence": 0.9,
       "date": "2026-08-18 17:50:47",
@@ -9742,66 +9708,6 @@
       "tweet_id": "2089052085459296766",
       "type": "url",
       "value": "http://aileen75.ddns.net:62699"
-    },
-    "airdrop-trustwaleet.shpk-sanair.ga": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "airdrop-trustwaleet.shpk-sanair.ga"
-    },
-    "airdrop-trustwaleet.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "airdrop-trustwaleet.tk"
-    },
-    "airdrops-trustwallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "airdrops-trustwallet.com"
-    },
-    "airdroptrustwallet.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "airdroptrustwallet.xyz"
     },
     "akb.cat": {
       "confidence": 0.85,
@@ -10526,21 +10432,6 @@
       "type": "domain",
       "value": "arvispark.com"
     },
-    "asemotas.github.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "asemotas.github.io"
-    },
     "asianmassageporn.info": {
       "confidence": 0.9,
       "date": "2026-09-03 18:28:39",
@@ -10618,51 +10509,6 @@
       "tweet_id": "2090333329971183699",
       "type": "domain",
       "value": "auth-ledgrelive-net.wasmer.app"
-    },
-    "authenticate.trustyourcrypt.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "authenticate.trustyourcrypt.com"
-    },
-    "authenticate.trustyourcrypto.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "authenticate.trustyourcrypto.com"
-    },
-    "authenticatewallets.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "authenticatewallets.online"
     },
     "auto.c3pool.org": {
       "confidence": 0.92,
@@ -10911,6 +10757,23 @@
       "tweet_id": "2091722939972669738",
       "type": "sha256",
       "value": "b90c73f2e8b64e6f7c0bdee053fa23761d9e97b3dd00e03ba4591f3bca88df90"
+    },
+    "bab5482560944fa4b6424642c73282b0efe2a20618303e8d6bf9d4ff03adecd9": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:20:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via multiple rakunde.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099654512340574351",
+      "type": "sha256",
+      "value": "bab5482560944fa4b6424642c73282b0efe2a20618303e8d6bf9d4ff03adecd9"
     },
     "babyland.posmasters.lk": {
       "confidence": 0.95,
@@ -11429,21 +11292,6 @@
       "tweet_id": "2090940532818416110",
       "type": "domain",
       "value": "biglcobeauth.vercel.app"
-    },
-    "bilalgyan2000.ir": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "bilalgyan2000.ir"
     },
     "billionsonlinee.ddns.net": {
       "confidence": 0.95,
@@ -12769,21 +12617,6 @@
       "type": "domain",
       "value": "checkoutacceleration.com"
     },
-    "chiangmainightsafari.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "chiangmainightsafari.com"
-    },
     "chiotetpapparel.shop": {
       "confidence": 0.95,
       "date": "2026-08-20 06:14:36",
@@ -12889,141 +12722,6 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "cke.hlf.mybluehost.me"
-    },
-    "claim-trust.walletsreward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claim-trust.walletsreward.com"
-    },
-    "claim-trusts.walletsreward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claim-trusts.walletsreward.com"
-    },
-    "claim.makethebestsharenow.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claim.makethebestsharenow.xyz"
-    },
-    "claim.trustwalllet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claim.trustwalllet.com"
-    },
-    "claim.tw-bonus.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claim.tw-bonus.com"
-    },
-    "claimatomicreward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claimatomicreward.com"
-    },
-    "claimst-gifts-for-frees.github.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claimst-gifts-for-frees.github.io"
-    },
-    "claimtrustwalletaward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claimtrustwalletaward.com"
-    },
-    "claimwallet.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "claimwallet.online"
     },
     "claude-macos-app.com": {
       "confidence": 0.9,
@@ -13372,6 +13070,20 @@
       "type": "domain",
       "value": "coasthaorhoper.com"
     },
+    "cock.li": {
+      "confidence": 0.88,
+      "date": "2026-09-14 21:18:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "New ransomware group OpnKey identified; drops Restore-My-Files.txt ransom note with 72-hour data leak threat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2099608714160542069",
+      "type": "domain",
+      "value": "cock.li"
+    },
     "codex-desk.com": {
       "confidence": 0.85,
       "date": "2026-09-14 12:20:45",
@@ -13403,51 +13115,6 @@
       "tweet_id": "2090777247179489573",
       "type": "domain",
       "value": "codex-notes.com"
-    },
-    "coinotek.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "coinotek.online"
-    },
-    "coinstreasury.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "coinstreasury.com"
-    },
-    "cointools.store": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "cointools.store"
     },
     "columbuswealthplanning.info": {
       "confidence": 0.9,
@@ -13492,21 +13159,6 @@
       "type": "url",
       "value": "http://comecome.click/zxm/xx/alibaba/index.html"
     },
-    "confirm.trqustwallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "confirm.trqustwallet.com"
-    },
     "connect-bitmoon.fun": {
       "confidence": 0.92,
       "date": "2026-08-17 19:15:27",
@@ -13540,21 +13192,6 @@
       "type": "domain",
       "value": "connect-ledgercom-help.typedream.app"
     },
-    "controlwallet.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "controlwallet.ml"
-    },
     "cqylt.net": {
       "confidence": 0.85,
       "date": "2026-08-25 04:39:07",
@@ -13587,36 +13224,6 @@
       "type": "domain",
       "value": "crimson-orbit-tdrnyc2s.expresshost.cloud"
     },
-    "cryptoteek.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "cryptoteek.online"
-    },
-    "cryptotek.site": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "cryptotek.site"
-    },
     "csdgryg.buwrh.com": {
       "confidence": 0.78,
       "date": "2026-09-02 23:34:36",
@@ -13632,21 +13239,6 @@
       "tweet_id": "2095294350154715227",
       "type": "domain",
       "value": "csdgryg.buwrh.com"
-    },
-    "csg-app.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "csg-app.com"
     },
     "cubana.cloud": {
       "confidence": 0.95,
@@ -14052,6 +13644,23 @@
       "type": "domain",
       "value": "daqian-point.com"
     },
+    "daqianzib-rakunde.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:20:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via multiple rakunde.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099654512340574351",
+      "type": "domain",
+      "value": "daqianzib-rakunde.com"
+    },
     "datinglive-jp.com": {
       "confidence": 0.8,
       "date": "2026-09-12 15:50:01",
@@ -14400,21 +14009,6 @@
       "type": "domain",
       "value": "dichcxosghnd-dsvekdc.top"
     },
-    "digitalsupport.ink": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "digitalsupport.ink"
-    },
     "dilan-wine.posmasters.lk": {
       "confidence": 0.95,
       "date": "2026-08-17 21:14:37",
@@ -14459,6 +14053,23 @@
       "type": "url",
       "value": "https://discord.gg/FreeUp"
     },
+    "ditankaofa-rakunde.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:20:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via multiple rakunde.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099654512340574351",
+      "type": "domain",
+      "value": "ditankaofa-rakunde.com"
+    },
     "djgaza.com": {
       "confidence": 0.87,
       "date": "2026-09-10 09:02:56",
@@ -14473,21 +14084,6 @@
       "tweet_id": "2097974092259586528",
       "type": "domain",
       "value": "djgaza.com"
-    },
-    "dl-trustwallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "dl-trustwallet.com"
     },
     "dl.vvtoken.top": {
       "confidence": 0.92,
@@ -14630,6 +14226,23 @@
       "type": "domain",
       "value": "docs-trezr-begin-help.typedream.app"
     },
+    "doctoaezrw-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:07:31",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating V-point loyalty service distributed via multiple smbice.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099651288984436985",
+      "type": "domain",
+      "value": "doctoaezrw-smbice.com"
+    },
     "docusign-server.github.io": {
       "confidence": 0.9,
       "date": "2026-08-21 03:41:53",
@@ -14671,36 +14284,6 @@
       "tweet_id": "2092658587491299380",
       "type": "domain",
       "value": "docusign.login.adrpowersystem.com"
-    },
-    "doge-free.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "doge-free.ml"
-    },
-    "dogegift.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "dogegift.net"
     },
     "donateclothingmi.info": {
       "confidence": 0.9,
@@ -14791,21 +14374,6 @@
       "tweet_id": "2090925904927011233",
       "type": "url",
       "value": "https://dossieretudiant.polymlt.ca/WebEtudiant7/poly.html"
-    },
-    "download-trustwallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "download-trustwallet.com"
     },
     "download.cctoken.us": {
       "confidence": 0.92,
@@ -14946,21 +14514,6 @@
       "tweet_id": "2092462014786605226",
       "type": "domain",
       "value": "downloads.msaccesspro.com"
-    },
-    "draft.uwcrobertboschcollege.de": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "draft.uwcrobertboschcollege.de"
     },
     "drc2.net": {
       "confidence": 0.9,
@@ -15389,21 +14942,6 @@
       "tweet_id": "2096376715471884489",
       "type": "sha256",
       "value": "ebd6f8fa187c3bde2a3f6bf42f3b94e2664867e83d98554a91ecc2ebaf552dc0"
-    },
-    "ece99b043edb41b85103417099a3033c": {
-      "confidence": 0.75,
-      "date": "2026-08-15 21:07:47",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Three MD5 hashes attributed to UAC0099 threat actor, flagged by CERT-UA as malicious files.",
-      "threat_type": "malware",
-      "tweet_id": "2088734421729915223",
-      "type": "md5",
-      "value": "ece99b043edb41b85103417099a3033c"
     },
     "eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion": {
       "confidence": 0.92,
@@ -15835,66 +15373,6 @@
       "type": "url",
       "value": "https://etc.meisai.zywblog.com/login.html/"
     },
-    "ethereum.claim-rewards.my.id": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "ethereum.claim-rewards.my.id"
-    },
-    "etherum2.pro": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "etherum2.pro"
-    },
-    "ethpluse.one": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "ethpluse.one"
-    },
-    "ethrum2.pro": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "ethrum2.pro"
-    },
     "etransac-enligne.click": {
       "confidence": 0.85,
       "date": "2026-08-25 04:39:07",
@@ -16149,6 +15627,23 @@
       "tweet_id": "2095294350154715227",
       "type": "sha256",
       "value": "f69f9889b2f2f75520204756711756c03e82a50839156a8ef0c181acc69b74fa"
+    },
+    "f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:07:31",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating V-point loyalty service distributed via multiple smbice.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099651288984436985",
+      "type": "sha256",
+      "value": "f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e"
     },
     "f773c8ab32122ebb49962ad16a333bacd8e3ceb38435e2a22159cad66fb0af7a": {
       "confidence": 0.75,
@@ -16654,6 +16149,21 @@
       "type": "domain",
       "value": "finance-gov-pk.fetchdrives.info"
     },
+    "financeoakmont.com": {
+      "confidence": 0.85,
+      "date": "2026-09-14 18:21:35",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing site financeoakmont.com impersonates a legitimate brand to deliver fake fast personal loan offers.",
+      "threat_type": "phishing",
+      "tweet_id": "2099564229846335802",
+      "type": "domain",
+      "value": "financeoakmont.com"
+    },
     "financialmarkets.info": {
       "confidence": 0.87,
       "date": "2026-08-25 13:46:24",
@@ -16667,21 +16177,6 @@
       "tweet_id": "2092247222259941826",
       "type": "domain",
       "value": "financialmarkets.info"
-    },
-    "findsafwewohabwqo.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "findsafwewohabwqo.tk"
     },
     "fivebellsinn.com": {
       "confidence": 0.85,
@@ -16988,21 +16483,6 @@
       "type": "domain",
       "value": "franckdelmarcelle.com"
     },
-    "free-freefire.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "free-freefire.ml"
-    },
     "frontend148.blob.core.windows.net": {
       "confidence": 0.78,
       "date": "2026-08-25 13:06:38",
@@ -17139,36 +16619,6 @@
       "tweet_id": "2091719761684041947",
       "type": "domain",
       "value": "geco249.club"
-    },
-    "get-your-bitcoin-bonus.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "get-your-bitcoin-bonus.co"
-    },
-    "get250atom.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "get250atom.com"
     },
     "getgreatgoodies.com": {
       "confidence": 0.65,
@@ -17446,21 +16896,6 @@
       "tweet_id": "2097668662450675730",
       "type": "url",
       "value": "http://github.com/xwrex327-coder"
-    },
-    "giveawayclaim.live": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "giveawayclaim.live"
     },
     "gk.bnznji.net": {
       "confidence": 0.88,
@@ -17946,6 +17381,23 @@
       "type": "domain",
       "value": "hack.calerobinson.com"
     },
+    "haieryunsh-rakunde.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:20:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via multiple rakunde.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099654512340574351",
+      "type": "domain",
+      "value": "haieryunsh-rakunde.com"
+    },
     "haistandardsecurity.com": {
       "confidence": 0.9,
       "date": "2026-08-25 03:21:35",
@@ -18197,21 +17649,6 @@
       "tweet_id": "2093533352112587262",
       "type": "domain",
       "value": "hbjbkf.com"
-    },
-    "hearmenowradio.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "hearmenowradio.com"
     },
     "helengarentals.com": {
       "confidence": 0.95,
@@ -18551,21 +17988,6 @@
       "tweet_id": "2089173005385834806",
       "type": "url",
       "value": "https://highdpi-ads.com/uid_jsMNcaeo/DQsBV?ticket=6uEVXvM6"
-    },
-    "highms.mikroserver.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "highms.mikroserver.xyz"
     },
     "hijndil-ownguen.pages.dev": {
       "confidence": 0.75,
@@ -18988,6 +18410,23 @@
       "tweet_id": "2098612702243631218",
       "type": "domain",
       "value": "huibao-point.com"
+    },
+    "huibaoshen-rakunde.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:20:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via multiple rakunde.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099654512340574351",
+      "type": "domain",
+      "value": "huibaoshen-rakunde.com"
     },
     "hunt.sabalillc.com": {
       "confidence": 0.9,
@@ -19775,35 +19214,6 @@
       "type": "url",
       "value": "https://iodqqji.info/rlEIdbAG/"
     },
-    "iq-sec.vercel.app": {
-      "confidence": 0.4,
-      "date": "2026-08-15 21:39:09",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Two Vercel-hosted domains flagged as potential malicious infrastructure; no additional context or threat actor provided.",
-      "threat_type": "phishing",
-      "tweet_id": "2088742315980456045",
-      "type": "domain",
-      "value": "iq-sec.vercel.app"
-    },
-    "iran1403.pingbaz.sbs": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "iran1403.pingbaz.sbs"
-    },
     "ironrootsystems.nl": {
       "confidence": 0.9,
       "date": "2026-08-29 03:02:45",
@@ -20051,6 +19461,23 @@
       "tweet_id": "2098239943688507528",
       "type": "domain",
       "value": "jihfrs.burswel.sbs"
+    },
+    "jiongryturte-rakunde.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:20:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating Rakuten distributed via multiple rakunde.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099654512340574351",
+      "type": "domain",
+      "value": "jiongryturte-rakunde.com"
     },
     "jlab.threat.rip": {
       "confidence": 0.3,
@@ -20599,6 +20026,23 @@
       "type": "domain",
       "value": "kmzfjt.com"
     },
+    "knittedjack-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:07:31",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating V-point loyalty service distributed via multiple smbice.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099651288984436985",
+      "type": "domain",
+      "value": "knittedjack-smbice.com"
+    },
     "kolaytatilburada.info": {
       "confidence": 0.82,
       "date": "2026-08-30 16:16:10",
@@ -20612,21 +20056,6 @@
       "tweet_id": "2094096850303508957",
       "type": "domain",
       "value": "kolaytatilburada.info"
-    },
-    "kovidi24.sbs": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "kovidi24.sbs"
     },
     "ktmnos.com": {
       "confidence": 0.95,
@@ -21497,21 +20926,6 @@
       "type": "url",
       "value": "https://login.gkpfz.com/login"
     },
-    "login.sing.in.strawpastry.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "login.sing.in.strawpastry.xyz"
-    },
     "login.zylvshiw.com": {
       "confidence": 0.95,
       "date": "2026-09-04 08:53:54",
@@ -21764,21 +21178,6 @@
       "type": "url",
       "value": "https://macielsoaresimobiliaria.com.br/lolipop/"
     },
-    "mail.heavyqueens.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "mail.heavyqueens.com"
-    },
     "mail.icloud-i-cl.com": {
       "confidence": 0.92,
       "date": "2026-08-31 17:01:03",
@@ -21947,6 +21346,23 @@
       "tweet_id": "2090803218368303283",
       "type": "domain",
       "value": "manalyzer.org"
+    },
+    "mandasirika-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:07:31",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating V-point loyalty service distributed via multiple smbice.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099651288984436985",
+      "type": "domain",
+      "value": "mandasirika-smbice.com"
     },
     "manpowersrilanka.lk": {
       "confidence": 0.95,
@@ -22209,21 +21625,6 @@
       "tweet_id": "2089772009744150862",
       "type": "domain",
       "value": "meshcore.nephelae-cloud.com"
-    },
-    "metamasky.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "metamasky.com"
     },
     "metamonetization.live": {
       "confidence": 0.8,
@@ -22503,6 +21904,20 @@
       "type": "domain",
       "value": "moneycedarvale.com"
     },
+    "morke.org": {
+      "confidence": 0.88,
+      "date": "2026-09-14 21:18:20",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "New ransomware group OpnKey identified; drops Restore-My-Files.txt ransom note with 72-hour data leak threat.",
+      "threat_type": "ransomware",
+      "tweet_id": "2099608714160542069",
+      "type": "domain",
+      "value": "morke.org"
+    },
     "morleyknowledge.org": {
       "confidence": 0.95,
       "date": "2026-08-16 17:55:00",
@@ -22737,20 +22152,19 @@
       "type": "domain",
       "value": "mydpd.zxiljj.cc"
     },
-    "mytrustwallet.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
+    "myid-telstra.flutterflow.app": {
+      "confidence": 0.92,
+      "date": "2026-09-14 22:36:36",
+      "enriched_at": "2026-09-15T00:40:03Z",
       "family": null,
       "suggested_tags": [
-        "cryptoscam",
         "phishing"
       ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
+      "summary": "Phishing site impersonating Telstra hosted on FlutterFlow platform at myid-telstra.flutterflow.app, resolving to Google infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2099628407797526808",
       "type": "domain",
-      "value": "mytrustwallet.co"
+      "value": "myid-telstra.flutterflow.app"
     },
     "mywebology.com": {
       "confidence": 0.82,
@@ -22961,20 +22375,6 @@
       "tweet_id": "2089772009744150862",
       "type": "domain",
       "value": "network45-238-142-host-234.inethn.net"
-    },
-    "new-pointer.vercel.app": {
-      "confidence": 0.4,
-      "date": "2026-08-15 21:39:09",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Two Vercel-hosted domains flagged as potential malicious infrastructure; no additional context or threat actor provided.",
-      "threat_type": "phishing",
-      "tweet_id": "2088742315980456045",
-      "type": "domain",
-      "value": "new-pointer.vercel.app"
     },
     "nextgenshoppingcardeals.info": {
       "confidence": 0.65,
@@ -23515,21 +22915,6 @@
       "type": "url",
       "value": "http://online-interview-meeting.top/invite.php"
     },
-    "onlineairdroplogin.club": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "onlineairdroplogin.club"
-    },
     "onxsm.styleompl.com": {
       "confidence": 0.95,
       "date": "2026-08-19 04:49:52",
@@ -23830,21 +23215,6 @@
       "type": "domain",
       "value": "parentpreneurx.com"
     },
-    "parshawallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "parshawallet.com"
-    },
     "partnerships.adobecreatives.com": {
       "confidence": 0.97,
       "date": "2026-08-29 17:01:06",
@@ -24008,36 +23378,6 @@
       "type": "domain",
       "value": "paypal3.vercel.app"
     },
-    "pcll.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "pcll.net"
-    },
-    "pdaf.ps": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "pdaf.ps"
-    },
     "perchframe15.com": {
       "confidence": 0.87,
       "date": "2026-08-22 09:41:46",
@@ -24083,6 +23423,23 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "pet.opx.mybluehost.me"
+    },
+    "pfflzcifes-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 00:07:31",
+      "enriched_at": "2026-09-15T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware impersonating V-point loyalty service distributed via multiple smbice.com domains; SHA256 sample shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2099651288984436985",
+      "type": "domain",
+      "value": "pfflzcifes-smbice.com"
     },
     "pfokq.cyou": {
       "confidence": 0.88,
@@ -24453,21 +23810,6 @@
       "tweet_id": "2094096589451321409",
       "type": "domain",
       "value": "pollenoodelight.com"
-    },
-    "polloniex.login.exchpancaikeswaip.cam": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "polloniex.login.exchpancaikeswaip.cam"
     },
     "pontihdunedinconjuncture-rakunde.com": {
       "confidence": 0.78,
@@ -25068,21 +24410,6 @@
       "type": "domain",
       "value": "qinfos.com"
     },
-    "qnbhsu.top": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "qnbhsu.top"
-    },
     "quantum-forgex.com": {
       "confidence": 0.9,
       "date": "2026-09-07 03:57:58",
@@ -25623,21 +24950,6 @@
       "type": "domain",
       "value": "readermarks.xyz"
     },
-    "receivegifttrustwallets.github.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "receivegifttrustwallets.github.io"
-    },
     "reentrega-seur-envio.cloudaccess.host": {
       "confidence": 0.95,
       "date": "2026-08-27 07:00:54",
@@ -25818,66 +25130,6 @@
       "tweet_id": "2096644869649297895",
       "type": "domain",
       "value": "restoration-google.com"
-    },
-    "restorebasetrust.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "restorebasetrust.com"
-    },
-    "restoretrustconnect.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "restoretrustconnect.online"
-    },
-    "restoretrustwallet.atomicwalletresolve.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "restoretrustwallet.atomicwalletresolve.io"
-    },
-    "restoretrustwallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "restoretrustwallet.com"
     },
     "revaotrace.com": {
       "confidence": 0.88,
@@ -26354,21 +25606,6 @@
       "type": "domain",
       "value": "rrrjp.shop"
     },
-    "ruance.eu.org": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "ruance.eu.org"
-    },
     "rucebive-rakntanoapp.com": {
       "confidence": 0.78,
       "date": "2026-09-11 21:09:16",
@@ -26791,51 +26028,6 @@
       "type": "domain",
       "value": "safe.techteeth.site"
     },
-    "safemoon-connect-trustwallet.award-winning-project.info": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "safemoon-connect-trustwallet.award-winning-project.info"
-    },
-    "safemoons.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "safemoons.net"
-    },
-    "safewl.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "safewl.xyz"
-    },
     "saissodbn202607oint.u0fnd.info": {
       "confidence": 0.96,
       "date": "2026-08-17 11:53:37",
@@ -27060,21 +26252,6 @@
       "tweet_id": "2091836906313031950",
       "type": "domain",
       "value": "sdntds.shop"
-    },
-    "sdy-sgaparak.gq": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "sdy-sgaparak.gq"
     },
     "se.norahadraivnig.com": {
       "confidence": 0.88,
@@ -27461,51 +26638,6 @@
       "tweet_id": "2098129930017992837",
       "type": "url",
       "value": "https://servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com/log.html#ssa@microsoft.com"
-    },
-    "setingwallet.info": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "setingwallet.info"
-    },
-    "settingtrust.line.pm": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "settingtrust.line.pm"
-    },
-    "settingwallets.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "settingwallets.com"
     },
     "sferyds.ceeww.xyz": {
       "confidence": 0.8,
@@ -27927,21 +27059,6 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "snc.posmasters.lk"
-    },
-    "sodaairdapfree.shop": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "sodaairdapfree.shop"
     },
     "softcube.fr": {
       "confidence": 0.65,
@@ -28516,21 +27633,6 @@
       "type": "url",
       "value": "http://superdomain8765.ddns.net:62699"
     },
-    "suportwaiiet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "suportwaiiet.com"
-    },
     "support--legderlive-us--learn.typedream.app": {
       "confidence": 0.98,
       "date": "2026-08-16 21:50:10",
@@ -28561,21 +27663,6 @@
       "type": "domain",
       "value": "support-ledgrcom-start-web.typedream.app"
     },
-    "support-trustwallet.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "support-trustwallet.tk"
-    },
     "support-uphold-auths-secure.typedream.app": {
       "confidence": 0.98,
       "date": "2026-08-16 21:50:10",
@@ -28604,36 +27691,6 @@
       "tweet_id": "2095729155505811695",
       "type": "domain",
       "value": "support.inumm.asia"
-    },
-    "supporttrust.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "supporttrust.net"
-    },
-    "supportwallettrust.lol": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "supportwallettrust.lol"
     },
     "supprot.new-turkey-tr.workers.dev": {
       "confidence": 0.93,
@@ -28740,51 +27797,6 @@
       "type": "url",
       "value": "https://syhzp.com/IBmWlZEh/"
     },
-    "syncdevpagess.top": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "syncdevpagess.top"
-    },
-    "syncpages.support": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "syncpages.support"
-    },
-    "syncpages.top": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "syncpages.top"
-    },
     "syncrank.online": {
       "confidence": 0.6,
       "date": "2026-08-25 18:00:07",
@@ -28799,21 +27811,6 @@
       "tweet_id": "2092311071759765658",
       "type": "domain",
       "value": "syncrank.online"
-    },
-    "syncsetting.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "syncsetting.xyz"
     },
     "syndikatet.net": {
       "confidence": 0.9,
@@ -28830,36 +27827,6 @@
       "tweet_id": "2089772009744150862",
       "type": "domain",
       "value": "syndikatet.net"
-    },
-    "syntcidpege.top": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "syntcidpege.top"
-    },
-    "t-wallet-apa.gq": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "t-wallet-apa.gq"
     },
     "t0loka.live": {
       "confidence": 0.97,
@@ -29171,36 +28138,6 @@
       "type": "url",
       "value": "http://teams-voicemail-connect.teams-connect-voice.online/teams-voicemail/invite.php"
     },
-    "techlords.github.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "techlords.github.io"
-    },
-    "techspacee.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "techspacee.online"
-    },
     "techview.posmasters.lk": {
       "confidence": 0.95,
       "date": "2026-08-17 21:14:37",
@@ -29292,21 +28229,6 @@
       "type": "domain",
       "value": "telendszes.work"
     },
-    "telugumovies.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "telugumovies.co"
-    },
     "terminalbrewmac.com": {
       "confidence": 0.92,
       "date": "2026-09-02 00:33:42",
@@ -29352,21 +28274,6 @@
       "tweet_id": "2091428661425844324",
       "type": "domain",
       "value": "terracollinge.com"
-    },
-    "terustwallet.work": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "terustwallet.work"
     },
     "test1.sougoucloud.workers.dev": {
       "confidence": 0.6,
@@ -29710,36 +28617,6 @@
       "type": "domain",
       "value": "trade-bitmoon.fun"
     },
-    "tradeworld.exchange": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "tradeworld.exchange"
-    },
-    "tradeworld.support": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "tradeworld.support"
-    },
     "transmitraisin.com": {
       "confidence": 0.9,
       "date": "2026-08-21 06:14:22",
@@ -30057,576 +28934,6 @@
       "type": "domain",
       "value": "truenorthworks.fun"
     },
-    "trus3-wallet.fbi.gang-host.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trus3-wallet.fbi.gang-host.xyz"
-    },
-    "trusst.cn": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trusst.cn"
-    },
-    "trussupport.gq": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trussupport.gq"
-    },
-    "trust-crypto.walletsreward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust-crypto.walletsreward.com"
-    },
-    "trust-secure.github.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust-secure.github.io"
-    },
-    "trust-support.club": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust-support.club"
-    },
-    "trust-support.me": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust-support.me"
-    },
-    "trust-wallet.claim-token-airdrop.info": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust-wallet.claim-token-airdrop.info"
-    },
-    "trust-wazirx.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust-wazirx.com"
-    },
-    "trust.im-token.fans": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust.im-token.fans"
-    },
-    "trust.shaparak-melllatbank-iran.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust.shaparak-melllatbank-iran.xyz"
-    },
-    "trust.wallet-accountnotice.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust.wallet-accountnotice.com"
-    },
-    "trust.wallet-accountrewards.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust.wallet-accountrewards.com"
-    },
-    "trust.wallet-accountsecurity.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust.wallet-accountsecurity.com"
-    },
-    "trust.walletsreward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trust.walletsreward.com"
-    },
-    "trustconfirmation.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustconfirmation.ml"
-    },
-    "trustewallet.herokuapp.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustewallet.herokuapp.com"
-    },
-    "trustfree.pikohost.ir": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustfree.pikohost.ir"
-    },
-    "trusts-crypto.walletsreward.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trusts-crypto.walletsreward.com"
-    },
-    "trusts-wallet.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trusts-wallet.xyz"
-    },
-    "trusts-wellet.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trusts-wellet.xyz"
-    },
-    "trustsetu.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsetu.tk"
-    },
-    "trustsewallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsewallet.com"
-    },
-    "trustsupport.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsupport.co"
-    },
-    "trustsupport.info": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsupport.info"
-    },
-    "trustsupport.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsupport.net"
-    },
-    "trustsupport.website": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsupport.website"
-    },
-    "trustsupport.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsupport.xyz"
-    },
-    "trustsupportt.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustsupportt.com"
-    },
-    "trustupgradewallet.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustupgradewallet.com"
-    },
-    "trustwaiiet.sbs": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwaiiet.sbs"
-    },
-    "trustwailet-com.cf": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwailet-com.cf"
-    },
-    "trustwailet.link": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwailet.link"
-    },
-    "trustwalet.vip": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalet.vip"
-    },
-    "trustwaliet-com.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwaliet-com.tk"
-    },
-    "trustwallet-2xq.pages.dev": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet-2xq.pages.dev"
-    },
-    "trustwallet-d3.ga": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet-d3.ga"
-    },
-    "trustwallet-gift.cf": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet-gift.cf"
-    },
     "trustwallet-help.online": {
       "confidence": 0.85,
       "date": "2026-09-13 01:48:35",
@@ -30641,546 +28948,6 @@
       "tweet_id": "2098951945910206500",
       "type": "domain",
       "value": "trustwallet-help.online"
-    },
-    "trustwallet-promo.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet-promo.co"
-    },
-    "trustwallet-support.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet-support.tk"
-    },
-    "trustwallet-website.herokuapp.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet-website.herokuapp.com"
-    },
-    "trustwallet.42web.io": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.42web.io"
-    },
-    "trustwallet.akargranites.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.akargranites.com"
-    },
-    "trustwallet.claim-token-airdrop.info": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.claim-token-airdrop.info"
-    },
-    "trustwallet.com-claims.rewards-active-users.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.com-claims.rewards-active-users.net"
-    },
-    "trustwallet.com.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.com.co"
-    },
-    "trustwallet.com.tisztatudo.hu": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.com.tisztatudo.hu"
-    },
-    "trustwallet.en-load.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.en-load.com"
-    },
-    "trustwallet.masdubai.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.masdubai.com"
-    },
-    "trustwallet.miemjapan.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.miemjapan.com"
-    },
-    "trustwallet.remmamsgroup.co.za": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.remmamsgroup.co.za"
-    },
-    "trustwallet.ren": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.ren"
-    },
-    "trustwallet.restoremywallets.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.restoremywallets.com"
-    },
-    "trustwallet.satulogin.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.satulogin.com"
-    },
-    "trustwallet.walletconect.co": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallet.walletconect.co"
-    },
-    "trustwalletinfo.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletinfo.xyz"
-    },
-    "trustwalleting.info": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalleting.info"
-    },
-    "trustwalletlogin.fixspakt.one": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletlogin.fixspakt.one"
-    },
-    "trustwalletofficial.org": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletofficial.org"
-    },
-    "trustwalletrestore.link": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletrestore.link"
-    },
-    "trustwalletrestore.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletrestore.net"
-    },
-    "trustwallets.lol": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwallets.lol"
-    },
-    "trustwalletsettings.line.pm": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletsettings.line.pm"
-    },
-    "trustwalletsios.live": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletsios.live"
-    },
-    "trustwalletsrestore.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletsrestore.com"
-    },
-    "trustwalletstaking.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwalletstaking.ml"
-    },
-    "trustwebrestore.live": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwebrestore.live"
-    },
-    "trustwellat.app": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwellat.app"
-    },
-    "trustwellat.cc": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trustwellat.cc"
-    },
-    "trusupport.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trusupport.online"
-    },
-    "trusweb.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trusweb.online"
-    },
-    "trutst.cn": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trutst.cn"
-    },
-    "trutsync.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "trutsync.com"
-    },
-    "tryusfreelance.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "tryusfreelance.online"
     },
     "ttrezur-en-us.typedream.app": {
       "confidence": 0.98,
@@ -31228,81 +28995,6 @@
       "tweet_id": "2089358723995107626",
       "type": "domain",
       "value": "turkey.research-department-tusas.workers.dev"
-    },
-    "turstwallet.club": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "turstwallet.club"
-    },
-    "turstwallet.us": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "turstwallet.us"
-    },
-    "twallet.site": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "twallet.site"
-    },
-    "twalllet.monster": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "twalllet.monster"
-    },
-    "twconnect.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "twconnect.net"
     },
     "twinclothing.lk": {
       "confidence": 0.95,
@@ -31467,36 +29159,6 @@
       "type": "domain",
       "value": "ufzmtsfulfxk.b17da333ec194ec4b767.d.requestbin.net"
     },
-    "uglloz.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:23:02",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Six-year-old phishing template impersonating TrustWallet (Ethereum wallet) hosted at uglloz.com/trustwalet/.",
-      "threat_type": "phishing",
-      "tweet_id": "2088723159407001662",
-      "type": "domain",
-      "value": "uglloz.com"
-    },
-    "uglloz.com/trustwalet": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:23:02",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Six-year-old phishing template impersonating TrustWallet (Ethereum wallet) hosted at uglloz.com/trustwalet/.",
-      "threat_type": "phishing",
-      "tweet_id": "2088723159407001662",
-      "type": "url",
-      "value": "http://uglloz.com/trustwalet/"
-    },
     "uhu7535b.s3.amazonaws.com": {
       "confidence": 0.92,
       "date": "2026-09-14 13:15:10",
@@ -31631,21 +29293,6 @@
       "tweet_id": "2090655720584974676",
       "type": "url",
       "value": "https://uniabjpoliticalsciencejournals.com.ng/mein-emmental/"
-    },
-    "unlimitedusps.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "unlimitedusps.com"
     },
     "unpac.me": {
       "confidence": 0.4,
@@ -32335,36 +29982,6 @@
       "type": "domain",
       "value": "valledaostaconvention.info"
     },
-    "varify-accounts.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "varify-accounts.online"
-    },
-    "varify-accounts.online.secure-logins.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "varify-accounts.online.secure-logins.online"
-    },
     "vault.zip": {
       "confidence": 0.93,
       "date": "2026-08-17 14:28:32",
@@ -32504,21 +30121,6 @@
       "tweet_id": "2089430925595619565",
       "type": "domain",
       "value": "verify-bitmoon.fun"
-    },
-    "verifyatomic.online": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "verifyatomic.online"
     },
     "verifyrecapcha.info": {
       "confidence": 0.93,
@@ -32879,21 +30481,6 @@
       "type": "domain",
       "value": "vpn.mihailgolban.com"
     },
-    "w.zukwalletclaim.com": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "w.zukwalletclaim.com"
-    },
     "w1mail.com": {
       "confidence": 0.82,
       "date": "2026-08-18 03:06:44",
@@ -32924,126 +30511,6 @@
       "tweet_id": "2089081641268543939",
       "type": "domain",
       "value": "wahlimit.net"
-    },
-    "waliet-apa.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "waliet-apa.ml"
-    },
-    "walletrust.cn": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "walletrust.cn"
-    },
-    "walletrust.tk": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "walletrust.tk"
-    },
-    "walletseting.org": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "walletseting.org"
-    },
-    "walletsetting.org": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "walletsetting.org"
-    },
-    "walletsetting.xyz": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "walletsetting.xyz"
-    },
-    "wallettrust.ml": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "wallettrust.ml"
-    },
-    "walletus.work.gd": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "walletus.work.gd"
     },
     "wanver.dothome.co.kr": {
       "confidence": 0.85,
@@ -33906,21 +31373,6 @@
       "tweet_id": "2097663346116010045",
       "type": "domain",
       "value": "wuyouwaosd.com"
-    },
-    "wvvw-metamask.net": {
-      "confidence": 0.95,
-      "date": "2026-08-15 20:42:06",
-      "enriched_at": "2026-08-16T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing"
-      ],
-      "summary": "Large cluster of fake TrustWallet, MetaMask, and crypto wallet phishing domains used for seed-phrase theft and fraudulent airdrops.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2088727959175614655",
-      "type": "domain",
-      "value": "wvvw-metamask.net"
     },
     "wwc7yw.duckdns.org": {
       "confidence": 0.95,
@@ -35851,6 +33303,6 @@
       "value": "\u7a0e\u52d9\u5831\u544a\u66f8.zip"
     }
   },
-  "generated_at": "2026-09-14T18:40:04Z",
+  "generated_at": "2026-09-15T00:40:03Z",
   "window_days": 30
 }
