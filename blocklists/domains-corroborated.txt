@@ -1,9 +1,9 @@
 # TweetFeed blocklist - plain domain list, corroborated subset (Pi-hole compatible)
 # Window: 30 days
-# Entries: 81
-# Updated: 2026-09-15T00:00:21Z
+# Entries: 82
+# Updated: 2026-09-15T01:30:17Z
 # Subset of domains.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-09-14T19:25:10Z
+# Cross-check refreshed: 2026-09-15T01:25:10Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -20,6 +20,7 @@ atlas-compass.com
 biobkliaum.live
 canvas-35.com
 cloudfrontenterprise.com
+cock.li
 cqylt.net
 currentme.top
 dntds.shop
