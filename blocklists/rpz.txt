@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1229
-; Updated: 2026-09-15T06:45:14Z
+; Entries: 1231
+; Updated: 2026-09-15T07:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789454714 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789455622 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -524,6 +524,8 @@ dlq.ojd.mybluehost.me CNAME .
 *.dlq.ojd.mybluehost.me CNAME .
 dnbwr-rtw4u.pages.dev CNAME .
 *.dnbwr-rtw4u.pages.dev CNAME .
+dnswwt.club CNAME .
+*.dnswwt.club CNAME .
 dntds.shop CNAME .
 *.dntds.shop CNAME .
 docs--login--ledger-live-desktop-io.typedream.app CNAME .
@@ -1958,6 +1960,8 @@ tastyvibescbd.com CNAME .
 *.tastyvibescbd.com CNAME .
 tavareslopes.adv.br CNAME .
 *.tavareslopes.adv.br CNAME .
+tb.rilobreeze.com CNAME .
+*.tb.rilobreeze.com CNAME .
 tbwjc.com CNAME .
 *.tbwjc.com CNAME .
 tcpsync.com CNAME .

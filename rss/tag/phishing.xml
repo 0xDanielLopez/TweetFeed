@@ -12,8 +12,30 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/tag/phishing.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Tue, 15 Sep 2026 06:45:15 +0000</lastBuildDate>
+      <lastBuildDate>Tue, 15 Sep 2026 07:00:23 +0000</lastBuildDate>
       <ttl>15</ttl>
+      <item>
+         <title>http://tb.rilobreeze.com</title>
+         <link>https://x.com/TKemmerling/status/2099752341952213436</link>
+         <description>@TKemmerling | url | #phishing
+Value: http://tb.rilobreeze.com
+Tweet: https://x.com/TKemmerling/status/2099752341952213436</description>
+         <guid isPermaLink="false">http://tb.rilobreeze.com</guid>
+         <pubDate>Tue, 15 Sep 2026 06:49:04 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>tb.rilobreeze.com</title>
+         <link>https://x.com/TKemmerling/status/2099752341952213436</link>
+         <description>@TKemmerling | domain | #phishing
+Value: tb.rilobreeze.com
+Tweet: https://x.com/TKemmerling/status/2099752341952213436</description>
+         <guid isPermaLink="false">tb.rilobreeze.com</guid>
+         <pubDate>Tue, 15 Sep 2026 06:49:04 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
       <item>
          <title>http://sa.oskatrace.com</title>
          <link>https://x.com/TKemmerling/status/2099746648268358064</link>
@@ -1128,28 +1150,6 @@ Tweet: https://x.com/TKemmerling/status/2099397423605174420</description>
          <guid isPermaLink="false">sa.oskatrace.com</guid>
          <pubDate>Mon, 14 Sep 2026 07:18:45 +0000</pubDate>
          <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>68.178.238.223</title>
-         <link>https://x.com/phishunt_io/status/2099393177480265807</link>
-         <description>@phishunt_io | ip | #phishing
-Value: 68.178.238.223
-Tweet: https://x.com/phishunt_io/status/2099393177480265807</description>
-         <guid isPermaLink="false">68.178.238.223</guid>
-         <pubDate>Mon, 14 Sep 2026 07:01:53 +0000</pubDate>
-         <category>ip</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>http://whatsapp.wooflers.com/livewire-742499fa</title>
-         <link>https://x.com/phishunt_io/status/2099393177480265807</link>
-         <description>@phishunt_io | url | #phishing
-Value: http://whatsapp.wooflers.com/livewire-742499fa
-Tweet: https://x.com/phishunt_io/status/2099393177480265807</description>
-         <guid isPermaLink="false">http://whatsapp.wooflers.com/livewire-742499fa</guid>
-         <pubDate>Mon, 14 Sep 2026 07:01:53 +0000</pubDate>
-         <category>url</category>
          <category>#phishing</category>
       </item>
    </channel>
