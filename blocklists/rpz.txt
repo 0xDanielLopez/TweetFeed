@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1219
-; Updated: 2026-09-15T05:00:20Z
+; Entries: 1221
+; Updated: 2026-09-15T05:15:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789448420 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789449316 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1532,6 +1532,8 @@ prime.madjizz.com CNAME .
 *.prime.madjizz.com CNAME .
 primethreein.s3.us-east-1.amazonaws.com CNAME .
 *.primethreein.s3.us-east-1.amazonaws.com CNAME .
+primstabn.info CNAME .
+*.primstabn.info CNAME .
 privacy.choquettes.shop CNAME .
 *.privacy.choquettes.shop CNAME .
 prizebond.net.pk CNAME .
@@ -1952,6 +1954,8 @@ tcpsync.com CNAME .
 *.tcpsync.com CNAME .
 tdto.prodesignscommunicate.de CNAME .
 *.tdto.prodesignscommunicate.de CNAME .
+te.cyraecraft.com CNAME .
+*.te.cyraecraft.com CNAME .
 teak.gen.tr CNAME .
 *.teak.gen.tr CNAME .
 teams-voicemail-connect.teams-connect-voice.online CNAME .

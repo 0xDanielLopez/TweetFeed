@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 1219
-# Updated: 2026-09-15T05:00:20Z
+# Entries: 1221
+# Updated: 2026-09-15T05:15:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -768,6 +768,7 @@
 0.0.0.0 premiumbuyersnetwork.info
 0.0.0.0 prime.madjizz.com
 0.0.0.0 primethreein.s3.us-east-1.amazonaws.com
+0.0.0.0 primstabn.info
 0.0.0.0 privacy.choquettes.shop
 0.0.0.0 prizebond.net.pk
 0.0.0.0 projectp.posmasters.lk
@@ -978,6 +979,7 @@
 0.0.0.0 tbwjc.com
 0.0.0.0 tcpsync.com
 0.0.0.0 tdto.prodesignscommunicate.de
+0.0.0.0 te.cyraecraft.com
 0.0.0.0 teak.gen.tr
 0.0.0.0 teams-voicemail-connect.teams-connect-voice.online
 0.0.0.0 techview.posmasters.lk
