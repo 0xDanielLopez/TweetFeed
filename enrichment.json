@@ -1,5 +1,5 @@
 {
-  "count": 2213,
+  "count": 2226,
   "dead_tweets": {
     "2087799248439902618": {
       "attempts": 2,
@@ -1148,6 +1148,21 @@
       "type": "url",
       "value": "http://110.42.106.225:6666"
     },
+    "111.229.198.6": {
+      "confidence": 0.8,
+      "date": "2026-09-15 08:31:00",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2"
+      ],
+      "summary": "Stealer C2 panel observed at 111.229.198.6 on port 18081.",
+      "threat_type": "c2",
+      "tweet_id": "2099777993174368256",
+      "type": "ip",
+      "value": "111.229.198.6"
+    },
     "11243debestreeeemcoxxxx.duckdns.org": {
       "confidence": 0.93,
       "date": "2026-08-17 15:13:09",
@@ -1716,21 +1731,6 @@
       "type": "ip",
       "value": "140.245.30.231"
     },
-    "143.109.37.227": {
-      "confidence": 0.82,
-      "date": "2026-08-16 10:56:56",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": "SharkRAT",
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "SharkRAT C2 panel identified at 154.36.188.193, 143.109.37.227 and domain ynsecc.top.",
-      "threat_type": "c2",
-      "tweet_id": "2088943085762060726",
-      "type": "ip",
-      "value": "143.109.37.227"
-    },
     "144.172.100.105": {
       "confidence": 0.45,
       "date": "2026-09-11 22:08:17",
@@ -1884,6 +1884,22 @@
       "type": "url",
       "value": "http://147.182.241.212"
     },
+    "149.104.24.197": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:14:50",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": "OverlordRAT",
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "phishing"
+      ],
+      "summary": "Japanese malspam impersonating a tax notification delivers OverlordRAT via mjdou.vip (149.104.24.197); multiple domains share the same IP.",
+      "threat_type": "malware",
+      "tweet_id": "2099758827386319001",
+      "type": "url",
+      "value": "http://149.104.24.197"
+    },
     "15.156.228.106": {
       "confidence": 0.9,
       "date": "2026-08-18 17:50:47",
@@ -1932,21 +1948,6 @@
       "tweet_id": "2099005679096700987",
       "type": "url",
       "value": "http://152.32.138.81"
-    },
-    "154.36.188.193": {
-      "confidence": 0.82,
-      "date": "2026-08-16 10:56:56",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": "SharkRAT",
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "SharkRAT C2 panel identified at 154.36.188.193, 143.109.37.227 and domain ynsecc.top.",
-      "threat_type": "c2",
-      "tweet_id": "2088943085762060726",
-      "type": "ip",
-      "value": "154.36.188.193"
     },
     "154.6.234.129": {
       "confidence": 0.82,
@@ -2357,20 +2358,6 @@
       "tweet_id": "2090804790607454681",
       "type": "ip",
       "value": "172.245.10.140"
-    },
-    "172.245.67.199": {
-      "confidence": 0.65,
-      "date": "2026-08-16 11:09:43",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP 172.245.67.199 on port 3000 flagged as C2 infrastructure by multiple threat intel researchers.",
-      "threat_type": "c2",
-      "tweet_id": "2088946300859629689",
-      "type": "ip",
-      "value": "172.245.67.199"
     },
     "173.231.206.234": {
       "confidence": 0.9,
@@ -3084,21 +3071,6 @@
       "tweet_id": "2090783895172292786",
       "type": "ip",
       "value": "185.254.99.32"
-    },
-    "185.27.134.171": {
-      "confidence": 0.96,
-      "date": "2026-08-16 12:00:52",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Trust Wallet crypto phishing page at trustwallet.42web.io hosted on UK infrastructure at 185.27.134.171 (AS34119).",
-      "threat_type": "phishing",
-      "tweet_id": "2088959171274138109",
-      "type": "ip",
-      "value": "185.27.134.171"
     },
     "187.79.192.24": {
       "confidence": 0.85,
@@ -4938,6 +4910,21 @@
       "type": "url",
       "value": "http://31.210.61.15"
     },
+    "31.76.30.87": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:33:00",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "HVNC C2 panel at 31.76.30.87 and 64.111.93.4, associated with hvnc.remo.wtf and service.sda-api.ru.",
+      "threat_type": "c2",
+      "tweet_id": "2099763397227061291",
+      "type": "ip",
+      "value": "31.76.30.87"
+    },
     "31.77.227.102": {
       "confidence": 0.92,
       "date": "2026-08-20 07:34:01",
@@ -5439,20 +5426,6 @@
       "type": "sha256",
       "value": "3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a"
     },
-    "3fd0447568473c470d7eeaaf7d114e1ae11dcc44171a229b150b4d8b43f7e5d3": {
-      "confidence": 0.6,
-      "date": "2026-08-16 08:24:40",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "PowerShell dropper chain (s.ps1) fetching a payload; multiple SHA256 hashes shared via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2088904764864037259",
-      "type": "sha256",
-      "value": "3fd0447568473c470d7eeaaf7d114e1ae11dcc44171a229b150b4d8b43f7e5d3"
-    },
     "40.115.158.237": {
       "confidence": 0.9,
       "date": "2026-08-17 02:40:52",
@@ -5934,6 +5907,21 @@
       "tweet_id": "2095252780696961246",
       "type": "ip",
       "value": "45.74.47.19"
+    },
+    "45.76.83.205": {
+      "confidence": 0.8,
+      "date": "2026-09-15 07:42:00",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2"
+      ],
+      "summary": "Zero Stealer C2 panel observed at 45.76.83.205 on port 8080.",
+      "threat_type": "c2",
+      "tweet_id": "2099765661870563390",
+      "type": "ip",
+      "value": "45.76.83.205"
     },
     "45.91.168.240": {
       "confidence": 0.95,
@@ -6429,6 +6417,22 @@
       "type": "url",
       "value": "http://5.180.41.35"
     },
+    "5.39.202.95": {
+      "confidence": 0.85,
+      "date": "2026-09-15 06:27:06",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2",
+        "infostealer"
+      ],
+      "summary": "Obsidian Stealer C2 panel observed at 5.39.202.95 on port 4433.",
+      "threat_type": "c2",
+      "tweet_id": "2099746813087732109",
+      "type": "ip",
+      "value": "5.39.202.95"
+    },
     "51.195.102.205": {
       "confidence": 0.9,
       "date": "2026-08-18 17:50:47",
@@ -6589,6 +6593,20 @@
       "tweet_id": "2089772009744150862",
       "type": "url",
       "value": "http://52.14.15.158"
+    },
+    "52.173.36.83": {
+      "confidence": 0.95,
+      "date": "2026-09-15 12:01:23",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Apple phishing page hosted on Microsoft Azure (azurewebsites.net) at IP 52.173.36.83.",
+      "threat_type": "phishing",
+      "tweet_id": "2099830939576565986",
+      "type": "ip",
+      "value": "52.173.36.83"
     },
     "52896134154dd284798acfed00b17a5d631a75a969661e1f9a8809e0ccbfdc99": {
       "confidence": 0.82,
@@ -6924,6 +6942,22 @@
       "type": "sha256",
       "value": "5be83ef1061cc0e3addb28146c4117989180e6f3b54248e3f3b9aa22884d9445"
     },
+    "5c268f58239d8c46e2cf7e0415201367": {
+      "confidence": 0.85,
+      "date": "2026-09-15 08:07:08",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "rat"
+      ],
+      "summary": "Jitomir Stealer with credential/session theft, UAC bypass, persistence, file exfil, screenshot, and webcam capture; self-deletes after collection.",
+      "threat_type": "malware",
+      "tweet_id": "2099771989279801732",
+      "type": "md5",
+      "value": "5c268f58239d8c46e2cf7e0415201367"
+    },
     "5d8d20ab8008d5e8cd6ff7b44273fc4a13d30e97d1c7b295aa0786da7ac1f9e3": {
       "confidence": 0.82,
       "date": "2026-08-25 07:14:29",
@@ -7063,6 +7097,21 @@
       "type": "ip",
       "value": "63.176.8.218"
     },
+    "64.111.93.4": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:33:00",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "HVNC C2 panel at 31.76.30.87 and 64.111.93.4, associated with hvnc.remo.wtf and service.sda-api.ru.",
+      "threat_type": "c2",
+      "tweet_id": "2099763397227061291",
+      "type": "ip",
+      "value": "64.111.93.4"
+    },
     "64.202.189.173": {
       "confidence": 0.9,
       "date": "2026-09-13 16:04:56",
@@ -7154,6 +7203,20 @@
       "tweet_id": "2092202464401392078",
       "type": "sha256",
       "value": "653520c24e3ad044c00503e3debccefaac3a6fdf76c5ca40b47b937fdbd389a7"
+    },
+    "66.33.60.66": {
+      "confidence": 0.95,
+      "date": "2026-09-15 07:01:12",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Netflix phishing page hosted on Amazon AWS at netflix.patelrudra.in (66.33.60.66).",
+      "threat_type": "phishing",
+      "tweet_id": "2099755395338150244",
+      "type": "ip",
+      "value": "66.33.60.66"
     },
     "67.176.72.155": {
       "confidence": 0.9,
@@ -7449,20 +7512,6 @@
       "tweet_id": "2090942119838134728",
       "type": "sha256",
       "value": "713a9319e78ef4fb259441a7c44319696a3ddfb243255d716a1e2a201a25355f"
-    },
-    "719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641": {
-      "confidence": 0.6,
-      "date": "2026-08-16 08:24:40",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "PowerShell dropper chain (s.ps1) fetching a payload; multiple SHA256 hashes shared via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2088904764864037259",
-      "type": "sha256",
-      "value": "719bac8459f8bee69f160d8545663372ed19cc8ae7376b722b0e1ec38c100641"
     },
     "72.56.241.175": {
       "confidence": 0.8,
@@ -7826,20 +7875,6 @@
       "tweet_id": "2092162390481899638",
       "type": "md5",
       "value": "7971cdbbdf3cec90fbfa944e4f20fd7a"
-    },
-    "7a9f8afbe39560ea52daada8700749371f189345aa7ec213dbdb537387c01d79": {
-      "confidence": 0.6,
-      "date": "2026-08-16 08:24:40",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "PowerShell dropper chain (s.ps1) fetching a payload; multiple SHA256 hashes shared via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2088904764864037259",
-      "type": "sha256",
-      "value": "7a9f8afbe39560ea52daada8700749371f189345aa7ec213dbdb537387c01d79"
     },
     "7c32720376f976885d825711f3c03397074d755ae78900ca5c70c9121271175a": {
       "confidence": 0.85,
@@ -8757,6 +8792,21 @@
       "type": "ip",
       "value": "95.181.213.21"
     },
+    "95.85.236.244": {
+      "confidence": 0.8,
+      "date": "2026-09-15 07:55:00",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "c2"
+      ],
+      "summary": "Stealer C2 panel observed at 95.85.236.244 on port 8888.",
+      "threat_type": "c2",
+      "tweet_id": "2099768933322821986",
+      "type": "ip",
+      "value": "95.85.236.244"
+    },
     "9891fdb8857f35ab6c8dd986e3bd46004fba7b479af57dbfc1b15d957fa9d2c5": {
       "confidence": 0.92,
       "date": "2026-08-17 16:12:39",
@@ -9610,6 +9660,20 @@
       "type": "url",
       "value": "https://aeon.pvvjkwi.cn/6crfgauf1c"
     },
+    "aestheticearthgems.info": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:11:34",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site using urgent cloud storage warning lure redirecting victims to aestheticearthgems.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2099758002635264412",
+      "type": "domain",
+      "value": "aestheticearthgems.info"
+    },
     "aexshorthoaod.05cy1a.info": {
       "confidence": 0.9,
       "date": "2026-09-08 12:31:22",
@@ -9878,20 +9942,6 @@
       "tweet_id": "2092145282930683971",
       "type": "url",
       "value": "http://allegro.1200000498.casa/lokalnie/home?id=1H5f9Q2H2G4n5v0T3O4X4R6X9z8a7j0h"
-    },
-    "allegro.823ggg.casa": {
-      "confidence": 0.92,
-      "date": "2026-08-16 07:00:42",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Allegro (Polish e-commerce platform) at allegro.823ggg.casa, hosted via Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2088883633650114695",
-      "type": "domain",
-      "value": "allegro.823ggg.casa"
     },
     "allegro.92381928h75.rest": {
       "confidence": 0.92,
@@ -10470,6 +10520,20 @@
       "tweet_id": "2091726665713893539",
       "type": "url",
       "value": "http://appfenxiang.com/hm3605.txt"
+    },
+    "apple-icloud.azurewebsites.net": {
+      "confidence": 0.95,
+      "date": "2026-09-15 12:01:23",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Apple phishing page hosted on Microsoft Azure (azurewebsites.net) at IP 52.173.36.83.",
+      "threat_type": "phishing",
+      "tweet_id": "2099830939576565986",
+      "type": "domain",
+      "value": "apple-icloud.azurewebsites.net"
     },
     "apple.fnbbamg.cn": {
       "confidence": 0.95,
@@ -13626,6 +13690,22 @@
       "type": "md5",
       "value": "d59f36ddcc7460bf5bcd9fde274982bb"
     },
+    "d5deec0ee2aa398f296b79e6da0a5d80": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:46:18",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "rat"
+      ],
+      "summary": "FGC Stealer with remote host control, UAC bypass, shell/PowerShell execution, file download/delete, and persistence.",
+      "threat_type": "malware",
+      "tweet_id": "2099766743338033361",
+      "type": "md5",
+      "value": "d5deec0ee2aa398f296b79e6da0a5d80"
+    },
     "d68810f29a58f09db1f036393cfc52c6b0934e7089077bc90a38fdece78489d9": {
       "confidence": 0.97,
       "date": "2026-08-17 17:16:14",
@@ -14310,6 +14390,36 @@
       "tweet_id": "2091792212984287268",
       "type": "domain",
       "value": "dnbwr-rtw4u.pages.dev"
+    },
+    "dnswwt.club": {
+      "confidence": 0.85,
+      "date": "2026-09-15 06:45:29",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Japanese malspam impersonating wire transfer confirmation delivers malicious PDF linking to dnswwt.club/JP.html.",
+      "threat_type": "phishing",
+      "tweet_id": "2099751438268457277",
+      "type": "domain",
+      "value": "dnswwt.club"
+    },
+    "dnswwt.club/jp.html": {
+      "confidence": 0.85,
+      "date": "2026-09-15 06:45:29",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Japanese malspam impersonating wire transfer confirmation delivers malicious PDF linking to dnswwt.club/JP.html.",
+      "threat_type": "phishing",
+      "tweet_id": "2099751438268457277",
+      "type": "url",
+      "value": "https://dnswwt.club/JP.html"
     },
     "dntds.shop": {
       "confidence": 0.85,
@@ -15727,20 +15837,6 @@
       "tweet_id": "2098801311575933428",
       "type": "sha256",
       "value": "f137cb54d7a25f31d09c681810a5625142d56438ba2c958a7f24bc38e0ae2d2b"
-    },
-    "f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3": {
-      "confidence": 0.6,
-      "date": "2026-08-16 08:24:40",
-      "enriched_at": "2026-08-16T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "PowerShell dropper chain (s.ps1) fetching a payload; multiple SHA256 hashes shared via MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2088904764864037259",
-      "type": "sha256",
-      "value": "f1ef3f68231edf202df5cfe0936daab505a10ab6ca26cf55655096608390bed3"
     },
     "f34f550147c2792c1ff2a003d15be89e5573f0896c5aa6126068baa4621ef416": {
       "confidence": 0.88,
@@ -22494,6 +22590,20 @@
       "type": "domain",
       "value": "neststudio16.com"
     },
+    "netflix.patelrudra.in": {
+      "confidence": 0.95,
+      "date": "2026-09-15 07:01:12",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Netflix phishing page hosted on Amazon AWS at netflix.patelrudra.in (66.33.60.66).",
+      "threat_type": "phishing",
+      "tweet_id": "2099755395338150244",
+      "type": "domain",
+      "value": "netflix.patelrudra.in"
+    },
     "netflx-update.com": {
       "confidence": 0.95,
       "date": "2026-08-21 07:01:01",
@@ -25248,6 +25358,21 @@
       "type": "domain",
       "value": "rd.helioszyra.com"
     },
+    "re.myloisle.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:34:08",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing site impersonating a vehicle service protection brand, redirecting victims to re.myloisle.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099763685430595588",
+      "type": "domain",
+      "value": "re.myloisle.com"
+    },
     "re.pineayra.com": {
       "confidence": 0.8,
       "date": "2026-09-15 05:42:28",
@@ -27250,6 +27375,49 @@
       "type": "domain",
       "value": "shoretapestry.com"
     },
+    "shultectise.xa5ttg.info": {
+      "confidence": 0.9,
+      "date": "2026-09-15 09:14:12",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Japanese AEON (Ion card) credit card service at shultectise.xa5ttg.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2099788866572218789",
+      "type": "domain",
+      "value": "shultectise.xa5ttg.info"
+    },
+    "shultectise.xa5ttg.info/aztipuif/indx": {
+      "confidence": 0.9,
+      "date": "2026-09-15 09:14:12",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Japanese AEON (Ion card) credit card service at shultectise.xa5ttg.info.",
+      "threat_type": "phishing",
+      "tweet_id": "2099788866572218789",
+      "type": "url",
+      "value": "https://shultectise.xa5ttg.info/aztipuif/indx/"
+    },
+    "sign-in-to-xfinity-090.weebly.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:32:41",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Confirmed scam site impersonating Xfinity sign-in page hosted on Weebly at sign-in-to-xfinity-090.weebly.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099763316855869441",
+      "type": "domain",
+      "value": "sign-in-to-xfinity-090.weebly.com"
+    },
     "signning.cloud": {
       "confidence": 0.68,
       "date": "2026-09-10 10:00:05",
@@ -28430,6 +28598,21 @@
       "type": "url",
       "value": "http://tavareslopes.adv.br/co/wetransfer/"
     },
+    "tb.rilobreeze.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 06:49:04",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing site using a fake personal loan offer lure redirecting victims to tb.rilobreeze.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099752341952213436",
+      "type": "domain",
+      "value": "tb.rilobreeze.com"
+    },
     "tbwjc.com": {
       "confidence": 0.85,
       "date": "2026-08-25 04:39:07",
@@ -29348,21 +29531,6 @@
       "tweet_id": "2098951945910206500",
       "type": "domain",
       "value": "trustwallet-help.online"
-    },
-    "trustwallet.42web.io": {
-      "confidence": 0.9,
-      "date": "2026-08-16 12:00:52",
-      "enriched_at": "2026-09-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Trust Wallet phishing site at trustwallet.42web.io hosted on UK infrastructure targeting crypto wallet credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2088959171274138109",
-      "type": "domain",
-      "value": "trustwallet.42web.io"
     },
     "ttrezur-en-us.typedream.app": {
       "confidence": 0.98,
@@ -32103,6 +32271,21 @@
       "type": "url",
       "value": "https://www.prime.madjizz.com/Primes/Login/Singin/APP/servers/openid/return_to=3A2F"
     },
+    "www.sign-in-to-xfinity-090.weebly.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 07:32:41",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Confirmed scam site impersonating Xfinity sign-in page hosted on Weebly at sign-in-to-xfinity-090.weebly.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099763316855869441",
+      "type": "url",
+      "value": "http://www.sign-in-to-xfinity-090.weebly.com"
+    },
     "www.support.inumm.asia/efn1cr2tu": {
       "confidence": 0.95,
       "date": "2026-09-04 04:22:22",
@@ -33762,8 +33945,23 @@
       "tweet_id": "2097149249226203236",
       "type": "domain",
       "value": "\u7a0e\u52d9\u5831\u544a\u66f8.zip"
+    },
+    "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip": {
+      "confidence": 0.85,
+      "date": "2026-09-15 06:20:11",
+      "enriched_at": "2026-09-15T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Japanese malspam using wedding invitation lure delivers .zip\u2192.vhdx\u2192.hta malware chain, abusing ManageEngine Endpoint Central.",
+      "threat_type": "malware",
+      "tweet_id": "2099745072027947391",
+      "type": "domain",
+      "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-15T06:40:04Z",
+  "generated_at": "2026-09-15T12:40:03Z",
   "window_days": 30
 }
