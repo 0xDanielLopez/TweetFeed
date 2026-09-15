@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1234
-; Updated: 2026-09-15T07:45:22Z
+; Entries: 1235
+; Updated: 2026-09-15T08:00:26Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789458322 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789459226 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1636,6 +1636,8 @@ rc.veyosilk.com CNAME .
 *.rc.veyosilk.com CNAME .
 rd.helioszyra.com CNAME .
 *.rd.helioszyra.com CNAME .
+re.myloisle.com CNAME .
+*.re.myloisle.com CNAME .
 re.pineayra.com CNAME .
 *.re.pineayra.com CNAME .
 re.yancha123.com CNAME .
