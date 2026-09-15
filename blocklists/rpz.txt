@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1201
-; Updated: 2026-09-15T00:00:21Z
+; Entries: 1211
+; Updated: 2026-09-15T00:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789430421 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789432219 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -68,6 +68,8 @@ a2.cdnresolver.com CNAME .
 *.a2.cdnresolver.com CNAME .
 aadobe07.pages.dev CNAME .
 *.aadobe07.pages.dev CNAME .
+aaroensol-smbice.com CNAME .
+*.aaroensol-smbice.com CNAME .
 access-divace-bridge.typedream.app CNAME .
 *.access-divace-bridge.typedream.app CNAME .
 accoun.bligi.cn CNAME .
@@ -470,6 +472,8 @@ cyraecraft.com CNAME .
 *.cyraecraft.com CNAME .
 daqian-point.com CNAME .
 *.daqian-point.com CNAME .
+daqianzib-rakunde.com CNAME .
+*.daqianzib-rakunde.com CNAME .
 datinglive-jp.com CNAME .
 *.datinglive-jp.com CNAME .
 dbuh.55og.wolkamo.com CNAME .
@@ -504,6 +508,8 @@ dilan-wine.posmasters.lk CNAME .
 *.dilan-wine.posmasters.lk CNAME .
 disclousre.cyou CNAME .
 *.disclousre.cyou CNAME .
+ditankaofa-rakunde.com CNAME .
+*.ditankaofa-rakunde.com CNAME .
 djgaza.com CNAME .
 *.djgaza.com CNAME .
 dl.vvtoken.top CNAME .
@@ -522,6 +528,8 @@ docs-ledger-live-feq.typedream.app CNAME .
 *.docs-ledger-live-feq.typedream.app CNAME .
 docs-trezr-begin-help.typedream.app CNAME .
 *.docs-trezr-begin-help.typedream.app CNAME .
+doctoaezrw-smbice.com CNAME .
+*.doctoaezrw-smbice.com CNAME .
 docusign-server.github.io CNAME .
 *.docusign-server.github.io CNAME .
 docusign.login.adrpowersystem.com CNAME .
@@ -782,6 +790,8 @@ h5.aylesworth.info CNAME .
 *.h5.aylesworth.info CNAME .
 hack.calerobinson.com CNAME .
 *.hack.calerobinson.com CNAME .
+haieryunsh-rakunde.com CNAME .
+*.haieryunsh-rakunde.com CNAME .
 haistandardsecurity.com CNAME .
 *.haistandardsecurity.com CNAME .
 halsocrest.shop CNAME .
@@ -880,6 +890,8 @@ https.shlianban.com CNAME .
 *.https.shlianban.com CNAME .
 huibao-point.com CNAME .
 *.huibao-point.com CNAME .
+huibaoshen-rakunde.com CNAME .
+*.huibaoshen-rakunde.com CNAME .
 hunt.sabalillc.com CNAME .
 *.hunt.sabalillc.com CNAME .
 hurtomtracker.live CNAME .
@@ -984,6 +996,8 @@ jfcg.posmasters.lk CNAME .
 *.jfcg.posmasters.lk CNAME .
 jihfrs.burswel.sbs CNAME .
 *.jihfrs.burswel.sbs CNAME .
+jiongryturte-rakunde.com CNAME .
+*.jiongryturte-rakunde.com CNAME .
 jlab.threat.rip CNAME .
 *.jlab.threat.rip CNAME .
 jlfnqhz.com CNAME .
@@ -1038,6 +1052,8 @@ kivokeyline.com CNAME .
 *.kivokeyline.com CNAME .
 kmzfjt.com CNAME .
 *.kmzfjt.com CNAME .
+knittedjack-smbice.com CNAME .
+*.knittedjack-smbice.com CNAME .
 kolaytatilburada.info CNAME .
 *.kolaytatilburada.info CNAME .
 ktmnos.com CNAME .
@@ -1188,6 +1204,8 @@ malfeasantboogie.com CNAME .
 *.malfeasantboogie.com CNAME .
 manalyzer.org CNAME .
 *.manalyzer.org CNAME .
+mandasirika-smbice.com CNAME .
+*.mandasirika-smbice.com CNAME .
 manpowersrilanka.lk CNAME .
 *.manpowersrilanka.lk CNAME .
 mapletrailmedia.store CNAME .
@@ -1426,6 +1444,8 @@ pesgsa.zoyrd.com CNAME .
 *.pesgsa.zoyrd.com CNAME .
 pet.opx.mybluehost.me CNAME .
 *.pet.opx.mybluehost.me CNAME .
+pfflzcifes-smbice.com CNAME .
+*.pfflzcifes-smbice.com CNAME .
 pfokq.cyou CNAME .
 *.pfokq.cyou CNAME .
 piercemusic.com CNAME .
