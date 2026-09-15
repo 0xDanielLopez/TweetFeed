@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 1226
-# Updated: 2026-09-15T05:30:19Z
+# Entries: 1227
+# Updated: 2026-09-15T06:00:22Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -816,6 +816,7 @@
 0.0.0.0 rbdvwwr.cn
 0.0.0.0 rc.veyosilk.com
 0.0.0.0 rd.helioszyra.com
+0.0.0.0 re.pineayra.com
 0.0.0.0 re.yancha123.com
 0.0.0.0 readermarks.xyz
 0.0.0.0 reentrega-seur-envio.cloudaccess.host
