@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1252
-; Updated: 2026-09-15T16:45:18Z
+; Entries: 1253
+; Updated: 2026-09-15T17:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789490718 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789493419 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2434,6 +2434,8 @@ zebrataxis.com CNAME .
 *.zebrataxis.com CNAME .
 zexzehqwb.b17da333ec194ec4b767.d.requestbin.net CNAME .
 *.zexzehqwb.b17da333ec194ec4b767.d.requestbin.net CNAME .
+zfkmasinac.com CNAME .
+*.zfkmasinac.com CNAME .
 zfktseu.com CNAME .
 *.zfktseu.com CNAME .
 zhangyexin-jprakutansui.com CNAME .
