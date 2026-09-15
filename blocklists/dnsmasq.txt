@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1236
-# Updated: 2026-09-15T09:45:17Z
+# Entries: 1237
+# Updated: 2026-09-15T12:15:21Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -96,6 +96,7 @@ address=/app-live-ledger-wllet.typedream.app/0.0.0.0
 address=/app.datinglive-jp.com/0.0.0.0
 address=/appeal-case.about-help.com/0.0.0.0
 address=/appfenxiang.com/0.0.0.0
+address=/apple-icloud.azurewebsites.net/0.0.0.0
 address=/apple.fnbbamg.cn/0.0.0.0
 address=/apple.t8j4y7.cn/0.0.0.0
 address=/apple.wgxdijj.cn/0.0.0.0

@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1236
-; Updated: 2026-09-15T09:45:17Z
+; Entries: 1237
+; Updated: 2026-09-15T12:15:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789465517 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789474521 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -188,6 +188,8 @@ appeal-case.about-help.com CNAME .
 *.appeal-case.about-help.com CNAME .
 appfenxiang.com CNAME .
 *.appfenxiang.com CNAME .
+apple-icloud.azurewebsites.net CNAME .
+*.apple-icloud.azurewebsites.net CNAME .
 apple.fnbbamg.cn CNAME .
 *.apple.fnbbamg.cn CNAME .
 apple.t8j4y7.cn CNAME .
