@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1239
-; Updated: 2026-09-15T13:30:21Z
+; Entries: 1241
+; Updated: 2026-09-15T13:45:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789479021 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789479921 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -144,6 +144,8 @@ allremdeskriki.com CNAME .
 *.allremdeskriki.com CNAME .
 allweddingsites.com CNAME .
 *.allweddingsites.com CNAME .
+alphamedglobal.com CNAME .
+*.alphamedglobal.com CNAME .
 altiora.fun CNAME .
 *.altiora.fun CNAME .
 alz.rgg.mybluehost.me CNAME .
@@ -264,6 +266,8 @@ beliobeam.com CNAME .
 *.beliobeam.com CNAME .
 belynooecho.com CNAME .
 *.belynooecho.com CNAME .
+beyondfitness.com.br CNAME .
+*.beyondfitness.com.br CNAME .
 bfo.dls.mybluehost.me CNAME .
 *.bfo.dls.mybluehost.me CNAME .
 bg.bytecove.cyou CNAME .
