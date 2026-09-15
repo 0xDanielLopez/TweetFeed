@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1228
-; Updated: 2026-09-15T06:15:17Z
+; Entries: 1229
+; Updated: 2026-09-15T06:45:14Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789452917 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789454714 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2332,6 +2332,8 @@ xlgaee.ntinvoicepload.dynu.net CNAME .
 *.xlgaee.ntinvoicepload.dynu.net CNAME .
 xmtrading-global.com CNAME .
 *.xmtrading-global.com CNAME .
+xn--38j8b560qz6d6qa93nq89c.zip CNAME .
+*.xn--38j8b560qz6d6qa93nq89c.zip CNAME .
 xn--lhr86av9fn7t5pw.zip CNAME .
 *.xn--lhr86av9fn7t5pw.zip CNAME .
 xsmn31.com CNAME .

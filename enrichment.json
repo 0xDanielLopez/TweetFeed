@@ -1,5 +1,5 @@
 {
-  "count": 2183,
+  "count": 2213,
   "dead_tweets": {
     "2087799248439902618": {
       "attempts": 2,
@@ -608,6 +608,22 @@
       "tweet_id": "2097218619293745191",
       "type": "ip",
       "value": "101.33.10.10"
+    },
+    "101.35.219.220": {
+      "confidence": 0.85,
+      "date": "2026-09-15 04:54:06",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "apt",
+        "kimsuky"
+      ],
+      "summary": "Kimsuky APT C2 server observed at 101.35.219.220 on port 1224.",
+      "threat_type": "c2",
+      "tweet_id": "2099723407780880404",
+      "type": "ip",
+      "value": "101.35.219.220"
     },
     "101.42.136.73": {
       "confidence": 0.96,
@@ -4578,6 +4594,22 @@
       "type": "sha256",
       "value": "26354251b760fe4d70e9cecb60a2b98a80fcbd6a3377bd51c7c874c53a0f9d9f"
     },
+    "26ba499b037efa5825dd749f9784ac93e8f2d99db96a959c06aabc94bc744cae": {
+      "confidence": 0.85,
+      "date": "2026-09-15 03:15:24",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "android",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (Japanese e-commerce) distributed via multiple malicious domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099698569217499444",
+      "type": "sha256",
+      "value": "26ba499b037efa5825dd749f9784ac93e8f2d99db96a959c06aabc94bc744cae"
+    },
     "27059247ac89ae48c6edab9beae27914982f85048600ddb8e5311202c12f2b1d": {
       "confidence": 0.8,
       "date": "2026-08-18 16:02:15",
@@ -7355,6 +7387,22 @@
       "type": "sha256",
       "value": "6e6addf3e7287cf160054ef4647f8c67754f3cdc6efbdf21f117cb98c4c95534"
     },
+    "6ed3fa391a14acd768de91f921eb0d95": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:07:34",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malware email with bank transfer lure distributing an HTA payload inside a ZIP archive.",
+      "threat_type": "malware",
+      "tweet_id": "2099726797437026701",
+      "type": "md5",
+      "value": "6ed3fa391a14acd768de91f921eb0d95"
+    },
     "70bf0a8c0ffe5d1aa51358aba0ae365a1fab15cc356a02c07a36de6427e3ca7f": {
       "confidence": 0.75,
       "date": "2026-08-28 14:43:53",
@@ -8428,6 +8476,22 @@
       "type": "md5",
       "value": "8b3d8de78681adc71667f6f687102183"
     },
+    "8b9f58d8ed798d4e75f1efa8934ac892": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:20:40",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language spear-phishing email impersonating an organization representative with a malicious PDF attachment (bank transfer lure).",
+      "threat_type": "malware",
+      "tweet_id": "2099730097188299034",
+      "type": "md5",
+      "value": "8b9f58d8ed798d4e75f1efa8934ac892"
+    },
     "8be68dea337a1e7ab1224a10c3c6ca640d55292d135194a5e5ec9454b3bda906": {
       "confidence": 0.92,
       "date": "2026-08-25 10:48:33",
@@ -8927,6 +8991,22 @@
       "type": "sha256",
       "value": "a38a4cde2af1ff4830fa778780fc4031a384189edcfae5bf92152839fb22982e"
     },
+    "a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:07:34",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malware email with bank transfer lure distributing an HTA payload inside a ZIP archive.",
+      "threat_type": "malware",
+      "tweet_id": "2099726797437026701",
+      "type": "sha256",
+      "value": "a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f"
+    },
     "a6ff971e8397ad0c2e4b635ca1ac7d32": {
       "confidence": 0.8,
       "date": "2026-09-07 08:56:38",
@@ -8957,6 +9037,22 @@
       "tweet_id": "2090903170847256972",
       "type": "md5",
       "value": "a7bcf7ea8e9f3f36ebfb85b823e39d91"
+    },
+    "a8480e8bad9af229dc9e34358772f4a0": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:01:41",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malware email using a wedding invitation lure delivering an HTA payload inside a VHDX file.",
+      "threat_type": "malware",
+      "tweet_id": "2099725318479315286",
+      "type": "md5",
+      "value": "a8480e8bad9af229dc9e34358772f4a0"
     },
     "a8638d277c3b8d2f2a2fb464c17f514857b6fabba7cb18ebc963aa979c260365": {
       "confidence": 0.55,
@@ -10106,6 +10202,22 @@
       "type": "domain",
       "value": "anaridelight.com"
     },
+    "ancientcpus-jprakutansui-copoint.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 03:15:24",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "android",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (Japanese e-commerce) distributed via multiple malicious domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099698569217499444",
+      "type": "domain",
+      "value": "ancientcpus-jprakutansui-copoint.com"
+    },
     "andresherrerapi66.gleeze.com": {
       "confidence": 0.92,
       "date": "2026-08-17 19:15:27",
@@ -10553,6 +10665,22 @@
       "tweet_id": "2089772009744150862",
       "type": "domain",
       "value": "autoconfig.thotera.com"
+    },
+    "averygruckus-jprakutansui-copoint.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 03:15:24",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "android",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (Japanese e-commerce) distributed via multiple malicious domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099698569217499444",
+      "type": "domain",
+      "value": "averygruckus-jprakutansui-copoint.com"
     },
     "aware-cr1.com": {
       "confidence": 0.35,
@@ -11556,6 +11684,22 @@
       "type": "domain",
       "value": "build.rs"
     },
+    "bulwasandburg-jprakutansui-copoint.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 03:15:24",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "android",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (Japanese e-commerce) distributed via multiple malicious domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099698569217499444",
+      "type": "domain",
+      "value": "bulwasandburg-jprakutansui-copoint.com"
+    },
     "bvaco.com": {
       "confidence": 0.93,
       "date": "2026-09-03 20:52:10",
@@ -11663,6 +11807,22 @@
       "tweet_id": "2091531911449493728",
       "type": "domain",
       "value": "bytecove.cyou"
+    },
+    "c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:20:40",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language spear-phishing email impersonating an organization representative with a malicious PDF attachment (bank transfer lure).",
+      "threat_type": "malware",
+      "tweet_id": "2099730097188299034",
+      "type": "sha256",
+      "value": "c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4"
     },
     "c2.absolutely-not-a-virus.zip": {
       "confidence": 0.9,
@@ -14660,6 +14820,38 @@
       "type": "url",
       "value": "http://dubl2allremriki.com/api/v2"
     },
+    "durnakphotography.com": {
+      "confidence": 0.8,
+      "date": "2026-09-15 04:22:08",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "Credential harvesting phishing page hosted at durnakphotography.com/poshevite/.",
+      "threat_type": "phishing",
+      "tweet_id": "2099715364376707241",
+      "type": "domain",
+      "value": "durnakphotography.com"
+    },
+    "durnakphotography.com/poshevite": {
+      "confidence": 0.8,
+      "date": "2026-09-15 04:22:08",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "Credential harvesting phishing page hosted at durnakphotography.com/poshevite/.",
+      "threat_type": "phishing",
+      "tweet_id": "2099715364376707241",
+      "type": "url",
+      "value": "https://durnakphotography.com/poshevite/"
+    },
     "e1.cdnresolver.com": {
       "confidence": 0.92,
       "date": "2026-09-11 06:28:59",
@@ -17044,6 +17236,21 @@
       "type": "domain",
       "value": "go-ns.org.ua"
     },
+    "gofile.io/d/boeeyv": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:03:27",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing at primstabn.info redirecting to gofile.io for payload delivery; file since removed.",
+      "threat_type": "phishing",
+      "tweet_id": "2099725764040265845",
+      "type": "url",
+      "value": "https://gofile.io/d/BoeEyV"
+    },
     "goodsecomfinder.com": {
       "confidence": 0.65,
       "date": "2026-09-09 16:56:53",
@@ -18081,36 +18288,6 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "hly.oed.mybluehost.me"
-    },
-    "hndjsy.com": {
-      "confidence": 0.95,
-      "date": "2026-08-16 01:04:58",
-      "enriched_at": "2026-08-16T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing site impersonating JCB credit card brand to steal credentials or payment data.",
-      "threat_type": "phishing",
-      "tweet_id": "2088794108454465822",
-      "type": "domain",
-      "value": "hndjsy.com"
-    },
-    "hndjsy.com/lyfkfsvy": {
-      "confidence": 0.95,
-      "date": "2026-08-16 01:04:58",
-      "enriched_at": "2026-08-16T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing site impersonating JCB credit card brand to steal credentials or payment data.",
-      "threat_type": "phishing",
-      "tweet_id": "2088794108454465822",
-      "type": "url",
-      "value": "https://hndjsy.com/lYfKfsvY/"
     },
     "hnlytx.com": {
       "confidence": 0.95,
@@ -21789,6 +21966,23 @@
       "type": "domain",
       "value": "mining.bytecove.cyou"
     },
+    "mjdou.vip": {
+      "confidence": 0.8,
+      "date": "2026-09-15 05:43:05",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malware email using tax notification lure distributing OverlordRAT via mjdou.vip with C2 at devin-us.com.",
+      "threat_type": "malware",
+      "tweet_id": "2099735738174878019",
+      "type": "domain",
+      "value": "mjdou.vip"
+    },
     "mkgheye78fdfb.sryoung56.workers.dev": {
       "confidence": 0.7,
       "date": "2026-09-01 08:31:33",
@@ -22928,6 +23122,81 @@
       "tweet_id": "2089937873655177467",
       "type": "domain",
       "value": "onxsm.styleompl.com"
+    },
+    "ony.srb.temporary.site": {
+      "confidence": 0.85,
+      "date": "2026-09-15 04:43:07",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page delivering ScreenConnect RMM client installer from strafordhomes.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099720644355338404",
+      "type": "domain",
+      "value": "ony.srb.temporary.site"
+    },
+    "ony.srb.temporary.site/en": {
+      "confidence": 0.85,
+      "date": "2026-09-15 04:43:07",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page delivering ScreenConnect RMM client installer from strafordhomes.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099720644355338404",
+      "type": "url",
+      "value": "https://ony.srb.temporary.site/en/"
+    },
+    "op.lepiceriedestoits.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:08:14",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page at lepiceriedestoits.com delivering FleetDeck RMM payload via download.php.",
+      "threat_type": "phishing",
+      "tweet_id": "2099726967054709102",
+      "type": "domain",
+      "value": "op.lepiceriedestoits.com"
+    },
+    "op.lepiceriedestoits.com/kirby": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:08:14",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page at lepiceriedestoits.com delivering FleetDeck RMM payload via download.php.",
+      "threat_type": "phishing",
+      "tweet_id": "2099726967054709102",
+      "type": "url",
+      "value": "https://op.lepiceriedestoits.com/kirby/"
+    },
+    "op.lepiceriedestoits.com/kirby/download.php": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:08:14",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page at lepiceriedestoits.com delivering FleetDeck RMM payload via download.php.",
+      "threat_type": "phishing",
+      "tweet_id": "2099726967054709102",
+      "type": "url",
+      "value": "https://op.lepiceriedestoits.com/kirby/download.php"
     },
     "opalblueprint10.com": {
       "confidence": 0.9,
@@ -24074,6 +24343,21 @@
       "type": "domain",
       "value": "primethreein.s3.us-east-1.amazonaws.com"
     },
+    "primstabn.info": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:03:27",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing at primstabn.info redirecting to gofile.io for payload delivery; file since removed.",
+      "threat_type": "phishing",
+      "tweet_id": "2099725764040265845",
+      "type": "domain",
+      "value": "primstabn.info"
+    },
     "privacy.choquettes.shop": {
       "confidence": 0.9,
       "date": "2026-08-17 02:32:33",
@@ -24200,6 +24484,36 @@
       "tweet_id": "2093957189543092321",
       "type": "url",
       "value": "http://pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev/New-DocusignRedir2.html"
+    },
+    "pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:16:43",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "DocuSign-themed phishing page at yonataxi.at delivering TiFLUX RMM payload as MSI from Cloudflare R2.",
+      "threat_type": "phishing",
+      "tweet_id": "2099729103108940129",
+      "type": "domain",
+      "value": "pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev"
+    },
+    "pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev/invoceapril2026-pyment.msi": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:16:43",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "DocuSign-themed phishing page at yonataxi.at delivering TiFLUX RMM payload as MSI from Cloudflare R2.",
+      "threat_type": "phishing",
+      "tweet_id": "2099729103108940129",
+      "type": "url",
+      "value": "https://pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev/InvoceApril2026-Pyment.msi"
     },
     "public-faq-start-helps_-trezr.typedream.app": {
       "confidence": 0.98,
@@ -24905,6 +25219,20 @@
       "type": "url",
       "value": "https://rbdvwwr.cn/CZVwQWkt/"
     },
+    "rc.veyosilk.com": {
+      "confidence": 0.8,
+      "date": "2026-09-15 02:40:55",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a retirement planning brand, redirecting victims to rc.veyosilk.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099689891751997836",
+      "type": "domain",
+      "value": "rc.veyosilk.com"
+    },
     "rd.helioszyra.com": {
       "confidence": 0.72,
       "date": "2026-09-12 00:31:30",
@@ -24919,6 +25247,20 @@
       "tweet_id": "2098570162341552218",
       "type": "domain",
       "value": "rd.helioszyra.com"
+    },
+    "re.pineayra.com": {
+      "confidence": 0.8,
+      "date": "2026-09-15 05:42:28",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a vehicle service protection brand, redirecting victims to re.pineayra.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099735581433712688",
+      "type": "domain",
+      "value": "re.pineayra.com"
     },
     "re.yancha123.com": {
       "confidence": 0.95,
@@ -26194,6 +26536,20 @@
       "type": "domain",
       "value": "sb.anaridelight.com"
     },
+    "sb.celocozy.com": {
+      "confidence": 0.8,
+      "date": "2026-09-15 05:20:06",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a mortgage/personal loan brand, redirecting victims to sb.celocozy.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099729953059394035",
+      "type": "domain",
+      "value": "sb.celocozy.com"
+    },
     "sb.zeyoluxe.com": {
       "confidence": 0.72,
       "date": "2026-09-12 01:33:58",
@@ -26252,6 +26608,20 @@
       "tweet_id": "2091836906313031950",
       "type": "domain",
       "value": "sdntds.shop"
+    },
+    "se.kivokeyline.com": {
+      "confidence": 0.8,
+      "date": "2026-09-15 04:34:41",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a personal loan brand, redirecting victims to se.kivokeyline.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099718524008841653",
+      "type": "domain",
+      "value": "se.kivokeyline.com"
     },
     "se.norahadraivnig.com": {
       "confidence": 0.88,
@@ -27363,6 +27733,36 @@
       "type": "domain",
       "value": "stories.myteenagedream.com"
     },
+    "strafordhomes.screenconnect.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 04:43:07",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page delivering ScreenConnect RMM client installer from strafordhomes.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099720644355338404",
+      "type": "domain",
+      "value": "strafordhomes.screenconnect.com"
+    },
+    "strafordhomes.screenconnect.com/bin/screenconnect.clientsetup.exe": {
+      "confidence": 0.85,
+      "date": "2026-09-15 04:43:07",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Adobe-themed phishing page delivering ScreenConnect RMM client installer from strafordhomes.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099720644355338404",
+      "type": "url",
+      "value": "https://strafordhomes.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+    },
     "stride25.com": {
       "confidence": 0.91,
       "date": "2026-08-28 09:24:21",
@@ -28078,6 +28478,20 @@
       "type": "domain",
       "value": "tdto.prodesignscommunicate.de"
     },
+    "te.cyraecraft.com": {
+      "confidence": 0.8,
+      "date": "2026-09-15 04:57:30",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a bad-credit loan brand, redirecting victims to te.cyraecraft.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099724264740139013",
+      "type": "domain",
+      "value": "te.cyraecraft.com"
+    },
     "teak.gen.tr": {
       "confidence": 0.95,
       "date": "2026-08-17 16:27:04",
@@ -28274,20 +28688,6 @@
       "tweet_id": "2091428661425844324",
       "type": "domain",
       "value": "terracollinge.com"
-    },
-    "test1.sougoucloud.workers.dev": {
-      "confidence": 0.6,
-      "date": "2026-08-16 02:10:04",
-      "enriched_at": "2026-08-16T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare Workers domain flagged as confirmed scam by web malware scanner.",
-      "threat_type": "scam",
-      "tweet_id": "2088810492248641784",
-      "type": "domain",
-      "value": "test1.sougoucloud.workers.dev"
     },
     "thakshila-mobile.posmasters.lk": {
       "confidence": 0.95,
@@ -28948,6 +29348,21 @@
       "tweet_id": "2098951945910206500",
       "type": "domain",
       "value": "trustwallet-help.online"
+    },
+    "trustwallet.42web.io": {
+      "confidence": 0.9,
+      "date": "2026-08-16 12:00:52",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam"
+      ],
+      "summary": "Trust Wallet phishing site at trustwallet.42web.io hosted on UK infrastructure targeting crypto wallet credentials.",
+      "threat_type": "phishing",
+      "tweet_id": "2088959171274138109",
+      "type": "domain",
+      "value": "trustwallet.42web.io"
     },
     "ttrezur-en-us.typedream.app": {
       "confidence": 0.98,
@@ -29919,6 +30334,22 @@
       "tweet_id": "2089460918170366153",
       "type": "domain",
       "value": "uyu.ker.mybluehost.me"
+    },
+    "v02.zip": {
+      "confidence": 0.75,
+      "date": "2026-09-15 05:07:34",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malware email with bank transfer lure distributing an HTA payload inside a ZIP archive.",
+      "threat_type": "malware",
+      "tweet_id": "2099726797437026701",
+      "type": "domain",
+      "value": "v02.zip"
     },
     "vacationrental-directory.com": {
       "confidence": 0.9,
@@ -32117,6 +32548,36 @@
       "type": "domain",
       "value": "yktpm1b20pz-lhjndlsi-1l8i2b-ykk57c.pages.dev"
     },
+    "yonataxi.at": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:16:43",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "DocuSign-themed phishing page at yonataxi.at delivering TiFLUX RMM payload as MSI from Cloudflare R2.",
+      "threat_type": "phishing",
+      "tweet_id": "2099729103108940129",
+      "type": "domain",
+      "value": "yonataxi.at"
+    },
+    "yonataxi.at/ftx": {
+      "confidence": 0.85,
+      "date": "2026-09-15 05:16:43",
+      "enriched_at": "2026-09-15T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "DocuSign-themed phishing page at yonataxi.at delivering TiFLUX RMM payload as MSI from Cloudflare R2.",
+      "threat_type": "phishing",
+      "tweet_id": "2099729103108940129",
+      "type": "url",
+      "value": "https://yonataxi.at/ftx/"
+    },
     "yonghaodianqi.com": {
       "confidence": 0.9,
       "date": "2026-08-26 06:28:00",
@@ -33303,6 +33764,6 @@
       "value": "\u7a0e\u52d9\u5831\u544a\u66f8.zip"
     }
   },
-  "generated_at": "2026-09-15T00:40:03Z",
+  "generated_at": "2026-09-15T06:40:04Z",
   "window_days": 30
 }

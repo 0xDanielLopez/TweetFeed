@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-15 06:30:21 (UTC)</th>
+        <th colspan=4>2026-09-15 06:45:15 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 37 | 254 | 1534 | 50347 |
-| **:globe_with_meridians: Domains** | 35 | 228 | 1332 | 41581 |
-| **:triangular_flag_on_post: IPs** | 1 | 36 | 310 | 7609 |
+| **:link: URLs** | 38 | 255 | 1535 | 50348 |
+| **:globe_with_meridians: Domains** | 36 | 229 | 1333 | 41582 |
+| **:triangular_flag_on_post: IPs** | 2 | 37 | 311 | 7610 |
 | **:1234: SHA256** | 5 | 29 | 199 | 2669 |
 | **:1234: MD5** | 3 | 10 | 83 | 2305 |
 
@@ -208,13 +208,13 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 69 | 410 | 2064 | 39631 |
 | **#Kimsuky** | 1 | 27 | 45 | 13253 |
 | **#DPRK** | 0 | 15 | 15 | 11662 |
-| **#C2** | 1 | 7 | 72 | 5314 |
+| **#C2** | 2 | 8 | 73 | 5315 |
 | **#scam** | 0 | 11 | 31 | 4977 |
 | **#malware** | 30 | 148 | 374 | 2873 |
 | **#APT** | 1 | 5 | 108 | 1644 |
 | **#CobaltStrike** | 0 | 0 | 8 | 844 |
 | **#AsyncRAT** | 0 | 0 | 21 | 757 |
-| **#stealer** | 0 | 11 | 32 | 722 |
+| **#stealer** | 1 | 12 | 33 | 723 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -234,9 +234,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 24 |
 | **#3** | [patialavii](https://x.com/patialavii) | 16 |
 | **#4** | [tdatwja](https://x.com/tdatwja) | 11 |
-| **#5** | [phatomcandle](https://x.com/phatomcandle) | 1 |
-| **#6** | [-](https://x.com/-) | 0 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#5** | [bomccss](https://x.com/bomccss) | 2 |
+| **#6** | [phatomcandle](https://x.com/phatomcandle) | 1 |
+| **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
