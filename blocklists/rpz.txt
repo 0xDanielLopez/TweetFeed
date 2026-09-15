@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1250
-; Updated: 2026-09-15T16:30:18Z
+; Entries: 1252
+; Updated: 2026-09-15T16:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789489818 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789490718 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -954,6 +954,8 @@ infinet.digital CNAME .
 *.infinet.digital CNAME .
 info-suit-e-treze-er-doc.typedream.app CNAME .
 *.info-suit-e-treze-er-doc.typedream.app CNAME .
+innosoft.ro CNAME .
+*.innosoft.ro CNAME .
 inspirationalframedpoems.com CNAME .
 *.inspirationalframedpoems.com CNAME .
 instagram-accounts-login.duckdns.org CNAME .
@@ -1312,6 +1314,8 @@ mu.umbjp27.shop CNAME .
 *.mu.umbjp27.shop CNAME .
 muewgjlydqln.b17da333ec194ec4b767.d.requestbin.net CNAME .
 *.muewgjlydqln.b17da333ec194ec4b767.d.requestbin.net CNAME .
+multistore-lb.com CNAME .
+*.multistore-lb.com CNAME .
 mvkpop.es CNAME .
 *.mvkpop.es CNAME .
 mybroadbandservice.plutio.com CNAME .
