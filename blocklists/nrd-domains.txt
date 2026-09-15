@@ -1,10 +1,10 @@
 # TweetFeed blocklist - domains registered 30 days or less before they were reported
 # Window: 30 days
-# Entries: 279
-# Updated: 2026-09-15T03:45:15Z
+# Entries: 280
+# Updated: 2026-09-15T07:15:18Z
 # Domains whose registrable apex was created 30 days or less before the first TweetFeed report
 # Only apexes with a known RDAP creation date are considered (about 6 in 10 reported domains); a domain reported in the current tick can appear one tick later
-# Registration check refreshed: 2026-09-15T03:30:33Z
+# Registration check refreshed: 2026-09-15T07:00:39Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -79,6 +79,7 @@ datinglive-jp.com
 devin-us.com
 dfgdkn.cc
 ditankaofa-rakunde.com
+dnswwt.club
 doctoaezrw-smbice.com
 dora0xyz.site
 dossieretudiant.polymlt.ca

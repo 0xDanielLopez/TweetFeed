@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 1231
-# Updated: 2026-09-15T07:00:22Z
+# Entries: 1232
+# Updated: 2026-09-15T07:15:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -666,6 +666,7 @@
 0.0.0.0 ndax-login-access.typedream.app
 0.0.0.0 nestfixio.com
 0.0.0.0 neststudio16.com
+0.0.0.0 netflix.patelrudra.in
 0.0.0.0 netflx-update.com
 0.0.0.0 netvitualconnect.top
 0.0.0.0 network45-238-142-host-234.inethn.net
