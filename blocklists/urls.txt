@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 1434
-# Updated: 2026-09-15T07:30:24Z
+# Entries: 1437
+# Updated: 2026-09-15T07:45:22Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -47,6 +47,7 @@ http://144.172.100.105:4444
 http://144.172.100.105:8080
 http://144.172.100.105:8081
 http://147.182.241.212
+http://149.104.24.197
 http://15.156.228.106:8080
 http://152.32.138.81
 http://154.94.224.35:54321
@@ -1072,6 +1073,7 @@ http://www.login-accounts.dynu.net
 http://www.metamonetization.live
 http://www.ncloudtechlab.online
 http://www.potwierdzenie-bezpieczenstwa.vercel.app
+http://www.sign-in-to-xfinity-090.weebly.com
 http://wxcdc.movaci.net
 http://x-uptades.com
 http://xbc.tvn.mybluehost.me
@@ -1280,6 +1282,7 @@ https://macielsoaresimobiliaria.com.br/lolipop/
 https://mandasirika-smbice.com
 https://melongr.com/ddupsfno
 https://mikjv2zuc2ct-pages-dev.translate.goog/support.apple.com.html?_x_tr_sch=&amp;_x_tr_sl=monex&amp;_x_tr_tl=ja
+https://mjdou.vip
 https://mu.umbjp27.shop
 https://mvkpop.es/d00b9d48-bd85-4eaa-b80b-8220987ea812
 https://mvkpop.es/d00b9d48-bd85-4eaa-b80b-8220987ea812##Phishing
