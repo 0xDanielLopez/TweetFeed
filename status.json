@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-15T19:30:29Z",
+ "generated_at": "2026-09-15T19:45:25Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -96,7 +96,7 @@
    {
     "id": "skocherhan",
     "kind": "account",
-    "newest_item_at": "2026-09-13T15:42:00Z",
+    "newest_item_at": "2026-09-14T02:29:00Z",
     "rows_last_24h": 3,
     "dead_after_seconds": 259200
    },
@@ -250,7 +250,7 @@
    {
     "id": "malware",
     "kind": "hashtag",
-    "newest_item_at": "2026-09-15T18:56:00Z",
+    "newest_item_at": "2026-09-15T19:40:00Z",
     "rows_last_24h": 48,
     "dead_after_seconds": null
    },
@@ -299,7 +299,7 @@
    {
     "id": "phishing",
     "kind": "hashtag",
-    "newest_item_at": "2026-09-15T18:00:00Z",
+    "newest_item_at": "2026-09-15T19:42:00Z",
     "rows_last_24h": 120,
     "dead_after_seconds": null
    },
@@ -379,7 +379,7 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
@@ -391,7 +391,7 @@
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
@@ -403,7 +403,7 @@
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
@@ -415,7 +415,7 @@
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
@@ -427,49 +427,49 @@
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-09-15T19:30:29Z",
+   "updated_at": "2026-09-15T19:45:25Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -477,7 +477,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-09-15T19:30:21Z",
+   "updated_at": "2026-09-15T19:45:17Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -485,7 +485,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-09-15T19:30:22Z",
+   "updated_at": "2026-09-15T19:45:18Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
@@ -507,7 +507,7 @@
   "ipmeta.json": {
    "kind": "own-clock",
    "path": "ipmeta.json",
-   "updated_at": "2026-09-15T13:35:04Z",
+   "updated_at": "2026-09-15T19:35:04Z",
    "interval_seconds": 21600,
    "stale_after_seconds": 27000
   },
