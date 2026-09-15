@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-15 08:30:20 (UTC)</th>
+        <th colspan=4>2026-09-15 08:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 47 | 264 | 1544 | 50357 |
 | **:globe_with_meridians: Domains** | 43 | 236 | 1340 | 41589 |
-| **:triangular_flag_on_post: IPs** | 7 | 42 | 316 | 7615 |
+| **:triangular_flag_on_post: IPs** | 9 | 44 | 318 | 7617 |
 | **:1234: SHA256** | 5 | 29 | 199 | 2669 |
 | **:1234: MD5** | 5 | 12 | 85 | 2307 |
 
@@ -208,13 +208,13 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 80 | 421 | 2075 | 39642 |
 | **#Kimsuky** | 1 | 27 | 45 | 13253 |
 | **#DPRK** | 0 | 15 | 15 | 11662 |
-| **#C2** | 5 | 11 | 76 | 5318 |
+| **#C2** | 7 | 13 | 78 | 5320 |
 | **#scam** | 0 | 11 | 31 | 4977 |
 | **#malware** | 30 | 148 | 374 | 2873 |
 | **#APT** | 1 | 5 | 108 | 1644 |
 | **#CobaltStrike** | 0 | 0 | 8 | 844 |
 | **#AsyncRAT** | 0 | 0 | 21 | 757 |
-| **#stealer** | 2 | 13 | 34 | 724 |
+| **#stealer** | 4 | 15 | 36 | 726 |
 <!-- TAG_TABLE_END -->
 
 These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tags being matched. Every one of them is queryable through the [API](#gear-programmatic-access) and has its own [RSS feed](https://tweetfeed.live/rss/tag/phishing.xml); the highest-volume ones also get a curated landing page at [tweetfeed.live/tags/](https://tweetfeed.live/tags/).
@@ -235,7 +235,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#3** | [patialavii](https://x.com/patialavii) | 16 |
 | **#4** | [tdatwja](https://x.com/tdatwja) | 11 |
 | **#5** | [bomccss](https://x.com/bomccss) | 7 |
-| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 4 |
+| **#6** | [Fact_Finder03](https://x.com/Fact_Finder03) | 6 |
 | **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#9** | [suyog41](https://x.com/suyog41) | 2 |
