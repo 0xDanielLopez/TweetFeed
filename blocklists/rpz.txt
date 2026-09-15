@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1221
-; Updated: 2026-09-15T05:15:16Z
+; Entries: 1226
+; Updated: 2026-09-15T05:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789449316 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789450219 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1394,6 +1394,8 @@ onxsm.styleompl.com CNAME .
 *.onxsm.styleompl.com CNAME .
 ony.srb.temporary.site CNAME .
 *.ony.srb.temporary.site CNAME .
+op.lepiceriedestoits.com CNAME .
+*.op.lepiceriedestoits.com CNAME .
 opalblueprint10.com CNAME .
 *.opalblueprint10.com CNAME .
 orlatiosllc.com CNAME .
@@ -1546,6 +1548,8 @@ prosperityplanningguide.com CNAME .
 *.prosperityplanningguide.com CNAME .
 pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev CNAME .
 *.pub-d68525cbc6144dcaaac2fc0354aa17dd.r2.dev CNAME .
+pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev CNAME .
+*.pub-e1d9577cada440b39dc4a1e0fa09e7bc.r2.dev CNAME .
 public-suite-app-trez.typedream.app CNAME .
 *.public-suite-app-trez.typedream.app CNAME .
 public-trzr-en-bridge.typedream.app CNAME .
@@ -1752,6 +1756,8 @@ satinmaple4.com CNAME .
 *.satinmaple4.com CNAME .
 sb.anaridelight.com CNAME .
 *.sb.anaridelight.com CNAME .
+sb.celocozy.com CNAME .
+*.sb.celocozy.com CNAME .
 sb.zeyoluxe.com CNAME .
 *.sb.zeyoluxe.com CNAME .
 schoolgirstrikers.info CNAME .
@@ -2142,6 +2148,8 @@ uukuz.wanjiangmei.com CNAME .
 *.uukuz.wanjiangmei.com CNAME .
 uyu.ker.mybluehost.me CNAME .
 *.uyu.ker.mybluehost.me CNAME .
+v02.zip CNAME .
+*.v02.zip CNAME .
 vacationrental-directory.com CNAME .
 *.vacationrental-directory.com CNAME .
 valeriediedrich3.screenconnect.com CNAME .
@@ -2350,6 +2358,8 @@ yjeexpress.com CNAME .
 *.yjeexpress.com CNAME .
 yktpm1b20pz-lhjndlsi-1l8i2b-ykk57c.pages.dev CNAME .
 *.yktpm1b20pz-lhjndlsi-1l8i2b-ykk57c.pages.dev CNAME .
+yonataxi.at CNAME .
+*.yonataxi.at CNAME .
 yonghaodianqi.com CNAME .
 *.yonghaodianqi.com CNAME .
 yoox.com CNAME .
