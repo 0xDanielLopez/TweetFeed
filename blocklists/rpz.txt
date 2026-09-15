@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1241
-; Updated: 2026-09-15T13:45:21Z
+; Entries: 1242
+; Updated: 2026-09-15T15:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789479921 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789485318 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1502,6 +1502,8 @@ plugandpwn.com CNAME .
 *.plugandpwn.com CNAME .
 plume-compass.com CNAME .
 *.plume-compass.com CNAME .
+pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion CNAME .
+*.pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion CNAME .
 point-plsidaw.com CNAME .
 *.point-plsidaw.com CNAME .
 point-raka.com CNAME .

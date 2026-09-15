@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1241
-# Updated: 2026-09-15T13:45:21Z
+# Entries: 1242
+# Updated: 2026-09-15T15:15:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -753,6 +753,7 @@ address=/play.softcube.fr/0.0.0.0
 address=/plugandplay.co.id/0.0.0.0
 address=/plugandpwn.com/0.0.0.0
 address=/plume-compass.com/0.0.0.0
+address=/pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion/0.0.0.0
 address=/point-plsidaw.com/0.0.0.0
 address=/point-raka.com/0.0.0.0
 address=/point-raraka.com/0.0.0.0
