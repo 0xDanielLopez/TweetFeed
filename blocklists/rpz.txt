@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1242
-; Updated: 2026-09-15T15:15:18Z
+; Entries: 1249
+; Updated: 2026-09-15T15:30:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789485318 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789486218 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -488,6 +488,8 @@ daqian-point.com CNAME .
 *.daqian-point.com CNAME .
 daqianzib-rakunde.com CNAME .
 *.daqianzib-rakunde.com CNAME .
+daqianzib-smbice.com CNAME .
+*.daqianzib-smbice.com CNAME .
 datinglive-jp.com CNAME .
 *.datinglive-jp.com CNAME .
 dbuh.55og.wolkamo.com CNAME .
@@ -524,6 +526,8 @@ disclousre.cyou CNAME .
 *.disclousre.cyou CNAME .
 ditankaofa-rakunde.com CNAME .
 *.ditankaofa-rakunde.com CNAME .
+ditankaofan-jprakutansui.com CNAME .
+*.ditankaofan-jprakutansui.com CNAME .
 djgaza.com CNAME .
 *.djgaza.com CNAME .
 dl.vvtoken.top CNAME .
@@ -908,6 +912,8 @@ https.shlianban.com CNAME .
 *.https.shlianban.com CNAME .
 huibao-point.com CNAME .
 *.huibao-point.com CNAME .
+huibaoshe-smbice.com CNAME .
+*.huibaoshe-smbice.com CNAME .
 huibaoshen-rakunde.com CNAME .
 *.huibaoshen-rakunde.com CNAME .
 hunt.sabalillc.com CNAME .
@@ -1584,6 +1590,8 @@ qaxtbrl.ntinvoicepload.dynu.net CNAME .
 *.qaxtbrl.ntinvoicepload.dynu.net CNAME .
 qdxinr-point.com CNAME .
 *.qdxinr-point.com CNAME .
+qdxinruiya-smbice.com CNAME .
+*.qdxinruiya-smbice.com CNAME .
 qhswrb.ntinvoicepload.dynu.net CNAME .
 *.qhswrb.ntinvoicepload.dynu.net CNAME .
 qinfos.com CNAME .
@@ -1846,6 +1854,8 @@ sharjahaquarium.com CNAME .
 *.sharjahaquarium.com CNAME .
 sheltercirrus.com CNAME .
 *.sheltercirrus.com CNAME .
+shenzhenm-jprakutansui.com CNAME .
+*.shenzhenm-jprakutansui.com CNAME .
 sheswj.com CNAME .
 *.sheswj.com CNAME .
 shlianban.com CNAME .
@@ -2214,6 +2224,8 @@ viralizate.net CNAME .
 *.viralizate.net CNAME .
 visit-docelementmazase.lapacheca.com.br CNAME .
 *.visit-docelementmazase.lapacheca.com.br CNAME .
+vitrincebin-jprakutansui.com CNAME .
+*.vitrincebin-jprakutansui.com CNAME .
 vjtpcxof.top CNAME .
 *.vjtpcxof.top CNAME .
 vkvfaith.com CNAME .
@@ -2418,6 +2430,8 @@ zexzehqwb.b17da333ec194ec4b767.d.requestbin.net CNAME .
 *.zexzehqwb.b17da333ec194ec4b767.d.requestbin.net CNAME .
 zfktseu.com CNAME .
 *.zfktseu.com CNAME .
+zhangyexin-jprakutansui.com CNAME .
+*.zhangyexin-jprakutansui.com CNAME .
 zhuohao2.oss-cn-hongkong.aliyuncs.com CNAME .
 *.zhuohao2.oss-cn-hongkong.aliyuncs.com CNAME .
 zhuohaoyan.shop CNAME .

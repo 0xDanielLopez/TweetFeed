@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-15 15:15:19 (UTC)</th>
+        <th colspan=4>2026-09-15 15:30:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 55 | 272 | 1552 | 50365 |
-| **:globe_with_meridians: Domains** | 51 | 244 | 1348 | 41597 |
+| **:link: URLs** | 62 | 279 | 1559 | 50372 |
+| **:globe_with_meridians: Domains** | 58 | 251 | 1355 | 41604 |
 | **:triangular_flag_on_post: IPs** | 10 | 45 | 319 | 7618 |
-| **:1234: SHA256** | 5 | 29 | 199 | 2669 |
+| **:1234: SHA256** | 7 | 31 | 201 | 2671 |
 | **:1234: MD5** | 6 | 13 | 86 | 2308 |
 
 </div>
@@ -205,12 +205,12 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 93 | 434 | 2088 | 39655 |
+| **#phishing** | 109 | 450 | 2104 | 39671 |
 | **#Kimsuky** | 1 | 27 | 45 | 13253 |
 | **#DPRK** | 0 | 15 | 15 | 11662 |
 | **#C2** | 7 | 13 | 78 | 5320 |
 | **#scam** | 0 | 11 | 31 | 4977 |
-| **#malware** | 30 | 148 | 374 | 2873 |
+| **#malware** | 46 | 164 | 390 | 2889 |
 | **#APT** | 1 | 5 | 108 | 1644 |
 | **#CobaltStrike** | 0 | 0 | 8 | 844 |
 | **#AsyncRAT** | 0 | 0 | 21 | 757 |
@@ -230,8 +230,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [TKemmerling](https://x.com/TKemmerling) | 32 |
-| **#2** | [masaomi346](https://x.com/masaomi346) | 31 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 47 |
+| **#2** | [TKemmerling](https://x.com/TKemmerling) | 32 |
 | **#3** | [patialavii](https://x.com/patialavii) | 24 |
 | **#4** | [tdatwja](https://x.com/tdatwja) | 11 |
 | **#5** | [bomccss](https://x.com/bomccss) | 7 |
