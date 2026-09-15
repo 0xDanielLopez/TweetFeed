@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1232
-# Updated: 2026-09-15T07:15:18Z
+# Entries: 1233
+# Updated: 2026-09-15T07:30:24Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -53,6 +53,7 @@ address=/adoreme.com/0.0.0.0
 address=/aeon.dkoix.cn/0.0.0.0
 address=/aeon.kkbjnty.cn/0.0.0.0
 address=/aeon.pvvjkwi.cn/0.0.0.0
+address=/aestheticearthgems.info/0.0.0.0
 address=/aexshorthoaod.05cy1a.info/0.0.0.0
 address=/aexshorthoo26d.w287qb.info/0.0.0.0
 address=/aeyh688.club/0.0.0.0
