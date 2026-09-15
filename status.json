@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-15T09:45:24Z",
+ "generated_at": "2026-09-15T10:00:29Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -17,7 +17,7 @@
   "total": 44,
   "hashtag": 35,
   "account": 9,
-  "rows_last_24h": 159,
+  "rows_last_24h": 157,
   "dead_after_seconds": {
    "account": 259200,
    "hashtag": null
@@ -258,13 +258,13 @@
     "id": "phishing",
     "kind": "hashtag",
     "newest_item_at": "2026-09-15T09:14:00Z",
-    "rows_last_24h": 107,
+    "rows_last_24h": 105,
     "dead_after_seconds": null
    },
    {
     "id": "ransomware",
     "kind": "hashtag",
-    "newest_item_at": "2026-09-15T09:22:00Z",
+    "newest_item_at": "2026-09-15T09:42:00Z",
     "rows_last_24h": 6,
     "dead_after_seconds": null
    },
@@ -299,7 +299,7 @@
    {
     "id": "scam",
     "kind": "hashtag",
-    "newest_item_at": "2026-09-15T09:29:00Z",
+    "newest_item_at": "2026-09-15T09:58:00Z",
     "rows_last_24h": 9,
     "dead_after_seconds": null
    },
@@ -337,7 +337,7 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
@@ -349,7 +349,7 @@
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
@@ -361,7 +361,7 @@
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
@@ -373,7 +373,7 @@
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
@@ -385,49 +385,49 @@
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-09-15T09:45:24Z",
+   "updated_at": "2026-09-15T10:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -435,7 +435,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-09-15T09:45:16Z",
+   "updated_at": "2026-09-15T10:00:21Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -443,7 +443,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-09-15T09:45:17Z",
+   "updated_at": "2026-09-15T10:00:22Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
@@ -488,7 +488,7 @@
   "domainmeta.json": {
    "kind": "change-driven",
    "path": "domainmeta.json",
-   "updated_at": "2026-09-15T08:15:37Z",
+   "updated_at": "2026-09-15T09:45:30Z",
    "interval_seconds": 900,
    "stale_after_seconds": null,
    "note": "runs after the git push and rewrites generated_at only when the resolved apex set changes; pipeline freshness is the signal"
