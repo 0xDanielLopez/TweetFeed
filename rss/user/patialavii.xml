@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @patialavii</title>
+      <link>https://x.com/patialavii</link>
+      <description>IOCs shared by @patialavii and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @patialavii</title>
+         <link>https://x.com/patialavii</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/patialavii.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Tue, 15 Sep 2026 04:30:18 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://durnakphotography.com/poshevite/</title>
+         <link>https://x.com/patialavii/status/2099715364376707241</link>
+         <description>@patialavii | url | #phishing
+Value: https://durnakphotography.com/poshevite/
+Tweet: https://x.com/patialavii/status/2099715364376707241</description>
+         <guid isPermaLink="false">https://durnakphotography.com/poshevite/</guid>
+         <pubDate>Tue, 15 Sep 2026 04:22:08 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>durnakphotography.com</title>
+         <link>https://x.com/patialavii/status/2099715364376707241</link>
+         <description>@patialavii | domain | #phishing
+Value: durnakphotography.com
+Tweet: https://x.com/patialavii/status/2099715364376707241</description>
+         <guid isPermaLink="false">durnakphotography.com</guid>
+         <pubDate>Tue, 15 Sep 2026 04:22:08 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

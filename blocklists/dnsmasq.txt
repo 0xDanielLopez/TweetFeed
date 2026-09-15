@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1215
-# Updated: 2026-09-15T03:30:18Z
+# Entries: 1216
+# Updated: 2026-09-15T04:30:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -285,6 +285,7 @@ address=/dslld.com/0.0.0.0
 address=/du-a2026081702100.zip/0.0.0.0
 address=/dubl1allremriki.com/0.0.0.0
 address=/dubl2allremriki.com/0.0.0.0
+address=/durnakphotography.com/0.0.0.0
 address=/e1.cdnresolver.com/0.0.0.0
 address=/eampengencangpayudara.info/0.0.0.0
 address=/eclipse4g5kxfwsvpu4qx5sdcnrji6gxl5gt67bucjlgt35g7akvjoid.onion/0.0.0.0
