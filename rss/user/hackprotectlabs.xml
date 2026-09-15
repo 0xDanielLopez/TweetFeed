@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @HackProtectLabs</title>
+      <link>https://x.com/HackProtectLabs</link>
+      <description>IOCs shared by @HackProtectLabs and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @HackProtectLabs</title>
+         <link>https://x.com/HackProtectLabs</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/hackprotectlabs.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Tue, 15 Sep 2026 00:00:23 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://trustwallet-help.online</title>
+         <link>https://x.com/HackProtectLabs/status/2098951945910206500</link>
+         <description>@HackProtectLabs | url | #phishing
+Value: http://trustwallet-help.online
+Tweet: https://x.com/HackProtectLabs/status/2098951945910206500</description>
+         <guid isPermaLink="false">http://trustwallet-help.online</guid>
+         <pubDate>Sun, 13 Sep 2026 01:48:35 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>trustwallet-help.online</title>
+         <link>https://x.com/HackProtectLabs/status/2098951945910206500</link>
+         <description>@HackProtectLabs | domain | #phishing
+Value: trustwallet-help.online
+Tweet: https://x.com/HackProtectLabs/status/2098951945910206500</description>
+         <guid isPermaLink="false">trustwallet-help.online</guid>
+         <pubDate>Sun, 13 Sep 2026 01:48:35 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

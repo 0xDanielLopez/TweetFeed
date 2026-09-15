@@ -1,0 +1,117 @@
+# TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
+# Window: 30 days
+# Entries: 103
+# Updated: 2026-09-15T00:00:21Z
+# Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
+# Cross-check refreshed: 2026-09-14T19:25:10Z
+# Set membership only - not a quality score and not a verdict
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/urls-corroborated.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+http://025sep.duckdns.org
+http://101.42.136.73
+http://104.243.35.63
+http://118.107.44.153
+http://121.127.253.206
+http://121.127.253.206:8856
+http://121.127.253.206:8868
+http://134.122.185.201
+http://170.62.130.47
+http://170.62.130.47:443
+http://170.62.130.47:449
+http://193.233.202.17
+http://196.251.84.11
+http://198.144.179.82/1.sh
+http://202.61.140.222:448
+http://207.56.119.83:6666
+http://216.152.151.204
+http://217.60.77.63
+http://31.77.227.102/dlink.sh
+http://45.91.168.240
+http://46.101.191.5
+http://5.180.41.35
+http://77.239.124.108/atomic/atomic.sh
+http://78.17.71.8:5025
+http://accounts-mail-google.com
+http://akb.cat/N330
+http://allremdeskriki.com/api/v2
+http://americandreamlost.com
+http://atlas-compass.com
+http://biobkliaum.live
+http://canvas-35.com
+http://cloudfrontenterprise.com
+http://cqylt.net
+http://currentme.top/ZOOM/Windows/invite.php
+http://dev.epicgames.com/community/api/user_profiles/profile.json?hash_id=roAjr
+http://dntds.shop
+http://docusign.login.adrpowersystem.com
+http://donta.duckdns.org
+http://dubl1allremriki.com/api/v2
+http://dubl2allremriki.com/api/v2
+http://for8service.net
+http://grove-satin.com
+http://invite.clararise.xyz/Windows/invite.php
+http://invite.jalallinux.ir/Windows/invite.php
+http://iwannagetmoremoney.beer
+http://kairostksc.com
+http://ljdnxz.cc
+http://lovezramexar.info
+http://meeting.joinzooms.com/ZOOM/Windows/invite.php
+http://mhrs-edevletgiris.sbs
+http://painel.guintter.com.br/Windows/invite.php
+http://pine63.com
+http://pinkfriend.top
+http://plume-compass.com
+http://quest-22.com
+http://quill-flint.com
+http://raster-80.com
+http://rrr.12naga.org
+http://rukeyou.com/sys/X2/X2-payload_dfyihao.zip
+http://sdntds.shop
+http://sec3viewing.live/install-guide.php
+http://sermver.duckdns.org
+http://sha.sm188dvlv.icu
+http://sharjahaquarium.com
+http://sheltercirrus.com
+http://sizyrotiqnsa.com
+http://steamcommunity.com/profiles/76561198652917381
+http://tak.123ful.net
+http://tak.sm188dvlv.icu
+http://telegram.me/s11yme
+http://terminalbrewmac.com
+http://tra.12naga.org
+http://ultraspeed.pro
+http://updatenew.top/current/Windows/invite.php
+http://uranbokachok.com
+http://usz00mczyiee.store/Z8hJ7sKe6L9/Windows/install-guide.php
+http://vbhgv.info/Windows/install-guide.php
+http://verifyrecapcha.info
+http://web-interview.online/install-guide.php
+http://wer-ldr.duckdns.org
+http://wereng.duckdns.org
+http://wheremymoney.beer
+http://woolvilli.com/api/v2
+http://worksodsirius.ydns.eu
+http://wsp.1234e.org
+http://wsp.sm188dnsxx.top
+http://yigu360.com
+http://zoom-i.pages.dev/microsoft-store.php
+http://zoom-in.pages.dev/install-guide
+http://zoom.web-interviews.live/invite.php
+http://zoominviteus1.pages.dev
+http://zoomlive.us/Windows/invite.php
+http://zoommcall.com/Windows/invite.php
+http://zoommeetingg.click/zoom/Windows/invite.php
+http://zuodx.com
+https://134.122.136.84:8383
+https://217.60.195.113/sh
+https://f005.backblazeb2.com
+https://lkntansr.net
+https://parentpreneurx.com
+https://rukeyou.com/sys/X2/X2-payload_baolljp.jpg
+https://rukeyou.com/sys/X2/X2-payload_dfyihao.zip
+https://triapfog.com/Traffic/api
