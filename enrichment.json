@@ -1,5 +1,5 @@
 {
-  "count": 2226,
+  "count": 2208,
   "dead_tweets": {
     "2087799248439902618": {
       "attempts": 2,
@@ -172,21 +172,6 @@
       "tweet_id": "2089767634472472992",
       "type": "url",
       "value": "https://03webzoominvite.us/invite.php"
-    },
-    "049de558295d6c0143abbb1f39e21760e22fb6963ecd8e4d15cfeeed12ac00e2": {
-      "confidence": 0.78,
-      "date": "2026-08-16 13:18:32",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Xenia malware C2 panel at IPs 163.245.218.50 and 104.252.53.151 (also via nip.io wildcard DNS) with two associated SHA256 file hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2088978720229085237",
-      "type": "sha256",
-      "value": "049de558295d6c0143abbb1f39e21760e22fb6963ecd8e4d15cfeeed12ac00e2"
     },
     "04c9eae9f19a63e4a84da108fe6b768ab6e558c89126dbb6c35a0c383739a81f": {
       "confidence": 0.82,
@@ -949,21 +934,6 @@
       "type": "url",
       "value": "http://104.243.35.63"
     },
-    "104.252.53.151": {
-      "confidence": 0.78,
-      "date": "2026-08-16 13:18:32",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Xenia malware C2 panel at IPs 163.245.218.50 and 104.252.53.151 (also via nip.io wildcard DNS) with two associated SHA256 file hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2088978720229085237",
-      "type": "ip",
-      "value": "104.252.53.151"
-    },
     "104.28.165.147": {
       "confidence": 0.9,
       "date": "2026-08-19 17:00:28",
@@ -1037,20 +1007,6 @@
       "tweet_id": "2092196490035015964",
       "type": "ip",
       "value": "107.189.16.254"
-    },
-    "108.165.179.230": {
-      "confidence": 0.75,
-      "date": "2026-08-16 17:30:15",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "VULKAN threat actor C2 infrastructure: IP 108.165.179.230 with associated DuckDNS domain ey11111111777777.duckdns.org.",
-      "threat_type": "c2",
-      "tweet_id": "2089042063086203045",
-      "type": "ip",
-      "value": "108.165.179.230"
     },
     "108.174.155.231": {
       "confidence": 0.72,
@@ -2192,21 +2148,6 @@
       "type": "ip",
       "value": "162.240.233.171"
     },
-    "163.245.218.50": {
-      "confidence": 0.78,
-      "date": "2026-08-16 13:18:32",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Xenia malware C2 panel at IPs 163.245.218.50 and 104.252.53.151 (also via nip.io wildcard DNS) with two associated SHA256 file hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2088978720229085237",
-      "type": "ip",
-      "value": "163.245.218.50"
-    },
     "165.154.241.48": {
       "confidence": 0.95,
       "date": "2026-08-26 10:05:36",
@@ -3206,22 +3147,6 @@
       "type": "ip",
       "value": "193.203.27.244"
     },
-    "193.221.201.195": {
-      "confidence": 0.8,
-      "date": "2026-08-16 17:18:08",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "stealer",
-        "infostealer"
-      ],
-      "summary": "QatarStealer C2 panel identified at IP 193.221.201.195.",
-      "threat_type": "c2",
-      "tweet_id": "2089039015131668631",
-      "type": "ip",
-      "value": "193.221.201.195"
-    },
     "193.233.202.17": {
       "confidence": 0.95,
       "date": "2026-09-07 17:02:48",
@@ -3379,21 +3304,6 @@
       "tweet_id": "2089620840912507174",
       "type": "url",
       "value": "http://198.144.179.82/1.sh"
-    },
-    "198.23.134.117": {
-      "confidence": 0.7,
-      "date": "2026-08-16 18:00:09",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2"
-      ],
-      "summary": "Confucius APT infrastructure IP 198.23.134.117 flagged for cyber espionage activity.",
-      "threat_type": "other",
-      "tweet_id": "2089049589261443145",
-      "type": "url",
-      "value": "http://198.23.134.117"
     },
     "198.44.46.105": {
       "confidence": 0.92,
@@ -4053,6 +3963,20 @@
       "type": "ip",
       "value": "207.57.129.216"
     },
+    "208.91.199.49": {
+      "confidence": 0.95,
+      "date": "2026-09-15 17:01:20",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Alibaba hosted on zfkmasinac.com via Unified Layer/Tucows infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2099906423551320276",
+      "type": "ip",
+      "value": "208.91.199.49"
+    },
     "209.222.98.44": {
       "confidence": 0.92,
       "date": "2026-08-19 11:07:44",
@@ -4083,42 +4007,6 @@
       "tweet_id": "2093009520217805177",
       "type": "sha256",
       "value": "20b717d37f5cbec14aae02f9e0d47f642e72288f26982c2e555fb942748dbc95"
-    },
-    "20billionn.ddns.net": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "20billionn.ddns.net"
-    },
-    "20billionn.ddns.net:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://20billionn.ddns.net:62699"
     },
     "213.108.22.160": {
       "confidence": 0.93,
@@ -4347,6 +4235,22 @@
       "type": "ip",
       "value": "223.29.138.236"
     },
+    "22c1108ff216f1d5694883c20bcd7f447c23fa2f9466d3b43b5e56d1701d0c1b": {
+      "confidence": 0.85,
+      "date": "2026-09-15 15:03:46",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (\u697d\u5929) distributed across four jprakutansui.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099876837388398902",
+      "type": "sha256",
+      "value": "22c1108ff216f1d5694883c20bcd7f447c23fa2f9466d3b43b5e56d1701d0c1b"
+    },
     "22d1b5576ccb3c425a94e405076a0665efa0dd2d59325bfb561b6b16969e267f": {
       "confidence": 0.82,
       "date": "2026-08-24 07:31:35",
@@ -4517,22 +4421,6 @@
       "tweet_id": "2090293929443045680",
       "type": "sha256",
       "value": "250e3c82b49eae210a7a622ecbabfef07b7038c84aeb6109adb2d1dc05d44e33"
-    },
-    "259f0e418a57dd56f93d10fe29142d3a": {
-      "confidence": 0.55,
-      "date": "2026-08-16 17:31:28",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Two MD5 hashes shared alongside a MAC address and machine ID, suggesting infostealer-collected host fingerprint data.",
-      "threat_type": "malware",
-      "tweet_id": "2089042372935979423",
-      "type": "md5",
-      "value": "259f0e418a57dd56f93d10fe29142d3a"
     },
     "25d6a5a721954df918c9f433105a4ddc76552dbaaa605e35521aeab2b529b6d7": {
       "confidence": 0.88,
@@ -5205,21 +5093,6 @@
       "type": "url",
       "value": "http://37.27.13.155"
     },
-    "374c7a1815373b88dd4723a405d8c7a3": {
-      "confidence": 0.65,
-      "date": "2026-08-16 18:20:35",
-      "enriched_at": "2026-09-15T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "ScreenConnect remote access tool abuse linked to suspicious domain and MD5 hash sample.",
-      "threat_type": "malware",
-      "tweet_id": "2089054731574341775",
-      "type": "md5",
-      "value": "374c7a1815373b88dd4723a405d8c7a3"
-    },
     "38.134.148.214": {
       "confidence": 0.85,
       "date": "2026-08-19 10:55:32",
@@ -5281,21 +5154,6 @@
       "tweet_id": "2089388228340318357",
       "type": "sha256",
       "value": "3828bb23aa9334de9536a6e5bbd01fb8264d4a48f5c41ba519e1127d632ee8b5"
-    },
-    "384a23cd7a4c3497979b380c7b09edb77706962615b475e16068767771738d7c": {
-      "confidence": 0.78,
-      "date": "2026-08-16 13:18:32",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Xenia malware C2 panel at IPs 163.245.218.50 and 104.252.53.151 (also via nip.io wildcard DNS) with two associated SHA256 file hashes.",
-      "threat_type": "c2",
-      "tweet_id": "2088978720229085237",
-      "type": "sha256",
-      "value": "384a23cd7a4c3497979b380c7b09edb77706962615b475e16068767771738d7c"
     },
     "39847b786611e5dd1a60fb0b5113f5253534401a2824850e3ebc6696b844ba8e": {
       "confidence": 0.68,
@@ -8418,21 +8276,6 @@
       "type": "sha256",
       "value": "87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff"
     },
-    "87hermana26laafirmacion.vip": {
-      "confidence": 0.75,
-      "date": "2026-08-16 18:20:35",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat"
-      ],
-      "summary": "ScreenConnect RMM tool abused as C2, associated with domain 87hermana26laafirmacion.vip.",
-      "threat_type": "c2",
-      "tweet_id": "2089054731574341775",
-      "type": "domain",
-      "value": "87hermana26laafirmacion.vip"
-    },
     "88.138.248.128": {
       "confidence": 0.65,
       "date": "2026-08-24 14:42:24",
@@ -8560,22 +8403,6 @@
       "type": "sha256",
       "value": "8c32356e59a9023a36b8c1be621c8788f22ff4c5e94f71a76d59c01b9976f35b"
     },
-    "8e1389360f391447405f779dfd4f4d18": {
-      "confidence": 0.55,
-      "date": "2026-08-16 17:31:28",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Two MD5 hashes shared alongside a MAC address and machine ID, suggesting infostealer-collected host fingerprint data.",
-      "threat_type": "malware",
-      "tweet_id": "2089042372935979423",
-      "type": "md5",
-      "value": "8e1389360f391447405f779dfd4f4d18"
-    },
     "8ed7d2d62d283a7701213e7a07191ebf5ab4d4862a0272b6ecda1209f6e0b93a": {
       "confidence": 0.95,
       "date": "2026-08-20 08:50:18",
@@ -8698,20 +8525,6 @@
       "tweet_id": "2092191738245050751",
       "type": "url",
       "value": "https://91.99.165.207:8080"
-    },
-    "917f6cd606d6cdc33de8318a77d5a0f9": {
-      "confidence": 0.38,
-      "date": "2026-08-16 16:55:20",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Single MD5 hash shared as a malware indicator with no additional context.",
-      "threat_type": "malware",
-      "tweet_id": "2089033277919125825",
-      "type": "md5",
-      "value": "917f6cd606d6cdc33de8318a77d5a0f9"
     },
     "924c410a520e6dc9aa1118474d9eb354": {
       "confidence": 0.85,
@@ -9833,42 +9646,6 @@
       "type": "url",
       "value": "https://aikt888.com/Am2az-0ncO-jp-jp/"
     },
-    "aileen75.ddns.net": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "aileen75.ddns.net"
-    },
-    "aileen75.ddns.net:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://aileen75.ddns.net:62699"
-    },
     "akb.cat": {
       "confidence": 0.85,
       "date": "2026-08-18 21:43:06",
@@ -10121,6 +9898,36 @@
       "tweet_id": "2091429220752949684",
       "type": "domain",
       "value": "allweddingsites.com"
+    },
+    "alphamedglobal.com": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:34:45",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Zoom-themed phishing delivering Level RMM client via VBS downloader hosted on compromised WordPress site.",
+      "threat_type": "phishing",
+      "tweet_id": "2099854434243322044",
+      "type": "domain",
+      "value": "alphamedglobal.com"
+    },
+    "alphamedglobal.com/home.php": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:34:45",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Zoom-themed phishing delivering Level RMM client via VBS downloader hosted on compromised WordPress site.",
+      "threat_type": "phishing",
+      "tweet_id": "2099854434243322044",
+      "type": "url",
+      "value": "http://alphamedglobal.com/home.php"
     },
     "altiora.fun": {
       "confidence": 0.87,
@@ -10790,21 +10597,6 @@
       "type": "domain",
       "value": "awsforensicl3ns-west1apprunner-dprd03feve9j.edgeone.dev"
     },
-    "axpclear.com": {
-      "confidence": 0.95,
-      "date": "2026-08-16 17:55:00",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Amazon summer-deals phishing email using sender domain morleyknowledge.org (22 days old) and click domain axpclear.com, unrelated to Amazon.",
-      "threat_type": "phishing",
-      "tweet_id": "2089048293997494664",
-      "type": "domain",
-      "value": "axpclear.com"
-    },
     "b22636d3b2af75bc84f65e21ce719c0ea2fb246a697f6515b8c1d659630776d2": {
       "confidence": 0.8,
       "date": "2026-09-10 13:30:14",
@@ -11363,6 +11155,36 @@
       "type": "domain",
       "value": "belynooecho.com"
     },
+    "beyondfitness.com.br": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:34:45",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Zoom-themed phishing delivering Level RMM client via VBS downloader hosted on compromised WordPress site.",
+      "threat_type": "phishing",
+      "tweet_id": "2099854434243322044",
+      "type": "domain",
+      "value": "beyondfitness.com.br"
+    },
+    "beyondfitness.com.br/wp-includes/zlc/zoom-installer-silent.vbs": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:34:45",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Zoom-themed phishing delivering Level RMM client via VBS downloader hosted on compromised WordPress site.",
+      "threat_type": "phishing",
+      "tweet_id": "2099854434243322044",
+      "type": "url",
+      "value": "https://beyondfitness.com.br/wp-includes/zlc/zoom-installer-silent.vbs"
+    },
     "bf1d4b7e256454bfadfc2ed1931110fd6ee41294b70df70e0b5deb573ae802fc": {
       "confidence": 0.9,
       "date": "2026-09-07 07:36:54",
@@ -11484,42 +11306,6 @@
       "tweet_id": "2090940532818416110",
       "type": "domain",
       "value": "biglcobeauth.vercel.app"
-    },
-    "billionsonlinee.ddns.net": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "billionsonlinee.ddns.net"
-    },
-    "billionsonlinee.ddns.net:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://billionsonlinee.ddns.net:62699"
     },
     "biobkliaum.live": {
       "confidence": 0.93,
@@ -12869,22 +12655,6 @@
       "type": "url",
       "value": "https://chiotetpapparel.shop/vawQHzoW/"
     },
-    "chisel-84.com": {
-      "confidence": 0.9,
-      "date": "2026-08-16 12:43:32",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Malvertising campaign delivering infostealer via fake Codex install page; malicious domain chisel-84.com confirmed via urlscan.",
-      "threat_type": "malware",
-      "tweet_id": "2088969908919091619",
-      "type": "domain",
-      "value": "chisel-84.com"
-    },
     "cicfo.com": {
       "confidence": 0.92,
       "date": "2026-08-24 03:03:06",
@@ -13901,6 +13671,22 @@
       "type": "domain",
       "value": "daqianzib-rakunde.com"
     },
+    "daqianzib-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 14:59:18",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating V-Point loyalty service distributed across three smbice.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099875712463474797",
+      "type": "domain",
+      "value": "daqianzib-smbice.com"
+    },
     "datinglive-jp.com": {
       "confidence": 0.8,
       "date": "2026-09-12 15:50:01",
@@ -14180,24 +13966,6 @@
       "type": "domain",
       "value": "devin-us.com"
     },
-    "dexscreenertrade.com": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "dexscreenertrade.com"
-    },
     "dfgdkn.cc": {
       "confidence": 0.85,
       "date": "2026-08-24 02:22:50",
@@ -14309,6 +14077,22 @@
       "tweet_id": "2099654512340574351",
       "type": "domain",
       "value": "ditankaofa-rakunde.com"
+    },
+    "ditankaofan-jprakutansui.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 15:03:46",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (\u697d\u5929) distributed across four jprakutansui.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099876837388398902",
+      "type": "domain",
+      "value": "ditankaofan-jprakutansui.com"
     },
     "djgaza.com": {
       "confidence": 0.87,
@@ -14465,21 +14249,6 @@
       "tweet_id": "2089107474825527555",
       "type": "domain",
       "value": "docs-base-bridge-faq.typedream.app"
-    },
-    "docs-ledger-live-feq.typedream.app": {
-      "confidence": 0.96,
-      "date": "2026-08-16 17:00:44",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Ledger hardware wallet phishing page hosted at docs-ledger-live-feq.typedream.app, resolving to 188.114.97.3 via Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2089034638161309916",
-      "type": "domain",
-      "value": "docs-ledger-live-feq.typedream.app"
     },
     "docs-trezr-begin-help.typedream.app": {
       "confidence": 0.98,
@@ -14962,6 +14731,22 @@
       "type": "url",
       "value": "https://durnakphotography.com/poshevite/"
     },
+    "e0189e82b8308b1241c6985480182524": {
+      "confidence": 0.8,
+      "date": "2026-09-15 13:22:44",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "c2"
+      ],
+      "summary": "MioLab macOS stealer sample with associated C2 at lewokodwqko.icu; MD5 hash shared for tracking.",
+      "threat_type": "malware",
+      "tweet_id": "2099851412645593438",
+      "type": "md5",
+      "value": "e0189e82b8308b1241c6985480182524"
+    },
     "e1.cdnresolver.com": {
       "confidence": 0.92,
       "date": "2026-09-11 06:28:59",
@@ -15137,6 +14922,22 @@
       "tweet_id": "2097101512111763734",
       "type": "sha256",
       "value": "e54547acd2ea50f587fcd408071ecff353d523e9f5488e44eb0b00e7b7a50bfb"
+    },
+    "e59b29b39af6df7b596350fcff3ab6c92c4a41a3c8d7e4780cbf6b90b6ea8025": {
+      "confidence": 0.85,
+      "date": "2026-09-15 14:59:18",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating V-Point loyalty service distributed across three smbice.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099875712463474797",
+      "type": "sha256",
+      "value": "e59b29b39af6df7b596350fcff3ab6c92c4a41a3c8d7e4780cbf6b90b6ea8025"
     },
     "e7971adbcf4003beadd07b03ba563d09333ac954fe684ae31cfe1c831b3dad9b": {
       "confidence": 0.85,
@@ -16343,42 +16144,6 @@
       "type": "url",
       "value": "https://feedsafepro.com/wp-content/themes/inps/auth/details"
     },
-    "fiancepsi1.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "fiancepsi1.duckdns.org"
-    },
-    "fiancepsi1.duckdns.org:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://fiancepsi1.duckdns.org:62699"
-    },
     "figurmanager.com": {
       "confidence": 0.9,
       "date": "2026-08-27 00:22:10",
@@ -17511,42 +17276,6 @@
       "type": "url",
       "value": "http://gsjwba.shop:8041"
     },
-    "gu-grant-gz.ydns.eu": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "gu-grant-gz.ydns.eu"
-    },
-    "gu-grant-gz.ydns.eu:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://gu-grant-gz.ydns.eu:62699"
-    },
     "gwzfish.org": {
       "confidence": 0.9,
       "date": "2026-08-22 07:05:35",
@@ -18564,21 +18293,6 @@
       "type": "url",
       "value": "https://houseofironinc.com/IrKairPw/"
     },
-    "hriver.net": {
-      "confidence": 0.93,
-      "date": "2026-08-16 17:36:48",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Lowe's/DeWalt tumbler reward phishing email using sender hriver.net and click domain styleompl.com, unrelated to either brand.",
-      "threat_type": "phishing",
-      "tweet_id": "2089043712743702536",
-      "type": "domain",
-      "value": "hriver.net"
-    },
     "hsacnajklnsdcm8u.pages.dev": {
       "confidence": 0.87,
       "date": "2026-08-19 08:25:06",
@@ -18683,6 +18397,22 @@
       "tweet_id": "2098612702243631218",
       "type": "domain",
       "value": "huibao-point.com"
+    },
+    "huibaoshe-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 14:59:18",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating V-Point loyalty service distributed across three smbice.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099875712463474797",
+      "type": "domain",
+      "value": "huibaoshe-smbice.com"
     },
     "huibaoshen-rakunde.com": {
       "confidence": 0.85,
@@ -19043,6 +18773,34 @@
       "tweet_id": "2089107474825527555",
       "type": "domain",
       "value": "info-suit-e-treze-er-doc.typedream.app"
+    },
+    "innosoft.ro": {
+      "confidence": 0.9,
+      "date": "2026-09-15 16:23:21",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing campaign delivering FleetDeck RMM payload via two-stage redirect chain.",
+      "threat_type": "phishing",
+      "tweet_id": "2099896865596846238",
+      "type": "domain",
+      "value": "innosoft.ro"
+    },
+    "innosoft.ro/ftx": {
+      "confidence": 0.9,
+      "date": "2026-09-15 16:23:21",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing campaign delivering FleetDeck RMM payload via two-stage redirect chain.",
+      "threat_type": "phishing",
+      "tweet_id": "2099896865596846238",
+      "type": "url",
+      "value": "https://innosoft.ro/ftx"
     },
     "inspirationalframedpoems.com": {
       "confidence": 0.93,
@@ -19560,76 +19318,6 @@
       "tweet_id": "2090515549381943750",
       "type": "url",
       "value": "https://j4suf.test-app.link/****"
-    },
-    "japan-act.ydns.eu": {
-      "confidence": 0.9,
-      "date": "2026-08-16 17:59:41",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat"
-      ],
-      "summary": "XWorm and Remcos RAT C2 domains using Japan-themed DDNS hostnames on ydns.eu.",
-      "threat_type": "c2",
-      "tweet_id": "2089049471472591346",
-      "type": "domain",
-      "value": "japan-act.ydns.eu"
-    },
-    "japan-act2.ydns.eu": {
-      "confidence": 0.9,
-      "date": "2026-08-16 17:59:41",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat"
-      ],
-      "summary": "XWorm and Remcos RAT C2 domains using Japan-themed DDNS hostnames on ydns.eu.",
-      "threat_type": "c2",
-      "tweet_id": "2089049471472591346",
-      "type": "domain",
-      "value": "japan-act2.ydns.eu"
-    },
-    "japanaction059.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "japanaction059.duckdns.org"
-    },
-    "japanaction059.duckdns.org:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://japanaction059.duckdns.org:62699"
     },
     "jb.cjian616.top": {
       "confidence": 0.73,
@@ -20315,6 +20003,34 @@
       "tweet_id": "2099651288984436985",
       "type": "domain",
       "value": "knittedjack-smbice.com"
+    },
+    "kohenalexander.screenconnect.com": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:11:03",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing delivering ScreenConnect RMM installer from kohenalexander.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099848471855731053",
+      "type": "domain",
+      "value": "kohenalexander.screenconnect.com"
+    },
+    "kohenalexander.screenconnect.com/bin/screenconnect.clientsetup.msi": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:11:03",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing delivering ScreenConnect RMM installer from kohenalexander.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099848471855731053",
+      "type": "url",
+      "value": "https://kohenalexander.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi"
     },
     "kolaytatilburada.info": {
       "confidence": 0.82,
@@ -22208,21 +21924,6 @@
       "type": "domain",
       "value": "morke.org"
     },
-    "morleyknowledge.org": {
-      "confidence": 0.95,
-      "date": "2026-08-16 17:55:00",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Amazon summer-deals phishing email using sender domain morleyknowledge.org (22 days old) and click domain axpclear.com, unrelated to Amazon.",
-      "threat_type": "phishing",
-      "tweet_id": "2089048293997494664",
-      "type": "domain",
-      "value": "morleyknowledge.org"
-    },
     "mountalnwest.com": {
       "confidence": 0.95,
       "date": "2026-08-24 16:46:59",
@@ -22281,6 +21982,34 @@
       "tweet_id": "2090776748212576720",
       "type": "domain",
       "value": "muewgjlydqln.b17da333ec194ec4b767.d.requestbin.net"
+    },
+    "multistore-lb.com": {
+      "confidence": 0.9,
+      "date": "2026-09-15 16:23:21",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing campaign delivering FleetDeck RMM payload via two-stage redirect chain.",
+      "threat_type": "phishing",
+      "tweet_id": "2099896865596846238",
+      "type": "domain",
+      "value": "multistore-lb.com"
+    },
+    "multistore-lb.com/docsign": {
+      "confidence": 0.9,
+      "date": "2026-09-15 16:23:21",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing campaign delivering FleetDeck RMM payload via two-stage redirect chain.",
+      "threat_type": "phishing",
+      "tweet_id": "2099896865596846238",
+      "type": "url",
+      "value": "https://multistore-lb.com/docsign/"
     },
     "mvkpop.es": {
       "confidence": 0.95,
@@ -24022,18 +23751,6 @@
       "type": "domain",
       "value": "plugandplay.co.id"
     },
-    "plugandpwn.com": {
-      "confidence": 0.85,
-      "date": "2026-08-16 16:30:36",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Research: Windows PnP driver install abused via spoofed USB devices or RDP redirection to achieve SYSTEM execution without admin rights or user interaction.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2089027052733424051",
-      "type": "domain",
-      "value": "plugandpwn.com"
-    },
     "plume-compass.com": {
       "confidence": 0.85,
       "date": "2026-09-14 12:20:45",
@@ -24049,6 +23766,20 @@
       "tweet_id": "2099473425958109631",
       "type": "domain",
       "value": "plume-compass.com"
+    },
+    "pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion": {
+      "confidence": 0.88,
+      "date": "2026-09-15 15:02:20",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "New ransomware group 'Galago' observed with a Tor-based leak site; no victims listed yet.",
+      "threat_type": "ransomware",
+      "tweet_id": "2099876474757193907",
+      "type": "domain",
+      "value": "pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion"
     },
     "point-plsidaw.com": {
       "confidence": 0.85,
@@ -24716,42 +24447,6 @@
       "type": "domain",
       "value": "pulseloghotelguesthelp.com"
     },
-    "purelog.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "purelog.duckdns.org"
-    },
-    "purelog.duckdns.org:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://purelog.duckdns.org:62699"
-    },
     "pwoap.cyou": {
       "confidence": 0.8,
       "date": "2026-09-10 13:30:14",
@@ -24800,6 +24495,22 @@
       "tweet_id": "2098612702243631218",
       "type": "domain",
       "value": "qdxinr-point.com"
+    },
+    "qdxinruiya-smbice.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 14:59:18",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating V-Point loyalty service distributed across three smbice.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099875712463474797",
+      "type": "domain",
+      "value": "qdxinruiya-smbice.com"
     },
     "qhswrb.ntinvoicepload.dynu.net": {
       "confidence": 0.92,
@@ -25490,42 +25201,6 @@
       "type": "url",
       "value": "http://relyaccessed-virtual.info/zoom/Windows/invite.php"
     },
-    "remcooox.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "remcooox.duckdns.org"
-    },
-    "remcooox.duckdns.org:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://remcooox.duckdns.org:62699"
-    },
     "renxintong.com": {
       "confidence": 0.95,
       "date": "2026-08-29 03:17:25",
@@ -25645,21 +25320,6 @@
       "type": "domain",
       "value": "rewards-bitmoon.fun"
     },
-    "rfastorm.co.uk": {
-      "confidence": 0.94,
-      "date": "2026-08-16 17:47:26",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Home Depot survey phishing promising $199 DeWalt drill via sender yjeexpress.com and link domain rfastorm.co.uk, with hidden HTML content.",
-      "threat_type": "phishing",
-      "tweet_id": "2089046389175308636",
-      "type": "domain",
-      "value": "rfastorm.co.uk"
-    },
     "rfq1ox88.wisnetcomlrfnlc.vu": {
       "confidence": 0.9,
       "date": "2026-08-19 05:17:49",
@@ -25743,6 +25403,34 @@
       "tweet_id": "2093127321259745710",
       "type": "url",
       "value": "https://richscity.com/smtpjp/"
+    },
+    "rinitiative.org": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:11:03",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing delivering ScreenConnect RMM installer from kohenalexander.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099848471855731053",
+      "type": "domain",
+      "value": "rinitiative.org"
+    },
+    "rinitiative.org/ftx": {
+      "confidence": 0.9,
+      "date": "2026-09-15 13:11:03",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing delivering ScreenConnect RMM installer from kohenalexander.screenconnect.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2099848471855731053",
+      "type": "url",
+      "value": "https://rinitiative.org/ftx"
     },
     "riverlagoons.com": {
       "confidence": 0.9,
@@ -26012,6 +25700,34 @@
       "tweet_id": "2098964978820886571",
       "type": "domain",
       "value": "roszo.com"
+    },
+    "roya-dev.com": {
+      "confidence": 0.9,
+      "date": "2026-09-15 16:09:58",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Adobe-themed phishing page at roya-dev.com delivering ScreenConnect RMM client.",
+      "threat_type": "phishing",
+      "tweet_id": "2099893496614441292",
+      "type": "domain",
+      "value": "roya-dev.com"
+    },
+    "roya-dev.com/mreger": {
+      "confidence": 0.9,
+      "date": "2026-09-15 16:09:58",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Adobe-themed phishing page at roya-dev.com delivering ScreenConnect RMM client.",
+      "threat_type": "phishing",
+      "tweet_id": "2099893496614441292",
+      "type": "url",
+      "value": "https://roya-dev.com/mreger/"
     },
     "rpc-mainnet.matic.quiknode.pro": {
       "confidence": 0.82,
@@ -27293,6 +27009,22 @@
       "type": "domain",
       "value": "sheltercirrus.com"
     },
+    "shenzhenm-jprakutansui.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 15:03:46",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (\u697d\u5929) distributed across four jprakutansui.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099876837388398902",
+      "type": "domain",
+      "value": "shenzhenm-jprakutansui.com"
+    },
     "sheswj.com": {
       "confidence": 0.85,
       "date": "2026-08-25 04:39:07",
@@ -27774,42 +27506,6 @@
       "type": "domain",
       "value": "sso-godaddy-mxnbwzhrnswmmlwvkrtfdufx.pages.dev"
     },
-    "stachi.ydns.eu": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "stachi.ydns.eu"
-    },
-    "stachi.ydns.eu:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://stachi.ydns.eu:62699"
-    },
     "staging.d1nonhkjybb8l5.amplifyapp.com": {
       "confidence": 0.88,
       "date": "2026-08-24 11:41:07",
@@ -28025,21 +27721,6 @@
       "type": "url",
       "value": "https://stupfication.5s7htk.info/g3EArg/jp"
     },
-    "styleompl.com": {
-      "confidence": 0.93,
-      "date": "2026-08-16 17:36:48",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Lowe's/DeWalt tumbler reward phishing email using sender hriver.net and click domain styleompl.com, unrelated to either brand.",
-      "threat_type": "phishing",
-      "tweet_id": "2089043712743702536",
-      "type": "domain",
-      "value": "styleompl.com"
-    },
     "stylishhomegallery.com": {
       "confidence": 0.85,
       "date": "2026-08-21 06:29:04",
@@ -28082,42 +27763,6 @@
       "tweet_id": "2096308816535052485",
       "type": "url",
       "value": "https://submit-form.com/xfgxjYePW"
-    },
-    "sucessful.duckdns.org": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "sucessful.duckdns.org"
-    },
-    "sucessful.duckdns.org:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://sucessful.duckdns.org:62699"
     },
     "suite--trezror.typedream.app": {
       "confidence": 0.98,
@@ -28164,42 +27809,6 @@
       "tweet_id": "2092109492695491017",
       "type": "domain",
       "value": "sunsolar-sz.com"
-    },
-    "superdomain8765.ddns.net": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "domain",
-      "value": "superdomain8765.ddns.net"
-    },
-    "superdomain8765.ddns.net:62699": {
-      "confidence": 0.95,
-      "date": "2026-08-16 18:10:04",
-      "enriched_at": "2026-08-17T00:40:04Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "remcos",
-        "c2",
-        "rat",
-        "opendir"
-      ],
-      "summary": "XWorm and Remcos RAT campaign using crypto trading lure site dexscreenertrade.com with 11 DDNS-based C2 endpoints on port 62699.",
-      "threat_type": "c2",
-      "tweet_id": "2089052085459296766",
-      "type": "url",
-      "value": "http://superdomain8765.ddns.net:62699"
     },
     "support--legderlive-us--learn.typedream.app": {
       "confidence": 0.98,
@@ -30887,6 +30496,22 @@
       "type": "url",
       "value": "https://visit-docelementmazase.lapacheca.com.br/document/vos/veriferi"
     },
+    "vitrincebin-jprakutansui.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 15:03:46",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (\u697d\u5929) distributed across four jprakutansui.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099876837388398902",
+      "type": "domain",
+      "value": "vitrincebin-jprakutansui.com"
+    },
     "vjtpcxof.top": {
       "confidence": 0.88,
       "date": "2026-09-10 09:15:10",
@@ -32702,21 +32327,6 @@
       "type": "domain",
       "value": "yigu360.com"
     },
-    "yjeexpress.com": {
-      "confidence": 0.94,
-      "date": "2026-08-16 17:47:26",
-      "enriched_at": "2026-08-16T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Home Depot survey phishing promising $199 DeWalt drill via sender yjeexpress.com and link domain rfastorm.co.uk, with hidden HTML content.",
-      "threat_type": "phishing",
-      "tweet_id": "2089046389175308636",
-      "type": "domain",
-      "value": "yjeexpress.com"
-    },
     "yktpm1b20pz-lhjndlsi-1l8i2b-ykk57c.pages.dev": {
       "confidence": 0.75,
       "date": "2026-08-18 02:20:02",
@@ -32951,6 +32561,34 @@
       "type": "domain",
       "value": "zexzehqwb.b17da333ec194ec4b767.d.requestbin.net"
     },
+    "zfkmasinac.com": {
+      "confidence": 0.95,
+      "date": "2026-09-15 17:01:20",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Alibaba hosted on zfkmasinac.com via Unified Layer/Tucows infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2099906423551320276",
+      "type": "domain",
+      "value": "zfkmasinac.com"
+    },
+    "zfkmasinac.com/pe/alibaba": {
+      "confidence": 0.95,
+      "date": "2026-09-15 17:01:20",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Alibaba hosted on zfkmasinac.com via Unified Layer/Tucows infrastructure.",
+      "threat_type": "phishing",
+      "tweet_id": "2099906423551320276",
+      "type": "url",
+      "value": "http://zfkmasinac.com/pe/alibaba/"
+    },
     "zfktseu.com": {
       "confidence": 0.9,
       "date": "2026-08-20 06:28:06",
@@ -32964,6 +32602,22 @@
       "tweet_id": "2090324982274683153",
       "type": "domain",
       "value": "zfktseu.com"
+    },
+    "zhangyexin-jprakutansui.com": {
+      "confidence": 0.85,
+      "date": "2026-09-15 15:03:46",
+      "enriched_at": "2026-09-15T18:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware impersonating Rakuten (\u697d\u5929) distributed across four jprakutansui.com domains.",
+      "threat_type": "malware",
+      "tweet_id": "2099876837388398902",
+      "type": "domain",
+      "value": "zhangyexin-jprakutansui.com"
     },
     "zhuohao2.oss-cn-hongkong.aliyuncs.com": {
       "confidence": 0.88,
@@ -33962,6 +33616,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-15T12:40:03Z",
+  "generated_at": "2026-09-15T18:40:04Z",
   "window_days": 30
 }
