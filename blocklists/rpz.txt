@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1249
-; Updated: 2026-09-15T15:30:18Z
+; Entries: 1250
+; Updated: 2026-09-15T16:30:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789486218 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789489818 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1716,6 +1716,8 @@ rosesfromheaven.com CNAME .
 *.rosesfromheaven.com CNAME .
 roszo.com CNAME .
 *.roszo.com CNAME .
+roya-dev.com CNAME .
+*.roya-dev.com CNAME .
 rpc-mainnet.matic.quiknode.pro CNAME .
 *.rpc-mainnet.matic.quiknode.pro CNAME .
 rq9wvjyc912c1ofpm5.live CNAME .
