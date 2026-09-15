@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1237
-; Updated: 2026-09-15T12:15:21Z
+; Entries: 1239
+; Updated: 2026-09-15T13:30:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789474521 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789479021 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1068,6 +1068,8 @@ kmzfjt.com CNAME .
 *.kmzfjt.com CNAME .
 knittedjack-smbice.com CNAME .
 *.knittedjack-smbice.com CNAME .
+kohenalexander.screenconnect.com CNAME .
+*.kohenalexander.screenconnect.com CNAME .
 kolaytatilburada.info CNAME .
 *.kolaytatilburada.info CNAME .
 ktmnos.com CNAME .
@@ -1674,6 +1676,8 @@ rhigcrimelet.chktxw.info CNAME .
 *.rhigcrimelet.chktxw.info CNAME .
 richscity.com CNAME .
 *.richscity.com CNAME .
+rinitiative.org CNAME .
+*.rinitiative.org CNAME .
 riverlagoons.com CNAME .
 *.riverlagoons.com CNAME .
 rkm-20260817-3684.zip CNAME .
