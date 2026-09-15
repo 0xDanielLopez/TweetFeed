@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 1253
-# Updated: 2026-09-15T17:30:19Z
+# Entries: 1254
+# Updated: 2026-09-15T22:00:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1227,6 +1227,7 @@
 0.0.0.0 zir.hlf.mybluehost.me
 0.0.0.0 zizhil.com
 0.0.0.0 zjcounty.com
+0.0.0.0 zledu-sx.oss-cn-beijing.aliyuncs.com
 0.0.0.0 zom-6ep.pages.dev
 0.0.0.0 zone-data-95529d585562.rentalescpade.workers.dev
 0.0.0.0 zoom-afp.pages.dev
