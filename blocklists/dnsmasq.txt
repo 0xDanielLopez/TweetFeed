@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1211
-# Updated: 2026-09-15T00:30:19Z
+# Entries: 1212
+# Updated: 2026-09-15T02:45:15Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -806,6 +806,7 @@ address=/rakuten-card.dksclz.com/0.0.0.0
 address=/raster-80.com/0.0.0.0
 address=/rb-cloud.cc/0.0.0.0
 address=/rbdvwwr.cn/0.0.0.0
+address=/rc.veyosilk.com/0.0.0.0
 address=/rd.helioszyra.com/0.0.0.0
 address=/re.yancha123.com/0.0.0.0
 address=/readermarks.xyz/0.0.0.0
