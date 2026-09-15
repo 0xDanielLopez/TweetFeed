@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1227
-# Updated: 2026-09-15T06:00:22Z
+# Entries: 1228
+# Updated: 2026-09-15T06:15:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -634,6 +634,7 @@ address=/microsoftdesk.vintagefabrcations.com/0.0.0.0
 address=/mikjv2zuc2ct-pages-dev.translate.goog/0.0.0.0
 address=/minecrafter.mygamesonline.org/0.0.0.0
 address=/mining.bytecove.cyou/0.0.0.0
+address=/mjdou.vip/0.0.0.0
 address=/mkgheye78fdfb.sryoung56.workers.dev/0.0.0.0
 address=/mlogin.secure-access-login.com/0.0.0.0
 address=/mmcharty.s3.us-east-1.amazonaws.com/0.0.0.0
