@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 998
-# Updated: 2026-09-19T12:30:20Z
+# Entries: 999
+# Updated: 2026-09-19T13:30:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -39,6 +39,7 @@ address=/aestheticearthgems.info/0.0.0.0
 address=/aexshorthoaod.05cy1a.info/0.0.0.0
 address=/aexshorthoo26d.w287qb.info/0.0.0.0
 address=/aeyh688.club/0.0.0.0
+address=/afc-security-report.duckdns.org/0.0.0.0
 address=/afterpartycandleco.com/0.0.0.0
 address=/agenziaunipolsairoma.info/0.0.0.0
 address=/ahrefs.report/0.0.0.0
