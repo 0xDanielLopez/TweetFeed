@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 981
-; Updated: 2026-09-19T03:15:22Z
+; Entries: 982
+; Updated: 2026-09-19T04:00:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789787722 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789790421 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -306,6 +306,8 @@ castlamp.com CNAME .
 *.castlamp.com CNAME .
 caturchiropractic.info CNAME .
 *.caturchiropractic.info CNAME .
+cdfloq.cfd CNAME .
+*.cdfloq.cfd CNAME .
 cdn.wp-js.com CNAME .
 *.cdn.wp-js.com CNAME .
 cedarpointlabs.blog CNAME .
