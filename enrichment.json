@@ -1,5 +1,5 @@
 {
-  "count": 1713,
+  "count": 1659,
   "dead_tweets": {
     "2087799248439902618": {
       "attempts": 2,
@@ -201,22 +201,6 @@
       "tweet_id": "2097981881346318827",
       "type": "sha256",
       "value": "0a70890afb11af40ac7b59808f9dda8cbff6a0e30ca298f85bd0993a8f250ccf"
-    },
-    "0bdae05fc660c889f1a3a6fd0d7ca3e4": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT DLL components msvcp140.dll and vcruntime140_1.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371342298427831",
-      "type": "md5",
-      "value": "0bdae05fc660c889f1a3a6fd0d7ca3e4"
     },
     "0be6d372e1a4983dcee845730bdff286": {
       "confidence": 0.92,
@@ -467,36 +451,6 @@
       "tweet_id": "2096282449089106217",
       "type": "ip",
       "value": "103.234.185.7"
-    },
-    "103.236.64.164": {
-      "confidence": 0.85,
-      "date": "2026-08-20 07:21:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Open directory at 103.236.64.164:9999 hosting exploitation and wiper toolkit targeting MIPS-based Xiaomi routers.",
-      "threat_type": "malware",
-      "tweet_id": "2090338529960509781",
-      "type": "ip",
-      "value": "103.236.64.164"
-    },
-    "103.236.64.164:9999": {
-      "confidence": 0.85,
-      "date": "2026-08-20 07:21:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Open directory at 103.236.64.164:9999 hosting exploitation and wiper toolkit targeting MIPS-based Xiaomi routers.",
-      "threat_type": "malware",
-      "tweet_id": "2090338529960509781",
-      "type": "url",
-      "value": "http://103.236.64.164:9999"
     },
     "103.27.178.242": {
       "confidence": 0.95,
@@ -786,21 +740,6 @@
       "type": "ip",
       "value": "130.94.12.40"
     },
-    "132.243.221.136": {
-      "confidence": 0.75,
-      "date": "2026-08-20 07:11:34",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "cryptoscam"
-      ],
-      "summary": "CHIMERA C2 panels at 132.243.221.136 and 82.117.243.163 with associated domains domain-privacy.group and stake-app-au.org.",
-      "threat_type": "c2",
-      "tweet_id": "2090335918368690279",
-      "type": "ip",
-      "value": "132.243.221.136"
-    },
     "134.122.185.201": {
       "confidence": 0.9,
       "date": "2026-08-24 02:22:50",
@@ -878,22 +817,6 @@
       "tweet_id": "2090763777990176929",
       "type": "url",
       "value": "http://138.201.132.148"
-    },
-    "13ecbb587deb774311f31f25211516147d5b78ad1b24e9749cafaf7bdf062bf8": {
-      "confidence": 0.92,
-      "date": "2026-08-20 10:22:03",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "trojan"
-      ],
-      "summary": "ValleyRAT distributed via Japanese-language email with malicious RAR/IMG attachment chain; C2 at 204.194.50.231 on ports 449 and 443.",
-      "threat_type": "malware",
-      "tweet_id": "2090383855962468746",
-      "type": "sha256",
-      "value": "13ecbb587deb774311f31f25211516147d5b78ad1b24e9749cafaf7bdf062bf8"
     },
     "140.245.30.231": {
       "confidence": 0.75,
@@ -1221,20 +1144,6 @@
       "type": "ip",
       "value": "155.138.208.58"
     },
-    "156.226.175.53": {
-      "confidence": 0.75,
-      "date": "2026-08-20 08:42:00",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "C2 panel identified at 156.226.175.53:8089.",
-      "threat_type": "c2",
-      "tweet_id": "2090358676867711099",
-      "type": "ip",
-      "value": "156.226.175.53"
-    },
     "156.251.11.63": {
       "confidence": 0.88,
       "date": "2026-08-24 02:38:32",
@@ -1282,20 +1191,6 @@
       "tweet_id": "2090804790607454681",
       "type": "ip",
       "value": "157.90.66.142"
-    },
-    "158.101.119.147": {
-      "confidence": 0.8,
-      "date": "2026-08-20 08:52:00",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "PHANTOM C2 dashboard identified at 158.101.119.147:5000.",
-      "threat_type": "c2",
-      "tweet_id": "2090361193609269299",
-      "type": "ip",
-      "value": "158.101.119.147"
     },
     "158.247.255.167": {
       "confidence": 0.75,
@@ -1367,6 +1262,36 @@
       "tweet_id": "2091420387762471182",
       "type": "ip",
       "value": "162.240.233.171"
+    },
+    "162.35.122.140": {
+      "confidence": 0.9,
+      "date": "2026-09-19 08:55:03",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Device code phishing server at 162.35.122.140:5000, confirmed via ANY.RUN sandbox analysis.",
+      "threat_type": "phishing",
+      "tweet_id": "2101233599479758950",
+      "type": "ip",
+      "value": "162.35.122.140"
+    },
+    "162.35.122.140:5000": {
+      "confidence": 0.9,
+      "date": "2026-09-19 08:55:03",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "aitm"
+      ],
+      "summary": "Device code phishing server at 162.35.122.140:5000, confirmed via ANY.RUN sandbox analysis.",
+      "threat_type": "phishing",
+      "tweet_id": "2101233599479758950",
+      "type": "url",
+      "value": "http://162.35.122.140:5000"
     },
     "165.154.241.48": {
       "confidence": 0.95,
@@ -1682,20 +1607,6 @@
       "type": "ip",
       "value": "18.229.174.63"
     },
-    "182.161.66.14": {
-      "confidence": 0.88,
-      "date": "2026-08-20 06:50:03",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Resona Bank phishing site via duckdns.org domain linked to IP 182.161.66.14 (AS205960).",
-      "threat_type": "phishing",
-      "tweet_id": "2090330506919580063",
-      "type": "ip",
-      "value": "182.161.66.14"
-    },
     "182.161.66.236": {
       "confidence": 0.95,
       "date": "2026-09-04 04:22:22",
@@ -1930,20 +1841,6 @@
       "type": "ip",
       "value": "192.185.216.47"
     },
-    "193.141.65.199": {
-      "confidence": 0.88,
-      "date": "2026-08-20 07:34:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE directory traversal exploit observed from 193.141.65.199 targeting /bin/sh, downloading payload from 217.60.195.113.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341799273365521",
-      "type": "ip",
-      "value": "193.141.65.199"
-    },
     "193.203.27.244": {
       "confidence": 0.65,
       "date": "2026-08-24 14:42:24",
@@ -2018,22 +1915,6 @@
       "tweet_id": "2095195309382967660",
       "type": "ip",
       "value": "195.210.46.27"
-    },
-    "196.251.84.11": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:01:17",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "banker"
-      ],
-      "summary": "Balonx Sistema PhaaS campaign targeting Mexican banks using AI and mobile malware; IOCs include spyroid.net and 196.251.84.11.",
-      "threat_type": "phishing",
-      "tweet_id": "2090363532218880234",
-      "type": "url",
-      "value": "http://196.251.84.11"
     },
     "198.251.81.14": {
       "confidence": 0.9,
@@ -2155,22 +2036,6 @@
       "tweet_id": "2098396522652024885",
       "type": "url",
       "value": "http://199.59.150.93"
-    },
-    "1a1ca015a830a357ad5ec882845d732a60368b6c0d8247a009140cd518377f73": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT DLL components msvcp140.dll and vcruntime140_1.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371342298427831",
-      "type": "sha256",
-      "value": "1a1ca015a830a357ad5ec882845d732a60368b6c0d8247a009140cd518377f73"
     },
     "1afdac960243d3c9b888689394148bb0": {
       "confidence": 0.82,
@@ -2324,6 +2189,20 @@
       "type": "sha256",
       "value": "2008cf095265e079d97c690548b5da67c92e403077e835f2e6a99180358af4ab"
     },
+    "201.7.16.43": {
+      "confidence": 0.92,
+      "date": "2026-09-19 06:33:55",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at hero111.online/g/aru6q/web/authen.php on IP 201.7.16.43 in Brazil (AS152565).",
+      "threat_type": "phishing",
+      "tweet_id": "2101198079651094726",
+      "type": "ip",
+      "value": "201.7.16.43"
+    },
     "202.146.222.95": {
       "confidence": 0.92,
       "date": "2026-08-24 03:03:06",
@@ -2454,55 +2333,6 @@
       "tweet_id": "2097007335986045035",
       "type": "ip",
       "value": "203.175.9.165"
-    },
-    "204.194.50.231": {
-      "confidence": 0.88,
-      "date": "2026-08-20 09:32:18",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "ValleyRAT delivered via Japanese-language invoice email with RAR attachment; C2 at 204.194.50.231 on ports 443/449.",
-      "threat_type": "c2",
-      "tweet_id": "2090371337810489699",
-      "type": "ip",
-      "value": "204.194.50.231"
-    },
-    "204.194.50.231:443": {
-      "confidence": 0.92,
-      "date": "2026-08-20 09:32:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "ValleyRAT C2 infrastructure at 204.194.50.231 on ports 449 and 443, delivered via Japanese-language malicious email.",
-      "threat_type": "c2",
-      "tweet_id": "2090371337810489699",
-      "type": "url",
-      "value": "http://204.194.50.231:443"
-    },
-    "204.194.50.231:449": {
-      "confidence": 0.92,
-      "date": "2026-08-20 09:32:18",
-      "enriched_at": "2026-09-04T06:40:04Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware",
-        "trojan"
-      ],
-      "summary": "ValleyRAT distributed via Japanese invoice-themed email with RAR attachment; C2 at 204.194.50.231 on ports 449 and 443.",
-      "threat_type": "c2",
-      "tweet_id": "2090371337810489699",
-      "type": "url",
-      "value": "http://204.194.50.231:449"
     },
     "205.209.125.247": {
       "confidence": 0.75,
@@ -2688,20 +2518,6 @@
       "type": "ip",
       "value": "213.239.243.107"
     },
-    "216.126.227.232": {
-      "confidence": 0.9,
-      "date": "2026-08-20 12:00:54",
-      "enriched_at": "2026-09-19T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft phishing page hosted on a subdomain of kharwadejewellers.com at 216.126.227.232 (AS14956, US).",
-      "threat_type": "phishing",
-      "tweet_id": "2090408734719656119",
-      "type": "ip",
-      "value": "216.126.227.232"
-    },
     "216.126.236.22": {
       "confidence": 0.75,
       "date": "2026-09-17 19:28:44",
@@ -2773,34 +2589,6 @@
       "tweet_id": "2100993656178008506",
       "type": "ip",
       "value": "217.60.103.74"
-    },
-    "217.60.195.113": {
-      "confidence": 0.88,
-      "date": "2026-08-20 07:34:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE directory traversal exploit observed from 193.141.65.199 targeting /bin/sh, downloading payload from 217.60.195.113.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341799273365521",
-      "type": "ip",
-      "value": "217.60.195.113"
-    },
-    "217.60.195.113/sh": {
-      "confidence": 0.88,
-      "date": "2026-08-20 07:34:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE directory traversal exploit observed from 193.141.65.199 targeting /bin/sh, downloading payload from 217.60.195.113.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341799273365521",
-      "type": "url",
-      "value": "https://217.60.195.113/sh"
     },
     "217.60.36.94": {
       "confidence": 0.62,
@@ -2938,118 +2726,6 @@
       "tweet_id": "2099619949513728108",
       "type": "url",
       "value": "http://23.159.248.93"
-    },
-    "23.254.165.112": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "ip",
-      "value": "23.254.165.112"
-    },
-    "23.254.165.112:443/49890878": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "url",
-      "value": "https://23.254.165.112:443/49890878"
-    },
-    "23.254.165.112:9089": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "url",
-      "value": "http://23.254.165.112:9089"
-    },
-    "23.254.165.112:9089/rust-crate_0.1.0": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "url",
-      "value": "https://23.254.165.112:9089/rust-crate_0.1.0"
-    },
-    "23.254.165.112:9089/rust-crate_0.2.0": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "url",
-      "value": "https://23.254.165.112:9089/rust-crate_0.2.0"
-    },
-    "23.254.165.112:9089/rust-crate_0.3.0": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "url",
-      "value": "https://23.254.165.112:9089/rust-crate_0.3.0"
-    },
-    "23.254.165.112:9089/rust-crate_0.4.0": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "url",
-      "value": "https://23.254.165.112:9089/rust-crate_0.4.0"
     },
     "2337d39046d01dc5dbf49f681197c2f52db87bc5557c12acb0b7cee88bc93452": {
       "confidence": 0.92,
@@ -3313,34 +2989,6 @@
       "tweet_id": "2099763397227061291",
       "type": "ip",
       "value": "31.76.30.87"
-    },
-    "31.77.227.102": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:34:01",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting D-Link routers (CVE-2025-29635) from 77.239.124.109, downloading dlink.sh payload from 31.77.227.102.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341569106681904",
-      "type": "ip",
-      "value": "31.77.227.102"
-    },
-    "31.77.227.102/dlink.sh": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:34:01",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting D-Link routers (CVE-2025-29635) from 77.239.124.109, downloading dlink.sh payload from 31.77.227.102.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341569106681904",
-      "type": "url",
-      "value": "http://31.77.227.102/dlink.sh"
     },
     "315ws.net": {
       "confidence": 0.85,
@@ -3693,37 +3341,6 @@
       "tweet_id": "2098858453817291225",
       "type": "sha256",
       "value": "3dccdb228de18152502489a7d1a093982ead8a103546191c6fcfc01cd40e62a6"
-    },
-    "3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a": {
-      "confidence": 0.82,
-      "date": "2026-08-20 12:13:26",
-      "enriched_at": "2026-08-20T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "KillWin loader uses curl to fetch ZIP from GitHub, extracts destructive system-wiper and disabler batch payloads; renames .nurf files to evade detection.",
-      "threat_type": "malware",
-      "tweet_id": "2090411885925736919",
-      "type": "sha256",
-      "value": "3f3cc7d9f714d6aaec33ec87e152c1fb86824d65342957a5ac018708ba37520a"
-    },
-    "408ef22050ffc5a67e005802809026b29f297a8019f8fda91a2afa8e877ba434": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "sha256",
-      "value": "408ef22050ffc5a67e005802809026b29f297a8019f8fda91a2afa8e877ba434"
     },
     "42630ea995230f738f2993b92b20c546": {
       "confidence": 0.9,
@@ -4119,20 +3736,6 @@
       "type": "sha256",
       "value": "4537b1189ce419f1a595cf47216c03f80e9170ce80dad8d9227a1e52f9cb3466"
     },
-    "4569e49b75a4e59bb3b967aa250a37b6": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:35:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting TP-Link Archer AX21 (CVE-2023-1389) from 77.239.124.108 distributing Mirai botnet via shell script.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090342050973516113",
-      "type": "md5",
-      "value": "4569e49b75a4e59bb3b967aa250a37b6"
-    },
     "4594075322ac0c9bd08828f8064aa576": {
       "confidence": 0.82,
       "date": "2026-08-25 07:14:29",
@@ -4178,34 +3781,6 @@
       "tweet_id": "2098534120259203301",
       "type": "url",
       "value": "http://46.226.162.32:8888"
-    },
-    "47.236.136.61": {
-      "confidence": 0.92,
-      "date": "2026-08-20 06:41:04",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Amazon Japan phishing campaign using domain aikt888.com hosted at 47.236.136.61 (AS45102).",
-      "threat_type": "phishing",
-      "tweet_id": "2090328242783957086",
-      "type": "url",
-      "value": "http://47.236.136.61"
-    },
-    "47.239.123.54": {
-      "confidence": 0.75,
-      "date": "2026-08-20 09:30:00",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "OMGElite C2 panel detected at 47.239.123.54:8080, associated with malicious USB campaign.",
-      "threat_type": "c2",
-      "tweet_id": "2090370756450697249",
-      "type": "ip",
-      "value": "47.239.123.54"
     },
     "47.243.155.133": {
       "confidence": 0.9,
@@ -4392,22 +3967,6 @@
       "type": "sha256",
       "value": "49000d685f7c2ae1ddd5d40ca754562318e49c3a2534540951490f22756a3227"
     },
-    "492f2ab86f8d8911adc79c10ec1541704f5311d207d9d799b0d2a57fcc6a4391": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "sha256",
-      "value": "492f2ab86f8d8911adc79c10ec1541704f5311d207d9d799b0d2a57fcc6a4391"
-    },
     "495f135eb5c08ad6fbe0927505c30e7f3465d816c48d0ce0e42483112004880a": {
       "confidence": 0.3,
       "date": "2026-08-21 22:52:02",
@@ -4486,21 +4045,6 @@
       "tweet_id": "2100800190135611543",
       "type": "sha256",
       "value": "4f4490bbc90e248043af8db5c3874b6ab52440edf507c5939dac3e07e8e63cd9"
-    },
-    "4f5fbc8964d2da458ad17dff24548bdb": {
-      "confidence": 0.6,
-      "date": "2026-08-20 10:56:10",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "MD5 hash for SWILL RAT sample shared as IOC.",
-      "threat_type": "malware",
-      "tweet_id": "2090392441098842398",
-      "type": "md5",
-      "value": "4f5fbc8964d2da458ad17dff24548bdb"
     },
     "5.135.193.194": {
       "confidence": 0.9,
@@ -4656,20 +4200,6 @@
       "tweet_id": "2092109492695491017",
       "type": "domain",
       "value": "52wot.com"
-    },
-    "53a4e54f23228c129e2f3d6f34ac457878e49ed2bb5ac13f05c10a55693d2dd8": {
-      "confidence": 0.65,
-      "date": "2026-08-20 09:11:11",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MD5 hashes for malicious executable INT-Number.20260820103834.exe and DLL hdp.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090366023988133974",
-      "type": "sha256",
-      "value": "53a4e54f23228c129e2f3d6f34ac457878e49ed2bb5ac13f05c10a55693d2dd8"
     },
     "54.210.202.78": {
       "confidence": 0.65,
@@ -4956,22 +4486,6 @@
       "type": "sha256",
       "value": "60c06e0fa4449314da3a0a87c1a9d9577df99226f943637e06f61188e5862efa"
     },
-    "61198155da51b838772eecf5bfaac6cbc4dcc388dccc56658fc28a8e831b34d4": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "sha256",
-      "value": "61198155da51b838772eecf5bfaac6cbc4dcc388dccc56658fc28a8e831b34d4"
-    },
     "62.146.232.72": {
       "confidence": 0.8,
       "date": "2026-09-10 15:17:21",
@@ -5002,21 +4516,6 @@
       "tweet_id": "2091531911449493728",
       "type": "url",
       "value": "http://62.171.167.73"
-    },
-    "62.210.172.147": {
-      "confidence": 0.85,
-      "date": "2026-08-20 07:01:17",
-      "enriched_at": "2026-09-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Ledger cryptocurrency wallet phishing site at auth-ledgrelive-net.wasmer.app hosted on Scaleway (AS12876), France; IP 62.210.172.147.",
-      "threat_type": "phishing",
-      "tweet_id": "2090333329971183699",
-      "type": "ip",
-      "value": "62.210.172.147"
     },
     "62.60.227.68": {
       "confidence": 0.95,
@@ -5183,20 +4682,6 @@
       "type": "ip",
       "value": "67.215.232.25"
     },
-    "67.217.228.244": {
-      "confidence": 0.7,
-      "date": "2026-08-20 09:33:00",
-      "enriched_at": "2026-08-28T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP 67.217.228.244 port 8443 identified as a C2 panel.",
-      "threat_type": "c2",
-      "tweet_id": "2090371511651606920",
-      "type": "ip",
-      "value": "67.217.228.244"
-    },
     "68.178.238.223": {
       "confidence": 0.95,
       "date": "2026-09-14 07:01:53",
@@ -5285,20 +4770,6 @@
       "tweet_id": "2091906018770931770",
       "type": "md5",
       "value": "6bd47e9c02827b252fb721122da14dc5"
-    },
-    "6c49d14c0edfd2acfd8ea90305c302ef": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:34:01",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting D-Link routers (CVE-2025-29635) from 77.239.124.109, downloading dlink.sh payload from 31.77.227.102.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341569106681904",
-      "type": "md5",
-      "value": "6c49d14c0edfd2acfd8ea90305c302ef"
     },
     "6cdf04b4cc459bebf1ac78e54997e242ee41aaecdd7f61e705987c47c2a33c9e": {
       "confidence": 0.88,
@@ -5445,6 +4916,20 @@
       "type": "sha256",
       "value": "73991ef1817030b16209ad160065d5283dff38963b7aee2aaeeddb15eff84bca"
     },
+    "74.115.51.5": {
+      "confidence": 0.97,
+      "date": "2026-09-19 12:01:29",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Xfinity (Comcast) phishing page hosted on xfinity-updateform.square.site via Weebly (AS27647, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2101280515982508109",
+      "type": "ip",
+      "value": "74.115.51.5"
+    },
     "74.179.80.31": {
       "confidence": 0.95,
       "date": "2026-08-26 07:00:56",
@@ -5507,22 +4992,6 @@
       "tweet_id": "2091792215261757850",
       "type": "sha256",
       "value": "7441c8aef0fc20a5d4feb31c7167df6bc63c64767528802b1377591d90d24282"
-    },
-    "74d3447e7cf99c99ea01a16332ec27432dfb0f491e10e67cd118065a60483306": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "sha256",
-      "value": "74d3447e7cf99c99ea01a16332ec27432dfb0f491e10e67cd118065a60483306"
     },
     "74f92110966d46b49dab95189364618795e12e8895f0246e37e7e7b8f67346cf": {
       "confidence": 0.87,
@@ -5602,48 +5071,6 @@
       "tweet_id": "2092246118109499772",
       "type": "md5",
       "value": "75cf5b7282924207d505260a2ac1d496"
-    },
-    "77.239.124.108": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:35:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting TP-Link Archer AX21 (CVE-2023-1389) from 77.239.124.108 distributing Mirai botnet via shell script.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090342050973516113",
-      "type": "ip",
-      "value": "77.239.124.108"
-    },
-    "77.239.124.108/atomic/atomic.sh": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:35:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting TP-Link Archer AX21 (CVE-2023-1389) from 77.239.124.108 distributing Mirai botnet via shell script.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090342050973516113",
-      "type": "url",
-      "value": "http://77.239.124.108/atomic/atomic.sh"
-    },
-    "77.239.124.109": {
-      "confidence": 0.92,
-      "date": "2026-08-20 07:34:01",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE exploit targeting D-Link routers (CVE-2025-29635) from 77.239.124.109, downloading dlink.sh payload from 31.77.227.102.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341569106681904",
-      "type": "ip",
-      "value": "77.239.124.109"
     },
     "79.98.28.8": {
       "confidence": 0.85,
@@ -5846,21 +5273,6 @@
       "tweet_id": "2091722747470872799",
       "type": "sha256",
       "value": "810e53107d0c6ced27f5f957d30981f5640c62b930bf4e30c9028b73b06c5cca"
-    },
-    "82.117.243.163": {
-      "confidence": 0.75,
-      "date": "2026-08-20 07:11:34",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "cryptoscam"
-      ],
-      "summary": "CHIMERA C2 panels at 132.243.221.136 and 82.117.243.163 with associated domains domain-privacy.group and stake-app-au.org.",
-      "threat_type": "c2",
-      "tweet_id": "2090335918368690279",
-      "type": "ip",
-      "value": "82.117.243.163"
     },
     "82.165.110.163": {
       "confidence": 0.95,
@@ -6188,22 +5600,6 @@
       "type": "sha256",
       "value": "8c32356e59a9023a36b8c1be621c8788f22ff4c5e94f71a76d59c01b9976f35b"
     },
-    "8ed7d2d62d283a7701213e7a07191ebf5ab4d4862a0272b6ecda1209f6e0b93a": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "sha256",
-      "value": "8ed7d2d62d283a7701213e7a07191ebf5ab4d4862a0272b6ecda1209f6e0b93a"
-    },
     "8f6de985ba77ec0c5449db53dda9674a": {
       "confidence": 0.85,
       "date": "2026-09-10 09:33:53",
@@ -6218,20 +5614,6 @@
       "tweet_id": "2097981881346318827",
       "type": "md5",
       "value": "8f6de985ba77ec0c5449db53dda9674a"
-    },
-    "9033f5bed49269403341abcfbd8244eb": {
-      "confidence": 0.65,
-      "date": "2026-08-20 09:11:11",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MD5 hashes for malicious executable INT-Number.20260820103834.exe and DLL hdp.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090366023988133974",
-      "type": "md5",
-      "value": "9033f5bed49269403341abcfbd8244eb"
     },
     "91.193.7.186": {
       "confidence": 0.9,
@@ -6374,22 +5756,6 @@
       "type": "ip",
       "value": "95.85.236.244"
     },
-    "98aea63f7c88d733504c08b165fd68a917e256f2cfaeaa742323ef6dddbbce29": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT loader components Loader.exe and VCRUNTIME140.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371340176146695",
-      "type": "sha256",
-      "value": "98aea63f7c88d733504c08b165fd68a917e256f2cfaeaa742323ef6dddbbce29"
-    },
     "99e38a83c5cc8bd5aa6bcb60f5ab58936835873f6f0df3aa00e2598530d499f1": {
       "confidence": 0.8,
       "date": "2026-09-12 16:02:43",
@@ -6405,20 +5771,6 @@
       "tweet_id": "2098804510319943754",
       "type": "sha256",
       "value": "99e38a83c5cc8bd5aa6bcb60f5ab58936835873f6f0df3aa00e2598530d499f1"
-    },
-    "9b50be2ac11fb44e80a0efd76c2c385b": {
-      "confidence": 0.65,
-      "date": "2026-08-20 09:11:11",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MD5 hashes for malicious executable INT-Number.20260820103834.exe and DLL hdp.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090366023988133974",
-      "type": "md5",
-      "value": "9b50be2ac11fb44e80a0efd76c2c385b"
     },
     "9c6dbbe1985ffd3ea289153199a46bef92a77bbd030a00292424bc7c631f8258": {
       "confidence": 0.85,
@@ -7106,34 +6458,6 @@
       "tweet_id": "2100143481482022925",
       "type": "domain",
       "value": "ahrefs.report"
-    },
-    "aikt888.com": {
-      "confidence": 0.92,
-      "date": "2026-08-20 06:41:04",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Amazon Japan phishing campaign using domain aikt888.com hosted at 47.236.136.61 (AS45102).",
-      "threat_type": "phishing",
-      "tweet_id": "2090328242783957086",
-      "type": "domain",
-      "value": "aikt888.com"
-    },
-    "aikt888.com/am2az-0nco-jp-jp": {
-      "confidence": 0.92,
-      "date": "2026-08-20 06:41:04",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Amazon Japan phishing campaign using domain aikt888.com hosted at 47.236.136.61 (AS45102).",
-      "threat_type": "phishing",
-      "tweet_id": "2090328242783957086",
-      "type": "url",
-      "value": "https://aikt888.com/Am2az-0ncO-jp-jp/"
     },
     "airramp.report": {
       "confidence": 0.85,
@@ -7857,6 +7181,20 @@
       "type": "domain",
       "value": "atimaterials.report"
     },
+    "atomicmail.io": {
+      "confidence": 0.85,
+      "date": "2026-09-19 07:02:24",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "New ransomware group 'Endzone' identified with Tor leak site; contact via endzone4@atomicmail.io.",
+      "threat_type": "ransomware",
+      "tweet_id": "2101205250082586733",
+      "type": "domain",
+      "value": "atomicmail.io"
+    },
     "atyv788.club": {
       "confidence": 0.88,
       "date": "2026-08-24 02:50:28",
@@ -7872,21 +7210,6 @@
       "tweet_id": "2091719761684041947",
       "type": "domain",
       "value": "atyv788.club"
-    },
-    "auth-ledgrelive-net.wasmer.app": {
-      "confidence": 0.95,
-      "date": "2026-08-20 07:01:17",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "cryptoscam"
-      ],
-      "summary": "Ledger cryptocurrency wallet phishing page at auth-ledgrelive-net.wasmer.app hosted on Scaleway infrastructure in France.",
-      "threat_type": "phishing",
-      "tweet_id": "2090333329971183699",
-      "type": "domain",
-      "value": "auth-ledgrelive-net.wasmer.app"
     },
     "autodata.report": {
       "confidence": 0.85,
@@ -8074,22 +7397,6 @@
       "tweet_id": "2097197880650162260",
       "type": "md5",
       "value": "b490a223f931af6efe4be92dfdef4622"
-    },
-    "b5400f8454276f1adf944d8ba393866ca423603254baf88bca7dc4c1cf762116": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT DLL components msvcp140.dll and vcruntime140_1.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371342298427831",
-      "type": "sha256",
-      "value": "b5400f8454276f1adf944d8ba393866ca423603254baf88bca7dc4c1cf762116"
     },
     "b81368d65468c68b965aa8d05d8d4066": {
       "confidence": 0.85,
@@ -8892,22 +8199,6 @@
       "type": "domain",
       "value": "budgetweddingplanner.info"
     },
-    "build.rs": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "domain",
-      "value": "build.rs"
-    },
     "bulwasandburg-jprakutansui-copoint.com": {
       "confidence": 0.85,
       "date": "2026-09-15 03:15:24",
@@ -9071,22 +8362,6 @@
       "tweet_id": "2091716762219786366",
       "type": "md5",
       "value": "c92d3d255e4e0cc98410b1bbffa80416"
-    },
-    "c9561a3b00a0fa38b7772675d987f84bd429c55cd024fc08a98245c2d1632848": {
-      "confidence": 0.95,
-      "date": "2026-08-20 08:50:18",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "stealer",
-        "c2"
-      ],
-      "summary": "Malicious Rust crates proc-macro1 and proc-macro-en execute multi-platform payloads from 23.254.165.112; Windows payload is a PowerShell backdoor with DGA-based C2 stealing browser credentials.",
-      "threat_type": "malware",
-      "tweet_id": "2090360765156818965",
-      "type": "sha256",
-      "value": "c9561a3b00a0fa38b7772675d987f84bd429c55cd024fc08a98245c2d1632848"
     },
     "c9d13712cc16215185e68bc30da05f65": {
       "confidence": 0.7,
@@ -9597,22 +8872,6 @@
       "tweet_id": "2090935126524150099",
       "type": "sha256",
       "value": "cc39b696d0424219fa18f3d5c2964146f35d4e7bb886768d0d889f761f0cd568"
-    },
-    "cdf7a0cc26ed6b4136ce69b74d8694ed": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT DLL components msvcp140.dll and vcruntime140_1.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371342298427831",
-      "type": "md5",
-      "value": "cdf7a0cc26ed6b4136ce69b74d8694ed"
     },
     "cdfloq.cfd": {
       "confidence": 0.92,
@@ -10392,36 +9651,6 @@
       "type": "sha256",
       "value": "d01d4a086d19d7be96383aeea7538dfbf364510354d997645e6f8ec11454c50b"
     },
-    "d0cf38716e43563331c02cf645ecd993": {
-      "confidence": 0.88,
-      "date": "2026-08-20 07:34:56",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "RCE directory traversal exploit observed from 193.141.65.199 targeting /bin/sh, downloading payload from 217.60.195.113.",
-      "threat_type": "vulnerability",
-      "tweet_id": "2090341799273365521",
-      "type": "md5",
-      "value": "d0cf38716e43563331c02cf645ecd993"
-    },
-    "d59f36ddcc7460bf5bcd9fde274982bb": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT loader components Loader.exe and VCRUNTIME140.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371340176146695",
-      "type": "md5",
-      "value": "d59f36ddcc7460bf5bcd9fde274982bb"
-    },
     "d5deec0ee2aa398f296b79e6da0a5d80": {
       "confidence": 0.85,
       "date": "2026-09-15 07:46:18",
@@ -10486,22 +9715,6 @@
       "tweet_id": "2090864360738677070",
       "type": "md5",
       "value": "d803f9945509d0eaf4d9b31b46abc199"
-    },
-    "d811ef2ab64af8d6644214724dd4f19f": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:32:19",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": "ValleyRAT",
-      "suggested_tags": [
-        "malware",
-        "trojan",
-        "rat"
-      ],
-      "summary": "MD5 hashes for ValleyRAT loader components Loader.exe and VCRUNTIME140.dll shared as IOCs.",
-      "threat_type": "malware",
-      "tweet_id": "2090371340176146695",
-      "type": "md5",
-      "value": "d811ef2ab64af8d6644214724dd4f19f"
     },
     "d86f647f3dfa6a53de7b531cb590636331f83afcea60d4b3d44de5ea3b7d33af": {
       "confidence": 0.95,
@@ -10661,20 +9874,6 @@
       "tweet_id": "2092109492695491017",
       "type": "domain",
       "value": "dbuh.55og.wolkamo.com"
-    },
-    "dc2c5491afdc25a2a5588c2ba2d1f054b0e2bdf4c925304fa0825f25f9d57dc8": {
-      "confidence": 0.75,
-      "date": "2026-08-20 09:00:25",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "CameraSwarm operation compromises over 14,500 Dahua IP cameras; SHA256 hash of associated payload shared as IOC.",
-      "threat_type": "malware",
-      "tweet_id": "2090363312466722885",
-      "type": "sha256",
-      "value": "dc2c5491afdc25a2a5588c2ba2d1f054b0e2bdf4c925304fa0825f25f9d57dc8"
     },
     "dc6bf7339f6680086a09d5ad905d8786": {
       "confidence": 0.92,
@@ -11774,20 +10973,6 @@
       "type": "sha256",
       "value": "e8bcc50bb4e0b1b1a31e06ec2646efb087e1db006f47df9326ac3fb1f5107a44"
     },
-    "e9c086c4309a3b60ad80b3ce8fe53a8bb8a171c5b6eb8da9f19c3eb316fb7cf7": {
-      "confidence": 0.3,
-      "date": "2026-08-20 08:29:24",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "SHA256 hash shared as IOC with no additional context.",
-      "threat_type": "other",
-      "tweet_id": "2090355505973563838",
-      "type": "sha256",
-      "value": "e9c086c4309a3b60ad80b3ce8fe53a8bb8a171c5b6eb8da9f19c3eb316fb7cf7"
-    },
     "eampengencangpayudara.info": {
       "confidence": 0.95,
       "date": "2026-09-06 22:11:55",
@@ -12041,6 +11226,20 @@
       "type": "domain",
       "value": "emirates-report.com"
     },
+    "endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion": {
+      "confidence": 0.85,
+      "date": "2026-09-19 07:02:24",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "New ransomware group 'Endzone' identified with Tor leak site; contact via endzone4@atomicmail.io.",
+      "threat_type": "ransomware",
+      "tweet_id": "2101205250082586733",
+      "type": "domain",
+      "value": "endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion"
+    },
     "ent34ndx3cz8k.x.pipedream.net": {
       "confidence": 0.88,
       "date": "2026-08-21 12:23:16",
@@ -12086,6 +11285,20 @@
       "tweet_id": "2097527919161520309",
       "type": "domain",
       "value": "eprotect360.com"
+    },
+    "equitygrandview.com": {
+      "confidence": 0.87,
+      "date": "2026-09-19 07:14:25",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake required-action loan email from treasurymoneybase.info redirecting to 16-day-old equitygrandview.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2101208272380584426",
+      "type": "domain",
+      "value": "equitygrandview.com"
     },
     "etax-olimw.com": {
       "confidence": 0.88,
@@ -12487,21 +11700,6 @@
       "tweet_id": "2099651288984436985",
       "type": "sha256",
       "value": "f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e"
-    },
-    "f773c8ab32122ebb49962ad16a333bacd8e3ceb38435e2a22159cad66fb0af7a": {
-      "confidence": 0.75,
-      "date": "2026-08-20 07:11:34",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "cryptoscam"
-      ],
-      "summary": "CHIMERA C2 panels at 132.243.221.136 and 82.117.243.163 with associated domains domain-privacy.group and stake-app-au.org.",
-      "threat_type": "c2",
-      "tweet_id": "2090335918368690279",
-      "type": "sha256",
-      "value": "f773c8ab32122ebb49962ad16a333bacd8e3ceb38435e2a22159cad66fb0af7a"
     },
     "f9c590f708b3d6f77940eadef0e92b1c": {
       "confidence": 0.8,
@@ -13423,21 +12621,6 @@
       "type": "url",
       "value": "https://github.com/t1-317"
     },
-    "github.com/thompog/d/raw/refs/heads/main/japper.zip": {
-      "confidence": 0.82,
-      "date": "2026-08-20 12:13:26",
-      "enriched_at": "2026-08-20T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "KillWin loader uses curl to fetch ZIP from GitHub, extracts destructive system-wiper and disabler batch payloads; renames .nurf files to evade detection.",
-      "threat_type": "malware",
-      "tweet_id": "2090411885925736919",
-      "type": "url",
-      "value": "https://github.com/thompog/d/raw/refs/heads/main/japper.zip"
-    },
     "github.com/up-6626": {
       "confidence": 0.85,
       "date": "2026-08-24 13:31:03",
@@ -14003,6 +13186,34 @@
       "type": "domain",
       "value": "hcahealthcare.report"
     },
+    "healthassistcarepro.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 07:11:10",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake TOTAL Drive offer email from healthassistcarepro.com linking to healthprimeflow.com with unauthorized branding.",
+      "threat_type": "phishing",
+      "tweet_id": "2101207456357679495",
+      "type": "domain",
+      "value": "healthassistcarepro.com"
+    },
+    "healthprimeflow.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 07:11:10",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake TOTAL Drive offer email from healthassistcarepro.com linking to healthprimeflow.com with unauthorized branding.",
+      "threat_type": "phishing",
+      "tweet_id": "2101207456357679495",
+      "type": "domain",
+      "value": "healthprimeflow.com"
+    },
     "heavenrock.pk": {
       "confidence": 0.92,
       "date": "2026-09-17 04:25:08",
@@ -14074,6 +13285,34 @@
       "tweet_id": "2091923878905782652",
       "type": "url",
       "value": "http://help.cbspokane.com/shared/email/blast/clickthru.php?hash=31fd96eb72300ac8010a9f493cac818a&returnpage=%2F%2Fgmas34.ju.mpgmas34.ju.mp"
+    },
+    "hero111.online": {
+      "confidence": 0.92,
+      "date": "2026-09-19 06:33:55",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at hero111.online/g/aru6q/web/authen.php on IP 201.7.16.43 in Brazil (AS152565).",
+      "threat_type": "phishing",
+      "tweet_id": "2101198079651094726",
+      "type": "domain",
+      "value": "hero111.online"
+    },
+    "hero111.online/g/aru6q/web/authen.php": {
+      "confidence": 0.92,
+      "date": "2026-09-19 06:33:55",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page at hero111.online/g/aru6q/web/authen.php on IP 201.7.16.43 in Brazil (AS152565).",
+      "threat_type": "phishing",
+      "tweet_id": "2101198079651094726",
+      "type": "url",
+      "value": "https://hero111.online/g/aru6q/web/authen.php"
     },
     "herzab.com": {
       "confidence": 0.88,
@@ -14301,20 +13540,6 @@
       "tweet_id": "2093533379195244819",
       "type": "domain",
       "value": "horizonpeak.shop"
-    },
-    "hotmail-session-twmgxsyd-4hleuexj1-----z5imb2ponk.kharwadejewellers.com": {
-      "confidence": 0.97,
-      "date": "2026-08-20 12:00:54",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft Hotmail phishing page hosted on compromised jeweller domain kharwadejewellers.com, served from RouterHosting AS14956 in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2090408734719656119",
-      "type": "domain",
-      "value": "hotmail-session-twmgxsyd-4hleuexj1-----z5imb2ponk.kharwadejewellers.com"
     },
     "houseofironinc.com": {
       "confidence": 0.95,
@@ -15945,20 +15170,6 @@
       "type": "domain",
       "value": "liveryfunky.org"
     },
-    "lixsjsd.duckdns.org": {
-      "confidence": 0.8,
-      "date": "2026-08-20 06:50:03",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected Resona Bank Japanese phishing site detected at lixsjsd.duckdns.org resolving to 182.161.66.14.",
-      "threat_type": "phishing",
-      "tweet_id": "2090330506919580063",
-      "type": "domain",
-      "value": "lixsjsd.duckdns.org"
-    },
     "ljdnxz.cc": {
       "confidence": 0.88,
       "date": "2026-08-24 01:43:15",
@@ -16480,22 +15691,6 @@
       "tweet_id": "2092109492695491017",
       "type": "domain",
       "value": "mail.loosun.net"
-    },
-    "mail.upgoogle.com": {
-      "confidence": 0.7,
-      "date": "2026-08-20 09:30:48",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "c2"
-      ],
-      "summary": "Security demo of AI-assisted malware analysis; sample uses typosquatting domain mail.upgoogle.com as C2 on port 80, registered as a service.",
-      "threat_type": "malware",
-      "tweet_id": "2090370956959080903",
-      "type": "domain",
-      "value": "mail.upgoogle.com"
     },
     "makeverizyiar.info": {
       "confidence": 0.93,
@@ -19269,34 +18464,6 @@
       "type": "domain",
       "value": "quantum-forgex.com"
     },
-    "quartfication.wmsrdj.cn": {
-      "confidence": 0.85,
-      "date": "2026-08-20 12:31:13",
-      "enriched_at": "2026-08-20T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a Japanese season card brand at quartfication.wmsrdj.cn.",
-      "threat_type": "phishing",
-      "tweet_id": "2090416362359570899",
-      "type": "domain",
-      "value": "quartfication.wmsrdj.cn"
-    },
-    "quartfication.wmsrdj.cn/ed9490/index": {
-      "confidence": 0.85,
-      "date": "2026-08-20 12:31:13",
-      "enriched_at": "2026-08-20T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating a Japanese season card brand at quartfication.wmsrdj.cn.",
-      "threat_type": "phishing",
-      "tweet_id": "2090416362359570899",
-      "type": "url",
-      "value": "https://quartfication.wmsrdj.cn/eD9490/index"
-    },
     "quest-22.com": {
       "confidence": 0.95,
       "date": "2026-08-22 09:47:08",
@@ -19691,21 +18858,6 @@
       "tweet_id": "2091793322151194975",
       "type": "domain",
       "value": "raster-80.com"
-    },
-    "raw.githubusercontent.com/thompog/d/refs/heads/main/japper.zip": {
-      "confidence": 0.82,
-      "date": "2026-08-20 12:13:26",
-      "enriched_at": "2026-08-20T18:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "KillWin loader uses curl to fetch ZIP from GitHub, extracts destructive system-wiper and disabler batch payloads; renames .nurf files to evade detection.",
-      "threat_type": "malware",
-      "tweet_id": "2090411885925736919",
-      "type": "url",
-      "value": "https://raw.githubusercontent.com/thompog/d/refs/heads/main/japper.zip"
     },
     "rb-cloud.cc": {
       "confidence": 0.85,
@@ -22168,22 +21320,6 @@
       "type": "domain",
       "value": "spotify-anniversary30th.com"
     },
-    "spyroid.net": {
-      "confidence": 0.85,
-      "date": "2026-08-20 09:01:17",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "android",
-        "banker"
-      ],
-      "summary": "Balonx Sistema PhaaS campaign targeting Mexican banks using AI and mobile malware; IOCs include spyroid.net and 196.251.84.11.",
-      "threat_type": "phishing",
-      "tweet_id": "2090363532218880234",
-      "type": "domain",
-      "value": "spyroid.net"
-    },
     "sqllq.com": {
       "confidence": 0.82,
       "date": "2026-09-08 12:33:01",
@@ -23273,6 +22409,20 @@
       "type": "domain",
       "value": "transmitraisin.com"
     },
+    "treasurymoneybase.info": {
+      "confidence": 0.87,
+      "date": "2026-09-19 07:14:25",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake required-action loan email from treasurymoneybase.info redirecting to 16-day-old equitygrandview.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2101208272380584426",
+      "type": "domain",
+      "value": "treasurymoneybase.info"
+    },
     "trendyvoguedesigns.com": {
       "confidence": 0.95,
       "date": "2026-09-02 04:06:26",
@@ -23697,21 +22847,6 @@
       "tweet_id": "2095028822936875038",
       "type": "url",
       "value": "https://ukiona.asia/qBGqJRtB/"
-    },
-    "ultraspeed.pro": {
-      "confidence": 0.9,
-      "date": "2026-08-20 09:44:02",
-      "enriched_at": "2026-08-20T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised site ultraspeed.pro used in ClickFix malware distribution campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2090374287777800497",
-      "type": "domain",
-      "value": "ultraspeed.pro"
     },
     "uniabjpoliticalsciencejournals.com.ng": {
       "confidence": 0.82,
@@ -25069,6 +24204,34 @@
       "type": "domain",
       "value": "www-finance-gov-pk.fetchdrives.info"
     },
+    "www-robloxk.com": {
+      "confidence": 0.97,
+      "date": "2026-09-19 07:01:39",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roblox credential phishing at www-robloxk.com/login registered 2026-09-07, proxied via Cloudflare (AS13335).",
+      "threat_type": "phishing",
+      "tweet_id": "2101205061028176339",
+      "type": "domain",
+      "value": "www-robloxk.com"
+    },
+    "www-robloxk.com/login?returlurl=1445876836": {
+      "confidence": 0.97,
+      "date": "2026-09-19 07:01:39",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Roblox credential phishing at www-robloxk.com/login registered 2026-09-07, proxied via Cloudflare (AS13335).",
+      "threat_type": "phishing",
+      "tweet_id": "2101205061028176339",
+      "type": "url",
+      "value": "http://www-robloxk.com/login?returlUrl=1445876836"
+    },
     "www.casaiutilidade.shop": {
       "confidence": 0.95,
       "date": "2026-09-01 14:47:46",
@@ -25439,6 +24602,20 @@
       "tweet_id": "2092499283169984670",
       "type": "url",
       "value": "https://www.yonghaodianqi.com/gIwKKHvc/"
+    },
+    "xfinity-updateform.square.site": {
+      "confidence": 0.97,
+      "date": "2026-09-19 12:01:29",
+      "enriched_at": "2026-09-19T12:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Xfinity (Comcast) phishing page hosted on xfinity-updateform.square.site via Weebly (AS27647, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2101280515982508109",
+      "type": "domain",
+      "value": "xfinity-updateform.square.site"
     },
     "xfinity101.duckdns.org": {
       "confidence": 0.95,
@@ -26135,6 +25312,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-19T06:40:04Z",
+  "generated_at": "2026-09-19T12:40:03Z",
   "window_days": 30
 }
