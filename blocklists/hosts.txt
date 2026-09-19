@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 984
-# Updated: 2026-09-19T05:00:19Z
+# Entries: 987
+# Updated: 2026-09-19T05:15:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -588,6 +588,7 @@
 0.0.0.0 pinkfriend.top
 0.0.0.0 pirloz.com
 0.0.0.0 piwuaskdas.com
+0.0.0.0 pixeldrain.com
 0.0.0.0 pk.fetchdrives.info
 0.0.0.0 play.softcube.fr
 0.0.0.0 plugandplay.co.id
@@ -991,5 +992,7 @@
 0.0.0.0 zledu-sx.oss-cn-beijing.aliyuncs.com
 0.0.0.0 zone-data-95529d585562.rentalescpade.workers.dev
 0.0.0.0 zoomeventlive.com
+0.0.0.0 zoominviite.pages.dev
+0.0.0.0 zoominvite06-efq.pages.dev
 0.0.0.0 zuodx.com
 0.0.0.0 zzoom.pages.dev

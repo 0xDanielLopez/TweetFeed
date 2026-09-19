@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 984
-; Updated: 2026-09-19T05:00:19Z
+; Entries: 987
+; Updated: 2026-09-19T05:15:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789794019 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789794916 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1172,6 +1172,8 @@ pirloz.com CNAME .
 *.pirloz.com CNAME .
 piwuaskdas.com CNAME .
 *.piwuaskdas.com CNAME .
+pixeldrain.com CNAME .
+*.pixeldrain.com CNAME .
 pk.fetchdrives.info CNAME .
 *.pk.fetchdrives.info CNAME .
 play.softcube.fr CNAME .
@@ -1978,6 +1980,10 @@ zone-data-95529d585562.rentalescpade.workers.dev CNAME .
 *.zone-data-95529d585562.rentalescpade.workers.dev CNAME .
 zoomeventlive.com CNAME .
 *.zoomeventlive.com CNAME .
+zoominviite.pages.dev CNAME .
+*.zoominviite.pages.dev CNAME .
+zoominvite06-efq.pages.dev CNAME .
+*.zoominvite06-efq.pages.dev CNAME .
 zuodx.com CNAME .
 *.zuodx.com CNAME .
 zzoom.pages.dev CNAME .

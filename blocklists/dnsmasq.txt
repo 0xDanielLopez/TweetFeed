@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 984
-# Updated: 2026-09-19T05:00:19Z
+# Entries: 987
+# Updated: 2026-09-19T05:15:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -588,6 +588,7 @@ address=/pinebridgedigital.shop/0.0.0.0
 address=/pinkfriend.top/0.0.0.0
 address=/pirloz.com/0.0.0.0
 address=/piwuaskdas.com/0.0.0.0
+address=/pixeldrain.com/0.0.0.0
 address=/pk.fetchdrives.info/0.0.0.0
 address=/play.softcube.fr/0.0.0.0
 address=/plugandplay.co.id/0.0.0.0
@@ -991,5 +992,7 @@ address=/zjcounty.com/0.0.0.0
 address=/zledu-sx.oss-cn-beijing.aliyuncs.com/0.0.0.0
 address=/zone-data-95529d585562.rentalescpade.workers.dev/0.0.0.0
 address=/zoomeventlive.com/0.0.0.0
+address=/zoominviite.pages.dev/0.0.0.0
+address=/zoominvite06-efq.pages.dev/0.0.0.0
 address=/zuodx.com/0.0.0.0
 address=/zzoom.pages.dev/0.0.0.0
