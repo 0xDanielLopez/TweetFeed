@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 978
-; Updated: 2026-09-19T01:00:18Z
+; Entries: 979
+; Updated: 2026-09-19T01:30:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789779618 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789781419 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -196,6 +196,8 @@ bbcnews04.dothome.co.kr CNAME .
 *.bbcnews04.dothome.co.kr CNAME .
 bbrii.oss-ap-southeast-1.aliyuncs.com CNAME .
 *.bbrii.oss-ap-southeast-1.aliyuncs.com CNAME .
+beglnr.cfd CNAME .
+*.beglnr.cfd CNAME .
 beliobeam.com CNAME .
 *.beliobeam.com CNAME .
 belynooecho.com CNAME .
