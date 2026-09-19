@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @G60930953</title>
+      <link>https://x.com/G60930953</link>
+      <description>IOCs shared by @G60930953 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @G60930953</title>
+         <link>https://x.com/G60930953</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/g60930953.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 19 Sep 2026 00:00:26 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | sha256 | #APT
+Value: a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>185.235.137.35</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | ip | #APT
+Value: 185.235.137.35
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">185.235.137.35</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>http://185.235.137.35:9000</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | url | #APT
+Value: http://185.235.137.35:9000
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">http://185.235.137.35:9000</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - sha256 IOC feed</title>
+      <link>https://tweetfeed.live/malicious-hashes-sha256/</link>
+      <description>Real-time sha256 IOCs shared by the infosec community on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - sha256 IOC feed</title>
+         <link>https://tweetfeed.live/malicious-hashes-sha256/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/type/sha256.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 19 Sep 2026 00:00:26 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>1b15f4c8e63cd94ee067c2de51977cdfb0ae3289daec2014d0a461ac877d62f7</title>
+         <link>https://x.com/masaomi346/status/2100850697059373410</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: 1b15f4c8e63cd94ee067c2de51977cdfb0ae3289daec2014d0a461ac877d62f7
+Tweet: https://x.com/masaomi346/status/2100850697059373410</description>
+         <guid isPermaLink="false">1b15f4c8e63cd94ee067c2de51977cdfb0ae3289daec2014d0a461ac877d62f7</guid>
+         <pubDate>Fri, 18 Sep 2026 07:33:32 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>4f4490bbc90e248043af8db5c3874b6ab52440edf507c5939dac3e07e8e63cd9</title>
+         <link>https://x.com/patialavii/status/2100800190135611543</link>
+         <description>@patialavii | sha256 | #phishing
+Value: 4f4490bbc90e248043af8db5c3874b6ab52440edf507c5939dac3e07e8e63cd9
+Tweet: https://x.com/patialavii/status/2100800190135611543</description>
+         <guid isPermaLink="false">4f4490bbc90e248043af8db5c3874b6ab52440edf507c5939dac3e07e8e63cd9</guid>
+         <pubDate>Fri, 18 Sep 2026 04:12:50 +0000</pubDate>
+         <category>sha256</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | sha256 | #APT
+Value: a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593</title>
+         <link>https://x.com/masaomi346/status/2100729901901054021</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593
+Tweet: https://x.com/masaomi346/status/2100729901901054021</description>
+         <guid isPermaLink="false">b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593</guid>
+         <pubDate>Thu, 17 Sep 2026 23:33:32 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>2337d39046d01dc5dbf49f681197c2f52db87bc5557c12acb0b7cee88bc93452</title>
+         <link>https://x.com/patialavii/status/2100437690672197938</link>
+         <description>@patialavii | sha256 | #phishing
+Value: 2337d39046d01dc5dbf49f681197c2f52db87bc5557c12acb0b7cee88bc93452
+Tweet: https://x.com/patialavii/status/2100437690672197938</description>
+         <guid isPermaLink="false">2337d39046d01dc5dbf49f681197c2f52db87bc5557c12acb0b7cee88bc93452</guid>
+         <pubDate>Thu, 17 Sep 2026 04:12:24 +0000</pubDate>
+         <category>sha256</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>f09550f82262273556f0bf861a598163877d7a5277a05b068db76fc1c13dab56</title>
+         <link>https://x.com/patialavii/status/2100435988225077274</link>
+         <description>@patialavii | sha256 | #phishing
+Value: f09550f82262273556f0bf861a598163877d7a5277a05b068db76fc1c13dab56
+Tweet: https://x.com/patialavii/status/2100435988225077274</description>
+         <guid isPermaLink="false">f09550f82262273556f0bf861a598163877d7a5277a05b068db76fc1c13dab56</guid>
+         <pubDate>Thu, 17 Sep 2026 04:05:38 +0000</pubDate>
+         <category>sha256</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f</title>
+         <link>https://x.com/tdatwja/status/2100138202166415386</link>
+         <description>@tdatwja | sha256 | 
+Value: a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f
+Tweet: https://x.com/tdatwja/status/2100138202166415386</description>
+         <guid isPermaLink="false">a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f</guid>
+         <pubDate>Wed, 16 Sep 2026 08:22:20 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>22c1108ff216f1d5694883c20bcd7f447c23fa2f9466d3b43b5e56d1701d0c1b</title>
+         <link>https://x.com/masaomi346/status/2099876837388398902</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: 22c1108ff216f1d5694883c20bcd7f447c23fa2f9466d3b43b5e56d1701d0c1b
+Tweet: https://x.com/masaomi346/status/2099876837388398902</description>
+         <guid isPermaLink="false">22c1108ff216f1d5694883c20bcd7f447c23fa2f9466d3b43b5e56d1701d0c1b</guid>
+         <pubDate>Tue, 15 Sep 2026 15:03:46 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>e59b29b39af6df7b596350fcff3ab6c92c4a41a3c8d7e4780cbf6b90b6ea8025</title>
+         <link>https://x.com/masaomi346/status/2099875712463474797</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: e59b29b39af6df7b596350fcff3ab6c92c4a41a3c8d7e4780cbf6b90b6ea8025
+Tweet: https://x.com/masaomi346/status/2099875712463474797</description>
+         <guid isPermaLink="false">e59b29b39af6df7b596350fcff3ab6c92c4a41a3c8d7e4780cbf6b90b6ea8025</guid>
+         <pubDate>Tue, 15 Sep 2026 14:59:18 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4</title>
+         <link>https://x.com/tdatwja/status/2099730097188299034</link>
+         <description>@tdatwja | sha256 | 
+Value: c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4
+Tweet: https://x.com/tdatwja/status/2099730097188299034</description>
+         <guid isPermaLink="false">c0a8a134dfbc3445598f8dcb5af0b52f4b691a5d13484b5384fb61d4d30545a4</guid>
+         <pubDate>Tue, 15 Sep 2026 05:20:40 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f</title>
+         <link>https://x.com/tdatwja/status/2099726797437026701</link>
+         <description>@tdatwja | sha256 | 
+Value: a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f
+Tweet: https://x.com/tdatwja/status/2099726797437026701</description>
+         <guid isPermaLink="false">a42a573ec173f10e0ccae940d8ebaa739ddf443bd751a66aa4b92b0e26c7152f</guid>
+         <pubDate>Tue, 15 Sep 2026 05:07:34 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>26ba499b037efa5825dd749f9784ac93e8f2d99db96a959c06aabc94bc744cae</title>
+         <link>https://x.com/masaomi346/status/2099698569217499444</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: 26ba499b037efa5825dd749f9784ac93e8f2d99db96a959c06aabc94bc744cae
+Tweet: https://x.com/masaomi346/status/2099698569217499444</description>
+         <guid isPermaLink="false">26ba499b037efa5825dd749f9784ac93e8f2d99db96a959c06aabc94bc744cae</guid>
+         <pubDate>Tue, 15 Sep 2026 03:15:24 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>bab5482560944fa4b6424642c73282b0efe2a20618303e8d6bf9d4ff03adecd9</title>
+         <link>https://x.com/masaomi346/status/2099654512340574351</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: bab5482560944fa4b6424642c73282b0efe2a20618303e8d6bf9d4ff03adecd9
+Tweet: https://x.com/masaomi346/status/2099654512340574351</description>
+         <guid isPermaLink="false">bab5482560944fa4b6424642c73282b0efe2a20618303e8d6bf9d4ff03adecd9</guid>
+         <pubDate>Tue, 15 Sep 2026 00:20:20 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e</title>
+         <link>https://x.com/masaomi346/status/2099651288984436985</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e
+Tweet: https://x.com/masaomi346/status/2099651288984436985</description>
+         <guid isPermaLink="false">f7254bf08da4819f93a767423f9b3e9c5c7c2942f931fc74a606691935877a7e</guid>
+         <pubDate>Tue, 15 Sep 2026 00:07:31 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>7c32720376f976885d825711f3c03397074d755ae78900ca5c70c9121271175a</title>
+         <link>https://x.com/masaomi346/status/2099469965799883143</link>
+         <description>@masaomi346 | sha256 | #malvertising #malware
+Value: 7c32720376f976885d825711f3c03397074d755ae78900ca5c70c9121271175a
+Tweet: https://x.com/masaomi346/status/2099469965799883143</description>
+         <guid isPermaLink="false">7c32720376f976885d825711f3c03397074d755ae78900ca5c70c9121271175a</guid>
+         <pubDate>Mon, 14 Sep 2026 12:07:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malvertising</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>f4767d76b7837f1458952655369e039119be72e85dc44c3821a9b18ed3e6a16a</title>
+         <link>https://x.com/masaomi346/status/2099317771578527919</link>
+         <description>@masaomi346 | sha256 | #malware #phishing
+Value: f4767d76b7837f1458952655369e039119be72e85dc44c3821a9b18ed3e6a16a
+Tweet: https://x.com/masaomi346/status/2099317771578527919</description>
+         <guid isPermaLink="false">f4767d76b7837f1458952655369e039119be72e85dc44c3821a9b18ed3e6a16a</guid>
+         <pubDate>Mon, 14 Sep 2026 02:02:14 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

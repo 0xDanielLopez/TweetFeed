@@ -1,0 +1,59 @@
+# TweetFeed blocklist - plain domain list, corroborated subset (Pi-hole compatible)
+# Window: 30 days
+# Entries: 45
+# Updated: 2026-09-19T00:00:24Z
+# Subset of domains.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
+# Cross-check refreshed: 2026-09-18T19:25:11Z
+# Set membership only - not a quality score and not a verdict
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/domains-corroborated.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+accounts-mail-google.com
+americandreamlost.com
+biobkliaum.live
+canvas-35.com
+cloudfrontenterprise.com
+cock.li
+cqylt.net
+dntds.shop
+docusign.login.adrpowersystem.com
+f005.backblazeb2.com
+for8service.net
+invitezoommeeting.xyz
+iwannagetmoremoney.beer
+kairostksc.com
+ljdnxz.cc
+lkntansr.net
+lovezramexar.info
+misty-arc-rook-sleoor.com
+pine63.com
+pinkfriend.top
+plume-compass.com
+quest-22.com
+quill-flint.com
+raster-80.com
+rerrioara.live
+rrr.12naga.org
+rukeyou.com
+satinmaple4.com
+sdntds.shop
+sha.sm188dvlv.icu
+sizyrotiqnsa.com
+tak.123ful.net
+tak.sm188dvlv.icu
+terminalbrewmac.com
+tra.12naga.org
+triapfog.com
+ultraspeed.pro
+uranbokachok.com
+verifyrecapcha.info
+wheremymoney.beer
+worksodsirius.ydns.eu
+wsp.1234e.org
+wsp.sm188dnsxx.top
+yigu360.com
+zuodx.com

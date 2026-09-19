@@ -1,0 +1,11 @@
+name: Feature request
+description: Suggest an improvement or a new capability for TweetFeed
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+      description: The problem it would solve and how you would use it.
+    validations:
+      required: true

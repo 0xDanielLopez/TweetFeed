@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #apt IOC feed</title>
+      <link>https://tweetfeed.live/tag/apt/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #apt on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #apt IOC feed</title>
+         <link>https://tweetfeed.live/tag/apt/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/apt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 19 Sep 2026 00:00:26 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | sha256 | #APT
+Value: a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>185.235.137.35</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | ip | #APT
+Value: 185.235.137.35
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">185.235.137.35</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>http://185.235.137.35:9000</title>
+         <link>https://x.com/G60930953/status/2100745399275270165</link>
+         <description>@G60930953 | url | #APT
+Value: http://185.235.137.35:9000
+Tweet: https://x.com/G60930953/status/2100745399275270165</description>
+         <guid isPermaLink="false">http://185.235.137.35:9000</guid>
+         <pubDate>Fri, 18 Sep 2026 00:35:07 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>101.36.114.215</title>
+         <link>https://x.com/phatomcandle/status/2100162778560425992</link>
+         <description>@phatomcandle | ip | #APT #C2 #Kimsuky #malware
+Value: 101.36.114.215
+Tweet: https://x.com/phatomcandle/status/2100162778560425992</description>
+         <guid isPermaLink="false">101.36.114.215</guid>
+         <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://101.36.114.215</title>
+         <link>https://x.com/phatomcandle/status/2100162778560425992</link>
+         <description>@phatomcandle | url | #APT #C2 #Kimsuky #malware
+Value: http://101.36.114.215
+Tweet: https://x.com/phatomcandle/status/2100162778560425992</description>
+         <guid isPermaLink="false">http://101.36.114.215</guid>
+         <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://requires1.dynuddns.net</title>
+         <link>https://x.com/phatomcandle/status/2100162778560425992</link>
+         <description>@phatomcandle | url | #APT #C2 #Kimsuky #malware
+Value: http://requires1.dynuddns.net
+Tweet: https://x.com/phatomcandle/status/2100162778560425992</description>
+         <guid isPermaLink="false">http://requires1.dynuddns.net</guid>
+         <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>requires1.dynuddns.net</title>
+         <link>https://x.com/phatomcandle/status/2100162778560425992</link>
+         <description>@phatomcandle | domain | #APT #C2 #Kimsuky #malware
+Value: requires1.dynuddns.net
+Tweet: https://x.com/phatomcandle/status/2100162778560425992</description>
+         <guid isPermaLink="false">requires1.dynuddns.net</guid>
+         <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>101.35.219.220</title>
+         <link>https://x.com/phatomcandle/status/2099723407780880404</link>
+         <description>@phatomcandle | ip | #APT #C2 #Kimsuky #malware
+Value: 101.35.219.220
+Tweet: https://x.com/phatomcandle/status/2099723407780880404</description>
+         <guid isPermaLink="false">101.35.219.220</guid>
+         <pubDate>Tue, 15 Sep 2026 04:54:06 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

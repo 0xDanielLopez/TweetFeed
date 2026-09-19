@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #stealer IOC feed</title>
+      <link>https://tweetfeed.live/tag/stealer/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #stealer on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #stealer IOC feed</title>
+         <link>https://tweetfeed.live/tag/stealer/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/stealer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 19 Sep 2026 00:00:26 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>111.229.198.6</title>
+         <link>https://x.com/Fact_Finder03/status/2099777993174368256</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer
+Value: 111.229.198.6
+Tweet: https://x.com/Fact_Finder03/status/2099777993174368256</description>
+         <guid isPermaLink="false">111.229.198.6</guid>
+         <pubDate>Tue, 15 Sep 2026 08:31:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>95.85.236.244</title>
+         <link>https://x.com/Fact_Finder03/status/2099768933322821986</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer
+Value: 95.85.236.244
+Tweet: https://x.com/Fact_Finder03/status/2099768933322821986</description>
+         <guid isPermaLink="false">95.85.236.244</guid>
+         <pubDate>Tue, 15 Sep 2026 07:55:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>45.76.83.205</title>
+         <link>https://x.com/Fact_Finder03/status/2099765661870563390</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer
+Value: 45.76.83.205
+Tweet: https://x.com/Fact_Finder03/status/2099765661870563390</description>
+         <guid isPermaLink="false">45.76.83.205</guid>
+         <pubDate>Tue, 15 Sep 2026 07:42:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>5.39.202.95</title>
+         <link>https://x.com/Fact_Finder03/status/2099746813087732109</link>
+         <description>@Fact_Finder03 | ip | #C2 #stealer
+Value: 5.39.202.95
+Tweet: https://x.com/Fact_Finder03/status/2099746813087732109</description>
+         <guid isPermaLink="false">5.39.202.95</guid>
+         <pubDate>Tue, 15 Sep 2026 06:27:06 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>
