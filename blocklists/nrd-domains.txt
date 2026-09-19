@@ -1,10 +1,10 @@
 # TweetFeed blocklist - domains registered 30 days or less before they were reported
 # Window: 30 days
-# Entries: 335
-# Updated: 2026-09-19T08:00:20Z
+# Entries: 337
+# Updated: 2026-09-19T16:00:22Z
 # Domains whose registrable apex was created 30 days or less before the first TweetFeed report
 # Only apexes with a known RDAP creation date are considered (about 6 in 10 reported domains); a domain reported in the current tick can appear one tick later
-# Registration check refreshed: 2026-09-19T07:45:31Z
+# Registration check refreshed: 2026-09-19T15:45:37Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -67,6 +67,7 @@ cedarpointlabs.blog
 cheap-carfax-report.com
 checkout.nexovanta.bond
 checkoutacceleration.com
+chocolate65.beer
 claude-macos-app.com
 claude-tools.com
 cleandev.cc
@@ -173,6 +174,7 @@ mandasirika-smbice.com
 mapletrailmedia.store
 mckesson-report.com
 meeting-scheduling-zoom.com
+mesa-braior-k3w3b.life
 metapay.facebook-secure.shop
 metropenhouses.com
 mining.bytecove.cyou
