@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @raghav127001</title>
+      <link>https://x.com/raghav127001</link>
+      <description>IOCs shared by @raghav127001 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @raghav127001</title>
+         <link>https://x.com/raghav127001</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/raghav127001.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 19 Sep 2026 09:00:22 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>162.35.122.140</title>
+         <link>https://x.com/raghav127001/status/2101233599479758950</link>
+         <description>@raghav127001 | ip | #phishing
+Value: 162.35.122.140
+Tweet: https://x.com/raghav127001/status/2101233599479758950</description>
+         <guid isPermaLink="false">162.35.122.140</guid>
+         <pubDate>Sat, 19 Sep 2026 08:55:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://162.35.122.140:5000</title>
+         <link>https://x.com/raghav127001/status/2101233599479758950</link>
+         <description>@raghav127001 | url | #phishing
+Value: http://162.35.122.140:5000
+Tweet: https://x.com/raghav127001/status/2101233599479758950</description>
+         <guid isPermaLink="false">http://162.35.122.140:5000</guid>
+         <pubDate>Sat, 19 Sep 2026 08:55:03 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>
