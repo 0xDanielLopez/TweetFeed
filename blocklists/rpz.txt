@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 995
-; Updated: 2026-09-19T07:15:17Z
+; Entries: 997
+; Updated: 2026-09-19T07:45:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789802117 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789803917 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -508,6 +508,8 @@ eon-report.com CNAME .
 *.eon-report.com CNAME .
 eprotect360.com CNAME .
 *.eprotect360.com CNAME .
+equitygrandview.com CNAME .
+*.equitygrandview.com CNAME .
 etax-olimw.com CNAME .
 *.etax-olimw.com CNAME .
 etax-pliwka.com CNAME .
@@ -1716,6 +1718,8 @@ tra.12naga.org CNAME .
 *.tra.12naga.org CNAME .
 transmitraisin.com CNAME .
 *.transmitraisin.com CNAME .
+treasurymoneybase.info CNAME .
+*.treasurymoneybase.info CNAME .
 trendyvoguedesigns.com CNAME .
 *.trendyvoguedesigns.com CNAME .
 trezor-walletfn.webflow.io CNAME .
