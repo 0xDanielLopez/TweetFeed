@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1002
-# Updated: 2026-09-19T16:15:18Z
+# Entries: 1004
+# Updated: 2026-09-19T16:30:22Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -12,6 +12,7 @@
 address=/00wxynu.dbuh.55og.wolkamo.com/0.0.0.0
 address=/0zbqnac1t4dv2t2wuodv1m.com/0.0.0.0
 address=/123.pdf1.zip/0.0.0.0
+address=/1902-cf.com/0.0.0.0
 address=/20260824.zip/0.0.0.0
 address=/2scotiaconnectscotiabank.com/0.0.0.0
 address=/2wp.de/0.0.0.0
@@ -99,6 +100,7 @@ address=/banderasbayvacationrentals.com/0.0.0.0
 address=/bankofamericanonline.com/0.0.0.0
 address=/baouie2.club/0.0.0.0
 address=/barclaysrewards-7bp3hxawof.edgeone.app/0.0.0.0
+address=/basednewsarticle.com/0.0.0.0
 address=/bayberryalgebraic.com/0.0.0.0
 address=/bbcnews04.dothome.co.kr/0.0.0.0
 address=/bbrii.oss-ap-southeast-1.aliyuncs.com/0.0.0.0

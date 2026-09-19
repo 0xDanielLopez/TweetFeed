@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1002
-; Updated: 2026-09-19T16:15:18Z
+; Entries: 1004
+; Updated: 2026-09-19T16:30:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789834518 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789835422 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -20,6 +20,8 @@ $TTL 300
 *.0zbqnac1t4dv2t2wuodv1m.com CNAME .
 123.pdf1.zip CNAME .
 *.123.pdf1.zip CNAME .
+1902-cf.com CNAME .
+*.1902-cf.com CNAME .
 20260824.zip CNAME .
 *.20260824.zip CNAME .
 2scotiaconnectscotiabank.com CNAME .
@@ -194,6 +196,8 @@ baouie2.club CNAME .
 *.baouie2.club CNAME .
 barclaysrewards-7bp3hxawof.edgeone.app CNAME .
 *.barclaysrewards-7bp3hxawof.edgeone.app CNAME .
+basednewsarticle.com CNAME .
+*.basednewsarticle.com CNAME .
 bayberryalgebraic.com CNAME .
 *.bayberryalgebraic.com CNAME .
 bbcnews04.dothome.co.kr CNAME .
