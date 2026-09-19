@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-19 15:30:20 (UTC)</th>
+        <th colspan=4>2026-09-19 15:45:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 35 | 365 | 1268 | 49871 |
-| **:globe_with_meridians: Domains** | 35 | 336 | 1109 | 41589 |
+| **:link: URLs** | 37 | 367 | 1270 | 49873 |
+| **:globe_with_meridians: Domains** | 37 | 338 | 1111 | 41591 |
 | **:triangular_flag_on_post: IPs** | 3 | 56 | 241 | 7244 |
 | **:1234: SHA256** | 0 | 16 | 158 | 2618 |
 | **:1234: MD5** | 1 | 23 | 88 | 2288 |
@@ -209,8 +209,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#Kimsuky** | 0 | 56 | 75 | 13285 |
 | **#DPRK** | 0 | 16 | 17 | 11664 |
 | **#scam** | 2 | 35 | 53 | 4907 |
-| **#C2** | 0 | 41 | 97 | 4635 |
-| **#malware** | 12 | 104 | 400 | 2894 |
+| **#C2** | 2 | 43 | 99 | 4637 |
+| **#malware** | 14 | 106 | 402 | 2896 |
 | **#APT** | 2 | 10 | 101 | 1633 |
 | **#AsyncRAT** | 0 | 0 | 0 | 732 |
 | **#stealer** | 0 | 4 | 34 | 713 |
@@ -231,12 +231,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [TKemmerling](https://x.com/TKemmerling) | 22 |
-| **#2** | [masaomi346](https://x.com/masaomi346) | 12 |
+| **#2** | [masaomi346](https://x.com/masaomi346) | 14 |
 | **#3** | [patialavii](https://x.com/patialavii) | 9 |
 | **#4** | [RansoMonitor](https://x.com/RansoMonitor) | 6 |
-| **#5** | [phishunt_io](https://x.com/phishunt_io) | 5 |
-| **#6** | [scanmalware](https://x.com/scanmalware) | 4 |
-| **#7** | [skocherhan](https://x.com/skocherhan) | 3 |
+| **#5** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 5 |
+| **#7** | [scanmalware](https://x.com/scanmalware) | 4 |
 | **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#9** | [PhishEyeCom](https://x.com/PhishEyeCom) | 2 |
 | **#10** | [RecoverwithErik](https://x.com/RecoverwithErik) | 2 |

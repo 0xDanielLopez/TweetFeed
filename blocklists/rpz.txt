@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 999
-; Updated: 2026-09-19T13:30:20Z
+; Entries: 1001
+; Updated: 2026-09-19T15:45:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789824620 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789832723 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -334,6 +334,8 @@ checkoutacceleration.com CNAME .
 *.checkoutacceleration.com CNAME .
 chiotetpapparel.shop CNAME .
 *.chiotetpapparel.shop CNAME .
+chocolate65.beer CNAME .
+*.chocolate65.beer CNAME .
 cicfo.com CNAME .
 *.cicfo.com CNAME .
 cizitensports.com CNAME .
@@ -990,6 +992,8 @@ meeting-scheduling-zoom.com CNAME .
 *.meeting-scheduling-zoom.com CNAME .
 melongr.com CNAME .
 *.melongr.com CNAME .
+mesa-braior-k3w3b.life CNAME .
+*.mesa-braior-k3w3b.life CNAME .
 metamonetization.live CNAME .
 *.metamonetization.live CNAME .
 metapay.facebook-secure.shop CNAME .
