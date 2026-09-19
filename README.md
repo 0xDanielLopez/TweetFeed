@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-19 01:45:19 (UTC)</th>
+        <th colspan=4>2026-09-19 02:00:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 339 | 1242 | 49845 |
-| **:globe_with_meridians: Domains** | 9 | 310 | 1083 | 41563 |
+| **:link: URLs** | 10 | 340 | 1243 | 49846 |
+| **:globe_with_meridians: Domains** | 10 | 311 | 1084 | 41564 |
 | **:triangular_flag_on_post: IPs** | 0 | 53 | 238 | 7241 |
 | **:1234: SHA256** | 0 | 16 | 158 | 2618 |
 | **:1234: MD5** | 0 | 22 | 87 | 2287 |
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 16 | 17 | 11664 |
 | **#scam** | 2 | 35 | 53 | 4907 |
 | **#C2** | 0 | 41 | 97 | 4635 |
-| **#malware** | 10 | 102 | 398 | 2892 |
+| **#malware** | 12 | 104 | 400 | 2894 |
 | **#APT** | 0 | 8 | 99 | 1631 |
 | **#AsyncRAT** | 0 | 0 | 0 | 732 |
 | **#stealer** | 0 | 4 | 34 | 713 |
@@ -235,7 +235,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#3** | [RecoverwithErik](https://x.com/RecoverwithErik) | 2 |
 | **#4** | [TKemmerling](https://x.com/TKemmerling) | 2 |
 | **#5** | [oroshi0064](https://x.com/oroshi0064) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |

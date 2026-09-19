@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 979
-# Updated: 2026-09-19T01:30:19Z
+# Entries: 980
+# Updated: 2026-09-19T02:00:21Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -892,6 +892,7 @@ address=/vb.wholenura.com/0.0.0.0
 address=/veidekke.report/0.0.0.0
 address=/velocty.cfd/0.0.0.0
 address=/verificar.farolesa.mx/0.0.0.0
+address=/verifikasi.vercel.app/0.0.0.0
 address=/verifone-report.com/0.0.0.0
 address=/verifyrecapcha.info/0.0.0.0
 address=/vinocab.com/0.0.0.0
