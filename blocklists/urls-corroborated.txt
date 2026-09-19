@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 65
-# Updated: 2026-09-19T00:00:24Z
+# Entries: 66
+# Updated: 2026-09-19T07:30:20Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-09-18T19:25:11Z
+# Cross-check refreshed: 2026-09-19T07:25:10Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -40,6 +40,7 @@ http://dev.epicgames.com/community/api/user_profiles/profile.json?hash_id=roAjr
 http://dntds.shop
 http://docusign.login.adrpowersystem.com
 http://for8service.net
+http://hkgnclub.com
 http://iwannagetmoremoney.beer
 http://kairostksc.com
 http://ljdnxz.cc

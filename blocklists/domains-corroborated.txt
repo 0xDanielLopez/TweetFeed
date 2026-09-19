@@ -1,9 +1,9 @@
 # TweetFeed blocklist - plain domain list, corroborated subset (Pi-hole compatible)
 # Window: 30 days
-# Entries: 45
-# Updated: 2026-09-19T00:00:24Z
+# Entries: 46
+# Updated: 2026-09-19T07:30:20Z
 # Subset of domains.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-09-18T19:25:11Z
+# Cross-check refreshed: 2026-09-19T07:25:10Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -23,6 +23,7 @@ dntds.shop
 docusign.login.adrpowersystem.com
 f005.backblazeb2.com
 for8service.net
+hkgnclub.com
 invitezoommeeting.xyz
 iwannagetmoremoney.beer
 kairostksc.com
