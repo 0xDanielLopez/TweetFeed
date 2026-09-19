@@ -1,5 +1,5 @@
 {
-  "count": 1726,
+  "count": 1732,
   "dead_tweets": {
     "2087799248439902618": {
       "attempts": 2,
@@ -252,22 +252,6 @@
       "tweet_id": "2092170724618449280",
       "type": "sha256",
       "value": "0c25da0c52bf3a341cbc182f8dade08b6c58b202dce33c80cf7129f82171cf95"
-    },
-    "0c97facc5bd1d43bca5293e9cc5836419666060a9f2f18f40898c52d4dc375a0": {
-      "confidence": 0.65,
-      "date": "2026-08-19 21:29:34",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "amosstealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "macOS dropper: obfuscated zsh script from quest-22.com uses eval+curl chain to fetch a mach-O binary.",
-      "threat_type": "malware",
-      "tweet_id": "2090189452974891219",
-      "type": "sha256",
-      "value": "0c97facc5bd1d43bca5293e9cc5836419666060a9f2f18f40898c52d4dc375a0"
     },
     "0db3b6d8296e4d19ca3be14a12792e5e": {
       "confidence": 0.72,
@@ -2660,6 +2644,40 @@
       "type": "url",
       "value": "http://207.180.3.193/launcher_raptor/src/"
     },
+    "207.56.119.83": {
+      "confidence": 0.95,
+      "date": "2026-08-20 04:29:55",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "valleyrat",
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT C2 server identified at 207.56.119.83 on port 6666.",
+      "threat_type": "c2",
+      "tweet_id": "2090295239126954097",
+      "type": "ip",
+      "value": "207.56.119.83"
+    },
+    "207.56.119.83:6666": {
+      "confidence": 0.95,
+      "date": "2026-08-20 04:29:55",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": "ValleyRAT",
+      "suggested_tags": [
+        "valleyrat",
+        "c2",
+        "rat",
+        "malware"
+      ],
+      "summary": "ValleyRAT C2 server identified at 207.56.119.83 on port 6666.",
+      "threat_type": "c2",
+      "tweet_id": "2090295239126954097",
+      "type": "url",
+      "value": "http://207.56.119.83:6666"
+    },
     "207.57.123.68": {
       "confidence": 0.72,
       "date": "2026-08-21 14:14:42",
@@ -2781,6 +2799,20 @@
       "tweet_id": "2098328362989043987",
       "type": "ip",
       "value": "213.239.243.107"
+    },
+    "216.126.227.232": {
+      "confidence": 0.9,
+      "date": "2026-08-20 12:00:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Microsoft phishing page hosted on a subdomain of kharwadejewellers.com at 216.126.227.232 (AS14956, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2090408734719656119",
+      "type": "ip",
+      "value": "216.126.227.232"
     },
     "216.126.236.22": {
       "confidence": 0.75,
@@ -4053,21 +4085,6 @@
       "type": "md5",
       "value": "43349dd33578dd9dc7388894670e0d07"
     },
-    "44cfad1ca9cadc518aac3346edd456271d88d14f49423a31edeaf2ff14483407": {
-      "confidence": 0.55,
-      "date": "2026-08-19 21:37:01",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Three low-detection scripts (0 VT hits) communicating with an undisclosed C2 domain.",
-      "threat_type": "malware",
-      "tweet_id": "2090191328881639433",
-      "type": "sha256",
-      "value": "44cfad1ca9cadc518aac3346edd456271d88d14f49423a31edeaf2ff14483407"
-    },
     "44dc1939dcaea681f5c39ed6f5f81a80ca5f59e72be7f938ac3afe5adb484042": {
       "confidence": 0.95,
       "date": "2026-08-24 06:53:58",
@@ -4161,104 +4178,6 @@
       "tweet_id": "2090804790607454681",
       "type": "ip",
       "value": "45.152.65.131"
-    },
-    "45.195.121.101": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.121.101"
-    },
-    "45.195.122.98": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.122.98"
-    },
-    "45.195.123.99": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.123.99"
-    },
-    "45.195.124.100": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.124.100"
-    },
-    "45.195.125.98": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.125.98"
-    },
-    "45.195.126.99": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.126.99"
-    },
-    "45.195.127.101": {
-      "confidence": 0.85,
-      "date": "2026-08-19 19:21:49",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Hong Kong-based phishing block: 174 malicious hosts across seven consecutive /24 subnets on a single ASN.",
-      "threat_type": "phishing",
-      "tweet_id": "2090157305224475121",
-      "type": "ip",
-      "value": "45.195.127.101"
     },
     "45.74.47.19": {
       "confidence": 0.85,
@@ -6473,21 +6392,6 @@
       "type": "sha256",
       "value": "8ed7d2d62d283a7701213e7a07191ebf5ab4d4862a0272b6ecda1209f6e0b93a"
     },
-    "8f210a32b10e65bf7984d6425888f7fb25f8a1ce998b809b561dbfe95b53382d": {
-      "confidence": 0.55,
-      "date": "2026-08-19 21:37:01",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Three low-detection scripts (0 VT hits) communicating with an undisclosed C2 domain.",
-      "threat_type": "malware",
-      "tweet_id": "2090191328881639433",
-      "type": "sha256",
-      "value": "8f210a32b10e65bf7984d6425888f7fb25f8a1ce998b809b561dbfe95b53382d"
-    },
     "8f6de985ba77ec0c5449db53dda9674a": {
       "confidence": 0.85,
       "date": "2026-09-10 09:33:53",
@@ -6878,21 +6782,6 @@
       "tweet_id": "2099725318479315286",
       "type": "md5",
       "value": "a8480e8bad9af229dc9e34358772f4a0"
-    },
-    "a8638d277c3b8d2f2a2fb464c17f514857b6fabba7cb18ebc963aa979c260365": {
-      "confidence": 0.55,
-      "date": "2026-08-19 21:37:01",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Three low-detection scripts (0 VT hits) communicating with an undisclosed C2 domain.",
-      "threat_type": "malware",
-      "tweet_id": "2090191328881639433",
-      "type": "sha256",
-      "value": "a8638d277c3b8d2f2a2fb464c17f514857b6fabba7cb18ebc963aa979c260365"
     },
     "a8c0e64c29d4da9b6ba7843b1c8453ecb0954abec87e0f8c378579ddbf91491e": {
       "confidence": 0.82,
@@ -8214,22 +8103,6 @@
       "tweet_id": "2100143481482022925",
       "type": "domain",
       "value": "atimaterials.report"
-    },
-    "atlas-compass.com": {
-      "confidence": 0.72,
-      "date": "2026-08-19 20:24:23",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "amosstealer",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Domain atlas-compass.com flagged as AMOS stealer infrastructure by AMOS tracker account.",
-      "threat_type": "malware",
-      "tweet_id": "2090173049282662577",
-      "type": "domain",
-      "value": "atlas-compass.com"
     },
     "atyv788.club": {
       "confidence": 0.88,
@@ -10524,6 +10397,21 @@
       "type": "domain",
       "value": "codex-notes.com"
     },
+    "columbuswealthplanning.info": {
+      "confidence": 0.9,
+      "date": "2026-08-21 06:29:11",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Recurring phishing campaign using cloud account suspension lure with rotating sender identity; all links lead to columbuswealthplanning.info for payment harvesting.",
+      "threat_type": "phishing",
+      "tweet_id": "2090687640991608965",
+      "type": "domain",
+      "value": "columbuswealthplanning.info"
+    },
     "comecome.click": {
       "confidence": 0.95,
       "date": "2026-09-04 07:01:28",
@@ -12268,21 +12156,6 @@
       "tweet_id": "2092596205201056043",
       "type": "domain",
       "value": "edgeupstudio.com"
-    },
-    "edufloat.org": {
-      "confidence": 0.9,
-      "date": "2026-08-19 18:57:59",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing email impersonates Ace Hardware with fake YETI survey reward; sender lmdbound.com, redirects to edufloat.org.",
-      "threat_type": "phishing",
-      "tweet_id": "2090151309496418631",
-      "type": "domain",
-      "value": "edufloat.org"
     },
     "ej7ieb9bn.myartsonline.com": {
       "confidence": 0.91,
@@ -14036,22 +13909,6 @@
       "type": "domain",
       "value": "granitepointmedia.fun"
     },
-    "grove-satin.com": {
-      "confidence": 0.9,
-      "date": "2026-08-19 20:10:32",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "amosstealer",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Domain grove-satin.com explicitly tagged as AMOS stealer C2/distribution infrastructure.",
-      "threat_type": "malware",
-      "tweet_id": "2090169563958653315",
-      "type": "domain",
-      "value": "grove-satin.com"
-    },
     "grupoimpaktu.ao": {
       "confidence": 0.95,
       "date": "2026-09-03 07:01:31",
@@ -14768,6 +14625,22 @@
       "type": "url",
       "value": "https://houseofironinc.com/IrKairPw/"
     },
+    "hsacnajklnsdcm8u.pages.dev": {
+      "confidence": 0.85,
+      "date": "2026-08-20 04:24:42",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malspam with fake contract attachment lure on Cloudflare Pages delivering a ZIP containing a VBS dropper (EX20160817021011121.vbs).",
+      "threat_type": "malware",
+      "tweet_id": "2090293927584923937",
+      "type": "domain",
+      "value": "hsacnajklnsdcm8u.pages.dev"
+    },
     "https-wvvw-roblox.com": {
       "confidence": 0.95,
       "date": "2026-09-10 17:01:31",
@@ -14889,6 +14762,22 @@
       "tweet_id": "2099654512340574351",
       "type": "domain",
       "value": "huibaoshen-rakunde.com"
+    },
+    "hxn20160817021han.zip": {
+      "confidence": 0.85,
+      "date": "2026-08-20 04:24:42",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Japanese-language malspam with fake contract attachment lure on Cloudflare Pages delivering a ZIP containing a VBS dropper (EX20160817021011121.vbs).",
+      "threat_type": "malware",
+      "tweet_id": "2090293927584923937",
+      "type": "domain",
+      "value": "hxn20160817021han.zip"
     },
     "hzrace.com": {
       "confidence": 0.85,
@@ -16441,21 +16330,6 @@
       "type": "domain",
       "value": "lkntansr.net"
     },
-    "lmdbound.com": {
-      "confidence": 0.9,
-      "date": "2026-08-19 18:57:59",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing email impersonates Ace Hardware with fake YETI survey reward; sender lmdbound.com, redirects to edufloat.org.",
-      "threat_type": "phishing",
-      "tweet_id": "2090151309496418631",
-      "type": "domain",
-      "value": "lmdbound.com"
-    },
     "lnkd.in/e2mn_cwi": {
       "confidence": 0.1,
       "date": "2026-08-21 11:25:10",
@@ -16887,6 +16761,21 @@
       "tweet_id": "2100359174811009362",
       "type": "domain",
       "value": "magablack.com"
+    },
+    "magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura": {
+      "confidence": 0.85,
+      "date": "2026-09-18 18:25:18",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake Brazilian e-commerce page on magablack.com impersonating a product listing, flagged as phishing/scam clone site.",
+      "threat_type": "phishing",
+      "tweet_id": "2101014717934309394",
+      "type": "url",
+      "value": "https://magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura"
     },
     "magaz-ine-lu-iza.com": {
       "confidence": 0.95,
@@ -17864,6 +17753,21 @@
       "type": "domain",
       "value": "myid-telstra.flutterflow.app"
     },
+    "myloisle.com": {
+      "confidence": 0.95,
+      "date": "2026-09-18 23:04:31",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing campaign uses fake Milestone credit offer directing applicants to myloisle.com instead of a legitimate issuer domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2101084984060817446",
+      "type": "domain",
+      "value": "myloisle.com"
+    },
     "mywebology.com": {
       "confidence": 0.82,
       "date": "2026-08-30 16:16:45",
@@ -18281,6 +18185,38 @@
       "type": "domain",
       "value": "offerup.report"
     },
+    "oiuwaksdiw.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "domain",
+      "value": "oiuwaksdiw.com"
+    },
+    "oiuwaksdiw.com/download/point": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "url",
+      "value": "https://oiuwaksdiw.com/download/point/"
+    },
     "omeglebang.lol": {
       "confidence": 0.55,
       "date": "2026-09-07 13:51:04",
@@ -18294,6 +18230,20 @@
       "tweet_id": "2096959437965582356",
       "type": "domain",
       "value": "omeglebang.lol"
+    },
+    "onemainfinancial-report.com": {
+      "confidence": 0.7,
+      "date": "2026-09-18 20:46:10",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Domain onemainfinancial-report.com impersonating OneMain Financial, likely used for phishing or credential harvesting.",
+      "threat_type": "phishing",
+      "tweet_id": "2101050167726129334",
+      "type": "domain",
+      "value": "onemainfinancial-report.com"
     },
     "ongannanzhuang.info": {
       "confidence": 0.9,
@@ -18823,6 +18773,21 @@
       "type": "domain",
       "value": "pine63.com"
     },
+    "pineayra.com": {
+      "confidence": 0.95,
+      "date": "2026-09-18 22:00:04",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing email impersonating BarkBox dog-bed offer redirects victims to pineayra.com instead of a legitimate BarkBox domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2101068767312904606",
+      "type": "domain",
+      "value": "pineayra.com"
+    },
     "pinebridgedigital.shop": {
       "confidence": 0.9,
       "date": "2026-09-03 16:27:08",
@@ -19046,6 +19011,38 @@
       "type": "domain",
       "value": "point-raraku.com"
     },
+    "poiwaksuwa.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "domain",
+      "value": "poiwaksuwa.com"
+    },
+    "poiwaksuwa.com/download/point": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "url",
+      "value": "https://poiwaksuwa.com/download/point/"
+    },
     "poiwalsd.com": {
       "confidence": 0.88,
       "date": "2026-09-09 06:14:18",
@@ -19122,6 +19119,38 @@
       "tweet_id": "2097543146351759462",
       "type": "domain",
       "value": "policysshieldpro.com"
+    },
+    "polisdaaqopx.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "domain",
+      "value": "polisdaaqopx.com"
+    },
+    "polisdaaqopx.com/download/point": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "url",
+      "value": "https://polisdaaqopx.com/download/point/"
     },
     "pollenoodelight.com": {
       "confidence": 0.82,
@@ -19593,22 +19622,6 @@
       "tweet_id": "2090416362359570899",
       "type": "url",
       "value": "https://quartfication.wmsrdj.cn/eD9490/index"
-    },
-    "quest-22.com": {
-      "confidence": 0.9,
-      "date": "2026-08-19 19:58:50",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malvertising",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "Malvertising campaign serving a fake Homebrew install page via quest-22.com to deliver an infostealer.",
-      "threat_type": "malware",
-      "tweet_id": "2090166619435683931",
-      "type": "domain",
-      "value": "quest-22.com"
     },
     "quest-22.com/curl/44tgqsi3ufvy/wv242quj7idscf3dze4.dat": {
       "confidence": 0.95,
@@ -20597,6 +20610,21 @@
       "type": "domain",
       "value": "revivesourhearts.com"
     },
+    "revolut.com.93810.app": {
+      "confidence": 0.95,
+      "date": "2026-09-19 00:12:29",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "37 Revolut phishing domains found, 23 still live; attackers embed brand inside third-party domains (e.g. revolut.com.93810.app).",
+      "threat_type": "phishing",
+      "tweet_id": "2101102089296564512",
+      "type": "domain",
+      "value": "revolut.com.93810.app"
+    },
     "rexel.report": {
       "confidence": 0.85,
       "date": "2026-09-16 08:43:19",
@@ -21381,6 +21409,22 @@
       "type": "domain",
       "value": "rucepive-rakntanoapp.com"
     },
+    "rukeyou.com": {
+      "confidence": 0.8,
+      "date": "2026-08-20 04:28:27",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "trojan"
+      ],
+      "summary": "VBS dropper downloads X2 payload from rukeyou.com; C2 communicates with 134.122.136.84:8383; confirmed via VirusTotal, Triage, and Any.Run.",
+      "threat_type": "malware",
+      "tweet_id": "2090294870426652909",
+      "type": "domain",
+      "value": "rukeyou.com"
+    },
     "rukeyou.com/sys/x2/x2-payload_baolljp.jpg": {
       "confidence": 0.88,
       "date": "2026-08-20 04:28:27",
@@ -21395,6 +21439,22 @@
       "tweet_id": "2090294870426652909",
       "type": "url",
       "value": "https://rukeyou.com/sys/X2/X2-payload_baolljp.jpg"
+    },
+    "rukeyou.com/sys/x2/x2-payload_dfyihao.zip": {
+      "confidence": 0.8,
+      "date": "2026-08-20 04:28:27",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "rat",
+        "trojan"
+      ],
+      "summary": "VBS dropper downloads X2 payload from rukeyou.com; C2 communicates with 134.122.136.84:8383; confirmed via VirusTotal, Triage, and Any.Run.",
+      "threat_type": "malware",
+      "tweet_id": "2090294870426652909",
+      "type": "url",
+      "value": "https://rukeyou.com/sys/X2/X2-payload_dfyihao.zip"
     },
     "s-31niukey.s3.us-east-2.amazonaws.com": {
       "confidence": 0.87,
@@ -21976,22 +22036,6 @@
       "tweet_id": "2097604707107934373",
       "type": "url",
       "value": "http://share.google/nTLeR766zLGnakZU4"
-    },
-    "sheltercirrus.com": {
-      "confidence": 0.72,
-      "date": "2026-08-19 20:30:58",
-      "enriched_at": "2026-08-20T00:40:03Z",
-      "family": "amosstealer",
-      "suggested_tags": [
-        "amosstealer",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "Domain sheltercirrus.com flagged as AMOS stealer infrastructure by AMOS tracker account.",
-      "threat_type": "malware",
-      "tweet_id": "2090174708910018605",
-      "type": "domain",
-      "value": "sheltercirrus.com"
     },
     "shenzhenm-jprakutansui.com": {
       "confidence": 0.85,
@@ -22903,6 +22947,38 @@
       "tweet_id": "2095729155505811695",
       "type": "domain",
       "value": "support.inumm.asia"
+    },
+    "suwakdsdowa.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "domain",
+      "value": "suwakdsdowa.com"
+    },
+    "suwakdsdowa.com/download/point": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "url",
+      "value": "https://suwakdsdowa.com/download/point/"
     },
     "swanbitcoinguideline.live": {
       "confidence": 0.9,
@@ -24229,6 +24305,38 @@
       "tweet_id": "2092901193148518816",
       "type": "domain",
       "value": "uukuz.wanjiangmei.com"
+    },
+    "uywajjsaiqas.com": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "domain",
+      "value": "uywajjsaiqas.com"
+    },
+    "uywajjsaiqas.com/download/point": {
+      "confidence": 0.85,
+      "date": "2026-09-19 00:05:54",
+      "enriched_at": "2026-09-19T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware distributed via five domains mimicking Rakuten, delivering payloads from /download/point/ paths.",
+      "threat_type": "malware",
+      "tweet_id": "2101100433997791741",
+      "type": "url",
+      "value": "https://uywajjsaiqas.com/download/point/"
     },
     "v02.zip": {
       "confidence": 0.75,
@@ -26321,6 +26429,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-18T18:40:03Z",
+  "generated_at": "2026-09-19T00:40:03Z",
   "window_days": 30
 }
