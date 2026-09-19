@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 971
-; Updated: 2026-09-19T00:00:24Z
+; Entries: 976
+; Updated: 2026-09-19T00:15:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789776024 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789776915 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1090,6 +1090,8 @@ o3dul.com CNAME .
 *.o3dul.com CNAME .
 offerup.report CNAME .
 *.offerup.report CNAME .
+oiuwaksdiw.com CNAME .
+*.oiuwaksdiw.com CNAME .
 omeglebang.lol CNAME .
 *.omeglebang.lol CNAME .
 onemainfinancial-report.com CNAME .
@@ -1180,6 +1182,8 @@ point-raraka.com CNAME .
 *.point-raraka.com CNAME .
 point-raraku.com CNAME .
 *.point-raraku.com CNAME .
+poiwaksuwa.com CNAME .
+*.poiwaksuwa.com CNAME .
 poiwalsd.com CNAME .
 *.poiwalsd.com CNAME .
 poiwamsd.com CNAME .
@@ -1190,6 +1194,8 @@ policyprotecthub.com CNAME .
 *.policyprotecthub.com CNAME .
 policysshieldpro.com CNAME .
 *.policysshieldpro.com CNAME .
+polisdaaqopx.com CNAME .
+*.polisdaaqopx.com CNAME .
 pollenoodelight.com CNAME .
 *.pollenoodelight.com CNAME .
 pontihdunedinconjuncture-rakunde.com CNAME .
@@ -1608,6 +1614,8 @@ support-ledgrcom-start-web.typedream.app CNAME .
 *.support-ledgrcom-start-web.typedream.app CNAME .
 support.inumm.asia CNAME .
 *.support.inumm.asia CNAME .
+suwakdsdowa.com CNAME .
+*.suwakdsdowa.com CNAME .
 swanbitcoinguideline.live CNAME .
 *.swanbitcoinguideline.live CNAME .
 swiftblooms.com CNAME .
@@ -1750,6 +1758,8 @@ uspsin.s3.us-east-1.amazonaws.com CNAME .
 *.uspsin.s3.us-east-1.amazonaws.com CNAME .
 uukuz.wanjiangmei.com CNAME .
 *.uukuz.wanjiangmei.com CNAME .
+uywajjsaiqas.com CNAME .
+*.uywajjsaiqas.com CNAME .
 v02.zip CNAME .
 *.v02.zip CNAME .
 valledaostaconvention.info CNAME .
