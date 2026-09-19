@@ -12,8 +12,30 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/tag/phishing.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sat, 19 Sep 2026 05:45:18 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 19 Sep 2026 06:00:23 +0000</lastBuildDate>
       <ttl>15</ttl>
+      <item>
+         <title>http://usclimatologist.com</title>
+         <link>https://x.com/skocherhan/status/2101187456531845446</link>
+         <description>@skocherhan | url | #phishing
+Value: http://usclimatologist.com
+Tweet: https://x.com/skocherhan/status/2101187456531845446</description>
+         <guid isPermaLink="false">http://usclimatologist.com</guid>
+         <pubDate>Sat, 19 Sep 2026 05:51:42 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>usclimatologist.com</title>
+         <link>https://x.com/skocherhan/status/2101187456531845446</link>
+         <description>@skocherhan | domain | #phishing
+Value: usclimatologist.com
+Tweet: https://x.com/skocherhan/status/2101187456531845446</description>
+         <guid isPermaLink="false">usclimatologist.com</guid>
+         <pubDate>Sat, 19 Sep 2026 05:51:42 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
       <item>
          <title>pixeldrain.com</title>
          <link>https://x.com/patialavii/status/2101176437994831934</link>
@@ -1109,30 +1131,6 @@ Tweet: https://x.com/patialavii/status/2100798614499172440</description>
          <guid isPermaLink="false">geotehnica.com</guid>
          <pubDate>Fri, 18 Sep 2026 04:06:35 +0000</pubDate>
          <category>domain</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593</title>
-         <link>https://x.com/masaomi346/status/2100729901901054021</link>
-         <description>@masaomi346 | sha256 | #malware #phishing
-Value: b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593
-Tweet: https://x.com/masaomi346/status/2100729901901054021</description>
-         <guid isPermaLink="false">b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593</guid>
-         <pubDate>Thu, 17 Sep 2026 23:33:32 +0000</pubDate>
-         <category>sha256</category>
-         <category>#malware</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>https://externalbsnle-smbice.com</title>
-         <link>https://x.com/masaomi346/status/2100729901901054021</link>
-         <description>@masaomi346 | url | #malware #phishing
-Value: https://externalbsnle-smbice.com
-Tweet: https://x.com/masaomi346/status/2100729901901054021</description>
-         <guid isPermaLink="false">https://externalbsnle-smbice.com</guid>
-         <pubDate>Thu, 17 Sep 2026 23:33:32 +0000</pubDate>
-         <category>url</category>
-         <category>#malware</category>
          <category>#phishing</category>
       </item>
    </channel>

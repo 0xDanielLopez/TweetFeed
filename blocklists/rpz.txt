@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 987
-; Updated: 2026-09-19T05:15:16Z
+; Entries: 988
+; Updated: 2026-09-19T06:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789794916 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789797622 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1762,6 +1762,8 @@ urlshort-linkmri0w5kc3r96.5go.workers.dev CNAME .
 *.urlshort-linkmri0w5kc3r96.5go.workers.dev CNAME .
 us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev CNAME .
 *.us05webosportalzoomworkspacemeeting-live-invitation-m90x76.pages.dev CNAME .
+usclimatologist.com CNAME .
+*.usclimatologist.com CNAME .
 usdt888.club CNAME .
 *.usdt888.club CNAME .
 usdxag.com CNAME .
