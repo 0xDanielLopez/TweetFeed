@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 977
-# Updated: 2026-09-19T00:30:19Z
+# Entries: 978
+# Updated: 2026-09-19T01:00:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -405,6 +405,7 @@ address=/joyalukkas-karama.store/0.0.0.0
 address=/jp.thkiind.com/0.0.0.0
 address=/js.wp-js.com/0.0.0.0
 address=/jsmyvlm.com/0.0.0.0
+address=/ju.com/0.0.0.0
 address=/juea802.club/0.0.0.0
 address=/k-cloud.auth-accounts.dynuddns.com/0.0.0.0
 address=/k-cloud.login-accounts.dynu.net/0.0.0.0
