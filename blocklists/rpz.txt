@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 990
-; Updated: 2026-09-19T07:00:22Z
+; Entries: 995
+; Updated: 2026-09-19T07:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789801222 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789802117 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -154,6 +154,8 @@ assuredpartners.report CNAME .
 *.assuredpartners.report CNAME .
 atimaterials.report CNAME .
 *.atimaterials.report CNAME .
+atomicmail.io CNAME .
+*.atomicmail.io CNAME .
 atyv788.club CNAME .
 *.atyv788.club CNAME .
 auth-ledgrelive-net.wasmer.app CNAME .
@@ -498,6 +500,8 @@ emanuelecannata.com CNAME .
 *.emanuelecannata.com CNAME .
 emirates-report.com CNAME .
 *.emirates-report.com CNAME .
+endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion CNAME .
+*.endzonezgz3sqzmtqg4acp4z7ao7xc6vunfhezjsnfqrm2ksudsredyd.onion CNAME .
 ent34ndx3cz8k.x.pipedream.net CNAME .
 *.ent34ndx3cz8k.x.pipedream.net CNAME .
 eon-report.com CNAME .
@@ -664,6 +668,10 @@ hbphotographystudios.nl CNAME .
 *.hbphotographystudios.nl CNAME .
 hcahealthcare.report CNAME .
 *.hcahealthcare.report CNAME .
+healthassistcarepro.com CNAME .
+*.healthassistcarepro.com CNAME .
+healthprimeflow.com CNAME .
+*.healthprimeflow.com CNAME .
 heavenrock.pk CNAME .
 *.heavenrock.pk CNAME .
 helengarentals.com CNAME .
@@ -1910,6 +1918,8 @@ wwufzpm.cn CNAME .
 *.wwufzpm.cn CNAME .
 www-finance-gov-pk.fetchdrives.info CNAME .
 *.www-finance-gov-pk.fetchdrives.info CNAME .
+www-robloxk.com CNAME .
+*.www-robloxk.com CNAME .
 xfinity101.duckdns.org CNAME .
 *.xfinity101.duckdns.org CNAME .
 xieolrrb.ntinvoicepload.dynu.net CNAME .
