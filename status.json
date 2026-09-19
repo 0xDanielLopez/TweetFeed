@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-19T06:30:30Z",
+ "generated_at": "2026-09-19T06:45:23Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -17,7 +17,7 @@
   "total": 50,
   "hashtag": 35,
   "account": 15,
-  "rows_last_24h": 108,
+  "rows_last_24h": 104,
   "dead_after_seconds": {
    "account": 259200,
    "hashtag": null
@@ -299,14 +299,14 @@
    {
     "id": "phishing",
     "kind": "hashtag",
-    "newest_item_at": "2026-09-19T06:00:00Z",
-    "rows_last_24h": 90,
+    "newest_item_at": "2026-09-19T06:31:00Z",
+    "rows_last_24h": 86,
     "dead_after_seconds": null
    },
    {
     "id": "ransomware",
     "kind": "hashtag",
-    "newest_item_at": "2026-09-19T06:10:00Z",
+    "newest_item_at": "2026-09-19T06:14:00Z",
     "rows_last_24h": 6,
     "dead_after_seconds": null
    },
@@ -379,7 +379,7 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
@@ -391,7 +391,7 @@
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
@@ -403,7 +403,7 @@
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
@@ -415,7 +415,7 @@
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
@@ -427,49 +427,49 @@
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-09-19T06:30:30Z",
+   "updated_at": "2026-09-19T06:45:23Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -477,7 +477,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-09-19T06:30:21Z",
+   "updated_at": "2026-09-19T06:45:16Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -485,7 +485,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-09-19T06:30:23Z",
+   "updated_at": "2026-09-19T06:45:17Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
@@ -514,7 +514,7 @@
   "enrichment.json": {
    "kind": "own-clock",
    "path": "enrichment.json",
-   "updated_at": "2026-09-19T00:40:03Z",
+   "updated_at": "2026-09-19T06:40:04Z",
    "interval_seconds": 21600,
    "stale_after_seconds": 46800
   },
