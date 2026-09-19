@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 997
-; Updated: 2026-09-19T07:45:17Z
+; Entries: 998
+; Updated: 2026-09-19T12:30:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1789803917 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1789821020 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1924,6 +1924,8 @@ www-finance-gov-pk.fetchdrives.info CNAME .
 *.www-finance-gov-pk.fetchdrives.info CNAME .
 www-robloxk.com CNAME .
 *.www-robloxk.com CNAME .
+xfinity-updateform.square.site CNAME .
+*.xfinity-updateform.square.site CNAME .
 xfinity101.duckdns.org CNAME .
 *.xfinity101.duckdns.org CNAME .
 xieolrrb.ntinvoicepload.dynu.net CNAME .

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 997
-# Updated: 2026-09-19T07:45:17Z
+# Entries: 998
+# Updated: 2026-09-19T12:30:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -964,6 +964,7 @@ address=/wwc7yw.duckdns.org/0.0.0.0
 address=/wwufzpm.cn/0.0.0.0
 address=/www-finance-gov-pk.fetchdrives.info/0.0.0.0
 address=/www-robloxk.com/0.0.0.0
+address=/xfinity-updateform.square.site/0.0.0.0
 address=/xfinity101.duckdns.org/0.0.0.0
 address=/xieolrrb.ntinvoicepload.dynu.net/0.0.0.0
 address=/xing.report/0.0.0.0
