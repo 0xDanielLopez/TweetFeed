@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1019
-# Updated: 2026-09-26T08:15:16Z
+# Entries: 1021
+# Updated: 2026-09-26T09:30:21Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -145,6 +145,8 @@ address=/c2.linuxsupportsystem.com/0.0.0.0
 address=/caixa.report/0.0.0.0
 address=/cam-ana-jp.smpoodle.com/0.0.0.0
 address=/campinginontarioteamvontaxi.xyz/0.0.0.0
+address=/canabit.ai/0.0.0.0
+address=/canabit.ca/0.0.0.0
 address=/canalplus-abuse.report/0.0.0.0
 address=/caneroute.cyou/0.0.0.0
 address=/canjearapuntos.click/0.0.0.0
