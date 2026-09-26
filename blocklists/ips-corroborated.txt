@@ -1,9 +1,9 @@
 # TweetFeed blocklist - plain IP list, corroborated subset
 # Window: 30 days
-# Entries: 19
-# Updated: 2026-09-25T19:30:21Z
+# Entries: 20
+# Updated: 2026-09-26T07:30:20Z
 # Subset of ips.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-09-25T19:25:12Z
+# Cross-check refreshed: 2026-09-26T07:25:11Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -31,3 +31,4 @@
 74.204.158.81
 91.193.7.186
 91.92.40.236
+94.26.83.69
