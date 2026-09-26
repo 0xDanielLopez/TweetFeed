@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1016
-; Updated: 2026-09-26T00:00:28Z
+; Entries: 1017
+; Updated: 2026-09-26T07:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790380828 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790406918 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1894,6 +1894,8 @@ vnatf.gmy59.com CNAME .
 *.vnatf.gmy59.com CNAME .
 vnmstokns.beer CNAME .
 *.vnmstokns.beer CNAME .
+vodafone-staging-alt.voltsystems.de CNAME .
+*.vodafone-staging-alt.voltsystems.de CNAME .
 vodafoneelevation.de CNAME .
 *.vodafoneelevation.de CNAME .
 voidlings.art CNAME .
