@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Slvlombardo</title>
+      <link>https://x.com/Slvlombardo</link>
+      <description>IOCs shared by @Slvlombardo and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Slvlombardo</title>
+         <link>https://x.com/Slvlombardo</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/slvlombardo.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 26 Sep 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://first-global.in/lkcmccd/f00g2ffr/d000s2/n0g2ff/</title>
+         <link>https://x.com/Slvlombardo/status/2102420998528131546</link>
+         <description>@Slvlombardo | url | #phishing
+Value: https://first-global.in/lkcmccd/f00g2ffr/d000s2/n0g2ff/
+Tweet: https://x.com/Slvlombardo/status/2102420998528131546</description>
+         <guid isPermaLink="false">https://first-global.in/lkcmccd/f00g2ffr/d000s2/n0g2ff/</guid>
+         <pubDate>Tue, 22 Sep 2026 15:33:21 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>first-global.in</title>
+         <link>https://x.com/Slvlombardo/status/2102420998528131546</link>
+         <description>@Slvlombardo | domain | #phishing
+Value: first-global.in
+Tweet: https://x.com/Slvlombardo/status/2102420998528131546</description>
+         <guid isPermaLink="false">first-global.in</guid>
+         <pubDate>Tue, 22 Sep 2026 15:33:21 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

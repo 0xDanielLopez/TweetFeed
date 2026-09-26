@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @JakubUrbanec</title>
+      <link>https://x.com/JakubUrbanec</link>
+      <description>IOCs shared by @JakubUrbanec and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @JakubUrbanec</title>
+         <link>https://x.com/JakubUrbanec</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/jakuburbanec.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 26 Sep 2026 00:00:30 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>87352b982d24c08a8ed97258f4af4e3b4497ef5d161dfbbf4f67aadc5fa1ba56</title>
+         <link>https://x.com/JakubUrbanec/status/2102778438843252809</link>
+         <description>@JakubUrbanec | sha256 | #malware
+Value: 87352b982d24c08a8ed97258f4af4e3b4497ef5d161dfbbf4f67aadc5fa1ba56
+Tweet: https://x.com/JakubUrbanec/status/2102778438843252809</description>
+         <guid isPermaLink="false">87352b982d24c08a8ed97258f4af4e3b4497ef5d161dfbbf4f67aadc5fa1ba56</guid>
+         <pubDate>Wed, 23 Sep 2026 15:13:42 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

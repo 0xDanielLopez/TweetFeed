@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @it4int</title>
+      <link>https://x.com/it4int</link>
+      <description>IOCs shared by @it4int and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @it4int</title>
+         <link>https://x.com/it4int</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/it4int.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 26 Sep 2026 00:00:30 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://third-party.com</title>
+         <link>https://x.com/it4int/status/2103177711711916095</link>
+         <description>@it4int | url | #malware #phishing
+Value: http://third-party.com
+Tweet: https://x.com/it4int/status/2103177711711916095</description>
+         <guid isPermaLink="false">http://third-party.com</guid>
+         <pubDate>Thu, 24 Sep 2026 17:40:16 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

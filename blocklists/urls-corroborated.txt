@@ -1,0 +1,145 @@
+# TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
+# Window: 30 days
+# Entries: 131
+# Updated: 2026-09-26T00:00:28Z
+# Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
+# Cross-check refreshed: 2026-09-25T19:25:12Z
+# Set membership only - not a quality score and not a verdict
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/urls-corroborated.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+http://101.42.136.73
+http://103.170.217.184:8787
+http://118.107.44.153
+http://158.94.209.188:3333
+http://176.97.114.92:9080
+http://193.233.202.17
+http://51.159.21.191
+http://51.255.9.163/images/2.jpg
+http://74.204.158.81
+http://89.185.82.24/mass.sh
+http://Third-party.com
+http://accounts-mail-google.com
+http://aleverifocation.beer
+http://anlytic-js-cloud.beer
+http://ashen-trace-zephyr-draeix.life
+http://awesomeisojs.beer
+http://bbdsnssserver.beer
+http://bhfgtrns-js.beer
+http://bilfojsclod.beer
+http://biobkliaum.live
+http://biyaconserver.beer
+http://bkscndclou.beer
+http://bnnsbdsdn-js.beer
+http://bnsclod.beer
+http://bootstrap-maxcdn.beer
+http://bootstrup-cdnmaper.beer
+http://capcha-cdn-js.beer
+http://cdn-2faclov.sbs
+http://cdn-plugin-js.beer
+http://chekbrow.beer
+http://chimefusion.com/u/
+http://chocolate65.beer
+http://clainasns.beer
+http://claudesave.beer
+http://claudjaframework.beer
+http://claufancdn.beer
+http://clhfgcomacdn.beer
+http://cloud-save-image.sbs
+http://cloudcdnginx.beer
+http://cloude-js-server.beer
+http://darndcs-js.beer
+http://dhnsdns.beer
+http://dncloteam.beer
+http://elxxvvx.xyz/i/
+http://entry-code-cdn.codes
+http://ethercdnns.beer
+http://exdanteam.beer
+http://fijscdn.beer
+http://fingerprint-veri.info
+http://fingerprint-verification.info
+http://fontawesome-js-cdn.beer
+http://for8service.net
+http://framework-jsoncdn.beer
+http://frameworkjsbns.beer
+http://gdnssljs.beer
+http://ghdnsserverns.beer
+http://gppcdnns.beer
+http://hasmeverdcdn.beer
+http://hftplcnsns.beer
+http://hkgnclub.com
+http://hpscdn.beer
+http://idcool.codes
+http://indigo-finch-misgoaen.life
+http://iwannagetmoremoney.beer
+http://kairostksc.com
+http://krestmoais-reed.life
+http://las-js-claud.beer
+http://lcates-vs.beer
+http://lckcdnjs.beer
+http://lcstdnsns.beer
+http://ldnscreatejs.beer
+http://lnfcdnclad.beer
+http://lovezramexar.info
+http://lsnsdns.beer
+http://mesa-braior-k3w3b.life
+http://mistraljs.beer
+http://misty-arc-rook-sleoor.com
+http://mnoskemp.beer
+http://neiwteamcdn.beer
+http://npanssltejs.beer
+http://ns-claude-js.beer
+http://ns-server-jscdn.beer
+http://ns1cdnclaude.beer
+http://nshtjscdn.beer
+http://nsserdns.beer
+http://nsserv-bootstru.beer
+http://nsservclod.beer
+http://nstdcs.beer
+http://nvbfcdnclaud.beer
+http://olnsclaud.beer
+http://pine63.com
+http://plume-compass.com
+http://rerrioara.live
+http://rrr.12naga.org
+http://sane-cdn-js.beer
+http://sdnssmdf-js.beer
+http://sha.sm188dvlv.icu
+http://slngftr.beer
+http://smetana-js.beer
+http://smfcdnbb.beer
+http://smnsdns.beer
+http://snccdn-framework.beer
+http://sns-clauder-cdn.beer
+http://sr-hostes-js.beer
+http://srtydnnc.beer
+http://ssg-cdn.beer
+http://ssjscrybootstrup.beer
+http://stabcdnvlc.beer
+http://tak.123ful.net
+http://tak.sm188dvlv.icu
+http://teamcss.beer
+http://terminalbrewmac.com
+http://third-party.com
+http://tra.12naga.org
+http://uranbokachok.com
+http://verico-de-id.beer
+http://verifyrecapcha.info
+http://viscdnclaud.beer
+http://visual-ns-portal.beer
+http://vnmstokns.beer
+http://vsbnsbootstrup.beer
+http://wheremymoney.beer
+http://winecdn.sbs
+http://wmicconfidance.info
+http://workcdnmass.beer
+http://worksodsirius.ydns.eu
+http://www.hyundaiservisiankara.com
+https://176.97.114.92:9443
+https://f005.backblazeb2.com
+https://lkntansr.net
+https://third-party.com

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #wsgidav IOC feed</title>
+      <link>https://tweetfeed.live/tag/wsgidav/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #wsgidav on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #wsgidav IOC feed</title>
+         <link>https://tweetfeed.live/tag/wsgidav/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/wsgidav.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 26 Sep 2026 00:00:30 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://fever-recommendations-martha-durable.trycloudflare.com</title>
+         <link>https://x.com/smica83/status/2103055397221212419</link>
+         <description>@smica83 | url | #WsgiDAV #opendir
+Value: https://fever-recommendations-martha-durable.trycloudflare.com
+Tweet: https://x.com/smica83/status/2103055397221212419</description>
+         <guid isPermaLink="false">https://fever-recommendations-martha-durable.trycloudflare.com</guid>
+         <pubDate>Thu, 24 Sep 2026 09:34:14 +0000</pubDate>
+         <category>url</category>
+         <category>#WsgiDAV</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>fever-recommendations-martha-durable.trycloudflare.com</title>
+         <link>https://x.com/smica83/status/2103055397221212419</link>
+         <description>@smica83 | domain | #WsgiDAV #opendir
+Value: fever-recommendations-martha-durable.trycloudflare.com
+Tweet: https://x.com/smica83/status/2103055397221212419</description>
+         <guid isPermaLink="false">fever-recommendations-martha-durable.trycloudflare.com</guid>
+         <pubDate>Thu, 24 Sep 2026 09:34:14 +0000</pubDate>
+         <category>domain</category>
+         <category>#WsgiDAV</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

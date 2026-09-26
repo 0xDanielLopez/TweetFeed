@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @RakeshKrish12</title>
+      <link>https://x.com/RakeshKrish12</link>
+      <description>IOCs shared by @RakeshKrish12 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @RakeshKrish12</title>
+         <link>https://x.com/RakeshKrish12</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/rakeshkrish12.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 26 Sep 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>176.97.114.92</title>
+         <link>https://x.com/RakeshKrish12/status/2102424852850458662</link>
+         <description>@RakeshKrish12 | ip | #malware #ransomware
+Value: 176.97.114.92
+Tweet: https://x.com/RakeshKrish12/status/2102424852850458662</description>
+         <guid isPermaLink="false">176.97.114.92</guid>
+         <pubDate>Tue, 22 Sep 2026 15:48:40 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>https://176.97.114.92:9443</title>
+         <link>https://x.com/RakeshKrish12/status/2102424852850458662</link>
+         <description>@RakeshKrish12 | url | #malware #ransomware
+Value: https://176.97.114.92:9443
+Tweet: https://x.com/RakeshKrish12/status/2102424852850458662</description>
+         <guid isPermaLink="false">https://176.97.114.92:9443</guid>
+         <pubDate>Tue, 22 Sep 2026 15:48:40 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>http://176.97.114.92:9080</title>
+         <link>https://x.com/RakeshKrish12/status/2102424852850458662</link>
+         <description>@RakeshKrish12 | url | #malware #ransomware
+Value: http://176.97.114.92:9080
+Tweet: https://x.com/RakeshKrish12/status/2102424852850458662</description>
+         <guid isPermaLink="false">http://176.97.114.92:9080</guid>
+         <pubDate>Tue, 22 Sep 2026 15:48:40 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>
