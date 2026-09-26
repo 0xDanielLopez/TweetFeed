@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1024
-; Updated: 2026-09-26T18:45:18Z
+; Entries: 1047
+; Updated: 2026-09-26T20:00:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790448318 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790452820 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -104,6 +104,8 @@ ana-log.therealmasterwithin.com CNAME .
 *.ana-log.therealmasterwithin.com CNAME .
 anadolucuhuriyeti.info CNAME .
 *.anadolucuhuriyeti.info CNAME .
+analytics-secure.com CNAME .
+*.analytics-secure.com CNAME .
 ananeosi-melous.com CNAME .
 *.ananeosi-melous.com CNAME .
 anaridelight.com CNAME .
@@ -142,6 +144,10 @@ ashen-trace-zephyr-draeix.life CNAME .
 *.ashen-trace-zephyr-draeix.life CNAME .
 asianmassageporn.info CNAME .
 *.asianmassageporn.info CNAME .
+assets-bundle.com CNAME .
+*.assets-bundle.com CNAME .
+assetsbundle.com CNAME .
+*.assetsbundle.com CNAME .
 assuredpartners.report CNAME .
 *.assuredpartners.report CNAME .
 atimaterials.report CNAME .
@@ -302,6 +308,8 @@ capcha-cdn-js.beer CNAME .
 *.capcha-cdn-js.beer CNAME .
 capitaltrackspro.com CNAME .
 *.capitaltrackspro.com CNAME .
+captchatimestamp.com CNAME .
+*.captchatimestamp.com CNAME .
 car-vertical-report.com CNAME .
 *.car-vertical-report.com CNAME .
 cardamomo.eu CNAME .
@@ -480,6 +488,10 @@ dongwana.com CNAME .
 *.dongwana.com CNAME .
 doput5rg.myartsonline.com CNAME .
 *.doput5rg.myartsonline.com CNAME .
+doubleclickcache.com CNAME .
+*.doubleclickcache.com CNAME .
+doubleclickpro.com CNAME .
+*.doubleclickpro.com CNAME .
 downin.club CNAME .
 *.downin.club CNAME .
 download.lovelyday-app.com CNAME .
@@ -562,6 +574,8 @@ exodus-wallet.global.ssl.fastly.net CNAME .
 *.exodus-wallet.global.ssl.fastly.net CNAME .
 expeditors.report CNAME .
 *.expeditors.report CNAME .
+explorerbrowser.com CNAME .
+*.explorerbrowser.com CNAME .
 externalbsnle-smbice.com CNAME .
 *.externalbsnle-smbice.com CNAME .
 ezcapsforums.com CNAME .
@@ -588,6 +602,12 @@ fathom.report CNAME .
 *.fathom.report CNAME .
 fedexcustom.delivery CNAME .
 *.fedexcustom.delivery CNAME .
+feedback-bundle.com CNAME .
+*.feedback-bundle.com CNAME .
+feedback-hotjar.com CNAME .
+*.feedback-hotjar.com CNAME .
+feedbackbundle.com CNAME .
+*.feedbackbundle.com CNAME .
 feedsafepro.com CNAME .
 *.feedsafepro.com CNAME .
 fengniaop-ertaxjpzu.com CNAME .
@@ -690,6 +710,8 @@ greenerpasturetrading.info CNAME .
 *.greenerpasturetrading.info CNAME .
 grupoimpaktu.ao CNAME .
 *.grupoimpaktu.ao CNAME .
+gtmtimestamp.com CNAME .
+*.gtmtimestamp.com CNAME .
 hacsg.com CNAME .
 *.hacsg.com CNAME .
 haieryunsh-rakunde.com CNAME .
@@ -876,6 +898,8 @@ joyalukkas-karama.store CNAME .
 *.joyalukkas-karama.store CNAME .
 jp.thkiind.com CNAME .
 *.jp.thkiind.com CNAME .
+jquery-bootstrap.com CNAME .
+*.jquery-bootstrap.com CNAME .
 js.wp-js.com CNAME .
 *.js.wp-js.com CNAME .
 jsmyvlm.com CNAME .
@@ -994,6 +1018,8 @@ ludaluvemserfeliz.com CNAME .
 *.ludaluvemserfeliz.com CNAME .
 luflzkx.com CNAME .
 *.luflzkx.com CNAME .
+lurkershield.com CNAME .
+*.lurkershield.com CNAME .
 lyrahealth.report CNAME .
 *.lyrahealth.report CNAME .
 lyravelvet.com CNAME .
@@ -1448,6 +1474,8 @@ reusabletaka-jp-etzax.com CNAME .
 *.reusabletaka-jp-etzax.com CNAME .
 revaotrace.com CNAME .
 *.revaotrace.com CNAME .
+review-cdn.com CNAME .
+*.review-cdn.com CNAME .
 revivesourhearts.com CNAME .
 *.revivesourhearts.com CNAME .
 revolut.com.93810.app CNAME .
@@ -1534,6 +1562,12 @@ s-31niukey.s3.us-east-2.amazonaws.com CNAME .
 *.s-31niukey.s3.us-east-2.amazonaws.com CNAME .
 sa.oskatrace.com CNAME .
 *.sa.oskatrace.com CNAME .
+safepayguard.com CNAME .
+*.safepayguard.com CNAME .
+safeprocessmaster.com CNAME .
+*.safeprocessmaster.com CNAME .
+safeprocessor.com CNAME .
+*.safeprocessor.com CNAME .
 safetystock.eu CNAME .
 *.safetystock.eu CNAME .
 sane-cdn-js.beer CNAME .
@@ -1646,6 +1680,8 @@ snccdn-framework.beer CNAME .
 *.snccdn-framework.beer CNAME .
 sns-clauder-cdn.beer CNAME .
 *.sns-clauder-cdn.beer CNAME .
+solutionjquery.com CNAME .
+*.solutionjquery.com CNAME .
 soundcloudapp.com CNAME .
 *.soundcloudapp.com CNAME .
 southcoastshop-etzax.com CNAME .
@@ -1660,6 +1696,8 @@ sp12ct-zomdel-biz-pranik-lorsik.pages.dev CNAME .
 *.sp12ct-zomdel-biz-pranik-lorsik.pages.dev CNAME .
 sp30ct-zavun-biz-kemir-qolax.pages.dev CNAME .
 *.sp30ct-zavun-biz-kemir-qolax.pages.dev CNAME .
+specterguardian.com CNAME .
+*.specterguardian.com CNAME .
 speedymarqueeonline.info CNAME .
 *.speedymarqueeonline.info CNAME .
 spiralstfe7rtbna7zlv6szdwmjvjszf2d64zkf6z5jykrwnw5jbgpyd.onion CNAME .
@@ -1690,6 +1728,8 @@ ssosvc-m365s-kvl-dv0pshb-s3ntln-c0mply-4zrmonx-apimgwx-evnthb.workers.dev CNAME 
 *.ssosvc-m365s-kvl-dv0pshb-s3ntln-c0mply-4zrmonx-apimgwx-evnthb.workers.dev CNAME .
 stabcdnvlc.beer CNAME .
 *.stabcdnvlc.beer CNAME .
+static-secure.com CNAME .
+*.static-secure.com CNAME .
 static.telegram-info.top CNAME .
 *.static.telegram-info.top CNAME .
 static.wp-js.com CNAME .
@@ -1926,8 +1966,14 @@ wealthfocushub.net CNAME .
 *.wealthfocushub.net CNAME .
 webbottom.com CNAME .
 *.webbottom.com CNAME .
+webcache-cache.com CNAME .
+*.webcache-cache.com CNAME .
+webcachecache.com CNAME .
+*.webcachecache.com CNAME .
 webologygroup.com CNAME .
 *.webologygroup.com CNAME .
+websitewebcache.com CNAME .
+*.websitewebcache.com CNAME .
 webtycoons.co.in CNAME .
 *.webtycoons.co.in CNAME .
 wecqb.cyou CNAME .

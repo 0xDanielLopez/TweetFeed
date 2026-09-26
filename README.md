@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 19:45:17 (UTC)</th>
+        <th colspan=4>2026-09-26 20:00:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 425 | 1276 | 48280 |
-| **:globe_with_meridians: Domains** | 18 | 370 | 1155 | 41422 |
+| **:link: URLs** | 44 | 448 | 1299 | 48303 |
+| **:globe_with_meridians: Domains** | 41 | 393 | 1178 | 41445 |
 | **:triangular_flag_on_post: IPs** | 5 | 74 | 208 | 6605 |
 | **:1234: SHA256** | 7 | 37 | 103 | 2627 |
 | **:1234: MD5** | 1 | 18 | 62 | 2251 |
@@ -230,16 +230,16 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 25 |
-| **#2** | [Wilmichels](https://x.com/Wilmichels) | 4 |
-| **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#4** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#5** | [smica83](https://x.com/smica83) | 3 |
-| **#6** | [skocherhan](https://x.com/skocherhan) | 3 |
-| **#7** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
-| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
-| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
-| **#10** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#1** | [500mk500](https://x.com/500mk500) | 26 |
+| **#2** | [masaomi346](https://x.com/masaomi346) | 25 |
+| **#3** | [reporturi](https://x.com/reporturi) | 20 |
+| **#4** | [Wilmichels](https://x.com/Wilmichels) | 4 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#7** | [smica83](https://x.com/smica83) | 3 |
+| **#8** | [skocherhan](https://x.com/skocherhan) | 3 |
+| **#9** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
