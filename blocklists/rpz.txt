@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1047
-; Updated: 2026-09-26T20:00:20Z
+; Entries: 1049
+; Updated: 2026-09-26T20:15:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790452820 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790453716 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -118,6 +118,8 @@ aniv.czklwfl.cn CNAME .
 *.aniv.czklwfl.cn CNAME .
 anlytic-js-cloud.beer CNAME .
 *.anlytic-js-cloud.beer CNAME .
+anunds.com CNAME .
+*.anunds.com CNAME .
 api.npoint.io CNAME .
 *.api.npoint.io CNAME .
 apk-google.cn CNAME .
@@ -876,6 +878,8 @@ iuiut.nwfdk.com CNAME .
 *.iuiut.nwfdk.com CNAME .
 iwannagetmoremoney.beer CNAME .
 *.iwannagetmoremoney.beer CNAME .
+jadxgui.com CNAME .
+*.jadxgui.com CNAME .
 jeffersongraphicsllc.com CNAME .
 *.jeffersongraphicsllc.com CNAME .
 jessicaleeinc.com CNAME .

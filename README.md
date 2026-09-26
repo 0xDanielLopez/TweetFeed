@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 20:00:20 (UTC)</th>
+        <th colspan=4>2026-09-26 20:15:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 44 | 448 | 1299 | 48303 |
-| **:globe_with_meridians: Domains** | 41 | 393 | 1178 | 41445 |
+| **:link: URLs** | 46 | 450 | 1301 | 48305 |
+| **:globe_with_meridians: Domains** | 43 | 395 | 1180 | 41447 |
 | **:triangular_flag_on_post: IPs** | 5 | 74 | 208 | 6605 |
-| **:1234: SHA256** | 7 | 37 | 103 | 2627 |
+| **:1234: SHA256** | 9 | 39 | 105 | 2629 |
 | **:1234: MD5** | 1 | 18 | 62 | 2251 |
 
 </div>
@@ -233,11 +233,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#1** | [500mk500](https://x.com/500mk500) | 26 |
 | **#2** | [masaomi346](https://x.com/masaomi346) | 25 |
 | **#3** | [reporturi](https://x.com/reporturi) | 20 |
-| **#4** | [Wilmichels](https://x.com/Wilmichels) | 4 |
-| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#6** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#7** | [smica83](https://x.com/smica83) | 3 |
-| **#8** | [skocherhan](https://x.com/skocherhan) | 3 |
+| **#4** | [smica83](https://x.com/smica83) | 5 |
+| **#5** | [skocherhan](https://x.com/skocherhan) | 5 |
+| **#6** | [Wilmichels](https://x.com/Wilmichels) | 4 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#9** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
 | **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 <!-- TOP_REPORTERS_END -->
