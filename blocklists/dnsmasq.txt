@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1049
-# Updated: 2026-09-26T20:15:16Z
+# Entries: 1050
+# Updated: 2026-09-26T20:30:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -485,6 +485,7 @@ address=/lcates-vs.beer/0.0.0.0
 address=/lckcdnjs.beer/0.0.0.0
 address=/lcstdnsns.beer/0.0.0.0
 address=/ldnscreatejs.beer/0.0.0.0
+address=/leadingspacetechnology.top/0.0.0.0
 address=/ledgerlivewebapp.com/0.0.0.0
 address=/ledgerwallet.report/0.0.0.0
 address=/lemon-1789655480294.staticrun.app/0.0.0.0
