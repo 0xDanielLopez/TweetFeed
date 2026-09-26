@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 12:45:20 (UTC)</th>
+        <th colspan=4>2026-09-26 13:00:23 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,7 +188,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 420 | 1271 | 48275 |
+| **:link: URLs** | 17 | 421 | 1272 | 48276 |
 | **:globe_with_meridians: Domains** | 15 | 367 | 1152 | 41419 |
 | **:triangular_flag_on_post: IPs** | 2 | 71 | 205 | 6602 |
 | **:1234: SHA256** | 7 | 37 | 103 | 2627 |
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 30 | 433 | 1631 | 39200 |
+| **#phishing** | 31 | 434 | 1632 | 39201 |
 | **#Kimsuky** | 0 | 17 | 82 | 13291 |
 | **#DPRK** | 0 | 0 | 17 | 11664 |
 | **#scam** | 4 | 23 | 72 | 4730 |
@@ -232,10 +232,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 25 |
 | **#2** | [Wilmichels](https://x.com/Wilmichels) | 4 |
-| **#3** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#4** | [smica83](https://x.com/smica83) | 3 |
-| **#5** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#4** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#5** | [smica83](https://x.com/smica83) | 3 |
+| **#6** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
 | **#7** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
