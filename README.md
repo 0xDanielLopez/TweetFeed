@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 14:30:19 (UTC)</th>
+        <th colspan=4>2026-09-26 14:45:18 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 19 | 423 | 1274 | 48278 |
-| **:globe_with_meridians: Domains** | 16 | 368 | 1153 | 41420 |
+| **:link: URLs** | 20 | 424 | 1275 | 48279 |
+| **:globe_with_meridians: Domains** | 17 | 369 | 1154 | 41421 |
 | **:triangular_flag_on_post: IPs** | 4 | 73 | 207 | 6604 |
 | **:1234: SHA256** | 7 | 37 | 103 | 2627 |
 | **:1234: MD5** | 1 | 18 | 62 | 2251 |
@@ -211,7 +211,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#scam** | 4 | 23 | 72 | 4730 |
 | **#C2** | 1 | 37 | 95 | 3293 |
 | **#malware** | 23 | 155 | 493 | 3010 |
-| **#APT** | 0 | 12 | 42 | 1604 |
+| **#APT** | 2 | 14 | 44 | 1606 |
 | **#ClickFix** | 0 | 223 | 273 | 826 |
 | **#opendir** | 0 | 10 | 17 | 712 |
 | **#stealer** | 0 | 1 | 19 | 704 |
@@ -238,8 +238,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#6** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
 | **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 | **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
+| **#9** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

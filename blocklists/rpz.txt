@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1022
-; Updated: 2026-09-26T14:00:21Z
+; Entries: 1023
+; Updated: 2026-09-26T14:45:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790431221 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790433917 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2024,6 +2024,8 @@ youcanwinfriendswithsalad.com CNAME .
 *.youcanwinfriendswithsalad.com CNAME .
 yournestmakeover.com CNAME .
 *.yournestmakeover.com CNAME .
+youwillneverstopus.top CNAME .
+*.youwillneverstopus.top CNAME .
 yscf988.club CNAME .
 *.yscf988.club CNAME .
 yw8.net CNAME .
