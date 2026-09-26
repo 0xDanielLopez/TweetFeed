@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 1017
-# Updated: 2026-09-26T07:15:18Z
+# Entries: 1018
+# Updated: 2026-09-26T08:00:24Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -926,6 +926,7 @@
 0.0.0.0 usps.avaturefed.net
 0.0.0.0 uspsin.s3.us-east-1.amazonaws.com
 0.0.0.0 uukuz.wanjiangmei.com
+0.0.0.0 uwaiskdas.com
 0.0.0.0 uywajjsaiqas.com
 0.0.0.0 v02.zip
 0.0.0.0 v6-nq.global.ssl.fastly.net
