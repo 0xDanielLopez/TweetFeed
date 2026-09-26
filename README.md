@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 13:45:18 (UTC)</th>
+        <th colspan=4>2026-09-26 14:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 17 | 421 | 1272 | 48276 |
-| **:globe_with_meridians: Domains** | 15 | 367 | 1152 | 41419 |
-| **:triangular_flag_on_post: IPs** | 2 | 71 | 205 | 6602 |
+| **:link: URLs** | 19 | 423 | 1274 | 48278 |
+| **:globe_with_meridians: Domains** | 16 | 368 | 1153 | 41420 |
+| **:triangular_flag_on_post: IPs** | 4 | 73 | 207 | 6604 |
 | **:1234: SHA256** | 7 | 37 | 103 | 2627 |
 | **:1234: MD5** | 1 | 18 | 62 | 2251 |
 
@@ -205,11 +205,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 31 | 434 | 1632 | 39201 |
+| **#phishing** | 33 | 436 | 1634 | 39203 |
 | **#Kimsuky** | 0 | 17 | 82 | 13291 |
 | **#DPRK** | 0 | 0 | 17 | 11664 |
 | **#scam** | 4 | 23 | 72 | 4730 |
-| **#C2** | 0 | 36 | 94 | 3292 |
+| **#C2** | 1 | 37 | 95 | 3293 |
 | **#malware** | 23 | 155 | 493 | 3010 |
 | **#APT** | 0 | 12 | 42 | 1604 |
 | **#ClickFix** | 0 | 223 | 273 | 826 |
@@ -236,10 +236,10 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#4** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#5** | [smica83](https://x.com/smica83) | 3 |
 | **#6** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
-| **#7** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#9** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#10** | [Fact_Finder03](https://x.com/Fact_Finder03) | 1 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

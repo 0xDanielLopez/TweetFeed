@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1021
-; Updated: 2026-09-26T09:30:21Z
+; Entries: 1022
+; Updated: 2026-09-26T14:00:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1790415021 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1790431221 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1128,6 +1128,8 @@ nestfixio.com CNAME .
 *.nestfixio.com CNAME .
 net121.site CNAME .
 *.net121.site CNAME .
+netflix-71f05.firebaseapp.com CNAME .
+*.netflix-71f05.firebaseapp.com CNAME .
 netflix.patelrudra.in CNAME .
 *.netflix.patelrudra.in CNAME .
 nextgenshoppingcardeals.info CNAME .

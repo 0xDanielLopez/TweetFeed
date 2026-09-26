@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain IP list
 # Window: 30 days
-# Entries: 199
-# Updated: 2026-09-26T09:00:23Z
+# Entries: 201
+# Updated: 2026-09-26T14:00:21Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -13,6 +13,7 @@
 101.35.219.220
 101.36.114.215
 101.42.136.73
+103.101.178.218
 103.133.1.1
 103.136.41.20
 103.143.81.147
@@ -95,6 +96,7 @@
 198.44.46.105
 198.46.188.133
 199.116.78.57
+20.102.117.176
 200.58.111.123
 200.76.161.229
 201.7.16.43

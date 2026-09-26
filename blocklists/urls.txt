@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 1149
-# Updated: 2026-09-26T13:00:22Z
+# Entries: 1151
+# Updated: 2026-09-26T14:00:21Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -42,6 +42,7 @@ http://1902-cf.com
 http://193.233.202.17
 http://198.13.158.114:5000
 http://198.44.46.105
+http://20.102.117.176:8080/login
 http://202.146.222.95:443
 http://209.99.184.230:5000
 http://209.99.191.44
@@ -494,6 +495,7 @@ http://nellarmonia.eu
 http://nestbuildhaven.com
 http://nestfixio.com
 http://net121.site
+http://netflix-71f05.firebaseapp.com
 http://netflix.patelrudra.in
 http://nextgenshoppingcardeals.info
 http://nightfall.host
