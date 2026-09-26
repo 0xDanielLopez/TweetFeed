@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 18:30:19 (UTC)</th>
+        <th colspan=4>2026-09-26 18:45:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,8 +188,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 424 | 1275 | 48279 |
-| **:globe_with_meridians: Domains** | 17 | 369 | 1154 | 41421 |
+| **:link: URLs** | 21 | 425 | 1276 | 48280 |
+| **:globe_with_meridians: Domains** | 18 | 370 | 1155 | 41422 |
 | **:triangular_flag_on_post: IPs** | 5 | 74 | 208 | 6605 |
 | **:1234: SHA256** | 7 | 37 | 103 | 2627 |
 | **:1234: MD5** | 1 | 18 | 62 | 2251 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#3** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#4** | [phishunt_io](https://x.com/phishunt_io) | 3 |
 | **#5** | [smica83](https://x.com/smica83) | 3 |
-| **#6** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
-| **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
-| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#10** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
+| **#6** | [skocherhan](https://x.com/skocherhan) | 3 |
+| **#7** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
+| **#8** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#9** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
+| **#10** | [scanmalware](https://x.com/scanmalware) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

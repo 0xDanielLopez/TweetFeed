@@ -1,5 +1,5 @@
 {
-  "count": 1626,
+  "count": 1624,
   "dead_tweets": {
     "2096234357635834097": {
       "attempts": 2,
@@ -281,6 +281,20 @@
       "tweet_id": "2103380009830224069",
       "type": "sha256",
       "value": "10111b02ef35a94c8e8c1d42cf7870f20a59aeed1ddcc94eb592dd59c97bec5d"
+    },
+    "103.101.178.218": {
+      "confidence": 0.55,
+      "date": "2026-09-26 13:44:56",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "C2 panel identified at fenscx55yy.com / 103.101.178.218.",
+      "threat_type": "c2",
+      "tweet_id": "2103843266793976066",
+      "type": "ip",
+      "value": "103.101.178.218"
     },
     "103.133.1.1": {
       "confidence": 0.9,
@@ -1756,22 +1770,6 @@
       "type": "ip",
       "value": "191.223.218.5"
     },
-    "192.159.99.164": {
-      "confidence": 0.62,
-      "date": "2026-08-27 16:15:30",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "banker",
-        "malware"
-      ],
-      "summary": "Open directory at 192.159.99.164 hosting suspected banker-like malware samples shared on URLhaus and MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2093009520217805177",
-      "type": "ip",
-      "value": "192.159.99.164"
-    },
     "193.233.202.17": {
       "confidence": 0.95,
       "date": "2026-09-07 17:02:48",
@@ -2010,6 +2008,34 @@
       "type": "md5",
       "value": "1dc0f32bf189fecc040be8e85ca9a3d3"
     },
+    "20.102.117.176": {
+      "confidence": 0.55,
+      "date": "2026-09-26 13:43:21",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Exposed C2 login panel found on IP 20.102.117.176:8080.",
+      "threat_type": "c2",
+      "tweet_id": "2103842866573484177",
+      "type": "ip",
+      "value": "20.102.117.176"
+    },
+    "20.102.117.176:8080/login": {
+      "confidence": 0.55,
+      "date": "2026-09-26 13:43:21",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Exposed C2 login panel found on IP 20.102.117.176:8080.",
+      "threat_type": "c2",
+      "tweet_id": "2103842866573484177",
+      "type": "url",
+      "value": "http://20.102.117.176:8080/login"
+    },
     "200.58.111.123": {
       "confidence": 0.97,
       "date": "2026-08-29 12:01:16",
@@ -2235,22 +2261,6 @@
       "type": "url",
       "value": "http://209.99.191.44:5000"
     },
-    "20b717d37f5cbec14aae02f9e0d47f642e72288f26982c2e555fb942748dbc95": {
-      "confidence": 0.62,
-      "date": "2026-08-27 16:15:30",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "banker",
-        "malware"
-      ],
-      "summary": "Open directory at 192.159.99.164 hosting suspected banker-like malware samples shared on URLhaus and MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2093009520217805177",
-      "type": "sha256",
-      "value": "20b717d37f5cbec14aae02f9e0d47f642e72288f26982c2e555fb942748dbc95"
-    },
     "213.108.22.160": {
       "confidence": 0.93,
       "date": "2026-09-07 20:14:09",
@@ -2300,6 +2310,23 @@
       "tweet_id": "2098328362989043987",
       "type": "ip",
       "value": "213.239.243.107"
+    },
+    "213.252.232.182": {
+      "confidence": 0.6,
+      "date": "2026-09-26 16:53:58",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": "Evilginx",
+      "suggested_tags": [
+        "evilginx",
+        "aitm",
+        "c2",
+        "phishing"
+      ],
+      "summary": "Evilginx AiTM phishing C2 panel exposed on IP 213.252.232.182:8443.",
+      "threat_type": "phishing",
+      "tweet_id": "2103890838313115963",
+      "type": "ip",
+      "value": "213.252.232.182"
     },
     "216.126.236.22": {
       "confidence": 0.75,
@@ -3906,20 +3933,6 @@
       "tweet_id": "2100918153022701591",
       "type": "ip",
       "value": "62.60.227.68"
-    },
-    "63.176.8.218": {
-      "confidence": 0.95,
-      "date": "2026-08-27 17:01:02",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "FedEx-branded phishing site at fedexcustom[.]delivery hosted on Amazon AWS (AS16509) in Germany.",
-      "threat_type": "phishing",
-      "tweet_id": "2093020979458937201",
-      "type": "ip",
-      "value": "63.176.8.218"
     },
     "635ceb7e46453dcecee94d8eb48c4dbfd090e0819197f1d4087fe0aaa439918a": {
       "confidence": 0.9,
@@ -8074,36 +8087,6 @@
       "type": "domain",
       "value": "carsonhow-ertaxjpzu.com"
     },
-    "cartoonblastfun.cfd": {
-      "confidence": 0.85,
-      "date": "2026-08-27 15:07:36",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "ClickFix malware delivery IOC: domain cartoonblastfun[.]cfd first seen Aug 25-26 2026; isolate before analyzing.",
-      "threat_type": "malware",
-      "tweet_id": "2092992434229924134",
-      "type": "domain",
-      "value": "cartoonblastfun.cfd"
-    },
-    "cartoonblastfun.cfd/ke1a1wixzsbqo1kied": {
-      "confidence": 0.85,
-      "date": "2026-08-27 15:07:36",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "ClickFix malware delivery IOC: domain cartoonblastfun[.]cfd first seen Aug 25-26 2026; isolate before analyzing.",
-      "threat_type": "malware",
-      "tweet_id": "2092992434229924134",
-      "type": "url",
-      "value": "https://cartoonblastfun.cfd/KE1A1wIxZsbQo1KIeD"
-    },
     "cartshopdaily.com": {
       "confidence": 0.82,
       "date": "2026-09-02 14:06:36",
@@ -9575,21 +9558,6 @@
       "tweet_id": "2103492532810232027",
       "type": "domain",
       "value": "diabetesnet.eu"
-    },
-    "disclousre.cyou": {
-      "confidence": 0.72,
-      "date": "2026-08-27 18:00:04",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "MuddyWater APT cyber espionage IOC: domain disclousre[.]cyou flagged as malicious indicator.",
-      "threat_type": "malware",
-      "tweet_id": "2093035835629482214",
-      "type": "domain",
-      "value": "disclousre.cyou"
     },
     "discounttire-retail.report": {
       "confidence": 0.85,
@@ -11190,20 +11158,6 @@
       "tweet_id": "2100312272778244396",
       "type": "md5",
       "value": "fce5a84ad616e353e1048617a4fbe809"
-    },
-    "fedexcustom.delivery": {
-      "confidence": 0.95,
-      "date": "2026-08-27 17:01:02",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "FedEx-branded phishing site at fedexcustom[.]delivery hosted on Amazon AWS (AS16509) in Germany.",
-      "threat_type": "phishing",
-      "tweet_id": "2093020979458937201",
-      "type": "domain",
-      "value": "fedexcustom.delivery"
     },
     "feedsafepro.com": {
       "confidence": 0.95,
@@ -16255,6 +16209,21 @@
       "type": "domain",
       "value": "net121.site"
     },
+    "netflix-71f05.firebaseapp.com": {
+      "confidence": 0.6,
+      "date": "2026-09-26 13:51:55",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake Netflix site on Firebase App hosting confirmed as scam by malware scanner.",
+      "threat_type": "phishing",
+      "tweet_id": "2103845020595839074",
+      "type": "domain",
+      "value": "netflix-71f05.firebaseapp.com"
+    },
     "netflix.patelrudra.in": {
       "confidence": 0.95,
       "date": "2026-09-15 07:01:12",
@@ -17708,21 +17677,6 @@
       "tweet_id": "2097554524915560853",
       "type": "domain",
       "value": "post.xero.com"
-    },
-    "potwierdzenie-bezpieczenstwa.vercel.app": {
-      "confidence": 0.78,
-      "date": "2026-08-27 13:11:17",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Confirmed scam site potwierdzenie-bezpieczenstwa[.]vercel[.]app; security verdict from scanmalware.com analysis.",
-      "threat_type": "scam",
-      "tweet_id": "2092963159745126554",
-      "type": "domain",
-      "value": "potwierdzenie-bezpieczenstwa.vercel.app"
     },
     "premiumbuyersnetwork.info": {
       "confidence": 0.9,
@@ -24152,21 +24106,6 @@
       "type": "url",
       "value": "http://www.ntiksangatindah.info"
     },
-    "www.potwierdzenie-bezpieczenstwa.vercel.app": {
-      "confidence": 0.78,
-      "date": "2026-08-27 13:11:17",
-      "enriched_at": "2026-08-27T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Confirmed scam site potwierdzenie-bezpieczenstwa[.]vercel[.]app; security verdict from scanmalware.com analysis.",
-      "threat_type": "scam",
-      "tweet_id": "2092963159745126554",
-      "type": "url",
-      "value": "http://www.potwierdzenie-bezpieczenstwa.vercel.app"
-    },
     "www.prime.madjizz.com/primes/login/singin/app/servers/openid/return_to=3a2f": {
       "confidence": 0.95,
       "date": "2026-09-09 03:38:43",
@@ -24586,6 +24525,36 @@
       "type": "domain",
       "value": "yournestmakeover.com"
     },
+    "youwillneverstopus.top": {
+      "confidence": 0.5,
+      "date": "2026-09-26 14:20:57",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Malicious LNK file (HomeDesign_villa lure) fetches payload from suspicious domain, likely APT activity.",
+      "threat_type": "malware",
+      "tweet_id": "2103852329636372760",
+      "type": "domain",
+      "value": "youwillneverstopus.top"
+    },
+    "youwillneverstopus.top/mart/res/bb.php": {
+      "confidence": 0.5,
+      "date": "2026-09-26 14:20:57",
+      "enriched_at": "2026-09-26T18:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Malicious LNK file (HomeDesign_villa lure) fetches payload from suspicious domain, likely APT activity.",
+      "threat_type": "malware",
+      "tweet_id": "2103852329636372760",
+      "type": "url",
+      "value": "http://youwillneverstopus.top/mart/res/bb.php"
+    },
     "yscf988.club": {
       "confidence": 0.85,
       "date": "2026-09-17 20:09:40",
@@ -24870,6 +24839,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-26T12:40:03Z",
+  "generated_at": "2026-09-26T18:40:03Z",
   "window_days": 30
 }
