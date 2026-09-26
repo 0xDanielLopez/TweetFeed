@@ -1,5 +1,5 @@
 {
-  "count": 1631,
+  "count": 1623,
   "dead_tweets": {
     "2096234357635834097": {
       "attempts": 2,
@@ -516,21 +516,6 @@
       "tweet_id": "2103443256835268676",
       "type": "url",
       "value": "http://111.90.147.209"
-    },
-    "118.107.44.153": {
-      "confidence": 0.8,
-      "date": "2026-08-27 06:28:10",
-      "enriched_at": "2026-08-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "apt"
-      ],
-      "summary": "Silver Fox threat actor infrastructure: domain baouie2.club, IP 118.107.44.153, two malware SHA256 hashes shared.",
-      "threat_type": "malware",
-      "tweet_id": "2092861713196704173",
-      "type": "url",
-      "value": "http://118.107.44.153"
     },
     "118.194.249.91": {
       "confidence": 0.82,
@@ -2022,21 +2007,6 @@
       "tweet_id": "2103014027630895339",
       "type": "sha256",
       "value": "1b8218c839dfb071f7308fb2ab4157d726d9a81f3da9cb6d9b72d7db81686fec"
-    },
-    "1c53a0ee082f53f584297c44d9d1ee40e5b835cfc4543d409178aad704fd8ce5": {
-      "confidence": 0.8,
-      "date": "2026-08-27 06:28:10",
-      "enriched_at": "2026-08-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "apt"
-      ],
-      "summary": "Silver Fox threat actor infrastructure: domain baouie2.club, IP 118.107.44.153, two malware SHA256 hashes shared.",
-      "threat_type": "malware",
-      "tweet_id": "2092861713196704173",
-      "type": "sha256",
-      "value": "1c53a0ee082f53f584297c44d9d1ee40e5b835cfc4543d409178aad704fd8ce5"
     },
     "1dc0f32bf189fecc040be8e85ca9a3d3": {
       "confidence": 0.8,
@@ -6563,21 +6533,6 @@
       "type": "sha256",
       "value": "b22636d3b2af75bc84f65e21ce719c0ea2fb246a697f6515b8c1d659630776d2"
     },
-    "b2ee510d0b5012487dee143b459e4e2fcfb758960d3fe7ec4743552bc91be9e2": {
-      "confidence": 0.8,
-      "date": "2026-08-27 06:28:10",
-      "enriched_at": "2026-08-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "apt"
-      ],
-      "summary": "Silver Fox threat actor infrastructure: domain baouie2.club, IP 118.107.44.153, two malware SHA256 hashes shared.",
-      "threat_type": "malware",
-      "tweet_id": "2092861713196704173",
-      "type": "sha256",
-      "value": "b2ee510d0b5012487dee143b459e4e2fcfb758960d3fe7ec4743552bc91be9e2"
-    },
     "b41a09bcb49ddff8f4a3ada4deb8f1228066267d0c7bc3c2cbbd54d767494593": {
       "confidence": 0.82,
       "date": "2026-09-17 23:33:32",
@@ -6785,21 +6740,6 @@
       "tweet_id": "2103243191336284301",
       "type": "domain",
       "value": "baoanhenan-jp-etzax.com"
-    },
-    "baouie2.club": {
-      "confidence": 0.8,
-      "date": "2026-08-27 06:28:10",
-      "enriched_at": "2026-08-27T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "apt"
-      ],
-      "summary": "Silver Fox threat actor infrastructure: domain baouie2.club, IP 118.107.44.153, two malware SHA256 hashes shared.",
-      "threat_type": "malware",
-      "tweet_id": "2092861713196704173",
-      "type": "domain",
-      "value": "baouie2.club"
     },
     "barabax.com": {
       "confidence": 0.85,
@@ -17018,21 +16958,6 @@
       "type": "domain",
       "value": "paymentsecurelink.vercel.app"
     },
-    "paypal3.vercel.app": {
-      "confidence": 0.9,
-      "date": "2026-08-27 04:30:03",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Confirmed scam/phishing site impersonating PayPal hosted on paypal3.vercel.app.",
-      "threat_type": "phishing",
-      "tweet_id": "2092831987052503291",
-      "type": "domain",
-      "value": "paypal3.vercel.app"
-    },
     "paysera.report": {
       "confidence": 0.85,
       "date": "2026-09-16 08:43:19",
@@ -18477,34 +18402,6 @@
       "tweet_id": "2097462191628890623",
       "type": "domain",
       "value": "rakupoint-rwunda.com"
-    },
-    "rakuten-card.dksclz.com": {
-      "confidence": 0.95,
-      "date": "2026-08-27 05:08:09",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Rakuten card service hosted at rakuten-card.dksclz.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2092841574195761536",
-      "type": "domain",
-      "value": "rakuten-card.dksclz.com"
-    },
-    "rakuten-card.dksclz.com/oak8kv": {
-      "confidence": 0.95,
-      "date": "2026-08-27 05:08:09",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Rakuten card service hosted at rakuten-card.dksclz.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2092841574195761536",
-      "type": "url",
-      "value": "https://rakuten-card.dksclz.com/oak8kv"
     },
     "rbdvwwr.cn": {
       "confidence": 0.9,
@@ -24814,21 +24711,6 @@
       "type": "domain",
       "value": "zledu-sx.oss-cn-beijing.aliyuncs.com"
     },
-    "zone-data-95529d585562.rentalescpade.workers.dev": {
-      "confidence": 0.92,
-      "date": "2026-08-27 01:57:06",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "aitm"
-      ],
-      "summary": "Device code phishing page hosted on Cloudflare Workers subdomain rentalescpade.workers.dev.",
-      "threat_type": "phishing",
-      "tweet_id": "2092793495065170160",
-      "type": "domain",
-      "value": "zone-data-95529d585562.rentalescpade.workers.dev"
-    },
     "zoom.frash.org": {
       "confidence": 0.93,
       "date": "2026-09-22 05:14:45",
@@ -24937,6 +24819,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-26T00:40:04Z",
+  "generated_at": "2026-09-26T06:40:04Z",
   "window_days": 30
 }
