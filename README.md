@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-09-26 17:00:23 (UTC)</th>
+        <th colspan=4>2026-09-26 17:15:17 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 20 | 424 | 1275 | 48279 |
 | **:globe_with_meridians: Domains** | 17 | 369 | 1154 | 41421 |
-| **:triangular_flag_on_post: IPs** | 4 | 73 | 207 | 6604 |
+| **:triangular_flag_on_post: IPs** | 5 | 74 | 208 | 6605 |
 | **:1234: SHA256** | 7 | 37 | 103 | 2627 |
 | **:1234: MD5** | 1 | 18 | 62 | 2251 |
 
@@ -209,7 +209,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#Kimsuky** | 0 | 17 | 82 | 13291 |
 | **#DPRK** | 0 | 0 | 17 | 11664 |
 | **#scam** | 4 | 23 | 72 | 4730 |
-| **#C2** | 1 | 37 | 95 | 3293 |
+| **#C2** | 2 | 38 | 96 | 3294 |
 | **#malware** | 23 | 155 | 493 | 3010 |
 | **#APT** | 2 | 14 | 44 | 1606 |
 | **#ClickFix** | 0 | 223 | 273 | 826 |
@@ -237,9 +237,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#5** | [smica83](https://x.com/smica83) | 3 |
 | **#6** | [FarghlyMal](https://x.com/FarghlyMal) | 3 |
 | **#7** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
-| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#8** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
