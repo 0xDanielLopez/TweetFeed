@@ -1,5 +1,5 @@
 {
-  "count": 1626,
+  "count": 1631,
   "dead_tweets": {
     "2096234357635834097": {
       "attempts": 2,
@@ -19,6 +19,21 @@
     }
   },
   "entries": {
+    "046f16d9d267cbb5a97dc561ebc83062e3bd758c22da0eeab42ad17ef65c5087": {
+      "confidence": 0.4,
+      "date": "2026-09-25 19:35:14",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directory exposing a malicious PowerShell script sample, shared for community analysis.",
+      "threat_type": "malware",
+      "tweet_id": "2103569032628556053",
+      "type": "sha256",
+      "value": "046f16d9d267cbb5a97dc561ebc83062e3bd758c22da0eeab42ad17ef65c5087"
+    },
     "051b71ea0a645a96ff2a331ad61ac77db04113aada6d995b82a40f3a63ad4e36": {
       "confidence": 0.78,
       "date": "2026-09-12 03:50:32",
@@ -126,6 +141,22 @@
       "tweet_id": "2097981881346318827",
       "type": "sha256",
       "value": "0a70890afb11af40ac7b59808f9dda8cbff6a0e30ca298f85bd0993a8f250ccf"
+    },
+    "0cf1ef85fde5e62584145e2006983db5ef5136d1a1814fb02396309d7844eb37": {
+      "confidence": 0.7,
+      "date": "2026-09-26 00:08:32",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's e-Tax service, distributed via multiple phishing domains hosting the APK payload.",
+      "threat_type": "phishing",
+      "tweet_id": "2103637809479536718",
+      "type": "sha256",
+      "value": "0cf1ef85fde5e62584145e2006983db5ef5136d1a1814fb02396309d7844eb37"
     },
     "0db3b6d8296e4d19ca3be14a12792e5e": {
       "confidence": 0.72,
@@ -1678,6 +1709,21 @@
       "tweet_id": "2100661947779752408",
       "type": "url",
       "value": "http://188.63.231.182"
+    },
+    "189.49.3.54": {
+      "confidence": 0.55,
+      "date": "2026-09-25 20:14:52",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "opendir"
+      ],
+      "summary": "Fleet of 100+ centrally controlled C2 servers built on CyberStrikeAI, exploiting Pterodactyl/CyberPanel/WordPress flaws to target hosting providers for financial gain.",
+      "threat_type": "c2",
+      "tweet_id": "2103579006142501350",
+      "type": "ip",
+      "value": "189.49.3.54"
     },
     "1902-cf.com": {
       "confidence": 0.9,
@@ -5595,6 +5641,22 @@
       "type": "domain",
       "value": "airramp.report"
     },
+    "alaspapel-jprakutanziu.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:32:17",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten Card to steal credentials, spread through multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628687077994552",
+      "type": "domain",
+      "value": "alaspapel-jprakutanziu.com"
+    },
     "aleverifocation.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -5628,6 +5690,22 @@
       "tweet_id": "2100143481482022925",
       "type": "domain",
       "value": "algoseek-report.com"
+    },
+    "alhotel-pau-etzax.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:30:00",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's National Tax Agency (e-Tax), spread via multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628112886116814",
+      "type": "domain",
+      "value": "alhotel-pau-etzax.com"
     },
     "allegro.012031928g.lol": {
       "confidence": 0.9,
@@ -5874,20 +5952,6 @@
       "tweet_id": "2095488543653306813",
       "type": "url",
       "value": "https://ana-log.therealmasterwithin.com/login-ana/"
-    },
-    "anadolucuhuriyeti.info": {
-      "confidence": 0.87,
-      "date": "2026-08-27 00:21:19",
-      "enriched_at": "2026-09-21T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Insurify rate lure from ezcapsforums.com routes to anadolucuhuriyeti.info, a DGA-related domain per VirusTotal",
-      "threat_type": "phishing",
-      "tweet_id": "2092769392467841300",
-      "type": "domain",
-      "value": "anadolucuhuriyeti.info"
     },
     "ananeosi-melous.com": {
       "confidence": 0.85,
@@ -7062,6 +7126,22 @@
       "type": "domain",
       "value": "bhfgtrns-js.beer"
     },
+    "bhrconline-jprakutanziu.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:32:17",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten Card to steal credentials, spread through multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628687077994552",
+      "type": "domain",
+      "value": "bhrconline-jprakutanziu.com"
+    },
     "bigbigvol.qd.je": {
       "confidence": 0.8,
       "date": "2026-09-24 13:51:29",
@@ -8095,20 +8175,6 @@
       "type": "domain",
       "value": "casinovirtualexperience.info"
     },
-    "castlamp.com": {
-      "confidence": 0.9,
-      "date": "2026-08-27 00:20:45",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email spoofing Policy Guardians auto insurance via castlamp.com with Unicode obfuscation in sender and subject fields.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769247860789518",
-      "type": "domain",
-      "value": "castlamp.com"
-    },
     "caturchiropractic.info": {
       "confidence": 0.95,
       "date": "2026-09-06 23:27:03",
@@ -8930,6 +8996,22 @@
       "type": "domain",
       "value": "crimaxies.lovestoblog.com"
     },
+    "crispyinfo-jprakutanziu.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:32:17",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten Card to steal credentials, spread through multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628687077994552",
+      "type": "domain",
+      "value": "crispyinfo-jprakutanziu.com"
+    },
     "cristalpoker.site": {
       "confidence": 0.85,
       "date": "2026-09-19 20:16:46",
@@ -9065,6 +9147,22 @@
       "tweet_id": "2099766743338033361",
       "type": "md5",
       "value": "d5deec0ee2aa398f296b79e6da0a5d80"
+    },
+    "d642948da8c6b7d29f34f582d03aa171a437061b96e8050a33438caae1fc1464": {
+      "confidence": 0.7,
+      "date": "2026-09-26 00:01:49",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten, distributed via multiple phishing domains hosting a malicious APK.",
+      "threat_type": "phishing",
+      "tweet_id": "2103636119594434608",
+      "type": "sha256",
+      "value": "d642948da8c6b7d29f34f582d03aa171a437061b96e8050a33438caae1fc1464"
     },
     "d6f959d7b1594900ddf21bfd4d5ee8e4": {
       "confidence": 0.9,
@@ -10657,20 +10755,6 @@
       "type": "domain",
       "value": "externalbsnle-smbice.com"
     },
-    "ezcapsforums.com": {
-      "confidence": 0.88,
-      "date": "2026-08-27 00:21:19",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email using Insurify insurance rate lure sent from ezcapsforums.com, routes to a DGA-tagged domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769392467841300",
-      "type": "domain",
-      "value": "ezcapsforums.com"
-    },
     "f005.backblazeb2.com": {
       "confidence": 0.85,
       "date": "2026-09-05 18:45:44",
@@ -10978,19 +11062,21 @@
       "type": "domain",
       "value": "facebookbonus.emmanueldegreatltd.com"
     },
-    "fashiondealsstore.info": {
-      "confidence": 0.88,
-      "date": "2026-08-27 00:22:44",
-      "enriched_at": "2026-08-27T06:40:04Z",
+    "fastestwebbrows-etzax.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:30:00",
+      "enriched_at": "2026-09-26T00:40:04Z",
       "family": null,
       "suggested_tags": [
-        "phishing"
+        "phishing",
+        "android",
+        "malware"
       ],
-      "summary": "Phishing email impersonating Budget Blinds, authenticates fashiondealsstore.info and routes image clicks to tim-software.com.",
+      "summary": "Android malware impersonating Japan's National Tax Agency (e-Tax), spread via multiple phishing domains.",
       "threat_type": "phishing",
-      "tweet_id": "2092769748761346106",
+      "tweet_id": "2103628112886116814",
       "type": "domain",
-      "value": "fashiondealsstore.info"
+      "value": "fastestwebbrows-etzax.com"
     },
     "fastweb.report": {
       "confidence": 0.85,
@@ -11174,20 +11260,6 @@
       "type": "domain",
       "value": "fffenterprisesinternal.com"
     },
-    "figurmanager.com": {
-      "confidence": 0.9,
-      "date": "2026-08-27 00:22:10",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email with fake cloud-storage deletion warning, authenticates figurmanager.com, routes renewal clicks to flagged domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769604116549868",
-      "type": "domain",
-      "value": "figurmanager.com"
-    },
     "fijscdn.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -11357,20 +11429,6 @@
       "tweet_id": "2101520777405489270",
       "type": "domain",
       "value": "financespringboard.info"
-    },
-    "financialmarkets.info": {
-      "confidence": 0.92,
-      "date": "2026-08-27 00:22:10",
-      "enriched_at": "2026-09-25T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Fake cloud-payment warning from figurmanager.com routing to financialmarkets.info; 3 VT phishing detections with explicit phishing labels.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769604116549868",
-      "type": "domain",
-      "value": "financialmarkets.info"
     },
     "fingerprint-veri.info": {
       "confidence": 0.92,
@@ -13630,20 +13688,6 @@
       "type": "domain",
       "value": "it-security-rho.vercel.app"
     },
-    "itnessequipmentfor.info": {
-      "confidence": 0.9,
-      "date": "2026-08-27 00:23:19",
-      "enriched_at": "2026-09-25T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "QuoteWizard/LendingTree insurance phishing from zebrataxis.com routing to itnessequipmentfor.info; 3 VT malicious, 2 suspicious.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769894815371621",
-      "type": "domain",
-      "value": "itnessequipmentfor.info"
-    },
     "iuiut.nwfdk.com": {
       "confidence": 0.95,
       "date": "2026-09-24 12:23:24",
@@ -14130,6 +14174,22 @@
       "tweet_id": "2100442249993871737",
       "type": "url",
       "value": "https://kh3a.de/internationalmicro/"
+    },
+    "kingashotel-etzax.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:30:00",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's National Tax Agency (e-Tax), spread via multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628112886116814",
+      "type": "domain",
+      "value": "kingashotel-etzax.com"
     },
     "kingroyal10066.com": {
       "confidence": 0.4,
@@ -14854,6 +14914,22 @@
       "type": "domain",
       "value": "lovezramexar.info"
     },
+    "lozatechai-jprakutanziu.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:32:17",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten Card to steal credentials, spread through multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628687077994552",
+      "type": "domain",
+      "value": "lozatechai-jprakutanziu.com"
+    },
     "lsnsdns.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -15156,6 +15232,22 @@
       "tweet_id": "2095624975134691596",
       "type": "domain",
       "value": "mapletrailmedia.store"
+    },
+    "marblefallslake-etzax.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:30:00",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's National Tax Agency (e-Tax), spread via multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628112886116814",
+      "type": "domain",
+      "value": "marblefallslake-etzax.com"
     },
     "marketmavenco.com": {
       "confidence": 0.95,
@@ -19111,20 +19203,6 @@
       "type": "url",
       "value": "https://rinitiative.org/ftx"
     },
-    "riverlagoons.com": {
-      "confidence": 0.9,
-      "date": "2026-08-27 00:18:11",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email spoofing CarShield auto quote sent from riverlagoons.com with Unicode obfuscation in headers.",
-      "threat_type": "phishing",
-      "tweet_id": "2092768605498953779",
-      "type": "domain",
-      "value": "riverlagoons.com"
-    },
     "rnwm.fpewppc.cn": {
       "confidence": 0.95,
       "date": "2026-09-07 05:42:51",
@@ -19870,6 +19948,22 @@
       "tweet_id": "2100837381024923997",
       "type": "url",
       "value": "https://sanjinshdfuli.igb56k.info/tptvakto/"
+    },
+    "sanpedrodejuj-etzax.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:30:00",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's National Tax Agency (e-Tax), spread via multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628112886116814",
+      "type": "domain",
+      "value": "sanpedrodejuj-etzax.com"
     },
     "sarcomagroup.com": {
       "confidence": 0.85,
@@ -20970,6 +21064,22 @@
       "type": "domain",
       "value": "soundcloudapp.com"
     },
+    "southcoastshop-etzax.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:30:00",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Japan's National Tax Agency (e-Tax), spread via multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628112886116814",
+      "type": "domain",
+      "value": "southcoastshop-etzax.com"
+    },
     "sp11ct-fardok-biz8-molvik-keslor.pages.dev": {
       "confidence": 0.82,
       "date": "2026-09-21 03:10:02",
@@ -22066,20 +22176,6 @@
       "type": "domain",
       "value": "tiernrinting.com"
     },
-    "tim-software.com": {
-      "confidence": 0.88,
-      "date": "2026-08-27 00:22:44",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email impersonating Budget Blinds, authenticates fashiondealsstore.info and routes image clicks to tim-software.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769748761346106",
-      "type": "domain",
-      "value": "tim-software.com"
-    },
     "timetaptalk.info": {
       "confidence": 0.95,
       "date": "2026-09-19 22:50:41",
@@ -23089,6 +23185,22 @@
       "tweet_id": "2103095348113924175",
       "type": "domain",
       "value": "viscdnclaud.beer"
+    },
+    "visionvert-jprakutanziu.com": {
+      "confidence": 0.7,
+      "date": "2026-09-25 23:32:17",
+      "enriched_at": "2026-09-26T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Android malware impersonating Rakuten Card to steal credentials, spread through multiple phishing domains.",
+      "threat_type": "phishing",
+      "tweet_id": "2103628687077994552",
+      "type": "domain",
+      "value": "visionvert-jprakutanziu.com"
     },
     "vistra.report": {
       "confidence": 0.85,
@@ -24615,20 +24727,6 @@
       "type": "domain",
       "value": "zafirabeach.com.br"
     },
-    "zebrataxis.com": {
-      "confidence": 0.88,
-      "date": "2026-08-27 00:23:19",
-      "enriched_at": "2026-08-27T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email spoofing QuoteWizard/LendingTree insurance, authenticates zebrataxis.com and routes clicks to malicious domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2092769894815371621",
-      "type": "domain",
-      "value": "zebrataxis.com"
-    },
     "zfkmasinac.com": {
       "confidence": 0.95,
       "date": "2026-09-15 17:01:20",
@@ -24839,6 +24937,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-09-25T18:40:03Z",
+  "generated_at": "2026-09-26T00:40:04Z",
   "window_days": 30
 }
