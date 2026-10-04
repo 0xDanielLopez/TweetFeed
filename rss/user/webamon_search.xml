@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @webamon_search</title>
+      <link>https://x.com/webamon_search</link>
+      <description>IOCs shared by @webamon_search and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @webamon_search</title>
+         <link>https://x.com/webamon_search</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/webamon_search.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>b4c50a84aa052aaa602ff8ffd516ff38b3ffb91d7a6d672b7906a897a7ff6bcc</title>
+         <link>https://x.com/webamon_search/status/2105989803715989712</link>
+         <description>@webamon_search | sha256 | 
+Value: b4c50a84aa052aaa602ff8ffd516ff38b3ffb91d7a6d672b7906a897a7ff6bcc
+Tweet: https://x.com/webamon_search/status/2105989803715989712</description>
+         <guid isPermaLink="false">b4c50a84aa052aaa602ff8ffd516ff38b3ffb91d7a6d672b7906a897a7ff6bcc</guid>
+         <pubDate>Fri, 02 Oct 2026 11:54:31 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>http://nexus-mods.biz</title>
+         <link>https://x.com/webamon_search/status/2104944733378195885</link>
+         <description>@webamon_search | url | 
+Value: http://nexus-mods.biz
+Tweet: https://x.com/webamon_search/status/2104944733378195885</description>
+         <guid isPermaLink="false">http://nexus-mods.biz</guid>
+         <pubDate>Tue, 29 Sep 2026 14:41:47 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>nexus-mods.biz</title>
+         <link>https://x.com/webamon_search/status/2104944733378195885</link>
+         <description>@webamon_search | domain | 
+Value: nexus-mods.biz
+Tweet: https://x.com/webamon_search/status/2104944733378195885</description>
+         <guid isPermaLink="false">nexus-mods.biz</guid>
+         <pubDate>Tue, 29 Sep 2026 14:41:47 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://nexus-mods.net</title>
+         <link>https://x.com/webamon_search/status/2104944733378195885</link>
+         <description>@webamon_search | url | 
+Value: http://nexus-mods.net
+Tweet: https://x.com/webamon_search/status/2104944733378195885</description>
+         <guid isPermaLink="false">http://nexus-mods.net</guid>
+         <pubDate>Tue, 29 Sep 2026 14:41:47 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>nexus-mods.net</title>
+         <link>https://x.com/webamon_search/status/2104944733378195885</link>
+         <description>@webamon_search | domain | 
+Value: nexus-mods.net
+Tweet: https://x.com/webamon_search/status/2104944733378195885</description>
+         <guid isPermaLink="false">nexus-mods.net</guid>
+         <pubDate>Tue, 29 Sep 2026 14:41:47 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

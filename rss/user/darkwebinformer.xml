@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @DarkWebInformer</title>
+      <link>https://x.com/DarkWebInformer</link>
+      <description>IOCs shared by @DarkWebInformer and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @DarkWebInformer</title>
+         <link>https://x.com/DarkWebInformer</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/darkwebinformer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>104.219.238.66</title>
+         <link>https://x.com/DarkWebInformer/status/2104305103465587152</link>
+         <description>@DarkWebInformer | ip | 
+Value: 104.219.238.66
+Tweet: https://x.com/DarkWebInformer/status/2104305103465587152</description>
+         <guid isPermaLink="false">104.219.238.66</guid>
+         <pubDate>Mon, 28 Sep 2026 04:07:53 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>104.219.237.146</title>
+         <link>https://x.com/DarkWebInformer/status/2104305103465587152</link>
+         <description>@DarkWebInformer | ip | 
+Value: 104.219.237.146
+Tweet: https://x.com/DarkWebInformer/status/2104305103465587152</description>
+         <guid isPermaLink="false">104.219.237.146</guid>
+         <pubDate>Mon, 28 Sep 2026 04:07:53 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://104.219.238.66</title>
+         <link>https://x.com/DarkWebInformer/status/2104305103465587152</link>
+         <description>@DarkWebInformer | url | 
+Value: http://104.219.238.66
+Tweet: https://x.com/DarkWebInformer/status/2104305103465587152</description>
+         <guid isPermaLink="false">http://104.219.238.66</guid>
+         <pubDate>Mon, 28 Sep 2026 04:07:53 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>http://104.219.237.146</title>
+         <link>https://x.com/DarkWebInformer/status/2104305103465587152</link>
+         <description>@DarkWebInformer | url | 
+Value: http://104.219.237.146
+Tweet: https://x.com/DarkWebInformer/status/2104305103465587152</description>
+         <guid isPermaLink="false">http://104.219.237.146</guid>
+         <pubDate>Mon, 28 Sep 2026 04:07:53 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

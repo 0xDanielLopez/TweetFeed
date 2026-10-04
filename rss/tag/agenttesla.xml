@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #agenttesla IOC feed</title>
+      <link>https://tweetfeed.live/tag/agenttesla/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #agenttesla on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #agenttesla IOC feed</title>
+         <link>https://tweetfeed.live/tag/agenttesla/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/agenttesla.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>b15494c671395c45978800229a26fbfcb1af47337974e120e6885cab21b6578c</title>
+         <link>https://x.com/tdatwja/status/2105948626317193465</link>
+         <description>@tdatwja | sha256 | #AgentTesla
+Value: b15494c671395c45978800229a26fbfcb1af47337974e120e6885cab21b6578c
+Tweet: https://x.com/tdatwja/status/2105948626317193465</description>
+         <guid isPermaLink="false">b15494c671395c45978800229a26fbfcb1af47337974e120e6885cab21b6578c</guid>
+         <pubDate>Fri, 02 Oct 2026 09:10:53 +0000</pubDate>
+         <category>sha256</category>
+         <category>#AgentTesla</category>
+      </item>
+      <item>
+         <title>e12a3fe0030d91570c651c4615899962</title>
+         <link>https://x.com/tdatwja/status/2105948626317193465</link>
+         <description>@tdatwja | md5 | #AgentTesla
+Value: e12a3fe0030d91570c651c4615899962
+Tweet: https://x.com/tdatwja/status/2105948626317193465</description>
+         <guid isPermaLink="false">e12a3fe0030d91570c651c4615899962</guid>
+         <pubDate>Fri, 02 Oct 2026 09:10:53 +0000</pubDate>
+         <category>md5</category>
+         <category>#AgentTesla</category>
+      </item>
+      <item>
+         <title>e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1</title>
+         <link>https://x.com/bomccss/status/2105919862317175185</link>
+         <description>@bomccss | sha256 | #AgentTesla
+Value: e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1
+Tweet: https://x.com/bomccss/status/2105919862317175185</description>
+         <guid isPermaLink="false">e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1</guid>
+         <pubDate>Fri, 02 Oct 2026 07:16:35 +0000</pubDate>
+         <category>sha256</category>
+         <category>#AgentTesla</category>
+      </item>
+   </channel>
+</rss>

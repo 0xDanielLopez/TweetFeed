@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @_AkatsukiLegion</title>
+      <link>https://x.com/_AkatsukiLegion</link>
+      <description>IOCs shared by @_AkatsukiLegion and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @_AkatsukiLegion</title>
+         <link>https://x.com/_AkatsukiLegion</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/_akatsukilegion.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>50.114.5.38</title>
+         <link>https://x.com/_AkatsukiLegion/status/2105961597311287297</link>
+         <description>@_AkatsukiLegion | ip | #phishing
+Value: 50.114.5.38
+Tweet: https://x.com/_AkatsukiLegion/status/2105961597311287297</description>
+         <guid isPermaLink="false">50.114.5.38</guid>
+         <pubDate>Fri, 02 Oct 2026 10:02:26 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://50.114.5.38:9996</title>
+         <link>https://x.com/_AkatsukiLegion/status/2105961597311287297</link>
+         <description>@_AkatsukiLegion | url | #phishing
+Value: http://50.114.5.38:9996
+Tweet: https://x.com/_AkatsukiLegion/status/2105961597311287297</description>
+         <guid isPermaLink="false">http://50.114.5.38:9996</guid>
+         <pubDate>Fri, 02 Oct 2026 10:02:26 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>51.144.45.141</title>
+         <link>https://x.com/_AkatsukiLegion/status/2105584268680507901</link>
+         <description>@_AkatsukiLegion | ip | #AsyncRAT #Xworm
+Value: 51.144.45.141
+Tweet: https://x.com/_AkatsukiLegion/status/2105584268680507901</description>
+         <guid isPermaLink="false">51.144.45.141</guid>
+         <pubDate>Thu, 01 Oct 2026 09:03:04 +0000</pubDate>
+         <category>ip</category>
+         <category>#AsyncRAT</category>
+         <category>#Xworm</category>
+      </item>
+      <item>
+         <title>http://51.144.45.141</title>
+         <link>https://x.com/_AkatsukiLegion/status/2105584268680507901</link>
+         <description>@_AkatsukiLegion | url | #AsyncRAT #Xworm
+Value: http://51.144.45.141
+Tweet: https://x.com/_AkatsukiLegion/status/2105584268680507901</description>
+         <guid isPermaLink="false">http://51.144.45.141</guid>
+         <pubDate>Thu, 01 Oct 2026 09:03:04 +0000</pubDate>
+         <category>url</category>
+         <category>#AsyncRAT</category>
+         <category>#Xworm</category>
+      </item>
+   </channel>
+</rss>

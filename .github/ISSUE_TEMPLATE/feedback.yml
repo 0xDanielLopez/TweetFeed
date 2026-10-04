@@ -1,0 +1,39 @@
+name: Feedback
+description: A false positive, a bug, an idea, a tag or source worth following, or a question
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time. Only the first two fields are required,
+        so a couple of sentences is a perfectly good report.
+  - type: dropdown
+    id: type
+    attributes:
+      label: What is this about?
+      options:
+        - False positive (an IOC listed here that is not malicious)
+        - Bug (something broken on the site, API, MCP, TAXII or the data files)
+        - Idea or feature request
+        - A tag or source worth following
+        - Question
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: >
+        For a false positive: what the IOC actually is and who owns it.
+        For a bug: what you did, what you expected, what you got, and the URL or request.
+        For a tag or source: the hashtag or account, and why it is worth following.
+      placeholder: A couple of sentences is enough.
+    validations:
+      required: true
+  - type: input
+    id: ioc
+    attributes:
+      label: IOC value
+      description: Only for false positives. Defang it if you prefer.
+      placeholder: example[.]com

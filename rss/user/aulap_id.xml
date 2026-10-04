@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @aulap_id</title>
+      <link>https://x.com/aulap_id</link>
+      <description>IOCs shared by @aulap_id and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @aulap_id</title>
+         <link>https://x.com/aulap_id</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/aulap_id.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://portlcoedu.com</title>
+         <link>https://x.com/aulap_id/status/2105848161856328187</link>
+         <description>@aulap_id | url | #phishing
+Value: http://portlcoedu.com
+Tweet: https://x.com/aulap_id/status/2105848161856328187</description>
+         <guid isPermaLink="false">http://portlcoedu.com</guid>
+         <pubDate>Fri, 02 Oct 2026 02:31:41 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>portlcoedu.com</title>
+         <link>https://x.com/aulap_id/status/2105848161856328187</link>
+         <description>@aulap_id | domain | #phishing
+Value: portlcoedu.com
+Tweet: https://x.com/aulap_id/status/2105848161856328187</description>
+         <guid isPermaLink="false">portlcoedu.com</guid>
+         <pubDate>Fri, 02 Oct 2026 02:31:41 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://docsport.vercel.app</title>
+         <link>https://x.com/aulap_id/status/2105848161856328187</link>
+         <description>@aulap_id | url | #phishing
+Value: http://docsport.vercel.app
+Tweet: https://x.com/aulap_id/status/2105848161856328187</description>
+         <guid isPermaLink="false">http://docsport.vercel.app</guid>
+         <pubDate>Fri, 02 Oct 2026 02:31:41 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>docsport.vercel.app</title>
+         <link>https://x.com/aulap_id/status/2105848161856328187</link>
+         <description>@aulap_id | domain | #phishing
+Value: docsport.vercel.app
+Tweet: https://x.com/aulap_id/status/2105848161856328187</description>
+         <guid isPermaLink="false">docsport.vercel.app</guid>
+         <pubDate>Fri, 02 Oct 2026 02:31:41 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

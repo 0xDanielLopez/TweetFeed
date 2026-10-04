@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @powermeza</title>
+      <link>https://x.com/powermeza</link>
+      <description>IOCs shared by @powermeza and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @powermeza</title>
+         <link>https://x.com/powermeza</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/powermeza.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://shieldmetasetup.com</title>
+         <link>https://x.com/powermeza/status/2105510460653244682</link>
+         <description>@powermeza | url | #cryptoscam #phishing
+Value: http://shieldmetasetup.com
+Tweet: https://x.com/powermeza/status/2105510460653244682</description>
+         <guid isPermaLink="false">http://shieldmetasetup.com</guid>
+         <pubDate>Thu, 01 Oct 2026 04:09:46 +0000</pubDate>
+         <category>url</category>
+         <category>#cryptoscam</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>shieldmetasetup.com</title>
+         <link>https://x.com/powermeza/status/2105510460653244682</link>
+         <description>@powermeza | domain | #cryptoscam #phishing
+Value: shieldmetasetup.com
+Tweet: https://x.com/powermeza/status/2105510460653244682</description>
+         <guid isPermaLink="false">shieldmetasetup.com</guid>
+         <pubDate>Thu, 01 Oct 2026 04:09:46 +0000</pubDate>
+         <category>domain</category>
+         <category>#cryptoscam</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

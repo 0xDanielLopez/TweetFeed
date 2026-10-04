@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @ShiinaaM</title>
+      <link>https://x.com/ShiinaaM</link>
+      <description>IOCs shared by @ShiinaaM and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @ShiinaaM</title>
+         <link>https://x.com/ShiinaaM</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/shiinaam.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://omniflowmatrix8.lol/?c=AJm9u2qPdgUAd4oCAElEOQAMAAAAAACg</title>
+         <link>https://x.com/ShiinaaM/status/2105632149303177247</link>
+         <description>@ShiinaaM | url | #ClickFix #infostealer #malware
+Value: https://omniflowmatrix8.lol/?c=AJm9u2qPdgUAd4oCAElEOQAMAAAAAACg
+Tweet: https://x.com/ShiinaaM/status/2105632149303177247</description>
+         <guid isPermaLink="false">https://omniflowmatrix8.lol/?c=AJm9u2qPdgUAd4oCAElEOQAMAAAAAACg</guid>
+         <pubDate>Thu, 01 Oct 2026 12:13:19 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>omniflowmatrix8.lol</title>
+         <link>https://x.com/ShiinaaM/status/2105632149303177247</link>
+         <description>@ShiinaaM | domain | #ClickFix #infostealer #malware
+Value: omniflowmatrix8.lol
+Tweet: https://x.com/ShiinaaM/status/2105632149303177247</description>
+         <guid isPermaLink="false">omniflowmatrix8.lol</guid>
+         <pubDate>Thu, 01 Oct 2026 12:13:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

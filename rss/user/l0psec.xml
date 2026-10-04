@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @L0Psec</title>
+      <link>https://x.com/L0Psec</link>
+      <description>IOCs shared by @L0Psec and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @L0Psec</title>
+         <link>https://x.com/L0Psec</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/l0psec.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>7392bccd63277bc5dec54f97384bb956a1c138bde6d519bc87ff104c86a3dda7</title>
+         <link>https://x.com/L0Psec/status/2106125865696309574</link>
+         <description>@L0Psec | sha256 | 
+Value: 7392bccd63277bc5dec54f97384bb956a1c138bde6d519bc87ff104c86a3dda7
+Tweet: https://x.com/L0Psec/status/2106125865696309574</description>
+         <guid isPermaLink="false">7392bccd63277bc5dec54f97384bb956a1c138bde6d519bc87ff104c86a3dda7</guid>
+         <pubDate>Fri, 02 Oct 2026 20:55:10 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>b0cb369029a7dd7de6510d60caac154a0bd91ad6b9a08d69c90227627743ec71</title>
+         <link>https://x.com/L0Psec/status/2104652451378790793</link>
+         <description>@L0Psec | sha256 | 
+Value: b0cb369029a7dd7de6510d60caac154a0bd91ad6b9a08d69c90227627743ec71
+Tweet: https://x.com/L0Psec/status/2104652451378790793</description>
+         <guid isPermaLink="false">b0cb369029a7dd7de6510d60caac154a0bd91ad6b9a08d69c90227627743ec71</guid>
+         <pubDate>Mon, 28 Sep 2026 19:20:21 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

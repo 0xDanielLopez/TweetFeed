@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TheDFIRReport</title>
+      <link>https://x.com/TheDFIRReport</link>
+      <description>IOCs shared by @TheDFIRReport and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @TheDFIRReport</title>
+         <link>https://x.com/TheDFIRReport</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/thedfirreport.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>ec9ada555d6dffa2fed08e86e26e29e7c6d15d90e0323cdf44e06e75461a04bf</title>
+         <link>https://x.com/TheDFIRReport/status/2105285307780243502</link>
+         <description>@TheDFIRReport | sha256 | 
+Value: ec9ada555d6dffa2fed08e86e26e29e7c6d15d90e0323cdf44e06e75461a04bf
+Tweet: https://x.com/TheDFIRReport/status/2105285307780243502</description>
+         <guid isPermaLink="false">ec9ada555d6dffa2fed08e86e26e29e7c6d15d90e0323cdf44e06e75461a04bf</guid>
+         <pubDate>Wed, 30 Sep 2026 13:15:06 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>67.207.81.22</title>
+         <link>https://x.com/TheDFIRReport/status/2105285307780243502</link>
+         <description>@TheDFIRReport | ip | 
+Value: 67.207.81.22
+Tweet: https://x.com/TheDFIRReport/status/2105285307780243502</description>
+         <guid isPermaLink="false">67.207.81.22</guid>
+         <pubDate>Wed, 30 Sep 2026 13:15:06 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://sunyotech.com</title>
+         <link>https://x.com/TheDFIRReport/status/2105285307780243502</link>
+         <description>@TheDFIRReport | url | 
+Value: http://sunyotech.com
+Tweet: https://x.com/TheDFIRReport/status/2105285307780243502</description>
+         <guid isPermaLink="false">http://sunyotech.com</guid>
+         <pubDate>Wed, 30 Sep 2026 13:15:06 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>sunyotech.com</title>
+         <link>https://x.com/TheDFIRReport/status/2105285307780243502</link>
+         <description>@TheDFIRReport | domain | 
+Value: sunyotech.com
+Tweet: https://x.com/TheDFIRReport/status/2105285307780243502</description>
+         <guid isPermaLink="false">sunyotech.com</guid>
+         <pubDate>Wed, 30 Sep 2026 13:15:06 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://67.207.81.22:443</title>
+         <link>https://x.com/TheDFIRReport/status/2105285307780243502</link>
+         <description>@TheDFIRReport | url | 
+Value: http://67.207.81.22:443
+Tweet: https://x.com/TheDFIRReport/status/2105285307780243502</description>
+         <guid isPermaLink="false">http://67.207.81.22:443</guid>
+         <pubDate>Wed, 30 Sep 2026 13:15:06 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

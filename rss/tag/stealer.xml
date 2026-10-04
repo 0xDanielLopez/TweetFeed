@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #stealer IOC feed</title>
+      <link>https://tweetfeed.live/tag/stealer/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #stealer on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #stealer IOC feed</title>
+         <link>https://tweetfeed.live/tag/stealer/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/stealer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>1eb51e82267b2ea1d3216919dbac9d5297ca8565baf8e39ccfc07323136b1849</title>
+         <link>https://x.com/James_inthe_box/status/2105365350380605455</link>
+         <description>@James_inthe_box | sha256 | #stealer
+Value: 1eb51e82267b2ea1d3216919dbac9d5297ca8565baf8e39ccfc07323136b1849
+Tweet: https://x.com/James_inthe_box/status/2105365350380605455</description>
+         <guid isPermaLink="false">1eb51e82267b2ea1d3216919dbac9d5297ca8565baf8e39ccfc07323136b1849</guid>
+         <pubDate>Wed, 30 Sep 2026 18:33:09 +0000</pubDate>
+         <category>sha256</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>

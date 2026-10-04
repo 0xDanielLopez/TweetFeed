@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #havoc IOC feed</title>
+      <link>https://tweetfeed.live/tag/havoc/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #havoc on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #havoc IOC feed</title>
+         <link>https://tweetfeed.live/tag/havoc/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/havoc.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>99a4f65abf325fde65795e2a7f215c0e30a57e5e8485da2a09e9aa89fa892c25</title>
+         <link>https://x.com/smica83/status/2104518925023117479</link>
+         <description>@smica83 | sha256 | #Havoc
+Value: 99a4f65abf325fde65795e2a7f215c0e30a57e5e8485da2a09e9aa89fa892c25
+Tweet: https://x.com/smica83/status/2104518925023117479</description>
+         <guid isPermaLink="false">99a4f65abf325fde65795e2a7f215c0e30a57e5e8485da2a09e9aa89fa892c25</guid>
+         <pubDate>Mon, 28 Sep 2026 10:29:46 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Havoc</category>
+      </item>
+   </channel>
+</rss>

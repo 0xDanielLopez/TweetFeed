@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SquiblydooBlog</title>
+      <link>https://x.com/SquiblydooBlog</link>
+      <description>IOCs shared by @SquiblydooBlog and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @SquiblydooBlog</title>
+         <link>https://x.com/SquiblydooBlog</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/squiblydooblog.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>b25c9e7e793a86965779a71a8e8f81a2d43f40db54b7c252768faff306071fd6</title>
+         <link>https://x.com/SquiblydooBlog/status/2105697441857065322</link>
+         <description>@SquiblydooBlog | sha256 | 
+Value: b25c9e7e793a86965779a71a8e8f81a2d43f40db54b7c252768faff306071fd6
+Tweet: https://x.com/SquiblydooBlog/status/2105697441857065322</description>
+         <guid isPermaLink="false">b25c9e7e793a86965779a71a8e8f81a2d43f40db54b7c252768faff306071fd6</guid>
+         <pubDate>Thu, 01 Oct 2026 16:32:46 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

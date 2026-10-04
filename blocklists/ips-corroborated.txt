@@ -1,0 +1,47 @@
+# TweetFeed blocklist - plain IP list, corroborated subset
+# Window: 30 days
+# Entries: 33
+# Updated: 2026-10-03T01:30:18Z
+# Subset of ips.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
+# Cross-check refreshed: 2026-10-03T01:25:09Z
+# Set membership only - not a quality score and not a verdict
+# Regenerated every 15 min - poll at most every 15 min
+# Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
+# License: CC0
+# Source: https://api.tweetfeed.live/v1/blocklist/ips-corroborated.txt
+# https://tweetfeed.live
+# Community-reported IOCs. Use at your own risk.
+
+101.42.136.73
+103.170.217.184
+107.175.82.242
+109.238.87.111
+121.4.43.2
+124.223.221.83
+131.123.43.239
+144.172.65.54
+158.94.209.188
+172.111.138.100
+172.86.118.111
+178.16.54.253
+179.43.175.2
+18.231.77.234
+192.236.166.73
+193.247.144.38
+207.174.0.143
+209.250.241.80
+213.108.22.160
+213.145.86.42
+213.252.232.182
+43.248.172.115
+45.142.182.137
+45.153.34.191
+47.236.83.240
+5.181.158.54
+51.159.21.191
+74.204.158.81
+77.110.114.115
+8.216.48.50
+91.92.40.236
+94.26.83.69
+96.62.71.5

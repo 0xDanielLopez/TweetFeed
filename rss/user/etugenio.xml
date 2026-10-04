@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @etugenio</title>
+      <link>https://x.com/etugenio</link>
+      <description>IOCs shared by @etugenio and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @etugenio</title>
+         <link>https://x.com/etugenio</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/etugenio.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>172.86.118.111</title>
+         <link>https://x.com/etugenio/status/2104633083945205937</link>
+         <description>@etugenio | ip | 
+Value: 172.86.118.111
+Tweet: https://x.com/etugenio/status/2104633083945205937</description>
+         <guid isPermaLink="false">172.86.118.111</guid>
+         <pubDate>Mon, 28 Sep 2026 18:03:24 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://172.86.118.111</title>
+         <link>https://x.com/etugenio/status/2104633083945205937</link>
+         <description>@etugenio | url | 
+Value: http://172.86.118.111
+Tweet: https://x.com/etugenio/status/2104633083945205937</description>
+         <guid isPermaLink="false">http://172.86.118.111</guid>
+         <pubDate>Mon, 28 Sep 2026 18:03:24 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

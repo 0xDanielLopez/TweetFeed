@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @spamrats</title>
+      <link>https://x.com/spamrats</link>
+      <description>IOCs shared by @spamrats and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @spamrats</title>
+         <link>https://x.com/spamrats</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/spamrats.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://indeedinternationals.com</title>
+         <link>https://x.com/spamrats/status/2105662771899863457</link>
+         <description>@spamrats | url | #phishing
+Value: http://indeedinternationals.com
+Tweet: https://x.com/spamrats/status/2105662771899863457</description>
+         <guid isPermaLink="false">http://indeedinternationals.com</guid>
+         <pubDate>Thu, 01 Oct 2026 14:15:00 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>indeedinternationals.com</title>
+         <link>https://x.com/spamrats/status/2105662771899863457</link>
+         <description>@spamrats | domain | #phishing
+Value: indeedinternationals.com
+Tweet: https://x.com/spamrats/status/2105662771899863457</description>
+         <guid isPermaLink="false">indeedinternationals.com</guid>
+         <pubDate>Thu, 01 Oct 2026 14:15:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

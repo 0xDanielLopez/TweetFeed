@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @fr0s7_</title>
+      <link>https://x.com/fr0s7_</link>
+      <description>IOCs shared by @fr0s7_ and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @fr0s7_</title>
+         <link>https://x.com/fr0s7_</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/fr0s7_.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>107.175.82.242</title>
+         <link>https://x.com/fr0s7_/status/2106029073407377799</link>
+         <description>@fr0s7_ | ip | 
+Value: 107.175.82.242
+Tweet: https://x.com/fr0s7_/status/2106029073407377799</description>
+         <guid isPermaLink="false">107.175.82.242</guid>
+         <pubDate>Fri, 02 Oct 2026 14:30:33 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://107.175.82.242:9000/wilow/</title>
+         <link>https://x.com/fr0s7_/status/2106029073407377799</link>
+         <description>@fr0s7_ | url | 
+Value: http://107.175.82.242:9000/wilow/
+Tweet: https://x.com/fr0s7_/status/2106029073407377799</description>
+         <guid isPermaLink="false">http://107.175.82.242:9000/wilow/</guid>
+         <pubDate>Fri, 02 Oct 2026 14:30:33 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>b7d8572c7e4fe577a29299e1089f85def9d6cfda192135681f8c111e5b3acd15</title>
+         <link>https://x.com/fr0s7_/status/2105568410935665032</link>
+         <description>@fr0s7_ | sha256 | 
+Value: b7d8572c7e4fe577a29299e1089f85def9d6cfda192135681f8c111e5b3acd15
+Tweet: https://x.com/fr0s7_/status/2105568410935665032</description>
+         <guid isPermaLink="false">b7d8572c7e4fe577a29299e1089f85def9d6cfda192135681f8c111e5b3acd15</guid>
+         <pubDate>Thu, 01 Oct 2026 08:00:03 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>212.80.205.63</title>
+         <link>https://x.com/fr0s7_/status/2105568410935665032</link>
+         <description>@fr0s7_ | ip | 
+Value: 212.80.205.63
+Tweet: https://x.com/fr0s7_/status/2105568410935665032</description>
+         <guid isPermaLink="false">212.80.205.63</guid>
+         <pubDate>Thu, 01 Oct 2026 08:00:03 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>https://212.80.205.63</title>
+         <link>https://x.com/fr0s7_/status/2105568410935665032</link>
+         <description>@fr0s7_ | url | 
+Value: https://212.80.205.63
+Tweet: https://x.com/fr0s7_/status/2105568410935665032</description>
+         <guid isPermaLink="false">https://212.80.205.63</guid>
+         <pubDate>Thu, 01 Oct 2026 08:00:03 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>8.210.231.207</title>
+         <link>https://x.com/fr0s7_/status/2104953889514824075</link>
+         <description>@fr0s7_ | ip | #ValleyRAT
+Value: 8.210.231.207
+Tweet: https://x.com/fr0s7_/status/2104953889514824075</description>
+         <guid isPermaLink="false">8.210.231.207</guid>
+         <pubDate>Tue, 29 Sep 2026 15:18:10 +0000</pubDate>
+         <category>ip</category>
+         <category>#ValleyRAT</category>
+      </item>
+      <item>
+         <title>8.215.17.221</title>
+         <link>https://x.com/fr0s7_/status/2104953889514824075</link>
+         <description>@fr0s7_ | ip | #ValleyRAT
+Value: 8.215.17.221
+Tweet: https://x.com/fr0s7_/status/2104953889514824075</description>
+         <guid isPermaLink="false">8.215.17.221</guid>
+         <pubDate>Tue, 29 Sep 2026 15:18:10 +0000</pubDate>
+         <category>ip</category>
+         <category>#ValleyRAT</category>
+      </item>
+   </channel>
+</rss>

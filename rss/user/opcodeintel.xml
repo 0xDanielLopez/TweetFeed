@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @OpcodeIntel</title>
+      <link>https://x.com/OpcodeIntel</link>
+      <description>IOCs shared by @OpcodeIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @OpcodeIntel</title>
+         <link>https://x.com/OpcodeIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/opcodeintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>64.227.132.179</title>
+         <link>https://x.com/OpcodeIntel/status/2105244290138112088</link>
+         <description>@OpcodeIntel | ip | #ransomware
+Value: 64.227.132.179
+Tweet: https://x.com/OpcodeIntel/status/2105244290138112088</description>
+         <guid isPermaLink="false">64.227.132.179</guid>
+         <pubDate>Wed, 30 Sep 2026 10:32:06 +0000</pubDate>
+         <category>ip</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion</title>
+         <link>https://x.com/OpcodeIntel/status/2105244290138112088</link>
+         <description>@OpcodeIntel | url | #ransomware
+Value: http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion
+Tweet: https://x.com/OpcodeIntel/status/2105244290138112088</description>
+         <guid isPermaLink="false">http://egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion</guid>
+         <pubDate>Wed, 30 Sep 2026 10:32:06 +0000</pubDate>
+         <category>url</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion</title>
+         <link>https://x.com/OpcodeIntel/status/2105244290138112088</link>
+         <description>@OpcodeIntel | domain | #ransomware
+Value: egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion
+Tweet: https://x.com/OpcodeIntel/status/2105244290138112088</description>
+         <guid isPermaLink="false">egm34gsyx65wb6jyqds4esvkskl34barx4robuebjhqpc4dfeavg7fyd.onion</guid>
+         <pubDate>Wed, 30 Sep 2026 10:32:06 +0000</pubDate>
+         <category>domain</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>http://ciksecrets.net</title>
+         <link>https://x.com/OpcodeIntel/status/2104919836463976616</link>
+         <description>@OpcodeIntel | url | #malware
+Value: http://ciksecrets.net
+Tweet: https://x.com/OpcodeIntel/status/2104919836463976616</description>
+         <guid isPermaLink="false">http://ciksecrets.net</guid>
+         <pubDate>Tue, 29 Sep 2026 13:02:51 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>ciksecrets.net</title>
+         <link>https://x.com/OpcodeIntel/status/2104919836463976616</link>
+         <description>@OpcodeIntel | domain | #malware
+Value: ciksecrets.net
+Tweet: https://x.com/OpcodeIntel/status/2104919836463976616</description>
+         <guid isPermaLink="false">ciksecrets.net</guid>
+         <pubDate>Tue, 29 Sep 2026 13:02:51 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>7f9bac80fbb44bc60e4ec9e85c875d33</title>
+         <link>https://x.com/OpcodeIntel/status/2104875361725252012</link>
+         <description>@OpcodeIntel | md5 | #malware
+Value: 7f9bac80fbb44bc60e4ec9e85c875d33
+Tweet: https://x.com/OpcodeIntel/status/2104875361725252012</description>
+         <guid isPermaLink="false">7f9bac80fbb44bc60e4ec9e85c875d33</guid>
+         <pubDate>Tue, 29 Sep 2026 10:06:07 +0000</pubDate>
+         <category>md5</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://jzqixing.com/transtioncash</title>
+         <link>https://x.com/OpcodeIntel/status/2104875361725252012</link>
+         <description>@OpcodeIntel | url | #malware
+Value: http://jzqixing.com/transtioncash
+Tweet: https://x.com/OpcodeIntel/status/2104875361725252012</description>
+         <guid isPermaLink="false">http://jzqixing.com/transtioncash</guid>
+         <pubDate>Tue, 29 Sep 2026 10:06:07 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

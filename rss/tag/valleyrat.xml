@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #valleyrat IOC feed</title>
+      <link>https://tweetfeed.live/tag/valleyrat/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #valleyrat on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #valleyrat IOC feed</title>
+         <link>https://tweetfeed.live/tag/valleyrat/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/valleyrat.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>8.210.231.207</title>
+         <link>https://x.com/fr0s7_/status/2104953889514824075</link>
+         <description>@fr0s7_ | ip | #ValleyRAT
+Value: 8.210.231.207
+Tweet: https://x.com/fr0s7_/status/2104953889514824075</description>
+         <guid isPermaLink="false">8.210.231.207</guid>
+         <pubDate>Tue, 29 Sep 2026 15:18:10 +0000</pubDate>
+         <category>ip</category>
+         <category>#ValleyRAT</category>
+      </item>
+      <item>
+         <title>8.215.17.221</title>
+         <link>https://x.com/fr0s7_/status/2104953889514824075</link>
+         <description>@fr0s7_ | ip | #ValleyRAT
+Value: 8.215.17.221
+Tweet: https://x.com/fr0s7_/status/2104953889514824075</description>
+         <guid isPermaLink="false">8.215.17.221</guid>
+         <pubDate>Tue, 29 Sep 2026 15:18:10 +0000</pubDate>
+         <category>ip</category>
+         <category>#ValleyRAT</category>
+      </item>
+   </channel>
+</rss>

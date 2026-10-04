@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @harugasumi</title>
+      <link>https://x.com/harugasumi</link>
+      <description>IOCs shared by @harugasumi and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @harugasumi</title>
+         <link>https://x.com/harugasumi</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/harugasumi.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://labinuri.z23.web.core.windows.net?phone=050-3095-4311</title>
+         <link>https://x.com/harugasumi/status/2104919050166182179</link>
+         <description>@harugasumi | url | #phishing
+Value: https://labinuri.z23.web.core.windows.net?phone=050-3095-4311
+Tweet: https://x.com/harugasumi/status/2104919050166182179</description>
+         <guid isPermaLink="false">https://labinuri.z23.web.core.windows.net?phone=050-3095-4311</guid>
+         <pubDate>Tue, 29 Sep 2026 12:59:43 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>labinuri.z23.web.core.windows.net</title>
+         <link>https://x.com/harugasumi/status/2104919050166182179</link>
+         <description>@harugasumi | domain | #phishing
+Value: labinuri.z23.web.core.windows.net
+Tweet: https://x.com/harugasumi/status/2104919050166182179</description>
+         <guid isPermaLink="false">labinuri.z23.web.core.windows.net</guid>
+         <pubDate>Tue, 29 Sep 2026 12:59:43 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>9524d7051fde6bfcfb8a90c305994e66df20686bd06cdfa9173149db9eb05467</title>
+         <link>https://x.com/harugasumi/status/2104456754784510159</link>
+         <description>@harugasumi | sha256 | 
+Value: 9524d7051fde6bfcfb8a90c305994e66df20686bd06cdfa9173149db9eb05467
+Tweet: https://x.com/harugasumi/status/2104456754784510159</description>
+         <guid isPermaLink="false">9524d7051fde6bfcfb8a90c305994e66df20686bd06cdfa9173149db9eb05467</guid>
+         <pubDate>Mon, 28 Sep 2026 06:22:43 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

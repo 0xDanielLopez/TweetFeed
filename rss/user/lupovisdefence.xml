@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @LupovisDefence</title>
+      <link>https://x.com/LupovisDefence</link>
+      <description>IOCs shared by @LupovisDefence and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @LupovisDefence</title>
+         <link>https://x.com/LupovisDefence</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/lupovisdefence.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://138.28.234.38</title>
+         <link>https://x.com/LupovisDefence/status/2104595071362326680</link>
+         <description>@LupovisDefence | url | 
+Value: http://138.28.234.38
+Tweet: https://x.com/LupovisDefence/status/2104595071362326680</description>
+         <guid isPermaLink="false">http://138.28.234.38</guid>
+         <pubDate>Mon, 28 Sep 2026 15:32:21 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

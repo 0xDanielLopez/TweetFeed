@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SansLimit3</title>
+      <link>https://x.com/SansLimit3</link>
+      <description>IOCs shared by @SansLimit3 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @SansLimit3</title>
+         <link>https://x.com/SansLimit3</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/sanslimit3.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 04 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://emaliyekontrol.com</title>
+         <link>https://x.com/SansLimit3/status/2105600685693604263</link>
+         <description>@SansLimit3 | url | #phishing
+Value: http://emaliyekontrol.com
+Tweet: https://x.com/SansLimit3/status/2105600685693604263</description>
+         <guid isPermaLink="false">http://emaliyekontrol.com</guid>
+         <pubDate>Thu, 01 Oct 2026 10:08:18 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>emaliyekontrol.com</title>
+         <link>https://x.com/SansLimit3/status/2105600685693604263</link>
+         <description>@SansLimit3 | domain | #phishing
+Value: emaliyekontrol.com
+Tweet: https://x.com/SansLimit3/status/2105600685693604263</description>
+         <guid isPermaLink="false">emaliyekontrol.com</guid>
+         <pubDate>Thu, 01 Oct 2026 10:08:18 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>
