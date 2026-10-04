@@ -1,5 +1,5 @@
 {
-  "count": 2353,
+  "count": 2371,
   "dead_tweets": {
     "2096234357635834097": {
       "attempts": 2,
@@ -2800,6 +2800,20 @@
       "type": "domain",
       "value": "1874912064.cyou"
     },
+    "188.40.225.137": {
+      "confidence": 0.45,
+      "date": "2026-10-03 20:11:52",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'WinUpdate.exe' seen from Ukraine on MalwareBazaar, linked to IP 188.40.225.137; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2106477353056587841",
+      "type": "url",
+      "value": "http://188.40.225.137"
+    },
     "188.63.231.182": {
       "confidence": 0.88,
       "date": "2026-09-17 19:03:31",
@@ -2958,6 +2972,30 @@
       "tweet_id": "2105171086359019527",
       "type": "ip",
       "value": "193.41.68.190"
+    },
+    "194.113.194.39": {
+      "confidence": 0.35,
+      "date": "2026-10-03 19:53:15",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Exposed login panel titled 'Proxy Network - Login' on 194.113.194.39:10311, possibly proxy-botnet or proxy-service infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2106472668824219693",
+      "type": "ip",
+      "value": "194.113.194.39"
+    },
+    "194.113.194.39:10311/portal/login": {
+      "confidence": 0.35,
+      "date": "2026-10-03 19:53:15",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Exposed login panel titled 'Proxy Network - Login' on 194.113.194.39:10311, possibly proxy-botnet or proxy-service infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2106472668824219693",
+      "type": "url",
+      "value": "http://194.113.194.39:10311/portal/login"
     },
     "195.20.239.207": {
       "confidence": 0.7,
@@ -5498,6 +5536,20 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "38.60.125.123"
+    },
+    "382d3d26bf4988a9a28cf67cc69cec4fd474e38b31179ae5ffc3d4b388667782": {
+      "confidence": 0.4,
+      "date": "2026-10-03 20:22:10",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Undetected Java archive 'BKS_C2_189.jar' seen from Brazil on MalwareBazaar; name hints at C2-related malware, family unconfirmed.",
+      "threat_type": "malware",
+      "tweet_id": "2106479948550819984",
+      "type": "sha256",
+      "value": "382d3d26bf4988a9a28cf67cc69cec4fd474e38b31179ae5ffc3d4b388667782"
     },
     "39.100.76.154": {
       "confidence": 0.85,
@@ -8181,6 +8233,23 @@
       "type": "ip",
       "value": "80.97.160.90"
     },
+    "80656cdb810bf40686f6f6da9731addf210d93f8cc417d8b43a3794b57b61010": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "sha256",
+      "value": "80656cdb810bf40686f6f6da9731addf210d93f8cc417d8b43a3794b57b61010"
+    },
     "81.71.120.246": {
       "confidence": 0.6,
       "date": "2026-10-02 15:38:18",
@@ -8465,6 +8534,20 @@
       "tweet_id": "2103355768234037399",
       "type": "ip",
       "value": "87.58.154.153"
+    },
+    "8712159d2a29a5744a75c280952194af128b1136e061e2021f184515cb3625b4": {
+      "confidence": 0.45,
+      "date": "2026-10-03 20:11:52",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'WinUpdate.exe' seen from Ukraine on MalwareBazaar, linked to IP 188.40.225.137; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2106477353056587841",
+      "type": "sha256",
+      "value": "8712159d2a29a5744a75c280952194af128b1136e061e2021f184515cb3625b4"
     },
     "87352b982d24c08a8ed97258f4af4e3b4497ef5d161dfbbf4f67aadc5fa1ba56": {
       "confidence": 0.75,
@@ -9379,6 +9462,20 @@
       "tweet_id": "2105363677746549042",
       "type": "sha256",
       "value": "a8ed949b21b7319d39204965112d61b9f695d9cf1f9fb17e1394e54a08dfdd16"
+    },
+    "a93d937f22335318e23a564ae42a16d8f6d0fa64305846980af77ef8965463bc": {
+      "confidence": 0.4,
+      "date": "2026-10-03 20:18:21",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Undetected executable 'System.exe' seen from Germany, submitted to MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2106478985328865531",
+      "type": "sha256",
+      "value": "a93d937f22335318e23a564ae42a16d8f6d0fa64305846980af77ef8965463bc"
     },
     "a9624ad50037e49f5d2e9ba37d079ba4c71341745649e43841ea9612fc21c089": {
       "confidence": 0.5,
@@ -12238,21 +12335,6 @@
       "type": "domain",
       "value": "bruoth-family.eu"
     },
-    "budgetweddingplanner.info": {
-      "confidence": 0.85,
-      "date": "2026-09-03 19:49:21",
-      "enriched_at": "2026-10-02T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Cloud-payment threat sends renewals to budgetweddingplanner[.]info rather than a cloud provider.",
-      "threat_type": "phishing",
-      "tweet_id": "2095600052068553203",
-      "type": "domain",
-      "value": "budgetweddingplanner.info"
-    },
     "bug-ucheti.online": {
       "confidence": 0.75,
       "date": "2026-10-01 11:46:13",
@@ -12454,23 +12536,6 @@
       "tweet_id": "2102331930213822897",
       "type": "domain",
       "value": "buyernestle.info"
-    },
-    "bvaco.com": {
-      "confidence": 0.93,
-      "date": "2026-09-03 20:52:10",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "XWorm C2 infrastructure using KiraAsciiObfuscator hosted on worksodsirius.ydns.eu and bvaco.com.",
-      "threat_type": "c2",
-      "tweet_id": "2095615861738361001",
-      "type": "domain",
-      "value": "bvaco.com"
     },
     "bwer5t6kl.getenjoyment.net": {
       "confidence": 0.91,
@@ -13378,6 +13443,20 @@
       "type": "url",
       "value": "https://cgongseq.com/point/download/"
     },
+    "champions-authorization-operates-ongoing.trycloudflare.com": {
+      "confidence": 0.45,
+      "date": "2026-10-03 20:15:40",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'svc.exe' seen from the UK on MalwareBazaar, associated with a trycloudflare.com tunnel domain likely used for C2 or payload delivery.",
+      "threat_type": "malware",
+      "tweet_id": "2106478312075964532",
+      "type": "domain",
+      "value": "champions-authorization-operates-ongoing.trycloudflare.com"
+    },
     "champions.gdtc.org": {
       "confidence": 0.5,
       "date": "2026-09-26 20:52:46",
@@ -14247,6 +14326,20 @@
       "tweet_id": "2105280704661647398",
       "type": "domain",
       "value": "cp.preparationguru.com"
+    },
+    "creditashfield.info": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:41:41",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Debt-relief phishing lure from creditashfield[.]info redirecting to stylishhomegallery[.]com; users warned not to submit financial data.",
+      "threat_type": "phishing",
+      "tweet_id": "2106530156462621107",
+      "type": "domain",
+      "value": "creditashfield.info"
     },
     "creditmarketreview.info": {
       "confidence": 0.85,
@@ -17527,6 +17620,20 @@
       "type": "domain",
       "value": "fever-recommendations-martha-durable.trycloudflare.com"
     },
+    "ff1a30cebc507977f916aa47cd3cfbcb134867361737f0f79f56349475af8c1a": {
+      "confidence": 0.45,
+      "date": "2026-10-03 20:15:40",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'svc.exe' seen from the UK on MalwareBazaar, associated with a trycloudflare.com tunnel domain likely used for C2 or payload delivery.",
+      "threat_type": "malware",
+      "tweet_id": "2106478312075964532",
+      "type": "sha256",
+      "value": "ff1a30cebc507977f916aa47cd3cfbcb134867361737f0f79f56349475af8c1a"
+    },
     "ff859be77a30726b10d98676963776502b891dd2dd941b7cbc8f415c4cd8a818": {
       "confidence": 0.7,
       "date": "2026-09-26 22:48:49",
@@ -18477,6 +18584,20 @@
       "tweet_id": "2100622065279946777",
       "type": "url",
       "value": "http://github.com/decryptionkey1"
+    },
+    "github.com/dotnet-runtime-libs/vcredist-packages/releases": {
+      "confidence": 0.6,
+      "date": "2026-10-03 18:47:56",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious GitHub repository impersonating Microsoft runtime/vcredist packages, hosting likely malicious release files.",
+      "threat_type": "malware",
+      "tweet_id": "2106456234207375699",
+      "type": "url",
+      "value": "https://github.com/dotnet-runtime-libs/vcredist-packages/releases"
     },
     "github.com/hazama-khan": {
       "confidence": 0.85,
@@ -21883,6 +22004,20 @@
       "type": "domain",
       "value": "kt6a61dr.cyou"
     },
+    "ktcinvesting.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 22:37:23",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure posing as a MEDVI weight-loss offer from lepiceriemarket[.]com leading to ktcinvesting[.]com; warns not to share health or payment data.",
+      "threat_type": "phishing",
+      "tweet_id": "2106513976452694514",
+      "type": "domain",
+      "value": "ktcinvesting.com"
+    },
     "kucoins-signin.com": {
       "confidence": 0.95,
       "date": "2026-09-13 12:01:25",
@@ -22017,20 +22152,6 @@
       "tweet_id": "2103095348113924175",
       "type": "domain",
       "value": "las-js-claud.beer"
-    },
-    "lawsolutiondirect.info": {
-      "confidence": 0.92,
-      "date": "2026-09-03 23:34:14",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Aspire-branded phishing campaign redirecting victims to lawsolutiondirect.info via card application invitation lure.",
-      "threat_type": "phishing",
-      "tweet_id": "2095656644851945689",
-      "type": "domain",
-      "value": "lawsolutiondirect.info"
     },
     "lcates-vs.beer": {
       "confidence": 0.92,
@@ -22235,6 +22356,20 @@
       "tweet_id": "2103268261223596411",
       "type": "url",
       "value": "https://lemon-1789655480294.staticrun.app/index.htm#temp@microsoft.com"
+    },
+    "lepiceriemarket.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 22:37:23",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure posing as a MEDVI weight-loss offer from lepiceriemarket[.]com leading to ktcinvesting[.]com; warns not to share health or payment data.",
+      "threat_type": "phishing",
+      "tweet_id": "2106513976452694514",
+      "type": "domain",
+      "value": "lepiceriemarket.com"
     },
     "lervuni-mpt-qazvoro-c3d6me71.pages.dev": {
       "confidence": 0.62,
@@ -23259,20 +23394,6 @@
       "type": "domain",
       "value": "manufacturers-arrested-acre-foods.trycloudflare.com"
     },
-    "mapletrailmedia.store": {
-      "confidence": 0.9,
-      "date": "2026-09-03 21:28:23",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Tax-relief phishing campaign redirecting victims to mapletrailmedia.store instead of a legitimate tax service.",
-      "threat_type": "phishing",
-      "tweet_id": "2095624975134691596",
-      "type": "domain",
-      "value": "mapletrailmedia.store"
-    },
     "marblefallslake-etzax.com": {
       "confidence": 0.7,
       "date": "2026-09-25 23:30:00",
@@ -23976,20 +24097,6 @@
       "type": "domain",
       "value": "mmsiriusss.s3.us-east-1.amazonaws.com"
     },
-    "mneylysis.info": {
-      "confidence": 0.92,
-      "date": "2026-09-03 22:29:02",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Insurify home-quote phishing lure routing victims to mneylysis.info from a sender with prior phishing reports.",
-      "threat_type": "phishing",
-      "tweet_id": "2095640236512424322",
-      "type": "domain",
-      "value": "mneylysis.info"
-    },
     "mnoskemp.beer": {
       "confidence": 0.92,
       "date": "2026-09-24 12:12:59",
@@ -24392,6 +24499,34 @@
       "tweet_id": "2106158796326515043",
       "type": "domain",
       "value": "narragansett-jp.com"
+    },
+    "nationaladvertagency.space": {
+      "confidence": 0.6,
+      "date": "2026-10-03 19:25:49",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposed on nationaladvertagency[.]space:8080/share/, potentially hosting malicious files.",
+      "threat_type": "other",
+      "tweet_id": "2106465765792649719",
+      "type": "domain",
+      "value": "nationaladvertagency.space"
+    },
+    "nationaladvertagency.space:8080/share": {
+      "confidence": 0.6,
+      "date": "2026-10-03 19:25:49",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposed on nationaladvertagency[.]space:8080/share/, potentially hosting malicious files.",
+      "threat_type": "other",
+      "tweet_id": "2106465765792649719",
+      "type": "url",
+      "value": "http://nationaladvertagency.space:8080/share/"
     },
     "nationalcollaborationinitiative.info": {
       "confidence": 0.6,
@@ -25969,6 +26104,23 @@
       "type": "domain",
       "value": "peakhealthbalance.com"
     },
+    "pemfinsideo-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "domain",
+      "value": "pemfinsideo-jp.com"
+    },
     "periods-genetic-stones-government.trycloudflare.com": {
       "confidence": 0.85,
       "date": "2026-09-16 14:17:34",
@@ -26075,6 +26227,20 @@
       "tweet_id": "2101068767312904606",
       "type": "domain",
       "value": "pineayra.com"
+    },
+    "pinebridgedigital.shop": {
+      "confidence": 0.8,
+      "date": "2026-09-09 07:00:28",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Bad-credit lending phishing lure routing clicks through pinebridgedigital[.]shop.",
+      "threat_type": "phishing",
+      "tweet_id": "2097580881821241469",
+      "type": "domain",
+      "value": "pinebridgedigital.shop"
     },
     "pirloz.com": {
       "confidence": 0.9,
@@ -28402,6 +28568,23 @@
       "type": "url",
       "value": "https://rinitiative.org/ftx"
     },
+    "rivalcastmed-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "domain",
+      "value": "rivalcastmed-jp.com"
+    },
     "riverglasstop.top": {
       "confidence": 0.5,
       "date": "2026-09-30 08:13:54",
@@ -29707,6 +29890,20 @@
       "type": "url",
       "value": "https://servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com/log.html#ssa@microsoft.com"
     },
+    "servers.ihostall.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 21:30:28",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Costco reward phishing lure from servers[.]ihostall[.]com leading to an unrelated cloud object host.",
+      "threat_type": "phishing",
+      "tweet_id": "2106497137005744603",
+      "type": "domain",
+      "value": "servers.ihostall.com"
+    },
     "settingsportal.com": {
       "confidence": 0.45,
       "date": "2026-10-02 07:44:48",
@@ -29767,6 +29964,23 @@
       "tweet_id": "2099876837388398902",
       "type": "domain",
       "value": "shenzhenm-jprakutansui.com"
+    },
+    "shenzhenmk-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "domain",
+      "value": "shenzhenmk-jp.com"
     },
     "shieldmetasetup.com": {
       "confidence": 0.93,
@@ -30533,6 +30747,23 @@
       "type": "domain",
       "value": "southcoastshop-etzax.com"
     },
+    "southportlane-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "domain",
+      "value": "southportlane-jp.com"
+    },
     "sp11ct-fardok-biz8-molvik-keslor.pages.dev": {
       "confidence": 0.82,
       "date": "2026-09-21 03:10:02",
@@ -31120,6 +31351,18 @@
       "tweet_id": "2096308816535052485",
       "type": "url",
       "value": "https://submit-form.com/xfgxjYePW"
+    },
+    "suckmydick.implantsity.pro": {
+      "confidence": 0.25,
+      "date": "2026-10-03 18:32:57",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Offensively named subdomain on implantsity[.]pro flagged as a suspicious indicator; purpose unspecified, possibly malicious infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2106452459996708873",
+      "type": "domain",
+      "value": "suckmydick.implantsity.pro"
     },
     "sumsub.report": {
       "confidence": 0.85,
@@ -32284,6 +32527,23 @@
       "tweet_id": "2099501893080735932",
       "type": "domain",
       "value": "tudaria.com"
+    },
+    "turismodem-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "domain",
+      "value": "turismodem-jp.com"
     },
     "turnitin-report.com": {
       "confidence": 0.85,
@@ -34216,23 +34476,6 @@
       "type": "domain",
       "value": "workday.report"
     },
-    "worksodsirius.ydns.eu": {
-      "confidence": 0.93,
-      "date": "2026-09-03 20:52:10",
-      "enriched_at": "2026-09-04T00:40:03Z",
-      "family": "XWorm",
-      "suggested_tags": [
-        "xworm",
-        "c2",
-        "malware",
-        "rat"
-      ],
-      "summary": "XWorm C2 infrastructure using KiraAsciiObfuscator hosted on worksodsirius.ydns.eu and bvaco.com.",
-      "threat_type": "c2",
-      "tweet_id": "2095615861738361001",
-      "type": "domain",
-      "value": "worksodsirius.ydns.eu"
-    },
     "worldprimenew-jp.com": {
       "confidence": 0.8,
       "date": "2026-09-28 23:14:02",
@@ -35497,6 +35740,23 @@
       "type": "domain",
       "value": "zhangyexin-jprakutansui.com"
     },
+    "zhangyexinx-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-03 23:15:14",
+      "enriched_at": "2026-10-04T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as e-Tax app (Japan), distributed via six -jp.com phishing domains; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2106523500064481449",
+      "type": "domain",
+      "value": "zhangyexinx-jp.com"
+    },
     "zizhil.com": {
       "confidence": 0.95,
       "date": "2026-09-04 04:48:28",
@@ -35704,6 +35964,6 @@
       "value": "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip"
     }
   },
-  "generated_at": "2026-10-03T18:40:03Z",
+  "generated_at": "2026-10-04T00:40:04Z",
   "window_days": 30
 }
