@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @BlinkzSec</title>
+      <link>https://x.com/BlinkzSec</link>
+      <description>IOCs shared by @BlinkzSec and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @BlinkzSec</title>
+         <link>https://x.com/BlinkzSec</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/blinkzsec.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>64.89.161.65</title>
+         <link>https://x.com/BlinkzSec/status/2107154228644893052</link>
+         <description>@BlinkzSec | ip | #opendir
+Value: 64.89.161.65
+Tweet: https://x.com/BlinkzSec/status/2107154228644893052</description>
+         <guid isPermaLink="false">64.89.161.65</guid>
+         <pubDate>Mon, 05 Oct 2026 17:01:31 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

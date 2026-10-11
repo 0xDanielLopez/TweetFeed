@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @AndrewPetrus</title>
+      <link>https://x.com/AndrewPetrus</link>
+      <description>IOCs shared by @AndrewPetrus and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @AndrewPetrus</title>
+         <link>https://x.com/AndrewPetrus</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/andrewpetrus.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://cloudflare.vc</title>
+         <link>https://x.com/AndrewPetrus/status/2108478801277764011</link>
+         <description>@AndrewPetrus | url | 
+Value: http://cloudflare.vc
+Tweet: https://x.com/AndrewPetrus/status/2108478801277764011</description>
+         <guid isPermaLink="false">http://cloudflare.vc</guid>
+         <pubDate>Fri, 09 Oct 2026 09:36:31 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>cloudflare.vc</title>
+         <link>https://x.com/AndrewPetrus/status/2108478801277764011</link>
+         <description>@AndrewPetrus | domain | 
+Value: cloudflare.vc
+Tweet: https://x.com/AndrewPetrus/status/2108478801277764011</description>
+         <guid isPermaLink="false">cloudflare.vc</guid>
+         <pubDate>Fri, 09 Oct 2026 09:36:31 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

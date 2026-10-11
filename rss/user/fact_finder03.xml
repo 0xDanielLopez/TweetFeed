@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Fact_Finder03</title>
+      <link>https://x.com/Fact_Finder03</link>
+      <description>IOCs shared by @Fact_Finder03 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Fact_Finder03</title>
+         <link>https://x.com/Fact_Finder03</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/fact_finder03.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>84.247.148.101</title>
+         <link>https://x.com/Fact_Finder03/status/2108453527739834530</link>
+         <description>@Fact_Finder03 | ip | #RAT
+Value: 84.247.148.101
+Tweet: https://x.com/Fact_Finder03/status/2108453527739834530</description>
+         <guid isPermaLink="false">84.247.148.101</guid>
+         <pubDate>Fri, 09 Oct 2026 07:04:28 +0000</pubDate>
+         <category>ip</category>
+         <category>#RAT</category>
+      </item>
+      <item>
+         <title>143.246.43.122</title>
+         <link>https://x.com/Fact_Finder03/status/2108157190637007094</link>
+         <description>@Fact_Finder03 | ip | #stealer
+Value: 143.246.43.122
+Tweet: https://x.com/Fact_Finder03/status/2108157190637007094</description>
+         <guid isPermaLink="false">143.246.43.122</guid>
+         <pubDate>Thu, 08 Oct 2026 11:26:56 +0000</pubDate>
+         <category>ip</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>157.230.224.101</title>
+         <link>https://x.com/Fact_Finder03/status/2107466157615939848</link>
+         <description>@Fact_Finder03 | ip | #stealer
+Value: 157.230.224.101
+Tweet: https://x.com/Fact_Finder03/status/2107466157615939848</description>
+         <guid isPermaLink="false">157.230.224.101</guid>
+         <pubDate>Tue, 06 Oct 2026 13:41:01 +0000</pubDate>
+         <category>ip</category>
+         <category>#stealer</category>
+      </item>
+      <item>
+         <title>107.189.21.25</title>
+         <link>https://x.com/Fact_Finder03/status/2107005175097672022</link>
+         <description>@Fact_Finder03 | ip | #stealer
+Value: 107.189.21.25
+Tweet: https://x.com/Fact_Finder03/status/2107005175097672022</description>
+         <guid isPermaLink="false">107.189.21.25</guid>
+         <pubDate>Mon, 05 Oct 2026 07:09:14 +0000</pubDate>
+         <category>ip</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>

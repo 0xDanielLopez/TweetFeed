@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @harugasumi</title>
+      <link>https://x.com/harugasumi</link>
+      <description>IOCs shared by @harugasumi and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @harugasumi</title>
+         <link>https://x.com/harugasumi</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/harugasumi.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>0aad8e8b65ee59ed916c190ef16719f396861e1d040a460a866604e67b074fb4</title>
+         <link>https://x.com/harugasumi/status/2107463036793680195</link>
+         <description>@harugasumi | sha256 | 
+Value: 0aad8e8b65ee59ed916c190ef16719f396861e1d040a460a866604e67b074fb4
+Tweet: https://x.com/harugasumi/status/2107463036793680195</description>
+         <guid isPermaLink="false">0aad8e8b65ee59ed916c190ef16719f396861e1d040a460a866604e67b074fb4</guid>
+         <pubDate>Tue, 06 Oct 2026 13:28:37 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>https://kenmarktur-jp.com</title>
+         <link>https://x.com/harugasumi/status/2107463036793680195</link>
+         <description>@harugasumi | url | 
+Value: https://kenmarktur-jp.com
+Tweet: https://x.com/harugasumi/status/2107463036793680195</description>
+         <guid isPermaLink="false">https://kenmarktur-jp.com</guid>
+         <pubDate>Tue, 06 Oct 2026 13:28:37 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>kenmarktur-jp.com</title>
+         <link>https://x.com/harugasumi/status/2107463036793680195</link>
+         <description>@harugasumi | domain | 
+Value: kenmarktur-jp.com
+Tweet: https://x.com/harugasumi/status/2107463036793680195</description>
+         <guid isPermaLink="false">kenmarktur-jp.com</guid>
+         <pubDate>Tue, 06 Oct 2026 13:28:37 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>https://souljourneysingreece.com/rDCr2eAAWB.lg.jp</title>
+         <link>https://x.com/harugasumi/status/2107463036793680195</link>
+         <description>@harugasumi | url | 
+Value: https://souljourneysingreece.com/rDCr2eAAWB.lg.jp
+Tweet: https://x.com/harugasumi/status/2107463036793680195</description>
+         <guid isPermaLink="false">https://souljourneysingreece.com/rDCr2eAAWB.lg.jp</guid>
+         <pubDate>Tue, 06 Oct 2026 13:28:37 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>souljourneysingreece.com</title>
+         <link>https://x.com/harugasumi/status/2107463036793680195</link>
+         <description>@harugasumi | domain | 
+Value: souljourneysingreece.com
+Tweet: https://x.com/harugasumi/status/2107463036793680195</description>
+         <guid isPermaLink="false">souljourneysingreece.com</guid>
+         <pubDate>Tue, 06 Oct 2026 13:28:37 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>https://pususufim.z28.web.core.windows.net?phone=050-3095-4311</title>
+         <link>https://x.com/harugasumi/status/2107139464334287026</link>
+         <description>@harugasumi | url | #phishing
+Value: https://pususufim.z28.web.core.windows.net?phone=050-3095-4311
+Tweet: https://x.com/harugasumi/status/2107139464334287026</description>
+         <guid isPermaLink="false">https://pususufim.z28.web.core.windows.net?phone=050-3095-4311</guid>
+         <pubDate>Mon, 05 Oct 2026 16:02:51 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>pususufim.z28.web.core.windows.net</title>
+         <link>https://x.com/harugasumi/status/2107139464334287026</link>
+         <description>@harugasumi | domain | #phishing
+Value: pususufim.z28.web.core.windows.net
+Tweet: https://x.com/harugasumi/status/2107139464334287026</description>
+         <guid isPermaLink="false">pususufim.z28.web.core.windows.net</guid>
+         <pubDate>Mon, 05 Oct 2026 16:02:51 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

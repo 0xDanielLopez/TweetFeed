@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @AddressIntel</title>
+      <link>https://x.com/AddressIntel</link>
+      <description>IOCs shared by @AddressIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @AddressIntel</title>
+         <link>https://x.com/AddressIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/addressintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://reurl.cc/qa4krD</title>
+         <link>https://x.com/AddressIntel/status/2106972672303243293</link>
+         <description>@AddressIntel | url | #phishing
+Value: https://reurl.cc/qa4krD
+Tweet: https://x.com/AddressIntel/status/2106972672303243293</description>
+         <guid isPermaLink="false">https://reurl.cc/qa4krD</guid>
+         <pubDate>Mon, 05 Oct 2026 05:00:05 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

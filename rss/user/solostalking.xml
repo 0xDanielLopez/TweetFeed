@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @solostalking</title>
+      <link>https://x.com/solostalking</link>
+      <description>IOCs shared by @solostalking and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @solostalking</title>
+         <link>https://x.com/solostalking</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/solostalking.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>170.168.61.117</title>
+         <link>https://x.com/solostalking/status/2108520552990466441</link>
+         <description>@solostalking | ip | 
+Value: 170.168.61.117
+Tweet: https://x.com/solostalking/status/2108520552990466441</description>
+         <guid isPermaLink="false">170.168.61.117</guid>
+         <pubDate>Fri, 09 Oct 2026 11:30:48 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>103.70.77.190</title>
+         <link>https://x.com/solostalking/status/2108152357955723766</link>
+         <description>@solostalking | ip | 
+Value: 103.70.77.190
+Tweet: https://x.com/solostalking/status/2108152357955723766</description>
+         <guid isPermaLink="false">103.70.77.190</guid>
+         <pubDate>Thu, 08 Oct 2026 11:07:44 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>

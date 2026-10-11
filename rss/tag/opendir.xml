@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #opendir IOC feed</title>
+      <link>https://tweetfeed.live/tag/opendir/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #opendir on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #opendir IOC feed</title>
+         <link>https://tweetfeed.live/tag/opendir/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/opendir.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>182.255.46.118</title>
+         <link>https://x.com/0xb1lal/status/2107950284156576028</link>
+         <description>@0xb1lal | ip | #opendir
+Value: 182.255.46.118
+Tweet: https://x.com/0xb1lal/status/2107950284156576028</description>
+         <guid isPermaLink="false">182.255.46.118</guid>
+         <pubDate>Wed, 07 Oct 2026 21:44:46 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>151.241.154.23</title>
+         <link>https://x.com/James_inthe_box/status/2107491399730073763</link>
+         <description>@James_inthe_box | ip | #Xworm #opendir
+Value: 151.241.154.23
+Tweet: https://x.com/James_inthe_box/status/2107491399730073763</description>
+         <guid isPermaLink="false">151.241.154.23</guid>
+         <pubDate>Tue, 06 Oct 2026 15:21:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#Xworm</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>107.173.143.44</title>
+         <link>https://x.com/James_inthe_box/status/2107491399730073763</link>
+         <description>@James_inthe_box | ip | #Xworm #opendir
+Value: 107.173.143.44
+Tweet: https://x.com/James_inthe_box/status/2107491399730073763</description>
+         <guid isPermaLink="false">107.173.143.44</guid>
+         <pubDate>Tue, 06 Oct 2026 15:21:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#Xworm</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>http://151.241.154.23:7007</title>
+         <link>https://x.com/James_inthe_box/status/2107491399730073763</link>
+         <description>@James_inthe_box | url | #Xworm #opendir
+Value: http://151.241.154.23:7007
+Tweet: https://x.com/James_inthe_box/status/2107491399730073763</description>
+         <guid isPermaLink="false">http://151.241.154.23:7007</guid>
+         <pubDate>Tue, 06 Oct 2026 15:21:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Xworm</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>http://107.173.143.44/60</title>
+         <link>https://x.com/James_inthe_box/status/2107491399730073763</link>
+         <description>@James_inthe_box | url | #Xworm #opendir
+Value: http://107.173.143.44/60
+Tweet: https://x.com/James_inthe_box/status/2107491399730073763</description>
+         <guid isPermaLink="false">http://107.173.143.44/60</guid>
+         <pubDate>Tue, 06 Oct 2026 15:21:19 +0000</pubDate>
+         <category>url</category>
+         <category>#Xworm</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>64.89.161.65</title>
+         <link>https://x.com/BlinkzSec/status/2107154228644893052</link>
+         <description>@BlinkzSec | ip | #opendir
+Value: 64.89.161.65
+Tweet: https://x.com/BlinkzSec/status/2107154228644893052</description>
+         <guid isPermaLink="false">64.89.161.65</guid>
+         <pubDate>Mon, 05 Oct 2026 17:01:31 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

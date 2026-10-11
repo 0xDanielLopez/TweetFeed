@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @jm3xpf</title>
+      <link>https://x.com/jm3xpf</link>
+      <description>IOCs shared by @jm3xpf and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @jm3xpf</title>
+         <link>https://x.com/jm3xpf</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/jm3xpf.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://xuchangwuli-jp.com</title>
+         <link>https://x.com/jm3xpf/status/2108679943446270234</link>
+         <description>@jm3xpf | url | #malware #phishing
+Value: https://xuchangwuli-jp.com
+Tweet: https://x.com/jm3xpf/status/2108679943446270234</description>
+         <guid isPermaLink="false">https://xuchangwuli-jp.com</guid>
+         <pubDate>Fri, 09 Oct 2026 22:04:10 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>xuchangwuli-jp.com</title>
+         <link>https://x.com/jm3xpf/status/2108679943446270234</link>
+         <description>@jm3xpf | domain | #malware #phishing
+Value: xuchangwuli-jp.com
+Tweet: https://x.com/jm3xpf/status/2108679943446270234</description>
+         <guid isPermaLink="false">xuchangwuli-jp.com</guid>
+         <pubDate>Fri, 09 Oct 2026 22:04:10 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

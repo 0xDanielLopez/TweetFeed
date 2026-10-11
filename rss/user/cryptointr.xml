@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @CryptointR</title>
+      <link>https://x.com/CryptointR</link>
+      <description>IOCs shared by @CryptointR and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @CryptointR</title>
+         <link>https://x.com/CryptointR</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/cryptointr.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://userhub-coinbase.com</title>
+         <link>https://x.com/CryptointR/status/2109044483228893413</link>
+         <description>@CryptointR | url | #phishing
+Value: http://userhub-coinbase.com
+Tweet: https://x.com/CryptointR/status/2109044483228893413</description>
+         <guid isPermaLink="false">http://userhub-coinbase.com</guid>
+         <pubDate>Sat, 10 Oct 2026 22:12:43 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>userhub-coinbase.com</title>
+         <link>https://x.com/CryptointR/status/2109044483228893413</link>
+         <description>@CryptointR | domain | #phishing
+Value: userhub-coinbase.com
+Tweet: https://x.com/CryptointR/status/2109044483228893413</description>
+         <guid isPermaLink="false">userhub-coinbase.com</guid>
+         <pubDate>Sat, 10 Oct 2026 22:12:43 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

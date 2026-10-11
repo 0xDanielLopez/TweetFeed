@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #apt IOC feed</title>
+      <link>https://tweetfeed.live/tag/apt/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #apt on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #apt IOC feed</title>
+         <link>https://tweetfeed.live/tag/apt/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/apt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://meetoa.protofire.org</title>
+         <link>https://x.com/tdatwja/status/2108864186470322352</link>
+         <description>@tdatwja | url | #APT #BlueNoroff
+Value: http://meetoa.protofire.org
+Tweet: https://x.com/tdatwja/status/2108864186470322352</description>
+         <guid isPermaLink="false">http://meetoa.protofire.org</guid>
+         <pubDate>Sat, 10 Oct 2026 10:16:17 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#BlueNoroff</category>
+      </item>
+      <item>
+         <title>meetoa.protofire.org</title>
+         <link>https://x.com/tdatwja/status/2108864186470322352</link>
+         <description>@tdatwja | domain | #APT #BlueNoroff
+Value: meetoa.protofire.org
+Tweet: https://x.com/tdatwja/status/2108864186470322352</description>
+         <guid isPermaLink="false">meetoa.protofire.org</guid>
+         <pubDate>Sat, 10 Oct 2026 10:16:17 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#BlueNoroff</category>
+      </item>
+      <item>
+         <title>https://efine-post.com/d/mdqehmDZHZdFSf4R0gHBJg</title>
+         <link>https://x.com/byrne_emmy12099/status/2108539415140151548</link>
+         <description>@byrne_emmy12099 | url | #APT
+Value: https://efine-post.com/d/mdqehmDZHZdFSf4R0gHBJg
+Tweet: https://x.com/byrne_emmy12099/status/2108539415140151548</description>
+         <guid isPermaLink="false">https://efine-post.com/d/mdqehmDZHZdFSf4R0gHBJg</guid>
+         <pubDate>Fri, 09 Oct 2026 12:45:45 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>efine-post.com</title>
+         <link>https://x.com/byrne_emmy12099/status/2108539415140151548</link>
+         <description>@byrne_emmy12099 | domain | #APT
+Value: efine-post.com
+Tweet: https://x.com/byrne_emmy12099/status/2108539415140151548</description>
+         <guid isPermaLink="false">efine-post.com</guid>
+         <pubDate>Fri, 09 Oct 2026 12:45:45 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+      </item>
+   </channel>
+</rss>

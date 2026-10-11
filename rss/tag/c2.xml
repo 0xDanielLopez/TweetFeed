@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #c2 IOC feed</title>
+      <link>https://tweetfeed.live/tag/c2/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #c2 on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #c2 IOC feed</title>
+         <link>https://tweetfeed.live/tag/c2/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/c2.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>34.254.202.253</title>
+         <link>https://x.com/etugenio/status/2107044472198693028</link>
+         <description>@etugenio | ip | #C2 #malware
+Value: 34.254.202.253
+Tweet: https://x.com/etugenio/status/2107044472198693028</description>
+         <guid isPermaLink="false">34.254.202.253</guid>
+         <pubDate>Mon, 05 Oct 2026 09:45:23 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://34.254.202.253</title>
+         <link>https://x.com/etugenio/status/2107044472198693028</link>
+         <description>@etugenio | url | #C2 #malware
+Value: http://34.254.202.253
+Tweet: https://x.com/etugenio/status/2107044472198693028</description>
+         <guid isPermaLink="false">http://34.254.202.253</guid>
+         <pubDate>Mon, 05 Oct 2026 09:45:23 +0000</pubDate>
+         <category>url</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

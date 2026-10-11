@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @CatoCTRL</title>
+      <link>https://x.com/CatoCTRL</link>
+      <description>IOCs shared by @CatoCTRL and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @CatoCTRL</title>
+         <link>https://x.com/CatoCTRL</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/catoctrl.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sun, 11 Oct 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>167.148.201.15</title>
+         <link>https://x.com/CatoCTRL/status/2107534755038421359</link>
+         <description>@CatoCTRL | ip | #ClickFix
+Value: 167.148.201.15
+Tweet: https://x.com/CatoCTRL/status/2107534755038421359</description>
+         <guid isPermaLink="false">167.148.201.15</guid>
+         <pubDate>Tue, 06 Oct 2026 18:13:36 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+      </item>
+      <item>
+         <title>http://167.148.201.15</title>
+         <link>https://x.com/CatoCTRL/status/2107534755038421359</link>
+         <description>@CatoCTRL | url | #ClickFix
+Value: http://167.148.201.15
+Tweet: https://x.com/CatoCTRL/status/2107534755038421359</description>
+         <guid isPermaLink="false">http://167.148.201.15</guid>
+         <pubDate>Tue, 06 Oct 2026 18:13:36 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+      </item>
+   </channel>
+</rss>
