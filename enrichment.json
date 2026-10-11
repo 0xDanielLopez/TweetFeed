@@ -1,5 +1,5 @@
 {
-  "count": 2667,
+  "count": 2673,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 2,
@@ -5311,21 +5311,6 @@
       "type": "url",
       "value": "http://222.127.60.98:47898/Mozi.m"
     },
-    "223.26.62.95": {
-      "confidence": 0.9,
-      "date": "2026-09-10 21:03:14",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "malware"
-      ],
-      "summary": "Open directory on Hong Kong IP 223.26.62.95 port 8081 hosting nmap outputs, webshells, backdoor SSH keys, credential cracking files, and exfil configs.",
-      "threat_type": "other",
-      "tweet_id": "2098155360829702413",
-      "type": "ip",
-      "value": "223.26.62.95"
-    },
     "223.29.138.236": {
       "confidence": 0.82,
       "date": "2026-09-11 02:39:20",
@@ -5720,22 +5705,6 @@
       "tweet_id": "2107138805270487052",
       "type": "sha256",
       "value": "2ede40f7d7f02014533a250bd68ee2da8f48cd222d14d4a66c50206646ede127"
-    },
-    "2f53cced4eb1de3502d13fdbfabc6d301949816da2fd4244e8ef294187871433": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:14:58",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Saison Card distributed via ruceive-sasioncaridpoint.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098173414553133414",
-      "type": "sha256",
-      "value": "2f53cced4eb1de3502d13fdbfabc6d301949816da2fd4244e8ef294187871433"
     },
     "2fa-cp.cfd": {
       "confidence": 0.9,
@@ -9749,23 +9718,6 @@
       "type": "sha256",
       "value": "7392bccd63277bc5dec54f97384bb956a1c138bde6d519bc87ff104c86a3dda7"
     },
-    "73991ef1817030b16209ad160065d5283dff38963b7aee2aaeeddb15eff84bca": {
-      "confidence": 0.85,
-      "date": "2026-09-11 00:39:38",
-      "enriched_at": "2026-09-11T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating a Japanese secret/adult live-streaming app distributed via three lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2098209820293927261",
-      "type": "sha256",
-      "value": "73991ef1817030b16209ad160065d5283dff38963b7aee2aaeeddb15eff84bca"
-    },
     "74.115.51.5": {
       "confidence": 0.97,
       "date": "2026-09-19 12:01:29",
@@ -9944,6 +9896,22 @@
       "type": "url",
       "value": "http://78.17.93.224"
     },
+    "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:58:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055946949578753",
+      "type": "sha256",
+      "value": "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd"
+    },
     "789ba8885841786c1b3aeb4c1c5c75a3757155d160029f490dbfe724dce61fe9": {
       "confidence": 0.55,
       "date": "2026-09-29 10:13:33",
@@ -10032,6 +10000,22 @@
       "tweet_id": "2105568565281563057",
       "type": "sha256",
       "value": "79121c5d9ddfafd532c30b9c20644b9a45fadadee9163eb2e5678e4efceb4312"
+    },
+    "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "sha256",
+      "value": "79dba35f06d557a20d0ea100f4926da22aa9733513422addd7b4217246da3393"
     },
     "7a4dcfa6f8c24150bb6f751e7c8c6b3a628cfac25dd6989c3b5b050c56259bc1": {
       "confidence": 0.5,
@@ -10202,6 +10186,22 @@
       "tweet_id": "2108681934540873852",
       "type": "sha256",
       "value": "7ee637fd7c4da9f098f9e69a1d17608e6d96d0c666c9a706389e28ba3d822c13"
+    },
+    "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d": {
+      "confidence": 0.7,
+      "date": "2026-10-10 23:05:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as a 'Recycle' app, distributed via recycle.startmultimedia.com; Japanese-language phishing/fraud lure with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109057708926374341",
+      "type": "sha256",
+      "value": "7efde99b7571680389d6dcd8a807986355d8db3eed13227f5fee0028f9ffd12d"
     },
     "7f9bac80fbb44bc60e4ec9e85c875d33": {
       "confidence": 0.5,
@@ -11465,6 +11465,20 @@
       "tweet_id": "2101959514333327375",
       "type": "md5",
       "value": "97b7b06fc46806775d2ba0f97985269b"
+    },
+    "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511": {
+      "confidence": 0.4,
+      "date": "2026-10-10 20:50:40",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious Windows command script 'HARMAN_TRANSPORT_USA_SETUP.cmd' seen from Pakistan and shared on MalwareBazaar; family not identified.",
+      "threat_type": "malware",
+      "tweet_id": "2109023836041552217",
+      "type": "sha256",
+      "value": "994becb3008d8dacd064bf699bd2acb55b59e213143451f67b808edc261c4511"
     },
     "99a4f10d374c096e576e6b2e82594ce53ff1d429c545d10dbf3647c4ae79ac9a": {
       "confidence": 0.5,
@@ -12788,6 +12802,21 @@
       "tweet_id": "2102597590156251390",
       "type": "domain",
       "value": "alphashoppingdock.org"
+    },
+    "altiora.fun": {
+      "confidence": 0.7,
+      "date": "2026-09-15 03:04:05",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Loan, tax relief and card offers whose action link leads to altiora.fun rather than the brand shown.",
+      "threat_type": "phishing",
+      "tweet_id": "2099695723189277034",
+      "type": "domain",
+      "value": "altiora.fun"
     },
     "am-prime-sonnerie.com": {
       "confidence": 0.95,
@@ -14471,20 +14500,6 @@
       "type": "url",
       "value": "https://beglnr.cfd/netbk/#/index"
     },
-    "beliobeam.com": {
-      "confidence": 0.95,
-      "date": "2026-09-11 00:10:11",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing campaign rotating American Home Shield, Budget Blinds, and loan lures through shared infrastructure at beliobeam.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2098202406366728444",
-      "type": "domain",
-      "value": "beliobeam.com"
-    },
     "benditongoto.com": {
       "confidence": 0.7,
       "date": "2026-09-26 07:57:15",
@@ -15662,6 +15677,22 @@
       "tweet_id": "2107380629612433761",
       "type": "sha256",
       "value": "caf46345f73f879002bca604908cb0875ee19e3cee9935357aa7c83d619bf3a3"
+    },
+    "caihongzhixia-jp.com": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:58:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055946949578753",
+      "type": "domain",
+      "value": "caihongzhixia-jp.com"
     },
     "caixa.report": {
       "confidence": 0.85,
@@ -18139,33 +18170,21 @@
       "type": "domain",
       "value": "destinationmatrimony.info"
     },
-    "dev-connetpoint.pantheonsite.io": {
-      "confidence": 0.92,
-      "date": "2026-09-10 19:22:11",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
+    "devin-us.com": {
+      "confidence": 0.7,
+      "date": "2026-09-15 05:43:05",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": "OverlordRAT",
       "suggested_tags": [
-        "phishing"
+        "malware",
+        "rat",
+        "c2"
       ],
-      "summary": "Egypt-targeted ebanking phishing using AWS S3 page to redirect victims to Microsoft credential harvester on pantheonsite.io.",
-      "threat_type": "phishing",
-      "tweet_id": "2098129930017992837",
+      "summary": "Japanese malware email posing as an income tax notice, with a link to a download of a zip file; C2 communication to devin-us.com, tracked as OverlordRAT.",
+      "threat_type": "malware",
+      "tweet_id": "2099735738174878019",
       "type": "domain",
-      "value": "dev-connetpoint.pantheonsite.io"
-    },
-    "dev-connetpoint.pantheonsite.io/sparkiopanel/mo/pan/index.php": {
-      "confidence": 0.92,
-      "date": "2026-09-10 19:22:11",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Egypt-targeted ebanking phishing using AWS S3 page to redirect victims to Microsoft credential harvester on pantheonsite.io.",
-      "threat_type": "phishing",
-      "tweet_id": "2098129930017992837",
-      "type": "url",
-      "value": "https://dev-connetpoint.pantheonsite.io/sparkiopanel/mo/pan/index.php"
+      "value": "devin-us.com"
     },
     "df74f2f8eb8d707411ffb8ee8f9c9fb1881fe1cc38978e8c743de393d4ce0b9d": {
       "confidence": 0.6,
@@ -19599,6 +19618,22 @@
       "type": "domain",
       "value": "equitygrandview.com"
     },
+    "erqdooey.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "erqdooey.cn"
+    },
     "esign-document.help": {
       "confidence": 0.5,
       "date": "2026-09-29 05:18:05",
@@ -19876,6 +19911,30 @@
       "type": "domain",
       "value": "expeditors.report"
     },
+    "expirience.click": {
+      "confidence": 0.25,
+      "date": "2026-10-10 19:50:55",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Suspicious login panel titled 'Expirience \u00b7 Login' hosted at expirience.click; purpose unclear, possibly a malicious panel or phishing page.",
+      "threat_type": "other",
+      "tweet_id": "2109008798786716087",
+      "type": "domain",
+      "value": "expirience.click"
+    },
+    "expirience.click/login": {
+      "confidence": 0.25,
+      "date": "2026-10-10 19:50:55",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Suspicious login panel titled 'Expirience \u00b7 Login' hosted at expirience.click; purpose unclear, possibly a malicious panel or phishing page.",
+      "threat_type": "other",
+      "tweet_id": "2109008798786716087",
+      "type": "url",
+      "value": "https://expirience.click/login"
+    },
     "expirience.icu": {
       "confidence": 0.3,
       "date": "2026-10-02 11:00:54",
@@ -20004,22 +20063,6 @@
       "tweet_id": "2100435988225077274",
       "type": "sha256",
       "value": "f09550f82262273556f0bf861a598163877d7a5277a05b068db76fc1c13dab56"
-    },
-    "f0b29cda2dedf44f398c03eeb3c5eddbeac44ee79686a904a4cb4fbf207137ef": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:19:00",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via multiple ruceivea/z/e/o-rakntanpointapp.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098174426982621233",
-      "type": "sha256",
-      "value": "f0b29cda2dedf44f398c03eeb3c5eddbeac44ee79686a904a4cb4fbf207137ef"
     },
     "f137cb54d7a25f31d09c681810a5625142d56438ba2c958a7f24bc38e0ae2d2b": {
       "confidence": 0.8,
@@ -21858,6 +21901,22 @@
       "type": "domain",
       "value": "ghostlightcoff-jp.com"
     },
+    "ghqbpkkz.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "ghqbpkkz.cn"
+    },
     "giebh51.cn": {
       "confidence": 0.75,
       "date": "2026-10-08 23:25:59",
@@ -22475,6 +22534,22 @@
       "tweet_id": "2105742352727810345",
       "type": "domain",
       "value": "guach.net"
+    },
+    "guangrongsuiy-jp.com": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:58:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055946949578753",
+      "type": "domain",
+      "value": "guangrongsuiy-jp.com"
     },
     "gusso.info": {
       "confidence": 0.5,
@@ -28128,6 +28203,21 @@
       "type": "domain",
       "value": "monday.report"
     },
+    "moneycedarvale.com": {
+      "confidence": 0.7,
+      "date": "2026-09-19 03:07:08",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "LifeLoans-themed offer using a sending domain and applying via moneycedarvale.com, flagged by public threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2101146042649788845",
+      "type": "domain",
+      "value": "moneycedarvale.com"
+    },
     "moneylaunchway.info": {
       "confidence": 0.75,
       "date": "2026-09-19 03:07:08",
@@ -28942,6 +29032,21 @@
       "tweet_id": "2105499238566355071",
       "type": "url",
       "value": "https://nilehost.cloud/Adobe_Inz.html"
+    },
+    "nimblemevia.com": {
+      "confidence": 0.7,
+      "date": "2026-09-19 02:06:18",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Next Day Personal Loan emails reusing one lure while rotating domains, including nimblemevia.com; flagged by public threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2101130732429324520",
+      "type": "domain",
+      "value": "nimblemevia.com"
     },
     "nl.finanzen.net": {
       "confidence": 0.82,
@@ -29806,6 +29911,22 @@
       "type": "url",
       "value": "https://op.lepiceriedestoits.com/kirby/download.php"
     },
+    "opantaz.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "opantaz.cn"
+    },
     "openaaii.com": {
       "confidence": 0.75,
       "date": "2026-10-02 06:21:44",
@@ -30028,6 +30149,22 @@
       "tweet_id": "2103492532810232027",
       "type": "domain",
       "value": "originalpizza.eu"
+    },
+    "ornqzbd.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "ornqzbd.cn"
     },
     "oskatrace.com": {
       "confidence": 0.85,
@@ -30339,6 +30476,21 @@
       "tweet_id": "2101068767312904606",
       "type": "domain",
       "value": "pineayra.com"
+    },
+    "pinebridgedigital.shop": {
+      "confidence": 0.7,
+      "date": "2026-09-30 05:41:04",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Debt and lending email lures reusing sender/destination infrastructure, leading to pinebridgedigital.shop and another related domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2105171045133271345",
+      "type": "domain",
+      "value": "pinebridgedigital.shop"
     },
     "pixeldrain.com": {
       "confidence": 0.85,
@@ -31676,6 +31828,22 @@
       "type": "domain",
       "value": "qkxcs.cn"
     },
+    "qnsonz.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "qnsonz.cn"
+    },
     "qtxfq.cn": {
       "confidence": 0.75,
       "date": "2026-10-07 04:23:23",
@@ -32037,6 +32205,22 @@
       "tweet_id": "2107980570836029860",
       "type": "domain",
       "value": "recycle.eu.cc"
+    },
+    "recycle.startmultimedia.com": {
+      "confidence": 0.7,
+      "date": "2026-10-10 23:05:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as a 'Recycle' app, distributed via recycle.startmultimedia.com; Japanese-language phishing/fraud lure with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109057708926374341",
+      "type": "domain",
+      "value": "recycle.startmultimedia.com"
     },
     "redsun.live": {
       "confidence": 0.7,
@@ -32998,102 +33182,6 @@
       "type": "domain",
       "value": "ruceiive-rakntanoapp.com"
     },
-    "ruceive-sasioncaridpoint.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:14:58",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Saison Card distributed via ruceive-sasioncaridpoint.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098173414553133414",
-      "type": "domain",
-      "value": "ruceive-sasioncaridpoint.com"
-    },
-    "ruceive-sasioncaridpointapp.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:14:58",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Saison Card distributed via ruceive-sasioncaridpoint.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098173414553133414",
-      "type": "domain",
-      "value": "ruceive-sasioncaridpointapp.com"
-    },
-    "ruceivea-rakntanpointapp.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:19:00",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via multiple ruceivea/z/e/o-rakntanpointapp.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098174426982621233",
-      "type": "domain",
-      "value": "ruceivea-rakntanpointapp.com"
-    },
-    "ruceivee-rakntanpointapp.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:19:00",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via multiple ruceivea/z/e/o-rakntanpointapp.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098174426982621233",
-      "type": "domain",
-      "value": "ruceivee-rakntanpointapp.com"
-    },
-    "ruceiveo-rakntanpointapp.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:19:00",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via multiple ruceivea/z/e/o-rakntanpointapp.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098174426982621233",
-      "type": "domain",
-      "value": "ruceiveo-rakntanpointapp.com"
-    },
-    "ruceivez-rakntanpointapp.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:19:00",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Rakuten distributed via multiple ruceivea/z/e/o-rakntanpointapp.com domains; SHA256 confirmed on VirusTotal.",
-      "threat_type": "malware",
-      "tweet_id": "2098174426982621233",
-      "type": "domain",
-      "value": "ruceivez-rakntanpointapp.com"
-    },
     "rucepive-rakntanoapp.com": {
       "confidence": 0.78,
       "date": "2026-09-11 21:09:16",
@@ -33742,57 +33830,6 @@
       "type": "domain",
       "value": "secret-loves.com"
     },
-    "secretlive-jp.com": {
-      "confidence": 0.85,
-      "date": "2026-09-11 00:39:38",
-      "enriched_at": "2026-09-11T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating a Japanese secret/adult live-streaming app distributed via three lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2098209820293927261",
-      "type": "domain",
-      "value": "secretlive-jp.com"
-    },
-    "secretlivei-jp.com": {
-      "confidence": 0.85,
-      "date": "2026-09-11 00:39:38",
-      "enriched_at": "2026-09-11T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating a Japanese secret/adult live-streaming app distributed via three lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2098209820293927261",
-      "type": "domain",
-      "value": "secretlivei-jp.com"
-    },
-    "secretliveo-jp.com": {
-      "confidence": 0.85,
-      "date": "2026-09-11 00:39:38",
-      "enriched_at": "2026-09-11T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing",
-        "trojan"
-      ],
-      "summary": "Android malware impersonating a Japanese secret/adult live-streaming app distributed via three lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2098209820293927261",
-      "type": "domain",
-      "value": "secretliveo-jp.com"
-    },
     "securedeliverfast.com": {
       "confidence": 0.9,
       "date": "2026-09-22 10:12:17",
@@ -33892,34 +33929,6 @@
       "type": "url",
       "value": "https://sergiomarshall.com/inc/index.html"
     },
-    "servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com": {
-      "confidence": 0.92,
-      "date": "2026-09-10 19:22:11",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Egypt-targeted ebanking phishing using AWS S3 page to redirect victims to Microsoft credential harvester on pantheonsite.io.",
-      "threat_type": "phishing",
-      "tweet_id": "2098129930017992837",
-      "type": "domain",
-      "value": "servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com"
-    },
-    "servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com/log.html#ssa@microsoft.com": {
-      "confidence": 0.92,
-      "date": "2026-09-10 19:22:11",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Egypt-targeted ebanking phishing using AWS S3 page to redirect victims to Microsoft credential harvester on pantheonsite.io.",
-      "threat_type": "phishing",
-      "tweet_id": "2098129930017992837",
-      "type": "url",
-      "value": "https://servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com/log.html#ssa@microsoft.com"
-    },
     "servers.ihostall.com": {
       "confidence": 0.8,
       "date": "2026-10-03 21:30:28",
@@ -33964,6 +33973,22 @@
       "tweet_id": "2107604018059248116",
       "type": "domain",
       "value": "sftcm.cn"
+    },
+    "sghua.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "sghua.cn"
     },
     "share-files-onedrive.com": {
       "confidence": 0.85,
@@ -34173,6 +34198,22 @@
       "type": "url",
       "value": "https://shultectise.xa5ttg.info/aztipuif/indx/"
     },
+    "shunyishengh-jp.com": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:58:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055946949578753",
+      "type": "domain",
+      "value": "shunyishengh-jp.com"
+    },
     "siastrategy.com": {
       "confidence": 0.92,
       "date": "2026-09-18 04:28:27",
@@ -34308,36 +34349,6 @@
       "tweet_id": "2102473881315643843",
       "type": "url",
       "value": "https://site-google-havan.com/produto/32812"
-    },
-    "site-ma-ga-zine-luiza.com": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:59:35",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Magazine Luiza (Brazilian retailer) clone site at site-ma-ga-zine-luiza.com used for e-commerce scam/phishing.",
-      "threat_type": "scam",
-      "tweet_id": "2098184640271987061",
-      "type": "domain",
-      "value": "site-ma-ga-zine-luiza.com"
-    },
-    "site-ma-ga-zine-luiza.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura": {
-      "confidence": 0.9,
-      "date": "2026-09-10 22:59:35",
-      "enriched_at": "2026-09-11T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake Magazine Luiza (Brazilian retailer) clone site at site-ma-ga-zine-luiza.com used for e-commerce scam/phishing.",
-      "threat_type": "scam",
-      "tweet_id": "2098184640271987061",
-      "type": "url",
-      "value": "https://site-ma-ga-zine-luiza.com/produto/escada-articulada-de-aluminio-12-degraus-350-metros-de-altura"
     },
     "sites.google.com/view/adobe-docus/home": {
       "confidence": 0.95,
@@ -35997,6 +36008,20 @@
       "type": "domain",
       "value": "theartoftalki-saisanpolnts.com"
     },
+    "thedentalsuite.com.au": {
+      "confidence": 0.7,
+      "date": "2026-10-10 18:59:28",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site reported at thedentalsuite.com.au, hosted behind Cloudflare (AS13335), per PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2108995850575958428",
+      "type": "domain",
+      "value": "thedentalsuite.com.au"
+    },
     "thefishguid-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-05 23:45:10",
@@ -36580,6 +36605,21 @@
       "tweet_id": "2099181884294996126",
       "type": "domain",
       "value": "troubleshoots-google.com"
+    },
+    "truenorthworks.fun": {
+      "confidence": 0.7,
+      "date": "2026-09-14 17:49:06",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fast personal-loan offer whose action link leads to truenorthworks.fun rather than the brand shown.",
+      "threat_type": "phishing",
+      "tweet_id": "2099556055915389222",
+      "type": "domain",
+      "value": "truenorthworks.fun"
     },
     "trust-wallet-bnb.vercel.app": {
       "confidence": 0.9,
@@ -37175,6 +37215,20 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "user308.workers.dev"
+    },
+    "userhub-coinbase.com": {
+      "confidence": 0.85,
+      "date": "2026-10-10 22:12:43",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Gated phishing campaign targeting Coinbase users with fake support ticket/case ID lures via SMS/email; Next.js kit with fingerprinting and bot gating on userhub-coinbase.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2109044483228893413",
+      "type": "domain",
+      "value": "userhub-coinbase.com"
     },
     "userieza.com": {
       "confidence": 0.95,
@@ -39627,6 +39681,22 @@
       "type": "url",
       "value": "http://xfmdnsr.com/index.php"
     },
+    "xiaoxiangliu-jp.com": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:58:16",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware posing as the Japanese e-Tax app, distributed through four lookalike -jp.com domains; phishing-based delivery of an APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055946949578753",
+      "type": "domain",
+      "value": "xiaoxiangliu-jp.com"
+    },
     "xieolrrb.ntinvoicepload.dynu.net": {
       "confidence": 0.92,
       "date": "2026-09-13 05:22:06",
@@ -40279,6 +40349,22 @@
       "type": "domain",
       "value": "zhangyexinx-jp.com"
     },
+    "zilqkr.cn": {
+      "confidence": 0.7,
+      "date": "2026-10-10 22:55:52",
+      "enriched_at": "2026-10-11T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax app, delivered via seven .cn phishing domains with an associated APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2109055341908607403",
+      "type": "domain",
+      "value": "zilqkr.cn"
+    },
     "zledu-sx.oss-cn-beijing.aliyuncs.com": {
       "confidence": 0.5,
       "date": "2026-09-15 21:49:23",
@@ -40515,6 +40601,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-10T18:40:04Z",
+  "generated_at": "2026-10-11T00:40:03Z",
   "window_days": 30
 }
