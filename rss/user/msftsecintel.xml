@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @MsftSecIntel</title>
+      <link>https://x.com/MsftSecIntel</link>
+      <description>IOCs shared by @MsftSecIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @MsftSecIntel</title>
+         <link>https://x.com/MsftSecIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/msftsecintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 11:15:18 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>144.172.64.128</title>
+         <link>https://x.com/MsftSecIntel/status/2111358888125878426</link>
+         <description>@MsftSecIntel | ip | 
+Value: 144.172.64.128
+Tweet: https://x.com/MsftSecIntel/status/2111358888125878426</description>
+         <guid isPermaLink="false">144.172.64.128</guid>
+         <pubDate>Sat, 17 Oct 2026 07:29:20 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://144.172.64.128</title>
+         <link>https://x.com/MsftSecIntel/status/2111358888125878426</link>
+         <description>@MsftSecIntel | url | 
+Value: http://144.172.64.128
+Tweet: https://x.com/MsftSecIntel/status/2111358888125878426</description>
+         <guid isPermaLink="false">http://144.172.64.128</guid>
+         <pubDate>Sat, 17 Oct 2026 07:29:20 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

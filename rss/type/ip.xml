@@ -12,7 +12,7 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/type/ip.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sat, 17 Oct 2026 11:00:16 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 17 Oct 2026 11:15:18 +0000</lastBuildDate>
       <ttl>15</ttl>
       <item>
          <title>43.155.215.231</title>
@@ -57,6 +57,16 @@ Tweet: https://x.com/orlof_v/status/2111396440815947970</description>
          <pubDate>Sat, 17 Oct 2026 09:58:33 +0000</pubDate>
          <category>ip</category>
          <category>#malware</category>
+      </item>
+      <item>
+         <title>144.172.64.128</title>
+         <link>https://x.com/MsftSecIntel/status/2111358888125878426</link>
+         <description>@MsftSecIntel | ip | 
+Value: 144.172.64.128
+Tweet: https://x.com/MsftSecIntel/status/2111358888125878426</description>
+         <guid isPermaLink="false">144.172.64.128</guid>
+         <pubDate>Sat, 17 Oct 2026 07:29:20 +0000</pubDate>
+         <category>ip</category>
       </item>
       <item>
          <title>43.162.93.46</title>
@@ -1063,17 +1073,6 @@ Tweet: https://x.com/patialavii/status/2110210566614888793</description>
          <pubDate>Wed, 14 Oct 2026 03:26:19 +0000</pubDate>
          <category>ip</category>
          <category>#phishing</category>
-      </item>
-      <item>
-         <title>23.94.145.93</title>
-         <link>https://x.com/intel_in_sight/status/2110117014513623093</link>
-         <description>@intel_in_sight | ip | #ClickFix
-Value: 23.94.145.93
-Tweet: https://x.com/intel_in_sight/status/2110117014513623093</description>
-         <guid isPermaLink="false">23.94.145.93</guid>
-         <pubDate>Tue, 13 Oct 2026 21:14:34 +0000</pubDate>
-         <category>ip</category>
-         <category>#ClickFix</category>
       </item>
    </channel>
 </rss>

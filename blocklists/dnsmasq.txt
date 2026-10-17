@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1480
-# Updated: 2026-10-17T08:45:16Z
+# Entries: 1481
+# Updated: 2026-10-17T11:15:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -798,6 +798,7 @@ address=/m.comex3.online/0.0.0.0
 address=/m.facebook.itlandfz.com/0.0.0.0
 address=/m13584.pro/0.0.0.0
 address=/machine628.baby/0.0.0.0
+address=/maga-zine-luiza.com/0.0.0.0
 address=/magablack.com/0.0.0.0
 address=/magaz-ine-lu-iza.com/0.0.0.0
 address=/mail-mof-gov-np.netlify.app/0.0.0.0
