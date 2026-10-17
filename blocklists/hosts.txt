@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 1475
-# Updated: 2026-10-17T06:00:17Z
+# Entries: 1479
+# Updated: 2026-10-17T08:15:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -115,6 +115,7 @@
 0.0.0.0 apiorouser.com
 0.0.0.0 app.5tr.org
 0.0.0.0 app.netshort-tv-jp.com
+0.0.0.0 app.slidy.ai
 0.0.0.0 app.spotifylite.online
 0.0.0.0 appleidmapa.com
 0.0.0.0 applelunar.website
@@ -1403,6 +1404,9 @@
 0.0.0.0 wookidoodlesalga.com
 0.0.0.0 wordmoss.com
 0.0.0.0 workcdnmass.beer
+0.0.0.0 workspacegoogle.net.ru
+0.0.0.0 workspacegoogle.org.ru
+0.0.0.0 workspacegoogle.pp.ru
 0.0.0.0 workspacegranite.com
 0.0.0.0 worldprimenew-jp.com
 0.0.0.0 wudaksldas.com

@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1475
-; Updated: 2026-10-17T06:00:17Z
+; Entries: 1479
+; Updated: 2026-10-17T08:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792216817 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792224917 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -226,6 +226,8 @@ app.5tr.org CNAME .
 *.app.5tr.org CNAME .
 app.netshort-tv-jp.com CNAME .
 *.app.netshort-tv-jp.com CNAME .
+app.slidy.ai CNAME .
+*.app.slidy.ai CNAME .
 app.spotifylite.online CNAME .
 *.app.spotifylite.online CNAME .
 appleidmapa.com CNAME .
@@ -2802,6 +2804,12 @@ wordmoss.com CNAME .
 *.wordmoss.com CNAME .
 workcdnmass.beer CNAME .
 *.workcdnmass.beer CNAME .
+workspacegoogle.net.ru CNAME .
+*.workspacegoogle.net.ru CNAME .
+workspacegoogle.org.ru CNAME .
+*.workspacegoogle.org.ru CNAME .
+workspacegoogle.pp.ru CNAME .
+*.workspacegoogle.pp.ru CNAME .
 workspacegranite.com CNAME .
 *.workspacegranite.com CNAME .
 worldprimenew-jp.com CNAME .

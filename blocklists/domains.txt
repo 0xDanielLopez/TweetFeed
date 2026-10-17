@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 1475
-# Updated: 2026-10-17T06:00:17Z
+# Entries: 1479
+# Updated: 2026-10-17T08:15:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -115,6 +115,7 @@ api.adoptium.net
 apiorouser.com
 app.5tr.org
 app.netshort-tv-jp.com
+app.slidy.ai
 app.spotifylite.online
 appleidmapa.com
 applelunar.website
@@ -1403,6 +1404,9 @@ wndws-pip3ln-sql3-waf3-purv3-gdprsx-dfn-azfn-appsvc-0ffapx.workers.dev
 wookidoodlesalga.com
 wordmoss.com
 workcdnmass.beer
+workspacegoogle.net.ru
+workspacegoogle.org.ru
+workspacegoogle.pp.ru
 workspacegranite.com
 worldprimenew-jp.com
 wudaksldas.com
