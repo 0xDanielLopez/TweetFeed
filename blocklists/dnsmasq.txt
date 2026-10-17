@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1473
-# Updated: 2026-10-17T00:30:14Z
+# Entries: 1474
+# Updated: 2026-10-17T01:45:14Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1044,6 +1044,7 @@ address=/pythoncomunity.wasmer.app/0.0.0.0
 address=/pythons.mywebcommunity.org/0.0.0.0
 address=/qaz4.com/0.0.0.0
 address=/qbitetmt.cn/0.0.0.0
+address=/qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev/0.0.0.0
 address=/qiotpqfrrypshdvcvhso.supabase.co/0.0.0.0
 address=/qjkoy.cn/0.0.0.0
 address=/qkxcs.cn/0.0.0.0
