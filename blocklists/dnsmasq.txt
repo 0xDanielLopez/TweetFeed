@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1479
-# Updated: 2026-10-17T08:15:17Z
+# Entries: 1480
+# Updated: 2026-10-17T08:45:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -841,6 +841,7 @@ address=/mirvok.vu/0.0.0.0
 address=/missvalledeladrome.info/0.0.0.0
 address=/mistraljs.beer/0.0.0.0
 address=/misty-arc-rook-sleoor.com/0.0.0.0
+address=/mizuhoca.com/0.0.0.0
 address=/mlbysalw.cn/0.0.0.0
 address=/mmasunandrajat.com/0.0.0.0
 address=/mmchart.s3.us-east-1.amazonaws.com/0.0.0.0
