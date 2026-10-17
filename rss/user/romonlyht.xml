@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @romonlyht</title>
+      <link>https://x.com/romonlyht</link>
+      <description>IOCs shared by @romonlyht and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @romonlyht</title>
+         <link>https://x.com/romonlyht</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/romonlyht.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>179.61.227.82</title>
+         <link>https://x.com/romonlyht/status/2110592071627415986</link>
+         <description>@romonlyht | ip | #phishing
+Value: 179.61.227.82
+Tweet: https://x.com/romonlyht/status/2110592071627415986</description>
+         <guid isPermaLink="false">179.61.227.82</guid>
+         <pubDate>Thu, 15 Oct 2026 04:42:17 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://dev.sbphototours.com/includes/companyLogo.php?url=hxxps%3A%2F%2Fdocumentonline.us/doc/Fixed/?uid=aaaa@ex</title>
+         <link>https://x.com/romonlyht/status/2110592071627415986</link>
+         <description>@romonlyht | url | #phishing
+Value: https://dev.sbphototours.com/includes/companyLogo.php?url=hxxps%3A%2F%2Fdocumentonline.us/doc/Fixed/?uid=aaaa@ex
+Tweet: https://x.com/romonlyht/status/2110592071627415986</description>
+         <guid isPermaLink="false">https://dev.sbphototours.com/includes/companyLogo.php?url=hxxps%3A%2F%2Fdocumentonline.us/doc/Fixed/?uid=aaaa@ex</guid>
+         <pubDate>Thu, 15 Oct 2026 04:42:17 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>dev.sbphototours.com</title>
+         <link>https://x.com/romonlyht/status/2110592071627415986</link>
+         <description>@romonlyht | domain | #phishing
+Value: dev.sbphototours.com
+Tweet: https://x.com/romonlyht/status/2110592071627415986</description>
+         <guid isPermaLink="false">dev.sbphototours.com</guid>
+         <pubDate>Thu, 15 Oct 2026 04:42:17 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

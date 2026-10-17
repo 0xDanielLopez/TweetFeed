@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TIE__SUN</title>
+      <link>https://x.com/TIE__SUN</link>
+      <description>IOCs shared by @TIE__SUN and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @TIE__SUN</title>
+         <link>https://x.com/TIE__SUN</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/tie__sun.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://arkgrup.com</title>
+         <link>https://x.com/TIE__SUN/status/2110496931231178853</link>
+         <description>@TIE__SUN | url | #ClickFix
+Value: http://arkgrup.com
+Tweet: https://x.com/TIE__SUN/status/2110496931231178853</description>
+         <guid isPermaLink="false">http://arkgrup.com</guid>
+         <pubDate>Wed, 14 Oct 2026 22:24:14 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+      </item>
+      <item>
+         <title>arkgrup.com</title>
+         <link>https://x.com/TIE__SUN/status/2110496931231178853</link>
+         <description>@TIE__SUN | domain | #ClickFix
+Value: arkgrup.com
+Tweet: https://x.com/TIE__SUN/status/2110496931231178853</description>
+         <guid isPermaLink="false">arkgrup.com</guid>
+         <pubDate>Wed, 14 Oct 2026 22:24:14 +0000</pubDate>
+         <category>domain</category>
+         <category>#ClickFix</category>
+      </item>
+   </channel>
+</rss>

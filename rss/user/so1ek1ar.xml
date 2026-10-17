@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @so1ek1ar</title>
+      <link>https://x.com/so1ek1ar</link>
+      <description>IOCs shared by @so1ek1ar and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @so1ek1ar</title>
+         <link>https://x.com/so1ek1ar</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/so1ek1ar.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://gambah.com</title>
+         <link>https://x.com/so1ek1ar/status/2110658336354124017</link>
+         <description>@so1ek1ar | url | #cryptoscam #phishing
+Value: http://gambah.com
+Tweet: https://x.com/so1ek1ar/status/2110658336354124017</description>
+         <guid isPermaLink="false">http://gambah.com</guid>
+         <pubDate>Thu, 15 Oct 2026 09:05:36 +0000</pubDate>
+         <category>url</category>
+         <category>#cryptoscam</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>gambah.com</title>
+         <link>https://x.com/so1ek1ar/status/2110658336354124017</link>
+         <description>@so1ek1ar | domain | #cryptoscam #phishing
+Value: gambah.com
+Tweet: https://x.com/so1ek1ar/status/2110658336354124017</description>
+         <guid isPermaLink="false">gambah.com</guid>
+         <pubDate>Thu, 15 Oct 2026 09:05:36 +0000</pubDate>
+         <category>domain</category>
+         <category>#cryptoscam</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

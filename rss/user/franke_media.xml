@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @franke_media</title>
+      <link>https://x.com/franke_media</link>
+      <description>IOCs shared by @franke_media and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @franke_media</title>
+         <link>https://x.com/franke_media</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/franke_media.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://mgfdeutschland.com</title>
+         <link>https://x.com/franke_media/status/2110315930588942648</link>
+         <description>@franke_media | url | #scam
+Value: http://mgfdeutschland.com
+Tweet: https://x.com/franke_media/status/2110315930588942648</description>
+         <guid isPermaLink="false">http://mgfdeutschland.com</guid>
+         <pubDate>Wed, 14 Oct 2026 10:25:00 +0000</pubDate>
+         <category>url</category>
+         <category>#scam</category>
+      </item>
+      <item>
+         <title>mgfdeutschland.com</title>
+         <link>https://x.com/franke_media/status/2110315930588942648</link>
+         <description>@franke_media | domain | #scam
+Value: mgfdeutschland.com
+Tweet: https://x.com/franke_media/status/2110315930588942648</description>
+         <guid isPermaLink="false">mgfdeutschland.com</guid>
+         <pubDate>Wed, 14 Oct 2026 10:25:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#scam</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #salatstealer IOC feed</title>
+      <link>https://tweetfeed.live/tag/salatstealer/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #salatstealer on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #salatstealer IOC feed</title>
+         <link>https://tweetfeed.live/tag/salatstealer/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/salatstealer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2</title>
+         <link>https://x.com/smica83/status/2109951516878549366</link>
+         <description>@smica83 | sha256 | #SalatStealer
+Value: f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2
+Tweet: https://x.com/smica83/status/2109951516878549366</description>
+         <guid isPermaLink="false">f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2</guid>
+         <pubDate>Tue, 13 Oct 2026 10:16:57 +0000</pubDate>
+         <category>sha256</category>
+         <category>#SalatStealer</category>
+      </item>
+      <item>
+         <title>176.12.71.122</title>
+         <link>https://x.com/smica83/status/2109951516878549366</link>
+         <description>@smica83 | ip | #SalatStealer
+Value: 176.12.71.122
+Tweet: https://x.com/smica83/status/2109951516878549366</description>
+         <guid isPermaLink="false">176.12.71.122</guid>
+         <pubDate>Tue, 13 Oct 2026 10:16:57 +0000</pubDate>
+         <category>ip</category>
+         <category>#SalatStealer</category>
+      </item>
+      <item>
+         <title>http://176.12.71.122</title>
+         <link>https://x.com/smica83/status/2109951516878549366</link>
+         <description>@smica83 | url | #SalatStealer
+Value: http://176.12.71.122
+Tweet: https://x.com/smica83/status/2109951516878549366</description>
+         <guid isPermaLink="false">http://176.12.71.122</guid>
+         <pubDate>Tue, 13 Oct 2026 10:16:57 +0000</pubDate>
+         <category>url</category>
+         <category>#SalatStealer</category>
+      </item>
+   </channel>
+</rss>

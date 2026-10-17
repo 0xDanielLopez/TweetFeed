@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #opendir IOC feed</title>
+      <link>https://tweetfeed.live/tag/opendir/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #opendir on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #opendir IOC feed</title>
+         <link>https://tweetfeed.live/tag/opendir/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/opendir.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>185.148.144.99</title>
+         <link>https://x.com/Huntbackio/status/2110025921306775769</link>
+         <description>@Huntbackio | ip | #opendir
+Value: 185.148.144.99
+Tweet: https://x.com/Huntbackio/status/2110025921306775769</description>
+         <guid isPermaLink="false">185.148.144.99</guid>
+         <pubDate>Tue, 13 Oct 2026 15:12:36 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>185.148.144.99</title>
+         <link>https://x.com/0xb1lal/status/2109705171466912180</link>
+         <description>@0xb1lal | ip | #opendir
+Value: 185.148.144.99
+Tweet: https://x.com/0xb1lal/status/2109705171466912180</description>
+         <guid isPermaLink="false">185.148.144.99</guid>
+         <pubDate>Mon, 12 Oct 2026 17:58:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

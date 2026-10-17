@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @petrovic082</title>
+      <link>https://x.com/petrovic082</link>
+      <description>IOCs shared by @petrovic082 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @petrovic082</title>
+         <link>https://x.com/petrovic082</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/petrovic082.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>91.215.85.103</title>
+         <link>https://x.com/petrovic082/status/2109582421662552303</link>
+         <description>@petrovic082 | ip | #malware #ransomware
+Value: 91.215.85.103
+Tweet: https://x.com/petrovic082/status/2109582421662552303</description>
+         <guid isPermaLink="false">91.215.85.103</guid>
+         <pubDate>Mon, 12 Oct 2026 09:50:18 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>https://91.215.85.103/pay_or_leak/KHY3HIA7T7MFFEYQMZ7O5FNG</title>
+         <link>https://x.com/petrovic082/status/2109582421662552303</link>
+         <description>@petrovic082 | url | #malware #ransomware
+Value: https://91.215.85.103/pay_or_leak/KHY3HIA7T7MFFEYQMZ7O5FNG
+Tweet: https://x.com/petrovic082/status/2109582421662552303</description>
+         <guid isPermaLink="false">https://91.215.85.103/pay_or_leak/KHY3HIA7T7MFFEYQMZ7O5FNG</guid>
+         <pubDate>Mon, 12 Oct 2026 09:50:18 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

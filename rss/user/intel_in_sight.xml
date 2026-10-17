@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @intel_in_sight</title>
+      <link>https://x.com/intel_in_sight</link>
+      <description>IOCs shared by @intel_in_sight and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @intel_in_sight</title>
+         <link>https://x.com/intel_in_sight</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/intel_in_sight.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>23.94.145.93</title>
+         <link>https://x.com/intel_in_sight/status/2110117014513623093</link>
+         <description>@intel_in_sight | ip | #ClickFix
+Value: 23.94.145.93
+Tweet: https://x.com/intel_in_sight/status/2110117014513623093</description>
+         <guid isPermaLink="false">23.94.145.93</guid>
+         <pubDate>Tue, 13 Oct 2026 21:14:34 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+      </item>
+      <item>
+         <title>http://23.94.145.93</title>
+         <link>https://x.com/intel_in_sight/status/2110117014513623093</link>
+         <description>@intel_in_sight | url | #ClickFix
+Value: http://23.94.145.93
+Tweet: https://x.com/intel_in_sight/status/2110117014513623093</description>
+         <guid isPermaLink="false">http://23.94.145.93</guid>
+         <pubDate>Tue, 13 Oct 2026 21:14:34 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+      </item>
+   </channel>
+</rss>

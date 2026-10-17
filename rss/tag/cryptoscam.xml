@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #cryptoscam IOC feed</title>
+      <link>https://tweetfeed.live/tag/cryptoscam/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #cryptoscam on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #cryptoscam IOC feed</title>
+         <link>https://tweetfeed.live/tag/cryptoscam/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/cryptoscam.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://gambah.com</title>
+         <link>https://x.com/so1ek1ar/status/2110658336354124017</link>
+         <description>@so1ek1ar | url | #cryptoscam #phishing
+Value: http://gambah.com
+Tweet: https://x.com/so1ek1ar/status/2110658336354124017</description>
+         <guid isPermaLink="false">http://gambah.com</guid>
+         <pubDate>Thu, 15 Oct 2026 09:05:36 +0000</pubDate>
+         <category>url</category>
+         <category>#cryptoscam</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>gambah.com</title>
+         <link>https://x.com/so1ek1ar/status/2110658336354124017</link>
+         <description>@so1ek1ar | domain | #cryptoscam #phishing
+Value: gambah.com
+Tweet: https://x.com/so1ek1ar/status/2110658336354124017</description>
+         <guid isPermaLink="false">gambah.com</guid>
+         <pubDate>Thu, 15 Oct 2026 09:05:36 +0000</pubDate>
+         <category>domain</category>
+         <category>#cryptoscam</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>http://Nildex.com</title>
+         <link>https://x.com/Wilmichels/status/2110046818688192537</link>
+         <description>@Wilmichels | url | #cryptoscam #scam
+Value: http://Nildex.com
+Tweet: https://x.com/Wilmichels/status/2110046818688192537</description>
+         <guid isPermaLink="false">http://Nildex.com</guid>
+         <pubDate>Tue, 13 Oct 2026 16:35:39 +0000</pubDate>
+         <category>url</category>
+         <category>#cryptoscam</category>
+         <category>#scam</category>
+      </item>
+      <item>
+         <title>nildex.com</title>
+         <link>https://x.com/Wilmichels/status/2110046818688192537</link>
+         <description>@Wilmichels | domain | #cryptoscam #scam
+Value: nildex.com
+Tweet: https://x.com/Wilmichels/status/2110046818688192537</description>
+         <guid isPermaLink="false">nildex.com</guid>
+         <pubDate>Tue, 13 Oct 2026 16:35:39 +0000</pubDate>
+         <category>domain</category>
+         <category>#cryptoscam</category>
+         <category>#scam</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @3xp0rtblog</title>
+      <link>https://x.com/3xp0rtblog</link>
+      <description>IOCs shared by @3xp0rtblog and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @3xp0rtblog</title>
+         <link>https://x.com/3xp0rtblog</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/3xp0rtblog.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>e1b67c126982238429dfa7ac475ec5f859c5cd25a2c64d46463f4926f0b403c6</title>
+         <link>https://x.com/3xp0rtblog/status/1302584919592501248</link>
+         <description>@3xp0rtblog | sha256 | #malware #stealer
+Value: e1b67c126982238429dfa7ac475ec5f859c5cd25a2c64d46463f4926f0b403c6
+Tweet: https://x.com/3xp0rtblog/status/1302584919592501248</description>
+         <guid isPermaLink="false">e1b67c126982238429dfa7ac475ec5f859c5cd25a2c64d46463f4926f0b403c6</guid>
+         <pubDate>Wed, 14 Oct 2026 13:14:19 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>

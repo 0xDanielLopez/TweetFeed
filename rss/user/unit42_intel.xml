@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Unit42_Intel</title>
+      <link>https://x.com/Unit42_Intel</link>
+      <description>IOCs shared by @Unit42_Intel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Unit42_Intel</title>
+         <link>https://x.com/Unit42_Intel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/unit42_intel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://agent.x90.dev/data/copilot.txt</title>
+         <link>https://x.com/Unit42_Intel/status/2109744924530737622</link>
+         <description>@Unit42_Intel | url | 
+Value: http://agent.x90.dev/data/copilot.txt
+Tweet: https://x.com/Unit42_Intel/status/2109744924530737622</description>
+         <guid isPermaLink="false">http://agent.x90.dev/data/copilot.txt</guid>
+         <pubDate>Mon, 12 Oct 2026 20:36:01 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>agent.x90.dev</title>
+         <link>https://x.com/Unit42_Intel/status/2109744924530737622</link>
+         <description>@Unit42_Intel | domain | 
+Value: agent.x90.dev
+Tweet: https://x.com/Unit42_Intel/status/2109744924530737622</description>
+         <guid isPermaLink="false">agent.x90.dev</guid>
+         <pubDate>Mon, 12 Oct 2026 20:36:01 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

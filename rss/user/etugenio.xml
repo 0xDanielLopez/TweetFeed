@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @etugenio</title>
+      <link>https://x.com/etugenio</link>
+      <description>IOCs shared by @etugenio and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @etugenio</title>
+         <link>https://x.com/etugenio</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/etugenio.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 17 Oct 2026 00:00:24 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>23.148.212.237</title>
+         <link>https://x.com/etugenio/status/2110416010331222141</link>
+         <description>@etugenio | ip | 
+Value: 23.148.212.237
+Tweet: https://x.com/etugenio/status/2110416010331222141</description>
+         <guid isPermaLink="false">23.148.212.237</guid>
+         <pubDate>Wed, 14 Oct 2026 17:02:41 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>47.102.192.23</title>
+         <link>https://x.com/etugenio/status/2110416010331222141</link>
+         <description>@etugenio | ip | 
+Value: 47.102.192.23
+Tweet: https://x.com/etugenio/status/2110416010331222141</description>
+         <guid isPermaLink="false">47.102.192.23</guid>
+         <pubDate>Wed, 14 Oct 2026 17:02:41 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://23.148.212.237</title>
+         <link>https://x.com/etugenio/status/2110416010331222141</link>
+         <description>@etugenio | url | 
+Value: http://23.148.212.237
+Tweet: https://x.com/etugenio/status/2110416010331222141</description>
+         <guid isPermaLink="false">http://23.148.212.237</guid>
+         <pubDate>Wed, 14 Oct 2026 17:02:41 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>http://47.102.192.23</title>
+         <link>https://x.com/etugenio/status/2110416010331222141</link>
+         <description>@etugenio | url | 
+Value: http://47.102.192.23
+Tweet: https://x.com/etugenio/status/2110416010331222141</description>
+         <guid isPermaLink="false">http://47.102.192.23</guid>
+         <pubDate>Wed, 14 Oct 2026 17:02:41 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>2.27.249.100</title>
+         <link>https://x.com/etugenio/status/2109760760838795325</link>
+         <description>@etugenio | ip | #C2 #malware
+Value: 2.27.249.100
+Tweet: https://x.com/etugenio/status/2109760760838795325</description>
+         <guid isPermaLink="false">2.27.249.100</guid>
+         <pubDate>Mon, 12 Oct 2026 21:38:57 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://2.27.249.100</title>
+         <link>https://x.com/etugenio/status/2109760760838795325</link>
+         <description>@etugenio | url | #C2 #malware
+Value: http://2.27.249.100
+Tweet: https://x.com/etugenio/status/2109760760838795325</description>
+         <guid isPermaLink="false">http://2.27.249.100</guid>
+         <pubDate>Mon, 12 Oct 2026 21:38:57 +0000</pubDate>
+         <category>url</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>
