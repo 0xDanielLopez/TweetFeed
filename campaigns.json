@@ -1,5 +1,5 @@
 {
-  "campaign_count": 54,
+  "campaign_count": 55,
   "campaigns": [
     {
       "activity": {
@@ -465,426 +465,419 @@
     },
     {
       "activity": {
-        "2026-09-19": 8,
-        "2026-09-20": 6,
-        "2026-09-24": 8,
-        "2026-09-26": 2,
+        "2026-09-17": 2,
+        "2026-09-19": 2,
+        "2026-09-22": 5,
+        "2026-09-25": 2,
         "2026-09-28": 6,
-        "2026-09-30": 10,
-        "2026-10-01": 6
+        "2026-09-29": 2,
+        "2026-09-30": 2,
+        "2026-10-01": 8,
+        "2026-10-02": 5,
+        "2026-10-06": 3,
+        "2026-10-10": 2,
+        "2026-10-14": 1,
+        "2026-10-15": 4,
+        "2026-10-16": 3
       },
       "anchors": {
         "registered_domains": [
-          "cgongseq.com",
-          "hasoadwaznqps.com",
-          "jwscaiwu.com",
-          "lysxcyy.com",
-          "oiuwaksdiw.com",
-          "poiwaksuwa.com",
-          "poiwaldsas.com",
-          "polisdaaqopx.com",
-          "puwaiosd.com",
-          "suwakdsdowa.com",
-          "uwaiskdas.com",
-          "wauskjdas.com",
-          "wudaksldas.com"
+          "cornebrdjubf.top",
+          "keepgreentb.com",
+          "leiber.top",
+          "onixone.com.co",
+          "screenconnect.com",
+          "swervimgbackj.top"
         ],
         "tags": [],
         "url_path_patterns": [
-          "/cash/downloadopwad",
-          "/download/point",
-          "/nenkin/download",
-          "/point/download",
-          "/transtioncash"
+          "/Bin/ScreenConnect.ClientSetup.exe",
+          "/Bin/ScreenConnect.ClientSetup.msi",
+          "/UPDATE/ScreenConnect.ClientSetup.exe",
+          "/UPDATE/download.html",
+          "/doc/ScreenConnect.ClientSetup.exe"
         ]
       },
       "confidence": "medium",
-      "context": "Android malware is spread via scrambled-letter .com domains such as oiuwaksdiw.com, poiwaldsas.com and suwakdsdowa.com. Shared kit paths /point/download and /cash/downloadopwad impersonate Rakuten points and a cash benefit, while /nenkin/download and /ana impersonate Japan Pension Service and ANA airline. Reporter masaomi346 flagged these IOCs from 2026-09-19 to 2026-10-01.",
-      "enriched_count": 46,
-      "families": {},
-      "first_seen": "2026-09-19",
+      "context": "Adobe-themed phishing pages lead victims to ScreenConnect client installers, many on screenconnect.com tenant subdomains such as hl-ltd and manuelitellc, plus .top domains such as leiber.top and swervimgbackj.top, and the domains keepgreentb.com and onixone.com.co. Shared paths are /Bin/ScreenConnect.ClientSetup.exe and .msi. Reporters patialavii and smica83 flagged 47 IOCs from 2026-09-17 to 2026-10-16.",
+      "enriched_count": 47,
+      "families": {
+        "ScreenConnect": 7
+      },
+      "first_seen": "2026-09-17",
       "history": {
         "by_pattern": [],
-        "domains_365d": 13,
-        "first_seen_365d": "2026-09-19",
-        "iocs_365d": 46,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-10-01",
+        "domains_365d": 6,
+        "first_seen_365d": "2026-04-18",
+        "iocs_365d": 116,
+        "iocs_before_window": 72,
+        "last_seen_365d": "2026-10-16",
         "window_days": 365
       },
-      "id": "tfc-de6cf2368a2b",
-      "ioc_count": 46,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 46,
-      "ioc_count_7d": 0,
+      "id": "tfc-fe15df7d4526",
+      "ioc_count": 47,
+      "ioc_count_1d": 1,
+      "ioc_count_30d": 45,
+      "ioc_count_7d": 10,
       "iocs": [
         {
           "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 12:20:25",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "wudaksldas.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 12:20:25",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "wauskjdas.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 12:20:25",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://wudaksldas.com/point/download/"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 12:20:25",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://wauskjdas.com/point/download/"
-        },
-        {
-          "ai": {
+            "family": "ScreenConnect",
             "threat_type": "malware"
           },
-          "date": "2026-09-30 12:52:28",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "poiwaksuwa.com"
+          "date": "2026-10-16 22:09:34",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2111218017547817401",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://107.174.19.11:443/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
         },
         {
           "ai": {
-            "threat_type": "malware"
+            "family": "ScreenConnect",
+            "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-16 05:14:57",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "tweet": "https://x.com/patialavii/status/2110962680358175038",
           "type": "domain",
-          "user": "masaomi346",
-          "value": "oiuwaksdiw.com"
+          "user": "patialavii",
+          "value": "theocbuildinggroup.screenconnect.com"
+        },
+        {
+          "ai": {
+            "family": "ScreenConnect",
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 05:14:57",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2110962680358175038",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://theocbuildinggroup.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-15 03:51:06",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "tweet": "https://x.com/patialavii/status/2110579189250433531",
           "type": "domain",
-          "user": "masaomi346",
-          "value": "lysxcyy.com"
+          "user": "patialavii",
+          "value": "manuelitellc.screenconnect.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-15 03:51:06",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "jwscaiwu.com"
+          "tweet": "https://x.com/patialavii/status/2110579189250433531",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-15 03:34:31",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://poiwaksuwa.com/point/download/"
+          "tweet": "https://x.com/patialavii/status/2110575016995897595",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "secure.cornebrdjubf.top"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-14 03:26:19",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "tweet": "https://x.com/patialavii/status/2110210566614888793",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://oiuwaksdiw.com/point/download/"
+          "user": "patialavii",
+          "value": "http://2.27.21.82/Bin/ScreenConnect.ClientSetup.msi"
+        },
+        {
+          "ai": {
+            "family": "ScreenConnect",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-10 11:51:06",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2108888048242958751",
+          "type": "domain",
+          "user": "smica83",
+          "value": "swervimgbackj.top"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-06 04:45:05",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://jwscaiwu.com/point/download/"
+          "tweet": "https://x.com/patialavii/status/2107331284834074952",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "manuelitellc.screenconnect.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-30 12:52:28",
+          "date": "2026-10-06 04:45:05",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "tweet": "https://x.com/patialavii/status/2107331284834074952",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://cgongseq.com/point/download/"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-28 23:20:24",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "poiwaldsas.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-28 23:20:24",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://poiwaldsas.com/transtioncash/"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-28 23:20:24",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
-          "type": "url",
-          "user": "masaomi346",
-          "value": "https://hasoadwaznqps.com/transtioncash/"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-28 23:20:24",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "hasoadwaznqps.com"
+          "user": "patialavii",
+          "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-26 07:48:37",
+          "date": "2026-10-02 04:08:56",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2103753595737014458",
+          "tweet": "https://x.com/patialavii/status/2105872637608255523",
           "type": "domain",
-          "user": "masaomi346",
-          "value": "uwaiskdas.com"
+          "user": "patialavii",
+          "value": "onixone.com.co"
         },
         {
           "ai": {
-            "threat_type": "malware"
+            "threat_type": "phishing"
           },
-          "date": "2026-09-24 06:49:50",
+          "date": "2026-10-02 04:06:15",
           "tags": [
-            "#malware",
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2103014027630895339",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "puwaiosd.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-24 06:49:50",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2103014027630895339",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "poiwaldsas.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-24 06:49:50",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2103014027630895339",
+          "tweet": "https://x.com/patialavii/status/2105871963109703880",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://puwaiosd.com/nenkin/download"
+          "user": "patialavii",
+          "value": "https://hl-ltd.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
         },
         {
           "ai": {
-            "threat_type": "malware"
+            "threat_type": "phishing"
           },
-          "date": "2026-09-24 06:38:03",
+          "date": "2026-10-02 04:06:15",
           "tags": [
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2103011060597031287",
+          "tweet": "https://x.com/patialavii/status/2105871963109703880",
           "type": "domain",
-          "user": "masaomi346",
-          "value": "oiuwaksdiw.com"
+          "user": "patialavii",
+          "value": "hl-ltd.screenconnect.com"
         },
         {
           "ai": {
-            "threat_type": "malware"
+            "threat_type": "phishing"
           },
-          "date": "2026-09-20 00:47:30",
+          "date": "2026-10-01 03:25:11",
           "tags": [
-            "#malware",
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2101473291596882409",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "suwakdsdowa.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-20 00:47:30",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2101473291596882409",
-          "type": "domain",
-          "user": "masaomi346",
-          "value": "polisdaaqopx.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-20 00:47:30",
-          "tags": [
-            "#malware",
-            "#phishing"
-          ],
-          "tweet": "https://x.com/masaomi346/status/2101473291596882409",
+          "tweet": "https://x.com/patialavii/status/2105499238566355071",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://suwakdsdowa.com/nenkin/download/"
+          "user": "patialavii",
+          "value": "https://gpcom1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi"
         },
         {
           "ai": {
-            "threat_type": "malware"
+            "threat_type": "phishing"
           },
-          "date": "2026-09-20 00:47:30",
+          "date": "2026-10-01 03:25:11",
           "tags": [
-            "#malware",
             "#phishing"
           ],
-          "tweet": "https://x.com/masaomi346/status/2101473291596882409",
+          "tweet": "https://x.com/patialavii/status/2105499238566355071",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "gpcom1.screenconnect.com"
+        },
+        {
+          "ai": {
+            "family": "ScreenConnect",
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-01 03:18:08",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105497466040926462",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "strafordhomes.screenconnect.com"
+        },
+        {
+          "ai": {
+            "family": "ScreenConnect",
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-01 03:18:08",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105497466040926462",
           "type": "url",
-          "user": "masaomi346",
-          "value": "https://polisdaaqopx.com/nenkin/download/"
+          "user": "patialavii",
+          "value": "https://strafordhomes.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-01 03:12:36",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105496072785453421",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "logiccorporation.screenconnect.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-01 03:12:36",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105496072785453421",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://logiccorporation.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-01 03:06:03",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105494422804996111",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "valeriediedrich13.screenconnect.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-01 03:06:03",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105494422804996111",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://valeriediedrich13.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-30 03:57:00",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2105144857832607863",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "naomiwellness.screenconnect.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-28 04:19:47",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2104425815954108574",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "leiber.top"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-22 04:02:35",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2102247161299914762",
+          "type": "domain",
+          "user": "patialavii",
+          "value": "keepgreentb.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-22 04:02:35",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/patialavii/status/2102247161299914762",
+          "type": "url",
+          "user": "patialavii",
+          "value": "https://keepgreentb.com/doc/ScreenConnect.ClientSetup.exe"
         }
       ],
-      "last_seen": "2026-10-01",
+      "last_seen": "2026-10-16",
       "member_cluster_ids": [
-        "tfc-de6cf2368a2b",
-        "tfc-582d167dc194",
-        "tfc-16388f698976",
-        "tfc-9102d9ad80b9"
+        "tfc-fe15df7d4526",
+        "tfc-32ea56449ca2",
+        "tfc-ae63984a2bec"
       ],
-      "name": "Japan Android malware on random-string .com domains",
+      "name": "Adobe-themed phishing delivering ScreenConnect RMM installer",
       "reporters": [
-        "masaomi346"
+        "patialavii",
+        "smica83"
       ],
       "tags": [
-        "#malware",
         "#phishing"
       ],
-      "targeted_brand": "Rakuten",
-      "targeted_country": "JP",
-      "targeted_sector": "retail",
+      "targeted_brand": "Adobe",
+      "targeted_country": null,
+      "targeted_sector": "technology",
       "threat_types": {
-        "malware": 27,
-        "phishing": 19
+        "malware": 3,
+        "phishing": 44
       },
       "ttps": [
-        "T1566.002",
-        "T1583.001",
-        "T1036.005"
+        "T1036.005",
+        "T1608.001",
+        "T1588.002",
+        "T1566.002"
       ],
       "types": {
         "domain": 21,
-        "url": 25
+        "url": 26
       }
     },
     {
@@ -1297,460 +1290,52 @@
     },
     {
       "activity": {
-        "2026-09-17": 2,
-        "2026-09-19": 2,
-        "2026-09-22": 5,
-        "2026-09-25": 2,
+        "2026-09-19": 4,
+        "2026-09-20": 2,
+        "2026-09-24": 8,
+        "2026-09-26": 2,
         "2026-09-28": 6,
-        "2026-09-29": 2,
-        "2026-09-30": 2,
-        "2026-10-01": 8,
-        "2026-10-02": 5,
-        "2026-10-06": 3,
-        "2026-10-10": 2,
-        "2026-10-14": 1,
-        "2026-10-15": 4,
-        "2026-10-16": 2
+        "2026-09-30": 10,
+        "2026-10-01": 6
       },
       "anchors": {
         "registered_domains": [
-          "cornebrdjubf.top",
-          "keepgreentb.com",
-          "leiber.top",
-          "onixone.com.co",
-          "screenconnect.com",
-          "swervimgbackj.top"
+          "cgongseq.com",
+          "hasoadwaznqps.com",
+          "jwscaiwu.com",
+          "lysxcyy.com",
+          "oiuwaksdiw.com",
+          "poiwaksuwa.com",
+          "poiwaldsas.com",
+          "puwaiosd.com",
+          "uwaiskdas.com",
+          "wauskjdas.com",
+          "wudaksldas.com"
         ],
         "tags": [],
         "url_path_patterns": [
-          "/Bin/ScreenConnect.ClientSetup.exe",
-          "/Bin/ScreenConnect.ClientSetup.msi",
-          "/UPDATE/ScreenConnect.ClientSetup.exe",
-          "/UPDATE/download.html",
-          "/doc/ScreenConnect.ClientSetup.exe"
+          "/cash/downloadopwad",
+          "/download/point",
+          "/nenkin/download",
+          "/point/download",
+          "/transtioncash"
         ]
       },
       "confidence": "medium",
-      "context": "Adobe-themed phishing pages lead victims to ScreenConnect client installers, many on screenconnect.com tenant subdomains such as hl-ltd and manuelitellc, plus the .top domains leiber.top and swervimgbackj.top. Shared paths are /Bin/ScreenConnect.ClientSetup.exe and .msi. Reporters patialavii and smica83 flagged 40 IOCs from 2026-09-17 to 2026-10-16.",
-      "enriched_count": 44,
-      "families": {
-        "ScreenConnect": 4
-      },
-      "first_seen": "2026-09-17",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 6,
-        "first_seen_365d": "2026-04-18",
-        "iocs_365d": 116,
-        "iocs_before_window": 72,
-        "last_seen_365d": "2026-10-16",
-        "window_days": 365
-      },
-      "id": "tfc-fe15df7d4526",
-      "ioc_count": 46,
-      "ioc_count_1d": 2,
-      "ioc_count_30d": 46,
-      "ioc_count_7d": 9,
-      "iocs": [
-        {
-          "date": "2026-10-16 05:14:57",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2110962680358175038",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "theocbuildinggroup.screenconnect.com"
-        },
-        {
-          "date": "2026-10-16 05:14:57",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2110962680358175038",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://theocbuildinggroup.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 03:51:06",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2110579189250433531",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "manuelitellc.screenconnect.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 03:51:06",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2110579189250433531",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 03:34:31",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2110575016995897595",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "secure.cornebrdjubf.top"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-14 03:26:19",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2110210566614888793",
-          "type": "url",
-          "user": "patialavii",
-          "value": "http://2.27.21.82/Bin/ScreenConnect.ClientSetup.msi"
-        },
-        {
-          "ai": {
-            "family": "ScreenConnect",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-10 11:51:06",
-          "tags": [],
-          "tweet": "https://x.com/smica83/status/2108888048242958751",
-          "type": "domain",
-          "user": "smica83",
-          "value": "swervimgbackj.top"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-06 04:45:05",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2107331284834074952",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "manuelitellc.screenconnect.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-06 04:45:05",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2107331284834074952",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-02 04:08:56",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105872637608255523",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "onixone.com.co"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-02 04:06:15",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105871963109703880",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://hl-ltd.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-02 04:06:15",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105871963109703880",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "hl-ltd.screenconnect.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:25:11",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105499238566355071",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://gpcom1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:25:11",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105499238566355071",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "gpcom1.screenconnect.com"
-        },
-        {
-          "ai": {
-            "family": "ScreenConnect",
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:18:08",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105497466040926462",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "strafordhomes.screenconnect.com"
-        },
-        {
-          "ai": {
-            "family": "ScreenConnect",
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:18:08",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105497466040926462",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://strafordhomes.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:12:36",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105496072785453421",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "logiccorporation.screenconnect.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:12:36",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105496072785453421",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://logiccorporation.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:06:03",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105494422804996111",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "valeriediedrich13.screenconnect.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-01 03:06:03",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105494422804996111",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://valeriediedrich13.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-30 03:57:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105144857832607863",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "naomiwellness.screenconnect.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-30 03:57:00",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2105144857832607863",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://naomiwellness.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-28 04:19:47",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2104425815954108574",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "leiber.top"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-22 04:02:35",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2102247161299914762",
-          "type": "domain",
-          "user": "patialavii",
-          "value": "keepgreentb.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-22 04:02:35",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/patialavii/status/2102247161299914762",
-          "type": "url",
-          "user": "patialavii",
-          "value": "https://keepgreentb.com/doc/ScreenConnect.ClientSetup.exe"
-        }
-      ],
-      "last_seen": "2026-10-16",
-      "member_cluster_ids": [
-        "tfc-fe15df7d4526",
-        "tfc-32ea56449ca2",
-        "tfc-ae63984a2bec"
-      ],
-      "name": "Adobe-themed phishing delivering ScreenConnect RMM installer",
-      "reporters": [
-        "patialavii",
-        "smica83"
-      ],
-      "tags": [
-        "#phishing"
-      ],
-      "targeted_brand": "Adobe",
-      "targeted_country": null,
-      "targeted_sector": "technology",
-      "threat_types": {
-        "malware": 2,
-        "phishing": 42
-      },
-      "ttps": [
-        "T1036.005",
-        "T1608.001",
-        "T1588.002",
-        "T1566.002"
-      ],
-      "types": {
-        "domain": 21,
-        "url": 25
-      }
-    },
-    {
-      "activity": {
-        "2026-09-16": 34,
-        "2026-09-17": 2,
-        "2026-09-28": 2
-      },
-      "anchors": {
-        "registered_domains": [
-          "report-athena.com",
-          "report-binance.com",
-          "report-block.com",
-          "report-chase.com",
-          "report-doordash.com",
-          "report-elo.com",
-          "report-gilead.com",
-          "report-hyatt.com",
-          "report-icloud.com",
-          "report-kraken.com",
-          "report-marriott.com",
-          "report-mckesson.com",
-          "report-obsidian.com",
-          "report-orbit.com",
-          "report-roblox.com",
-          "report-uhs.com",
-          "report-unum.com",
-          "report-westernunion.com",
-          "report-whatsapp.com"
-        ],
-        "tags": [],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "Attackers registered many domains following a report-[brand].com pattern, impersonating companies including Chase, Binance, Kraken, Marriott, Roblox and Gilead. Enrichment ties the pattern to ShinyHunters-style vishing that harvests Okta sessions. Three reporters flagged 38 IOCs from 2026-09-16 to 2026-09-28.",
+      "context": "Android malware is spread via scrambled-letter .com domains such as oiuwaksdiw.com and poiwaldsas.com. Shared kit paths /point/download and /cash/downloadopwad impersonate Rakuten points and a cash benefit, while /nenkin/download and /ana impersonate Japan Pension Service and ANA airline, the latter served from puwaiosd.com. Reporter masaomi346 flagged these IOCs from 2026-09-19 to 2026-10-01.",
       "enriched_count": 38,
       "families": {},
-      "first_seen": "2026-09-16",
+      "first_seen": "2026-09-19",
       "history": {
         "by_pattern": [],
-        "domains_365d": 19,
-        "first_seen_365d": "2026-09-16",
+        "domains_365d": 11,
+        "first_seen_365d": "2026-09-19",
         "iocs_365d": 38,
         "iocs_before_window": 0,
-        "last_seen_365d": "2026-09-28",
+        "last_seen_365d": "2026-10-01",
         "window_days": 365
       },
-      "id": "tfc-a6004909a5a9",
+      "id": "tfc-de6cf2368a2b",
       "ioc_count": 38,
       "ioc_count_1d": 0,
       "ioc_count_30d": 38,
@@ -1760,303 +1345,864 @@
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-28 12:11:49",
-          "tags": [],
-          "tweet": "https://x.com/TheM3gatr0n/status/2104544608378364313",
+          "date": "2026-10-01 12:20:25",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
           "type": "domain",
-          "user": "TheM3gatr0n",
-          "value": "report-uhs.com"
-        },
-        {
-          "ai": {
-            "threat_type": "other"
-          },
-          "date": "2026-09-17 22:44:56",
-          "tags": [],
-          "tweet": "https://x.com/skocherhan/status/2100717668487602283",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "report-gilead.com"
+          "user": "masaomi346",
+          "value": "wudaksldas.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
+          "date": "2026-10-01 12:20:25",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
           "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-whatsapp.com"
+          "user": "masaomi346",
+          "value": "wauskjdas.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-westernunion.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-unum.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-roblox.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-orbit.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-obsidian.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-mckesson.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-marriott.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-kraken.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-icloud.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-hyatt.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-elo.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-doordash.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-chase.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-block.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-binance.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "domain",
-          "user": "AaronCTI",
-          "value": "report-athena.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
+          "date": "2026-10-01 12:20:25",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
           "type": "url",
-          "user": "AaronCTI",
-          "value": "http://report-elo.com"
+          "user": "masaomi346",
+          "value": "https://wudaksldas.com/point/download/"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
+          "date": "2026-10-01 12:20:25",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105633933203578986",
           "type": "url",
-          "user": "AaronCTI",
-          "value": "http://report-doordash.com"
+          "user": "masaomi346",
+          "value": "https://wauskjdas.com/point/download/"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "poiwaksuwa.com"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "oiuwaksdiw.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "url",
-          "user": "AaronCTI",
-          "value": "http://report-chase.com"
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "lysxcyy.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
-          "type": "url",
-          "user": "AaronCTI",
-          "value": "http://report-block.com"
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "jwscaiwu.com"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
           "type": "url",
-          "user": "AaronCTI",
-          "value": "http://report-binance.com"
+          "user": "masaomi346",
+          "value": "https://poiwaksuwa.com/point/download/"
         },
         {
           "ai": {
             "threat_type": "phishing"
           },
-          "date": "2026-09-16 08:43:19",
-          "tags": [],
-          "tweet": "https://x.com/AaronCTI/status/2100143481482022925",
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
           "type": "url",
-          "user": "AaronCTI",
-          "value": "http://report-athena.com"
+          "user": "masaomi346",
+          "value": "https://oiuwaksdiw.com/point/download/"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://jwscaiwu.com/point/download/"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-30 12:52:28",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2105279613614330291",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://cgongseq.com/point/download/"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-28 23:20:24",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "poiwaldsas.com"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-28 23:20:24",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://poiwaldsas.com/transtioncash/"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-28 23:20:24",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://hasoadwaznqps.com/transtioncash/"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-28 23:20:24",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2104712860890976420",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "hasoadwaznqps.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-28 07:27:58",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2104473171688820902",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "jwscaiwu.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-26 07:48:37",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2103753595737014458",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "uwaiskdas.com"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 06:49:50",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2103014027630895339",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "puwaiosd.com"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 06:49:50",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2103014027630895339",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "poiwaldsas.com"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 06:49:50",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2103014027630895339",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://puwaiosd.com/nenkin/download"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 06:38:03",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2103011060597031287",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "oiuwaksdiw.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-24 06:38:03",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2103011060597031287",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://oiuwaksdiw.com/cash/downloadopwad"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-20 00:47:30",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2101473291596882409",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://hasoadwaznqps.com/nenkin/download/"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-19 00:05:54",
+          "tags": [
+            "#malware",
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2101100433997791741",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "poiwaksuwa.com"
         }
       ],
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-10-01",
       "member_cluster_ids": [
-        "tfc-a6004909a5a9"
+        "tfc-de6cf2368a2b",
+        "tfc-582d167dc194",
+        "tfc-9102d9ad80b9"
       ],
-      "name": "ShinyHunters-style vishing on report-*.com brand lookalikes",
+      "name": "Japan Android malware on random-string .com domains",
       "reporters": [
-        "AaronCTI",
-        "TheM3gatr0n",
-        "skocherhan"
+        "masaomi346"
       ],
-      "tags": [],
-      "targeted_brand": "Chase",
-      "targeted_country": null,
-      "targeted_sector": "financial-services",
+      "tags": [
+        "#malware",
+        "#phishing"
+      ],
+      "targeted_brand": "Rakuten",
+      "targeted_country": "JP",
+      "targeted_sector": "retail",
       "threat_types": {
-        "other": 2,
-        "phishing": 36
+        "malware": 19,
+        "phishing": 19
       },
       "ttps": [
+        "T1566.002",
         "T1583.001",
-        "T1684.001"
+        "T1036.005"
       ],
       "types": {
-        "domain": 19,
-        "url": 19
+        "domain": 17,
+        "url": 21
+      }
+    },
+    {
+      "activity": {
+        "2026-09-23": 2,
+        "2026-09-24": 4,
+        "2026-09-27": 4,
+        "2026-09-30": 5,
+        "2026-10-01": 2,
+        "2026-10-05": 4,
+        "2026-10-06": 8
+      },
+      "anchors": {
+        "registered_domains": [
+          "130826.ngrok.app",
+          "interactions-according-reports-syndication.trycloudflare.com",
+          "periods-genetic-stones-government.trycloudflare.com",
+          "sc88qt.com",
+          "ygz.bet"
+        ],
+        "tags": [
+          "#AsyncRAT",
+          "#Xworm"
+        ],
+        "url_path_patterns": [
+          "/MicrosoftUpdateServices.exe",
+          "/fps.exe"
+        ]
+      },
+      "confidence": "medium",
+      "context": "An ngrok.app host serves MicrosoftUpdateServices.exe as a next stage after a malicious JS sample resembling XWorm. Tags name XWorm, AsyncRAT and #opendir; enrichment also cites fps.exe from ygz.bet and a VBS booking lure with steganographic JPGs. Six reporters flagged 29 IOCs from 2026-09-23 to 2026-10-06.",
+      "enriched_count": 29,
+      "families": {
+        "AsyncRAT": 15,
+        "XWorm": 12
+      },
+      "first_seen": "2026-09-23",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 5,
+        "first_seen_365d": "2026-09-16",
+        "iocs_365d": 14,
+        "iocs_before_window": 4,
+        "last_seen_365d": "2026-10-06",
+        "window_days": 365
+      },
+      "id": "tfc-7fca162f136a",
+      "infra": [
+        {
+          "country": "US",
+          "ip_count": 2,
+          "org": "AS36352 HostPapa"
+        },
+        {
+          "country": "US",
+          "ip_count": 2,
+          "org": "AS399486 12651980 CANADA INC."
+        },
+        {
+          "country": "TH",
+          "ip_count": 1,
+          "org": "AS142299 CLOUDFOREST CO., LTD."
+        },
+        {
+          "country": "US",
+          "ip_count": 1,
+          "org": "AS35986 Vyve Broadband"
+        },
+        {
+          "country": "US",
+          "ip_count": 1,
+          "org": "AS44382 Fiba Cloud Operation Company, LLC"
+        },
+        {
+          "country": "NL",
+          "ip_count": 1,
+          "org": "AS8075 Microsoft Corporation"
+        }
+      ],
+      "ioc_count": 29,
+      "ioc_count_1d": 0,
+      "ioc_count_30d": 29,
+      "ioc_count_7d": 0,
+      "iocs": [
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-06 15:21:19",
+          "tags": [
+            "#Xworm",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
+          "type": "url",
+          "user": "James_inthe_box",
+          "value": "http://151.241.154.23:7007"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-06 15:21:19",
+          "tags": [
+            "#Xworm",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
+          "type": "url",
+          "user": "James_inthe_box",
+          "value": "http://107.173.143.44/60"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-06 15:21:19",
+          "net": {
+            "country": "FR",
+            "org": "AS399486 12651980 CANADA INC."
+          },
+          "tags": [
+            "#Xworm",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
+          "type": "ip",
+          "user": "James_inthe_box",
+          "value": "151.241.154.23"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-06 15:21:19",
+          "net": {
+            "country": "US",
+            "org": "AS36352 HostPapa"
+          },
+          "tags": [
+            "#Xworm",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
+          "type": "ip",
+          "user": "James_inthe_box",
+          "value": "107.173.143.44"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-06 11:45:32",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107437096495419722",
+          "type": "domain",
+          "user": "smica83",
+          "value": "ygz.bet"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-06 11:45:32",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107437096495419722",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://ygz.bet/fps.exe"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-06 11:45:32",
+          "net": {
+            "country": "TH",
+            "org": "AS142299 CLOUDFOREST CO., LTD."
+          },
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107437096495419722",
+          "type": "ip",
+          "user": "smica83",
+          "value": "45.141.26.63"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-06 11:45:32",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107437096495419722",
+          "type": "sha256",
+          "user": "smica83",
+          "value": "38fc7910c4e49d6be701b7850ad3f00093735590d051bbeb1399ce149fc65b94"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-05 16:00:14",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107138805270487052",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://130826.ngrok.app/MicrosoftUpdateServices.exe"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-05 16:00:14",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107138805270487052",
+          "type": "sha256",
+          "user": "smica83",
+          "value": "2ede40f7d7f02014533a250bd68ee2da8f48cd222d14d4a66c50206646ede127"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-05 16:00:14",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107138805270487052",
+          "type": "sha256",
+          "user": "smica83",
+          "value": "22d80c337a78b9a5ffe4fd41492fe2f1a65ce5b9bf9f63ecf58608437184f178"
+        },
+        {
+          "ai": {
+            "family": "XWorm",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-05 16:00:14",
+          "tags": [
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/smica83/status/2107138805270487052",
+          "type": "domain",
+          "user": "smica83",
+          "value": "130826.ngrok.app"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-01 09:03:04",
+          "tags": [
+            "#AsyncRAT",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/_AkatsukiLegion/status/2105584268680507901",
+          "type": "url",
+          "user": "_AkatsukiLegion",
+          "value": "http://51.144.45.141"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-01 09:03:04",
+          "net": {
+            "country": "NL",
+            "org": "AS8075 Microsoft Corporation"
+          },
+          "tags": [
+            "#AsyncRAT",
+            "#Xworm"
+          ],
+          "tweet": "https://x.com/_AkatsukiLegion/status/2105584268680507901",
+          "type": "ip",
+          "user": "_AkatsukiLegion",
+          "value": "51.144.45.141"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 06:11:22",
+          "tags": [],
+          "tweet": "https://x.com/JAMESWT_WT/status/2105178672420323406",
+          "type": "md5",
+          "user": "JAMESWT_WT",
+          "value": "82fa22bc4ac39d06a41cef104b9255c4"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 06:11:22",
+          "net": {
+            "country": "US",
+            "org": "AS399486 12651980 CANADA INC."
+          },
+          "tags": [],
+          "tweet": "https://x.com/JAMESWT_WT/status/2105178672420323406",
+          "type": "ip",
+          "user": "JAMESWT_WT",
+          "value": "64.224.17.115"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 06:11:22",
+          "net": {
+            "country": "US",
+            "org": "AS44382 Fiba Cloud Operation Company, LLC"
+          },
+          "tags": [],
+          "tweet": "https://x.com/JAMESWT_WT/status/2105178672420323406",
+          "type": "ip",
+          "user": "JAMESWT_WT",
+          "value": "216.9.224.48"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 06:11:22",
+          "tags": [],
+          "tweet": "https://x.com/JAMESWT_WT/status/2105178672420323406",
+          "type": "md5",
+          "user": "JAMESWT_WT",
+          "value": "1a2eb4add748ffbe552d2bbc9d289bab"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 06:11:22",
+          "net": {
+            "country": "US",
+            "org": "AS36352 HostPapa"
+          },
+          "tags": [],
+          "tweet": "https://x.com/JAMESWT_WT/status/2105178672420323406",
+          "type": "ip",
+          "user": "JAMESWT_WT",
+          "value": "107.175.148.115"
+        },
+        {
+          "ai": {
+            "family": "asyncrat",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-27 17:01:36",
+          "tags": [
+            "#AsyncRAT"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2104255144384692734",
+          "type": "md5",
+          "user": "skocherhan",
+          "value": "78bf1882183a3be3df1ed9186dbe660b"
+        },
+        {
+          "ai": {
+            "family": "asyncrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-27 16:59:54",
+          "tags": [
+            "#AsyncRAT"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2104254718465790200",
+          "type": "domain",
+          "user": "skocherhan",
+          "value": "sc88qt.com"
+        },
+        {
+          "ai": {
+            "family": "asyncrat",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-27 16:59:54",
+          "tags": [
+            "#AsyncRAT"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2104254718465790200",
+          "type": "url",
+          "user": "skocherhan",
+          "value": "http://sc88qt.com"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 16:07:54",
+          "tags": [
+            "#AsyncRAT",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2103154466770010137",
+          "type": "domain",
+          "user": "James_inthe_box",
+          "value": "periods-genetic-stones-government.trycloudflare.com"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 16:07:54",
+          "tags": [
+            "#AsyncRAT",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2103154466770010137",
+          "type": "domain",
+          "user": "James_inthe_box",
+          "value": "interactions-according-reports-syndication.trycloudflare.com"
+        },
+        {
+          "ai": {
+            "family": "AsyncRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-09-24 16:07:54",
+          "tags": [
+            "#AsyncRAT",
+            "#opendir"
+          ],
+          "tweet": "https://x.com/James_inthe_box/status/2103154466770010137",
+          "type": "url",
+          "user": "James_inthe_box",
+          "value": "https://periods-genetic-stones-government.trycloudflare.com"
+        }
+      ],
+      "last_seen": "2026-10-06",
+      "member_cluster_ids": [
+        "tfc-7fca162f136a"
+      ],
+      "name": "XWorm/AsyncRAT staging via ngrok and open directories",
+      "reporters": [
+        "JAMESWT_WT",
+        "James_inthe_box",
+        "_AkatsukiLegion",
+        "curious_drac0",
+        "skocherhan",
+        "smica83"
+      ],
+      "tags": [
+        "#AsyncRAT",
+        "#C2",
+        "#Xworm",
+        "#opendir"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "c2": 9,
+        "malware": 20
+      },
+      "ttps": [
+        "T1588.001",
+        "T1608.001",
+        "T1583.006",
+        "T1036.005"
+      ],
+      "types": {
+        "domain": 5,
+        "ip": 8,
+        "md5": 4,
+        "sha256": 3,
+        "url": 9
       }
     },
     {
@@ -2111,9 +2257,9 @@
       },
       "id": "tfc-66e666c2695d",
       "ioc_count": 27,
-      "ioc_count_1d": 2,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 27,
-      "ioc_count_7d": 7,
+      "ioc_count_7d": 6,
       "iocs": [
         {
           "ai": {
@@ -2428,7 +2574,7 @@
       ],
       "name": "Roblox and iCloud lookalike phishing sharing a /login path",
       "related": {
-        "checked_at": "2026-10-16T06:28:08Z",
+        "checked_at": "2026-10-17T06:28:03Z",
         "match_count": 1,
         "matches": [
           {
@@ -2474,7 +2620,7 @@
         "2026-09-28": 2,
         "2026-10-08": 2,
         "2026-10-14": 12,
-        "2026-10-16": 2
+        "2026-10-16": 3
       },
       "anchors": {
         "registered_domains": [
@@ -2484,11 +2630,13 @@
         "tags": [
           "#Kimsuky"
         ],
-        "url_path_patterns": []
+        "url_path_patterns": [
+          "/xacN/xacN"
+        ]
       },
       "confidence": "medium",
-      "context": "Random-label subdomains under onlinewebshop.net and wuaze.com are tagged C2 and Kimsuky. Enrichment ties both sets to the GitPower campaign, and one subdomain to a suspicious LNK file seen from South Korea. Three reporters flagged 26 IOCs from 2026-09-17 to 2026-10-16.",
-      "enriched_count": 24,
+      "context": "Random-label subdomains under onlinewebshop.net and wuaze.com are tagged C2 and Kimsuky. Enrichment ties both sets to the GitPower campaign, and one subdomain to a suspicious LNK file seen from South Korea. Three reporters flagged 27 IOCs from 2026-09-17 to 2026-10-16.",
+      "enriched_count": 25,
       "families": {
         "GitPower": 6
       },
@@ -2497,17 +2645,28 @@
         "by_pattern": [],
         "domains_365d": 2,
         "first_seen_365d": "2025-10-18",
-        "iocs_365d": 44,
+        "iocs_365d": 45,
         "iocs_before_window": 18,
         "last_seen_365d": "2026-10-16",
         "window_days": 365
       },
       "id": "tfc-9b5f01f14bbb",
-      "ioc_count": 26,
-      "ioc_count_1d": 2,
-      "ioc_count_30d": 26,
-      "ioc_count_7d": 14,
+      "ioc_count": 27,
+      "ioc_count_1d": 1,
+      "ioc_count_30d": 21,
+      "ioc_count_7d": 15,
       "iocs": [
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 22:04:23",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2111216711831810173",
+          "type": "url",
+          "user": "smica83",
+          "value": "https://xncdvoghw.wuaze.com//xac74/xac15/xac80/xc9c4.pdf"
+        },
         {
           "date": "2026-10-16 05:49:40",
           "tags": [
@@ -2816,28 +2975,13 @@
           "tweet": "https://x.com/cyberwar_15/status/2100398634634535226",
           "type": "domain",
           "user": "cyberwar_15",
-          "value": "edcv89ik.onlinewebshop.net"
-        },
-        {
-          "ai": {
-            "family": "GitPower",
-            "threat_type": "c2"
-          },
-          "date": "2026-09-17 01:37:12",
-          "tags": [
-            "#C2",
-            "#Kimsuky"
-          ],
-          "tweet": "https://x.com/cyberwar_15/status/2100398634634535226",
-          "type": "domain",
-          "user": "cyberwar_15",
           "value": "babarahoney.wuaze.com"
         }
       ],
       "last_seen": "2026-10-16",
       "member_cluster_ids": [
         "tfc-9b5f01f14bbb",
-        "tfc-ac0f7c86b7f9"
+        "tfc-3977157f8c1b"
       ],
       "name": "Kimsuky GitPower C2 on free-hosting subdomains",
       "reporters": [
@@ -2854,7 +2998,7 @@
       "targeted_sector": null,
       "threat_types": {
         "c2": 16,
-        "malware": 6,
+        "malware": 7,
         "other": 2
       },
       "ttps": [
@@ -2863,7 +3007,7 @@
       ],
       "types": {
         "domain": 13,
-        "url": 13
+        "url": 14
       }
     },
     {
@@ -2909,7 +3053,7 @@
         ]
       },
       "confidence": "medium",
-      "context": "Numbered GitHub account and repository URLs such as f1-917, f3-917 and minercraft392 are tagged Kimsuky. Enrichment links them to DPRK payload staging and one .bat chain to Braodo Stealer, and notes a gist possibly used as a dead-drop resolver. Six reporters flagged 22 IOCs from 2026-09-17 to 2026-10-13.",
+      "context": "Numbered GitHub account and repository URLs such as f1-917, f3-917 and minercraft392 are tagged Kimsuky. Enrichment links them to DPRK payload staging and one .bat chain to Braodo Stealer. Six reporters flagged 22 IOCs from 2026-09-17 to 2026-10-13.",
       "enriched_count": 16,
       "families": {
         "Braodo Stealer": 2
@@ -2928,7 +3072,7 @@
       "ioc_count": 22,
       "ioc_count_1d": 0,
       "ioc_count_30d": 22,
-      "ioc_count_7d": 4,
+      "ioc_count_7d": 3,
       "iocs": [
         {
           "ai": {
@@ -3641,6 +3785,231 @@
     },
     {
       "activity": {
+        "2026-10-17": 16
+      },
+      "anchors": {
+        "registered_domains": [
+          "anqbsss.cn",
+          "bixsgrb.cn",
+          "dzwwftf.cn",
+          "fmcoyko.cn",
+          "gbjeifr.cn",
+          "hfpzuia.cn",
+          "iasteun.cn",
+          "iugbkbg.cn"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/Login"
+        ]
+      },
+      "confidence": "low",
+      "context": "Eight seven-letter .cn domains such as anqbsss.cn, bixsgrb.cn and hfpzuia.cn serve the same /Login/ path and are tagged #phishing. No brand is named in the input. One reporter (masaomi346) flagged 16 IOCs on 2026-10-17.",
+      "enriched_count": 0,
+      "families": {},
+      "first_seen": "2026-10-17",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 8,
+        "first_seen_365d": "2026-10-17",
+        "iocs_365d": 16,
+        "iocs_before_window": 0,
+        "last_seen_365d": "2026-10-17",
+        "window_days": 365
+      },
+      "id": "tfc-9775614460a8",
+      "ioc_count": 16,
+      "ioc_count_1d": 16,
+      "ioc_count_30d": 16,
+      "ioc_count_7d": 16,
+      "iocs": [
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "iugbkbg.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "iasteun.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://iugbkbg.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://iasteun.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://hfpzuia.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://gbjeifr.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://fmcoyko.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://dzwwftf.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://bixsgrb.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "url",
+          "user": "masaomi346",
+          "value": "https://anqbsss.cn/Login/"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "hfpzuia.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "gbjeifr.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "fmcoyko.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "dzwwftf.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "bixsgrb.cn"
+        },
+        {
+          "date": "2026-10-17 00:09:09",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+          "type": "domain",
+          "user": "masaomi346",
+          "value": "anqbsss.cn"
+        }
+      ],
+      "last_seen": "2026-10-17",
+      "member_cluster_ids": [
+        "tfc-9775614460a8"
+      ],
+      "name": "Random-label .cn phishing domains with /Login path",
+      "reporters": [
+        "masaomi346"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {},
+      "ttps": [
+        "T1566.002",
+        "T1583.001"
+      ],
+      "types": {
+        "domain": 8,
+        "url": 8
+      }
+    },
+    {
+      "activity": {
         "2026-10-01": 14
       },
       "anchors": {
@@ -3889,318 +4258,526 @@
     },
     {
       "activity": {
-        "2026-10-01": 2,
-        "2026-10-05": 4,
-        "2026-10-06": 8
+        "2026-09-17": 2,
+        "2026-09-29": 2,
+        "2026-10-05": 2,
+        "2026-10-13": 5,
+        "2026-10-16": 3
       },
       "anchors": {
         "registered_domains": [
-          "130826.ngrok.app",
-          "ygz.bet"
+          "yscf988.club"
         ],
         "tags": [
-          "#AsyncRAT",
-          "#Xworm"
+          "#ValleyRAT"
         ],
-        "url_path_patterns": [
-          "/MicrosoftUpdateServices.exe",
-          "/fps.exe"
-        ]
+        "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "An ngrok.app host serves MicrosoftUpdateServices.exe as a next stage after a malicious JS sample resembling XWorm. Tags name XWorm, AsyncRAT and #opendir; enrichment also cites fps.exe from ygz.bet and an open directory at 107.173.143.44. Three reporters flagged 14 IOCs from 2026-10-01 to 2026-10-06.",
+      "context": "Domain yscf988.club and several IP addresses are tagged ValleyRAT and described by enrichment as C2 servers in a Silver Fox campaign using DLL sideloading. Hashes are included. Five reporters flagged 14 IOCs from 2026-09-17 to 2026-10-16.",
       "enriched_count": 14,
       "families": {
-        "XWorm": 12
+        "ValleyRAT": 14
       },
-      "first_seen": "2026-10-01",
+      "first_seen": "2026-09-17",
       "history": {
         "by_pattern": [],
-        "domains_365d": 2,
-        "first_seen_365d": "2026-10-05",
-        "iocs_365d": 4,
+        "domains_365d": 1,
+        "first_seen_365d": "2026-09-17",
+        "iocs_365d": 2,
         "iocs_before_window": 0,
-        "last_seen_365d": "2026-10-06",
+        "last_seen_365d": "2026-09-17",
         "window_days": 365
       },
-      "id": "tfc-7fca162f136a",
+      "id": "tfc-724bffa012b8",
       "infra": [
         {
-          "country": "TH",
-          "ip_count": 1,
-          "org": "AS142299 CLOUDFOREST CO., LTD."
+          "country": "HK",
+          "ip_count": 2,
+          "org": "AS45102 Alibaba (US) Technology Co., Ltd."
         },
         {
-          "country": "US",
+          "country": "HK",
           "ip_count": 1,
-          "org": "AS36352 HostPapa"
+          "org": "AS152194 CTG Server Limited"
         },
         {
-          "country": "FR",
+          "country": "CN",
           "ip_count": 1,
-          "org": "AS399486 12651980 CANADA INC."
+          "org": "AS55990 Huawei Cloud Service data center"
         },
         {
-          "country": "NL",
+          "country": "HK",
           "ip_count": 1,
-          "org": "AS8075 Microsoft Corporation"
+          "org": "AS976 CoreNET Inc."
         }
       ],
       "ioc_count": 14,
-      "ioc_count_1d": 0,
+      "ioc_count_1d": 3,
       "ioc_count_30d": 14,
-      "ioc_count_7d": 0,
+      "ioc_count_7d": 8,
       "iocs": [
         {
           "ai": {
-            "family": "XWorm",
-            "threat_type": "c2"
-          },
-          "date": "2026-10-06 15:21:19",
-          "tags": [
-            "#Xworm",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
-          "type": "url",
-          "user": "James_inthe_box",
-          "value": "http://151.241.154.23:7007"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "c2"
-          },
-          "date": "2026-10-06 15:21:19",
-          "tags": [
-            "#Xworm",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
-          "type": "url",
-          "user": "James_inthe_box",
-          "value": "http://107.173.143.44/60"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "c2"
-          },
-          "date": "2026-10-06 15:21:19",
-          "net": {
-            "country": "FR",
-            "org": "AS399486 12651980 CANADA INC."
-          },
-          "tags": [
-            "#Xworm",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
-          "type": "ip",
-          "user": "James_inthe_box",
-          "value": "151.241.154.23"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "c2"
-          },
-          "date": "2026-10-06 15:21:19",
-          "net": {
-            "country": "US",
-            "org": "AS36352 HostPapa"
-          },
-          "tags": [
-            "#Xworm",
-            "#opendir"
-          ],
-          "tweet": "https://x.com/James_inthe_box/status/2107491399730073763",
-          "type": "ip",
-          "user": "James_inthe_box",
-          "value": "107.173.143.44"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
+            "family": "ValleyRAT",
             "threat_type": "malware"
           },
-          "date": "2026-10-06 11:45:32",
+          "date": "2026-10-16 09:13:05",
           "tags": [
-            "#Xworm"
+            "#ValleyRAT"
           ],
-          "tweet": "https://x.com/smica83/status/2107437096495419722",
+          "tweet": "https://x.com/smica83/status/2111022610280550553",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://143.92.38.167:8383"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 09:13:05",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/smica83/status/2111022610280550553",
+          "type": "sha256",
+          "user": "smica83",
+          "value": "b5e640b7676e3ef1741d902dfb183e6129aa997d4b99a9626af9bb7c022e796f"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 09:13:05",
+          "net": {
+            "country": "HK",
+            "org": "AS152194 CTG Server Limited"
+          },
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/smica83/status/2111022610280550553",
+          "type": "ip",
+          "user": "smica83",
+          "value": "143.92.38.167"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 12:12:13",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/bomccss/status/2109980523649176027",
+          "type": "sha256",
+          "user": "bomccss",
+          "value": "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 05:18:49",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://103.118.42.120:16808"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 05:18:49",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
+          "type": "md5",
+          "user": "tdatwja",
+          "value": "a8114e4adcd6063cd6315fa142231b0f"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 05:18:49",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
+          "type": "sha256",
+          "user": "tdatwja",
+          "value": "7eca6ff78c9a067293de9ac651b8f1292acc5f098e8e97dcafa1bdef9b8a61c2"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 05:18:49",
+          "net": {
+            "country": "HK",
+            "org": "AS976 CoreNET Inc."
+          },
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
+          "type": "ip",
+          "user": "tdatwja",
+          "value": "103.118.42.120"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-05 07:33:00",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/fr0s7_/status/2107011153872273414",
+          "type": "url",
+          "user": "fr0s7_",
+          "value": "http://110.41.6.163"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-05 07:33:00",
+          "net": {
+            "country": "CN",
+            "org": "AS55990 Huawei Cloud Service data center"
+          },
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/fr0s7_/status/2107011153872273414",
+          "type": "ip",
+          "user": "fr0s7_",
+          "value": "110.41.6.163"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-29 15:18:10",
+          "net": {
+            "country": "ID",
+            "org": "AS45102 Alibaba (US) Technology Co., Ltd."
+          },
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/fr0s7_/status/2104953889514824075",
+          "type": "ip",
+          "user": "fr0s7_",
+          "value": "8.215.17.221"
+        },
+        {
+          "ai": {
+            "family": "ValleyRAT",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-29 15:18:10",
+          "net": {
+            "country": "HK",
+            "org": "AS45102 Alibaba (US) Technology Co., Ltd."
+          },
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/fr0s7_/status/2104953889514824075",
+          "type": "ip",
+          "user": "fr0s7_",
+          "value": "8.210.231.207"
+        },
+        {
+          "ai": {
+            "family": "ValleyRat",
+            "threat_type": "c2"
+          },
+          "date": "2026-09-17 20:09:40",
+          "tags": [
+            "#ValleyRAT"
+          ],
+          "tweet": "https://x.com/skocherhan/status/2100678596784189589",
           "type": "domain",
-          "user": "smica83",
-          "value": "ygz.bet"
+          "user": "skocherhan",
+          "value": "yscf988.club"
         },
         {
           "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
+            "family": "ValleyRat",
+            "threat_type": "c2"
           },
-          "date": "2026-10-06 11:45:32",
+          "date": "2026-09-17 20:09:40",
           "tags": [
-            "#Xworm"
+            "#ValleyRAT"
           ],
-          "tweet": "https://x.com/smica83/status/2107437096495419722",
+          "tweet": "https://x.com/skocherhan/status/2100678596784189589",
           "type": "url",
-          "user": "smica83",
-          "value": "http://ygz.bet/fps.exe"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-06 11:45:32",
-          "net": {
-            "country": "TH",
-            "org": "AS142299 CLOUDFOREST CO., LTD."
-          },
-          "tags": [
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/smica83/status/2107437096495419722",
-          "type": "ip",
-          "user": "smica83",
-          "value": "45.141.26.63"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-06 11:45:32",
-          "tags": [
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/smica83/status/2107437096495419722",
-          "type": "sha256",
-          "user": "smica83",
-          "value": "38fc7910c4e49d6be701b7850ad3f00093735590d051bbeb1399ce149fc65b94"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-05 16:00:14",
-          "tags": [
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/smica83/status/2107138805270487052",
-          "type": "url",
-          "user": "smica83",
-          "value": "https://130826.ngrok.app/MicrosoftUpdateServices.exe"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-05 16:00:14",
-          "tags": [
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/smica83/status/2107138805270487052",
-          "type": "sha256",
-          "user": "smica83",
-          "value": "2ede40f7d7f02014533a250bd68ee2da8f48cd222d14d4a66c50206646ede127"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-05 16:00:14",
-          "tags": [
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/smica83/status/2107138805270487052",
-          "type": "sha256",
-          "user": "smica83",
-          "value": "22d80c337a78b9a5ffe4fd41492fe2f1a65ce5b9bf9f63ecf58608437184f178"
-        },
-        {
-          "ai": {
-            "family": "XWorm",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-05 16:00:14",
-          "tags": [
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/smica83/status/2107138805270487052",
-          "type": "domain",
-          "user": "smica83",
-          "value": "130826.ngrok.app"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-10-01 09:03:04",
-          "tags": [
-            "#AsyncRAT",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/_AkatsukiLegion/status/2105584268680507901",
-          "type": "url",
-          "user": "_AkatsukiLegion",
-          "value": "http://51.144.45.141"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-10-01 09:03:04",
-          "net": {
-            "country": "NL",
-            "org": "AS8075 Microsoft Corporation"
-          },
-          "tags": [
-            "#AsyncRAT",
-            "#Xworm"
-          ],
-          "tweet": "https://x.com/_AkatsukiLegion/status/2105584268680507901",
-          "type": "ip",
-          "user": "_AkatsukiLegion",
-          "value": "51.144.45.141"
+          "user": "skocherhan",
+          "value": "http://yscf988.club"
         }
       ],
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-16",
       "member_cluster_ids": [
-        "tfc-7fca162f136a"
+        "tfc-724bffa012b8"
       ],
-      "name": "XWorm/AsyncRAT staging via ngrok and open directories",
+      "name": "ValleyRAT C2 infrastructure linked to Silver Fox",
       "reporters": [
-        "James_inthe_box",
-        "_AkatsukiLegion",
-        "smica83"
+        "bomccss",
+        "fr0s7_",
+        "skocherhan",
+        "smica83",
+        "tdatwja"
       ],
       "tags": [
-        "#AsyncRAT",
-        "#Xworm",
-        "#opendir"
+        "#ValleyRAT"
       ],
       "targeted_brand": null,
       "targeted_country": null,
       "targeted_sector": null,
       "threat_types": {
-        "c2": 4,
-        "malware": 10
+        "c2": 6,
+        "malware": 8
       },
       "ttps": [
         "T1588.001",
-        "T1608.001",
-        "T1583.006",
-        "T1036.005"
+        "T1071.001",
+        "T1583.001"
       ],
       "types": {
-        "domain": 2,
-        "ip": 4,
+        "domain": 1,
+        "ip": 5,
+        "md5": 1,
         "sha256": 3,
-        "url": 5
+        "url": 4
+      }
+    },
+    {
+      "activity": {
+        "2026-10-15": 4,
+        "2026-10-16": 10
+      },
+      "anchors": {
+        "registered_domains": [
+          "myssologin.com"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "Subdomains of myssologin.com are named after law firms such as cooley, paulweiss, stinson and dechert. Enrichment attributes them to UNC6671 and describes Microsoft OAuth login impersonation aimed at the legal sector. Reporter PadelLifeUK flagged 14 IOCs from 2026-10-15 to 2026-10-16.",
+      "enriched_count": 14,
+      "families": {},
+      "first_seen": "2026-10-15",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 1,
+        "first_seen_365d": "2026-10-15",
+        "iocs_365d": 14,
+        "iocs_before_window": 0,
+        "last_seen_365d": "2026-10-16",
+        "window_days": 365
+      },
+      "id": "tfc-8ccf313da96f",
+      "ioc_count": 14,
+      "ioc_count_1d": 10,
+      "ioc_count_30d": 14,
+      "ioc_count_7d": 14,
+      "iocs": [
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 20:01:26",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111185771000406305",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "stinson.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 20:01:26",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111185771000406305",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://stinson.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 20:01:26",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111185771000406305",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://dechert.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 20:01:26",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111185771000406305",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "dechert.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 07:53:32",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111002588996931660",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "willkie.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 07:53:32",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111002588996931660",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 07:53:32",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111002588996931660",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "kelleydrye.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 07:53:32",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111002588996931660",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://willkie.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 07:53:32",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111002588996931660",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 07:53:32",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2111002588996931660",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://kelleydrye.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-15 20:43:38",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "paulweiss.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-15 20:43:38",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://paulweiss.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-15 20:43:38",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
+          "type": "url",
+          "user": "PadelLifeUK",
+          "value": "http://cooley.myssologin.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-15 20:43:38",
+          "tags": [],
+          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
+          "type": "domain",
+          "user": "PadelLifeUK",
+          "value": "cooley.myssologin.com"
+        }
+      ],
+      "last_seen": "2026-10-16",
+      "member_cluster_ids": [
+        "tfc-8ccf313da96f"
+      ],
+      "name": "UNC6671 Microsoft OAuth lookalikes on myssologin.com",
+      "reporters": [
+        "PadelLifeUK"
+      ],
+      "tags": [],
+      "targeted_brand": "Microsoft",
+      "targeted_country": null,
+      "targeted_sector": "technology",
+      "threat_types": {
+        "phishing": 14
+      },
+      "ttps": [
+        "T1684.001",
+        "T1583.001"
+      ],
+      "types": {
+        "domain": 7,
+        "url": 7
       }
     },
     {
@@ -4889,6 +5466,199 @@
     },
     {
       "activity": {
+        "2026-10-16": 12
+      },
+      "anchors": {
+        "registered_domains": [
+          "cloudeliverenterprise.com",
+          "cloudeliverrs.com",
+          "cloudenterpriseve.com",
+          "scloudeliverrs.com",
+          "scloudsenterprise.com",
+          "scloudsenterprisever.com"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "Six recently registered domains share a cloud/deliver/enterprise naming pattern, such as cloudeliverrs.com and scloudeliverrs.com. Enrichment says they resolve to the same IP and may be shared malicious infrastructure. No lure or payload is described. Reporter malwrhunterteam flagged 12 IOCs on 2026-10-16.",
+      "enriched_count": 12,
+      "families": {},
+      "first_seen": "2026-10-16",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 6,
+        "first_seen_365d": "2026-10-16",
+        "iocs_365d": 12,
+        "iocs_before_window": 0,
+        "last_seen_365d": "2026-10-16",
+        "window_days": 365
+      },
+      "id": "tfc-1832e62ccfa0",
+      "ioc_count": 12,
+      "ioc_count_1d": 12,
+      "ioc_count_30d": 12,
+      "ioc_count_7d": 12,
+      "iocs": [
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "scloudsenterprisever.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "scloudsenterprise.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "scloudeliverrs.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://scloudsenterprisever.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://scloudsenterprise.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://scloudeliverrs.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://cloudenterpriseve.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://cloudeliverrs.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "url",
+          "user": "malwrhunterteam",
+          "value": "http://cloudeliverenterprise.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "cloudenterpriseve.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "cloudeliverrs.com"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-10-16 08:51:21",
+          "tags": [],
+          "tweet": "https://x.com/malwrhunterteam/status/2111017138790056108",
+          "type": "domain",
+          "user": "malwrhunterteam",
+          "value": "cloudeliverenterprise.com"
+        }
+      ],
+      "last_seen": "2026-10-16",
+      "member_cluster_ids": [
+        "tfc-1832e62ccfa0",
+        "tfc-ecdce7139a20"
+      ],
+      "name": "cloud*deliver*enterprise lookalike domains on one IP",
+      "reporters": [
+        "malwrhunterteam"
+      ],
+      "tags": [],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "other": 12
+      },
+      "ttps": [
+        "T1583.001"
+      ],
+      "types": {
+        "domain": 6,
+        "url": 6
+      }
+    },
+    {
+      "activity": {
         "2026-09-21": 2,
         "2026-09-22": 2,
         "2026-09-23": 2,
@@ -5094,6 +5864,224 @@
       "targeted_brand": "MEDVi",
       "targeted_country": null,
       "targeted_sector": "healthcare",
+      "threat_types": {
+        "phishing": 12
+      },
+      "ttps": [
+        "T1583.001"
+      ],
+      "types": {
+        "domain": 6,
+        "url": 6
+      }
+    },
+    {
+      "activity": {
+        "2026-09-18": 2,
+        "2026-09-22": 2,
+        "2026-09-29": 2,
+        "2026-10-03": 2,
+        "2026-10-14": 2,
+        "2026-10-16": 2
+      },
+      "anchors": {
+        "registered_domains": [
+          "harborstonegroup.shop"
+        ],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "low",
+      "context": "Enrichment describes an Americor-branded debt-relief email whose links go to the unrelated domain harborstonegroup.shop. One reporter (TKemmerling) flagged 12 IOCs from 2026-09-18 to 2026-10-16, all tagged #phishing.",
+      "enriched_count": 12,
+      "families": {},
+      "first_seen": "2026-09-18",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 1,
+        "first_seen_365d": "2026-09-09",
+        "iocs_365d": 14,
+        "iocs_before_window": 2,
+        "last_seen_365d": "2026-10-16",
+        "window_days": 365
+      },
+      "id": "tfc-3b8b639332da",
+      "ioc_count": 12,
+      "ioc_count_1d": 2,
+      "ioc_count_30d": 12,
+      "ioc_count_7d": 4,
+      "iocs": [
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 21:58:08",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2111215138552574004",
+          "type": "url",
+          "user": "TKemmerling",
+          "value": "http://harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 21:58:08",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2111215138552574004",
+          "type": "domain",
+          "user": "TKemmerling",
+          "value": "harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-14 01:58:47",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2110188536234447094",
+          "type": "url",
+          "user": "TKemmerling",
+          "value": "http://harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-14 01:58:47",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2110188536234447094",
+          "type": "domain",
+          "user": "TKemmerling",
+          "value": "harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-03 01:53:17",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2106200887240859805",
+          "type": "url",
+          "user": "TKemmerling",
+          "value": "http://harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-03 01:53:17",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2106200887240859805",
+          "type": "domain",
+          "user": "TKemmerling",
+          "value": "harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-29 15:46:47",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2104961092757987331",
+          "type": "url",
+          "user": "TKemmerling",
+          "value": "http://harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-29 15:46:47",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2104961092757987331",
+          "type": "domain",
+          "user": "TKemmerling",
+          "value": "harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-22 11:50:26",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2102364899058057621",
+          "type": "url",
+          "user": "TKemmerling",
+          "value": "http://harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-22 11:50:26",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2102364899058057621",
+          "type": "domain",
+          "user": "TKemmerling",
+          "value": "harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-18 16:30:52",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2100985919289639319",
+          "type": "url",
+          "user": "TKemmerling",
+          "value": "http://harborstonegroup.shop"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-18 16:30:52",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/TKemmerling/status/2100985919289639319",
+          "type": "domain",
+          "user": "TKemmerling",
+          "value": "harborstonegroup.shop"
+        }
+      ],
+      "last_seen": "2026-10-16",
+      "member_cluster_ids": [
+        "tfc-3b8b639332da"
+      ],
+      "name": "Americor-branded debt-relief phishing via harborstonegroup.shop",
+      "reporters": [
+        "TKemmerling"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": "Americor",
+      "targeted_country": null,
+      "targeted_sector": "financial-services",
       "threat_types": {
         "phishing": 12
       },
@@ -5340,7 +6328,7 @@
         "url_path_patterns": []
       },
       "confidence": "medium",
-      "context": "Canabit.ai and canabit.ca are tagged #cryptoscam and #scam. Enrichment cites an investment warning urging verification before committing funds. Both domains share the Canabit name and the same warning. Two reporters (Wilmichels, joshuaiancooper) flagged 12 IOCs from 2026-09-26 to 2026-10-16.",
+      "context": "Canabit.ai and canabit.ca are tagged #cryptoscam and #scam. Enrichment cites an investment warning urging verification before committing funds. Both domains share the Canabit name and the same warning. Two reporters flagged 12 IOCs from 2026-09-26 to 2026-10-16.",
       "enriched_count": 12,
       "families": {},
       "first_seen": "2026-09-26",
@@ -5355,7 +6343,7 @@
       },
       "id": "tfc-5ad9774c96fb",
       "ioc_count": 12,
-      "ioc_count_1d": 4,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 12,
       "ioc_count_7d": 4,
       "iocs": [
@@ -5554,193 +6542,6 @@
     },
     {
       "activity": {
-        "2026-09-16": 12
-      },
-      "anchors": {
-        "registered_domains": [
-          "wp-js.com"
-        ],
-        "tags": [],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "Enrichment describes malicious WordPress JavaScript injection infrastructure on wp-js.com subdomains such as stats, static, js, files and cdn, plus relay domains, with zero VirusTotal detections at report time. One reporter (500mk500) flagged 12 IOCs on 2026-09-16.",
-      "enriched_count": 12,
-      "families": {},
-      "first_seen": "2026-09-16",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-09-16",
-        "iocs_365d": 12,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-09-16",
-        "window_days": 365
-      },
-      "id": "tfc-9a26d5b35ccc",
-      "ioc_count": 12,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 12,
-      "ioc_count_7d": 0,
-      "iocs": [
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "domain",
-          "user": "500mk500",
-          "value": "wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "domain",
-          "user": "500mk500",
-          "value": "stats.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "domain",
-          "user": "500mk500",
-          "value": "static.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "domain",
-          "user": "500mk500",
-          "value": "js.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "url",
-          "user": "500mk500",
-          "value": "http://wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "url",
-          "user": "500mk500",
-          "value": "http://stats.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "url",
-          "user": "500mk500",
-          "value": "http://static.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "url",
-          "user": "500mk500",
-          "value": "http://js.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "url",
-          "user": "500mk500",
-          "value": "http://files.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "url",
-          "user": "500mk500",
-          "value": "http://cdn.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "domain",
-          "user": "500mk500",
-          "value": "files.wp-js.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-09-16 19:39:42",
-          "tags": [],
-          "tweet": "https://x.com/500mk500/status/2100308666347884973",
-          "type": "domain",
-          "user": "500mk500",
-          "value": "cdn.wp-js.com"
-        }
-      ],
-      "last_seen": "2026-09-16",
-      "member_cluster_ids": [
-        "tfc-9a26d5b35ccc"
-      ],
-      "name": "wp-js.com WordPress JS injection infrastructure",
-      "reporters": [
-        "500mk500"
-      ],
-      "tags": [],
-      "targeted_brand": null,
-      "targeted_country": null,
-      "targeted_sector": null,
-      "threat_types": {
-        "malware": 12
-      },
-      "ttps": [
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 6,
-        "url": 6
-      }
-    },
-    {
-      "activity": {
         "2026-09-25": 7,
         "2026-10-01": 1,
         "2026-10-08": 1,
@@ -5776,9 +6577,9 @@
       "history": {
         "by_pattern": [],
         "domains_365d": 1,
-        "first_seen_365d": "2025-10-17",
-        "iocs_365d": 72,
-        "iocs_before_window": 61,
+        "first_seen_365d": "2025-10-18",
+        "iocs_365d": 71,
+        "iocs_before_window": 60,
         "last_seen_365d": "2026-10-13",
         "window_days": 365
       },
@@ -6177,266 +6978,6 @@
     },
     {
       "activity": {
-        "2026-09-17": 2,
-        "2026-09-29": 2,
-        "2026-10-05": 2,
-        "2026-10-13": 5
-      },
-      "anchors": {
-        "registered_domains": [
-          "yscf988.club"
-        ],
-        "tags": [
-          "#ValleyRAT"
-        ],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "Domain yscf988.club and several IP addresses are tagged ValleyRAT and described by enrichment as C2 servers in a Silver Fox campaign using DLL sideloading. Hashes are included. Four reporters flagged 11 IOCs from 2026-09-17 to 2026-10-13.",
-      "enriched_count": 11,
-      "families": {
-        "ValleyRAT": 11
-      },
-      "first_seen": "2026-09-17",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-09-17",
-        "iocs_365d": 2,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-09-17",
-        "window_days": 365
-      },
-      "id": "tfc-724bffa012b8",
-      "infra": [
-        {
-          "country": "HK",
-          "ip_count": 2,
-          "org": "AS45102 Alibaba (US) Technology Co., Ltd."
-        },
-        {
-          "country": "CN",
-          "ip_count": 1,
-          "org": "AS55990 Huawei Cloud Service data center"
-        },
-        {
-          "country": "HK",
-          "ip_count": 1,
-          "org": "AS976 CoreNET Inc."
-        }
-      ],
-      "ioc_count": 11,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 11,
-      "ioc_count_7d": 5,
-      "iocs": [
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-13 12:12:13",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/bomccss/status/2109980523649176027",
-          "type": "sha256",
-          "user": "bomccss",
-          "value": "b1871fbbcb58fb660e574096bd9c3886cf9254178d99a96e1b0047e717ce12eb"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-13 05:18:49",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
-          "type": "url",
-          "user": "tdatwja",
-          "value": "http://103.118.42.120:16808"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-13 05:18:49",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
-          "type": "md5",
-          "user": "tdatwja",
-          "value": "a8114e4adcd6063cd6315fa142231b0f"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-13 05:18:49",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
-          "type": "sha256",
-          "user": "tdatwja",
-          "value": "7eca6ff78c9a067293de9ac651b8f1292acc5f098e8e97dcafa1bdef9b8a61c2"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-13 05:18:49",
-          "net": {
-            "country": "HK",
-            "org": "AS976 CoreNET Inc."
-          },
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/tdatwja/status/2109876492050293230",
-          "type": "ip",
-          "user": "tdatwja",
-          "value": "103.118.42.120"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "c2"
-          },
-          "date": "2026-10-05 07:33:00",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/fr0s7_/status/2107011153872273414",
-          "type": "url",
-          "user": "fr0s7_",
-          "value": "http://110.41.6.163"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "c2"
-          },
-          "date": "2026-10-05 07:33:00",
-          "net": {
-            "country": "CN",
-            "org": "AS55990 Huawei Cloud Service data center"
-          },
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/fr0s7_/status/2107011153872273414",
-          "type": "ip",
-          "user": "fr0s7_",
-          "value": "110.41.6.163"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "c2"
-          },
-          "date": "2026-09-29 15:18:10",
-          "net": {
-            "country": "ID",
-            "org": "AS45102 Alibaba (US) Technology Co., Ltd."
-          },
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/fr0s7_/status/2104953889514824075",
-          "type": "ip",
-          "user": "fr0s7_",
-          "value": "8.215.17.221"
-        },
-        {
-          "ai": {
-            "family": "ValleyRAT",
-            "threat_type": "c2"
-          },
-          "date": "2026-09-29 15:18:10",
-          "net": {
-            "country": "HK",
-            "org": "AS45102 Alibaba (US) Technology Co., Ltd."
-          },
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/fr0s7_/status/2104953889514824075",
-          "type": "ip",
-          "user": "fr0s7_",
-          "value": "8.210.231.207"
-        },
-        {
-          "ai": {
-            "family": "ValleyRat",
-            "threat_type": "c2"
-          },
-          "date": "2026-09-17 20:09:40",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2100678596784189589",
-          "type": "domain",
-          "user": "skocherhan",
-          "value": "yscf988.club"
-        },
-        {
-          "ai": {
-            "family": "ValleyRat",
-            "threat_type": "c2"
-          },
-          "date": "2026-09-17 20:09:40",
-          "tags": [
-            "#ValleyRAT"
-          ],
-          "tweet": "https://x.com/skocherhan/status/2100678596784189589",
-          "type": "url",
-          "user": "skocherhan",
-          "value": "http://yscf988.club"
-        }
-      ],
-      "last_seen": "2026-10-13",
-      "member_cluster_ids": [
-        "tfc-724bffa012b8"
-      ],
-      "name": "ValleyRAT C2 infrastructure linked to Silver Fox",
-      "reporters": [
-        "bomccss",
-        "fr0s7_",
-        "skocherhan",
-        "tdatwja"
-      ],
-      "tags": [
-        "#ValleyRAT"
-      ],
-      "targeted_brand": null,
-      "targeted_country": null,
-      "targeted_sector": null,
-      "threat_types": {
-        "c2": 6,
-        "malware": 5
-      },
-      "ttps": [
-        "T1588.001",
-        "T1071.001",
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 1,
-        "ip": 4,
-        "md5": 1,
-        "sha256": 2,
-        "url": 3
-      }
-    },
-    {
-      "activity": {
         "2026-09-24": 2,
         "2026-09-28": 2,
         "2026-09-29": 2,
@@ -6619,197 +7160,6 @@
     },
     {
       "activity": {
-        "2026-09-18": 2,
-        "2026-09-22": 2,
-        "2026-09-29": 2,
-        "2026-10-03": 2,
-        "2026-10-14": 2
-      },
-      "anchors": {
-        "registered_domains": [
-          "harborstonegroup.shop"
-        ],
-        "tags": [],
-        "url_path_patterns": []
-      },
-      "confidence": "low",
-      "context": "Enrichment describes an Americor-branded debt-relief email whose links go to the unrelated domain harborstonegroup.shop. One reporter (TKemmerling) flagged 10 IOCs from 2026-09-18 to 2026-10-14, all tagged #phishing.",
-      "enriched_count": 10,
-      "families": {},
-      "first_seen": "2026-09-18",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-09-09",
-        "iocs_365d": 12,
-        "iocs_before_window": 2,
-        "last_seen_365d": "2026-10-14",
-        "window_days": 365
-      },
-      "id": "tfc-3b8b639332da",
-      "ioc_count": 10,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 10,
-      "ioc_count_7d": 2,
-      "iocs": [
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-14 01:58:47",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2110188536234447094",
-          "type": "url",
-          "user": "TKemmerling",
-          "value": "http://harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-14 01:58:47",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2110188536234447094",
-          "type": "domain",
-          "user": "TKemmerling",
-          "value": "harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-03 01:53:17",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2106200887240859805",
-          "type": "url",
-          "user": "TKemmerling",
-          "value": "http://harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-03 01:53:17",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2106200887240859805",
-          "type": "domain",
-          "user": "TKemmerling",
-          "value": "harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-29 15:46:47",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2104961092757987331",
-          "type": "url",
-          "user": "TKemmerling",
-          "value": "http://harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-29 15:46:47",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2104961092757987331",
-          "type": "domain",
-          "user": "TKemmerling",
-          "value": "harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-22 11:50:26",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2102364899058057621",
-          "type": "url",
-          "user": "TKemmerling",
-          "value": "http://harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-22 11:50:26",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2102364899058057621",
-          "type": "domain",
-          "user": "TKemmerling",
-          "value": "harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-18 16:30:52",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2100985919289639319",
-          "type": "url",
-          "user": "TKemmerling",
-          "value": "http://harborstonegroup.shop"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-18 16:30:52",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/TKemmerling/status/2100985919289639319",
-          "type": "domain",
-          "user": "TKemmerling",
-          "value": "harborstonegroup.shop"
-        }
-      ],
-      "last_seen": "2026-10-14",
-      "member_cluster_ids": [
-        "tfc-3b8b639332da"
-      ],
-      "name": "Americor-branded debt-relief phishing via harborstonegroup.shop",
-      "reporters": [
-        "TKemmerling"
-      ],
-      "tags": [
-        "#phishing"
-      ],
-      "targeted_brand": "Americor",
-      "targeted_country": null,
-      "targeted_sector": "financial-services",
-      "threat_types": {
-        "phishing": 10
-      },
-      "ttps": [
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 5,
-        "url": 5
-      }
-    },
-    {
-      "activity": {
         "2026-10-12": 4,
         "2026-10-13": 4,
         "2026-10-15": 2
@@ -6823,7 +7173,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "Enrichment describes one phishing lure posing as cloud payment or renewal warnings that links to both wickerlookoutdoorfurniture.com and afromantic.com instead of an official service. Both candidates cite the same lure. Reporter TKemmerling flagged 10 IOCs from 2026-10-12 to 2026-10-15, all tagged #phishing.",
+      "context": "Enrichment describes a phishing lure posing as cloud payment or renewal warnings that links to wickerlookoutdoorfurniture.com and afromantic.com instead of an official service. Reporter TKemmerling flagged 10 IOCs from 2026-10-12 to 2026-10-15, all tagged #phishing.",
       "enriched_count": 10,
       "families": {},
       "first_seen": "2026-10-12",
@@ -6978,7 +7328,7 @@
         "tfc-deaa5772e731",
         "tfc-4308618c6b03"
       ],
-      "name": "Cloud payment renewal phishing via afromantic.com and wickerlook domain",
+      "name": "Cloud payment renewal phishing via wickerlook domain",
       "reporters": [
         "TKemmerling"
       ],
@@ -7200,6 +7550,266 @@
     },
     {
       "activity": {
+        "2026-10-05": 1,
+        "2026-10-15": 4,
+        "2026-10-16": 4
+      },
+      "anchors": {
+        "families": [
+          "sliver"
+        ],
+        "registered_domains": [],
+        "tags": [],
+        "url_path_patterns": []
+      },
+      "confidence": "medium",
+      "context": "A bucket of nine IP addresses attributed to the Sliver C2 framework. The grouping comes from enrichment, which cites Shodan results and port 31337 listeners. No domains or lure content are present. Two reporters flagged 9 IOCs from 2026-10-05 to 2026-10-16.",
+      "enriched_count": 9,
+      "families": {
+        "Sliver": 9
+      },
+      "first_seen": "2026-10-05",
+      "id": "tfc-037f20476929",
+      "infra": [
+        {
+          "country": "NL",
+          "ip_count": 2,
+          "org": "AS14061 DigitalOcean, LLC"
+        },
+        {
+          "country": "IE",
+          "ip_count": 1,
+          "org": "AS16509 Amazon.com, Inc."
+        },
+        {
+          "country": "DE",
+          "ip_count": 1,
+          "org": "AS24940 Hetzner Online GmbH"
+        },
+        {
+          "country": "MX",
+          "ip_count": 1,
+          "org": "AS31898 Oracle Corporation"
+        },
+        {
+          "country": "JP",
+          "ip_count": 1,
+          "org": "AS3258 xTom Japan Corporation"
+        },
+        {
+          "country": "HK",
+          "ip_count": 1,
+          "org": "AS401696 cognetcloud INC"
+        },
+        {
+          "country": "FR",
+          "ip_count": 1,
+          "org": "AS51167 Contabo GmbH"
+        },
+        {
+          "country": "TR",
+          "ip_count": 1,
+          "org": "AS57043 HOSTKEY B.V."
+        }
+      ],
+      "ioc_count": 9,
+      "ioc_count_1d": 4,
+      "ioc_count_30d": 9,
+      "ioc_count_7d": 8,
+      "iocs": [
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-16 14:03:21",
+          "net": {
+            "country": "US",
+            "org": "AS14061 DigitalOcean, LLC"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2111095657465516235",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "167.71.16.171"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-16 14:03:21",
+          "net": {
+            "country": "NL",
+            "org": "AS14061 DigitalOcean, LLC"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2111095657465516235",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "159.223.238.117"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-16 14:03:21",
+          "net": {
+            "country": "MX",
+            "org": "AS31898 Oracle Corporation"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2111095657465516235",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "129.121.62.230"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-16 14:03:21",
+          "net": {
+            "country": "HK",
+            "org": "AS401696 cognetcloud INC"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2111095657465516235",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "103.185.249.13"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-15 19:41:00",
+          "net": {
+            "country": "FR",
+            "org": "AS51167 Contabo GmbH"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2110818240863891857",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "62.171.131.66"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-15 19:41:00",
+          "net": {
+            "country": "DE",
+            "org": "AS24940 Hetzner Online GmbH"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2110818240863891857",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "46.225.55.187"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-15 19:41:00",
+          "net": {
+            "country": "JP",
+            "org": "AS3258 xTom Japan Corporation"
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2110818240863891857",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "45.129.8.190"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-15 19:41:00",
+          "net": {
+            "country": "TR",
+            "org": "AS57043 HOSTKEY B.V."
+          },
+          "tags": [
+            "#malware"
+          ],
+          "tweet": "https://x.com/orlof_v/status/2110818240863891857",
+          "type": "ip",
+          "user": "orlof_v",
+          "value": "195.162.69.212"
+        },
+        {
+          "ai": {
+            "family": "Sliver",
+            "threat_type": "c2"
+          },
+          "date": "2026-10-05 09:45:23",
+          "net": {
+            "country": "IE",
+            "org": "AS16509 Amazon.com, Inc."
+          },
+          "tags": [
+            "#C2",
+            "#malware"
+          ],
+          "tweet": "https://x.com/etugenio/status/2107044472198693028",
+          "type": "ip",
+          "user": "etugenio",
+          "value": "34.254.202.253"
+        }
+      ],
+      "last_seen": "2026-10-16",
+      "member_cluster_ids": [
+        "tfc-037f20476929"
+      ],
+      "name": "Sliver C2 server IPs",
+      "reporters": [
+        "etugenio",
+        "orlof_v"
+      ],
+      "tags": [
+        "#C2",
+        "#malware"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "c2": 9
+      },
+      "ttps": [
+        "T1588.002",
+        "T1071.001"
+      ],
+      "types": {
+        "ip": 9
+      }
+    },
+    {
+      "activity": {
         "2026-10-02": 9
       },
       "anchors": {
@@ -7368,6 +7978,355 @@
     },
     {
       "activity": {
+        "2026-10-07": 1,
+        "2026-10-08": 2,
+        "2026-10-16": 6
+      },
+      "anchors": {
+        "registered_domains": [
+          "share.google"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/NONdaNJLwxYGNGiMN",
+          "/NONdaNJLwxYGNGiMN&source=gmail&ust=N&usg=AOvVawNmqhUsfdNGkKtNQQarOdO",
+          "/NSOcLGpLBcyNaacIu",
+          "/QHaVAHYezQEEkXXab",
+          "/VVTNByPZBsKoTFyLV",
+          "/VVTNByPZBsKoTFyLV&source=gmail&ust=N&usg=AOvVawNICXKBy-NwnasCHkxpRzJh",
+          "/xNylDnCpTrclOeMNI"
+        ]
+      },
+      "confidence": "low",
+      "context": "Malware emails, including Japanese-language ones, use share.google short URLs that lead to downloads. Enrichment tags chains as PureLogs and PureRAT and names content.wordwalkers.co.nz as a download host. Three reporters flagged 9 IOCs from 2026-10-07 to 2026-10-16.",
+      "enriched_count": 9,
+      "families": {
+        "PureLogs": 4,
+        "PureRAT": 2
+      },
+      "first_seen": "2026-10-07",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 1,
+        "first_seen_365d": "2026-02-23",
+        "iocs_365d": 21,
+        "iocs_before_window": 12,
+        "last_seen_365d": "2026-10-16",
+        "window_days": 365
+      },
+      "id": "tfc-a9e8e25613bb",
+      "ioc_count": 9,
+      "ioc_count_1d": 4,
+      "ioc_count_30d": 9,
+      "ioc_count_7d": 6,
+      "iocs": [
+        {
+          "ai": {
+            "family": "PureRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 11:05:03",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2111050786839175513",
+          "type": "url",
+          "user": "bomccss",
+          "value": "https://share.google/QHaVAHYezQEEkXXab"
+        },
+        {
+          "ai": {
+            "family": "PureRAT",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 07:40:26",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2110999292425216435",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://share.google/QHaVAHYezQEEkXXab"
+        },
+        {
+          "ai": {
+            "family": "PureLogs",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 06:46:40",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2110985762032501167",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://share.google/5O0da0JLwxYG9GiM0&source=gmail&ust=1792020229421000&usg=AOvVaw2mqhUsfd75GkKt8QQarOdO"
+        },
+        {
+          "ai": {
+            "family": "PureLogs",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 06:46:40",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2110985762032501167",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://share.google/5O0da0JLwxYG9GiM0"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 06:05:21",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2110975364407439829",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://share.google/VVT7ByPZBsKoTFyLV&source=gmail&ust=1792020319700000&usg=AOvVaw3ICXKBy-9wnasCHkxpRzJh"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-16 06:05:21",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2110975364407439829",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://share.google/VVT7ByPZBsKoTFyLV"
+        },
+        {
+          "ai": {
+            "family": "PureLogs",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-08 05:58:55",
+          "tags": [],
+          "tweet": "https://x.com/bomccss/status/2108074644045754866",
+          "type": "url",
+          "user": "bomccss",
+          "value": "https://share.google/6SOcLGpLBcy9aacIu"
+        },
+        {
+          "ai": {
+            "family": "PureLogs",
+            "threat_type": "malware"
+          },
+          "date": "2026-10-08 04:19:58",
+          "tags": [],
+          "tweet": "https://x.com/tdatwja/status/2108049742458691661",
+          "type": "url",
+          "user": "tdatwja",
+          "value": "http://share.google/6SOcLGpLBcy9aacIu"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-07 06:15:16",
+          "tags": [
+            "#phishing"
+          ],
+          "tweet": "https://x.com/romonlyht/status/2107716369232130512",
+          "type": "url",
+          "user": "romonlyht",
+          "value": "https://share.google/x9ylDnCpTrclOeM7I"
+        }
+      ],
+      "last_seen": "2026-10-16",
+      "member_cluster_ids": [
+        "tfc-a9e8e25613bb"
+      ],
+      "name": "Malspam with share.google links to downloads",
+      "reporters": [
+        "bomccss",
+        "romonlyht",
+        "tdatwja"
+      ],
+      "tags": [
+        "#phishing"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "malware": 6,
+        "phishing": 3
+      },
+      "ttps": [],
+      "types": {
+        "url": 9
+      }
+    },
+    {
+      "activity": {
+        "2026-09-23": 2,
+        "2026-09-28": 2,
+        "2026-09-30": 2,
+        "2026-10-16": 3
+      },
+      "anchors": {
+        "registered_domains": [
+          "mygamesonline.org",
+          "scienceontheweb.net"
+        ],
+        "tags": [
+          "#Kimsuky"
+        ],
+        "url_path_patterns": [
+          "/setting.php"
+        ]
+      },
+      "confidence": "low",
+      "context": "Subdomains on mygamesonline.org and scienceontheweb.net are tagged Kimsuky and serve /setting.php with host and user name parameters. Enrichment links them to a Korean-named health checkup ZIP lure whose payload contacts a remote PHP endpoint. Two reporters flagged 9 IOCs from 2026-09-23 to 2026-10-16.",
+      "enriched_count": 7,
+      "families": {},
+      "first_seen": "2026-09-23",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 2,
+        "first_seen_365d": "2026-08-17",
+        "iocs_365d": 13,
+        "iocs_before_window": 4,
+        "last_seen_365d": "2026-10-16",
+        "window_days": 365
+      },
+      "id": "tfc-f0106d21d108",
+      "ioc_count": 9,
+      "ioc_count_1d": 1,
+      "ioc_count_30d": 9,
+      "ioc_count_7d": 3,
+      "iocs": [
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-16 22:04:23",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2111216711831810173",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://asdkjcn30r9.mygamesonline.org/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
+        },
+        {
+          "date": "2026-10-16 05:49:40",
+          "tags": [
+            "#Kimsuky"
+          ],
+          "tweet": "https://x.com/copy_and_paster/status/2110971416963326442",
+          "type": "url",
+          "user": "copy_and_paster",
+          "value": "http://asdkjcn30r9.mygamesonline.org"
+        },
+        {
+          "date": "2026-10-16 05:49:40",
+          "tags": [
+            "#Kimsuky"
+          ],
+          "tweet": "https://x.com/copy_and_paster/status/2110971416963326442",
+          "type": "domain",
+          "user": "copy_and_paster",
+          "value": "asdkjcn30r9.mygamesonline.org"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 13:11:29",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2105284398446731348",
+          "type": "domain",
+          "user": "smica83",
+          "value": "xv57j3d.scienceontheweb.net"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-30 13:11:29",
+          "tags": [],
+          "tweet": "https://x.com/smica83/status/2105284398446731348",
+          "type": "url",
+          "user": "smica83",
+          "value": "http://xv57j3d.scienceontheweb.net/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-09-28 00:30:38",
+          "tags": [
+            "#Kimsuky"
+          ],
+          "tweet": "https://x.com/copy_and_paster/status/2104368146878693602",
+          "type": "domain",
+          "user": "copy_and_paster",
+          "value": "nyqxa4.scienceontheweb.net"
+        },
+        {
+          "ai": {
+            "threat_type": "other"
+          },
+          "date": "2026-09-28 00:30:38",
+          "tags": [
+            "#Kimsuky"
+          ],
+          "tweet": "https://x.com/copy_and_paster/status/2104368146878693602",
+          "type": "url",
+          "user": "copy_and_paster",
+          "value": "http://nyqxa4.scienceontheweb.net"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-23 04:18:25",
+          "tags": [
+            "#Kimsuky"
+          ],
+          "tweet": "https://x.com/copy_and_paster/status/2102613534228300007",
+          "type": "domain",
+          "user": "copy_and_paster",
+          "value": "xv57j3d.scienceontheweb.net"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-09-23 04:18:25",
+          "tags": [
+            "#Kimsuky"
+          ],
+          "tweet": "https://x.com/copy_and_paster/status/2102613534228300007",
+          "type": "url",
+          "user": "copy_and_paster",
+          "value": "http://xv57j3d.scienceontheweb.net"
+        }
+      ],
+      "last_seen": "2026-10-16",
+      "member_cluster_ids": [
+        "tfc-f0106d21d108"
+      ],
+      "name": "Kimsuky setting.php beacons on free-hosting subdomains",
+      "reporters": [
+        "copy_and_paster",
+        "smica83"
+      ],
+      "tags": [
+        "#Kimsuky"
+      ],
+      "targeted_brand": null,
+      "targeted_country": null,
+      "targeted_sector": null,
+      "threat_types": {
+        "malware": 5,
+        "other": 2
+      },
+      "ttps": [
+        "T1583.006"
+      ],
+      "types": {
+        "domain": 4,
+        "url": 5
+      }
+    },
+    {
+      "activity": {
         "2026-10-05": 2,
         "2026-10-07": 2,
         "2026-10-09": 2,
@@ -7400,7 +8359,7 @@
       "ioc_count": 8,
       "ioc_count_1d": 0,
       "ioc_count_30d": 8,
-      "ioc_count_7d": 4,
+      "ioc_count_7d": 2,
       "iocs": [
         {
           "ai": {
@@ -7510,498 +8469,6 @@
       },
       "ttps": [
         "T1608.001"
-      ],
-      "types": {
-        "domain": 4,
-        "url": 4
-      }
-    },
-    {
-      "activity": {
-        "2026-10-02": 3,
-        "2026-10-09": 5
-      },
-      "anchors": {
-        "registered_domains": [],
-        "tags": [
-          "#AgentTesla"
-        ],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "A bucket of file hashes attributed to AgentTesla. The grouping comes from enrichment, which describes Japanese-language invoice malspam with a RAR containing JS, Telegram API exfiltration, and a fake bank receipt MSI variant. No domains are present. Three reporters flagged 8 IOCs from 2026-10-02 to 2026-10-09.",
-      "enriched_count": 8,
-      "families": {
-        "Agent Tesla": 8
-      },
-      "first_seen": "2026-10-02",
-      "id": "tfc-4fba58121273",
-      "ioc_count": 8,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 8,
-      "ioc_count_7d": 5,
-      "iocs": [
-        {
-          "ai": {
-            "family": "Agent Tesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 16:26:15",
-          "tags": [],
-          "tweet": "https://x.com/SpiderLabs/status/2108594904385372616",
-          "type": "sha256",
-          "user": "SpiderLabs",
-          "value": "ddc85ad4885dd3da9ac8de4c3bc0392c0b2ccee075b79c8564ba71394d5b7aa6"
-        },
-        {
-          "ai": {
-            "family": "Agent Tesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 16:26:15",
-          "tags": [],
-          "tweet": "https://x.com/SpiderLabs/status/2108594904385372616",
-          "type": "sha256",
-          "user": "SpiderLabs",
-          "value": "bbc8388371a9a41079191d88893e4599964c6b6246d97953de5c94033b19f900"
-        },
-        {
-          "ai": {
-            "family": "Agent Tesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 16:26:15",
-          "tags": [],
-          "tweet": "https://x.com/SpiderLabs/status/2108594904385372616",
-          "type": "sha256",
-          "user": "SpiderLabs",
-          "value": "52f0c0230b580e2fdf53a378b5c6d0db9829af900dae43e0df8f18635cd9f0c1"
-        },
-        {
-          "ai": {
-            "family": "Agent Tesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 16:26:15",
-          "tags": [],
-          "tweet": "https://x.com/SpiderLabs/status/2108594904385372616",
-          "type": "sha256",
-          "user": "SpiderLabs",
-          "value": "14f920e611772134999e437c05956970aa4ac8e1a07ba65568e7c24d5b641390"
-        },
-        {
-          "ai": {
-            "family": "Agent Tesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 16:26:15",
-          "tags": [],
-          "tweet": "https://x.com/SpiderLabs/status/2108594904385372616",
-          "type": "sha256",
-          "user": "SpiderLabs",
-          "value": "11ca4a2f90b53a58477bf86d565f73e0ada6846a8bab7ff110ffedc4ee8b85be"
-        },
-        {
-          "ai": {
-            "family": "AgentTesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-02 09:10:53",
-          "tags": [
-            "#AgentTesla"
-          ],
-          "tweet": "https://x.com/tdatwja/status/2105948626317193465",
-          "type": "md5",
-          "user": "tdatwja",
-          "value": "e12a3fe0030d91570c651c4615899962"
-        },
-        {
-          "ai": {
-            "family": "AgentTesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-02 09:10:53",
-          "tags": [
-            "#AgentTesla"
-          ],
-          "tweet": "https://x.com/tdatwja/status/2105948626317193465",
-          "type": "sha256",
-          "user": "tdatwja",
-          "value": "b15494c671395c45978800229a26fbfcb1af47337974e120e6885cab21b6578c"
-        },
-        {
-          "ai": {
-            "family": "AgentTesla",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-02 07:16:35",
-          "tags": [
-            "#AgentTesla"
-          ],
-          "tweet": "https://x.com/bomccss/status/2105919862317175185",
-          "type": "sha256",
-          "user": "bomccss",
-          "value": "e9e6a9d8a06d7be611be2a8f4a6f53388e01512c76e2d222ce39d737705a28a1"
-        }
-      ],
-      "last_seen": "2026-10-09",
-      "member_cluster_ids": [
-        "tfc-4fba58121273"
-      ],
-      "name": "AgentTesla malspam samples with Japanese invoice lure",
-      "reporters": [
-        "SpiderLabs",
-        "bomccss",
-        "tdatwja"
-      ],
-      "tags": [
-        "#AgentTesla"
-      ],
-      "targeted_brand": null,
-      "targeted_country": null,
-      "targeted_sector": null,
-      "threat_types": {
-        "malware": 8
-      },
-      "ttps": [
-        "T1588.001"
-      ],
-      "types": {
-        "md5": 1,
-        "sha256": 7
-      }
-    },
-    {
-      "activity": {
-        "2026-10-07": 2,
-        "2026-10-08": 4,
-        "2026-10-09": 2
-      },
-      "anchors": {
-        "registered_domains": [
-          "proxy08.com"
-        ],
-        "tags": [],
-        "url_path_patterns": []
-      },
-      "confidence": "medium",
-      "context": "Subdomains of proxy08.com named docsend, wechat, waaako and element act as C2 for the SONOMA macOS stealer, which enrichment says is delivered as fake DocSend, WeChat and Waaako installer DMGs. Two reporters flagged 8 IOCs from 2026-10-07 to 2026-10-09.",
-      "enriched_count": 8,
-      "families": {
-        "SONOMA Mac Stealer": 4,
-        "Sonoma Stealer": 2
-      },
-      "first_seen": "2026-10-07",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-10-07",
-        "iocs_365d": 8,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-10-09",
-        "window_days": 365
-      },
-      "id": "tfc-71cb3bf2e253",
-      "ioc_count": 8,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 8,
-      "ioc_count_7d": 2,
-      "iocs": [
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 20:57:16",
-          "tags": [],
-          "tweet": "https://x.com/L0Psec/status/2108663107824345098",
-          "type": "url",
-          "user": "L0Psec",
-          "value": "http://element.proxy08.com"
-        },
-        {
-          "ai": {
-            "threat_type": "malware"
-          },
-          "date": "2026-10-09 20:57:16",
-          "tags": [],
-          "tweet": "https://x.com/L0Psec/status/2108663107824345098",
-          "type": "domain",
-          "user": "L0Psec",
-          "value": "element.proxy08.com"
-        },
-        {
-          "ai": {
-            "family": "SONOMA Mac Stealer",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-08 11:29:30",
-          "tags": [],
-          "tweet": "https://x.com/suyog41/status/2108157834189807871",
-          "type": "url",
-          "user": "suyog41",
-          "value": "http://docsend.proxy08.com"
-        },
-        {
-          "ai": {
-            "family": "SONOMA Mac Stealer",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-08 11:29:30",
-          "tags": [],
-          "tweet": "https://x.com/suyog41/status/2108157834189807871",
-          "type": "domain",
-          "user": "suyog41",
-          "value": "docsend.proxy08.com"
-        },
-        {
-          "ai": {
-            "family": "SONOMA Mac Stealer",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-08 06:01:08",
-          "tags": [],
-          "tweet": "https://x.com/suyog41/status/2108075199564275893",
-          "type": "domain",
-          "user": "suyog41",
-          "value": "wechat.proxy08.com"
-        },
-        {
-          "ai": {
-            "family": "SONOMA Mac Stealer",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-08 06:01:08",
-          "tags": [],
-          "tweet": "https://x.com/suyog41/status/2108075199564275893",
-          "type": "url",
-          "user": "suyog41",
-          "value": "http://wechat.proxy08.com"
-        },
-        {
-          "ai": {
-            "family": "Sonoma Stealer",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-07 10:02:21",
-          "tags": [],
-          "tweet": "https://x.com/suyog41/status/2107773515126731248",
-          "type": "domain",
-          "user": "suyog41",
-          "value": "waaako.proxy08.com"
-        },
-        {
-          "ai": {
-            "family": "Sonoma Stealer",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-07 10:02:21",
-          "tags": [],
-          "tweet": "https://x.com/suyog41/status/2107773515126731248",
-          "type": "url",
-          "user": "suyog41",
-          "value": "http://waaako.proxy08.com"
-        }
-      ],
-      "last_seen": "2026-10-09",
-      "member_cluster_ids": [
-        "tfc-71cb3bf2e253"
-      ],
-      "name": "SONOMA macOS stealer C2 on proxy08.com subdomains",
-      "reporters": [
-        "L0Psec",
-        "suyog41"
-      ],
-      "tags": [],
-      "targeted_brand": "DocSend",
-      "targeted_country": null,
-      "targeted_sector": "technology",
-      "threat_types": {
-        "malware": 8
-      },
-      "ttps": [
-        "T1684.001",
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 4,
-        "url": 4
-      }
-    },
-    {
-      "activity": {
-        "2026-09-16": 2,
-        "2026-09-18": 2,
-        "2026-09-22": 2,
-        "2026-10-13": 2
-      },
-      "anchors": {
-        "registered_domains": [
-          "loja1-havan.com",
-          "lojas-havan.com",
-          "pagina-clientes-havan.com",
-          "site-google-havan.com"
-        ],
-        "tags": [],
-        "url_path_patterns": [
-          "/produto/N"
-        ]
-      },
-      "confidence": "medium",
-      "context": "Four domains containing 'havan' (loja1-havan.com, lojas-havan.com, pagina-clientes-havan.com, site-google-havan.com) serve the same /produto/32812 fake product page. Enrichment describes a Brazilian clone of the Havan retailer used for phishing and payment fraud. One reporter (Coolcarlos17) flagged 8 IOCs from 2026-09-16 to 2026-10-13.",
-      "enriched_count": 8,
-      "families": {},
-      "first_seen": "2026-09-16",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 4,
-        "first_seen_365d": "2026-09-16",
-        "iocs_365d": 8,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-10-13",
-        "window_days": 365
-      },
-      "id": "tfc-d2fe209f2218",
-      "ioc_count": 8,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 8,
-      "ioc_count_7d": 2,
-      "iocs": [
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-13 14:33:42",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2110016132048363843",
-          "type": "domain",
-          "user": "Coolcarlos17",
-          "value": "pagina-clientes-havan.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-13 14:33:42",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2110016132048363843",
-          "type": "url",
-          "user": "Coolcarlos17",
-          "value": "https://pagina-clientes-havan.com/produto/32812"
-        },
-        {
-          "ai": {
-            "threat_type": "scam"
-          },
-          "date": "2026-09-22 19:03:30",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2102473881315643843",
-          "type": "domain",
-          "user": "Coolcarlos17",
-          "value": "site-google-havan.com"
-        },
-        {
-          "ai": {
-            "threat_type": "scam"
-          },
-          "date": "2026-09-22 19:03:30",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2102473881315643843",
-          "type": "url",
-          "user": "Coolcarlos17",
-          "value": "https://site-google-havan.com/produto/32812"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-18 18:20:04",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2101013400574632275",
-          "type": "domain",
-          "user": "Coolcarlos17",
-          "value": "loja1-havan.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-09-18 18:20:04",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2101013400574632275",
-          "type": "url",
-          "user": "Coolcarlos17",
-          "value": "https://loja1-havan.com/produto/32812"
-        },
-        {
-          "ai": {
-            "threat_type": "scam"
-          },
-          "date": "2026-09-16 16:07:16",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2100255204469870993",
-          "type": "domain",
-          "user": "Coolcarlos17",
-          "value": "lojas-havan.com"
-        },
-        {
-          "ai": {
-            "threat_type": "scam"
-          },
-          "date": "2026-09-16 16:07:16",
-          "tags": [
-            "#phishing",
-            "#scam"
-          ],
-          "tweet": "https://x.com/Coolcarlos17/status/2100255204469870993",
-          "type": "url",
-          "user": "Coolcarlos17",
-          "value": "https://lojas-havan.com/produto/32812"
-        }
-      ],
-      "last_seen": "2026-10-13",
-      "member_cluster_ids": [
-        "tfc-d2fe209f2218"
-      ],
-      "name": "Havan retailer clone shops on havan-named domains",
-      "reporters": [
-        "Coolcarlos17"
-      ],
-      "tags": [
-        "#phishing",
-        "#scam"
-      ],
-      "targeted_brand": "Havan",
-      "targeted_country": "BR",
-      "targeted_sector": "retail",
-      "threat_types": {
-        "phishing": 4,
-        "scam": 4
-      },
-      "ttps": [
-        "T1684.001",
-        "T1583.001",
-        "T1566.002"
       ],
       "types": {
         "domain": 4,
@@ -8169,7 +8636,7 @@
         "url_path_patterns": []
       },
       "confidence": "low",
-      "context": "Enrichment describes an Americor-style debt-relief lure sent from portfoliomoneyline.com that links to truenorthworks.fun, flagged by threat intelligence providers. Reporter TKemmerling flagged 6 IOCs from 2026-09-22 to 2026-10-15, all tagged #phishing.",
+      "context": "Enrichment describes an Americor debt-relief lure sent from portfoliomoneyline.com that links to truenorthworks.fun, flagged by threat intelligence providers. Reporter TKemmerling flagged 6 IOCs from 2026-09-22 to 2026-10-15, all tagged #phishing.",
       "enriched_count": 6,
       "families": {},
       "first_seen": "2026-09-22",
@@ -8278,9 +8745,9 @@
       "tags": [
         "#phishing"
       ],
-      "targeted_brand": null,
+      "targeted_brand": "Americor",
       "targeted_country": null,
-      "targeted_sector": null,
+      "targeted_sector": "financial-services",
       "threat_types": {
         "phishing": 6
       },
@@ -8436,6 +8903,157 @@
     },
     {
       "activity": {
+        "2026-09-18": 2,
+        "2026-09-22": 2,
+        "2026-10-13": 2
+      },
+      "anchors": {
+        "registered_domains": [
+          "loja1-havan.com",
+          "pagina-clientes-havan.com",
+          "site-google-havan.com"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/produto/N"
+        ]
+      },
+      "confidence": "medium",
+      "context": "Domains containing 'havan' (loja1-havan.com, pagina-clientes-havan.com, site-google-havan.com) serve the same /produto/32812 fake product page. Enrichment describes a Brazilian clone of the Havan retailer used for phishing and payment fraud. One reporter (Coolcarlos17) flagged 6 IOCs from 2026-09-18 to 2026-10-13.",
+      "enriched_count": 6,
+      "families": {},
+      "first_seen": "2026-09-18",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 3,
+        "first_seen_365d": "2026-09-18",
+        "iocs_365d": 6,
+        "iocs_before_window": 0,
+        "last_seen_365d": "2026-10-13",
+        "window_days": 365
+      },
+      "id": "tfc-d2fe209f2218",
+      "ioc_count": 6,
+      "ioc_count_1d": 0,
+      "ioc_count_30d": 6,
+      "ioc_count_7d": 2,
+      "iocs": [
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-13 14:33:42",
+          "tags": [
+            "#phishing",
+            "#scam"
+          ],
+          "tweet": "https://x.com/Coolcarlos17/status/2110016132048363843",
+          "type": "domain",
+          "user": "Coolcarlos17",
+          "value": "pagina-clientes-havan.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-10-13 14:33:42",
+          "tags": [
+            "#phishing",
+            "#scam"
+          ],
+          "tweet": "https://x.com/Coolcarlos17/status/2110016132048363843",
+          "type": "url",
+          "user": "Coolcarlos17",
+          "value": "https://pagina-clientes-havan.com/produto/32812"
+        },
+        {
+          "ai": {
+            "threat_type": "scam"
+          },
+          "date": "2026-09-22 19:03:30",
+          "tags": [
+            "#phishing",
+            "#scam"
+          ],
+          "tweet": "https://x.com/Coolcarlos17/status/2102473881315643843",
+          "type": "domain",
+          "user": "Coolcarlos17",
+          "value": "site-google-havan.com"
+        },
+        {
+          "ai": {
+            "threat_type": "scam"
+          },
+          "date": "2026-09-22 19:03:30",
+          "tags": [
+            "#phishing",
+            "#scam"
+          ],
+          "tweet": "https://x.com/Coolcarlos17/status/2102473881315643843",
+          "type": "url",
+          "user": "Coolcarlos17",
+          "value": "https://site-google-havan.com/produto/32812"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-18 18:20:04",
+          "tags": [
+            "#phishing",
+            "#scam"
+          ],
+          "tweet": "https://x.com/Coolcarlos17/status/2101013400574632275",
+          "type": "domain",
+          "user": "Coolcarlos17",
+          "value": "loja1-havan.com"
+        },
+        {
+          "ai": {
+            "threat_type": "phishing"
+          },
+          "date": "2026-09-18 18:20:04",
+          "tags": [
+            "#phishing",
+            "#scam"
+          ],
+          "tweet": "https://x.com/Coolcarlos17/status/2101013400574632275",
+          "type": "url",
+          "user": "Coolcarlos17",
+          "value": "https://loja1-havan.com/produto/32812"
+        }
+      ],
+      "last_seen": "2026-10-13",
+      "member_cluster_ids": [
+        "tfc-d2fe209f2218"
+      ],
+      "name": "Havan retailer clone shops on havan-named domains",
+      "reporters": [
+        "Coolcarlos17"
+      ],
+      "tags": [
+        "#phishing",
+        "#scam"
+      ],
+      "targeted_brand": "Havan",
+      "targeted_country": "BR",
+      "targeted_sector": "retail",
+      "threat_types": {
+        "phishing": 4,
+        "scam": 2
+      },
+      "ttps": [
+        "T1684.001",
+        "T1583.001",
+        "T1566.002"
+      ],
+      "types": {
+        "domain": 3,
+        "url": 3
+      }
+    },
+    {
+      "activity": {
         "2026-10-01": 2,
         "2026-10-02": 2,
         "2026-10-16": 2
@@ -8453,8 +9071,10 @@
       },
       "confidence": "low",
       "context": "Three domains, docsewallet.com, luxfab.luxe and strutsupportsystems.com, serve the same /Adobe_Installer.html path. Enrichment describes Adobe-themed pages delivering a ScreenConnect installer and, in one case, an OpsBridge RMM MSI. Kept apart from the ScreenConnect cluster because the path and domains differ. Reporter patialavii flagged 6 IOCs from 2026-10-01 to 2026-10-16.",
-      "enriched_count": 4,
-      "families": {},
+      "enriched_count": 6,
+      "families": {
+        "ScreenConnect": 2
+      },
       "first_seen": "2026-10-01",
       "history": {
         "by_pattern": [],
@@ -8467,11 +9087,15 @@
       },
       "id": "tfc-e65d5eb33d1a",
       "ioc_count": 6,
-      "ioc_count_1d": 2,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 6,
       "ioc_count_7d": 2,
       "iocs": [
         {
+          "ai": {
+            "family": "ScreenConnect",
+            "threat_type": "phishing"
+          },
           "date": "2026-10-16 05:14:57",
           "tags": [
             "#phishing"
@@ -8482,6 +9106,10 @@
           "value": "https://docsewallet.com/Adobe_Installer.html"
         },
         {
+          "ai": {
+            "family": "ScreenConnect",
+            "threat_type": "phishing"
+          },
           "date": "2026-10-16 05:14:57",
           "tags": [
             "#phishing"
@@ -8546,7 +9174,7 @@
       ],
       "name": "Fake Adobe_Installer.html pages pushing RMM installers",
       "related": {
-        "checked_at": "2026-10-16T06:28:08Z",
+        "checked_at": "2026-10-17T06:28:03Z",
         "match_count": 2,
         "matches": [
           {
@@ -8574,7 +9202,7 @@
       "targeted_country": null,
       "targeted_sector": "technology",
       "threat_types": {
-        "phishing": 4
+        "phishing": 6
       },
       "ttps": [
         "T1036.005",
@@ -8741,7 +9369,7 @@
       },
       "id": "tfc-19336502fa27",
       "ioc_count": 5,
-      "ioc_count_1d": 2,
+      "ioc_count_1d": 0,
       "ioc_count_30d": 5,
       "ioc_count_7d": 5,
       "iocs": [
@@ -8985,7 +9613,7 @@
       "ioc_count": 4,
       "ioc_count_1d": 0,
       "ioc_count_30d": 4,
-      "ioc_count_7d": 4,
+      "ioc_count_7d": 0,
       "iocs": [
         {
           "ai": {
@@ -9103,7 +9731,7 @@
       "ioc_count": 4,
       "ioc_count_1d": 0,
       "ioc_count_30d": 4,
-      "ioc_count_7d": 4,
+      "ioc_count_7d": 0,
       "iocs": [
         {
           "ai": {
@@ -9757,106 +10385,6 @@
     },
     {
       "activity": {
-        "2026-10-15": 4
-      },
-      "anchors": {
-        "registered_domains": [
-          "myssologin.com"
-        ],
-        "tags": [],
-        "url_path_patterns": []
-      },
-      "confidence": "low",
-      "context": "Subdomains of myssologin.com are named after law firms (cooley, paulweiss). Enrichment attributes them to UNC6671 and describes Microsoft OAuth login impersonation aimed at the legal sector. Reporter PadelLifeUK flagged 4 IOCs on 2026-10-15. Kept separate from login-options.com because the domain and lure differ.",
-      "enriched_count": 4,
-      "families": {},
-      "first_seen": "2026-10-15",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-10-15",
-        "iocs_365d": 4,
-        "iocs_before_window": 0,
-        "last_seen_365d": "2026-10-15",
-        "window_days": 365
-      },
-      "id": "tfc-8ccf313da96f",
-      "ioc_count": 4,
-      "ioc_count_1d": 4,
-      "ioc_count_30d": 4,
-      "ioc_count_7d": 4,
-      "iocs": [
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 20:43:38",
-          "tags": [],
-          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
-          "type": "domain",
-          "user": "PadelLifeUK",
-          "value": "paulweiss.myssologin.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 20:43:38",
-          "tags": [],
-          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
-          "type": "url",
-          "user": "PadelLifeUK",
-          "value": "http://paulweiss.myssologin.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 20:43:38",
-          "tags": [],
-          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
-          "type": "url",
-          "user": "PadelLifeUK",
-          "value": "http://cooley.myssologin.com"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-15 20:43:38",
-          "tags": [],
-          "tweet": "https://x.com/PadelLifeUK/status/2110834004647641338",
-          "type": "domain",
-          "user": "PadelLifeUK",
-          "value": "cooley.myssologin.com"
-        }
-      ],
-      "last_seen": "2026-10-15",
-      "member_cluster_ids": [
-        "tfc-8ccf313da96f"
-      ],
-      "name": "UNC6671 Microsoft OAuth lookalikes on myssologin.com",
-      "reporters": [
-        "PadelLifeUK"
-      ],
-      "tags": [],
-      "targeted_brand": "Microsoft",
-      "targeted_country": null,
-      "targeted_sector": "technology",
-      "threat_types": {
-        "phishing": 4
-      },
-      "ttps": [
-        "T1684.001",
-        "T1583.001"
-      ],
-      "types": {
-        "domain": 2,
-        "url": 2
-      }
-    },
-    {
-      "activity": {
         "2026-10-10": 2,
         "2026-10-14": 2
       },
@@ -10222,6 +10750,97 @@
         "2026-10-13": 3
       },
       "anchors": {
+        "registered_domains": [
+          "easydriverhub.com"
+        ],
+        "tags": [],
+        "url_path_patterns": [
+          "/downloads/intel-multi-drv.fix"
+        ]
+      },
+      "confidence": "low",
+      "context": "easydriverhub.com serves /downloads/intel-multi-drv.fix. Enrichment describes a Python info stealer posing as an NVIDIA driver update that collects browser data, uploads to 198.37.111.206 and keeps a TCP 8008 channel. One reporter (TheM3gatr0n) flagged 3 IOCs on 2026-10-13.",
+      "enriched_count": 3,
+      "families": {},
+      "first_seen": "2026-10-13",
+      "history": {
+        "by_pattern": [],
+        "domains_365d": 1,
+        "first_seen_365d": "2026-10-13",
+        "iocs_365d": 3,
+        "iocs_before_window": 0,
+        "last_seen_365d": "2026-10-13",
+        "window_days": 365
+      },
+      "id": "tfc-3e1cf6d02e96",
+      "ioc_count": 3,
+      "ioc_count_1d": 0,
+      "ioc_count_30d": 3,
+      "ioc_count_7d": 3,
+      "iocs": [
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 11:22:36",
+          "tags": [],
+          "tweet": "https://x.com/TheM3gatr0n/status/2109968038900466012",
+          "type": "url",
+          "user": "TheM3gatr0n",
+          "value": "https://easydriverhub.com/downloads/intel-multi-drv.fix"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 11:22:36",
+          "tags": [],
+          "tweet": "https://x.com/TheM3gatr0n/status/2109968038900466012",
+          "type": "url",
+          "user": "TheM3gatr0n",
+          "value": "http://easydriverhub.com"
+        },
+        {
+          "ai": {
+            "threat_type": "malware"
+          },
+          "date": "2026-10-13 11:22:36",
+          "tags": [],
+          "tweet": "https://x.com/TheM3gatr0n/status/2109968038900466012",
+          "type": "domain",
+          "user": "TheM3gatr0n",
+          "value": "easydriverhub.com"
+        }
+      ],
+      "last_seen": "2026-10-13",
+      "member_cluster_ids": [
+        "tfc-3e1cf6d02e96"
+      ],
+      "name": "Fake NVIDIA driver update stealer on easydriverhub.com",
+      "reporters": [
+        "TheM3gatr0n"
+      ],
+      "tags": [],
+      "targeted_brand": "NVIDIA",
+      "targeted_country": null,
+      "targeted_sector": "technology",
+      "threat_types": {
+        "malware": 3
+      },
+      "ttps": [
+        "T1583.001",
+        "T1036.005"
+      ],
+      "types": {
+        "domain": 1,
+        "url": 2
+      }
+    },
+    {
+      "activity": {
+        "2026-10-13": 3
+      },
+      "anchors": {
         "registered_domains": [],
         "tags": [
           "#SalatStealer"
@@ -10400,7 +11019,7 @@
       ],
       "name": "Wells Fargo OTP phishing on compromised WordPress site",
       "related": {
-        "checked_at": "2026-10-16T06:28:08Z",
+        "checked_at": "2026-10-17T06:28:03Z",
         "match_count": 1,
         "matches": [
           {
@@ -10431,106 +11050,6 @@
       "types": {
         "domain": 1,
         "url": 2
-      }
-    },
-    {
-      "activity": {
-        "2026-10-07": 1,
-        "2026-10-08": 2
-      },
-      "anchors": {
-        "registered_domains": [
-          "share.google"
-        ],
-        "tags": [],
-        "url_path_patterns": [
-          "/NSOcLGpLBcyNaacIu",
-          "/xNylDnCpTrclOeMNI"
-        ]
-      },
-      "confidence": "low",
-      "context": "Malware emails, including Japanese-language ones, use share.google short URLs that lead to downloads. Enrichment tags one chain as PureLogs and names content.wordwalkers.co.nz as a download host; one summary describes an Amazon-themed lure. Three reporters flagged 3 IOCs from 2026-10-07 to 2026-10-08.",
-      "enriched_count": 3,
-      "families": {
-        "PureLogs": 2
-      },
-      "first_seen": "2026-10-07",
-      "history": {
-        "by_pattern": [],
-        "domains_365d": 1,
-        "first_seen_365d": "2026-02-23",
-        "iocs_365d": 17,
-        "iocs_before_window": 12,
-        "last_seen_365d": "2026-10-16",
-        "window_days": 365
-      },
-      "id": "tfc-a9e8e25613bb",
-      "ioc_count": 3,
-      "ioc_count_1d": 0,
-      "ioc_count_30d": 3,
-      "ioc_count_7d": 0,
-      "iocs": [
-        {
-          "ai": {
-            "family": "PureLogs",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-08 05:58:55",
-          "tags": [],
-          "tweet": "https://x.com/bomccss/status/2108074644045754866",
-          "type": "url",
-          "user": "bomccss",
-          "value": "https://share.google/6SOcLGpLBcy9aacIu"
-        },
-        {
-          "ai": {
-            "family": "PureLogs",
-            "threat_type": "malware"
-          },
-          "date": "2026-10-08 04:19:58",
-          "tags": [],
-          "tweet": "https://x.com/tdatwja/status/2108049742458691661",
-          "type": "url",
-          "user": "tdatwja",
-          "value": "http://share.google/6SOcLGpLBcy9aacIu"
-        },
-        {
-          "ai": {
-            "threat_type": "phishing"
-          },
-          "date": "2026-10-07 06:15:16",
-          "tags": [
-            "#phishing"
-          ],
-          "tweet": "https://x.com/romonlyht/status/2107716369232130512",
-          "type": "url",
-          "user": "romonlyht",
-          "value": "https://share.google/x9ylDnCpTrclOeM7I"
-        }
-      ],
-      "last_seen": "2026-10-08",
-      "member_cluster_ids": [
-        "tfc-a9e8e25613bb"
-      ],
-      "name": "Malspam with share.google links to downloads",
-      "reporters": [
-        "bomccss",
-        "romonlyht",
-        "tdatwja"
-      ],
-      "tags": [
-        "#phishing"
-      ],
-      "targeted_brand": null,
-      "targeted_country": null,
-      "targeted_sector": null,
-      "threat_types": {
-        "malware": 2,
-        "phishing": 1
-      },
-      "ttps": [],
-      "types": {
-        "url": 3
       }
     },
     {
@@ -10704,7 +11223,7 @@
       ],
       "name": "Microsoft mailbox upgrade phishing on auth.properties",
       "related": {
-        "checked_at": "2026-10-16T06:28:08Z",
+        "checked_at": "2026-10-17T06:28:03Z",
         "match_count": 1,
         "matches": [
           {
@@ -10840,7 +11359,7 @@
       }
     }
   ],
-  "generated_at": "2026-10-16T06:28:08Z",
+  "generated_at": "2026-10-17T06:28:03Z",
   "stale": false,
   "stale_since": null,
   "version": 1,
