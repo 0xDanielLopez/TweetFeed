@@ -1,10 +1,10 @@
 # TweetFeed blocklist - domains registered 30 days or less before they were reported
 # Window: 30 days
-# Entries: 456
-# Updated: 2026-10-17T06:15:15Z
+# Entries: 457
+# Updated: 2026-10-17T12:45:13Z
 # Domains whose registrable apex was created 30 days or less before the first TweetFeed report
 # Only apexes with a known RDAP creation date are considered (about 6 in 10 reported domains); a domain reported in the current tick can appear one tick later
-# Registration check refreshed: 2026-10-17T06:00:31Z
+# Registration check refreshed: 2026-10-17T12:30:35Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -224,6 +224,7 @@ login-options.com
 login.rrrxxw.com
 loja-ma-ga-zine-luiza.com
 loja1-havan.com
+lojalivretos.store
 lollu.lol
 loushiha-jprakutanziu.com
 lovelyday-app.com

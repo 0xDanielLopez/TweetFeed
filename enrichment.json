@@ -1,5 +1,5 @@
 {
-  "count": 2890,
+  "count": 2887,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 2,
@@ -935,6 +935,22 @@
       "type": "ip",
       "value": "104.233.217.108"
     },
+    "104.237.154.191": {
+      "confidence": 0.9,
+      "date": "2026-10-17 09:58:33",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2111396440815947970",
+      "type": "url",
+      "value": "http://104.237.154.191"
+    },
     "105.224.242.90": {
       "confidence": 0.8,
       "date": "2026-10-05 12:46:56",
@@ -992,6 +1008,22 @@
       "tweet_id": "2107742407831982563",
       "type": "ip",
       "value": "106.153.250.12"
+    },
+    "106.55.34.199": {
+      "confidence": 0.9,
+      "date": "2026-10-17 09:58:33",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2111396440815947970",
+      "type": "url",
+      "value": "http://106.55.34.199"
     },
     "107.149.129.212": {
       "confidence": 0.8,
@@ -2316,6 +2348,18 @@
       "type": "url",
       "value": "http://143.92.38.167:8383"
     },
+    "144.172.64.128": {
+      "confidence": 0.8,
+      "date": "2026-10-17 07:29:20",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Microsoft reports supply chain attack abusing the ConnectWise Cloud Backup (SkyKick) OAuth app to obtain tokens across tenants; source IP 144.172.64.128.",
+      "threat_type": "other",
+      "tweet_id": "2111358888125878426",
+      "type": "url",
+      "value": "http://144.172.64.128"
+    },
     "144.172.86.173": {
       "confidence": 0.6,
       "date": "2026-10-11 21:00:46",
@@ -2345,6 +2389,22 @@
       "tweet_id": "2108169246240911697",
       "type": "url",
       "value": "http://144.202.69.116"
+    },
+    "145.223.68.204": {
+      "confidence": 0.9,
+      "date": "2026-10-17 09:58:33",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2111396440815947970",
+      "type": "url",
+      "value": "http://145.223.68.204"
     },
     "147.45.39.43": {
       "confidence": 0.5,
@@ -2432,6 +2492,20 @@
       "tweet_id": "2103484670486659111",
       "type": "ip",
       "value": "149.104.29.121"
+    },
+    "149.137.136.16": {
+      "confidence": 0.9,
+      "date": "2026-10-17 12:01:01",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Xfinity (Comcast) phishing page hosted on Backblaze B2 storage, resolving to a US-based IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2111427256992034933",
+      "type": "ip",
+      "value": "149.137.136.16"
     },
     "149.88.66.95": {
       "confidence": 0.6,
@@ -2867,54 +2941,6 @@
       "type": "url",
       "value": "http://154.6.145.213"
     },
-    "154.86.19.127": {
-      "confidence": 0.87,
-      "date": "2026-09-17 10:01:29",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "VANKERAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "android"
-      ],
-      "summary": "VANKERAT Android RAT C2 panels at 154.86.19.127:8040 and 154.86.19.3:8040; actor seeking testers on cybercrime forums",
-      "threat_type": "c2",
-      "tweet_id": "2100525541250170889",
-      "type": "ip",
-      "value": "154.86.19.127"
-    },
-    "154.86.19.3": {
-      "confidence": 0.87,
-      "date": "2026-09-17 10:01:29",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "VANKERAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "android"
-      ],
-      "summary": "VANKERAT Android RAT C2 panels at 154.86.19.127:8040 and 154.86.19.3:8040; actor seeking testers on cybercrime forums",
-      "threat_type": "c2",
-      "tweet_id": "2100525541250170889",
-      "type": "ip",
-      "value": "154.86.19.3"
-    },
-    "154.86.19.41": {
-      "confidence": 0.87,
-      "date": "2026-09-17 10:01:29",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "VANKERAT",
-      "suggested_tags": [
-        "rat",
-        "c2",
-        "android"
-      ],
-      "summary": "VANKERAT Android RAT C2 panels at 154.86.19.127:8040 and 154.86.19.3:8040; actor seeking testers on cybercrime forums",
-      "threat_type": "c2",
-      "tweet_id": "2100525541250170889",
-      "type": "ip",
-      "value": "154.86.19.41"
-    },
     "155.117.20.119": {
       "confidence": 0.6,
       "date": "2026-10-02 08:04:43",
@@ -3297,20 +3323,6 @@
       "type": "md5",
       "value": "15ee29ea4f475fb13fba61e185e4fac5"
     },
-    "160.119.71.8": {
-      "confidence": 0.7,
-      "date": "2026-09-17 10:09:00",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "C2 panel observed at 160.119.71.8:8080",
-      "threat_type": "c2",
-      "tweet_id": "2100527431493030024",
-      "type": "ip",
-      "value": "160.119.71.8"
-    },
     "1606837286.cyou": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -3611,20 +3623,6 @@
       "tweet_id": "2104912073469641089",
       "type": "ip",
       "value": "167.71.206.185"
-    },
-    "167.71.213.136": {
-      "confidence": 0.75,
-      "date": "2026-09-17 12:00:03",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Stealth C2 panel observed at 167.71.213.136:8443",
-      "threat_type": "c2",
-      "tweet_id": "2100555381235753383",
-      "type": "ip",
-      "value": "167.71.213.136"
     },
     "167.99.72.191": {
       "confidence": 0.5,
@@ -7604,21 +7602,6 @@
       "type": "ip",
       "value": "31.56.176.4"
     },
-    "31.57.38.94": {
-      "confidence": 0.85,
-      "date": "2026-09-17 12:07:00",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "OBLIVION",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "OBLIVION RAT C2 panels observed at 51.79.128.217:1337 and 31.57.38.94:3000",
-      "threat_type": "c2",
-      "tweet_id": "2100557127362167161",
-      "type": "ip",
-      "value": "31.57.38.94"
-    },
     "31.59.138.144": {
       "confidence": 0.5,
       "date": "2026-10-01 09:44:25",
@@ -9051,6 +9034,22 @@
       "tweet_id": "2107691403166011556",
       "type": "ip",
       "value": "43.153.159.146"
+    },
+    "43.155.215.231": {
+      "confidence": 0.9,
+      "date": "2026-10-17 09:58:33",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "malware"
+      ],
+      "summary": "Four IP addresses identified via Shodan as Sliver C2 servers, reported with high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2111396440815947970",
+      "type": "url",
+      "value": "http://43.155.215.231"
     },
     "43.160.229.5": {
       "confidence": 0.8,
@@ -10714,21 +10713,6 @@
       "type": "url",
       "value": "http://51.68.34.78:20109/login"
     },
-    "51.79.128.217": {
-      "confidence": 0.85,
-      "date": "2026-09-17 12:07:00",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "OBLIVION",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "OBLIVION RAT C2 panels observed at 51.79.128.217:1337 and 31.57.38.94:3000",
-      "threat_type": "c2",
-      "tweet_id": "2100557127362167161",
-      "type": "ip",
-      "value": "51.79.128.217"
-    },
     "5140390597.cyou": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -11058,21 +11042,6 @@
       "type": "sha256",
       "value": "5939b15fae5fd976387431b2c6d67ba2e1ee533c05529d33c65c320fbd0ce0a7"
     },
-    "5958heh59585958.theloopblog.com": {
-      "confidence": 0.8,
-      "date": "2026-09-17 09:11:30",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Confirmed scam website detected at 5958heh59585958.theloopblog.com",
-      "threat_type": "scam",
-      "tweet_id": "2100512961362022412",
-      "type": "domain",
-      "value": "5958heh59585958.theloopblog.com"
-    },
     "5ab77d640643354800ac7a4a31eb407bcc2b56d70d0e9c4853bba07b1d58cb4d": {
       "confidence": 0.55,
       "date": "2026-10-14 09:23:33",
@@ -11182,20 +11151,6 @@
       "tweet_id": "2107495744642969841",
       "type": "domain",
       "value": "5ldym2.shop"
-    },
-    "5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion": {
-      "confidence": 0.9,
-      "date": "2026-09-17 10:54:20",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "KAPUTQ",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "KAPUTQ RaaS ransomware dashboard with onion site, Bitcoin wallet, and Proton email contact observed",
-      "threat_type": "ransomware",
-      "tweet_id": "2100538841061056628",
-      "type": "domain",
-      "value": "5oyninql4mekvjepei7yc3jnakfxi5bt5yky53cgqqrfwvfj4yvlpdad.onion"
     },
     "5p8w1j6f9y3h0t7bg.live": {
       "confidence": 0.85,
@@ -13026,20 +12981,6 @@
       "type": "ip",
       "value": "87.106.5.5"
     },
-    "87.106.6.79": {
-      "confidence": 0.9,
-      "date": "2026-09-17 10:54:20",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "KAPUTQ",
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "KAPUTQ RaaS ransomware dashboard with onion site, Bitcoin wallet, and Proton email contact observed",
-      "threat_type": "ransomware",
-      "tweet_id": "2100538841061056628",
-      "type": "ip",
-      "value": "87.106.6.79"
-    },
     "87.120.104.148": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -13183,21 +13124,6 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "89.125.43.163"
-    },
-    "89.167.72.221": {
-      "confidence": 0.85,
-      "date": "2026-09-17 09:16:22",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": "PHANTOM",
-      "suggested_tags": [
-        "rat",
-        "c2"
-      ],
-      "summary": "PHANTOM RAT C2 panel at 89.167.72.221 with associated domain korzello.ru",
-      "threat_type": "c2",
-      "tweet_id": "2100514186682077470",
-      "type": "ip",
-      "value": "89.167.72.221"
     },
     "89.185.82.24": {
       "confidence": 0.75,
@@ -15956,6 +15882,20 @@
       "type": "domain",
       "value": "app.netshort-tv-jp.com"
     },
+    "app.slidy.ai": {
+      "confidence": 0.75,
+      "date": "2026-10-17 07:57:53",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
+      "threat_type": "phishing",
+      "tweet_id": "2111366073953972720",
+      "type": "domain",
+      "value": "app.slidy.ai"
+    },
     "app.spotifylite.online": {
       "confidence": 0.95,
       "date": "2026-10-05 07:01:11",
@@ -16597,6 +16537,22 @@
       "tweet_id": "2109949858450661568",
       "type": "sha256",
       "value": "b5c877fbcc1028c046c944c45fad884dc4900bcdd78c4590a42e9c559ae8ac1b"
+    },
+    "b5dce6d9e9972b441daa1f39fbabcf89d52de4b91535b289efed1268c6101791": {
+      "confidence": 0.7,
+      "date": "2026-10-17 08:21:13",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an adult TikTok app, distributed via a phishing site targeting Japanese users.",
+      "threat_type": "malware",
+      "tweet_id": "2111371943505281036",
+      "type": "sha256",
+      "value": "b5dce6d9e9972b441daa1f39fbabcf89d52de4b91535b289efed1268c6101791"
     },
     "b5e640b7676e3ef1741d902dfb183e6129aa997d4b99a9626af9bb7c022e796f": {
       "confidence": 0.85,
@@ -17454,36 +17410,6 @@
       "tweet_id": "2105261740308992400",
       "type": "domain",
       "value": "bleodw.wisp.uno"
-    },
-    "blockmania.com.br": {
-      "confidence": 0.92,
-      "date": "2026-09-17 07:06:38",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing clone of blockmania.com.br at blockmanialoja.com impersonating the official Brazilian gaming site",
-      "threat_type": "phishing",
-      "tweet_id": "2100481536797671764",
-      "type": "domain",
-      "value": "blockmania.com.br"
-    },
-    "blockmanialoja.com": {
-      "confidence": 0.92,
-      "date": "2026-09-17 07:06:38",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing clone of blockmania.com.br at blockmanialoja.com impersonating the official Brazilian gaming site",
-      "threat_type": "phishing",
-      "tweet_id": "2100481536797671764",
-      "type": "domain",
-      "value": "blockmanialoja.com"
     },
     "blue-night-ba2c.gradwest03.workers.dev": {
       "confidence": 0.8,
@@ -23120,6 +23046,20 @@
       "tweet_id": "2102171769423511583",
       "type": "url",
       "value": "https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z1151b4adec62550f9af1041a_f1164e569093f2f54_d20260903_m111846_c005_v0501047_t0041_u01788434326579#temp@microsoft.com"
+    },
+    "f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html": {
+      "confidence": 0.9,
+      "date": "2026-10-17 12:01:01",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Xfinity (Comcast) phishing page hosted on Backblaze B2 storage, resolving to a US-based IP.",
+      "threat_type": "phishing",
+      "tweet_id": "2111427256992034933",
+      "type": "url",
+      "value": "http://f005.backblazeb2.com/file/yttyytg/xfinityyyy.comcky.html"
     },
     "f02e2fefd74c7268e3aced61017173fff92e2a1d0e7eaf7807189f371fbfcc1f": {
       "confidence": 0.9,
@@ -30534,6 +30474,36 @@
       "type": "domain",
       "value": "machine628.baby"
     },
+    "maga-zine-luiza.com": {
+      "confidence": 0.85,
+      "date": "2026-10-17 11:10:42",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Typosquatted Magazine Luiza (Magalu) clone site targeting Brazilian shoppers with a fake product page.",
+      "threat_type": "scam",
+      "tweet_id": "2111414595235516615",
+      "type": "domain",
+      "value": "maga-zine-luiza.com"
+    },
+    "maga-zine-luiza.com/produto/escada-articulada-16-degraus-alum-nio-botafogo-altura": {
+      "confidence": 0.85,
+      "date": "2026-10-17 11:10:42",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Typosquatted Magazine Luiza (Magalu) clone site targeting Brazilian shoppers with a fake product page.",
+      "threat_type": "scam",
+      "tweet_id": "2111414595235516615",
+      "type": "url",
+      "value": "https://maga-zine-luiza.com/produto/escada-articulada-16-degraus-alum-nio-botafogo-altura"
+    },
     "magablack.com": {
       "confidence": 0.8,
       "date": "2026-09-18 18:25:18",
@@ -31350,20 +31320,21 @@
       "type": "domain",
       "value": "mistraljs.beer"
     },
-    "misty-arc-rook-sleoor.com": {
-      "confidence": 0.92,
-      "date": "2026-09-17 12:13:22",
-      "enriched_at": "2026-09-17T12:40:03Z",
+    "mizuhoca.com": {
+      "confidence": 0.7,
+      "date": "2026-10-17 08:21:13",
+      "enriched_at": "2026-10-17T12:40:04Z",
       "family": null,
       "suggested_tags": [
-        "clickfix",
-        "malware"
+        "android",
+        "malware",
+        "phishing"
       ],
-      "summary": "Compromised site delivering ClickFix malware via domain misty-arc-rook-sleoor.com",
+      "summary": "Android malware disguised as an adult TikTok app, distributed via a phishing site targeting Japanese users.",
       "threat_type": "malware",
-      "tweet_id": "2100558731901800698",
+      "tweet_id": "2111371943505281036",
       "type": "domain",
-      "value": "misty-arc-rook-sleoor.com"
+      "value": "mizuhoca.com"
     },
     "mlbysalw.cn": {
       "confidence": 0.75,
@@ -33499,34 +33470,6 @@
       "tweet_id": "2105275694179913752",
       "type": "url",
       "value": "https://optservicenote.myallvalue.com/link/optsercive"
-    },
-    "oricvn.zmbc3c.info": {
-      "confidence": 0.9,
-      "date": "2026-09-17 12:36:52",
-      "enriched_at": "2026-09-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating AEON credit card services targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2100564644368904392",
-      "type": "domain",
-      "value": "oricvn.zmbc3c.info"
-    },
-    "oricvn.zmbc3c.info/iricyygen": {
-      "confidence": 0.9,
-      "date": "2026-09-17 12:36:52",
-      "enriched_at": "2026-09-17T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating AEON credit card services targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2100564644368904392",
-      "type": "url",
-      "value": "https://oricvn.zmbc3c.info/iricyygen/"
     },
     "originalpizza.eu": {
       "confidence": 0.95,
@@ -36032,34 +35975,6 @@
       "tweet_id": "2110982415246324049",
       "type": "url",
       "value": "https://rnbwjd.cfd/gndflhbz/"
-    },
-    "robloxc.com.es": {
-      "confidence": 0.95,
-      "date": "2026-09-17 07:01:24",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Roblox phishing login page at robloxc.com.es targeting game account credentials",
-      "threat_type": "phishing",
-      "tweet_id": "2100480221031944309",
-      "type": "domain",
-      "value": "robloxc.com.es"
-    },
-    "robloxc.com.es/login?returlurl=1445876836": {
-      "confidence": 0.95,
-      "date": "2026-09-17 07:01:24",
-      "enriched_at": "2026-09-17T12:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Roblox phishing login page at robloxc.com.es targeting game account credentials",
-      "threat_type": "phishing",
-      "tweet_id": "2100480221031944309",
-      "type": "url",
-      "value": "http://robloxc.com.es/login?returlUrl=1445876836"
     },
     "robologic.eu": {
       "confidence": 0.95,
@@ -41919,6 +41834,48 @@
       "type": "domain",
       "value": "workcdnmass.beer"
     },
+    "workspacegoogle.net.ru": {
+      "confidence": 0.75,
+      "date": "2026-10-17 07:57:53",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
+      "threat_type": "phishing",
+      "tweet_id": "2111366073953972720",
+      "type": "domain",
+      "value": "workspacegoogle.net.ru"
+    },
+    "workspacegoogle.org.ru": {
+      "confidence": 0.75,
+      "date": "2026-10-17 07:57:53",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
+      "threat_type": "phishing",
+      "tweet_id": "2111366073953972720",
+      "type": "domain",
+      "value": "workspacegoogle.org.ru"
+    },
+    "workspacegoogle.pp.ru": {
+      "confidence": 0.75,
+      "date": "2026-10-17 07:57:53",
+      "enriched_at": "2026-10-17T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Sites impersonating Google Slides with Russian-language templates; 'Try It' redirects to app.slidy.ai instead of Google Slides.",
+      "threat_type": "phishing",
+      "tweet_id": "2111366073953972720",
+      "type": "domain",
+      "value": "workspacegoogle.pp.ru"
+    },
     "workspacegranite.com": {
       "confidence": 0.85,
       "date": "2026-10-07 16:43:21",
@@ -43808,6 +43765,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-17T06:40:04Z",
+  "generated_at": "2026-10-17T12:40:04Z",
   "window_days": 30
 }
