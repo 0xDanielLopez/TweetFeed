@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-17 18:45:17 (UTC)</th>
+        <th colspan=4>2026-10-17 19:00:19 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 29 | 402 | 1922 | 46151 |
 | **:globe_with_meridians: Domains** | 23 | 290 | 1601 | 39984 |
-| **:triangular_flag_on_post: IPs** | 8 | 165 | 598 | 6361 |
+| **:triangular_flag_on_post: IPs** | 11 | 168 | 601 | 6364 |
 | **:1234: SHA256** | 1 | 90 | 302 | 2836 |
 | **:1234: MD5** | 0 | 9 | 58 | 2125 |
 
@@ -213,7 +213,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#C2** | 0 | 12 | 107 | 2218 |
 | **#APT** | 6 | 15 | 48 | 1542 |
 | **#ClickFix** | 0 | 67 | 430 | 1019 |
-| **#opendir** | 0 | 2 | 44 | 717 |
+| **#opendir** | 3 | 5 | 47 | 720 |
 | **#stealer** | 0 | 9 | 21 | 677 |
 <!-- TAG_TABLE_END -->
 
@@ -237,9 +237,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#5** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 6 |
 | **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
 | **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [MsftSecIntel](https://x.com/MsftSecIntel) | 2 |
-| **#10** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
+| **#8** | [0xb1lal](https://x.com/0xb1lal) | 3 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [MsftSecIntel](https://x.com/MsftSecIntel) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
