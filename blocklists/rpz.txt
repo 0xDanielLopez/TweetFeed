@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1465
-; Updated: 2026-10-17T00:00:22Z
+; Entries: 1473
+; Updated: 2026-10-17T00:30:14Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792195222 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792197014 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -206,6 +206,8 @@ aniv.ddoblxd.cn CNAME .
 *.aniv.ddoblxd.cn CNAME .
 anlytic-js-cloud.beer CNAME .
 *.anlytic-js-cloud.beer CNAME .
+anqbsss.cn CNAME .
+*.anqbsss.cn CNAME .
 ants.redirecthelp.com CNAME .
 *.ants.redirecthelp.com CNAME .
 anunds.com CNAME .
@@ -342,6 +344,8 @@ bilfojsclod.beer CNAME .
 *.bilfojsclod.beer CNAME .
 binmadi.screenconnect.com CNAME .
 *.binmadi.screenconnect.com CNAME .
+bixsgrb.cn CNAME .
+*.bixsgrb.cn CNAME .
 biyaconserver.beer CNAME .
 *.biyaconserver.beer CNAME .
 bkscndclou.beer CNAME .
@@ -768,6 +772,8 @@ dv0psh-purv3w-azfn-b2c0-msauth3-m365svc-s3ntln-4zrfn3x-cntnrx.workers.dev CNAME 
 *.dv0psh-purv3w-azfn-b2c0-msauth3-m365svc-s3ntln-4zrfn3x-cntnrx.workers.dev CNAME .
 dymowski.eu CNAME .
 *.dymowski.eu CNAME .
+dzwwftf.cn CNAME .
+*.dzwwftf.cn CNAME .
 e1.cdnresolver.com CNAME .
 *.e1.cdnresolver.com CNAME .
 easydriverhub.com CNAME .
@@ -952,6 +958,8 @@ flow-note-zsgf.p-dthpnqnd.workers.dev CNAME .
 *.flow-note-zsgf.p-dthpnqnd.workers.dev CNAME .
 fluidethiopiadigital.info CNAME .
 *.fluidethiopiadigital.info CNAME .
+fmcoyko.cn CNAME .
+*.fmcoyko.cn CNAME .
 fnfkv.cn CNAME .
 *.fnfkv.cn CNAME .
 fol9.com CNAME .
@@ -1002,6 +1010,8 @@ garciaselectric.com CNAME .
 *.garciaselectric.com CNAME .
 gateway.tenderly.co CNAME .
 *.gateway.tenderly.co CNAME .
+gbjeifr.cn CNAME .
+*.gbjeifr.cn CNAME .
 gclsi-powers.org CNAME .
 *.gclsi-powers.org CNAME .
 gdfgdsa.duckdns.org CNAME .
@@ -1152,6 +1162,8 @@ henanzuoluo.com CNAME .
 *.henanzuoluo.com CNAME .
 hero111.online CNAME .
 *.hero111.online CNAME .
+hfpzuia.cn CNAME .
+*.hfpzuia.cn CNAME .
 hftplcnsns.beer CNAME .
 *.hftplcnsns.beer CNAME .
 hfxlq55.cn CNAME .
@@ -1228,6 +1240,8 @@ hyundaiservisiankara.com CNAME .
 *.hyundaiservisiankara.com CNAME .
 i0tjgjgm.xyz CNAME .
 *.i0tjgjgm.xyz CNAME .
+iasteun.cn CNAME .
+*.iasteun.cn CNAME .
 iberdrolatrade.com CNAME .
 *.iberdrolatrade.com CNAME .
 ibtuxr641i.c4-explosive-workshops.de CNAME .
@@ -1312,6 +1326,8 @@ isseiservice.com CNAME .
 *.isseiservice.com CNAME .
 it-security-rho.vercel.app CNAME .
 *.it-security-rho.vercel.app CNAME .
+iugbkbg.cn CNAME .
+*.iugbkbg.cn CNAME .
 iuiut.nwfdk.com CNAME .
 *.iuiut.nwfdk.com CNAME .
 iwnw-1knwni-21siw.xo.je CNAME .
