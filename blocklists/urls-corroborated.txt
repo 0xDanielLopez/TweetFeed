@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 240
-# Updated: 2026-10-17T07:30:18Z
+# Entries: 244
+# Updated: 2026-10-17T13:30:16Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-10-17T07:25:10Z
+# Cross-check refreshed: 2026-10-17T13:25:10Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -17,11 +17,14 @@ http://103.170.217.170
 http://103.185.249.13
 http://103.82.53.214:7661
 http://103.99.36.146:8080
+http://104.237.154.191
+http://106.55.34.199
 http://107.172.209.126/img/3.jpg
 http://107.172.249.140:443
 http://129.121.62.230
 http://134.122.130.202
 http://138.28.234.38
+http://145.223.68.204
 http://151.241.154.23:7007
 http://154.6.145.213
 http://158.94.209.188:3333
@@ -42,6 +45,7 @@ http://23.132.164.3:2404
 http://23.27.124.228
 http://2fa-cp.cfd
 http://31.59.39.40
+http://43.155.215.231
 http://43.248.172.115
 http://45.129.8.190:31337
 http://45.153.34.146
@@ -141,7 +145,6 @@ http://hugg1ngvx.top
 http://idcool.codes
 http://immmerhency.com
 http://indigo-finch-misgoaen.life
-http://interior-gov-pk.mail-govt.org
 http://internetserchinkas.co
 http://interseq.at
 http://ironphantomcore.top
@@ -193,12 +196,12 @@ http://openai-bonus.com
 http://openai-credit.com
 http://openai-credits.com
 http://openeii.com
-http://pubad-gov-lk.net-src.info
 http://qaz4.com
 http://reg.v-panel.asia
 http://relay.goruf.top
 http://rpc-framework-check.cfd
 http://safeprocessor.com
+http://salator.es
 http://sane-cdn-js.beer
 http://sayosay.cc
 http://sdnssmdf-js.beer
@@ -236,15 +239,16 @@ http://vnmstokns.beer
 http://voderlence.com
 http://voidravenstorm.top
 http://vsbnsbootstrup.beer
+http://websalat.top
 http://winecdn.sbs
 http://winupdateconf.cfd
 http://wmicconfidance.info
 http://wordmoss.com
 http://workcdnmass.beer
+http://wruser.org
 http://www.hyundaiservisiankara.com
 http://xaz2.com
 http://xynero.xyz
-http://zmail.broadmediacloud.com
 http://zvh4.com
 https://176.97.114.92:9443
 https://accessdocu.b-cdn.net/Installer.ps1
