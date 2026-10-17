@@ -1,5 +1,5 @@
 {
-  "count": 2901,
+  "count": 2897,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 2,
@@ -9,6 +9,10 @@
       "attempts": 2,
       "last_attempt": "2026-10-14T18:40:03Z"
     },
+    "2103019418859053423": {
+      "attempts": 1,
+      "last_attempt": "2026-10-17T00:40:04Z"
+    },
     "2107773993008669042": {
       "attempts": 2,
       "last_attempt": "2026-10-15T12:40:05Z"
@@ -16,6 +20,10 @@
     "2110971416963326442": {
       "attempts": 2,
       "last_attempt": "2026-10-16T12:40:04Z"
+    },
+    "2111212930066706900": {
+      "attempts": 1,
+      "last_attempt": "2026-10-17T00:40:04Z"
     }
   },
   "entries": {
@@ -295,22 +303,6 @@
       "type": "sha256",
       "value": "0d0cf937953e7bdc87d29f093f3667e618314b312a9bd70345b84e25be57fab7"
     },
-    "0db3b6d8296e4d19ca3be14a12792e5e": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "md5",
-      "value": "0db3b6d8296e4d19ca3be14a12792e5e"
-    },
     "0eb380a4609662b66d946d0991e810aa47b80dc3733aee4e59cfba1bd1107ce7": {
       "confidence": 0.9,
       "date": "2026-10-02 09:04:56",
@@ -326,22 +318,6 @@
       "tweet_id": "2105947127755223200",
       "type": "sha256",
       "value": "0eb380a4609662b66d946d0991e810aa47b80dc3733aee4e59cfba1bd1107ce7"
-    },
-    "0f68319dd77944493d7bfb437c218eac": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "md5",
-      "value": "0f68319dd77944493d7bfb437c218eac"
     },
     "0xbuyer.com": {
       "confidence": 0.95,
@@ -1164,6 +1140,36 @@
       "tweet_id": "2107491399730073763",
       "type": "url",
       "value": "http://107.173.143.44/60"
+    },
+    "107.174.19.11": {
+      "confidence": 0.6,
+      "date": "2026-10-16 22:09:34",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Malicious ZoomInstallerFull.js script downloading a ScreenConnect client MSI from a remote IP, enabling unauthorized remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2111218017547817401",
+      "type": "ip",
+      "value": "107.174.19.11"
+    },
+    "107.174.19.11:443/bin/screenconnect.clientsetup.msi?e=access&y=guest": {
+      "confidence": 0.6,
+      "date": "2026-10-16 22:09:34",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Malicious ZoomInstallerFull.js script downloading a ScreenConnect client MSI from a remote IP, enabling unauthorized remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2111218017547817401",
+      "type": "url",
+      "value": "http://107.174.19.11:443/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest"
     },
     "107.175.148.115": {
       "confidence": 0.8,
@@ -2801,37 +2807,19 @@
       "type": "ip",
       "value": "154.18.187.160"
     },
-    "154.21.14.84": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
+    "154.198.163.77": {
+      "confidence": 0.85,
+      "date": "2026-10-16 21:52:45",
+      "enriched_at": "2026-10-17T00:40:04Z",
       "family": null,
       "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
+        "phishing"
       ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
+      "summary": "Phishing page impersonating the Brazilian Desenrola Brasil portal, hosted on a comercial.ws subdomain.",
+      "threat_type": "phishing",
+      "tweet_id": "2111213787235631441",
       "type": "ip",
-      "value": "154.21.14.84"
-    },
-    "154.21.14.84:30351": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "url",
-      "value": "http://154.21.14.84:30351"
+      "value": "154.198.163.77"
     },
     "154.23.141.210": {
       "confidence": 0.8,
@@ -6098,6 +6086,20 @@
       "tweet_id": "2102479874485366794",
       "type": "url",
       "value": "http://209.99.184.230:5000"
+    },
+    "209.99.186.221": {
+      "confidence": 0.5,
+      "date": "2026-09-24 07:56:00",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP address reported as a C2 panel server by community researchers.",
+      "threat_type": "c2",
+      "tweet_id": "2103030675842781376",
+      "type": "ip",
+      "value": "209.99.186.221"
     },
     "209.99.190.80": {
       "confidence": 0.6,
@@ -11100,6 +11102,22 @@
       "type": "sha256",
       "value": "5b7e8eff2805f6fe579abda73e84f752457d621d908d016c0be5d74f4d12e2ba"
     },
+    "5be88d5893fb9b4e854c18d311e299da36ef5b389546d53ada1f37802ef128c2": {
+      "confidence": 0.8,
+      "date": "2026-10-16 23:17:47",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as Amazon, distributed via a Japanese phishing site with a malicious APK sample.",
+      "threat_type": "malware",
+      "tweet_id": "2111235182514823471",
+      "type": "sha256",
+      "value": "5be88d5893fb9b4e854c18d311e299da36ef5b389546d53ada1f37802ef128c2"
+    },
     "5c825a656f1fe40cef2e6da433c266c810c3fa4ec1ec0beca58bc319549c172e": {
       "confidence": 0.8,
       "date": "2026-10-13 23:40:46",
@@ -11133,6 +11151,21 @@
       "tweet_id": "2106880845290373387",
       "type": "sha256",
       "value": "5d57a09ee2782dd94a1b11adb0376041ba42faeb1a8bdbfeaabb83d93d9834b5"
+    },
+    "5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion": {
+      "confidence": 0.5,
+      "date": "2026-10-16 21:57:51",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious Java JAR sample that communicates with a Tor .onion domain.",
+      "threat_type": "malware",
+      "tweet_id": "2111215067245011403",
+      "type": "domain",
+      "value": "5kiwqdzvhip5yjx5u6ms2hsv3yozpslxocjhyf4cyimrg33fcb7devid.onion"
     },
     "5ldym2.shop": {
       "confidence": 0.9,
@@ -14290,6 +14323,22 @@
       "type": "sha256",
       "value": "a59e3fb800f833d0228ad60929ace5cc080a00edb45a62e98a6ddebeff15f93b"
     },
+    "a5d2fee1e407b2567ac886c9e2213c3c5fd631225b3a1cf30877eee818bd325f": {
+      "confidence": 0.7,
+      "date": "2026-10-16 21:52:56",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "Batch script stealing Roblox cookies and exfiltrating host details through a Telegram bot API.",
+      "threat_type": "malware",
+      "tweet_id": "2111213831322026472",
+      "type": "sha256",
+      "value": "a5d2fee1e407b2567ac886c9e2213c3c5fd631225b3a1cf30877eee818bd325f"
+    },
     "a6ceacda670b88e8a8ec9ff5da6a77d9f1c896d6479b2dadb700474a8c408f80": {
       "confidence": 0.82,
       "date": "2026-09-18 00:35:07",
@@ -15449,6 +15498,20 @@
       "type": "domain",
       "value": "alphashoppingdock.org"
     },
+    "altiora.fun": {
+      "confidence": 0.85,
+      "date": "2026-09-22 09:07:07",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure about a federal tax settlement that sends eligibility checks to altiora.fun, flagged by threat intelligence providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2102323797684867470",
+      "type": "domain",
+      "value": "altiora.fun"
+    },
     "am-prime-sonnerie.com": {
       "confidence": 0.95,
       "date": "2026-09-23 16:54:04",
@@ -15772,6 +15835,22 @@
       "type": "domain",
       "value": "api.adoptium.net"
     },
+    "api.telegram.org/bot8570784604:aagrqrct-lfor9nrhhc8zrz99cqkidygj3w/sendmessage?chat_id=-1003836062940&text=roblox%20not%20found%0a%0acomputer%3a%20desktop-et51ajo%0auser%3a%20bruno%0a%0arobloxcookies.dat%20does%20not%20exist.%0aroblox%20may%20not%20be%20installed%20or%20user%20never%20logged%20in": {
+      "confidence": 0.7,
+      "date": "2026-10-16 21:52:56",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "Batch script stealing Roblox cookies and exfiltrating host details through a Telegram bot API.",
+      "threat_type": "malware",
+      "tweet_id": "2111213831322026472",
+      "type": "url",
+      "value": "https://api.telegram.org/bot8570784604:AAGrQrct-LFOr9nrhHC8zrZ99cqKIDYGj3w/sendMessage?chat_id=-1003836062940&text=ROBLOX%20NOT%20FOUND%0A%0AComputer%3A%20DESKTOP-ET51AJO%0AUser%3A%20Bruno%0A%0ARobloxCookies.dat%20does%20not%20exist.%0ARoblox%20may%20not%20be%20installed%20or%20user%20never%20logged%20in"
+    },
     "api.telegram.org/bot8736466448:aafguorhllqmv_3irkg7crj7prlyvaoc-hy/sendmessage": {
       "confidence": 0.55,
       "date": "2026-09-29 10:13:33",
@@ -16042,6 +16121,20 @@
       "type": "domain",
       "value": "aroqwxh.cn"
     },
+    "asdkjcn30r9.mygamesonline.org/setting.php?aaaaaa=desktop-et51ajo&bbbbbb=bruno&cccccc=alpha": {
+      "confidence": 0.5,
+      "date": "2026-10-16 22:04:23",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Korean-named health checkup ZIP lure whose payload connects to a remote PHP endpoint and references an embedded PDF URL on a free host.",
+      "threat_type": "malware",
+      "tweet_id": "2111216711831810173",
+      "type": "url",
+      "value": "http://asdkjcn30r9.mygamesonline.org/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
+    },
     "ashen-trace-zephyr-draeix.life": {
       "confidence": 0.92,
       "date": "2026-09-23 13:26:41",
@@ -16247,22 +16340,6 @@
       "tweet_id": "2103095348113924175",
       "type": "domain",
       "value": "awesomeisojs.beer"
-    },
-    "axelond.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "axelond.duckdns.org"
     },
     "aykfm.cn": {
       "confidence": 0.75,
@@ -16574,6 +16651,21 @@
       "type": "domain",
       "value": "b8q9h.fun"
     },
+    "b9472cc080b4fef1cbc38bad1f1981380a7d71fc74138c7f4c41f18d8e6dacb1": {
+      "confidence": 0.5,
+      "date": "2026-10-16 21:57:51",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Malicious Java JAR sample that communicates with a Tor .onion domain.",
+      "threat_type": "malware",
+      "tweet_id": "2111215067245011403",
+      "type": "sha256",
+      "value": "b9472cc080b4fef1cbc38bad1f1981380a7d71fc74138c7f4c41f18d8e6dacb1"
+    },
     "b97980c046ff56cd4393bc37bfea4db5": {
       "confidence": 0.8,
       "date": "2026-10-14 10:24:36",
@@ -16619,22 +16711,6 @@
       "type": "md5",
       "value": "ba0ec19a36d0e08979ae38a2c8977a9c"
     },
-    "ba331092a9bb6d8f60b9c26441a17b28": {
-      "confidence": 0.6,
-      "date": "2026-09-16 21:50:47",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": "Xploder",
-      "suggested_tags": [
-        "malware",
-        "infostealer",
-        "stealer"
-      ],
-      "summary": "MD5 hash associated with Xploder malware sample.",
-      "threat_type": "malware",
-      "tweet_id": "2100341655211491551",
-      "type": "md5",
-      "value": "ba331092a9bb6d8f60b9c26441a17b28"
-    },
     "babarahoney.wuaze.com": {
       "confidence": 0.91,
       "date": "2026-09-17 01:37:12",
@@ -16668,22 +16744,6 @@
       "tweet_id": "2101786305671868627",
       "type": "domain",
       "value": "babipoom-ertaxjpzu.com"
-    },
-    "backshots6.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "backshots6.duckdns.org"
     },
     "bae46112fc8e39957ae63d51fd6dffdd9853955dbee8968c08a81e37026b059d": {
       "confidence": 0.7,
@@ -18072,22 +18132,6 @@
       "type": "domain",
       "value": "bytemai.com"
     },
-    "c0331899ad6a3b139c1dbf870850158f": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "md5",
-      "value": "c0331899ad6a3b139c1dbf870850158f"
-    },
     "c072088e15403a22e335dbe7c5daa837693e7853e9033caa4a4e9ae86510501b": {
       "confidence": 0.45,
       "date": "2026-10-10 17:29:55",
@@ -18176,6 +18220,22 @@
       "tweet_id": "2105905893011542444",
       "type": "sha256",
       "value": "c309560c0a8af7daf1e9aa170f5e5d3149fee6e5306be673716dc6a4cebdc4c0"
+    },
+    "c33a46f5b19906972345745c4bc24562469b746804ceedee8dd2b3561431dbc9": {
+      "confidence": 0.8,
+      "date": "2026-10-16 23:39:48",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via a phishing site and a malicious APK.",
+      "threat_type": "malware",
+      "tweet_id": "2111240726738821316",
+      "type": "sha256",
+      "value": "c33a46f5b19906972345745c4bc24562469b746804ceedee8dd2b3561431dbc9"
     },
     "c71e3a48ae93fba3a407d04430cf13234c843a10caa7b64081115c7b5aec89f4": {
       "confidence": 0.6,
@@ -18399,22 +18459,6 @@
       "tweet_id": "2104429238606786950",
       "type": "url",
       "value": "https://calvinsmithlaw.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
-    },
-    "campinginontarioteamvontaxi.xyz": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "campinginontarioteamvontaxi.xyz"
     },
     "campus-petite-timothy-gulf.trycloudflare.com": {
       "confidence": 0.9,
@@ -18792,22 +18836,6 @@
       "tweet_id": "2110434672446779465",
       "type": "domain",
       "value": "cdn.simplynetworking.eu"
-    },
-    "cdn.wp-js.com": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "cdn.wp-js.com"
     },
     "cea6f95af040ab7020bde9cb5f25a95a12436617c11cf3acefd26964c9b91e2a": {
       "confidence": 0.6,
@@ -20931,6 +20959,20 @@
       "type": "domain",
       "value": "debtriversideledger.info"
     },
+    "dechert.myssologin.com": {
+      "confidence": 0.65,
+      "date": "2026-10-16 20:01:26",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "UNC6671 infrastructure update: two new myssologin.com hostnames apparently impersonating law firms Stinson and Dechert.",
+      "threat_type": "phishing",
+      "tweet_id": "2111185771000406305",
+      "type": "domain",
+      "value": "dechert.myssologin.com"
+    },
     "deliversenterprise.com": {
       "confidence": 0.4,
       "date": "2026-10-16 08:51:21",
@@ -21949,6 +21991,21 @@
       "type": "sha256",
       "value": "e03cf54b42138aa85560a5d6d6697d931b2d84896045debb0285a6e864856089"
     },
+    "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5": {
+      "confidence": 0.6,
+      "date": "2026-10-16 22:09:34",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": "ScreenConnect",
+      "suggested_tags": [
+        "malware",
+        "rat"
+      ],
+      "summary": "Malicious ZoomInstallerFull.js script downloading a ScreenConnect client MSI from a remote IP, enabling unauthorized remote access.",
+      "threat_type": "malware",
+      "tweet_id": "2111218017547817401",
+      "type": "sha256",
+      "value": "e050ddccbdac97dfc8eb41760a76b1ae7f0c9e22a44034304462ea20c3ed51f5"
+    },
     "e06b0fadd0c528ce4387ad2633a32695b943b29a00e0a82ff4dc32abb9670dc4": {
       "confidence": 0.5,
       "date": "2026-09-27 23:31:58",
@@ -22075,22 +22132,6 @@
       "tweet_id": "2105875500057165923",
       "type": "sha256",
       "value": "e2a34605b9b59bac25a77ee77d0ae62dea9b441a0b2018af8dea570bc40af23f"
-    },
-    "e6be3944242de6dd32336e727b7071c6": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "md5",
-      "value": "e6be3944242de6dd32336e727b7071c6"
     },
     "e879bd752c4883b158d41ebb242aeca1912515233e861f5350bd2de23556c517": {
       "confidence": 0.85,
@@ -22340,6 +22381,20 @@
       "tweet_id": "2105947127755223200",
       "type": "md5",
       "value": "ee0bbb719b48c7b166d5c228290e72c9"
+    },
+    "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b": {
+      "confidence": 0.5,
+      "date": "2026-10-16 22:04:23",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Korean-named health checkup ZIP lure whose payload connects to a remote PHP endpoint and references an embedded PDF URL on a free host.",
+      "threat_type": "malware",
+      "tweet_id": "2111216711831810173",
+      "type": "sha256",
+      "value": "ee39f091a23c746763ff44a273d11307abe5ca531f363b5621dfaa695f39a37b"
     },
     "ee710c2430567c7740026a3b4772c1c22516196285a58f976b91e2f6ae5dfab3": {
       "confidence": 0.4,
@@ -23320,22 +23375,6 @@
       "type": "sha256",
       "value": "f406a815d1b5aaf7bcc4d15a9d2e422401eac6d054b35bd6e145bf14ce6f10f9"
     },
-    "f5692b5db3e91225938861695f89acd7": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "md5",
-      "value": "f5692b5db3e91225938861695f89acd7"
-    },
     "f620114d205fae0275faabab965db7d6ab47942cee71084d1d6d0fd75265a138": {
       "confidence": 0.8,
       "date": "2026-10-13 23:31:39",
@@ -23698,22 +23737,6 @@
       "tweet_id": "2107098619316670767",
       "type": "sha256",
       "value": "fcb25bcd035d93e2791be4990119bc3980ffc16209faec1cb557208168dc7f72"
-    },
-    "fce5a84ad616e353e1048617a4fbe809": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "md5",
-      "value": "fce5a84ad616e353e1048617a4fbe809"
     },
     "fced413a9960c7da5bc4f1e10ffb0c2898b8f053e56f0f168543265529044bd4": {
       "confidence": 0.4,
@@ -24158,22 +24181,6 @@
       "tweet_id": "2103017026436362279",
       "type": "url",
       "value": "http://files.surveillance-online.com/files/9e26792b-84a3-44c1-886a-d92c9f46e1ff"
-    },
-    "files.wp-js.com": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "files.wp-js.com"
     },
     "finance-information.online": {
       "confidence": 0.75,
@@ -26169,36 +26176,6 @@
       "type": "url",
       "value": "https://hasoadwaznqps.com/transtioncash/"
     },
-    "havanoficiall.com": {
-      "confidence": 0.95,
-      "date": "2026-09-16 22:55:01",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake website impersonating Brazilian retailer Havan (havanoficiall.com), flagged as phishing/scam clone.",
-      "threat_type": "phishing",
-      "tweet_id": "2100357819002143211",
-      "type": "domain",
-      "value": "havanoficiall.com"
-    },
-    "havanoficiall.com/produto/escada-multifuncional-de-aluminio-4x4-com-16-degraus-dobravel": {
-      "confidence": 0.95,
-      "date": "2026-09-16 22:55:01",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake website impersonating Brazilian retailer Havan (havanoficiall.com), flagged as phishing/scam clone.",
-      "threat_type": "phishing",
-      "tweet_id": "2100357819002143211",
-      "type": "url",
-      "value": "https://havanoficiall.com/produto/escada-multifuncional-de-aluminio-4x4-com-16-degraus-dobravel"
-    },
     "havokindle.com": {
       "confidence": 0.88,
       "date": "2026-09-20 03:21:02",
@@ -26603,22 +26580,6 @@
       "tweet_id": "2104712860890976420",
       "type": "url",
       "value": "https://hhmjjdfwzx.com/transtioncash/"
-    },
-    "highertola.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "highertola.duckdns.org"
     },
     "hii-hoores.duckdns.org": {
       "confidence": 0.85,
@@ -27322,22 +27283,6 @@
       "type": "url",
       "value": "http://ibtuxr641i.c4-explosive-workshops.de/l/dN8uUIAgPm0"
     },
-    "ibuchimo.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "ibuchimo.duckdns.org"
-    },
     "icloudxtzsopoe.click": {
       "confidence": 0.97,
       "date": "2026-09-18 17:01:36",
@@ -27486,6 +27431,22 @@
       "tweet_id": "2103492532810232027",
       "type": "domain",
       "value": "illuminatedminds.eu"
+    },
+    "illustrationi-jp.com": {
+      "confidence": 0.75,
+      "date": "2026-10-16 23:01:04",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Phishing site impersonating Amazon Japan that distributes Android malware.",
+      "threat_type": "phishing",
+      "tweet_id": "2111230976244556247",
+      "type": "domain",
+      "value": "illustrationi-jp.com"
     },
     "imacos.cc": {
       "confidence": 0.95,
@@ -27727,6 +27688,22 @@
       "tweet_id": "2108499632909123917",
       "type": "domain",
       "value": "instantupdate.dev"
+    },
+    "interactions-according-reports-syndication.trycloudflare.com": {
+      "confidence": 0.8,
+      "date": "2026-09-24 16:07:54",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": "AsyncRAT",
+      "suggested_tags": [
+        "asyncrat",
+        "opendir",
+        "rat"
+      ],
+      "summary": "Open directories on trycloudflare.com tunnel subdomains hosting AsyncRAT / DarkCrystal malware.",
+      "threat_type": "malware",
+      "tweet_id": "2103154466770010137",
+      "type": "domain",
+      "value": "interactions-according-reports-syndication.trycloudflare.com"
     },
     "interior-gov-pk.mail-govt.org": {
       "confidence": 0.6,
@@ -27995,22 +27972,6 @@
       "tweet_id": "2109855216871133513",
       "type": "url",
       "value": "https://irvombeth.cfd/matsui"
-    },
-    "isensys.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "isensys.duckdns.org"
     },
     "isgraphicsport.net": {
       "confidence": 0.45,
@@ -28584,22 +28545,6 @@
       "tweet_id": "2108169246240911697",
       "type": "domain",
       "value": "js-stable.pupplements.com"
-    },
-    "js.wp-js.com": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "js.wp-js.com"
     },
     "jsdmesh.com": {
       "confidence": 0.85,
@@ -30651,21 +30596,6 @@
       "type": "domain",
       "value": "machine628.baby"
     },
-    "magablack.com": {
-      "confidence": 0.95,
-      "date": "2026-09-16 23:00:24",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Fake website impersonating Brazilian retailer Magalu (magablack.com), flagged as phishing/scam clone.",
-      "threat_type": "phishing",
-      "tweet_id": "2100359174811009362",
-      "type": "domain",
-      "value": "magablack.com"
-    },
     "magablack.com/produto.php?slug=escada-articulada-16-degraus-aluminio-botafogo-altura": {
       "confidence": 0.85,
       "date": "2026-09-18 18:25:18",
@@ -30768,6 +30698,22 @@
       "tweet_id": "2109690898074214748",
       "type": "url",
       "value": "http://mail.intomahost2.com/port/paypal/auth/login.php"
+    },
+    "mamatambiensr-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-16 23:39:48",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as the Japanese e-Tax service, distributed via a phishing site and a malicious APK.",
+      "threat_type": "malware",
+      "tweet_id": "2111240726738821316",
+      "type": "domain",
+      "value": "mamatambiensr-jp.com"
     },
     "manuelitellc.screenconnect.com": {
       "confidence": 0.85,
@@ -30977,22 +30923,6 @@
       "tweet_id": "2103352499017224656",
       "type": "url",
       "value": "https://mauihost.qpon/AdobeInstaller.html"
-    },
-    "mazedtrem.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "mazedtrem.duckdns.org"
     },
     "mbrgwn.cfd": {
       "confidence": 0.95,
@@ -34022,6 +33952,22 @@
       "type": "domain",
       "value": "pemfinsideo-jp.com"
     },
+    "periods-genetic-stones-government.trycloudflare.com": {
+      "confidence": 0.8,
+      "date": "2026-09-24 16:07:54",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": "AsyncRAT",
+      "suggested_tags": [
+        "asyncrat",
+        "opendir",
+        "rat"
+      ],
+      "summary": "Open directories on trycloudflare.com tunnel subdomains hosting AsyncRAT / DarkCrystal malware.",
+      "threat_type": "malware",
+      "tweet_id": "2103154466770010137",
+      "type": "domain",
+      "value": "periods-genetic-stones-government.trycloudflare.com"
+    },
     "phantomc2.cc": {
       "confidence": 0.7,
       "date": "2026-09-18 08:34:23",
@@ -34331,22 +34277,6 @@
       "type": "url",
       "value": "https://poiwaldsas.com/transtioncash/"
     },
-    "polanddec.duckdns.org": {
-      "confidence": 0.72,
-      "date": "2026-09-16 19:54:02",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "rat",
-        "malware"
-      ],
-      "summary": "Multiple duckdns.org C2 domains and IP 154.21.14.84:30351 associated with six malware hashes; likely RAT infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2100312272778244396",
-      "type": "domain",
-      "value": "polanddec.duckdns.org"
-    },
     "polisdaaqopx.com": {
       "confidence": 0.85,
       "date": "2026-09-19 00:05:54",
@@ -34424,6 +34354,34 @@
       "tweet_id": "2107646620380893553",
       "type": "domain",
       "value": "polygoodplastics.com"
+    },
+    "portal-desenrolabrasil.comercial.ws": {
+      "confidence": 0.85,
+      "date": "2026-10-16 21:52:45",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page impersonating the Brazilian Desenrola Brasil portal, hosted on a comercial.ws subdomain.",
+      "threat_type": "phishing",
+      "tweet_id": "2111213787235631441",
+      "type": "domain",
+      "value": "portal-desenrolabrasil.comercial.ws"
+    },
+    "portal-desenrolabrasil.comercial.ws/pt_br/home.html": {
+      "confidence": 0.85,
+      "date": "2026-10-16 21:52:45",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page impersonating the Brazilian Desenrola Brasil portal, hosted on a comercial.ws subdomain.",
+      "threat_type": "phishing",
+      "tweet_id": "2111213787235631441",
+      "type": "url",
+      "value": "https://portal-desenrolabrasil.comercial.ws/pt_br/home.html"
     },
     "portfoliomoneyline.com": {
       "confidence": 0.9,
@@ -35633,6 +35591,21 @@
       "tweet_id": "2103950933088506181",
       "type": "domain",
       "value": "razelosis.net"
+    },
+    "re.myloisle.com": {
+      "confidence": 0.85,
+      "date": "2026-09-18 13:11:55",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure offering a discounted Sam's Club membership that actually uses re.myloisle.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2100935851857547707",
+      "type": "domain",
+      "value": "re.myloisle.com"
     },
     "record-video.online": {
       "confidence": 0.75,
@@ -38303,38 +38276,6 @@
       "type": "domain",
       "value": "static.telegram-info.top"
     },
-    "static.wp-js.com": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "static.wp-js.com"
-    },
-    "stats.wp-js.com": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "stats.wp-js.com"
-    },
     "stc-chaffoteaux.com": {
       "confidence": 0.9,
       "date": "2026-10-05 06:06:04",
@@ -38406,6 +38347,20 @@
       "tweet_id": "2110364935297589439",
       "type": "url",
       "value": "https://stellasallaku.com/SnNluBjH/"
+    },
+    "stinson.myssologin.com": {
+      "confidence": 0.65,
+      "date": "2026-10-16 20:01:26",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "UNC6671 infrastructure update: two new myssologin.com hostnames apparently impersonating law firms Stinson and Dechert.",
+      "threat_type": "phishing",
+      "tweet_id": "2111185771000406305",
+      "type": "domain",
+      "value": "stinson.myssologin.com"
     },
     "storage.googleapis.com/narpotelsgh332bsp/765100084431/3003125112/tee6/index.html#temp@microsoft.com": {
       "confidence": 0.93,
@@ -42085,54 +42040,6 @@
       "type": "domain",
       "value": "worldprimenew-jp.com"
     },
-    "wp-js.com": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "wp-js.com"
-    },
-    "wprelay.pages.dev": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "wprelay.pages.dev"
-    },
-    "wpresourcerelay.info": {
-      "confidence": 0.6,
-      "date": "2026-09-16 19:39:42",
-      "enriched_at": "2026-09-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "magecart",
-        "clearfake"
-      ],
-      "summary": "Malicious WordPress JS injection infrastructure including wp-js.com subdomains and relay domains; zero VT detection at report time.",
-      "threat_type": "malware",
-      "tweet_id": "2100308666347884973",
-      "type": "domain",
-      "value": "wpresourcerelay.info"
-    },
     "wudaksldas.com": {
       "confidence": 0.9,
       "date": "2026-10-01 12:20:25",
@@ -42994,6 +42901,20 @@
       "tweet_id": "2101443894105792574",
       "type": "domain",
       "value": "xn--80aafzuww.xn--p1ai"
+    },
+    "xncdvoghw.wuaze.com//xac74/xac15/xac80/xc9c4.pdf": {
+      "confidence": 0.5,
+      "date": "2026-10-16 22:04:23",
+      "enriched_at": "2026-10-17T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Korean-named health checkup ZIP lure whose payload connects to a remote PHP endpoint and references an embedded PDF URL on a free host.",
+      "threat_type": "malware",
+      "tweet_id": "2111216711831810173",
+      "type": "url",
+      "value": "https://xncdvoghw.wuaze.com//xac74/xac15/xac80/xc9c4.pdf"
     },
     "xtmafe.cn": {
       "confidence": 0.8,
@@ -44021,6 +43942,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-16T18:40:03Z",
+  "generated_at": "2026-10-17T00:40:04Z",
   "window_days": 30
 }
