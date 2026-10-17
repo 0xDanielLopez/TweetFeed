@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 1481
-; Updated: 2026-10-17T11:15:17Z
+; Entries: 1486
+; Updated: 2026-10-17T12:30:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792235717 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792240216 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -974,6 +974,8 @@ fontawesome-cdn.cfd CNAME .
 *.fontawesome-cdn.cfd CNAME .
 fontawesome-js-cdn.beer CNAME .
 *.fontawesome-js-cdn.beer CNAME .
+forumst.co.kr CNAME .
+*.forumst.co.kr CNAME .
 fqelt.cn CNAME .
 *.fqelt.cn CNAME .
 framework-jsoncdn.beer CNAME .
@@ -1540,6 +1542,8 @@ loja-ma-ga-zine-luiza.com CNAME .
 *.loja-ma-ga-zine-luiza.com CNAME .
 loja1-havan.com CNAME .
 *.loja1-havan.com CNAME .
+lojalivretos.store CNAME .
+*.lojalivretos.store CNAME .
 lollu.lol CNAME .
 *.lollu.lol CNAME .
 loushiha-jprakutanziu.com CNAME .
@@ -2212,6 +2216,8 @@ safetystock.eu CNAME .
 *.safetystock.eu CNAME .
 sahko-team.fi CNAME .
 *.sahko-team.fi CNAME .
+salator.es CNAME .
+*.salator.es CNAME .
 sandsprecast.com CNAME .
 *.sandsprecast.com CNAME .
 sane-cdn-js.beer CNAME .
@@ -2754,6 +2760,8 @@ webmail-service-xfinity.fercel.app CNAME .
 *.webmail-service-xfinity.fercel.app CNAME .
 webmail-service-xfinity.gercel.app CNAME .
 *.webmail-service-xfinity.gercel.app CNAME .
+websalat.top CNAME .
+*.websalat.top CNAME .
 websitewebcache.com CNAME .
 *.websitewebcache.com CNAME .
 wechat.proxy08.com CNAME .
@@ -2818,6 +2826,8 @@ workspacegranite.com CNAME .
 *.workspacegranite.com CNAME .
 worldprimenew-jp.com CNAME .
 *.worldprimenew-jp.com CNAME .
+wruser.org CNAME .
+*.wruser.org CNAME .
 wudaksldas.com CNAME .
 *.wudaksldas.com CNAME .
 wuhuanlo-jprakutanziu.com CNAME .

@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-17 12:15:14 (UTC)</th>
+        <th colspan=4>2026-10-17 12:30:16 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 22 | 395 | 1915 | 46144 |
-| **:globe_with_meridians: Domains** | 17 | 284 | 1595 | 39978 |
-| **:triangular_flag_on_post: IPs** | 7 | 164 | 597 | 6360 |
+| **:link: URLs** | 29 | 402 | 1922 | 46151 |
+| **:globe_with_meridians: Domains** | 23 | 290 | 1601 | 39984 |
+| **:triangular_flag_on_post: IPs** | 8 | 165 | 598 | 6361 |
 | **:1234: SHA256** | 1 | 90 | 302 | 2836 |
 | **:1234: MD5** | 0 | 9 | 58 | 2125 |
 
@@ -211,7 +211,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#scam** | 2 | 16 | 79 | 3937 |
 | **#malware** | 13 | 173 | 683 | 3385 |
 | **#C2** | 0 | 12 | 107 | 2218 |
-| **#APT** | 0 | 9 | 42 | 1536 |
+| **#APT** | 6 | 15 | 48 | 1542 |
 | **#ClickFix** | 0 | 67 | 430 | 1019 |
 | **#opendir** | 0 | 2 | 44 | 717 |
 | **#stealer** | 0 | 9 | 21 | 677 |
@@ -233,13 +233,13 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->94<!-- TAG_COUNT_END --> tag
 | **#1** | [masaomi346](https://x.com/masaomi346) | 19 |
 | **#2** | [Malwarehunterr](https://x.com/Malwarehunterr) | 8 |
 | **#3** | [orlof_v](https://x.com/orlof_v) | 8 |
-| **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#5** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#7** | [MsftSecIntel](https://x.com/MsftSecIntel) | 2 |
-| **#8** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
-| **#9** | [-](https://x.com/-) | 0 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#4** | [Huntbackio](https://x.com/Huntbackio) | 8 |
+| **#5** | [byrne_emmy12099](https://x.com/byrne_emmy12099) | 6 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#7** | [phishunt_io](https://x.com/phishunt_io) | 3 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#9** | [MsftSecIntel](https://x.com/MsftSecIntel) | 2 |
+| **#10** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>

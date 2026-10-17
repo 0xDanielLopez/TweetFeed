@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 1481
-# Updated: 2026-10-17T11:15:17Z
+# Entries: 1486
+# Updated: 2026-10-17T12:30:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -489,6 +489,7 @@ address=/fol9.com/0.0.0.0
 address=/follwtrk.com/0.0.0.0
 address=/fontawesome-cdn.cfd/0.0.0.0
 address=/fontawesome-js-cdn.beer/0.0.0.0
+address=/forumst.co.kr/0.0.0.0
 address=/fqelt.cn/0.0.0.0
 address=/framework-jsoncdn.beer/0.0.0.0
 address=/frameworkjsbns.beer/0.0.0.0
@@ -772,6 +773,7 @@ address=/login.zhongshengsuoju.com/0.0.0.0
 address=/loin-annzn.mydw88.com/0.0.0.0
 address=/loja-ma-ga-zine-luiza.com/0.0.0.0
 address=/loja1-havan.com/0.0.0.0
+address=/lojalivretos.store/0.0.0.0
 address=/lollu.lol/0.0.0.0
 address=/loushiha-jprakutanziu.com/0.0.0.0
 address=/lovelyday-app.com/0.0.0.0
@@ -1108,6 +1110,7 @@ address=/safeprocessmaster.com/0.0.0.0
 address=/safeprocessor.com/0.0.0.0
 address=/safetystock.eu/0.0.0.0
 address=/sahko-team.fi/0.0.0.0
+address=/salator.es/0.0.0.0
 address=/sandsprecast.com/0.0.0.0
 address=/sane-cdn-js.beer/0.0.0.0
 address=/sanjinshdfuli.igb56k.info/0.0.0.0
@@ -1379,6 +1382,7 @@ address=/webcachecache.com/0.0.0.0
 address=/webconnect.5tr.org/0.0.0.0
 address=/webmail-service-xfinity.fercel.app/0.0.0.0
 address=/webmail-service-xfinity.gercel.app/0.0.0.0
+address=/websalat.top/0.0.0.0
 address=/websitewebcache.com/0.0.0.0
 address=/wechat.proxy08.com/0.0.0.0
 address=/weifenqianbao-jp.com/0.0.0.0
@@ -1411,6 +1415,7 @@ address=/workspacegoogle.org.ru/0.0.0.0
 address=/workspacegoogle.pp.ru/0.0.0.0
 address=/workspacegranite.com/0.0.0.0
 address=/worldprimenew-jp.com/0.0.0.0
+address=/wruser.org/0.0.0.0
 address=/wudaksldas.com/0.0.0.0
 address=/wuhuanlo-jprakutanziu.com/0.0.0.0
 address=/wuweizhe.com/0.0.0.0
