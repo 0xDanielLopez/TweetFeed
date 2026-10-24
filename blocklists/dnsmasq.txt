@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2838
-# Updated: 2026-10-24T05:30:18Z
+# Entries: 2842
+# Updated: 2026-10-24T07:00:19Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1151,6 +1151,9 @@ address=/drive-sharing.work.gd/0.0.0.0
 address=/dv0psh-purv3w-azfn-b2c0-msauth3-m365svc-s3ntln-4zrfn3x-cntnrx.workers.dev/0.0.0.0
 address=/dymowski.eu/0.0.0.0
 address=/dzwwftf.cn/0.0.0.0
+address=/e-challan.download/0.0.0.0
+address=/e-challan.link/0.0.0.0
+address=/e-challan.sarl/0.0.0.0
 address=/e1.cdnresolver.com/0.0.0.0
 address=/earthbuddypet.cslt168.com/0.0.0.0
 address=/easydriverhub.com/0.0.0.0
@@ -1490,6 +1493,7 @@ address=/imepki.com/0.0.0.0
 address=/img.webapi-whatsapp.com/0.0.0.0
 address=/immersionhousing.com/0.0.0.0
 address=/immmerhency.com/0.0.0.0
+address=/in-echallan.win/0.0.0.0
 address=/inbox.webstatici-whatsapp.com/0.0.0.0
 address=/indeedinternationals.com/0.0.0.0
 address=/independentmortgageadvisor.uk/0.0.0.0
