@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-24 12:45:16 (UTC)</th>
+        <th colspan=4>2026-10-24 13:00:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -190,7 +190,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 24 | 1733 | 3359 | 46354 |
 | **:globe_with_meridians: Domains** | 21 | 1606 | 2948 | 40145 |
-| **:triangular_flag_on_post: IPs** | 9 | 1523 | 2065 | 7807 |
+| **:triangular_flag_on_post: IPs** | 10 | 1524 | 2066 | 7808 |
 | **:1234: SHA256** | 3 | 109 | 397 | 2941 |
 | **:1234: MD5** | 2 | 30 | 71 | 2105 |
 
@@ -213,7 +213,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#C2** | 5 | 48 | 102 | 2219 |
 | **#APT** | 0 | 6 | 38 | 1507 |
 | **#ClickFix** | 0 | 44 | 442 | 1059 |
-| **#opendir** | 0 | 2 | 47 | 714 |
+| **#opendir** | 1 | 3 | 48 | 715 |
 | **#ransomware** | 0 | 16 | 103 | 677 |
 <!-- TAG_TABLE_END -->
 
