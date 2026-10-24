@@ -1,5 +1,5 @@
 {
-  "count": 5822,
+  "count": 5903,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 1,
@@ -18,8 +18,8 @@
       "last_attempt": "2026-10-23T06:40:03Z"
     },
     "2110971416963326442": {
-      "attempts": 1,
-      "last_attempt": "2026-10-23T18:40:04Z"
+      "attempts": 2,
+      "last_attempt": "2026-10-24T00:40:04Z"
     },
     "2111212930066706900": {
       "attempts": 2,
@@ -4117,6 +4117,21 @@
       "type": "ip",
       "value": "119.15.169.38"
     },
+    "119.160.105.93": {
+      "confidence": 0.85,
+      "date": "2026-10-23 19:23:47",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "c2"
+      ],
+      "summary": "Cobalt Strike C2 domain pnalumni.dgitd.anchorbolnorth.com and IP 119.160.105.93 in a Pakistani network.",
+      "threat_type": "c2",
+      "tweet_id": "2113712374695788574",
+      "type": "url",
+      "value": "http://119.160.105.93"
+    },
     "119.28.84.193": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -6709,6 +6724,34 @@
       "type": "ip",
       "value": "141.195.119.134"
     },
+    "141.98.10.25": {
+      "confidence": 0.75,
+      "date": "2026-10-23 21:24:09",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "DiddyBot",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "DiddyBot dropper hosted at 141.98.10.25.",
+      "threat_type": "malware",
+      "tweet_id": "2113743302193230261",
+      "type": "url",
+      "value": "http://141.98.10.25"
+    },
+    "141.98.10.25/diddysbot-amd64": {
+      "confidence": 0.75,
+      "date": "2026-10-23 21:26:34",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "DiddyBot",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "DiddyBot malware binary (diddysbot-amd64) served from 141.98.10.25.",
+      "threat_type": "malware",
+      "tweet_id": "2113743909134229940",
+      "type": "url",
+      "value": "http://141.98.10.25/diddysbot-amd64"
+    },
     "1419993777.cyou": {
       "confidence": 0.9,
       "date": "2026-10-02 13:51:37",
@@ -6893,6 +6936,34 @@
       "tweet_id": "2112901872457773170",
       "type": "url",
       "value": "http://145.63.130.147"
+    },
+    "146.103.100.148": {
+      "confidence": 0.5,
+      "date": "2026-10-23 20:32:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Login panels titled 'FileHost' and '\u0412\u0445\u043e\u0434' exposed on 89.124.99.187:6001 and 146.103.100.148:7777, likely malware control panels.",
+      "threat_type": "c2",
+      "tweet_id": "2113730389688963196",
+      "type": "ip",
+      "value": "146.103.100.148"
+    },
+    "146.103.100.148:7777/login": {
+      "confidence": 0.5,
+      "date": "2026-10-23 20:32:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Login panels titled 'FileHost' and '\u0412\u0445\u043e\u0434' exposed on 89.124.99.187:6001 and 146.103.100.148:7777, likely malware control panels.",
+      "threat_type": "c2",
+      "tweet_id": "2113730389688963196",
+      "type": "url",
+      "value": "http://146.103.100.148:7777/login"
     },
     "146.148.122.37": {
       "confidence": 0.5,
@@ -7135,6 +7206,23 @@
       "tweet_id": "2109658757680726154",
       "type": "ip",
       "value": "150.158.50.175"
+    },
+    "150.241.66.223": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "url",
+      "value": "http://150.241.66.223"
     },
     "150.241.68.194": {
       "confidence": 0.6,
@@ -7496,6 +7584,21 @@
       "tweet_id": "2110434672446779465",
       "type": "sha256",
       "value": "1534e8091708e13a24698de848faccac0ccbf82cc625f990bed0c7ec5388c345"
+    },
+    "154.12.28.225": {
+      "confidence": 0.7,
+      "date": "2026-10-15 08:25:29",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "WEBSPY",
+      "suggested_tags": [
+        "rat",
+        "c2"
+      ],
+      "summary": "WEBSPY RAT panel hosted on 154.12.28.225:3000 among several similar panel IPs.",
+      "threat_type": "c2",
+      "tweet_id": "2110648242555998566",
+      "type": "ip",
+      "value": "154.12.28.225"
     },
     "154.12.83.188": {
       "confidence": 0.8,
@@ -11186,6 +11289,23 @@
       "type": "ip",
       "value": "194.165.16.55"
     },
+    "194.180.191.245": {
+      "confidence": 0.85,
+      "date": "2026-10-23 22:04:34",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure: nairawaterfall.com and subdomains plus IP 194.180.191.245 (AS39798 MivoCloud).",
+      "threat_type": "c2",
+      "tweet_id": "2113753472726434072",
+      "type": "url",
+      "value": "http://194.180.191.245"
+    },
     "194.233.72.68": {
       "confidence": 0.5,
       "date": "2026-10-13 21:06:21",
@@ -12133,6 +12253,18 @@
       "tweet_id": "2112628745077133499",
       "type": "url",
       "value": "http://2.27.63.244"
+    },
+    "2.27.63.78": {
+      "confidence": 0.3,
+      "date": "2026-10-23 21:41:19",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Suspicious IP 2.27.63.78 shared without context, likely malicious hosting infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2113747624935473579",
+      "type": "url",
+      "value": "http://2.27.63.78"
     },
     "2.29.2.248": {
       "confidence": 0.6,
@@ -14868,6 +15000,20 @@
       "tweet_id": "2106133260061257980",
       "type": "sha256",
       "value": "30a54c0221e7ade433636c205e508aaa1006f4df93870ade8fb15db995b98704"
+    },
+    "31.128.39.24": {
+      "confidence": 0.55,
+      "date": "2026-10-23 20:38:14",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Russian IP 31.128.39.24 observed doing NTLM relay, Keycloak brute force, WAF bypass and Nginx exploit attempts.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2113731747057705061",
+      "type": "url",
+      "value": "http://31.128.39.24"
     },
     "31.43.160.6": {
       "confidence": 0.75,
@@ -23857,6 +24003,21 @@
       "type": "ip",
       "value": "37.120.213.13"
     },
+    "37.128.206.215": {
+      "confidence": 0.85,
+      "date": "2026-10-23 19:54:28",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2"
+      ],
+      "summary": "Three IPs identified as Sliver C2 servers via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2113720731897119108",
+      "type": "url",
+      "value": "http://37.128.206.215"
+    },
     "37.187.140.177": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -24599,6 +24760,21 @@
       "tweet_id": "2105703199189475676",
       "type": "ip",
       "value": "38.181.56.130"
+    },
+    "38.242.147.58": {
+      "confidence": 0.85,
+      "date": "2026-10-23 19:54:28",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2"
+      ],
+      "summary": "Three IPs identified as Sliver C2 servers via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2113720731897119108",
+      "type": "url",
+      "value": "http://38.242.147.58"
     },
     "38.54.88.188": {
       "confidence": 0.8,
@@ -26003,6 +26179,21 @@
       "type": "url",
       "value": "http://45.149.153.141"
     },
+    "45.150.109.94": {
+      "confidence": 0.85,
+      "date": "2026-10-23 19:54:28",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2"
+      ],
+      "summary": "Three IPs identified as Sliver C2 servers via Shodan, high confidence.",
+      "threat_type": "c2",
+      "tweet_id": "2113720731897119108",
+      "type": "url",
+      "value": "http://45.150.109.94"
+    },
     "45.152.149.66": {
       "confidence": 0.85,
       "date": "2026-10-14 18:16:50",
@@ -26975,6 +27166,20 @@
       "tweet_id": "2113601611503120436",
       "type": "sha256",
       "value": "477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0"
+    },
+    "48db2ddcc81839bbd26c206696a47dc772fb7892603616da09657cd976533f69": {
+      "confidence": 0.4,
+      "date": "2026-10-23 20:39:15",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malware sample related to web panels (FileHost login) hosted on 89.124.99.187 and 146.103.100.148.",
+      "threat_type": "malware",
+      "tweet_id": "2113731735645048876",
+      "type": "sha256",
+      "value": "48db2ddcc81839bbd26c206696a47dc772fb7892603616da09657cd976533f69"
     },
     "49.51.50.66": {
       "confidence": 0.7,
@@ -29619,6 +29824,21 @@
       "type": "url",
       "value": "http://78.17.93.224"
     },
+    "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898": {
+      "confidence": 0.85,
+      "date": "2026-10-23 19:23:47",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "c2"
+      ],
+      "summary": "Cobalt Strike sample with C2 domain pnalumni.dgitd.anchorbolnorth.com and IP 119.160.105.93 (Pakistan).",
+      "threat_type": "c2",
+      "tweet_id": "2113713009600451023",
+      "type": "sha256",
+      "value": "782b519154f11ae211cae0e8c4f0c9d8ca1c078d904684bc8923b978c6813898"
+    },
     "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd": {
       "confidence": 0.7,
       "date": "2026-10-10 22:58:16",
@@ -31400,6 +31620,34 @@
       "type": "md5",
       "value": "885b31b786c3c3a6f8cc9dd8f654f272"
     },
+    "89.124.99.187": {
+      "confidence": 0.5,
+      "date": "2026-10-23 20:32:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Login panels titled 'FileHost' and '\u0412\u0445\u043e\u0434' exposed on 89.124.99.187:6001 and 146.103.100.148:7777, likely malware control panels.",
+      "threat_type": "c2",
+      "tweet_id": "2113730389688963196",
+      "type": "ip",
+      "value": "89.124.99.187"
+    },
+    "89.124.99.187:6001": {
+      "confidence": 0.5,
+      "date": "2026-10-23 20:32:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Login panels titled 'FileHost' and '\u0412\u0445\u043e\u0434' exposed on 89.124.99.187:6001 and 146.103.100.148:7777, likely malware control panels.",
+      "threat_type": "c2",
+      "tweet_id": "2113730389688963196",
+      "type": "url",
+      "value": "http://89.124.99.187:6001"
+    },
     "89.125.214.211": {
       "confidence": 0.7,
       "date": "2026-10-15 08:25:29",
@@ -32577,20 +32825,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "96.126.117.80"
-    },
-    "96.127.174.30": {
-      "confidence": 0.9,
-      "date": "2026-09-24 00:15:31",
-      "enriched_at": "2026-09-24T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft-themed phishing page hosted on supermercadoabundancia.com.mx with IP 96.127.174.30.",
-      "threat_type": "phishing",
-      "tweet_id": "2102914790934864049",
-      "type": "url",
-      "value": "http://96.127.174.30"
     },
     "96.62.218.59": {
       "confidence": 0.9,
@@ -38836,6 +39070,22 @@
       "type": "domain",
       "value": "advanceamazonverifiedsolutions.com"
     },
+    "ae603fc7d6efe371f583531d0f8e4f3782189f1819c940d087c0447d1bd35e4f": {
+      "confidence": 0.8,
+      "date": "2026-10-23 20:30:09",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "phishing"
+      ],
+      "summary": "Fake Telegram site telegra.loan delivers ZIP/MSI with trojan config.exe; asset host tglog.iwatch.vip.",
+      "threat_type": "malware",
+      "tweet_id": "2113729711889346677",
+      "type": "sha256",
+      "value": "ae603fc7d6efe371f583531d0f8e4f3782189f1819c940d087c0447d1bd35e4f"
+    },
     "ae77ca969d8da72838100e387e4813d51265375937ad4245f1fce2fd4473493e": {
       "confidence": 0.4,
       "date": "2026-10-12 10:05:48",
@@ -40126,6 +40376,20 @@
       "tweet_id": "2107527084637835636",
       "type": "domain",
       "value": "api.adoptium.net"
+    },
+    "api.brandogdigital.org": {
+      "confidence": 0.9,
+      "date": "2026-10-23 18:53:53",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google sign-in phishing at cmail-geogle.com stealing emails, passwords and 2FA codes, exfiltrating to api.brandogdigital.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2113705487405343051",
+      "type": "domain",
+      "value": "api.brandogdigital.org"
     },
     "api.mitsui.smt7mlj.pro": {
       "confidence": 0.9,
@@ -44913,6 +45177,21 @@
       "type": "domain",
       "value": "businesshire.top"
     },
+    "buy.newarriveproduct.com": {
+      "confidence": 0.75,
+      "date": "2026-09-24 21:33:26",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Weight-loss (MEDVi) phishing lure from buy.newarriveproduct.com linking to another scam domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2103236390129664378",
+      "type": "domain",
+      "value": "buy.newarriveproduct.com"
+    },
     "buz-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -46178,6 +46457,40 @@
       "type": "domain",
       "value": "cdn-staticfiles.com"
     },
+    "cdn.nairawaterfall.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 22:04:34",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure: nairawaterfall.com and subdomains plus IP 194.180.191.245 (AS39798 MivoCloud).",
+      "threat_type": "c2",
+      "tweet_id": "2113753472726434072",
+      "type": "domain",
+      "value": "cdn.nairawaterfall.com"
+    },
+    "cdn.sakenlogistics.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "domain",
+      "value": "cdn.sakenlogistics.com"
+    },
     "cdn.simplynetworking.eu": {
       "confidence": 0.85,
       "date": "2026-10-14 18:16:50",
@@ -46209,6 +46522,23 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "cdn.webapi-whatsapp.com"
+    },
+    "cdn.youlovemybiba.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "domain",
+      "value": "cdn.youlovemybiba.com"
     },
     "cdnbot-whatsapp.com": {
       "confidence": 0.7,
@@ -46380,6 +46710,22 @@
       "tweet_id": "2108169246240911697",
       "type": "domain",
       "value": "cf-cdn.viktorkraynov.com"
+    },
+    "cfclear.devdesk.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "cfclear.devdesk.workers.dev"
     },
     "cgazkyh.cn": {
       "confidence": 0.8,
@@ -46750,6 +47096,22 @@
       "tweet_id": "2111033937589862588",
       "type": "url",
       "value": "https://check.neewsoo.com/webdav/kb3810638.exe"
+    },
+    "check.petyamamkinjuk.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "check.petyamamkinjuk.workers.dev"
     },
     "checkoutv2.inflowpay.com": {
       "confidence": 0.85,
@@ -47432,6 +47794,48 @@
       "tweet_id": "2111017138790056108",
       "type": "domain",
       "value": "clouzenterpr.com"
+    },
+    "cmail-geogle.com": {
+      "confidence": 0.9,
+      "date": "2026-10-23 18:53:53",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google sign-in phishing at cmail-geogle.com stealing emails, passwords and 2FA codes, exfiltrating to api.brandogdigital.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2113705487405343051",
+      "type": "domain",
+      "value": "cmail-geogle.com"
+    },
+    "cmail-geogle.com/apiconfig.js": {
+      "confidence": 0.9,
+      "date": "2026-10-23 18:53:53",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google sign-in phishing at cmail-geogle.com stealing emails, passwords and 2FA codes, exfiltrating to api.brandogdigital.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2113705487405343051",
+      "type": "url",
+      "value": "https://cmail-geogle.com/apiConfig.js"
+    },
+    "cmail-geogle.com/login_acc.js": {
+      "confidence": 0.9,
+      "date": "2026-10-23 18:53:53",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google sign-in phishing at cmail-geogle.com stealing emails, passwords and 2FA codes, exfiltrating to api.brandogdigital.org.",
+      "threat_type": "phishing",
+      "tweet_id": "2113705487405343051",
+      "type": "url",
+      "value": "https://cmail-geogle.com/login_acc.js"
     },
     "cmfbi.cn": {
       "confidence": 0.8,
@@ -48128,6 +48532,20 @@
       "type": "domain",
       "value": "corepush-whatsapp.com"
     },
+    "coreservicejcp.com": {
+      "confidence": 0.5,
+      "date": "2026-10-23 20:30:49",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Domain coreservicejcp.com associated with a malicious MSI sample.",
+      "threat_type": "malware",
+      "tweet_id": "2113728290196463630",
+      "type": "domain",
+      "value": "coreservicejcp.com"
+    },
     "cors-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -48667,6 +49085,20 @@
       "type": "md5",
       "value": "d2ba2b7c61b060f644f46add729c4006"
     },
+    "d2d95c5534efcea6c63843cde59b617ac5b97e057d908298191468d5e3b7635a": {
+      "confidence": 0.55,
+      "date": "2026-10-23 20:30:49",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI sample (AzureCobalt57) linked to coreservicejcp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2113729879229317627",
+      "type": "sha256",
+      "value": "d2d95c5534efcea6c63843cde59b617ac5b97e057d908298191468d5e3b7635a"
+    },
     "d306ba62abcd3b3772e7ba27f94c9643bc6bf501380ca056142f65894038b0b8": {
       "confidence": 0.8,
       "date": "2026-10-21 10:42:09",
@@ -48724,6 +49156,36 @@
       "tweet_id": "2106376009654145461",
       "type": "sha256",
       "value": "d3fd27b5a26302626d8eac3b2fea3ab0370b5918b97f5f3e310137ad00bdebcc"
+    },
+    "d53128ca7057a8bcc362f2c8ea30fcce": {
+      "confidence": 0.6,
+      "date": "2026-10-23 20:04:07",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "MD5 hash tied to Google phishing domain n1-us-google.com harvesting credentials and MFA codes.",
+      "threat_type": "phishing",
+      "tweet_id": "2113723160214270452",
+      "type": "md5",
+      "value": "d53128ca7057a8bcc362f2c8ea30fcce"
+    },
+    "d5534936dcb8913c250b9e0bc14ee438feaf9ce3b5e076ba771b4211645acc81": {
+      "confidence": 0.8,
+      "date": "2026-10-23 20:30:09",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "phishing"
+      ],
+      "summary": "Fake Telegram site telegra.loan delivers ZIP/MSI with trojan config.exe; asset host tglog.iwatch.vip.",
+      "threat_type": "malware",
+      "tweet_id": "2113729711889346677",
+      "type": "sha256",
+      "value": "d5534936dcb8913c250b9e0bc14ee438feaf9ce3b5e076ba771b4211645acc81"
     },
     "d575fa0c29d6dd4cc063246d0e26d75e795b9751f2a9d1193c4ec01d59a5cd28": {
       "confidence": 0.7,
@@ -49584,6 +50046,22 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "deskpro-whatsapp.com"
+    },
+    "desktop-telergram.org": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "desktop-telergram.org"
     },
     "desktop.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -50754,6 +51232,23 @@
       "type": "domain",
       "value": "doubleclickpro.com"
     },
+    "download.sakenlogistics.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "domain",
+      "value": "download.sakenlogistics.com"
+    },
     "download.tender-confirmation.com": {
       "confidence": 0.7,
       "date": "2026-10-01 21:25:22",
@@ -50781,6 +51276,36 @@
       "tweet_id": "2105771076219535499",
       "type": "url",
       "value": "http://download.tender-confirmation.com:8080/file/"
+    },
+    "download.transunionbiba.lat": {
+      "confidence": 0.6,
+      "date": "2026-10-23 21:45:33",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directory on download.transunionbiba.lat hosting malicious files.",
+      "threat_type": "malware",
+      "tweet_id": "2113748689944490457",
+      "type": "url",
+      "value": "http://download.transunionbiba.lat"
+    },
+    "download.transunionbiba.lat/stage2.js": {
+      "confidence": 0.6,
+      "date": "2026-10-23 21:48:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "malware"
+      ],
+      "summary": "Malicious stage2.js script hosted on download.transunionbiba.lat, tied to the NetSupport campaign.",
+      "threat_type": "malware",
+      "tweet_id": "2113749305068753356",
+      "type": "url",
+      "value": "https://download.transunionbiba.lat/stage2.js"
     },
     "download.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -50811,6 +51336,40 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "download.webstatici-whatsapp.com"
+    },
+    "download.youlovemybiba.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "domain",
+      "value": "download.youlovemybiba.com"
+    },
+    "downloads.nairawaterfall.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 22:04:34",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure: nairawaterfall.com and subdomains plus IP 194.180.191.245 (AS39798 MivoCloud).",
+      "threat_type": "c2",
+      "tweet_id": "2113753472726434072",
+      "type": "domain",
+      "value": "downloads.nairawaterfall.com"
     },
     "downmirapp.org": {
       "confidence": 0.8,
@@ -52269,6 +52828,38 @@
       "type": "domain",
       "value": "equitygrandview.com"
     },
+    "eqvpn.space": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "eqvpn.space"
+    },
+    "eqvpn.space:2083": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "url",
+      "value": "http://eqvpn.space:2083"
+    },
     "eroimijv.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -52928,6 +53519,18 @@
       "tweet_id": "2103095348113924175",
       "type": "sha256",
       "value": "f72a7ee555e80235a967fae2979a0b543db0b0e2bbe72d56e4eb886a8549aceb"
+    },
+    "f7d9d07b72d6c75f0d5678ff609e5f37": {
+      "confidence": 0.15,
+      "date": "2026-10-23 18:26:04",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare MD5 hash shared without context.",
+      "threat_type": "other",
+      "tweet_id": "2113698488366039495",
+      "type": "md5",
+      "value": "f7d9d07b72d6c75f0d5678ff609e5f37"
     },
     "f8-whatsapp.com": {
       "confidence": 0.75,
@@ -55649,6 +56252,22 @@
       "type": "domain",
       "value": "gppcdnns.beer"
     },
+    "gptverification.com": {
+      "confidence": 0.6,
+      "date": "2026-10-23 18:20:43",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "ClickFix fake LinkedIn verification delivering malware via PowerShell; gptverification.com shared as related domain.",
+      "threat_type": "malware",
+      "tweet_id": "2113697138269946361",
+      "type": "domain",
+      "value": "gptverification.com"
+    },
     "grabthedeals.net": {
       "confidence": 0.7,
       "date": "2026-10-03 03:54:47",
@@ -56121,6 +56740,21 @@
       "type": "url",
       "value": "https://h92jcihwicllow.wuaze.com/YE97Bw999zB87t1U8i.php"
     },
+    "hackattackkaboom.botlesscucks.st": {
+      "confidence": 0.8,
+      "date": "2026-10-22 22:10:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "PHP2Shell",
+      "suggested_tags": [
+        "php2shell",
+        "malware"
+      ],
+      "summary": "Malicious domains tied to PHP2Shell payloads, decrypted in CyberChef per ELLIO write-up.",
+      "threat_type": "malware",
+      "tweet_id": "2113392662908969075",
+      "type": "domain",
+      "value": "hackattackkaboom.botlesscucks.st"
+    },
     "hackforums.net": {
       "confidence": 0.85,
       "date": "2026-10-09 14:14:16",
@@ -56561,6 +57195,22 @@
       "type": "domain",
       "value": "helensolution.info"
     },
+    "hello-world-fancy-mud-57ff.2111857176.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "hello-world-fancy-mud-57ff.2111857176.workers.dev"
+    },
     "help.financesolutiontips.com": {
       "confidence": 0.85,
       "date": "2026-09-24 18:59:36",
@@ -56743,6 +57393,21 @@
       "tweet_id": "2107705355895795930",
       "type": "domain",
       "value": "hii-hoores.duckdns.org"
+    },
+    "hik.gettingheadfromduckysmom.st": {
+      "confidence": 0.8,
+      "date": "2026-10-22 22:10:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "PHP2Shell",
+      "suggested_tags": [
+        "php2shell",
+        "malware"
+      ],
+      "summary": "Malicious domains tied to PHP2Shell payloads, decrypted in CyberChef per ELLIO write-up.",
+      "threat_type": "malware",
+      "tweet_id": "2113392662908969075",
+      "type": "domain",
+      "value": "hik.gettingheadfromduckysmom.st"
     },
     "history.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -58380,22 +59045,6 @@
       "tweet_id": "2104801988894732660",
       "type": "url",
       "value": "https://inviteteamsmeeting.fit/Teamsetup.msi"
-    },
-    "inwardatti-jp-etaxrefund.com": {
-      "confidence": 0.9,
-      "date": "2026-09-23 22:16:38",
-      "enriched_at": "2026-09-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax and National Tax Agency via fake tax refund domains.",
-      "threat_type": "malware",
-      "tweet_id": "2102884874311074019",
-      "type": "domain",
-      "value": "inwardatti-jp-etaxrefund.com"
     },
     "inyfkr.cn": {
       "confidence": 0.8,
@@ -60558,20 +61207,6 @@
       "type": "domain",
       "value": "lepiceriemarket.com"
     },
-    "lervuni-mpt-qazvoro-c3d6me71.pages.dev": {
-      "confidence": 0.62,
-      "date": "2026-09-23 21:10:03",
-      "enriched_at": "2026-09-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam"
-      ],
-      "summary": "Cloudflare Pages domain flagged as confirmed scam by automated web malware scanner.",
-      "threat_type": "scam",
-      "tweet_id": "2102868117361709520",
-      "type": "domain",
-      "value": "lervuni-mpt-qazvoro-c3d6me71.pages.dev"
-    },
     "lesbolides.eu": {
       "confidence": 0.95,
       "date": "2026-09-25 14:31:15",
@@ -60889,6 +61524,22 @@
       "type": "url",
       "value": "https://linksdocumentation001.blob.core.windows.net/00111/Scan020825_0608202622001"
     },
+    "linksub-4u1.pages.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "linksub-4u1.pages.dev"
+    },
     "linksync-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -60977,6 +61628,22 @@
       "tweet_id": "2103538148743782818",
       "type": "domain",
       "value": "llamafile.info"
+    },
+    "llsbsnls.suplayer810.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "llsbsnls.suplayer810.workers.dev"
     },
     "lnfcdnclad.beer": {
       "confidence": 0.92,
@@ -63078,6 +63745,20 @@
       "type": "domain",
       "value": "mistraljs.beer"
     },
+    "misuwh.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 23:52:47",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating a Sumitomo Mitsui (Mitsui Sumitomo) card brand, hosted at misuwh.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2113780708342903295",
+      "type": "domain",
+      "value": "misuwh.com"
+    },
     "mitsuiapp.nlpbxc.com": {
       "confidence": 0.9,
       "date": "2026-10-20 05:59:23",
@@ -63818,6 +64499,20 @@
       "type": "url",
       "value": "https://mzfpvc.cfd/default/#/index"
     },
+    "n1-us-google.com": {
+      "confidence": 0.9,
+      "date": "2026-10-23 19:52:05",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google phishing domain n1-us-google.com harvesting credentials and MFA codes with antibot JS.",
+      "threat_type": "phishing",
+      "tweet_id": "2113720131461521624",
+      "type": "domain",
+      "value": "n1-us-google.com"
+    },
     "n1if3c.cn": {
       "confidence": 0.75,
       "date": "2026-09-29 22:19:08",
@@ -63848,6 +64543,23 @@
       "tweet_id": "2103950933088506181",
       "type": "domain",
       "value": "nadalicach.com"
+    },
+    "nairawaterfall.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 22:04:34",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure: nairawaterfall.com and subdomains plus IP 194.180.191.245 (AS39798 MivoCloud).",
+      "threat_type": "c2",
+      "tweet_id": "2113753472726434072",
+      "type": "domain",
+      "value": "nairawaterfall.com"
     },
     "namanami.top": {
       "confidence": 0.75,
@@ -67069,6 +67781,21 @@
       "type": "domain",
       "value": "plymouthjraba-jp.com"
     },
+    "pnalumni.dgitd.anchorbolnorth.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 19:23:47",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "c2"
+      ],
+      "summary": "Cobalt Strike C2 domain pnalumni.dgitd.anchorbolnorth.com and IP 119.160.105.93 in a Pakistani network.",
+      "threat_type": "c2",
+      "tweet_id": "2113712374695788574",
+      "type": "domain",
+      "value": "pnalumni.dgitd.anchorbolnorth.com"
+    },
     "pnujh48.cn": {
       "confidence": 0.75,
       "date": "2026-10-08 23:25:59",
@@ -67223,6 +67950,21 @@
       "tweet_id": "2104712860890976420",
       "type": "url",
       "value": "https://poiwaldsas.com/transtioncash/"
+    },
+    "policyadvisordesk.info": {
+      "confidence": 0.8,
+      "date": "2026-10-23 22:03:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing lure posing as a tax-relief offer from policyadvisordesk.info, redirecting to another domain flagged by threat intel providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2113753092454011334",
+      "type": "domain",
+      "value": "policyadvisordesk.info"
     },
     "polskaprezydencjacsr.eu": {
       "confidence": 0.95,
@@ -67781,6 +68523,22 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "prouse-whatsapp.com"
+    },
+    "proxy-tg-huafei080.papag8593.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "proxy-tg-huafei080.papag8593.workers.dev"
     },
     "proxy8.com": {
       "confidence": 0.65,
@@ -70335,6 +71093,23 @@
       "tweet_id": "2112012188101840997",
       "type": "url",
       "value": "https://saissodbn202607oint.u0fnd.info/H80AoO"
+    },
+    "sakenlogistics.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "domain",
+      "value": "sakenlogistics.com"
     },
     "salator.es": {
       "confidence": 0.93,
@@ -73288,6 +74063,21 @@
       "type": "domain",
       "value": "style-whatsapp.com"
     },
+    "stylishhomegallery.com": {
+      "confidence": 0.75,
+      "date": "2026-10-01 02:25:40",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Multiple insurance, loan, tax and mattress lures redirecting to stylishhomegallery.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2105484262049005931",
+      "type": "domain",
+      "value": "stylishhomegallery.com"
+    },
     "stzaeyv.click": {
       "confidence": 0.9,
       "date": "2026-10-14 14:55:23",
@@ -73401,34 +74191,6 @@
       "tweet_id": "2105285307780243502",
       "type": "domain",
       "value": "sunyotech.com"
-    },
-    "supermercadoabundancia.com.mx": {
-      "confidence": 0.9,
-      "date": "2026-09-24 00:15:31",
-      "enriched_at": "2026-09-24T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft-themed phishing page hosted on supermercadoabundancia.com.mx with IP 96.127.174.30.",
-      "threat_type": "phishing",
-      "tweet_id": "2102914790934864049",
-      "type": "domain",
-      "value": "supermercadoabundancia.com.mx"
-    },
-    "supermercadoabundancia.com.mx/cdd/index.html#hr@microsoft.com": {
-      "confidence": 0.9,
-      "date": "2026-09-24 00:15:31",
-      "enriched_at": "2026-09-24T06:40:06Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Microsoft-themed phishing page hosted on supermercadoabundancia.com.mx with IP 96.127.174.30.",
-      "threat_type": "phishing",
-      "tweet_id": "2102914790934864049",
-      "type": "url",
-      "value": "https://supermercadoabundancia.com.mx/cdd/index.html#hr@microsoft.com"
     },
     "support-apple-in.live": {
       "confidence": 0.8,
@@ -73933,6 +74695,38 @@
       "type": "domain",
       "value": "t-com-ne-jp.duckdns.org"
     },
+    "t-me.fluffydaddy.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "t-me.fluffydaddy.dev"
+    },
+    "t-me.nproxy.org": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "t-me.nproxy.org"
+    },
     "t-trustrest.com": {
       "confidence": 0.85,
       "date": "2026-10-23 18:15:23",
@@ -74001,6 +74795,22 @@
       "type": "url",
       "value": "https://t-trustrest.com/ug/c09f9c47ebfe3da9"
     },
+    "t.me.combot.top": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "t.me.combot.top"
+    },
     "t.me/monoxidevip": {
       "confidence": 0.8,
       "date": "2026-10-22 06:29:10",
@@ -74046,6 +74856,22 @@
       "tweet_id": "2109878497061785665",
       "type": "domain",
       "value": "t0rm3ntor.kozow.com"
+    },
+    "t3389.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "t3389.workers.dev"
     },
     "table-whatsapp.com": {
       "confidence": 0.65,
@@ -74166,6 +74992,22 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "task-hrec.vercel.app"
+    },
+    "tchan1.anuj.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tchan1.anuj.workers.dev"
     },
     "tcp-whatsapp.com": {
       "confidence": 0.65,
@@ -74342,6 +75184,198 @@
       "type": "domain",
       "value": "techweb-whatsapp.com"
     },
+    "telega.one": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telega.one"
+    },
+    "telegra.loan": {
+      "confidence": 0.8,
+      "date": "2026-10-23 20:30:09",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "phishing"
+      ],
+      "summary": "Fake Telegram site telegra.loan delivers ZIP/MSI with trojan config.exe; asset host tglog.iwatch.vip.",
+      "threat_type": "malware",
+      "tweet_id": "2113729711889346677",
+      "type": "domain",
+      "value": "telegra.loan"
+    },
+    "telegra.loan/go/d": {
+      "confidence": 0.8,
+      "date": "2026-10-23 20:30:09",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "phishing"
+      ],
+      "summary": "Fake Telegram site telegra.loan delivers ZIP/MSI with trojan config.exe; asset host tglog.iwatch.vip.",
+      "threat_type": "malware",
+      "tweet_id": "2113729711889346677",
+      "type": "url",
+      "value": "https://telegra.loan/go/d"
+    },
+    "telegram-org.fluffydaddy.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegram-org.fluffydaddy.dev"
+    },
+    "telegram.huye1520.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegram.huye1520.workers.dev"
+    },
+    "telegram.mikuwed.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegram.mikuwed.workers.dev"
+    },
+    "telegramcenter.com": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegramcenter.com"
+    },
+    "telegramu.cn": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegramu.cn"
+    },
+    "telegramwk.com": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegramwk.com"
+    },
+    "telegrarm.com": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegrarm.com"
+    },
+    "telegroab.com": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telegroab.com"
+    },
+    "telgramcn.com": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "telgramcn.com"
+    },
     "temodlaire.com": {
       "confidence": 0.5,
       "date": "2026-09-26 20:52:46",
@@ -74497,6 +75531,102 @@
       "type": "domain",
       "value": "testenv1829.com"
     },
+    "tg.clcn.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tg.clcn.workers.dev"
+    },
+    "tg.regiuss.space": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tg.regiuss.space"
+    },
+    "tg.t3389.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tg.t3389.workers.dev"
+    },
+    "tg1.photopills.ir": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tg1.photopills.ir"
+    },
+    "tgfile.aaan.eu.org": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tgfile.aaan.eu.org"
+    },
+    "tglog.iwatch.vip": {
+      "confidence": 0.8,
+      "date": "2026-10-23 20:30:09",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan",
+        "phishing"
+      ],
+      "summary": "Fake Telegram site telegra.loan delivers ZIP/MSI with trojan config.exe; asset host tglog.iwatch.vip.",
+      "threat_type": "malware",
+      "tweet_id": "2113729711889346677",
+      "type": "domain",
+      "value": "tglog.iwatch.vip"
+    },
     "tgvweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -74584,6 +75714,22 @@
       "tweet_id": "2103980138933420366",
       "type": "domain",
       "value": "theartoftalki-saisanpolnts.com"
+    },
+    "theblock-tg.craigary.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "theblock-tg.craigary.workers.dev"
     },
     "thedentalsuite.com.au": {
       "confidence": 0.7,
@@ -74732,38 +75878,6 @@
       "type": "domain",
       "value": "therawcuscl-jp.com"
     },
-    "therawcusclu-jp-etaxrefund.com": {
-      "confidence": 0.9,
-      "date": "2026-09-23 22:16:38",
-      "enriched_at": "2026-09-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax and National Tax Agency via fake tax refund domains.",
-      "threat_type": "malware",
-      "tweet_id": "2102884874311074019",
-      "type": "domain",
-      "value": "therawcusclu-jp-etaxrefund.com"
-    },
-    "theswagbusu-jp-etaxrefund.com": {
-      "confidence": 0.9,
-      "date": "2026-09-23 22:16:38",
-      "enriched_at": "2026-09-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan's e-Tax and National Tax Agency via fake tax refund domains.",
-      "threat_type": "malware",
-      "tweet_id": "2102884874311074019",
-      "type": "domain",
-      "value": "theswagbusu-jp-etaxrefund.com"
-    },
     "theworkshop-sign.skin": {
       "confidence": 0.6,
       "date": "2026-10-21 12:12:01",
@@ -74778,6 +75892,22 @@
       "tweet_id": "2112879577307447551",
       "type": "domain",
       "value": "theworkshop-sign.skin"
+    },
+    "third-party.com": {
+      "confidence": 0.85,
+      "date": "2026-09-24 05:16:15",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "clickfix",
+        "fakecaptcha",
+        "malware"
+      ],
+      "summary": "third-party.com hosts a fake Cloudflare verification page tricking Windows users into running malicious PowerShell (ClickFix).",
+      "threat_type": "malware",
+      "tweet_id": "2102990474701312194",
+      "type": "domain",
+      "value": "third-party.com"
     },
     "thiswoodeno.com": {
       "confidence": 0.88,
@@ -74835,6 +75965,21 @@
       "tweet_id": "2112583368479318236",
       "type": "domain",
       "value": "thread-whatsapp.com"
+    },
+    "thunder.godofthunder.st": {
+      "confidence": 0.8,
+      "date": "2026-10-22 22:10:50",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "PHP2Shell",
+      "suggested_tags": [
+        "php2shell",
+        "malware"
+      ],
+      "summary": "Malicious domains tied to PHP2Shell payloads, decrypted in CyberChef per ELLIO write-up.",
+      "threat_type": "malware",
+      "tweet_id": "2113392662908969075",
+      "type": "domain",
+      "value": "thunder.godofthunder.st"
     },
     "tier-whatsapp.com": {
       "confidence": 0.65,
@@ -74977,6 +76122,22 @@
       "tweet_id": "2104419470542520341",
       "type": "url",
       "value": "https://tjbiaoben.com/SvMLWCCf/"
+    },
+    "tme.telelauncher.com": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "tme.telelauncher.com"
     },
     "tmmkxi.cn": {
       "confidence": 0.8,
@@ -78990,6 +80151,22 @@
       "type": "domain",
       "value": "winecdn.sbs"
     },
+    "winter-dawn-c288.suplayer810.workers.dev": {
+      "confidence": 0.75,
+      "date": "2026-10-23 20:47:00",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake Telegram sites and proxy/lookalike domains; telegra.loan delivers a ZIP/MSI with a trojan (config.exe) and installer.",
+      "threat_type": "malware",
+      "tweet_id": "2113733954490470752",
+      "type": "domain",
+      "value": "winter-dawn-c288.suplayer810.workers.dev"
+    },
     "wintialrae.com": {
       "confidence": 0.5,
       "date": "2026-09-26 20:52:46",
@@ -79574,6 +80751,20 @@
       "type": "url",
       "value": "http://www.car-insurance-27673.bond"
     },
+    "www.cdiscount.com?source_id=&sub1=dbdsl260fgns73fncrf0&adv1=&adv2=": {
+      "confidence": 0.7,
+      "date": "2026-10-23 21:37:37",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing URL impersonating cdiscount.com with tracking parameters, behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2113746690297766105",
+      "type": "url",
+      "value": "https://www.cdiscount.com?source_id=&sub1=dbdsl260fgns73fncrf0&adv1=&adv2="
+    },
     "www.convertfusionpro.cloud": {
       "confidence": 0.9,
       "date": "2026-10-06 15:38:35",
@@ -79719,6 +80910,23 @@
       "tweet_id": "2110844494975582705",
       "type": "url",
       "value": "https://www.isgraphicsport.net/cloud/index.php"
+    },
+    "www.nairawaterfall.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 22:04:34",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure: nairawaterfall.com and subdomains plus IP 194.180.191.245 (AS39798 MivoCloud).",
+      "threat_type": "c2",
+      "tweet_id": "2113753472726434072",
+      "type": "url",
+      "value": "http://www.nairawaterfall.com"
     },
     "www.nenkin.shop/nenkingojp": {
       "confidence": 0.75,
@@ -79893,6 +81101,23 @@
       "tweet_id": "2106811916714688784",
       "type": "url",
       "value": "https://www.yinxing688.com"
+    },
+    "www.youlovemybiba.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "url",
+      "value": "http://www.youlovemybiba.com"
     },
     "wxhuan.com": {
       "confidence": 0.92,
@@ -80305,6 +81530,20 @@
       "type": "domain",
       "value": "xursod.com"
     },
+    "xv57j3d.scienceontheweb.net": {
+      "confidence": 0.6,
+      "date": "2026-09-30 13:11:29",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Korean-language malicious LNK sample beaconing to xv57j3d.scienceontheweb.net with victim hostname parameters.",
+      "threat_type": "malware",
+      "tweet_id": "2105284398446731348",
+      "type": "domain",
+      "value": "xv57j3d.scienceontheweb.net"
+    },
     "xv57j3d.scienceontheweb.net/setting.php?aaaaaa=desktop-et51ajo&bbbbbb=bruno&cccccc=alpha": {
       "confidence": 0.6,
       "date": "2026-09-30 13:11:29",
@@ -80600,6 +81839,23 @@
       "tweet_id": "2103264992468562261",
       "type": "domain",
       "value": "youcanwinfriendswithsalad.com"
+    },
+    "youlovemybiba.com": {
+      "confidence": 0.85,
+      "date": "2026-10-23 21:55:03",
+      "enriched_at": "2026-10-24T00:40:04Z",
+      "family": "NetSupport",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat",
+        "c2"
+      ],
+      "summary": "NetSupport RAT infrastructure across sakenlogistics.com, youlovemybiba.com and IP 150.241.66.223 (AS210457); related to transunionbiba.lat stage2.js.",
+      "threat_type": "c2",
+      "tweet_id": "2113751077426249995",
+      "type": "domain",
+      "value": "youlovemybiba.com"
     },
     "young-whatsapp.com": {
       "confidence": 0.65,
@@ -81648,6 +82904,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-23T18:40:04Z",
+  "generated_at": "2026-10-24T00:40:04Z",
   "window_days": 30
 }
