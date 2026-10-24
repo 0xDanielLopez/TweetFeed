@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2849
-; Updated: 2026-10-24T11:15:20Z
+; Entries: 2850
+; Updated: 2026-10-24T12:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792840520 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792844117 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2456,6 +2456,8 @@ facebook-logiin.vercel.app CNAME .
 *.facebook-logiin.vercel.app CNAME .
 facebook.hosweb.online CNAME .
 *.facebook.hosweb.online CNAME .
+facebook.recovery.jisandev.com CNAME .
+*.facebook.recovery.jisandev.com CNAME .
 facebook.sioll.net CNAME .
 *.facebook.sioll.net CNAME .
 faithbiglovered.opik.net CNAME .

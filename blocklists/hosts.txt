@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2849
-# Updated: 2026-10-24T11:15:20Z
+# Entries: 2850
+# Updated: 2026-10-24T12:15:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1230,6 +1230,7 @@
 0.0.0.0 facai.mwkwnnn.click
 0.0.0.0 facebook-logiin.vercel.app
 0.0.0.0 facebook.hosweb.online
+0.0.0.0 facebook.recovery.jisandev.com
 0.0.0.0 facebook.sioll.net
 0.0.0.0 faithbiglovered.opik.net
 0.0.0.0 famous-stroopwafel-edea6e.netlify.app
