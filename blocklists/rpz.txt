@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2848
-; Updated: 2026-10-24T09:00:22Z
+; Entries: 2849
+; Updated: 2026-10-24T11:15:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792832422 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792840520 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2048,6 +2048,8 @@ cwmk.eu.cc CNAME .
 *.cwmk.eu.cc CNAME .
 cycle-whatsapp.com CNAME .
 *.cycle-whatsapp.com CNAME .
+cyuop.com CNAME .
+*.cyuop.com CNAME .
 czqlmm.com CNAME .
 *.czqlmm.com CNAME .
 d9mjs.sbs CNAME .

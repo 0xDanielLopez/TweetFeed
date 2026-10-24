@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-24 11:00:23 (UTC)</th>
+        <th colspan=4>2026-10-24 11:15:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 21 | 1730 | 3356 | 46351 |
-| **:globe_with_meridians: Domains** | 19 | 1604 | 2946 | 40143 |
-| **:triangular_flag_on_post: IPs** | 7 | 1521 | 2063 | 7805 |
+| **:link: URLs** | 23 | 1732 | 3358 | 46353 |
+| **:globe_with_meridians: Domains** | 20 | 1605 | 2947 | 40144 |
+| **:triangular_flag_on_post: IPs** | 8 | 1522 | 2064 | 7806 |
 | **:1234: SHA256** | 3 | 109 | 397 | 2941 |
 | **:1234: MD5** | 2 | 30 | 71 | 2105 |
 
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [Malwarehunterr](https://x.com/Malwarehunterr) | 8 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 5 |
 | **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 5 |
-| **#6** | [smica83](https://x.com/smica83) | 3 |
-| **#7** | [kubotaa3](https://x.com/kubotaa3) | 3 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 2 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#10** | [AddressIntel](https://x.com/AddressIntel) | 1 |
+| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 4 |
+| **#7** | [smica83](https://x.com/smica83) | 3 |
+| **#8** | [kubotaa3](https://x.com/kubotaa3) | 3 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 2 |
+| **#10** | [scanmalware](https://x.com/scanmalware) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
