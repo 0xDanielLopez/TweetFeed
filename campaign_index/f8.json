@@ -1,1 +1,1 @@
-{"count":0,"entries":{}}
+{"count":1,"entries":{"timesyns.eastus.cloudapp.azure.com/z5.msi":[{"confidence":"low","id":"tfc-1de4b58edb32","ioc_count":12,"last_seen":"2026-10-23","name":"Suspicious MSI and open directory on Azure cloudapp hosts","threat_types":["other","c2","malware"]}]}}

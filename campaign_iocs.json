@@ -2,6 +2,36 @@
   "campaigns": {
     "tfc-037f20476929": [
       {
+        "date": "2026-10-23 19:54:28",
+        "tags": [
+          "#malware"
+        ],
+        "tweet": "https://x.com/orlof_v/status/2113720731897119108",
+        "type": "ip",
+        "user": "orlof_v",
+        "value": "45.150.109.94"
+      },
+      {
+        "date": "2026-10-23 19:54:28",
+        "tags": [
+          "#malware"
+        ],
+        "tweet": "https://x.com/orlof_v/status/2113720731897119108",
+        "type": "ip",
+        "user": "orlof_v",
+        "value": "38.242.147.58"
+      },
+      {
+        "date": "2026-10-23 19:54:28",
+        "tags": [
+          "#malware"
+        ],
+        "tweet": "https://x.com/orlof_v/status/2113720731897119108",
+        "type": "ip",
+        "user": "orlof_v",
+        "value": "37.128.206.215"
+      },
+      {
         "date": "2026-10-22 13:52:43",
         "tags": [
           "#malware"
@@ -380,6 +410,48 @@
         "type": "ip",
         "user": "etugenio",
         "value": "2.27.63.244"
+      }
+    ],
+    "tfc-11428519df2c": [
+      {
+        "date": "2026-10-23 18:53:53",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113705487405343051",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "https://cmail-geogle.com/login_acc.js"
+      },
+      {
+        "date": "2026-10-23 18:53:53",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113705487405343051",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "https://cmail-geogle.com/apiConfig.js"
+      },
+      {
+        "date": "2026-10-23 18:53:53",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113705487405343051",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://cmail-geogle.com"
+      },
+      {
+        "date": "2026-10-23 18:53:53",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113705487405343051",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "cmail-geogle.com"
       }
     ],
     "tfc-1380bf232ced": [
@@ -6688,6 +6760,286 @@
         "value": "https://kaifitness.penwfe.asia/H80AoO"
       }
     ],
+    "tfc-1de4b58edb32": [
+      {
+        "date": "2026-10-23 13:57:17",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2113630845324189713",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "https://appdata.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-23 13:57:17",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2113630845324189713",
+        "type": "domain",
+        "user": "malwrhunterteam",
+        "value": "appdata.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-22 10:03:47",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2113209694240317937",
+        "type": "domain",
+        "user": "malwrhunterteam",
+        "value": "trustdate.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-22 10:03:47",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2113209694240317937",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "https://trustdate.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-13 17:07:29",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2110054829842219012",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "http://asiioasdjasiojasodijasa.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-13 17:07:29",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2110054829842219012",
+        "type": "domain",
+        "user": "malwrhunterteam",
+        "value": "asiioasdjasiojasodijasa.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-09 19:03:05",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2108634373973008869",
+        "type": "domain",
+        "user": "malwrhunterteam",
+        "value": "times.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-09 19:03:05",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2108634373973008869",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "https://times.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-07 09:26:53",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2107764592805908516",
+        "type": "domain",
+        "user": "malwrhunterteam",
+        "value": "timesyns.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-07 09:26:53",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2107764592805908516",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "https://timesyns.eastus.cloudapp.azure.com/z5.msi"
+      },
+      {
+        "date": "2026-10-05 19:56:24",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2107198236851085393",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "http://asiioasdjasiojasodijasa.eastus.cloudapp.azure.com"
+      },
+      {
+        "date": "2026-10-05 19:56:24",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2107198236851085393",
+        "type": "domain",
+        "user": "malwrhunterteam",
+        "value": "asiioasdjasiojasodijasa.eastus.cloudapp.azure.com"
+      }
+    ],
+    "tfc-26187f64239c": [
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "url",
+        "user": "anyrun_app",
+        "value": "http://hlushkova.top"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "domain",
+        "user": "anyrun_app",
+        "value": "hlushkova.top"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "a970e997093fcd10d108354423c8fa420a6887ed97cbf7c7dbe3551faa4d9b95"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "a44cad7e7d26a0f0284ceb2e9a10a964d9e7ab44ab74b22464eb2f836af3d90a"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "93248da1a4ef6df7b13ecda6c3d91d4d3a49efd4ed1034acd1217e790fc90783"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "806d430c036e3bcb5b05b14eaf7423fdad2fcea67dae7a4beef545ffd864da52"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "6416f6c353c7e687190fab84c8e8802b0139fb98f44b8e6ae79099fd27884b9b"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "477381fcad2a224fc4070d9fbcd4d5c4f8169fcf0904398bda8f29d6f9fab6a0"
+      },
+      {
+        "date": "2026-10-23 12:01:07",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/anyrun_app/status/2113601611503120436",
+        "type": "sha256",
+        "user": "anyrun_app",
+        "value": "1aa47ce02867f847227839b60d396ca96dac60372b0cd26b78b71a34473bb079"
+      },
+      {
+        "date": "2026-10-06 08:52:11",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/bomccss/status/2107393470403121604",
+        "type": "domain",
+        "user": "bomccss",
+        "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
+      },
+      {
+        "date": "2026-10-06 08:52:11",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/bomccss/status/2107393470403121604",
+        "type": "url",
+        "user": "bomccss",
+        "value": "http://\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
+      },
+      {
+        "date": "2026-10-06 07:25:20",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/tdatwja/status/2107371615084495244",
+        "type": "sha256",
+        "user": "tdatwja",
+        "value": "a834ac8699c5b2fc4e1e9ad8cc7d98b9da6a976de91cc048ca2864ad846399fe"
+      },
+      {
+        "date": "2026-10-06 07:25:20",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/tdatwja/status/2107371615084495244",
+        "type": "md5",
+        "user": "tdatwja",
+        "value": "14a58fbb6422c27976bf32401f5ef593"
+      },
+      {
+        "date": "2026-10-02 09:04:56",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/tdatwja/status/2105947127755223200",
+        "type": "md5",
+        "user": "tdatwja",
+        "value": "ee0bbb719b48c7b166d5c228290e72c9"
+      },
+      {
+        "date": "2026-10-02 09:04:56",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/tdatwja/status/2105947127755223200",
+        "type": "sha256",
+        "user": "tdatwja",
+        "value": "0eb380a4609662b66d946d0991e810aa47b80dc3733aee4e59cfba1bd1107ce7"
+      },
+      {
+        "date": "2026-10-02 06:21:05",
+        "tags": [
+          "#Formbook"
+        ],
+        "tweet": "https://x.com/bomccss/status/2105905893011542444",
+        "type": "sha256",
+        "user": "bomccss",
+        "value": "c309560c0a8af7daf1e9aa170f5e5d3149fee6e5306be673716dc6a4cebdc4c0"
+      }
+    ],
     "tfc-2bfc74aad3a6": [
       {
         "date": "2026-10-19 21:28:27",
@@ -7020,6 +7372,26 @@
     ],
     "tfc-4545fa78ef03": [
       {
+        "date": "2026-10-23 22:03:03",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/TKemmerling/status/2113753092454011334",
+        "type": "domain",
+        "user": "TKemmerling",
+        "value": "truenorthworks.fun"
+      },
+      {
+        "date": "2026-10-23 22:03:03",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/TKemmerling/status/2113753092454011334",
+        "type": "url",
+        "user": "TKemmerling",
+        "value": "http://truenorthworks.fun"
+      },
+      {
         "date": "2026-10-18 22:05:11",
         "tags": [
           "#phishing"
@@ -7098,6 +7470,52 @@
         "type": "url",
         "user": "TKemmerling",
         "value": "http://truenorthworks.fun"
+      }
+    ],
+    "tfc-4750ea6f6f66": [
+      {
+        "date": "2026-10-23 18:15:23",
+        "tags": [
+          "#ClickFix",
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2113695797900677444",
+        "type": "domain",
+        "user": "Malwarehunterr",
+        "value": "t-trustrest.com"
+      },
+      {
+        "date": "2026-10-23 18:15:23",
+        "tags": [
+          "#ClickFix",
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2113695797900677444",
+        "type": "url",
+        "user": "Malwarehunterr",
+        "value": "https://t-trustrest.com/ug/c09f9c47ebfe3da9"
+      },
+      {
+        "date": "2026-10-23 18:15:23",
+        "tags": [
+          "#ClickFix",
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2113695797900677444",
+        "type": "url",
+        "user": "Malwarehunterr",
+        "value": "https://t-trustrest.com/p?t=6c9240628523"
+      },
+      {
+        "date": "2026-10-23 18:15:23",
+        "tags": [
+          "#ClickFix",
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2113695797900677444",
+        "type": "url",
+        "user": "Malwarehunterr",
+        "value": "https://t-trustrest.com/p?id=dbf26e6b862fd5d5d519ac665754c8254b905799&k=5d4903704f51475d"
       }
     ],
     "tfc-47cc7e1dd73f": [
@@ -7227,22 +7645,6 @@
         "tweet": "https://x.com/500mk500/status/2112285228337344897",
         "type": "domain",
         "user": "500mk500",
-        "value": "live-join-meet.l4-l4.site"
-      },
-      {
-        "date": "2026-10-19 20:50:17",
-        "tags": [],
-        "tweet": "https://x.com/500mk500/status/2112285228337344897",
-        "type": "domain",
-        "user": "500mk500",
-        "value": "l4-l4.site"
-      },
-      {
-        "date": "2026-10-19 20:50:17",
-        "tags": [],
-        "tweet": "https://x.com/500mk500/status/2112285228337344897",
-        "type": "domain",
-        "user": "500mk500",
         "value": "ipv6.meet-google.live"
       },
       {
@@ -7308,22 +7710,6 @@
         "type": "url",
         "user": "500mk500",
         "value": "http://mail.meet-google.live"
-      },
-      {
-        "date": "2026-10-19 20:50:17",
-        "tags": [],
-        "tweet": "https://x.com/500mk500/status/2112285228337344897",
-        "type": "url",
-        "user": "500mk500",
-        "value": "http://live-join-meet.l4-l4.site"
-      },
-      {
-        "date": "2026-10-19 20:50:17",
-        "tags": [],
-        "tweet": "https://x.com/500mk500/status/2112285228337344897",
-        "type": "url",
-        "user": "500mk500",
-        "value": "http://l4-l4.site"
       },
       {
         "date": "2026-10-19 20:50:17",
@@ -11052,126 +11438,6 @@
         "value": "https://japanpostae0.club"
       }
     ],
-    "tfc-5ce40d906d89": [
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "domain",
-        "user": "Huntbackio",
-        "value": "wruser.org"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "domain",
-        "user": "Huntbackio",
-        "value": "websalat.top"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "domain",
-        "user": "Huntbackio",
-        "value": "salator.es"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "url",
-        "user": "Huntbackio",
-        "value": "http://wruser.org"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "url",
-        "user": "Huntbackio",
-        "value": "http://websalat.top"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "url",
-        "user": "Huntbackio",
-        "value": "http://salator.es"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "url",
-        "user": "Huntbackio",
-        "value": "http://176.12.71.122"
-      },
-      {
-        "date": "2026-10-17 12:12:18",
-        "tags": [
-          "#SalatStealer",
-          "#infostealer"
-        ],
-        "tweet": "https://x.com/Huntbackio/status/2111430099538948116",
-        "type": "ip",
-        "user": "Huntbackio",
-        "value": "176.12.71.122"
-      },
-      {
-        "date": "2026-10-13 10:16:57",
-        "tags": [
-          "#SalatStealer"
-        ],
-        "tweet": "https://x.com/smica83/status/2109951516878549366",
-        "type": "url",
-        "user": "smica83",
-        "value": "http://176.12.71.122"
-      },
-      {
-        "date": "2026-10-13 10:16:57",
-        "tags": [
-          "#SalatStealer"
-        ],
-        "tweet": "https://x.com/smica83/status/2109951516878549366",
-        "type": "sha256",
-        "user": "smica83",
-        "value": "f07ebd2b3b30f1325026af3ff8bd523f0a6833796ef11e3380f2090864e9c1b2"
-      },
-      {
-        "date": "2026-10-13 10:16:57",
-        "tags": [
-          "#SalatStealer"
-        ],
-        "tweet": "https://x.com/smica83/status/2109951516878549366",
-        "type": "ip",
-        "user": "smica83",
-        "value": "176.12.71.122"
-      }
-    ],
     "tfc-6120ccfa91ad": [
       {
         "date": "2026-10-23 00:41:55",
@@ -11275,6 +11541,54 @@
       }
     ],
     "tfc-66e666c2695d": [
+      {
+        "date": "2026-10-24 03:07:34",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/masaomi346/status/2113829725340938329",
+        "type": "domain",
+        "user": "masaomi346",
+        "value": "www5.saison-cu.com"
+      },
+      {
+        "date": "2026-10-24 03:07:34",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/masaomi346/status/2113829725340938329",
+        "type": "url",
+        "user": "masaomi346",
+        "value": "https://www5.saison-cu.com/login"
+      },
+      {
+        "date": "2026-10-23 20:32:50",
+        "tags": [],
+        "tweet": "https://x.com/malwrhunterteam/status/2113730389688963196",
+        "type": "url",
+        "user": "malwrhunterteam",
+        "value": "http://146.103.100.148:7777/login"
+      },
+      {
+        "date": "2026-10-23 07:01:27",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/phishunt_io/status/2113526196738617642",
+        "type": "domain",
+        "user": "phishunt_io",
+        "value": "vwwv-roblox.co"
+      },
+      {
+        "date": "2026-10-23 07:01:27",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/phishunt_io/status/2113526196738617642",
+        "type": "url",
+        "user": "phishunt_io",
+        "value": "http://vwwv-roblox.co/login?returnUrl=1041215277"
+      },
       {
         "date": "2026-10-20 12:01:32",
         "tags": [
@@ -12176,6 +12490,58 @@
         "value": "138.199.248.47"
       }
     ],
+    "tfc-7d1ba4e5f3aa": [
+      {
+        "date": "2026-10-24 05:12:25",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/patialavii/status/2113861146960961823",
+        "type": "domain",
+        "user": "patialavii",
+        "value": "us06webzoomus2fj2f830440905293.com"
+      },
+      {
+        "date": "2026-10-24 05:12:25",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/patialavii/status/2113861146960961823",
+        "type": "url",
+        "user": "patialavii",
+        "value": "https://us06webzoomus2fj2f830440905293.com/2661951713/"
+      },
+      {
+        "date": "2026-10-21 06:37:02",
+        "tags": [
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2112795276310425915",
+        "type": "domain",
+        "user": "Malwarehunterr",
+        "value": "us06webzoomus2fj2f830440905293.com"
+      },
+      {
+        "date": "2026-10-21 06:37:02",
+        "tags": [
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2112795276310425915",
+        "type": "url",
+        "user": "Malwarehunterr",
+        "value": "http://us06webzoomus2fj2f830440905293.com/2661951713/invite.php"
+      },
+      {
+        "date": "2026-10-21 06:37:02",
+        "tags": [
+          "#malware"
+        ],
+        "tweet": "https://x.com/Malwarehunterr/status/2112795276310425915",
+        "type": "url",
+        "user": "Malwarehunterr",
+        "value": "http://us06webzoomus2fj2f830440905293.com"
+      }
+    ],
     "tfc-8ccf313da96f": [
       {
         "date": "2026-10-22 07:59:49",
@@ -12409,166 +12775,382 @@
         "value": "https://puwaiosd.com/ana"
       }
     ],
-    "tfc-9775614460a8": [
+    "tfc-99dd0a9e5a80": [
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-24 01:35:42",
         "tags": [
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/PhishStats/status/2113806606089551951",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "iugbkbg.cn"
+        "user": "PhishStats",
+        "value": "telegramu.cn"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-24 01:35:42",
         "tags": [
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/PhishStats/status/2113806606089551951",
+        "type": "url",
+        "user": "PhishStats",
+        "value": "http://telegramu.cn"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "iasteun.cn"
+        "user": "skocherhan",
+        "value": "tg.t3389.workers.dev"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-23 20:47:00",
         "tags": [
+          "#malware",
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://iugbkbg.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://iasteun.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://hfpzuia.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://gbjeifr.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://fmcoyko.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://dzwwftf.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://bixsgrb.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://anqbsss.cn/Login/"
-      },
-      {
-        "date": "2026-10-17 00:09:09",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "hfpzuia.cn"
+        "user": "skocherhan",
+        "value": "telegroab.com"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-23 20:47:00",
         "tags": [
+          "#malware",
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "gbjeifr.cn"
+        "user": "skocherhan",
+        "value": "telegrarm.com"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-23 20:47:00",
         "tags": [
+          "#malware",
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "fmcoyko.cn"
+        "user": "skocherhan",
+        "value": "telegramwk.com"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-23 20:47:00",
         "tags": [
+          "#malware",
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "dzwwftf.cn"
+        "user": "skocherhan",
+        "value": "telegramu.cn"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-23 20:47:00",
         "tags": [
+          "#malware",
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "bixsgrb.cn"
+        "user": "skocherhan",
+        "value": "telegramcenter.com"
       },
       {
-        "date": "2026-10-17 00:09:09",
+        "date": "2026-10-23 20:47:00",
         "tags": [
+          "#malware",
           "#phishing"
         ],
-        "tweet": "https://x.com/masaomi346/status/2111248110081224749",
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
         "type": "domain",
-        "user": "masaomi346",
-        "value": "anqbsss.cn"
+        "user": "skocherhan",
+        "value": "t3389.workers.dev"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://tg.t3389.workers.dev"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://telegroab.com"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://telegrarm.com"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://telegramwk.com"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://telegramu.cn"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://telegramcenter.com"
+      },
+      {
+        "date": "2026-10-23 20:47:00",
+        "tags": [
+          "#malware",
+          "#phishing"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113733954490470752",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://t3389.workers.dev"
+      }
+    ],
+    "tfc-9bfb31893772": [
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://www.nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://downloads.nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://cdn.nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "downloads.nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 22:04:34",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113753472726434072",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "cdn.nairawaterfall.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "sakenlogistics.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://www.youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://sakenlogistics.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://download.youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://download.sakenlogistics.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://cdn.youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "url",
+        "user": "skocherhan",
+        "value": "http://cdn.sakenlogistics.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "download.youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "download.sakenlogistics.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "cdn.youlovemybiba.com"
+      },
+      {
+        "date": "2026-10-23 21:55:03",
+        "tags": [
+          "#NetSupport"
+        ],
+        "tweet": "https://x.com/skocherhan/status/2113751077426249995",
+        "type": "domain",
+        "user": "skocherhan",
+        "value": "cdn.sakenlogistics.com"
       }
     ],
     "tfc-9c9d0003946f": [
@@ -12873,40 +13455,6 @@
         "value": "https://oppsite.dothome.co.kr"
       }
     ],
-    "tfc-bd4d580d9244": [
-      {
-        "date": "2026-10-20 05:31:35",
-        "tags": [],
-        "tweet": "https://x.com/KesaGataMe0/status/2112416417941516696",
-        "type": "domain",
-        "user": "KesaGataMe0",
-        "value": "zgynkj.top"
-      },
-      {
-        "date": "2026-10-20 05:31:35",
-        "tags": [],
-        "tweet": "https://x.com/KesaGataMe0/status/2112416417941516696",
-        "type": "url",
-        "user": "KesaGataMe0",
-        "value": "https://zgynkj.top/lkXSz"
-      },
-      {
-        "date": "2026-10-20 05:30:42",
-        "tags": [],
-        "tweet": "https://x.com/KesaGataMe0/status/2112416195827904825",
-        "type": "url",
-        "user": "KesaGataMe0",
-        "value": "https://dnuise.top/lkXSz"
-      },
-      {
-        "date": "2026-10-20 05:30:42",
-        "tags": [],
-        "tweet": "https://x.com/KesaGataMe0/status/2112416195827904825",
-        "type": "domain",
-        "user": "KesaGataMe0",
-        "value": "dnuise.top"
-      }
-    ],
     "tfc-c25d4ed7f213": [
       {
         "date": "2026-10-14 11:13:17",
@@ -12931,52 +13479,6 @@
         "type": "url",
         "user": "malwrhunterteam",
         "value": "https://ollama-for-macos.github.io"
-      }
-    ],
-    "tfc-c3b7799a3ddf": [
-      {
-        "date": "2026-10-18 01:24:36",
-        "tags": [
-          "#malware",
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111629488304136633",
-        "type": "domain",
-        "user": "masaomi346",
-        "value": "rabbitshiha-jp.com"
-      },
-      {
-        "date": "2026-10-18 01:24:36",
-        "tags": [
-          "#malware",
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2111629488304136633",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://rabbitshiha-jp.com"
-      },
-      {
-        "date": "2026-10-17 22:42:06",
-        "tags": [
-          "#malware",
-          "#phishing"
-        ],
-        "tweet": "https://x.com/oroshi0064/status/2111588591759679546",
-        "type": "domain",
-        "user": "oroshi0064",
-        "value": "rabbitshiha-jp.com"
-      },
-      {
-        "date": "2026-10-17 22:42:06",
-        "tags": [
-          "#malware",
-          "#phishing"
-        ],
-        "tweet": "https://x.com/oroshi0064/status/2111588591759679546",
-        "type": "url",
-        "user": "oroshi0064",
-        "value": "https://rabbitshiha-jp.com"
       }
     ],
     "tfc-ccad09fd9cd4": [
@@ -13043,6 +13545,106 @@
     ],
     "tfc-cd39c0ede199": [
       {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541093048361334",
+        "type": "url",
+        "user": "Huntbackio",
+        "value": "http://85.11.167.243"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541089454067987",
+        "type": "url",
+        "user": "Huntbackio",
+        "value": "http://77.90.185.20"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541093048361334",
+        "type": "url",
+        "user": "Huntbackio",
+        "value": "http://217.60.242.76"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541093048361334",
+        "type": "url",
+        "user": "Huntbackio",
+        "value": "http://217.60.102.5/sh"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541089454067987",
+        "type": "url",
+        "user": "Huntbackio",
+        "value": "http://217.60.102.5"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541093048361334",
+        "type": "sha256",
+        "user": "Huntbackio",
+        "value": "917fcc9131c6e9ca16264a85afc62532297bb39eb9d37765dad536c7c8c7735c"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541093048361334",
+        "type": "ip",
+        "user": "Huntbackio",
+        "value": "85.11.167.243"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541089454067987",
+        "type": "ip",
+        "user": "Huntbackio",
+        "value": "77.90.185.20"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541093048361334",
+        "type": "ip",
+        "user": "Huntbackio",
+        "value": "217.60.242.76"
+      },
+      {
+        "date": "2026-10-23 08:00:38",
+        "tags": [
+          "#PHP2Shell"
+        ],
+        "tweet": "https://x.com/Huntbackio/status/2113541089454067987",
+        "type": "ip",
+        "user": "Huntbackio",
+        "value": "217.60.102.5"
+      },
+      {
         "date": "2026-10-23 04:19:21",
         "tags": [
           "#PHP2Shell"
@@ -13091,62 +13693,6 @@
         "type": "ip",
         "user": "LukeElin",
         "value": "137.23.10.39"
-      },
-      {
-        "date": "2026-10-22 04:45:53",
-        "tags": [
-          "#PHP2Shell"
-        ],
-        "tweet": "https://x.com/X_cryptographer/status/2113129690873704530",
-        "type": "md5",
-        "user": "X_cryptographer",
-        "value": "c8e9702247f049c4a8fb5436123abdef"
-      }
-    ],
-    "tfc-d2fe209f2218": [
-      {
-        "date": "2026-10-19 14:14:03",
-        "tags": [
-          "#phishing",
-          "#scam"
-        ],
-        "tweet": "https://x.com/Coolcarlos17/status/2112185513381703717",
-        "type": "domain",
-        "user": "Coolcarlos17",
-        "value": "pagina-clientes-havan.com"
-      },
-      {
-        "date": "2026-10-19 14:14:03",
-        "tags": [
-          "#phishing",
-          "#scam"
-        ],
-        "tweet": "https://x.com/Coolcarlos17/status/2112185513381703717",
-        "type": "url",
-        "user": "Coolcarlos17",
-        "value": "https://pagina-clientes-havan.com/produto/33051"
-      },
-      {
-        "date": "2026-10-13 14:33:42",
-        "tags": [
-          "#phishing",
-          "#scam"
-        ],
-        "tweet": "https://x.com/Coolcarlos17/status/2110016132048363843",
-        "type": "domain",
-        "user": "Coolcarlos17",
-        "value": "pagina-clientes-havan.com"
-      },
-      {
-        "date": "2026-10-13 14:33:42",
-        "tags": [
-          "#phishing",
-          "#scam"
-        ],
-        "tweet": "https://x.com/Coolcarlos17/status/2110016132048363843",
-        "type": "url",
-        "user": "Coolcarlos17",
-        "value": "https://pagina-clientes-havan.com/produto/32812"
       }
     ],
     "tfc-d934c8f96d02": [
@@ -13261,154 +13807,6 @@
         "type": "domain",
         "user": "KesaGataMe0",
         "value": "api.mitsui.smt7mlj.pro"
-      }
-    ],
-    "tfc-e19c8a393566": [
-      {
-        "date": "2026-10-20 05:32:02",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/PhishStats/status/2112416533263843835",
-        "type": "url",
-        "user": "PhishStats",
-        "value": "https://bankcheckdata-card.jp"
-      },
-      {
-        "date": "2026-10-20 05:32:02",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/PhishStats/status/2112416533263843835",
-        "type": "domain",
-        "user": "PhishStats",
-        "value": "bankcheckdata-card.jp"
-      },
-      {
-        "date": "2026-10-19 23:05:34",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2112319273876254826",
-        "type": "url",
-        "user": "masaomi346",
-        "value": "https://bankcheckdata-card.jp"
-      },
-      {
-        "date": "2026-10-19 23:05:34",
-        "tags": [
-          "#phishing"
-        ],
-        "tweet": "https://x.com/masaomi346/status/2112319273876254826",
-        "type": "domain",
-        "user": "masaomi346",
-        "value": "bankcheckdata-card.jp"
-      }
-    ],
-    "tfc-f0106d21d108": [
-      {
-        "date": "2026-10-17 12:10:49",
-        "tags": [
-          "#APT"
-        ],
-        "tweet": "https://x.com/byrne_emmy12099/status/2111429723574386756",
-        "type": "url",
-        "user": "byrne_emmy12099",
-        "value": "http://asdkjcn30r9.mygamesonline.org/setting.php"
-      },
-      {
-        "date": "2026-10-17 12:10:49",
-        "tags": [
-          "#APT"
-        ],
-        "tweet": "https://x.com/byrne_emmy12099/status/2111429723574386756",
-        "type": "domain",
-        "user": "byrne_emmy12099",
-        "value": "asdkjcn30r9.mygamesonline.org"
-      },
-      {
-        "date": "2026-10-16 22:04:23",
-        "tags": [],
-        "tweet": "https://x.com/smica83/status/2111216711831810173",
-        "type": "url",
-        "user": "smica83",
-        "value": "http://asdkjcn30r9.mygamesonline.org/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
-      },
-      {
-        "date": "2026-10-16 05:49:40",
-        "tags": [
-          "#Kimsuky"
-        ],
-        "tweet": "https://x.com/copy_and_paster/status/2110971416963326442",
-        "type": "url",
-        "user": "copy_and_paster",
-        "value": "http://asdkjcn30r9.mygamesonline.org"
-      },
-      {
-        "date": "2026-10-16 05:49:40",
-        "tags": [
-          "#Kimsuky"
-        ],
-        "tweet": "https://x.com/copy_and_paster/status/2110971416963326442",
-        "type": "domain",
-        "user": "copy_and_paster",
-        "value": "asdkjcn30r9.mygamesonline.org"
-      },
-      {
-        "date": "2026-09-30 13:11:29",
-        "tags": [],
-        "tweet": "https://x.com/smica83/status/2105284398446731348",
-        "type": "domain",
-        "user": "smica83",
-        "value": "xv57j3d.scienceontheweb.net"
-      },
-      {
-        "date": "2026-09-30 13:11:29",
-        "tags": [],
-        "tweet": "https://x.com/smica83/status/2105284398446731348",
-        "type": "url",
-        "user": "smica83",
-        "value": "http://xv57j3d.scienceontheweb.net/setting.php?aaaaaa=DESKTOP-ET51AJO&bbbbbb=Bruno&cccccc=alpha"
-      },
-      {
-        "date": "2026-09-28 00:30:38",
-        "tags": [
-          "#Kimsuky"
-        ],
-        "tweet": "https://x.com/copy_and_paster/status/2104368146878693602",
-        "type": "domain",
-        "user": "copy_and_paster",
-        "value": "nyqxa4.scienceontheweb.net"
-      },
-      {
-        "date": "2026-09-28 00:30:38",
-        "tags": [
-          "#Kimsuky"
-        ],
-        "tweet": "https://x.com/copy_and_paster/status/2104368146878693602",
-        "type": "url",
-        "user": "copy_and_paster",
-        "value": "http://nyqxa4.scienceontheweb.net"
-      },
-      {
-        "date": "2026-09-23 04:18:25",
-        "tags": [
-          "#Kimsuky"
-        ],
-        "tweet": "https://x.com/copy_and_paster/status/2102613534228300007",
-        "type": "domain",
-        "user": "copy_and_paster",
-        "value": "xv57j3d.scienceontheweb.net"
-      },
-      {
-        "date": "2026-09-23 04:18:25",
-        "tags": [
-          "#Kimsuky"
-        ],
-        "tweet": "https://x.com/copy_and_paster/status/2102613534228300007",
-        "type": "url",
-        "user": "copy_and_paster",
-        "value": "http://xv57j3d.scienceontheweb.net"
       }
     ],
     "tfc-f2bea031d06f": [
@@ -14089,6 +14487,26 @@
     ],
     "tfc-fe15df7d4526": [
       {
+        "date": "2026-10-24 04:56:35",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/patialavii/status/2113857159842934992",
+        "type": "url",
+        "user": "patialavii",
+        "value": "https://cleaningbyme.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+      },
+      {
+        "date": "2026-10-24 04:56:35",
+        "tags": [
+          "#phishing"
+        ],
+        "tweet": "https://x.com/patialavii/status/2113857159842934992",
+        "type": "domain",
+        "user": "patialavii",
+        "value": "cleaningbyme.screenconnect.com"
+      },
+      {
         "date": "2026-10-22 20:52:51",
         "tags": [],
         "tweet": "https://x.com/smica83/status/2113373037047246960",
@@ -14480,6 +14898,6 @@
       }
     ]
   },
-  "generated_at": "2026-10-23T06:27:41Z",
+  "generated_at": "2026-10-24T06:28:18Z",
   "version": 1
 }
