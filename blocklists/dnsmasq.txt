@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2837
-# Updated: 2026-10-24T05:15:17Z
+# Entries: 2838
+# Updated: 2026-10-24T05:30:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -2418,6 +2418,7 @@ address=/teamcss.beer/0.0.0.0
 address=/teams-meeting-invite.icu/0.0.0.0
 address=/teams-microsoft-downloads.com/0.0.0.0
 address=/teams-online.com/0.0.0.0
+address=/teamsmeeting.site/0.0.0.0
 address=/teamsmeeting.top/0.0.0.0
 address=/techly-whatsapp.com/0.0.0.0
 address=/techweb-whatsapp.com/0.0.0.0

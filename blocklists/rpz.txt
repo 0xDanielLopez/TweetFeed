@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2837
-; Updated: 2026-10-24T05:15:17Z
+; Entries: 2838
+; Updated: 2026-10-24T05:30:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792818917 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792819818 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4832,6 +4832,8 @@ teams-microsoft-downloads.com CNAME .
 *.teams-microsoft-downloads.com CNAME .
 teams-online.com CNAME .
 *.teams-online.com CNAME .
+teamsmeeting.site CNAME .
+*.teamsmeeting.site CNAME .
 teamsmeeting.top CNAME .
 *.teamsmeeting.top CNAME .
 techly-whatsapp.com CNAME .
