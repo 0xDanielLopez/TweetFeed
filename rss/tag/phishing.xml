@@ -12,8 +12,30 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/tag/phishing.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sat, 24 Oct 2026 01:30:19 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 24 Oct 2026 01:45:17 +0000</lastBuildDate>
       <ttl>15</ttl>
+      <item>
+         <title>http://telegramu.cn</title>
+         <link>https://x.com/PhishStats/status/2113806606089551951</link>
+         <description>@PhishStats | url | #phishing
+Value: http://telegramu.cn
+Tweet: https://x.com/PhishStats/status/2113806606089551951</description>
+         <guid isPermaLink="false">http://telegramu.cn</guid>
+         <pubDate>Sat, 24 Oct 2026 01:35:42 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>telegramu.cn</title>
+         <link>https://x.com/PhishStats/status/2113806606089551951</link>
+         <description>@PhishStats | domain | #phishing
+Value: telegramu.cn
+Tweet: https://x.com/PhishStats/status/2113806606089551951</description>
+         <guid isPermaLink="false">telegramu.cn</guid>
+         <pubDate>Sat, 24 Oct 2026 01:35:42 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
       <item>
          <title>24dd36b825a3fc0037751fb005af8322b6e00e13c6e8aca6e5aaa640cfbe8ccc</title>
          <link>https://x.com/masaomi346/status/2113785149221671075</link>
@@ -1157,29 +1179,6 @@ Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
          <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
          <category>url</category>
          <category>#malware</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>9tcj2.tik-tok-18.com</title>
-         <link>https://x.com/masaomi346/status/2113510256223686926</link>
-         <description>@masaomi346 | domain | #malware #phishing
-Value: 9tcj2.tik-tok-18.com
-Tweet: https://x.com/masaomi346/status/2113510256223686926</description>
-         <guid isPermaLink="false">9tcj2.tik-tok-18.com</guid>
-         <pubDate>Fri, 23 Oct 2026 05:58:06 +0000</pubDate>
-         <category>domain</category>
-         <category>#malware</category>
-         <category>#phishing</category>
-      </item>
-      <item>
-         <title>45.91.248.5</title>
-         <link>https://x.com/PhishStats/status/2113503087054799198</link>
-         <description>@PhishStats | ip | #phishing
-Value: 45.91.248.5
-Tweet: https://x.com/PhishStats/status/2113503087054799198</description>
-         <guid isPermaLink="false">45.91.248.5</guid>
-         <pubDate>Fri, 23 Oct 2026 05:29:37 +0000</pubDate>
-         <category>ip</category>
          <category>#phishing</category>
       </item>
    </channel>
