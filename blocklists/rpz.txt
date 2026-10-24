@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2844
-; Updated: 2026-10-24T08:45:18Z
+; Entries: 2848
+; Updated: 2026-10-24T09:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792831518 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792832422 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2570,6 +2570,8 @@ format-whatsapp.com CNAME .
 *.format-whatsapp.com CNAME .
 forumst.co.kr CNAME .
 *.forumst.co.kr CNAME .
+forzaverification.com CNAME .
+*.forzaverification.com CNAME .
 fqelt.cn CNAME .
 *.fqelt.cn CNAME .
 fr-ca.webhwsapp-whatsapp.com CNAME .
@@ -2698,6 +2700,8 @@ go6-whatsapp.com CNAME .
 *.go6-whatsapp.com CNAME .
 go8-whatsapp.com CNAME .
 *.go8-whatsapp.com CNAME .
+goinsideitmore.com CNAME .
+*.goinsideitmore.com CNAME .
 gongzuo-whatsapp.com CNAME .
 *.gongzuo-whatsapp.com CNAME .
 goodnfortunes.com CNAME .
@@ -2708,6 +2712,8 @@ google.drive03.com CNAME .
 *.google.drive03.com CNAME .
 googleplay.tail017acc.ts.net CNAME .
 *.googleplay.tail017acc.ts.net CNAME .
+gosidefastandpure.com CNAME .
+*.gosidefastandpure.com CNAME .
 gpcom1.screenconnect.com CNAME .
 *.gpcom1.screenconnect.com CNAME .
 gppcdnns.beer CNAME .
@@ -5592,6 +5598,8 @@ young-whatsapp.com CNAME .
 *.young-whatsapp.com CNAME .
 youtubemail.club CNAME .
 *.youtubemail.club CNAME .
+youvibecoding.com CNAME .
+*.youvibecoding.com CNAME .
 youwillneverstopus.top CNAME .
 *.youwillneverstopus.top CNAME .
 ypnfeo.cc CNAME .
