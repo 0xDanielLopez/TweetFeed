@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @usr_data</title>
+      <link>https://x.com/usr_data</link>
+      <description>IOCs shared by @usr_data and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @usr_data</title>
+         <link>https://x.com/usr_data</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/usr_data.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://sobesmarje.com/neds/showme.html</title>
+         <link>https://x.com/usr_data/status/2113682965725409727</link>
+         <description>@usr_data | url | #phishing
+Value: https://sobesmarje.com/neds/showme.html
+Tweet: https://x.com/usr_data/status/2113682965725409727</description>
+         <guid isPermaLink="false">https://sobesmarje.com/neds/showme.html</guid>
+         <pubDate>Fri, 23 Oct 2026 17:24:24 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>sobesmarje.com</title>
+         <link>https://x.com/usr_data/status/2113682965725409727</link>
+         <description>@usr_data | domain | #phishing
+Value: sobesmarje.com
+Tweet: https://x.com/usr_data/status/2113682965725409727</description>
+         <guid isPermaLink="false">sobesmarje.com</guid>
+         <pubDate>Fri, 23 Oct 2026 17:24:24 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

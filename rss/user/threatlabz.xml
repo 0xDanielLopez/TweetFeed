@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Threatlabz</title>
+      <link>https://x.com/Threatlabz</link>
+      <description>IOCs shared by @Threatlabz and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Threatlabz</title>
+         <link>https://x.com/Threatlabz</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/threatlabz.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>878bc868bdb23be276f1fab8a4418a35264439f3344ffaf9404414ab08744782</title>
+         <link>https://x.com/Threatlabz/status/2113308058629853206</link>
+         <description>@Threatlabz | sha256 | 
+Value: 878bc868bdb23be276f1fab8a4418a35264439f3344ffaf9404414ab08744782
+Tweet: https://x.com/Threatlabz/status/2113308058629853206</description>
+         <guid isPermaLink="false">878bc868bdb23be276f1fab8a4418a35264439f3344ffaf9404414ab08744782</guid>
+         <pubDate>Thu, 22 Oct 2026 16:34:39 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>http://reposync.to</title>
+         <link>https://x.com/Threatlabz/status/2113308058629853206</link>
+         <description>@Threatlabz | url | 
+Value: http://reposync.to
+Tweet: https://x.com/Threatlabz/status/2113308058629853206</description>
+         <guid isPermaLink="false">http://reposync.to</guid>
+         <pubDate>Thu, 22 Oct 2026 16:34:39 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>reposync.to</title>
+         <link>https://x.com/Threatlabz/status/2113308058629853206</link>
+         <description>@Threatlabz | domain | 
+Value: reposync.to
+Tweet: https://x.com/Threatlabz/status/2113308058629853206</description>
+         <guid isPermaLink="false">reposync.to</guid>
+         <pubDate>Thu, 22 Oct 2026 16:34:39 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://ntp.reposync.to</title>
+         <link>https://x.com/Threatlabz/status/2113308058629853206</link>
+         <description>@Threatlabz | url | 
+Value: http://ntp.reposync.to
+Tweet: https://x.com/Threatlabz/status/2113308058629853206</description>
+         <guid isPermaLink="false">http://ntp.reposync.to</guid>
+         <pubDate>Thu, 22 Oct 2026 16:34:39 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>ntp.reposync.to</title>
+         <link>https://x.com/Threatlabz/status/2113308058629853206</link>
+         <description>@Threatlabz | domain | 
+Value: ntp.reposync.to
+Tweet: https://x.com/Threatlabz/status/2113308058629853206</description>
+         <guid isPermaLink="false">ntp.reposync.to</guid>
+         <pubDate>Thu, 22 Oct 2026 16:34:39 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

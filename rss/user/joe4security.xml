@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @joe4security</title>
+      <link>https://x.com/joe4security</link>
+      <description>IOCs shared by @joe4security and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @joe4security</title>
+         <link>https://x.com/joe4security</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/joe4security.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://lhdn.tos-cn-hongkong.volces.com/e-Invoice_INV91074_IRBM_Validated_Tenaga_Systems_Sdn_Bhd_2026-10-15.zip</title>
+         <link>https://x.com/joe4security/status/2112281136667726245</link>
+         <description>@joe4security | url | 
+Value: https://lhdn.tos-cn-hongkong.volces.com/e-Invoice_INV91074_IRBM_Validated_Tenaga_Systems_Sdn_Bhd_2026-10-15.zip
+Tweet: https://x.com/joe4security/status/2112281136667726245</description>
+         <guid isPermaLink="false">https://lhdn.tos-cn-hongkong.volces.com/e-Invoice_INV91074_IRBM_Validated_Tenaga_Systems_Sdn_Bhd_2026-10-15.zip</guid>
+         <pubDate>Mon, 19 Oct 2026 20:34:01 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>lhdn.tos-cn-hongkong.volces.com</title>
+         <link>https://x.com/joe4security/status/2112281136667726245</link>
+         <description>@joe4security | domain | 
+Value: lhdn.tos-cn-hongkong.volces.com
+Tweet: https://x.com/joe4security/status/2112281136667726245</description>
+         <guid isPermaLink="false">lhdn.tos-cn-hongkong.volces.com</guid>
+         <pubDate>Mon, 19 Oct 2026 20:34:01 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @James_inthe_box</title>
+      <link>https://x.com/James_inthe_box</link>
+      <description>IOCs shared by @James_inthe_box and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @James_inthe_box</title>
+         <link>https://x.com/James_inthe_box</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/james_inthe_box.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>202.146.222.95</title>
+         <link>https://x.com/James_inthe_box/status/2112532310742691861</link>
+         <description>@James_inthe_box | ip | #ValleyRAT
+Value: 202.146.222.95
+Tweet: https://x.com/James_inthe_box/status/2112532310742691861</description>
+         <guid isPermaLink="false">202.146.222.95</guid>
+         <pubDate>Tue, 20 Oct 2026 13:12:06 +0000</pubDate>
+         <category>ip</category>
+         <category>#ValleyRAT</category>
+      </item>
+      <item>
+         <title>http://202.146.222.95:443</title>
+         <link>https://x.com/James_inthe_box/status/2112532310742691861</link>
+         <description>@James_inthe_box | url | #ValleyRAT
+Value: http://202.146.222.95:443
+Tweet: https://x.com/James_inthe_box/status/2112532310742691861</description>
+         <guid isPermaLink="false">http://202.146.222.95:443</guid>
+         <pubDate>Tue, 20 Oct 2026 13:12:06 +0000</pubDate>
+         <category>url</category>
+         <category>#ValleyRAT</category>
+      </item>
+   </channel>
+</rss>

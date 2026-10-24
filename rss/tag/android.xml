@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #android IOC feed</title>
+      <link>https://tweetfeed.live/tag/android/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #android on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #android IOC feed</title>
+         <link>https://tweetfeed.live/tag/android/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/android.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:26 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>2d47ff06e786c6f6660f1db6ab342af2</title>
+         <link>https://x.com/ReBensk/status/2112599949745729767</link>
+         <description>@ReBensk | md5 | #Android #Trojan #malware
+Value: 2d47ff06e786c6f6660f1db6ab342af2
+Tweet: https://x.com/ReBensk/status/2112599949745729767</description>
+         <guid isPermaLink="false">2d47ff06e786c6f6660f1db6ab342af2</guid>
+         <pubDate>Tue, 20 Oct 2026 17:40:52 +0000</pubDate>
+         <category>md5</category>
+         <category>#Android</category>
+         <category>#Trojan</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>47.236.21.193</title>
+         <link>https://x.com/Fact_Finder03/status/2111814806756057553</link>
+         <description>@Fact_Finder03 | ip | #Android #C2 #RAT
+Value: 47.236.21.193
+Tweet: https://x.com/Fact_Finder03/status/2111814806756057553</description>
+         <guid isPermaLink="false">47.236.21.193</guid>
+         <pubDate>Sun, 18 Oct 2026 13:41:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#Android</category>
+         <category>#C2</category>
+         <category>#RAT</category>
+      </item>
+   </channel>
+</rss>

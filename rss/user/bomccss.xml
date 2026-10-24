@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @bomccss</title>
+      <link>https://x.com/bomccss</link>
+      <description>IOCs shared by @bomccss and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @bomccss</title>
+         <link>https://x.com/bomccss</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/bomccss.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>99e781b4662daf6d65d66416bdf304b11cb10ecb6bf3a69c27fdf26d726b529c</title>
+         <link>https://x.com/bomccss/status/2112754246542406060</link>
+         <description>@bomccss | sha256 | #ValleyRAT
+Value: 99e781b4662daf6d65d66416bdf304b11cb10ecb6bf3a69c27fdf26d726b529c
+Tweet: https://x.com/bomccss/status/2112754246542406060</description>
+         <guid isPermaLink="false">99e781b4662daf6d65d66416bdf304b11cb10ecb6bf3a69c27fdf26d726b529c</guid>
+         <pubDate>Wed, 21 Oct 2026 03:54:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ValleyRAT</category>
+      </item>
+      <item>
+         <title>https://share.google/XpDwUY4wr618gBIJQ</title>
+         <link>https://x.com/bomccss/status/2112143000361218342</link>
+         <description>@bomccss | url | 
+Value: https://share.google/XpDwUY4wr618gBIJQ
+Tweet: https://x.com/bomccss/status/2112143000361218342</description>
+         <guid isPermaLink="false">https://share.google/XpDwUY4wr618gBIJQ</guid>
+         <pubDate>Mon, 19 Oct 2026 11:25:07 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

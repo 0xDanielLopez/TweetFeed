@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @ReBensk</title>
+      <link>https://x.com/ReBensk</link>
+      <description>IOCs shared by @ReBensk and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @ReBensk</title>
+         <link>https://x.com/ReBensk</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/rebensk.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>2d47ff06e786c6f6660f1db6ab342af2</title>
+         <link>https://x.com/ReBensk/status/2112599949745729767</link>
+         <description>@ReBensk | md5 | #Android #Trojan #malware
+Value: 2d47ff06e786c6f6660f1db6ab342af2
+Tweet: https://x.com/ReBensk/status/2112599949745729767</description>
+         <guid isPermaLink="false">2d47ff06e786c6f6660f1db6ab342af2</guid>
+         <pubDate>Tue, 20 Oct 2026 17:40:52 +0000</pubDate>
+         <category>md5</category>
+         <category>#Android</category>
+         <category>#Trojan</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

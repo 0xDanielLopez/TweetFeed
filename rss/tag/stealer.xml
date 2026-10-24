@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #stealer IOC feed</title>
+      <link>https://tweetfeed.live/tag/stealer/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #stealer on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #stealer IOC feed</title>
+         <link>https://tweetfeed.live/tag/stealer/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/stealer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>45.74.176.213</title>
+         <link>https://x.com/Fact_Finder03/status/2112437731582431297</link>
+         <description>@Fact_Finder03 | ip | #stealer
+Value: 45.74.176.213
+Tweet: https://x.com/Fact_Finder03/status/2112437731582431297</description>
+         <guid isPermaLink="false">45.74.176.213</guid>
+         <pubDate>Tue, 20 Oct 2026 06:56:17 +0000</pubDate>
+         <category>ip</category>
+         <category>#stealer</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @midnight_comms</title>
+      <link>https://x.com/midnight_comms</link>
+      <description>IOCs shared by @midnight_comms and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @midnight_comms</title>
+         <link>https://x.com/midnight_comms</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/midnight_comms.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>196.189.236.67</title>
+         <link>https://x.com/midnight_comms/status/2112921438823014859</link>
+         <description>@midnight_comms | ip | 
+Value: 196.189.236.67
+Tweet: https://x.com/midnight_comms/status/2112921438823014859</description>
+         <guid isPermaLink="false">196.189.236.67</guid>
+         <pubDate>Wed, 21 Oct 2026 14:58:21 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>

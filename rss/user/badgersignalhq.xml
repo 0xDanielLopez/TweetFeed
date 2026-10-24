@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @BadgerSignalHQ</title>
+      <link>https://x.com/BadgerSignalHQ</link>
+      <description>IOCs shared by @BadgerSignalHQ and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @BadgerSignalHQ</title>
+         <link>https://x.com/BadgerSignalHQ</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/badgersignalhq.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>4.0.9.8</title>
+         <link>https://x.com/BadgerSignalHQ/status/2112449346134512003</link>
+         <description>@BadgerSignalHQ | ip | #ClickFix
+Value: 4.0.9.8
+Tweet: https://x.com/BadgerSignalHQ/status/2112449346134512003</description>
+         <guid isPermaLink="false">4.0.9.8</guid>
+         <pubDate>Tue, 20 Oct 2026 07:42:26 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+      </item>
+   </channel>
+</rss>

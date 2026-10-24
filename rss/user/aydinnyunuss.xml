@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @aydinnyunuss</title>
+      <link>https://x.com/aydinnyunuss</link>
+      <description>IOCs shared by @aydinnyunuss and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @aydinnyunuss</title>
+         <link>https://x.com/aydinnyunuss</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/aydinnyunuss.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://whatruns.com/api/v1/analyse_emails</title>
+         <link>https://x.com/aydinnyunuss/status/2112264054081302679</link>
+         <description>@aydinnyunuss | url | #malware
+Value: http://whatruns.com/api/v1/analyse_emails
+Tweet: https://x.com/aydinnyunuss/status/2112264054081302679</description>
+         <guid isPermaLink="false">http://whatruns.com/api/v1/analyse_emails</guid>
+         <pubDate>Mon, 19 Oct 2026 19:26:09 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>whatruns.com</title>
+         <link>https://x.com/aydinnyunuss/status/2112264054081302679</link>
+         <description>@aydinnyunuss | domain | #malware
+Value: whatruns.com
+Tweet: https://x.com/aydinnyunuss/status/2112264054081302679</description>
+         <guid isPermaLink="false">whatruns.com</guid>
+         <pubDate>Mon, 19 Oct 2026 19:26:09 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://rdtds.net/siblings/find?place=41</title>
+         <link>https://x.com/aydinnyunuss/status/2111902829942321546</link>
+         <description>@aydinnyunuss | url | #malware
+Value: http://rdtds.net/siblings/find?place=41
+Tweet: https://x.com/aydinnyunuss/status/2111902829942321546</description>
+         <guid isPermaLink="false">http://rdtds.net/siblings/find?place=41</guid>
+         <pubDate>Sun, 18 Oct 2026 19:30:46 +0000</pubDate>
+         <category>url</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>rdtds.net</title>
+         <link>https://x.com/aydinnyunuss/status/2111902829942321546</link>
+         <description>@aydinnyunuss | domain | #malware
+Value: rdtds.net
+Tweet: https://x.com/aydinnyunuss/status/2111902829942321546</description>
+         <guid isPermaLink="false">rdtds.net</guid>
+         <pubDate>Sun, 18 Oct 2026 19:30:46 +0000</pubDate>
+         <category>domain</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

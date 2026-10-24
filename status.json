@@ -1,0 +1,588 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-10-24T00:01:05Z",
+ "pipeline": {
+  "interval_seconds": 900,
+  "stale_after_seconds": 1800
+ },
+ "contract": {
+  "license": "CC0-1.0",
+  "tlp": "CLEAR",
+  "live_window_days": 365,
+  "archive": "all history",
+  "docs": "https://tweetfeed.live/api/",
+  "data_repo": "https://github.com/0xDanielLopez/TweetFeed"
+ },
+ "sources": {
+  "total": 57,
+  "hashtag": 33,
+  "account": 24,
+  "rows_last_24h": 249,
+  "dead_after_seconds": {
+   "account": 2592000,
+   "hashtag": null
+  },
+  "items": [
+   {
+    "id": "0xb1lal",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T20:38:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "0xDanielLopez",
+    "kind": "account",
+    "newest_item_at": "2026-10-20T19:52:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "500mk500",
+    "kind": "account",
+    "newest_item_at": "2026-10-15T20:16:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "abuse_ch",
+    "kind": "account",
+    "newest_item_at": "2026-10-21T13:13:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "bomccss",
+    "kind": "account",
+    "newest_item_at": "2026-10-21T03:54:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "byrne_emmy12099",
+    "kind": "account",
+    "newest_item_at": "2026-10-22T22:18:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "ElementalX2",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T13:05:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "Fact_Finder03",
+    "kind": "account",
+    "newest_item_at": "2026-10-22T08:26:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "KesaGataMe0",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T14:47:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "kubotaa3",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T14:13:00Z",
+    "rows_last_24h": 6,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "Malwarehunterr",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T20:47:00Z",
+    "rows_last_24h": 26,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "nextronresearch",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T08:05:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "phatomcandle",
+    "kind": "account",
+    "newest_item_at": "2026-10-20T15:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "sicehice",
+    "kind": "account",
+    "newest_item_at": "2026-10-14T14:52:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "SinghSoodeep",
+    "kind": "account",
+    "newest_item_at": "2026-09-04T13:30:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "skocherhan",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T15:07:00Z",
+    "rows_last_24h": 97,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "smica83",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T20:38:00Z",
+    "rows_last_24h": 5,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "suyog41",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T13:35:00Z",
+    "rows_last_24h": 1,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "tdatwja",
+    "kind": "account",
+    "newest_item_at": "2026-10-21T11:25:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TheM3gatr0n",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T17:32:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "Threatlabz",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T14:50:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TweetFeedList",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T23:52:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TweetFeedListReplies",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T23:19:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "webamon_search",
+    "kind": "account",
+    "newest_item_at": "2026-10-20T13:14:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "AiTM",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T22:56:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "AmosStealer",
+    "kind": "hashtag",
+    "newest_item_at": "2026-08-25T04:21:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "AsyncRAT",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-21T08:11:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "BlueNoroff",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-14T15:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "ClickFix",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T11:20:00Z",
+    "rows_last_24h": 15,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "CobaltStrike",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-16T06:41:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Dcrat",
+    "kind": "hashtag",
+    "newest_item_at": "2026-09-22T07:56:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Formbook",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T12:01:00Z",
+    "rows_last_24h": 11,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "GuLoader",
+    "kind": "hashtag",
+    "newest_item_at": "2026-08-09T17:30:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "HijackLoader",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-19T08:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Kimsuky",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-22T00:51:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Lokibot",
+    "kind": "hashtag",
+    "newest_item_at": "2026-09-14T07:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Lumma",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-21T23:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "LummaStealer",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-22T06:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Magecart",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-20T11:43:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "malware",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T23:02:00Z",
+    "rows_last_24h": 113,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "MustangPanda",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-07T12:08:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "NanoCore",
+    "kind": "hashtag",
+    "newest_item_at": "2026-09-21T08:47:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "NetSupport",
+    "kind": "hashtag",
+    "newest_item_at": "2026-09-29T08:02:00Z",
+    "rows_last_24h": 24,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Njrat",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-14T09:26:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "opendir",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T04:32:00Z",
+    "rows_last_24h": 1,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "phishing",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T23:00:00Z",
+    "rows_last_24h": 113,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "PHP2Shell",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T23:50:00Z",
+    "rows_last_24h": 14,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "ransomware",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T23:30:00Z",
+    "rows_last_24h": 2,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Remcos",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-12T14:45:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Reverse_SSH",
+    "kind": "hashtag",
+    "newest_item_at": "2026-07-18T16:12:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Rhadamanthys",
+    "kind": "hashtag",
+    "newest_item_at": "2026-09-12T23:12:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "SalatStealer",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-17T12:12:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "scam",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T23:37:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Sliver",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T15:04:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "ValleyRAT",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-21T02:49:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Vidar",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-22T23:40:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Xworm",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-23T00:51:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   }
+  ]
+ },
+ "artifacts": {
+  "today.csv": {
+   "kind": "tick",
+   "path": "today.csv",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "today",
+   "rows": 0,
+   "first_row": null,
+   "last_row": null,
+   "data_stale_after_seconds": 28800
+  },
+  "week.csv": {
+   "kind": "tick",
+   "path": "week.csv",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "week",
+   "rows": 4945,
+   "first_row": "2026-10-18 01:12:38",
+   "last_row": "2026-10-23 23:52:47",
+   "data_stale_after_seconds": 28800
+  },
+  "month.csv": {
+   "kind": "tick",
+   "path": "month.csv",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "month",
+   "rows": 8784,
+   "first_row": "2026-09-24 00:15:31",
+   "last_row": "2026-10-23 23:52:47",
+   "data_stale_after_seconds": 28800
+  },
+  "year.csv": {
+   "kind": "tick",
+   "path": "year.csv",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "year",
+   "rows": 99296,
+   "first_row": "2025-10-25 00:00:08",
+   "last_row": "2026-10-23 23:52:47",
+   "data_stale_after_seconds": 28800
+  },
+  "rss.xml": {
+   "kind": "tick",
+   "path": "rss.xml",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "counts.json": {
+   "kind": "tick",
+   "path": "counts.json",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "contributors.json": {
+   "kind": "tick",
+   "path": "contributors.json",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "misp": {
+   "kind": "tick",
+   "path": "misp/",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "stix": {
+   "kind": "tick",
+   "path": "stix/",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "blocklists": {
+   "kind": "tick",
+   "path": "blocklists/",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "exclusive.csv": {
+   "kind": "tick",
+   "path": "exclusive.csv",
+   "updated_at": "2026-10-24T00:01:05Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
+  },
+  "lookup": {
+   "kind": "own-clock",
+   "path": "lookup/",
+   "updated_at": "2026-10-24T00:00:23Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 2700,
+   "shards": 256
+  },
+  "trends.json": {
+   "kind": "own-clock",
+   "path": "trends.json",
+   "updated_at": "2026-10-24T00:00:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 2700
+  },
+  "archive": {
+   "kind": "change-driven",
+   "path": "archive/",
+   "updated_at": "2026-10-24T00:01:03Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": null,
+   "note": "generated_at moves only when the archive corpus changes (at most daily); pipeline freshness is the signal"
+  },
+  "external.json": {
+   "kind": "own-clock",
+   "path": "external.json",
+   "updated_at": "2026-10-23T19:25:10Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 27000
+  },
+  "ipmeta.json": {
+   "kind": "own-clock",
+   "path": "ipmeta.json",
+   "updated_at": "2026-10-23T19:35:05Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 27000
+  },
+  "enrichment.json": {
+   "kind": "own-clock",
+   "path": "enrichment.json",
+   "updated_at": "2026-10-23T18:40:04Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 46800
+  },
+  "campaigns.json": {
+   "kind": "own-clock",
+   "path": "campaigns.json",
+   "updated_at": "2026-10-23T06:27:41Z",
+   "interval_seconds": 86400,
+   "stale_after_seconds": 93600,
+   "upstream_stale": false,
+   "upstream_stale_since": null
+  },
+  "domainmeta.json": {
+   "kind": "change-driven",
+   "path": "domainmeta.json",
+   "updated_at": "2026-10-23T22:30:35Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": null,
+   "note": "runs after the git push and rewrites generated_at only when the resolved apex set changes; pipeline freshness is the signal"
+  }
+ }
+}

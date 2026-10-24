@@ -1,0 +1,42 @@
+name: False positive report
+description: An IOC listed on TweetFeed that you believe is not malicious
+title: "[FP] "
+labels: ["false-positive"]
+body:
+  - type: input
+    id: ioc
+    attributes:
+      label: IOC value
+      description: The exact IOC as it appears on TweetFeed. Defang it if you prefer (example[.]com).
+      placeholder: example[.]com
+    validations:
+      required: true
+  - type: dropdown
+    id: ioc-type
+    attributes:
+      label: IOC type
+      options:
+        - url
+        - domain
+        - ip
+        - sha256
+        - md5
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why is this a false positive?
+      description: Who owns it, what it actually is, and anything else that helps the review.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: TweetFeed context
+      description: First/last seen, reporters, source tweets. Auto-filled when you arrive from tweetfeed.live/search, or paste the "Copy report details" text here.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence (optional)
+      description: Links that back the claim (official site, VirusTotal, urlscan.io, WHOIS...)

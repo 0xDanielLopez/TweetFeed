@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #apt IOC feed</title>
+      <link>https://tweetfeed.live/tag/apt/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #apt on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #apt IOC feed</title>
+         <link>https://tweetfeed.live/tag/apt/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/apt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:26 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://h92jcihwicllow.wuaze.com</title>
+         <link>https://x.com/byrne_emmy12099/status/2113394494603419948</link>
+         <description>@byrne_emmy12099 | url | #APT
+Value: https://h92jcihwicllow.wuaze.com
+Tweet: https://x.com/byrne_emmy12099/status/2113394494603419948</description>
+         <guid isPermaLink="false">https://h92jcihwicllow.wuaze.com</guid>
+         <pubDate>Thu, 22 Oct 2026 22:18:07 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>h92jcihwicllow.wuaze.com</title>
+         <link>https://x.com/byrne_emmy12099/status/2113394494603419948</link>
+         <description>@byrne_emmy12099 | domain | #APT
+Value: h92jcihwicllow.wuaze.com
+Tweet: https://x.com/byrne_emmy12099/status/2113394494603419948</description>
+         <guid isPermaLink="false">h92jcihwicllow.wuaze.com</guid>
+         <pubDate>Thu, 22 Oct 2026 22:18:07 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>172.86.86.60</title>
+         <link>https://x.com/phatomcandle/status/2112559475689476360</link>
+         <description>@phatomcandle | ip | #APT #malware
+Value: 172.86.86.60
+Tweet: https://x.com/phatomcandle/status/2112559475689476360</description>
+         <guid isPermaLink="false">172.86.86.60</guid>
+         <pubDate>Tue, 20 Oct 2026 15:00:03 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://172.86.86.60</title>
+         <link>https://x.com/phatomcandle/status/2112559475689476360</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://172.86.86.60
+Tweet: https://x.com/phatomcandle/status/2112559475689476360</description>
+         <guid isPermaLink="false">http://172.86.86.60</guid>
+         <pubDate>Tue, 20 Oct 2026 15:00:03 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>103.31.250.254</title>
+         <link>https://x.com/phatomcandle/status/2112197084510101598</link>
+         <description>@phatomcandle | ip | #APT #malware
+Value: 103.31.250.254
+Tweet: https://x.com/phatomcandle/status/2112197084510101598</description>
+         <guid isPermaLink="false">103.31.250.254</guid>
+         <pubDate>Mon, 19 Oct 2026 15:00:02 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://103.31.250.254</title>
+         <link>https://x.com/phatomcandle/status/2112197084510101598</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://103.31.250.254
+Tweet: https://x.com/phatomcandle/status/2112197084510101598</description>
+         <guid isPermaLink="false">http://103.31.250.254</guid>
+         <pubDate>Mon, 19 Oct 2026 15:00:02 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @lnlotu2</title>
+      <link>https://x.com/lnlotu2</link>
+      <description>IOCs shared by @lnlotu2 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @lnlotu2</title>
+         <link>https://x.com/lnlotu2</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/lnlotu2.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 24 Oct 2026 00:00:27 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://qa3u8erl.online</title>
+         <link>https://x.com/lnlotu2/status/2112123303242686946</link>
+         <description>@lnlotu2 | url | #phishing
+Value: http://qa3u8erl.online
+Tweet: https://x.com/lnlotu2/status/2112123303242686946</description>
+         <guid isPermaLink="false">http://qa3u8erl.online</guid>
+         <pubDate>Mon, 19 Oct 2026 10:06:51 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>qa3u8erl.online</title>
+         <link>https://x.com/lnlotu2/status/2112123303242686946</link>
+         <description>@lnlotu2 | domain | #phishing
+Value: qa3u8erl.online
+Tweet: https://x.com/lnlotu2/status/2112123303242686946</description>
+         <guid isPermaLink="false">qa3u8erl.online</guid>
+         <pubDate>Mon, 19 Oct 2026 10:06:51 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>
