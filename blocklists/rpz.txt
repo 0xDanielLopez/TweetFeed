@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2833
-; Updated: 2026-10-24T03:15:17Z
+; Entries: 2837
+; Updated: 2026-10-24T05:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1792811717 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1792818917 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1222,6 +1222,8 @@ arvion.network CNAME .
 *.arvion.network CNAME .
 asdkjcn30r9.mygamesonline.org CNAME .
 *.asdkjcn30r9.mygamesonline.org CNAME .
+ashland-energy.com CNAME .
+*.ashland-energy.com CNAME .
 asiioasdjasiojasodijasa.eastus.cloudapp.azure.com CNAME .
 *.asiioasdjasiojasodijasa.eastus.cloudapp.azure.com CNAME .
 assandrew.com CNAME .
@@ -1854,6 +1856,8 @@ claudjaframework.beer CNAME .
 *.claudjaframework.beer CNAME .
 claufancdn.beer CNAME .
 *.claufancdn.beer CNAME .
+cleaningbyme.screenconnect.com CNAME .
+*.cleaningbyme.screenconnect.com CNAME .
 clearalternat-jp.com CNAME .
 *.clearalternat-jp.com CNAME .
 clhfgcomacdn.beer CNAME .
@@ -2448,6 +2452,8 @@ facebook.sioll.net CNAME .
 *.facebook.sioll.net CNAME .
 faithbiglovered.opik.net CNAME .
 *.faithbiglovered.opik.net CNAME .
+famous-stroopwafel-edea6e.netlify.app CNAME .
+*.famous-stroopwafel-edea6e.netlify.app CNAME .
 fanotablid.net CNAME .
 *.fanotablid.net CNAME .
 faq.webapi-whatsapp.com CNAME .
@@ -3606,6 +3612,8 @@ ms.webhwsapp-whatsapp.com CNAME .
 *.ms.webhwsapp-whatsapp.com CNAME .
 msjsonp.com CNAME .
 *.msjsonp.com CNAME .
+msteamsss.com CNAME .
+*.msteamsss.com CNAME .
 msteamvideoinvites.online CNAME .
 *.msteamvideoinvites.online CNAME .
 mundolatinoradio.info CNAME .
