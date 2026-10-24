@@ -1,5 +1,5 @@
 {
-  "count": 5903,
+  "count": 5808,
   "dead_tweets": {
     "2101923416521728224": {
       "attempts": 1,
@@ -9,6 +9,10 @@
       "attempts": 1,
       "last_attempt": "2026-10-19T00:40:04Z"
     },
+    "2103019418859053423": {
+      "attempts": 1,
+      "last_attempt": "2026-10-24T12:40:04Z"
+    },
     "2107773993008669042": {
       "attempts": 2,
       "last_attempt": "2026-10-23T06:40:03Z"
@@ -16,6 +20,10 @@
     "2110971416963326442": {
       "attempts": 2,
       "last_attempt": "2026-10-24T00:40:04Z"
+    },
+    "2111212930066706900": {
+      "attempts": 1,
+      "last_attempt": "2026-10-24T12:40:04Z"
     },
     "2113129690873704530": {
       "attempts": 2,
@@ -70,6 +78,22 @@
       "tweet_id": "2107495744642969841",
       "type": "domain",
       "value": "01-buy.com"
+    },
+    "01c204a2a9f0989e3abee0f237f6080f2f072467a4d83dd4a4921443a60d09fe": {
+      "confidence": 0.65,
+      "date": "2026-10-24 07:37:04",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake LetsVPN zip sample seen from Hong Kong, with a fully undetected C2 server communicating over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2113897547299226095",
+      "type": "sha256",
+      "value": "01c204a2a9f0989e3abee0f237f6080f2f072467a4d83dd4a4921443a60d09fe"
     },
     "01ccf4139d0cfc0f2c58c00a8a517bac81f7d39d0841de52fb92e479ba7c0734": {
       "confidence": 0.4,
@@ -2918,6 +2942,18 @@
       "type": "url",
       "value": "http://104.192.2.46:443"
     },
+    "104.194.133.95": {
+      "confidence": 0.2,
+      "date": "2026-10-24 11:08:20",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domain and IP shared without context; likely malicious infrastructure but the threat type and family are not identified.",
+      "threat_type": "other",
+      "tweet_id": "2113950715156877642",
+      "type": "url",
+      "value": "http://104.194.133.95"
+    },
     "104.194.141.56": {
       "confidence": 0.3,
       "date": "2026-10-22 21:15:47",
@@ -4029,6 +4065,20 @@
       "type": "ip",
       "value": "116.212.185.161"
     },
+    "117.58.240.173": {
+      "confidence": 0.9,
+      "date": "2026-10-24 12:01:11",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page hosted on a lookalike subdomain of jisandev.com, resolving to an IP in Bangladesh.",
+      "threat_type": "phishing",
+      "tweet_id": "2113964013755179333",
+      "type": "ip",
+      "value": "117.58.240.173"
+    },
     "118.107.35.196": {
       "confidence": 0.8,
       "date": "2026-10-01 16:55:39",
@@ -4221,20 +4271,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "120.79.15.49"
-    },
-    "121.4.43.2": {
-      "confidence": 0.75,
-      "date": "2026-09-24 07:14:00",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two IPs associated with Toshell C2 panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2103020106372592005",
-      "type": "ip",
-      "value": "121.4.43.2"
     },
     "121.43.148.69": {
       "confidence": 0.5,
@@ -6457,6 +6493,38 @@
       "type": "ip",
       "value": "137.184.98.116"
     },
+    "137.220.140.19": {
+      "confidence": 0.65,
+      "date": "2026-10-24 07:37:04",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake LetsVPN zip sample seen from Hong Kong, with a fully undetected C2 server communicating over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2113897547299226095",
+      "type": "ip",
+      "value": "137.220.140.19"
+    },
+    "137.220.140.19:15443": {
+      "confidence": 0.65,
+      "date": "2026-10-24 07:37:04",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Fake LetsVPN zip sample seen from Hong Kong, with a fully undetected C2 server communicating over TCP.",
+      "threat_type": "c2",
+      "tweet_id": "2113897547299226095",
+      "type": "url",
+      "value": "http://137.220.140.19:15443"
+    },
     "137.220.156.231": {
       "confidence": 0.6,
       "date": "2026-10-12 11:36:19",
@@ -7120,6 +7188,21 @@
       "tweet_id": "2111427256992034933",
       "type": "ip",
       "value": "149.137.136.16"
+    },
+    "149.33.8.214": {
+      "confidence": 0.65,
+      "date": "2026-10-24 09:01:00",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "Suspected RAT C2 infrastructure with a login panel, including a domain and IPs found in a lab/hunting context.",
+      "threat_type": "c2",
+      "tweet_id": "2113918670502322295",
+      "type": "ip",
+      "value": "149.33.8.214"
     },
     "149.78.186.49": {
       "confidence": 0.5,
@@ -8507,21 +8590,6 @@
       "type": "url",
       "value": "http://158.94.211.205"
     },
-    "159.100.9.61": {
-      "confidence": 0.96,
-      "date": "2026-09-24 07:01:15",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Freshly registered domain (1 day old) impersonating Wells Fargo for credential phishing, hosted on Ultahost in Germany.",
-      "threat_type": "phishing",
-      "tweet_id": "2103016897193111846",
-      "type": "ip",
-      "value": "159.100.9.61"
-    },
     "159.112.188.117": {
       "confidence": 0.85,
       "date": "2026-10-21 13:51:04",
@@ -9621,6 +9689,20 @@
       "type": "url",
       "value": "http://172.86.86.60"
     },
+    "172.86.91.160": {
+      "confidence": 0.6,
+      "date": "2026-10-24 07:55:21",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Three IP addresses with ports flagged as C2 panel infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2113902149545644150",
+      "type": "ip",
+      "value": "172.86.91.160"
+    },
     "172.86.93.139": {
       "confidence": 0.6,
       "date": "2026-10-11 12:25:11",
@@ -9844,20 +9926,6 @@
       "tweet_id": "2109951516878549366",
       "type": "url",
       "value": "http://176.12.71.122"
-    },
-    "176.120.22.24": {
-      "confidence": 0.65,
-      "date": "2026-09-24 10:08:39",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Two IPs attributed to ShinyHunters ransomware group activity.",
-      "threat_type": "ransomware",
-      "tweet_id": "2103064059360968788",
-      "type": "ip",
-      "value": "176.120.22.24"
     },
     "176.123.11.84": {
       "confidence": 0.55,
@@ -10519,6 +10587,20 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "185.201.227.49"
+    },
+    "185.216.68.113": {
+      "confidence": 0.6,
+      "date": "2026-10-24 07:55:21",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Three IP addresses with ports flagged as C2 panel infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2113902149545644150",
+      "type": "ip",
+      "value": "185.216.68.113"
     },
     "185.221.216.121": {
       "confidence": 0.6,
@@ -11541,6 +11623,20 @@
       "type": "ip",
       "value": "195.26.224.69"
     },
+    "195.86.16.208": {
+      "confidence": 0.9,
+      "date": "2026-10-24 08:11:06",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating JP Bank card services, hosted on a lookalike 7-Eleven Taiwan-themed domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2113906112244424710",
+      "type": "ip",
+      "value": "195.86.16.208"
+    },
     "195.86.16.22": {
       "confidence": 0.9,
       "date": "2026-10-20 05:59:23",
@@ -11928,22 +12024,6 @@
       "tweet_id": "2110428757622448500",
       "type": "sha256",
       "value": "1b61b95a61996b44322e9841af2fa2b63fcdd18a569f16fa8acd30eb8d8ac854"
-    },
-    "1b8218c839dfb071f7308fb2ab4157d726d9a81f3da9cb6d9b72d7db81686fec": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "sha256",
-      "value": "1b8218c839dfb071f7308fb2ab4157d726d9a81f3da9cb6d9b72d7db81686fec"
     },
     "1d617f5fda401b5bed0a63550f9de05d": {
       "confidence": 0.8,
@@ -12941,20 +13021,6 @@
       "type": "url",
       "value": "http://209.94.57.48"
     },
-    "209.99.186.221": {
-      "confidence": 0.5,
-      "date": "2026-09-24 07:56:00",
-      "enriched_at": "2026-10-17T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP address reported as a C2 panel server by community researchers.",
-      "threat_type": "c2",
-      "tweet_id": "2103030675842781376",
-      "type": "ip",
-      "value": "209.99.186.221"
-    },
     "209.99.190.80": {
       "confidence": 0.6,
       "date": "2026-10-11 21:00:46",
@@ -13082,6 +13148,20 @@
       "tweet_id": "2105568410935665032",
       "type": "url",
       "value": "https://212.80.205.63"
+    },
+    "213.111.185.78": {
+      "confidence": 0.6,
+      "date": "2026-10-24 07:55:21",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Three IP addresses with ports flagged as C2 panel infrastructure.",
+      "threat_type": "c2",
+      "tweet_id": "2113902149545644150",
+      "type": "ip",
+      "value": "213.111.185.78"
     },
     "213.145.86.42": {
       "confidence": 0.55,
@@ -13287,20 +13367,6 @@
       "tweet_id": "2103526948169494944",
       "type": "ip",
       "value": "216.24.57.18"
-    },
-    "216.245.184.91": {
-      "confidence": 0.75,
-      "date": "2026-09-24 06:42:34",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "IP associated with MorosRelay C2 relay panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2103012198276825120",
-      "type": "ip",
-      "value": "216.245.184.91"
     },
     "216.250.251.87": {
       "confidence": 0.6,
@@ -24085,20 +24151,6 @@
       "type": "ip",
       "value": "37.77.150.214"
     },
-    "37.77.150.95": {
-      "confidence": 0.65,
-      "date": "2026-09-24 10:08:39",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "ransomware"
-      ],
-      "summary": "Two IPs attributed to ShinyHunters ransomware group activity.",
-      "threat_type": "ransomware",
-      "tweet_id": "2103064059360968788",
-      "type": "ip",
-      "value": "37.77.150.95"
-    },
     "37d7a8c504227f9c1986619fd8148f1737cf94e56ac91687f8ba33be7e945f5e": {
       "confidence": 0.8,
       "date": "2026-10-14 17:53:20",
@@ -24923,20 +24975,6 @@
       "tweet_id": "2103484670486659111",
       "type": "ip",
       "value": "39.100.76.154"
-    },
-    "39.104.201.242": {
-      "confidence": 0.75,
-      "date": "2026-09-24 07:14:00",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Two IPs associated with Toshell C2 panel infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2103020106372592005",
-      "type": "ip",
-      "value": "39.104.201.242"
     },
     "39d76b97f4b74e65a8285a3b273926dff27af56a42408e5f4d98c202a6f35514": {
       "confidence": 0.45,
@@ -28189,21 +28227,6 @@
       "type": "sha256",
       "value": "55e1adcf7b552f67f7d15a5982f1617cdc522430b3d9c2b5a45e0829d5620272"
     },
-    "56.126.60.120": {
-      "confidence": 0.95,
-      "date": "2026-09-24 12:01:17",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing site impersonating Bradesco insurance hosted on Amazon AWS infrastructure in Brazil.",
-      "threat_type": "phishing",
-      "tweet_id": "2103092404643299743",
-      "type": "ip",
-      "value": "56.126.60.120"
-    },
     "568727af2895b87664db81cf09ef4f66": {
       "confidence": 0.7,
       "date": "2026-09-27 16:59:54",
@@ -28354,21 +28377,6 @@
       "tweet_id": "2106019274342986023",
       "type": "domain",
       "value": "5889631857.cfd"
-    },
-    "58c84a0973d32ef578a431a967fe308e": {
-      "confidence": 0.78,
-      "date": "2026-09-24 07:01:45",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Korean-language LNK file impersonating a KB service-change PDF staged via surveillance-online.com FileServer panel.",
-      "threat_type": "malware",
-      "tweet_id": "2103017026436362279",
-      "type": "md5",
-      "value": "58c84a0973d32ef578a431a967fe308e"
     },
     "58eb890b612938867237c3fa1715b8742d9b25a8fe136cd75ea659882b7b7a10": {
       "confidence": 0.4,
@@ -28771,22 +28779,6 @@
       "type": "sha256",
       "value": "628a881e2718fdfe2a9304a2c744862b47cec0c57655dc432592babbd596f396"
     },
-    "635ceb7e46453dcecee94d8eb48c4dbfd090e0819197f1d4087fe0aaa439918a": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "sha256",
-      "value": "635ceb7e46453dcecee94d8eb48c4dbfd090e0819197f1d4087fe0aaa439918a"
-    },
     "64.177.53.67": {
       "confidence": 0.6,
       "date": "2026-10-08 17:49:46",
@@ -28847,6 +28839,21 @@
       "tweet_id": "2107834038459220031",
       "type": "ip",
       "value": "64.20.61.134"
+    },
+    "64.224.17.108": {
+      "confidence": 0.65,
+      "date": "2026-10-24 09:01:00",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "rat"
+      ],
+      "summary": "Suspected RAT C2 infrastructure with a login panel, including a domain and IPs found in a lab/hunting context.",
+      "threat_type": "c2",
+      "tweet_id": "2113918670502322295",
+      "type": "ip",
+      "value": "64.224.17.108"
     },
     "64.224.17.115": {
       "confidence": 0.8,
@@ -31904,24 +31911,6 @@
       "type": "sha256",
       "value": "8eaab190b3029ed576f0ac92ccebe1f18f00d73eab9b596d2796d3fcc74a88e7"
     },
-    "8f48a5001d8baa3913359891d53870341d5a2eb345c7e19464ade2164b471fa2": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "sha256",
-      "value": "8f48a5001d8baa3913359891d53870341d5a2eb345c7e19464ade2164b471fa2"
-    },
     "8f4903b8b110ec1b9580a5a27bf49c3e4793538a863100559d085b7545fcda25": {
       "confidence": 0.9,
       "date": "2026-10-12 14:18:17",
@@ -33038,6 +33027,18 @@
       "tweet_id": "2109746693679800413",
       "type": "sha256",
       "value": "9b3dca0664de057a9e56eb68bd00d5b0250496bba64a8f398351b243cb4a340f"
+    },
+    "9c5ec25d6c564d4041a051787d3e4050d9a8ae4ab3caaa3493aaacdb516ec548": {
+      "confidence": 0.15,
+      "date": "2026-10-24 10:37:36",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare SHA256 file hash shared in reply to security researchers with no context about the threat.",
+      "threat_type": "other",
+      "tweet_id": "2113942981879206374",
+      "type": "sha256",
+      "value": "9c5ec25d6c564d4041a051787d3e4050d9a8ae4ab3caaa3493aaacdb516ec548"
     },
     "9ca98eb44775a5bca631a4f7ddc6590542cd8d5a660bdeb3b8fef36446c4fac0": {
       "confidence": 0.7,
@@ -39532,24 +39533,6 @@
       "type": "domain",
       "value": "alertbot-lake.vercel.app"
     },
-    "aleverifocation.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "aleverifocation.beer"
-    },
     "alexis17capit.cc": {
       "confidence": 0.85,
       "date": "2026-09-29 18:55:59",
@@ -40175,24 +40158,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "anj-whatsapp.com"
-    },
-    "anlytic-js-cloud.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "anlytic-js-cloud.beer"
     },
     "anqbsss.cn": {
       "confidence": 0.9,
@@ -41779,24 +41744,6 @@
       "type": "url",
       "value": "https://awedsaklsaq.onrender.com/f/i5HXAVYP"
     },
-    "awesomeisojs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "awesomeisojs.beer"
-    },
     "aykfm.cn": {
       "confidence": 0.75,
       "date": "2026-10-07 12:05:54",
@@ -42499,24 +42446,6 @@
       "type": "sha256",
       "value": "bbc8388371a9a41079191d88893e4599964c6b6246d97953de5c94033b19f900"
     },
-    "bbdsnssserver.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bbdsnssserver.beer"
-    },
     "bc.ailingk.xyz": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -42760,24 +42689,6 @@
       "type": "domain",
       "value": "bhexfwo.cn"
     },
-    "bhfgtrns-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bhfgtrns-js.beer"
-    },
     "bhfs.myssologin.com": {
       "confidence": 0.8,
       "date": "2026-10-18 08:09:10",
@@ -42879,24 +42790,6 @@
       "type": "domain",
       "value": "bike-msca.eu"
     },
-    "bilfojsclod.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bilfojsclod.beer"
-    },
     "binmadi.screenconnect.com": {
       "confidence": 0.85,
       "date": "2026-09-28 04:14:20",
@@ -42953,24 +42846,6 @@
       "type": "url",
       "value": "https://bixsgrb.cn/Login/"
     },
-    "biyaconserver.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "biyaconserver.beer"
-    },
     "bjjmsjcfsb.com": {
       "confidence": 0.85,
       "date": "2026-10-20 11:41:54",
@@ -42984,24 +42859,6 @@
       "tweet_id": "2112509611651821607",
       "type": "domain",
       "value": "bjjmsjcfsb.com"
-    },
-    "bkscndclou.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bkscndclou.beer"
     },
     "bkz-whatsapp.com": {
       "confidence": 0.65,
@@ -43917,24 +43774,6 @@
       "type": "domain",
       "value": "bnn-whatsapp.com"
     },
-    "bnnsbdsdn-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bnnsbdsdn-js.beer"
-    },
     "bno-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -44004,24 +43843,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "bns-whatsapp.com"
-    },
-    "bnsclod.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bnsclod.beer"
     },
     "bnt-whatsapp.com": {
       "confidence": 0.65,
@@ -44319,42 +44140,6 @@
       "type": "domain",
       "value": "boostingcustomerjoy.de"
     },
-    "bootstrap-maxcdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bootstrap-maxcdn.beer"
-    },
-    "bootstrup-cdnmaper.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "bootstrup-cdnmaper.beer"
-    },
     "bop-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -44578,21 +44363,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "boxuse-whatsapp.com"
-    },
-    "bradescosegurosop.com.br": {
-      "confidence": 0.95,
-      "date": "2026-09-24 12:01:17",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Phishing site impersonating Bradesco insurance hosted on Amazon AWS infrastructure in Brazil.",
-      "threat_type": "phishing",
-      "tweet_id": "2103092404643299743",
-      "type": "domain",
-      "value": "bradescosegurosop.com.br"
     },
     "branch-whatsapp.com": {
       "confidence": 0.65,
@@ -45935,6 +45705,18 @@
       "type": "domain",
       "value": "ca-ndaxcdn.framer.media"
     },
+    "ca298d49d3fc924b481e1a32ad659edc": {
+      "confidence": 0.15,
+      "date": "2026-10-24 08:44:25",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare MD5 hash shared in reply to a researcher with no context on the threat.",
+      "threat_type": "other",
+      "tweet_id": "2113914498440659229",
+      "type": "md5",
+      "value": "ca298d49d3fc924b481e1a32ad659edc"
+    },
     "ca47e13a2980817e7849ddfef70312542ed11efaeba7b1b583161c06a440baf2": {
       "confidence": 0.8,
       "date": "2026-10-16 11:51:14",
@@ -46212,24 +45994,6 @@
       "type": "url",
       "value": "https://canjepuntosrapidobac.click/pa"
     },
-    "capcha-cdn-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "capcha-cdn-js.beer"
-    },
     "capitalwillowgate.com": {
       "confidence": 0.8,
       "date": "2026-09-30 05:41:04",
@@ -46411,42 +46175,6 @@
       "tweet_id": "2107418068393873847",
       "type": "sha256",
       "value": "cd6b7acea0bdbcf8b6e8b2e62ea710ab3d9e59111202ac7a733d109c27c948fd"
-    },
-    "cdn-2faclov.sbs": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "cdn-2faclov.sbs"
-    },
-    "cdn-plugin-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "cdn-plugin-js.beer"
     },
     "cdn-staticfiles.com": {
       "confidence": 0.9,
@@ -47148,24 +46876,6 @@
       "type": "url",
       "value": "https://checkoutv2.inflowpay.com/pay/sess_FsNHlEobXBntqBJRgAwXP"
     },
-    "chekbrow.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "chekbrow.beer"
-    },
     "chimefusion.com": {
       "confidence": 0.95,
       "date": "2026-09-25 09:10:58",
@@ -47337,78 +47047,6 @@
       "type": "domain",
       "value": "ckeuuat.cn"
     },
-    "clainasns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "clainasns.beer"
-    },
-    "claudesave.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "claudesave.beer"
-    },
-    "claudjaframework.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "claudjaframework.beer"
-    },
-    "claufancdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "claufancdn.beer"
-    },
     "cleaningbyme.screenconnect.com": {
       "confidence": 0.8,
       "date": "2026-10-24 04:56:35",
@@ -47455,24 +47093,6 @@
       "type": "domain",
       "value": "clearalternat-jp.com"
     },
-    "clhfgcomacdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "clhfgcomacdn.beer"
-    },
     "clientapi-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -47514,24 +47134,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "clientweb-whatsapp.com"
-    },
-    "cloud-save-image.sbs": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "cloud-save-image.sbs"
     },
     "cloud.repeatcarrental.com": {
       "confidence": 0.85,
@@ -47603,24 +47205,6 @@
       "type": "domain",
       "value": "cloudcdn-whatsapp.com"
     },
-    "cloudcdnginx.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "cloudcdnginx.beer"
-    },
     "cloudcore-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -47662,24 +47246,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "clouddns-whatsapp.com"
-    },
-    "cloude-js-server.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "cloude-js-server.beer"
     },
     "cloudeliverenterprise.com": {
       "confidence": 0.4,
@@ -49022,6 +48588,18 @@
       "type": "domain",
       "value": "cycle-whatsapp.com"
     },
+    "cyuop.com": {
+      "confidence": 0.2,
+      "date": "2026-10-24 11:08:20",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domain and IP shared without context; likely malicious infrastructure but the threat type and family are not identified.",
+      "threat_type": "other",
+      "tweet_id": "2113950715156877642",
+      "type": "domain",
+      "value": "cyuop.com"
+    },
     "czqlmm.com": {
       "confidence": 0.85,
       "date": "2026-10-07 05:44:22",
@@ -49121,6 +48699,21 @@
       "tweet_id": "2113729879229317627",
       "type": "sha256",
       "value": "d2d95c5534efcea6c63843cde59b617ac5b97e057d908298191468d5e3b7635a"
+    },
+    "d2f6c84b0d0e7a2aefe8f90ca3ba7202": {
+      "confidence": 0.7,
+      "date": "2026-10-24 08:51:49",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": "SystemBC",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "MD5 hash of a sample tagged as SystemBC RAT, a proxy/backdoor malware.",
+      "threat_type": "malware",
+      "tweet_id": "2113916360308797523",
+      "type": "md5",
+      "value": "d2f6c84b0d0e7a2aefe8f90ca3ba7202"
     },
     "d306ba62abcd3b3772e7ba27f94c9643bc6bf501380ca056142f65894038b0b8": {
       "confidence": 0.8,
@@ -49421,24 +49014,6 @@
       "tweet_id": "2103950933088506181",
       "type": "domain",
       "value": "dararestao.com"
-    },
-    "darndcs-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "darndcs-js.beer"
     },
     "data-service.online": {
       "confidence": 0.3,
@@ -50528,24 +50103,6 @@
       "type": "domain",
       "value": "dhcpnode-whatsapp.com"
     },
-    "dhnsdns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "dhnsdns.beer"
-    },
     "diabetesnet.eu": {
       "confidence": 0.95,
       "date": "2026-09-25 14:31:15",
@@ -50775,24 +50332,6 @@
       "tweet_id": "2105968003712258547",
       "type": "domain",
       "value": "dmuchawa-do-lisci-pl.com"
-    },
-    "dncloteam.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "dncloteam.beer"
     },
     "dndair.com": {
       "confidence": 0.85,
@@ -51633,6 +51172,51 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://dzwwftf.cn/Login/"
+    },
+    "e-challan.download": {
+      "confidence": 0.8,
+      "date": "2026-10-24 06:50:58",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Similar fake Indian e-Challan traffic fine domains, impersonating the government portal.",
+      "threat_type": "phishing",
+      "tweet_id": "2113885945527411184",
+      "type": "domain",
+      "value": "e-challan.download"
+    },
+    "e-challan.link": {
+      "confidence": 0.8,
+      "date": "2026-10-24 06:50:58",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Similar fake Indian e-Challan traffic fine domains, impersonating the government portal.",
+      "threat_type": "phishing",
+      "tweet_id": "2113885945527411184",
+      "type": "domain",
+      "value": "e-challan.link"
+    },
+    "e-challan.sarl": {
+      "confidence": 0.8,
+      "date": "2026-10-24 06:50:58",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Similar fake Indian e-Challan traffic fine domains, impersonating the government portal.",
+      "threat_type": "phishing",
+      "tweet_id": "2113885945527411184",
+      "type": "domain",
+      "value": "e-challan.sarl"
     },
     "e006d6bd7f00bb25d86951b370c5c19ed7adc0ba65a8fbff281e050e55925941": {
       "confidence": 0.85,
@@ -52730,24 +52314,6 @@
       "type": "domain",
       "value": "energyleasing88.com"
     },
-    "eng-electrum.org": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "eng-electrum.org"
-    },
     "enganem.digital": {
       "confidence": 0.75,
       "date": "2026-10-01 11:46:13",
@@ -52790,24 +52356,6 @@
       "tweet_id": "2103950933088506181",
       "type": "domain",
       "value": "entinitic.info"
-    },
-    "entry-code-cdn.codes": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "entry-code-cdn.codes"
     },
     "entry-whatsapp.com": {
       "confidence": 0.75,
@@ -53047,24 +52595,6 @@
       "type": "url",
       "value": "https://essentialkneadsforhealth.com/chxqbgge/"
     },
-    "ethercdnns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ethercdnns.beer"
-    },
     "etu-sbe.screenconnect.com": {
       "confidence": 0.85,
       "date": "2026-09-29 04:27:34",
@@ -53152,24 +52682,6 @@
       "tweet_id": "2108293025256366166",
       "type": "domain",
       "value": "evilcrypter.ddns.com.br"
-    },
-    "exdanteam.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "exdanteam.beer"
     },
     "exodusathleticclub.com": {
       "confidence": 0.9,
@@ -53525,24 +53037,6 @@
       "type": "domain",
       "value": "f7-whatsapp.com"
     },
-    "f72a7ee555e80235a967fae2979a0b543db0b0e2bbe72d56e4eb886a8549aceb": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "sha256",
-      "value": "f72a7ee555e80235a967fae2979a0b543db0b0e2bbe72d56e4eb886a8549aceb"
-    },
     "f7d9d07b72d6c75f0d5678ff609e5f37": {
       "confidence": 0.15,
       "date": "2026-10-23 18:26:04",
@@ -53775,6 +53269,20 @@
       "tweet_id": "2106278390986641848",
       "type": "domain",
       "value": "facebook.hosweb.online"
+    },
+    "facebook.recovery.jisandev.com": {
+      "confidence": 0.9,
+      "date": "2026-10-24 12:01:11",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Facebook credential phishing page hosted on a lookalike subdomain of jisandev.com, resolving to an IP in Bangladesh.",
+      "threat_type": "phishing",
+      "tweet_id": "2113964013755179333",
+      "type": "domain",
+      "value": "facebook.recovery.jisandev.com"
     },
     "facebook.sioll.net": {
       "confidence": 0.95,
@@ -54203,21 +53711,6 @@
       "type": "domain",
       "value": "fertilab.net"
     },
-    "fever-recommendations-martha-durable.trycloudflare.com": {
-      "confidence": 0.88,
-      "date": "2026-09-24 09:34:14",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "wsgidav",
-        "opendir"
-      ],
-      "summary": "Open directory exposed via WsgiDAV on a Cloudflare Tunnel domain, likely used for malware staging.",
-      "threat_type": "malware",
-      "tweet_id": "2103055397221212419",
-      "type": "domain",
-      "value": "fever-recommendations-martha-durable.trycloudflare.com"
-    },
     "ff1a30cebc507977f916aa47cd3cfbcb134867361737f0f79f56349475af8c1a": {
       "confidence": 0.45,
       "date": "2026-10-03 20:15:40",
@@ -54364,24 +53857,6 @@
       "type": "url",
       "value": "https://fiberhost.net/gleview/"
     },
-    "fijscdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "fijscdn.beer"
-    },
     "file-greview.web.app": {
       "confidence": 0.5,
       "date": "2026-09-27 04:50:04",
@@ -54395,21 +53870,6 @@
       "tweet_id": "2104071049167949970",
       "type": "domain",
       "value": "file-greview.web.app"
-    },
-    "file.cmanager.lol": {
-      "confidence": 0.62,
-      "date": "2026-09-24 07:01:45",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "opendir"
-      ],
-      "summary": "Suspicious FileServer login panels at surveillance-online.com and file.cmanager.lol likely used for malware payload staging.",
-      "threat_type": "malware",
-      "tweet_id": "2102396142264963146",
-      "type": "domain",
-      "value": "file.cmanager.lol"
     },
     "file.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -54440,35 +53900,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "file.webstatici-whatsapp.com"
-    },
-    "files.surveillance-online.com": {
-      "confidence": 0.4,
-      "date": "2026-09-24 07:01:45",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Web panel titled 'FileServer - Login' on files.surveillance-online.com, linked to malicious payload hosting.",
-      "threat_type": "other",
-      "tweet_id": "2102396142264963146",
-      "type": "url",
-      "value": "https://files.surveillance-online.com"
-    },
-    "files.surveillance-online.com/files/9e26792b-84a3-44c1-886a-d92c9f46e1ff": {
-      "confidence": 0.78,
-      "date": "2026-09-24 07:01:45",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Korean-language LNK file impersonating a KB service-change PDF staged via surveillance-online.com FileServer panel.",
-      "threat_type": "malware",
-      "tweet_id": "2103017026436362279",
-      "type": "url",
-      "value": "http://files.surveillance-online.com/files/9e26792b-84a3-44c1-886a-d92c9f46e1ff"
     },
     "files.webstatici-whatsapp.com": {
       "confidence": 0.85,
@@ -54602,42 +54033,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "financesco.online"
-    },
-    "fingerprint-veri.info": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "fingerprint-veri.info"
-    },
-    "fingerprint-verification.info": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "fingerprint-verification.info"
     },
     "firedmanlaw.co.uk": {
       "confidence": 0.55,
@@ -54918,24 +54313,6 @@
       "type": "domain",
       "value": "fontawesome-cdn.cfd"
     },
-    "fontawesome-js-cdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "fontawesome-js-cdn.beer"
-    },
     "format-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -54964,6 +54341,22 @@
       "tweet_id": "2111429495437877298",
       "type": "domain",
       "value": "forumst.co.kr"
+    },
+    "forzaverification.com": {
+      "confidence": 0.8,
+      "date": "2026-10-24 08:33:03",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": "NetSupport RAT",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat"
+      ],
+      "summary": "Domains tagged as NetSupport RAT infrastructure, referencing Emerging Threats Labs.",
+      "threat_type": "malware",
+      "tweet_id": "2113911636796846532",
+      "type": "domain",
+      "value": "forzaverification.com"
     },
     "fqelt.cn": {
       "confidence": 0.75,
@@ -55025,42 +54418,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "fr.webhwsapp-whatsapp.com"
-    },
-    "framework-jsoncdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "framework-jsoncdn.beer"
-    },
-    "frameworkjsbns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "frameworkjsbns.beer"
     },
     "ftp.fundacionpiaz.org": {
       "confidence": 0.95,
@@ -55575,24 +54932,6 @@
       "type": "domain",
       "value": "gdfgdsa.duckdns.org"
     },
-    "gdnssljs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "gdnssljs.beer"
-    },
     "gentle.best": {
       "confidence": 0.7,
       "date": "2026-10-19 21:28:27",
@@ -55746,24 +55085,6 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "ghadita.digital"
-    },
-    "ghdnsserverns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ghdnsserverns.beer"
     },
     "ghostlightcoff-jp.com": {
       "confidence": 0.85,
@@ -56152,6 +55473,22 @@
       "type": "domain",
       "value": "go8-whatsapp.com"
     },
+    "goinsideitmore.com": {
+      "confidence": 0.8,
+      "date": "2026-10-24 08:33:03",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": "NetSupport RAT",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat"
+      ],
+      "summary": "Domains tagged as NetSupport RAT infrastructure, referencing Emerging Threats Labs.",
+      "threat_type": "malware",
+      "tweet_id": "2113911636796846532",
+      "type": "domain",
+      "value": "goinsideitmore.com"
+    },
     "gongzuo-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -56259,6 +55596,36 @@
       "type": "url",
       "value": "https://googleplay.tail017acc.ts.net/d/506aa4934ca560966f744d759712de8f"
     },
+    "gosidefastandpure.com": {
+      "confidence": 0.8,
+      "date": "2026-10-24 08:33:03",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": "NetSupport RAT",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat"
+      ],
+      "summary": "Domains tagged as NetSupport RAT infrastructure, referencing Emerging Threats Labs.",
+      "threat_type": "malware",
+      "tweet_id": "2113911636796846532",
+      "type": "domain",
+      "value": "gosidefastandpure.com"
+    },
+    "gov.it/pre": {
+      "confidence": 0.75,
+      "date": "2026-10-24 07:40:04",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Verified phishing URL impersonating the Italian Revenue Agency (Agenzia Entrate) pre-filled tax declaration service.",
+      "threat_type": "phishing",
+      "tweet_id": "2113898304861831324",
+      "type": "url",
+      "value": "https://gov.it/Pre"
+    },
     "gpcom1.screenconnect.com": {
       "confidence": 0.88,
       "date": "2026-10-01 03:25:11",
@@ -56286,24 +55653,6 @@
       "tweet_id": "2105499238566355071",
       "type": "url",
       "value": "https://gpcom1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi"
-    },
-    "gppcdnns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "gppcdnns.beer"
     },
     "gptverification.com": {
       "confidence": 0.6,
@@ -57005,24 +56354,6 @@
       "type": "domain",
       "value": "hardwood-studio-obviously-briefing.trycloudflare.com"
     },
-    "hasmeverdcdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "hasmeverdcdn.beer"
-    },
     "hasoadwaznqps.com": {
       "confidence": 0.8,
       "date": "2026-09-28 23:20:24",
@@ -57336,24 +56667,6 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://hfpzuia.cn/Login/"
-    },
-    "hftplcnsns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "hftplcnsns.beer"
     },
     "hfxlq55.cn": {
       "confidence": 0.75,
@@ -57824,24 +57137,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "howto.webapi-whatsapp.com"
-    },
-    "hpscdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "hpscdn.beer"
     },
     "httpapi-whatsapp.com": {
       "confidence": 0.7,
@@ -58398,22 +57693,6 @@
       "type": "domain",
       "value": "id.webhwsapp-whatsapp.com"
     },
-    "idcool.codes": {
-      "confidence": 0.92,
-      "date": "2026-09-24 10:01:22",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Active ClickFix campaign using EtherHiding via Polygon smart contract to serve payloads; 5,000+ compromised websites identified.",
-      "threat_type": "malware",
-      "tweet_id": "2103062225145487510",
-      "type": "domain",
-      "value": "idcool.codes"
-    },
     "iddmd.com": {
       "confidence": 0.75,
       "date": "2026-10-01 11:46:13",
@@ -58671,6 +57950,22 @@
       "tweet_id": "2105625326839906782",
       "type": "domain",
       "value": "immmerhency.com"
+    },
+    "in-echallan.win": {
+      "confidence": 0.8,
+      "date": "2026-10-24 06:46:50",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "android",
+        "malware"
+      ],
+      "summary": "Fake Indian Government eChallan site; related campaign pushes a suspected malicious Android APK and tells users to bypass Play Protect.",
+      "threat_type": "phishing",
+      "tweet_id": "2113884905268826384",
+      "type": "domain",
+      "value": "in-echallan.win"
     },
     "inbox.webstatici-whatsapp.com": {
       "confidence": 0.85,
@@ -59229,20 +58524,6 @@
       "tweet_id": "2111248110081224749",
       "type": "url",
       "value": "https://iugbkbg.cn/Login/"
-    },
-    "iuiut.nwfdk.com": {
-      "confidence": 0.95,
-      "date": "2026-09-24 12:23:24",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Amazon impersonation phishing site at iuiut.nwfdk.com targeting Japanese users.",
-      "threat_type": "phishing",
-      "tweet_id": "2103097972611502415",
-      "type": "domain",
-      "value": "iuiut.nwfdk.com"
     },
     "ivory-whatsapp.com": {
       "confidence": 0.65,
@@ -60243,24 +59524,6 @@
       "type": "domain",
       "value": "katfiore.com"
     },
-    "kawaiimechasoul.cfd": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "kawaiimechasoul.cfd"
-    },
     "kayoanime.com": {
       "confidence": 0.95,
       "date": "2026-09-25 09:10:58",
@@ -60864,24 +60127,6 @@
       "type": "domain",
       "value": "languagesforwork.eu"
     },
-    "las-js-claud.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "las-js-claud.beer"
-    },
     "latest-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -60924,42 +60169,6 @@
       "type": "domain",
       "value": "layout-whatsapp.com"
     },
-    "lcates-vs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "lcates-vs.beer"
-    },
-    "lckcdnjs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "lckcdnjs.beer"
-    },
     "lcopz.cn": {
       "confidence": 0.8,
       "date": "2026-10-06 22:48:49",
@@ -60976,42 +60185,6 @@
       "tweet_id": "2107604018059248116",
       "type": "domain",
       "value": "lcopz.cn"
-    },
-    "lcstdnsns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "lcstdnsns.beer"
-    },
-    "ldnscreatejs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ldnscreatejs.beer"
     },
     "leadingspacetechnology.top": {
       "confidence": 0.6,
@@ -61623,24 +60796,6 @@
       "type": "domain",
       "value": "llsbsnls.suplayer810.workers.dev"
     },
-    "lnfcdnclad.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "lnfcdnclad.beer"
-    },
     "lnferragens.com": {
       "confidence": 0.7,
       "date": "2026-09-28 13:35:41",
@@ -62105,23 +61260,6 @@
       "type": "domain",
       "value": "lopog.sonicanimehub.cfd"
     },
-    "lovezramexar.info": {
-      "confidence": 0.85,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-10-08T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malvertising"
-      ],
-      "summary": "urlscan query and domain list for newly registered domains tied to ClickFix/ClearFake fake-CAPTCHA campaigns, with many .beer CDN-lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "lovezramexar.info"
-    },
     "loyalcustomdrums.com": {
       "confidence": 0.85,
       "date": "2026-10-05 21:39:26",
@@ -62225,24 +61363,6 @@
       "tweet_id": "2110308506255417764",
       "type": "domain",
       "value": "lryjfreporting.5tr.org"
-    },
-    "lsnsdns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "lsnsdns.beer"
     },
     "luckyprint52.ru": {
       "confidence": 0.5,
@@ -63705,24 +62825,6 @@
       "type": "domain",
       "value": "missvalledeladrome.info"
     },
-    "mistraljs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "mistraljs.beer"
-    },
     "misuwh.com": {
       "confidence": 0.85,
       "date": "2026-10-23 23:52:47",
@@ -63998,24 +63100,6 @@
       "tweet_id": "2111958975076090219",
       "type": "domain",
       "value": "mnjuvzg.cn"
-    },
-    "mnoskemp.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "mnoskemp.beer"
     },
     "mobilepro-whatsapp.com": {
       "confidence": 0.75,
@@ -64851,24 +63935,6 @@
       "type": "url",
       "value": "https://negana.cc/hx"
     },
-    "neiwteamcdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "neiwteamcdn.beer"
-    },
     "nellarmonia.eu": {
       "confidence": 0.95,
       "date": "2026-09-25 14:31:15",
@@ -65626,24 +64692,6 @@
       "type": "url",
       "value": "https://nozazisoda.z11.web.core.windows.net/gx/index.html?phone=%2B1-844-959-2863"
     },
-    "npanssltejs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "npanssltejs.beer"
-    },
     "nqxweb-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -65686,78 +64734,6 @@
       "type": "url",
       "value": "https://nrbkjs.cfd/default/#/index"
     },
-    "ns-claude-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ns-claude-js.beer"
-    },
-    "ns-server-jscdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ns-server-jscdn.beer"
-    },
-    "ns1cdnclaude.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ns1cdnclaude.beer"
-    },
-    "nshtjscdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "nshtjscdn.beer"
-    },
     "nsjhkttv.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -65775,78 +64751,6 @@
       "type": "domain",
       "value": "nsjhkttv.cn"
     },
-    "nsserdns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "nsserdns.beer"
-    },
-    "nsserv-bootstru.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "nsserv-bootstru.beer"
-    },
-    "nsservclod.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "nsservclod.beer"
-    },
-    "nstdcs.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "nstdcs.beer"
-    },
     "ntp.reposync.to": {
       "confidence": 0.9,
       "date": "2026-10-22 16:34:39",
@@ -65861,24 +64765,6 @@
       "tweet_id": "2113308058629853206",
       "type": "domain",
       "value": "ntp.reposync.to"
-    },
-    "nvbfcdnclaud.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "nvbfcdnclaud.beer"
     },
     "nvidiasdk.fly.dev": {
       "confidence": 0.6,
@@ -66235,24 +65121,6 @@
       "tweet_id": "2110328081516998964",
       "type": "url",
       "value": "https://ollama-for-macos.github.io/Ollama_0.23.1.dmg"
-    },
-    "olnsclaud.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "olnsclaud.beer"
     },
     "olympmarskiniailietuva.info": {
       "confidence": 0.85,
@@ -66689,6 +65557,21 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "operator.beauty"
+    },
+    "ophtalmovisus.com": {
+      "confidence": 0.6,
+      "date": "2026-10-24 08:20:04",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "phishing"
+      ],
+      "summary": "Website flagged as a confirmed scam by an automated web malware scanner.",
+      "threat_type": "scam",
+      "tweet_id": "2113908367601094911",
+      "type": "domain",
+      "value": "ophtalmovisus.com"
     },
     "oppsite.dothome.co.kr": {
       "confidence": 0.7,
@@ -67358,21 +66241,6 @@
       "type": "domain",
       "value": "payload1717.pro"
     },
-    "paymentsecurelink.vercel.app": {
-      "confidence": 0.82,
-      "date": "2026-09-24 12:02:00",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Payment-themed scam site hosted on Vercel flagged as confirmed scam by malware scanner.",
-      "threat_type": "scam",
-      "tweet_id": "2103092585992536153",
-      "type": "domain",
-      "value": "paymentsecurelink.vercel.app"
-    },
     "pc.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -67836,54 +66704,6 @@
       "type": "url",
       "value": "https://poiwaksuwa.com/point/download/"
     },
-    "poiwaldsas.com": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "domain",
-      "value": "poiwaldsas.com"
-    },
-    "poiwaldsas.com/ana": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "url",
-      "value": "https://poiwaldsas.com/ana"
-    },
-    "poiwaldsas.com/nenkin/download": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "url",
-      "value": "https://poiwaldsas.com/nenkin/download"
-    },
     "poiwaldsas.com/transtioncash": {
       "confidence": 0.8,
       "date": "2026-09-28 23:20:24",
@@ -68253,24 +67073,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "privacy.webstatici-whatsapp.com"
-    },
-    "proalamir.dz": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "proalamir.dz"
     },
     "proceso-personal-inf2026ac.hstn.me": {
       "confidence": 0.8,
@@ -69102,54 +67904,6 @@
       "tweet_id": "2107139464334287026",
       "type": "url",
       "value": "https://pususufim.z28.web.core.windows.net?phone=050-3095-4311"
-    },
-    "puwaiosd.com": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "domain",
-      "value": "puwaiosd.com"
-    },
-    "puwaiosd.com/ana": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "url",
-      "value": "https://puwaiosd.com/ana"
-    },
-    "puwaiosd.com/nenkin/download": {
-      "confidence": 0.9,
-      "date": "2026-09-24 06:49:50",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware impersonating Japan Pension Service (Nenkin) and ANA airline distributed via two malicious domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103014027630895339",
-      "type": "url",
-      "value": "https://puwaiosd.com/nenkin/download"
     },
     "pvnweb-whatsapp.com": {
       "confidence": 0.65,
@@ -71122,24 +69876,6 @@
       "type": "domain",
       "value": "sandsprecast.com"
     },
-    "sane-cdn-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "sane-cdn-js.beer"
-    },
     "sanpedrodejuj-etzax.com": {
       "confidence": 0.7,
       "date": "2026-09-25 23:30:00",
@@ -71431,24 +70167,6 @@
       "tweet_id": "2112666363059937775",
       "type": "domain",
       "value": "scrollsawvideos.com"
-    },
-    "sdnssmdf-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "sdnssmdf-js.beer"
     },
     "sdonaghylactationservices.info": {
       "confidence": 0.82,
@@ -72783,24 +71501,6 @@
       "type": "domain",
       "value": "slaughterandmay.ssosettings.com"
     },
-    "slngftr.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "slngftr.beer"
-    },
     "smaluf.net": {
       "confidence": 0.45,
       "date": "2026-10-22 19:16:21",
@@ -72860,60 +71560,6 @@
       "type": "domain",
       "value": "smbweb-whatsapp.com"
     },
-    "smetana-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "smetana-js.beer"
-    },
-    "smfcdnbb.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "smfcdnbb.beer"
-    },
-    "smnsdns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "smnsdns.beer"
-    },
     "smokingstationhub.com": {
       "confidence": 0.6,
       "date": "2026-10-14 10:43:00",
@@ -72928,24 +71574,6 @@
       "tweet_id": "2110320462786122062",
       "type": "domain",
       "value": "smokingstationhub.com"
-    },
-    "snccdn-framework.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "snccdn-framework.beer"
     },
     "snj.kjk.mybluehost.me": {
       "confidence": 0.9,
@@ -72974,24 +71602,6 @@
       "tweet_id": "2113175176020185284",
       "type": "url",
       "value": "http://snj.kjk.mybluehost.me/orund/hhhh.php"
-    },
-    "sns-clauder-cdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "sns-clauder-cdn.beer"
     },
     "snutrorize.com": {
       "confidence": 0.5,
@@ -73424,78 +72034,6 @@
       "type": "domain",
       "value": "spogear.click"
     },
-    "sr-hostes-js.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "sr-hostes-js.beer"
-    },
-    "srtydnnc.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "srtydnnc.beer"
-    },
-    "ssg-cdn.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ssg-cdn.beer"
-    },
-    "ssjscrybootstrup.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "ssjscrybootstrup.beer"
-    },
     "ssl.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -73631,24 +72169,6 @@
       "type": "domain",
       "value": "ssosvc-m365s-kvl-dv0pshb-s3ntln-c0mply-4zrmonx-apimgwx-evnthb.workers.dev"
     },
-    "stabcdnvlc.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "stabcdnvlc.beer"
-    },
     "stable-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -73760,24 +72280,6 @@
       "tweet_id": "2103934538254557327",
       "type": "domain",
       "value": "static-secure.com"
-    },
-    "static.telegram-info.top": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "static.telegram-info.top"
     },
     "static.webapi-whatsapp.com": {
       "confidence": 0.85,
@@ -75015,24 +73517,6 @@
       "type": "domain",
       "value": "tea.vexexo.com"
     },
-    "teamcss.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "teamcss.beer"
-    },
     "teams-meeting-invite.icu": {
       "confidence": 0.8,
       "date": "2026-10-09 03:33:11",
@@ -76249,24 +74733,6 @@
       "type": "domain",
       "value": "tools.webstatici-whatsapp.com"
     },
-    "toontitanlegends.cfd": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "toontitanlegends.cfd"
-    },
     "topic-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -76379,42 +74845,6 @@
       "tweet_id": "2106376009654145461",
       "type": "url",
       "value": "https://tradingengineers.in/Indgravendes.csv"
-    },
-    "transferpopdownloadnow.monster": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "transferpopdownloadnow.monster"
-    },
-    "transmitpopfiletoday.monster": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "transmitpopfiletoday.monster"
     },
     "traveltoeuro-saisanpolnts.com": {
       "confidence": 0.7,
@@ -77668,24 +76098,6 @@
       "type": "domain",
       "value": "velnoderic.com"
     },
-    "verico-de-id.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "verico-de-id.beer"
-    },
     "verification-code-js.beer": {
       "confidence": 0.9,
       "date": "2026-10-08 14:48:18",
@@ -77747,23 +76159,6 @@
       "tweet_id": "2107803435953201493",
       "type": "domain",
       "value": "verifyaccount-google.com"
-    },
-    "verifyrecapcha.info": {
-      "confidence": 0.85,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-10-08T06:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malvertising"
-      ],
-      "summary": "urlscan query and domain list for newly registered domains tied to ClickFix/ClearFake fake-CAPTCHA campaigns, with many .beer CDN-lookalike domains.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "verifyrecapcha.info"
     },
     "vermontsolidsurface.info": {
       "confidence": 0.83,
@@ -77982,24 +76377,6 @@
       "type": "domain",
       "value": "viewweb-whatsapp.com"
     },
-    "viscdnclaud.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "viscdnclaud.beer"
-    },
     "visionvert-jprakutanziu.com": {
       "confidence": 0.7,
       "date": "2026-09-25 23:32:17",
@@ -78031,24 +76408,6 @@
       "type": "domain",
       "value": "vispuradh.net"
     },
-    "visual-ns-portal.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "visual-ns-portal.beer"
-    },
     "vivid-flicker-anvil-creoen.pro": {
       "confidence": 0.8,
       "date": "2026-10-15 12:33:05",
@@ -78077,24 +76436,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "vivid-whatsapp.com"
-    },
-    "vnmstokns.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "vnmstokns.beer"
     },
     "vodafone-staging-alt.voltsystems.de": {
       "confidence": 0.75,
@@ -78289,24 +76630,6 @@
       "tweet_id": "2111632925372358876",
       "type": "url",
       "value": "https://vrl.lta.gov.sg/vrls/app/esa/login"
-    },
-    "vsbnsbootstrup.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "vsbnsbootstrup.beer"
     },
     "vsdhjjt.club": {
       "confidence": 0.5,
@@ -79802,21 +78125,6 @@
       "type": "domain",
       "value": "wellsfargo-secure-login.beauty"
     },
-    "wellsfargogethelp.com": {
-      "confidence": 0.96,
-      "date": "2026-09-24 07:01:15",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "banker"
-      ],
-      "summary": "Freshly registered domain (1 day old) impersonating Wells Fargo for credential phishing, hosted on Ultahost in Germany.",
-      "threat_type": "phishing",
-      "tweet_id": "2103016897193111846",
-      "type": "domain",
-      "value": "wellsfargogethelp.com"
-    },
     "westpointworks.space": {
       "confidence": 0.83,
       "date": "2026-09-25 01:04:05",
@@ -80096,24 +78404,6 @@
       "type": "domain",
       "value": "windows.webapi-whatsapp.com"
     },
-    "winecdn.sbs": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "winecdn.sbs"
-    },
     "winter-dawn-c288.suplayer810.workers.dev": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -80207,24 +78497,6 @@
       "type": "domain",
       "value": "wmail.aitai.ne.jp"
     },
-    "wmicconfidance.info": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "wmicconfidance.info"
-    },
     "wndws-pip3ln-sql3-waf3-purv3-gdprsx-dfn-azfn-appsvc-0ffapx.workers.dev": {
       "confidence": 0.95,
       "date": "2026-09-25 14:31:15",
@@ -80272,24 +78544,6 @@
       "tweet_id": "2109263406956155061",
       "type": "domain",
       "value": "wordmoss.com"
-    },
-    "workcdnmass.beer": {
-      "confidence": 0.92,
-      "date": "2026-09-24 12:12:59",
-      "enriched_at": "2026-09-24T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "clearfake",
-        "fakecaptcha",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Large ClickFix/ClearFake campaign using 80+ newly registered .beer/.sbs/.monster domains for fake CAPTCHA/browser verification lures.",
-      "threat_type": "malware",
-      "tweet_id": "2103095348113924175",
-      "type": "domain",
-      "value": "workcdnmass.beer"
     },
     "worker-broken-wood-ddaf.discord854832.workers.dev": {
       "confidence": 0.6,
@@ -80758,21 +79012,6 @@
       "tweet_id": "2103169146108445044",
       "type": "url",
       "value": "https://www.dongwana.com/amex_tgmail202609/turnstile-check"
-    },
-    "www.dropbox.com/scl/fi/kpj24ilqwva3kmknn8hps/kb_-_.pdf": {
-      "confidence": 0.75,
-      "date": "2026-09-24 07:44:36",
-      "enriched_at": "2026-09-24T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "malware"
-      ],
-      "summary": "Korean-language LNK file masquerading as a PDF (KB service-change notice) staged via Dropbox and a remote file server; APT-attributed.",
-      "threat_type": "malware",
-      "tweet_id": "2103027808826265959",
-      "type": "url",
-      "value": "https://www.dropbox.com/scl/fi/kpj24ilqwva3kmknn8hps/KB_-_.pdf"
     },
     "www.exodusathleticclub.com/wp-content/themes/wordpress/wordpress/wellsfargo%20otp/download%20file.html": {
       "confidence": 0.9,
@@ -81908,6 +80147,22 @@
       "type": "domain",
       "value": "youtubemail.club"
     },
+    "youvibecoding.com": {
+      "confidence": 0.8,
+      "date": "2026-10-24 08:33:03",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": "NetSupport RAT",
+      "suggested_tags": [
+        "netsupport",
+        "netsupportrat",
+        "rat"
+      ],
+      "summary": "Domains tagged as NetSupport RAT infrastructure, referencing Emerging Threats Labs.",
+      "threat_type": "malware",
+      "tweet_id": "2113911636796846532",
+      "type": "domain",
+      "value": "youvibecoding.com"
+    },
     "youwillneverstopus.top": {
       "confidence": 0.5,
       "date": "2026-09-26 14:20:57",
@@ -82024,6 +80279,34 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "yunliao-whatsapp.com"
+    },
+    "yuutyoubannku.myship-711-com-tw-re34s.shop": {
+      "confidence": 0.9,
+      "date": "2026-10-24 08:11:06",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating JP Bank card services, hosted on a lookalike 7-Eleven Taiwan-themed domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2113906112244424710",
+      "type": "domain",
+      "value": "yuutyoubannku.myship-711-com-tw-re34s.shop"
+    },
+    "yuutyoubannku.myship-711-com-tw-re34s.shop/oymavdrj": {
+      "confidence": 0.9,
+      "date": "2026-10-24 08:11:06",
+      "enriched_at": "2026-10-24T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Japanese phishing site impersonating JP Bank card services, hosted on a lookalike 7-Eleven Taiwan-themed domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2113906112244424710",
+      "type": "url",
+      "value": "https://yuutyoubannku.myship-711-com-tw-re34s.shop/OYmAvdRJ"
     },
     "yverodumbo.com": {
       "confidence": 0.5,
@@ -82895,6 +81178,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-24T06:40:04Z",
+  "generated_at": "2026-10-24T12:40:04Z",
   "window_days": 30
 }
