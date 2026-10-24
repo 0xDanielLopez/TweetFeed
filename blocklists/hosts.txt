@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2831
-# Updated: 2026-10-24T00:00:24Z
+# Entries: 2832
+# Updated: 2026-10-24T00:30:16Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1527,6 +1527,7 @@
 0.0.0.0 izakayafujiy-jp.com
 0.0.0.0 ja.webhwsapp-whatsapp.com
 0.0.0.0 jadxgui.com
+0.0.0.0 japan-five.top
 0.0.0.0 japanpostae0.club
 0.0.0.0 japanpostfup.club
 0.0.0.0 japanpostmhk.club
