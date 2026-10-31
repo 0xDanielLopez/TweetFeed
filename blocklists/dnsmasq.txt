@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2370
-# Updated: 2026-10-31T09:15:19Z
+# Entries: 2371
+# Updated: 2026-10-31T13:00:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -686,6 +686,7 @@ address=/dillardindustrial.com/0.0.0.0
 address=/disable-own-nest-response.trycloudflare.com/0.0.0.0
 address=/discovery-whatsapp.com/0.0.0.0
 address=/dist-cdn.net/0.0.0.0
+address=/distenel.site/0.0.0.0
 address=/dklak.cam/0.0.0.0
 address=/dlhengshengtang.com/0.0.0.0
 address=/dls-content-cdn.global.ssl.fastly.net/0.0.0.0

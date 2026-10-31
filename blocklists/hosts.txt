@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2370
-# Updated: 2026-10-31T09:15:19Z
+# Entries: 2371
+# Updated: 2026-10-31T13:00:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -686,6 +686,7 @@
 0.0.0.0 disable-own-nest-response.trycloudflare.com
 0.0.0.0 discovery-whatsapp.com
 0.0.0.0 dist-cdn.net
+0.0.0.0 distenel.site
 0.0.0.0 dklak.cam
 0.0.0.0 dlhengshengtang.com
 0.0.0.0 dls-content-cdn.global.ssl.fastly.net
