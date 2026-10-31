@@ -1,5 +1,5 @@
 {
-  "count": 5969,
+  "count": 5954,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -12,10 +12,6 @@
     "2107773993008669042": {
       "attempts": 2,
       "last_attempt": "2026-10-30T18:40:03Z"
-    },
-    "2110971416963326442": {
-      "attempts": 2,
-      "last_attempt": "2026-10-24T00:40:04Z"
     },
     "2111212930066706900": {
       "attempts": 2,
@@ -33248,6 +33244,22 @@
       "type": "ip",
       "value": "86.109.75.162"
     },
+    "86a0ed5fc0336d6ade1ce4ad3688ef73c3dde04fce4c6daed761a796f347c66a": {
+      "confidence": 0.8,
+      "date": "2026-10-31 00:28:54",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Japanese e-Tax app, distributed via promdressu-jp[.]com; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2116326511053824409",
+      "type": "sha256",
+      "value": "86a0ed5fc0336d6ade1ce4ad3688ef73c3dde04fce4c6daed761a796f347c66a"
+    },
     "87.120.104.148": {
       "confidence": 0.9,
       "date": "2026-10-05 13:34:13",
@@ -52658,20 +52670,6 @@
       "type": "domain",
       "value": "docusignappinstallers.help"
     },
-    "docusignauthentication.xyz": {
-      "confidence": 0.8,
-      "date": "2026-10-01 03:29:37",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Recently registered domain suspected of impersonating DocuSign for phishing.",
-      "threat_type": "phishing",
-      "tweet_id": "2105500355908009998",
-      "type": "domain",
-      "value": "docusignauthentication.xyz"
-    },
     "domain-privacy.group": {
       "confidence": 0.85,
       "date": "2026-10-21 09:12:42",
@@ -58603,34 +58601,6 @@
       "type": "url",
       "value": "https://gov.it/Pre"
     },
-    "gpcom1.screenconnect.com": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:25:11",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at nilehost[.]cloud delivers a ScreenConnect RMM client installer (MSI) from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2105499238566355071",
-      "type": "domain",
-      "value": "gpcom1.screenconnect.com"
-    },
-    "gpcom1.screenconnect.com/bin/screenconnect.clientsetup.msi": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:25:11",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at nilehost[.]cloud delivers a ScreenConnect RMM client installer (MSI) from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2105499238566355071",
-      "type": "url",
-      "value": "https://gpcom1.screenconnect.com/Bin/ScreenConnect.ClientSetup.msi"
-    },
     "gptverification.com": {
       "confidence": 0.6,
       "date": "2026-10-23 18:20:43",
@@ -58646,6 +58616,20 @@
       "tweet_id": "2113697138269946361",
       "type": "domain",
       "value": "gptverification.com"
+    },
+    "grabola.cfd": {
+      "confidence": 0.7,
+      "date": "2026-10-31 04:32:56",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "scam"
+      ],
+      "summary": "Domain grabola[.]cfd flagged by a web malware scanner as a confirmed scam site.",
+      "threat_type": "scam",
+      "tweet_id": "2116387926418375165",
+      "type": "domain",
+      "value": "grabola.cfd"
     },
     "grabthedeals.net": {
       "confidence": 0.7,
@@ -58693,6 +58677,20 @@
       "tweet_id": "2114869790972244150",
       "type": "domain",
       "value": "granitepointmedia.fun"
+    },
+    "greenerpasturetrading.info": {
+      "confidence": 0.75,
+      "date": "2026-10-03 04:54:07",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Auto-insurance lure from lifewithmyfriend[.]com leading to greenerpasturetrading[.]info, corroborated by public reports.",
+      "threat_type": "phishing",
+      "tweet_id": "2106246397318287518",
+      "type": "domain",
+      "value": "greenerpasturetrading.info"
     },
     "grillchefsecrets.com": {
       "confidence": 0.85,
@@ -61008,20 +61006,6 @@
       "type": "domain",
       "value": "ios.webapi-whatsapp.com"
     },
-    "iphonelocatorpro.com": {
-      "confidence": 0.82,
-      "date": "2026-10-01 02:30:27",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Duplicate Ethos-themed phishing emails sent from iphonelocatorpro[.]com led to sdonaghylactationservices[.]info.",
-      "threat_type": "phishing",
-      "tweet_id": "2105485465063469506",
-      "type": "domain",
-      "value": "iphonelocatorpro.com"
-    },
     "ipqmdqzxnsfxqfc.zip": {
       "confidence": 0.7,
       "date": "2026-10-28 06:14:43",
@@ -62705,34 +62689,6 @@
       "type": "domain",
       "value": "labkit-whatsapp.com"
     },
-    "laboratoires-azbane.com": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:06:03",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page at laboratoires-azbane[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105494422804996111",
-      "type": "domain",
-      "value": "laboratoires-azbane.com"
-    },
-    "laboratoires-azbane.com/ftx": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:06:03",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page at laboratoires-azbane[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105494422804996111",
-      "type": "url",
-      "value": "https://laboratoires-azbane.com/ftx/"
-    },
     "labrun-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -63359,34 +63315,6 @@
       "tweet_id": "2110159474220744752",
       "type": "domain",
       "value": "loanfairfield.com"
-    },
-    "logiccorporation.screenconnect.com": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:12:36",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at strutsupportsystems[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105496072785453421",
-      "type": "domain",
-      "value": "logiccorporation.screenconnect.com"
-    },
-    "logiccorporation.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:12:36",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at strutsupportsystems[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105496072785453421",
-      "type": "url",
-      "value": "https://logiccorporation.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "login-options.com": {
       "confidence": 0.7,
@@ -65157,6 +65085,20 @@
       "type": "domain",
       "value": "miricanvas.com"
     },
+    "missvalledeladrome.info": {
+      "confidence": 0.8,
+      "date": "2026-10-06 14:56:40",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Empire Today sale lure sent from wookidoodlesalga[.]com leading to missvalledeladrome[.]info, flagged by public threat intel.",
+      "threat_type": "phishing",
+      "tweet_id": "2107485196312572006",
+      "type": "domain",
+      "value": "missvalledeladrome.info"
+    },
     "misuwh.com": {
       "confidence": 0.85,
       "date": "2026-10-23 23:52:47",
@@ -66525,34 +66467,6 @@
       "tweet_id": "2110046818688192537",
       "type": "domain",
       "value": "nildex.com"
-    },
-    "nilehost.cloud": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:25:11",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at nilehost[.]cloud delivers a ScreenConnect RMM client installer (MSI) from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2105499238566355071",
-      "type": "domain",
-      "value": "nilehost.cloud"
-    },
-    "nilehost.cloud/adobe_inz.html": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:25:11",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at nilehost[.]cloud delivers a ScreenConnect RMM client installer (MSI) from a screenconnect.com instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2105499238566355071",
-      "type": "url",
-      "value": "https://nilehost.cloud/Adobe_Inz.html"
     },
     "ni\u0199e.com": {
       "confidence": 0.7,
@@ -68981,6 +68895,22 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "prolab-whatsapp.com"
+    },
+    "promdressu-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-31 00:28:54",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as Japanese e-Tax app, distributed via promdressu-jp[.]com; sample hash shared via VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2116326511053824409",
+      "type": "domain",
+      "value": "promdressu-jp.com"
     },
     "promise-whatsapp.com": {
       "confidence": 0.65,
@@ -71675,20 +71605,6 @@
       "type": "domain",
       "value": "scrollsawvideos.com"
     },
-    "sdonaghylactationservices.info": {
-      "confidence": 0.82,
-      "date": "2026-10-01 02:30:27",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Duplicate Ethos-themed phishing emails sent from iphonelocatorpro[.]com led to sdonaghylactationservices[.]info.",
-      "threat_type": "phishing",
-      "tweet_id": "2105485465063469506",
-      "type": "domain",
-      "value": "sdonaghylactationservices.info"
-    },
     "sdootuk.marmorariacoral.website": {
       "confidence": 0.5,
       "date": "2026-10-27 15:23:02",
@@ -72863,22 +72779,6 @@
       "type": "domain",
       "value": "shield-whatsapp.com"
     },
-    "shieldmetasetup.com": {
-      "confidence": 0.93,
-      "date": "2026-10-01 04:09:46",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "cryptoscam",
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing email impersonating MetaMask ('biometric access') links to shieldmetasetup[.]com, a site that harvests wallet recovery phrases.",
-      "threat_type": "cryptoscam",
-      "tweet_id": "2105510460653244682",
-      "type": "domain",
-      "value": "shieldmetasetup.com"
-    },
     "shoppingbasketweekly.info": {
       "confidence": 0.85,
       "date": "2026-10-14 01:58:47",
@@ -73807,34 +73707,6 @@
       "tweet_id": "2109649861385609321",
       "type": "domain",
       "value": "stormvenomforge.top"
-    },
-    "strafordhomes.screenconnect.com": {
-      "confidence": 0.8,
-      "date": "2026-10-01 03:18:08",
-      "enriched_at": "2026-10-16T00:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing delivers a ScreenConnect RMM installer from a screenconnect.com subdomain, via thiswoodeno.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105497466040926462",
-      "type": "domain",
-      "value": "strafordhomes.screenconnect.com"
-    },
-    "strafordhomes.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.8,
-      "date": "2026-10-01 03:18:08",
-      "enriched_at": "2026-10-16T00:40:04Z",
-      "family": "ScreenConnect",
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing delivers a ScreenConnect RMM installer from a screenconnect.com subdomain, via thiswoodeno.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105497466040926462",
-      "type": "url",
-      "value": "https://strafordhomes.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "strand-output-firefox-laptop.trycloudflare.com": {
       "confidence": 0.4,
@@ -74837,34 +74709,6 @@
       "type": "domain",
       "value": "string-whatsapp.com"
     },
-    "strutsupportsystems.com": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:12:36",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at strutsupportsystems[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105496072785453421",
-      "type": "domain",
-      "value": "strutsupportsystems.com"
-    },
-    "strutsupportsystems.com/adobe_installer.html": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:12:36",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at strutsupportsystems[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105496072785453421",
-      "type": "url",
-      "value": "https://strutsupportsystems.com/Adobe_Installer.html"
-    },
     "style-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -74878,21 +74722,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "style-whatsapp.com"
-    },
-    "stylishhomegallery.com": {
-      "confidence": 0.75,
-      "date": "2026-10-01 02:25:40",
-      "enriched_at": "2026-10-24T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Multiple insurance, loan, tax and mattress lures redirecting to stylishhomegallery.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105484262049005931",
-      "type": "domain",
-      "value": "stylishhomegallery.com"
     },
     "styvlor.cfd": {
       "confidence": 0.9,
@@ -76324,34 +76153,6 @@
       "type": "domain",
       "value": "terms.webapi-whatsapp.com"
     },
-    "teruid.com": {
-      "confidence": 0.92,
-      "date": "2026-10-01 02:15:13",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese carrier docomo (d CARD GOLD) hosted at teruid[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105481630345494930",
-      "type": "domain",
-      "value": "teruid.com"
-    },
-    "teruid.com/docomo/st/dcard_gold/index.html#": {
-      "confidence": 0.92,
-      "date": "2026-10-01 02:15:13",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese carrier docomo (d CARD GOLD) hosted at teruid[.]com.",
-      "threat_type": "phishing",
-      "tweet_id": "2105481630345494930",
-      "type": "url",
-      "value": "https://teruid.com/docomo/st/dcard_gold/index.html#/"
-    },
     "testenv-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -76758,34 +76559,6 @@
       "tweet_id": "2112879577307447551",
       "type": "domain",
       "value": "theworkshop-sign.skin"
-    },
-    "thiswoodeno.com": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:18:08",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at thiswoodeno[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105497466040926462",
-      "type": "domain",
-      "value": "thiswoodeno.com"
-    },
-    "thiswoodeno.com/aa": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:18:08",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page at thiswoodeno[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105497466040926462",
-      "type": "url",
-      "value": "https://thiswoodeno.com/aa/"
     },
     "thmaiaas.duckdns.org": {
       "confidence": 0.6,
@@ -78202,34 +77975,6 @@
       "tweet_id": "2106304875802001582",
       "type": "domain",
       "value": "vale-quaeum-a4hc9.top"
-    },
-    "valeriediedrich13.screenconnect.com": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:06:03",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page at laboratoires-azbane[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105494422804996111",
-      "type": "domain",
-      "value": "valeriediedrich13.screenconnect.com"
-    },
-    "valeriediedrich13.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.88,
-      "date": "2026-10-01 03:06:03",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "DocuSign-themed phishing page at laboratoires-azbane[.]com delivers a ScreenConnect RMM client installer (EXE).",
-      "threat_type": "phishing",
-      "tweet_id": "2105494422804996111",
-      "type": "url",
-      "value": "https://valeriediedrich13.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "vavgxahwqq.vercel.app": {
       "confidence": 0.65,
@@ -82751,6 +82496,20 @@
       "type": "url",
       "value": "https://yxz-1469461062.cos.ap-singapore.myqcloud.com/DMRootCA.zip"
     },
+    "yzhw666.com": {
+      "confidence": 0.85,
+      "date": "2026-10-31 00:23:52",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating Sumitomo Mitsui Banking Corporation at yzhw666[.]com.",
+      "threat_type": "phishing",
+      "tweet_id": "2116325245670097301",
+      "type": "domain",
+      "value": "yzhw666.com"
+    },
     "zaptechhelp.com": {
       "confidence": 0.6,
       "date": "2026-10-14 09:14:04",
@@ -83356,6 +83115,34 @@
       "type": "domain",
       "value": "zoomjoinlive.com"
     },
+    "zoommeeting.click": {
+      "confidence": 0.75,
+      "date": "2026-10-31 03:36:44",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Domain zoommeeting[.]click reported as phishing, likely impersonating Zoom meetings.",
+      "threat_type": "phishing",
+      "tweet_id": "2116373782101451101",
+      "type": "domain",
+      "value": "zoommeeting.click"
+    },
+    "zoommeetingconnect.click": {
+      "confidence": 0.75,
+      "date": "2026-10-31 03:40:20",
+      "enriched_at": "2026-10-31T06:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Domain zoommeetingconnect[.]click reported as phishing, likely impersonating Zoom meetings.",
+      "threat_type": "phishing",
+      "tweet_id": "2116374685432889360",
+      "type": "domain",
+      "value": "zoommeetingconnect.click"
+    },
     "zoomusinvite2.pages.dev": {
       "confidence": 0.85,
       "date": "2026-10-06 04:39:11",
@@ -83544,6 +83331,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-31T00:40:03Z",
+  "generated_at": "2026-10-31T06:40:03Z",
   "window_days": 30
 }
