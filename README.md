@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-31 21:15:17 (UTC)</th>
+        <th colspan=4>2026-10-31 21:30:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 27 | 431 | 2933 | 45304 |
+| **:link: URLs** | 28 | 432 | 2934 | 45305 |
 | **:globe_with_meridians: Domains** | 19 | 302 | 2455 | 39062 |
-| **:triangular_flag_on_post: IPs** | 14 | 167 | 2124 | 7873 |
+| **:triangular_flag_on_post: IPs** | 15 | 168 | 2125 | 7874 |
 | **:1234: SHA256** | 4 | 112 | 436 | 3036 |
 | **:1234: MD5** | 2 | 43 | 98 | 2102 |
 
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 38 | 362 | 3416 | 33731 |
+| **#phishing** | 40 | 364 | 3418 | 33733 |
 | **#Kimsuky** | 0 | 10 | 42 | 13317 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 24 | 171 | 1130 | 4090 |
@@ -235,11 +235,11 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#3** | [skocherhan](https://x.com/skocherhan) | 7 |
 | **#4** | [phishunt_io](https://x.com/phishunt_io) | 6 |
 | **#5** | [Malwarehunterr](https://x.com/Malwarehunterr) | 6 |
-| **#6** | [harugasumi](https://x.com/harugasumi) | 5 |
-| **#7** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#8** | [patialavii](https://x.com/patialavii) | 4 |
-| **#9** | [sicehice](https://x.com/sicehice) | 4 |
-| **#10** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [PhishStats](https://x.com/PhishStats) | 5 |
+| **#7** | [harugasumi](https://x.com/harugasumi) | 5 |
+| **#8** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#9** | [patialavii](https://x.com/patialavii) | 4 |
+| **#10** | [sicehice](https://x.com/sicehice) | 4 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
