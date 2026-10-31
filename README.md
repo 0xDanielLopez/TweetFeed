@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-31 09:00:23 (UTC)</th>
+        <th colspan=4>2026-10-31 09:15:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 423 | 2926 | 45297 |
-| **:globe_with_meridians: Domains** | 9 | 299 | 2453 | 39060 |
-| **:triangular_flag_on_post: IPs** | 1 | 158 | 2115 | 7865 |
-| **:1234: SHA256** | 1 | 110 | 434 | 3034 |
+| **:link: URLs** | 11 | 425 | 2928 | 45299 |
+| **:globe_with_meridians: Domains** | 11 | 301 | 2455 | 39062 |
+| **:triangular_flag_on_post: IPs** | 2 | 159 | 2116 | 7866 |
+| **:1234: SHA256** | 2 | 111 | 435 | 3035 |
 | **:1234: MD5** | 0 | 41 | 96 | 2100 |
 
 </div>
@@ -205,10 +205,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 16 | 350 | 3404 | 33720 |
+| **#phishing** | 22 | 356 | 3410 | 33726 |
 | **#Kimsuky** | 0 | 10 | 42 | 13317 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
-| **#malware** | 7 | 154 | 1113 | 4073 |
+| **#malware** | 10 | 157 | 1116 | 4076 |
 | **#scam** | 0 | 10 | 46 | 3298 |
 | **#C2** | 0 | 28 | 100 | 2205 |
 | **#APT** | 0 | 4 | 39 | 1492 |
@@ -230,12 +230,12 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 7 |
+| **#1** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#2** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#3** | [patialavii](https://x.com/patialavii) | 4 |
 | **#4** | [phishunt_io](https://x.com/phishunt_io) | 3 |
-| **#5** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#6** | [-](https://x.com/-) | 0 |
+| **#5** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#6** | [scanmalware](https://x.com/scanmalware) | 2 |
 | **#7** | [-](https://x.com/-) | 0 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |

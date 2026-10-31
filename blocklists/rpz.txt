@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2368
-; Updated: 2026-10-31T08:15:19Z
+; Entries: 2370
+; Updated: 2026-10-31T09:15:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793434519 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793438119 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -894,6 +894,8 @@ c2.teamzeroday.net CNAME .
 *.c2.teamzeroday.net CNAME .
 c97xx6lx.onlinewebshop.net CNAME .
 *.c97xx6lx.onlinewebshop.net CNAME .
+cachedpage-jp.com CNAME .
+*.cachedpage-jp.com CNAME .
 cachesrv-whatsapp.com CNAME .
 *.cachesrv-whatsapp.com CNAME .
 caihongzhixia-jp.com CNAME .
@@ -1886,6 +1888,8 @@ gbjeifr.cn CNAME .
 *.gbjeifr.cn CNAME .
 gdfgdsa.duckdns.org CNAME .
 *.gdfgdsa.duckdns.org CNAME .
+gemini-alarmes.com CNAME .
+*.gemini-alarmes.com CNAME .
 gentle.best CNAME .
 *.gentle.best CNAME .
 gerardo.desarrollowebalcala.es CNAME .

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2368
-# Updated: 2026-10-31T08:15:19Z
+# Entries: 2370
+# Updated: 2026-10-31T09:15:19Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -449,6 +449,7 @@ address=/bytemai.com/0.0.0.0
 address=/bzvmjsn5.sportsontheweb.net/0.0.0.0
 address=/c2.teamzeroday.net/0.0.0.0
 address=/c97xx6lx.onlinewebshop.net/0.0.0.0
+address=/cachedpage-jp.com/0.0.0.0
 address=/cachesrv-whatsapp.com/0.0.0.0
 address=/caihongzhixia-jp.com/0.0.0.0
 address=/call.webstatici-whatsapp.com/0.0.0.0
@@ -945,6 +946,7 @@ address=/gakik.cn/0.0.0.0
 address=/gambah.com/0.0.0.0
 address=/gbjeifr.cn/0.0.0.0
 address=/gdfgdsa.duckdns.org/0.0.0.0
+address=/gemini-alarmes.com/0.0.0.0
 address=/gentle.best/0.0.0.0
 address=/gerardo.desarrollowebalcala.es/0.0.0.0
 address=/get-entry.to/0.0.0.0

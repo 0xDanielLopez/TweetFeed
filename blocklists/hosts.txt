@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2368
-# Updated: 2026-10-31T08:15:19Z
+# Entries: 2370
+# Updated: 2026-10-31T09:15:19Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -449,6 +449,7 @@
 0.0.0.0 bzvmjsn5.sportsontheweb.net
 0.0.0.0 c2.teamzeroday.net
 0.0.0.0 c97xx6lx.onlinewebshop.net
+0.0.0.0 cachedpage-jp.com
 0.0.0.0 cachesrv-whatsapp.com
 0.0.0.0 caihongzhixia-jp.com
 0.0.0.0 call.webstatici-whatsapp.com
@@ -945,6 +946,7 @@
 0.0.0.0 gambah.com
 0.0.0.0 gbjeifr.cn
 0.0.0.0 gdfgdsa.duckdns.org
+0.0.0.0 gemini-alarmes.com
 0.0.0.0 gentle.best
 0.0.0.0 gerardo.desarrollowebalcala.es
 0.0.0.0 get-entry.to

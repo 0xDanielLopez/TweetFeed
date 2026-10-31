@@ -12,8 +12,19 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/type/ip.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sat, 31 Oct 2026 09:00:24 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 31 Oct 2026 09:15:20 +0000</lastBuildDate>
       <ttl>15</ttl>
+      <item>
+         <title>140.188.124.242</title>
+         <link>https://x.com/PhishStats/status/2116456512625557904</link>
+         <description>@PhishStats | ip | #phishing
+Value: 140.188.124.242
+Tweet: https://x.com/PhishStats/status/2116456512625557904</description>
+         <guid isPermaLink="false">140.188.124.242</guid>
+         <pubDate>Sat, 31 Oct 2026 09:05:29 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
       <item>
          <title>74.115.51.5</title>
          <link>https://x.com/phishunt_io/status/2116440414458704127</link>
@@ -1053,18 +1064,6 @@ Tweet: https://x.com/Fact_Finder03/status/2114970927255704033</description>
          <pubDate>Tue, 27 Oct 2026 06:42:17 +0000</pubDate>
          <category>ip</category>
          <category>#C2</category>
-      </item>
-      <item>
-         <title>170.62.130.5</title>
-         <link>https://x.com/Fact_Finder03/status/2114969629928067315</link>
-         <description>@Fact_Finder03 | ip | #C2 #RAT
-Value: 170.62.130.5
-Tweet: https://x.com/Fact_Finder03/status/2114969629928067315</description>
-         <guid isPermaLink="false">170.62.130.5</guid>
-         <pubDate>Tue, 27 Oct 2026 06:37:08 +0000</pubDate>
-         <category>ip</category>
-         <category>#C2</category>
-         <category>#RAT</category>
       </item>
    </channel>
 </rss>
