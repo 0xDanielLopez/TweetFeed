@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @fr0s7_</title>
+      <link>https://x.com/fr0s7_</link>
+      <description>IOCs shared by @fr0s7_ and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @fr0s7_</title>
+         <link>https://x.com/fr0s7_</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/fr0s7_.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>6279b6c01c15d5451c316aac5e56bd9a8bd8d6bbf93a64d1acfb7de75650e288</title>
+         <link>https://x.com/fr0s7_/status/2114649258909450290</link>
+         <description>@fr0s7_ | sha256 | 
+Value: 6279b6c01c15d5451c316aac5e56bd9a8bd8d6bbf93a64d1acfb7de75650e288
+Tweet: https://x.com/fr0s7_/status/2114649258909450290</description>
+         <guid isPermaLink="false">6279b6c01c15d5451c316aac5e56bd9a8bd8d6bbf93a64d1acfb7de75650e288</guid>
+         <pubDate>Mon, 26 Oct 2026 09:24:06 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>202.79.173.57</title>
+         <link>https://x.com/fr0s7_/status/2114641376499417255</link>
+         <description>@fr0s7_ | ip | 
+Value: 202.79.173.57
+Tweet: https://x.com/fr0s7_/status/2114641376499417255</description>
+         <guid isPermaLink="false">202.79.173.57</guid>
+         <pubDate>Mon, 26 Oct 2026 08:52:46 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://202.79.173.57:9090</title>
+         <link>https://x.com/fr0s7_/status/2114641376499417255</link>
+         <description>@fr0s7_ | url | 
+Value: http://202.79.173.57:9090
+Tweet: https://x.com/fr0s7_/status/2114641376499417255</description>
+         <guid isPermaLink="false">http://202.79.173.57:9090</guid>
+         <pubDate>Mon, 26 Oct 2026 08:52:46 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

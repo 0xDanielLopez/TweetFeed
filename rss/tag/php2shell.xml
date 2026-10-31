@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #php2shell IOC feed</title>
+      <link>https://tweetfeed.live/tag/php2shell/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #php2shell on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #php2shell IOC feed</title>
+         <link>https://tweetfeed.live/tag/php2shell/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/php2shell.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>26.2.1.9</title>
+         <link>https://x.com/phantmradar/status/2116256547907281047</link>
+         <description>@phantmradar | ip | #PHP2Shell
+Value: 26.2.1.9
+Tweet: https://x.com/phantmradar/status/2116256547907281047</description>
+         <guid isPermaLink="false">26.2.1.9</guid>
+         <pubDate>Fri, 30 Oct 2026 19:50:53 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d</title>
+         <link>https://x.com/nextronresearch/status/2115070927629062300</link>
+         <description>@nextronresearch | sha256 | #PHP2Shell
+Value: a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d
+Tweet: https://x.com/nextronresearch/status/2115070927629062300</description>
+         <guid isPermaLink="false">a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d</guid>
+         <pubDate>Tue, 27 Oct 2026 13:19:39 +0000</pubDate>
+         <category>sha256</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>217.60.102.5</title>
+         <link>https://x.com/sicehice/status/2115041874964615404</link>
+         <description>@sicehice | ip | #PHP2Shell
+Value: 217.60.102.5
+Tweet: https://x.com/sicehice/status/2115041874964615404</description>
+         <guid isPermaLink="false">217.60.102.5</guid>
+         <pubDate>Tue, 27 Oct 2026 11:24:13 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>77.90.185.20</title>
+         <link>https://x.com/sicehice/status/2115041874964615404</link>
+         <description>@sicehice | ip | #PHP2Shell
+Value: 77.90.185.20
+Tweet: https://x.com/sicehice/status/2115041874964615404</description>
+         <guid isPermaLink="false">77.90.185.20</guid>
+         <pubDate>Tue, 27 Oct 2026 11:24:13 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>https://217.60.102.5/sh</title>
+         <link>https://x.com/sicehice/status/2115041874964615404</link>
+         <description>@sicehice | url | #PHP2Shell
+Value: https://217.60.102.5/sh
+Tweet: https://x.com/sicehice/status/2115041874964615404</description>
+         <guid isPermaLink="false">https://217.60.102.5/sh</guid>
+         <pubDate>Tue, 27 Oct 2026 11:24:13 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>162.35.99.94</title>
+         <link>https://x.com/l0rdmalware/status/2114753751605240257</link>
+         <description>@l0rdmalware | ip | #PHP2Shell
+Value: 162.35.99.94
+Tweet: https://x.com/l0rdmalware/status/2114753751605240257</description>
+         <guid isPermaLink="false">162.35.99.94</guid>
+         <pubDate>Mon, 26 Oct 2026 16:19:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>15.204.59.70</title>
+         <link>https://x.com/l0rdmalware/status/2114753751605240257</link>
+         <description>@l0rdmalware | ip | #PHP2Shell
+Value: 15.204.59.70
+Tweet: https://x.com/l0rdmalware/status/2114753751605240257</description>
+         <guid isPermaLink="false">15.204.59.70</guid>
+         <pubDate>Mon, 26 Oct 2026 16:19:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://162.35.99.94</title>
+         <link>https://x.com/l0rdmalware/status/2114753751605240257</link>
+         <description>@l0rdmalware | url | #PHP2Shell
+Value: http://162.35.99.94
+Tweet: https://x.com/l0rdmalware/status/2114753751605240257</description>
+         <guid isPermaLink="false">http://162.35.99.94</guid>
+         <pubDate>Mon, 26 Oct 2026 16:19:19 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>http://15.204.59.70</title>
+         <link>https://x.com/l0rdmalware/status/2114753751605240257</link>
+         <description>@l0rdmalware | url | #PHP2Shell
+Value: http://15.204.59.70
+Tweet: https://x.com/l0rdmalware/status/2114753751605240257</description>
+         <guid isPermaLink="false">http://15.204.59.70</guid>
+         <pubDate>Mon, 26 Oct 2026 16:19:19 +0000</pubDate>
+         <category>url</category>
+         <category>#PHP2Shell</category>
+      </item>
+      <item>
+         <title>96.126.130.81</title>
+         <link>https://x.com/etugenio/status/2114611000897048632</link>
+         <description>@etugenio | ip | #PHP2Shell #malware
+Value: 96.126.130.81
+Tweet: https://x.com/etugenio/status/2114611000897048632</description>
+         <guid isPermaLink="false">96.126.130.81</guid>
+         <pubDate>Mon, 26 Oct 2026 06:52:04 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #vidar IOC feed</title>
+      <link>https://tweetfeed.live/tag/vidar/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #vidar on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #vidar IOC feed</title>
+         <link>https://tweetfeed.live/tag/vidar/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/vidar.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>be24b9eb3fcfb9671aeaacbb24a4f413daf9abd24b41a9ee390caeec74200af6</title>
+         <link>https://x.com/smica83/status/2114714596565004440</link>
+         <description>@smica83 | sha256 | #Vidar
+Value: be24b9eb3fcfb9671aeaacbb24a4f413daf9abd24b41a9ee390caeec74200af6
+Tweet: https://x.com/smica83/status/2114714596565004440</description>
+         <guid isPermaLink="false">be24b9eb3fcfb9671aeaacbb24a4f413daf9abd24b41a9ee390caeec74200af6</guid>
+         <pubDate>Mon, 26 Oct 2026 13:43:43 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Vidar</category>
+      </item>
+      <item>
+         <title>2f4df752b979c6c1784add5410ea5115e5b8d93c4250d21c07aa480175b70ccb</title>
+         <link>https://x.com/smica83/status/2114713458373472279</link>
+         <description>@smica83 | sha256 | #Vidar
+Value: 2f4df752b979c6c1784add5410ea5115e5b8d93c4250d21c07aa480175b70ccb
+Tweet: https://x.com/smica83/status/2114713458373472279</description>
+         <guid isPermaLink="false">2f4df752b979c6c1784add5410ea5115e5b8d93c4250d21c07aa480175b70ccb</guid>
+         <pubDate>Mon, 26 Oct 2026 13:39:12 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Vidar</category>
+      </item>
+      <item>
+         <title>37.27.4.20</title>
+         <link>https://x.com/smica83/status/2114713458373472279</link>
+         <description>@smica83 | ip | #Vidar
+Value: 37.27.4.20
+Tweet: https://x.com/smica83/status/2114713458373472279</description>
+         <guid isPermaLink="false">37.27.4.20</guid>
+         <pubDate>Mon, 26 Oct 2026 13:39:12 +0000</pubDate>
+         <category>ip</category>
+         <category>#Vidar</category>
+      </item>
+      <item>
+         <title>http://37.27.4.20</title>
+         <link>https://x.com/smica83/status/2114713458373472279</link>
+         <description>@smica83 | url | #Vidar
+Value: http://37.27.4.20
+Tweet: https://x.com/smica83/status/2114713458373472279</description>
+         <guid isPermaLink="false">http://37.27.4.20</guid>
+         <pubDate>Mon, 26 Oct 2026 13:39:12 +0000</pubDate>
+         <category>url</category>
+         <category>#Vidar</category>
+      </item>
+   </channel>
+</rss>

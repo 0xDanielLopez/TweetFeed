@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @mugu_reporter</title>
+      <link>https://x.com/mugu_reporter</link>
+      <description>IOCs shared by @mugu_reporter and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @mugu_reporter</title>
+         <link>https://x.com/mugu_reporter</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/mugu_reporter.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>51.68.132.244</title>
+         <link>https://x.com/mugu_reporter/status/2115964388146602176</link>
+         <description>@mugu_reporter | ip | #phishing
+Value: 51.68.132.244
+Tweet: https://x.com/mugu_reporter/status/2115964388146602176</description>
+         <guid isPermaLink="false">51.68.132.244</guid>
+         <pubDate>Fri, 30 Oct 2026 00:29:57 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

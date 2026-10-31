@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @phantmradar</title>
+      <link>https://x.com/phantmradar</link>
+      <description>IOCs shared by @phantmradar and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @phantmradar</title>
+         <link>https://x.com/phantmradar</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/phantmradar.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>26.2.1.9</title>
+         <link>https://x.com/phantmradar/status/2116256547907281047</link>
+         <description>@phantmradar | ip | #PHP2Shell
+Value: 26.2.1.9
+Tweet: https://x.com/phantmradar/status/2116256547907281047</description>
+         <guid isPermaLink="false">26.2.1.9</guid>
+         <pubDate>Fri, 30 Oct 2026 19:50:53 +0000</pubDate>
+         <category>ip</category>
+         <category>#PHP2Shell</category>
+      </item>
+   </channel>
+</rss>

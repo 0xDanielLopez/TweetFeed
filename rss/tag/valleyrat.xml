@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #valleyrat IOC feed</title>
+      <link>https://tweetfeed.live/tag/valleyrat/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #valleyrat on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #valleyrat IOC feed</title>
+         <link>https://tweetfeed.live/tag/valleyrat/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/valleyrat.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>4b8f918cfb077c68baec2ed33ee5f2d2828ef1cbe5beb2500de1de3ce79bd440</title>
+         <link>https://x.com/smica83/status/2114830654466896212</link>
+         <description>@smica83 | sha256 | #ValleyRAT
+Value: 4b8f918cfb077c68baec2ed33ee5f2d2828ef1cbe5beb2500de1de3ce79bd440
+Tweet: https://x.com/smica83/status/2114830654466896212</description>
+         <guid isPermaLink="false">4b8f918cfb077c68baec2ed33ee5f2d2828ef1cbe5beb2500de1de3ce79bd440</guid>
+         <pubDate>Mon, 26 Oct 2026 21:24:54 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ValleyRAT</category>
+      </item>
+      <item>
+         <title>http://hcnksadcn.cc</title>
+         <link>https://x.com/smica83/status/2114830654466896212</link>
+         <description>@smica83 | url | #ValleyRAT
+Value: http://hcnksadcn.cc
+Tweet: https://x.com/smica83/status/2114830654466896212</description>
+         <guid isPermaLink="false">http://hcnksadcn.cc</guid>
+         <pubDate>Mon, 26 Oct 2026 21:24:54 +0000</pubDate>
+         <category>url</category>
+         <category>#ValleyRAT</category>
+      </item>
+      <item>
+         <title>hcnksadcn.cc</title>
+         <link>https://x.com/smica83/status/2114830654466896212</link>
+         <description>@smica83 | domain | #ValleyRAT
+Value: hcnksadcn.cc
+Tweet: https://x.com/smica83/status/2114830654466896212</description>
+         <guid isPermaLink="false">hcnksadcn.cc</guid>
+         <pubDate>Mon, 26 Oct 2026 21:24:54 +0000</pubDate>
+         <category>domain</category>
+         <category>#ValleyRAT</category>
+      </item>
+   </channel>
+</rss>

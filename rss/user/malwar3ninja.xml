@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Malwar3Ninja</title>
+      <link>https://x.com/Malwar3Ninja</link>
+      <description>IOCs shared by @Malwar3Ninja and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @Malwar3Ninja</title>
+         <link>https://x.com/Malwar3Ninja</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/malwar3ninja.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>1.14.104.208</title>
+         <link>https://x.com/Malwar3Ninja/status/2115747211887989207</link>
+         <description>@Malwar3Ninja | ip | #CobaltStrike
+Value: 1.14.104.208
+Tweet: https://x.com/Malwar3Ninja/status/2115747211887989207</description>
+         <guid isPermaLink="false">1.14.104.208</guid>
+         <pubDate>Thu, 29 Oct 2026 10:06:58 +0000</pubDate>
+         <category>ip</category>
+         <category>#CobaltStrike</category>
+      </item>
+      <item>
+         <title>http://1.14.104.208</title>
+         <link>https://x.com/Malwar3Ninja/status/2115747211887989207</link>
+         <description>@Malwar3Ninja | url | #CobaltStrike
+Value: http://1.14.104.208
+Tweet: https://x.com/Malwar3Ninja/status/2115747211887989207</description>
+         <guid isPermaLink="false">http://1.14.104.208</guid>
+         <pubDate>Thu, 29 Oct 2026 10:06:58 +0000</pubDate>
+         <category>url</category>
+         <category>#CobaltStrike</category>
+      </item>
+   </channel>
+</rss>

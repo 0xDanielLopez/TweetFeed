@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @nextronresearch</title>
+      <link>https://x.com/nextronresearch</link>
+      <description>IOCs shared by @nextronresearch and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @nextronresearch</title>
+         <link>https://x.com/nextronresearch</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/nextronresearch.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:32 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://mmarketplaces.com</title>
+         <link>https://x.com/nextronresearch/status/2116155238570680509</link>
+         <description>@nextronresearch | url | 
+Value: http://mmarketplaces.com
+Tweet: https://x.com/nextronresearch/status/2116155238570680509</description>
+         <guid isPermaLink="false">http://mmarketplaces.com</guid>
+         <pubDate>Fri, 30 Oct 2026 13:08:19 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>mmarketplaces.com</title>
+         <link>https://x.com/nextronresearch/status/2116155238570680509</link>
+         <description>@nextronresearch | domain | 
+Value: mmarketplaces.com
+Tweet: https://x.com/nextronresearch/status/2116155238570680509</description>
+         <guid isPermaLink="false">mmarketplaces.com</guid>
+         <pubDate>Fri, 30 Oct 2026 13:08:19 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d</title>
+         <link>https://x.com/nextronresearch/status/2115070927629062300</link>
+         <description>@nextronresearch | sha256 | #PHP2Shell
+Value: a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d
+Tweet: https://x.com/nextronresearch/status/2115070927629062300</description>
+         <guid isPermaLink="false">a75ff95e30207fd4cfc325be1b10a7e2a775fe0b061a151a2072eaf0070d041d</guid>
+         <pubDate>Tue, 27 Oct 2026 13:19:39 +0000</pubDate>
+         <category>sha256</category>
+         <category>#PHP2Shell</category>
+      </item>
+   </channel>
+</rss>

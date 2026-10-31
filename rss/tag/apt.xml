@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #apt IOC feed</title>
+      <link>https://tweetfeed.live/tag/apt/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #apt on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #apt IOC feed</title>
+         <link>https://tweetfeed.live/tag/apt/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/apt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>107.175.85.215</title>
+         <link>https://x.com/etugenio/status/2115561603856810313</link>
+         <description>@etugenio | ip | #APT #malware
+Value: 107.175.85.215
+Tweet: https://x.com/etugenio/status/2115561603856810313</description>
+         <guid isPermaLink="false">107.175.85.215</guid>
+         <pubDate>Wed, 28 Oct 2026 21:49:26 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://107.175.85.215</title>
+         <link>https://x.com/etugenio/status/2115561603856810313</link>
+         <description>@etugenio | url | #APT #malware
+Value: http://107.175.85.215
+Tweet: https://x.com/etugenio/status/2115561603856810313</description>
+         <guid isPermaLink="false">http://107.175.85.215</guid>
+         <pubDate>Wed, 28 Oct 2026 21:49:26 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>27.102.137.57</title>
+         <link>https://x.com/phatomcandle/status/2115458571773034886</link>
+         <description>@phatomcandle | ip | #APT #C2 #Kimsuky #malware
+Value: 27.102.137.57
+Tweet: https://x.com/phatomcandle/status/2115458571773034886</description>
+         <guid isPermaLink="false">27.102.137.57</guid>
+         <pubDate>Wed, 28 Oct 2026 15:00:01 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://27.102.137.57</title>
+         <link>https://x.com/phatomcandle/status/2115458571773034886</link>
+         <description>@phatomcandle | url | #APT #C2 #Kimsuky #malware
+Value: http://27.102.137.57
+Tweet: https://x.com/phatomcandle/status/2115458571773034886</description>
+         <guid isPermaLink="false">http://27.102.137.57</guid>
+         <pubDate>Wed, 28 Oct 2026 15:00:01 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#Kimsuky</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

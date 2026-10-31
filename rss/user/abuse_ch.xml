@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @abuse_ch</title>
+      <link>https://x.com/abuse_ch</link>
+      <description>IOCs shared by @abuse_ch and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @abuse_ch</title>
+         <link>https://x.com/abuse_ch</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/abuse_ch.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>45.91.202.146</title>
+         <link>https://x.com/abuse_ch/status/2114712505029124503</link>
+         <description>@abuse_ch | ip | 
+Value: 45.91.202.146
+Tweet: https://x.com/abuse_ch/status/2114712505029124503</description>
+         <guid isPermaLink="false">45.91.202.146</guid>
+         <pubDate>Mon, 26 Oct 2026 13:35:25 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>45.91.202.47</title>
+         <link>https://x.com/abuse_ch/status/2114712505029124503</link>
+         <description>@abuse_ch | ip | 
+Value: 45.91.202.47
+Tweet: https://x.com/abuse_ch/status/2114712505029124503</description>
+         <guid isPermaLink="false">45.91.202.47</guid>
+         <pubDate>Mon, 26 Oct 2026 13:35:25 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>
