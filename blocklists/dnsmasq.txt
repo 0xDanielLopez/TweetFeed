@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2369
-# Updated: 2026-10-31T20:15:17Z
+# Entries: 2370
+# Updated: 2026-10-31T21:00:23Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1028,6 +1028,7 @@ address=/healthlicensefl.vercel.app/0.0.0.0
 address=/healthorazone.com/0.0.0.0
 address=/healthy.smarthealthhabit.com/0.0.0.0
 address=/hekimaplastic.co.tz/0.0.0.0
+address=/heleket.com/0.0.0.0
 address=/helensolution.info/0.0.0.0
 address=/hello-world-fancy-mud-57ff.2111857176.workers.dev/0.0.0.0
 address=/help.webapi-whatsapp.com/0.0.0.0
