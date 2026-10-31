@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 270
-# Updated: 2026-10-31T13:30:19Z
+# Entries: 274
+# Updated: 2026-10-31T19:30:19Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-10-31T13:25:15Z
+# Cross-check refreshed: 2026-10-31T19:25:14Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -23,6 +23,7 @@ http://106.12.190.248
 http://106.55.34.199
 http://107.172.249.140:443
 http://109.120.139.126
+http://124.221.133.13
 http://129.121.62.230
 http://130.94.1.88
 http://130.94.20.71
@@ -59,6 +60,7 @@ http://172.111.138.100
 http://176.12.71.122
 http://176.65.132.7
 http://177.201.232.163:2580
+http://177.3.43.43
 http://18.231.77.234
 http://185.193.125.201
 http://193.70.100.109
@@ -87,12 +89,14 @@ http://31.59.39.40
 http://37.128.206.215
 http://37.27.4.20
 http://37.77.150.214
+http://38.207.177.71
 http://38.242.147.58
 http://38.54.56.66
 http://38.87.116.68
 http://43.155.215.231
 http://43.160.211.117
 http://45.129.8.190:31337
+http://45.141.21.199
 http://45.150.109.94
 http://45.153.34.146
 http://45.153.34.169
