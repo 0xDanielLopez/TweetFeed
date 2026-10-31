@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2374
-; Updated: 2026-10-31T16:45:20Z
+; Entries: 2366
+; Updated: 2026-10-31T17:00:23Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793465120 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793466023 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -138,8 +138,6 @@ account-icloud.hnxledu.com CNAME .
 *.account-icloud.hnxledu.com CNAME .
 account-icloud.mcjzy.com CNAME .
 *.account-icloud.mcjzy.com CNAME .
-account.payoneer.com CNAME .
-*.account.payoneer.com CNAME .
 account.webapi-whatsapp.com CNAME .
 *.account.webapi-whatsapp.com CNAME .
 account.webstatici-whatsapp.com CNAME .
@@ -198,8 +196,6 @@ ai-gateway.internal-corp.com CNAME .
 *.ai-gateway.internal-corp.com CNAME .
 aiagentmi.com CNAME .
 *.aiagentmi.com CNAME .
-aiconsultation.co.uk CNAME .
-*.aiconsultation.co.uk CNAME .
 ainfnow.cn CNAME .
 *.ainfnow.cn CNAME .
 airbnb-poland.com CNAME .
@@ -1422,8 +1418,6 @@ dongphucasian.com CNAME .
 *.dongphucasian.com CNAME .
 dont-lose-ur-shit.whitelist.run CNAME .
 *.dont-lose-ur-shit.whitelist.run CNAME .
-download-files.wixmp.com CNAME .
-*.download-files.wixmp.com CNAME .
 download.sakenlogistics.com CNAME .
 *.download.sakenlogistics.com CNAME .
 download.tender-confirmation.com CNAME .
@@ -2712,8 +2706,6 @@ mineiicancry10june2026w2limilim.blogspot.com CNAME .
 *.mineiicancry10june2026w2limilim.blogspot.com CNAME .
 minha-maga-online.com CNAME .
 *.minha-maga-online.com CNAME .
-miricanvas.com CNAME .
-*.miricanvas.com CNAME .
 missvalledeladrome.info CNAME .
 *.missvalledeladrome.info CNAME .
 misuwh.com CNAME .
@@ -2754,10 +2746,6 @@ mobilepro-whatsapp.com CNAME .
 *.mobilepro-whatsapp.com CNAME .
 model-whatsapp.com CNAME .
 *.model-whatsapp.com CNAME .
-moneyhub-cebicuzotoy.click CNAME .
-*.moneyhub-cebicuzotoy.click CNAME .
-moneyhub-juzozohagid.click CNAME .
-*.moneyhub-juzozohagid.click CNAME .
 mono-whatsapp.com CNAME .
 *.mono-whatsapp.com CNAME .
 monoxide.vip CNAME .
@@ -3572,8 +3560,6 @@ sghua.cn CNAME .
 *.sghua.cn CNAME .
 shadowemberstrike.top CNAME .
 *.shadowemberstrike.top CNAME .
-shamswilliams.com CNAME .
-*.shamswilliams.com CNAME .
 shanxinsawe-jp.com CNAME .
 *.shanxinsawe-jp.com CNAME .
 share-adminsimple.s3.eu-west-2.amazonaws.com CNAME .
@@ -4426,8 +4412,6 @@ webmail-service-xfinity.fercel.app CNAME .
 *.webmail-service-xfinity.fercel.app CNAME .
 webmail-service-xfinity.gercel.app CNAME .
 *.webmail-service-xfinity.gercel.app CNAME .
-webmail.hisaka-me.com CNAME .
-*.webmail.hisaka-me.com CNAME .
 webmaxpro-whatsapp.com CNAME .
 *.webmaxpro-whatsapp.com CNAME .
 webmetric-whatsapp.com CNAME .

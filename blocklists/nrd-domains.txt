@@ -1,10 +1,10 @@
 # TweetFeed blocklist - domains registered 30 days or less before they were reported
 # Window: 30 days
-# Entries: 1431
-# Updated: 2026-10-31T13:15:18Z
+# Entries: 1430
+# Updated: 2026-10-31T17:00:23Z
 # Domains whose registrable apex was created 30 days or less before the first TweetFeed report
 # Only apexes with a known RDAP creation date are considered (about 6 in 10 reported domains); a domain reported in the current tick can appear one tick later
-# Registration check refreshed: 2026-10-31T13:00:33Z
+# Registration check refreshed: 2026-10-31T16:45:34Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -849,8 +849,6 @@ minha-maga-online.com
 mkwweb-whatsapp.com
 mobilepro-whatsapp.com
 model-whatsapp.com
-moneyhub-cebicuzotoy.click
-moneyhub-juzozohagid.click
 mono-whatsapp.com
 monoxide.vip
 ms.webhwsapp-whatsapp.com
@@ -1305,6 +1303,7 @@ voice.webstatici-whatsapp.com
 voltpay.cfd
 vpc-whatsapp.com
 vpcnode-whatsapp.com
+vpnaegis2.site
 vyv51.top
 waaako.proxy08.com
 wafnode-whatsapp.com

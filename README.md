@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-31 16:45:21 (UTC)</th>
+        <th colspan=4>2026-10-31 17:00:24 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 17 | 431 | 2934 | 45305 |
-| **:globe_with_meridians: Domains** | 15 | 305 | 2459 | 39066 |
-| **:triangular_flag_on_post: IPs** | 8 | 165 | 2122 | 7872 |
-| **:1234: SHA256** | 3 | 112 | 436 | 3036 |
+| **:link: URLs** | 18 | 422 | 2924 | 45295 |
+| **:globe_with_meridians: Domains** | 15 | 298 | 2451 | 39058 |
+| **:triangular_flag_on_post: IPs** | 9 | 162 | 2119 | 7868 |
+| **:1234: SHA256** | 3 | 111 | 435 | 3035 |
 | **:1234: MD5** | 2 | 43 | 98 | 2102 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 34 | 368 | 3422 | 33738 |
+| **#phishing** | 36 | 360 | 3414 | 33729 |
 | **#Kimsuky** | 0 | 10 | 42 | 13317 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 12 | 159 | 1118 | 4078 |
@@ -237,9 +237,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#5** | [patialavii](https://x.com/patialavii) | 4 |
 | **#6** | [sicehice](https://x.com/sicehice) | 4 |
 | **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#9** | [hackingspace](https://x.com/hackingspace) | 2 |
-| **#10** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
+| **#8** | [skocherhan](https://x.com/skocherhan) | 3 |
+| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#10** | [hackingspace](https://x.com/hackingspace) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
