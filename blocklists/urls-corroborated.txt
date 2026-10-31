@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 269
-# Updated: 2026-10-31T01:30:20Z
+# Entries: 270
+# Updated: 2026-10-31T13:30:19Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-10-31T01:25:12Z
+# Cross-check refreshed: 2026-10-31T13:25:15Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -268,6 +268,7 @@ https://perfectpitmaster.com
 https://progrillguide.com
 https://quickkitchendishes.com
 https://recipebistro.com
+https://redjaxfire.com/nfront.php
 https://searedrecipes.com
 https://simplegastronomy.com
 https://sourceuse.cyou
