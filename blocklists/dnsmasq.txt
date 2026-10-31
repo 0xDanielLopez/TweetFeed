@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2365
-# Updated: 2026-10-31T03:45:20Z
+# Entries: 2366
+# Updated: 2026-10-31T05:00:21Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -978,6 +978,7 @@ address=/googleplay.tail017acc.ts.net/0.0.0.0
 address=/gosidefastandpure.com/0.0.0.0
 address=/gpcom1.screenconnect.com/0.0.0.0
 address=/gptverification.com/0.0.0.0
+address=/grabola.cfd/0.0.0.0
 address=/grabthedeals.net/0.0.0.0
 address=/gran1xea.xyz/0.0.0.0
 address=/granitepointmedia.fun/0.0.0.0

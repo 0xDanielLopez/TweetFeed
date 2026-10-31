@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-31T04:45:29Z",
+ "generated_at": "2026-10-31T05:00:29Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -17,7 +17,7 @@
   "total": 57,
   "hashtag": 33,
   "account": 24,
-  "rows_last_24h": 152,
+  "rows_last_24h": 150,
   "dead_after_seconds": {
    "account": 2592000,
    "hashtag": null
@@ -299,8 +299,8 @@
    {
     "id": "malware",
     "kind": "hashtag",
-    "newest_item_at": "2026-10-31T01:40:00Z",
-    "rows_last_24h": 17,
+    "newest_item_at": "2026-10-31T04:46:00Z",
+    "rows_last_24h": 19,
     "dead_after_seconds": null
    },
    {
@@ -341,8 +341,8 @@
    {
     "id": "phishing",
     "kind": "hashtag",
-    "newest_item_at": "2026-10-31T03:40:00Z",
-    "rows_last_24h": 74,
+    "newest_item_at": "2026-10-31T04:46:00Z",
+    "rows_last_24h": 70,
     "dead_after_seconds": null
    },
    {
@@ -428,97 +428,97 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
-   "rows": 13,
+   "rows": 15,
    "first_row": "2026-10-31 00:00:24",
-   "last_row": "2026-10-31 03:40:20",
+   "last_row": "2026-10-31 04:32:56",
    "data_stale_after_seconds": 28800
   },
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
-   "rows": 1024,
+   "rows": 1026,
    "first_row": "2026-10-25 00:01:48",
-   "last_row": "2026-10-31 03:40:20",
+   "last_row": "2026-10-31 04:32:56",
    "data_stale_after_seconds": 28800
   },
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
-   "rows": 8017,
+   "rows": 8019,
    "first_row": "2026-10-01 00:32:46",
-   "last_row": "2026-10-31 03:40:20",
+   "last_row": "2026-10-31 04:32:56",
    "data_stale_after_seconds": 28800
   },
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
-   "rows": 97349,
+   "rows": 97351,
    "first_row": "2025-11-01 00:24:36",
-   "last_row": "2026-10-31 03:40:20",
+   "last_row": "2026-10-31 04:32:56",
    "data_stale_after_seconds": 28800
   },
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-10-31T04:45:29Z",
+   "updated_at": "2026-10-31T05:00:29Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -526,7 +526,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-10-31T04:45:18Z",
+   "updated_at": "2026-10-31T05:00:21Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -534,7 +534,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-10-31T04:45:20Z",
+   "updated_at": "2026-10-31T05:00:22Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
