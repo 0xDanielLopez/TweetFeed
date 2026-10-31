@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2373
-# Updated: 2026-10-31T15:45:21Z
+# Entries: 2374
+# Updated: 2026-10-31T16:45:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -2146,6 +2146,7 @@ address=/vpass.tuyonghao.com/0.0.0.0
 address=/vpc-whatsapp.com/0.0.0.0
 address=/vpcnode-whatsapp.com/0.0.0.0
 address=/vpn.5tr.org/0.0.0.0
+address=/vpnaegis2.site/0.0.0.0
 address=/vsdhjjt.club/0.0.0.0
 address=/vwwv-roblox.co/0.0.0.0
 address=/vyv51.top/0.0.0.0

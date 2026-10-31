@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2373
-; Updated: 2026-10-31T15:45:21Z
+; Entries: 2374
+; Updated: 2026-10-31T16:45:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793461521 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793465120 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -4288,6 +4288,8 @@ vpcnode-whatsapp.com CNAME .
 *.vpcnode-whatsapp.com CNAME .
 vpn.5tr.org CNAME .
 *.vpn.5tr.org CNAME .
+vpnaegis2.site CNAME .
+*.vpnaegis2.site CNAME .
 vsdhjjt.club CNAME .
 *.vsdhjjt.club CNAME .
 vwwv-roblox.co CNAME .
