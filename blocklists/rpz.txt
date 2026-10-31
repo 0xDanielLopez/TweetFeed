@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2361
-; Updated: 2026-10-31T00:00:29Z
+; Entries: 2363
+; Updated: 2026-10-31T00:45:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793404829 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793407519 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3146,6 +3146,8 @@ prokit-whatsapp.com CNAME .
 *.prokit-whatsapp.com CNAME .
 prolab-whatsapp.com CNAME .
 *.prolab-whatsapp.com CNAME .
+promdressu-jp.com CNAME .
+*.promdressu-jp.com CNAME .
 promise-whatsapp.com CNAME .
 *.promise-whatsapp.com CNAME .
 prompt-whatsapp.com CNAME .
@@ -4650,6 +4652,8 @@ yxqexr.cn CNAME .
 *.yxqexr.cn CNAME .
 yxz-1469461062.cos.ap-singapore.myqcloud.com CNAME .
 *.yxz-1469461062.cos.ap-singapore.myqcloud.com CNAME .
+yzhw666.com CNAME .
+*.yzhw666.com CNAME .
 zaptechhelp.com CNAME .
 *.zaptechhelp.com CNAME .
 zciipt.cn CNAME .

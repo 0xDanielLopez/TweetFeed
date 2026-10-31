@@ -1,5 +1,5 @@
 {
-  "count": 5942,
+  "count": 5969,
   "dead_tweets": {
     "2103019418859053423": {
       "attempts": 2,
@@ -133,6 +133,20 @@
       "tweet_id": "2112457604857258055",
       "type": "sha256",
       "value": "01fd0f502b2596795db72060add55e0a6f101cc1e85c33c98ddae9b6b043b9f1"
+    },
+    "026914e2fc0e2b652e07862f5761299e3839f43bff65d43b14449c54d29978bd": {
+      "confidence": 0.45,
+      "date": "2026-10-30 21:55:57",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Zip sample disguised as a Windows 11 KB update, related to domain karichilevels.click.",
+      "threat_type": "malware",
+      "tweet_id": "2116288019267498341",
+      "type": "sha256",
+      "value": "026914e2fc0e2b652e07862f5761299e3839f43bff65d43b14449c54d29978bd"
     },
     "0329c3dcb71f6ed5eed1d17f1e945612aeba5d67cc80699d734a2df64bba1cdf": {
       "confidence": 0.6,
@@ -609,6 +623,21 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "102.201.110.181"
+    },
+    "102.220.160.88": {
+      "confidence": 0.6,
+      "date": "2026-10-30 22:41:05",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "ELF sample 'hfsf' seen from China, communicating with C2 server at 102.220.160.88.",
+      "threat_type": "c2",
+      "tweet_id": "2116299379321577713",
+      "type": "url",
+      "value": "http://102.220.160.88"
     },
     "102.220.163.152": {
       "confidence": 0.9,
@@ -15034,6 +15063,20 @@
       "type": "sha256",
       "value": "25df974eeb09369bd4aec55e940ceb7d6f53e396f2a652718f0266524224cfb5"
     },
+    "26.2.1.9": {
+      "confidence": 0.8,
+      "date": "2026-10-30 19:50:53",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "php2shell"
+      ],
+      "summary": "PHP2Shell update: Cisco moved its fix for Ultra-Reliable Wireless Backhaul and Unified Industrial Wireless to 26.2.1.9 due in November; no attacks seen yet.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2116256547907281047",
+      "type": "ip",
+      "value": "26.2.1.9"
+    },
     "265fb1b0dc44cfa05b94d2802189cf7aeb2a42905646f28453cf1e16941789dc": {
       "confidence": 0.4,
       "date": "2026-10-06 17:47:31",
@@ -15396,6 +15439,21 @@
       "type": "url",
       "value": "http://27.124.4.64:8383"
     },
+    "27.124.41.111": {
+      "confidence": 0.6,
+      "date": "2026-10-30 20:53:47",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": "Farfli",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Domain dbc3do8.club and IP 27.124.41.111 (AS152194 CTG Server) tagged with Farfli malware family.",
+      "threat_type": "c2",
+      "tweet_id": "2116272377692623096",
+      "type": "url",
+      "value": "http://27.124.41.111"
+    },
     "27.147.166.55": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -15700,22 +15758,6 @@
       "tweet_id": "2105568565281563057",
       "type": "sha256",
       "value": "2a001e4ef9933701b3d93e1a7e1e7ef67d481fac5febc96f951beabe68022322"
-    },
-    "2b2de48e0f4e0f678c9e0a324358238937237e76357b6cd29f52192835bac970": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "sha256",
-      "value": "2b2de48e0f4e0f678c9e0a324358238937237e76357b6cd29f52192835bac970"
     },
     "2c2a9c.jackpot-deluxe.net": {
       "confidence": 0.9,
@@ -26079,6 +26121,20 @@
       "type": "sha256",
       "value": "3bfbfaf0940a34c46348372d84e8e1ab58456a0fcf99e5e5d9615074c2aa27ca"
     },
+    "3bfd8028003777a433daeeda3885ec099c79c23342083db67309ec7876bc9aa2": {
+      "confidence": 0.5,
+      "date": "2026-10-30 20:18:49",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious JavaScript 'Comprovante_*.js' sample showing a fake error message, likely a Brazilian-targeted malware dropper.",
+      "threat_type": "malware",
+      "tweet_id": "2116263576717361252",
+      "type": "sha256",
+      "value": "3bfd8028003777a433daeeda3885ec099c79c23342083db67309ec7876bc9aa2"
+    },
     "3cdffc93.fase-x.com": {
       "confidence": 0.9,
       "date": "2026-10-19 03:54:01",
@@ -27324,6 +27380,21 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "45.148.10.95"
+    },
+    "45.149.153.141": {
+      "confidence": 0.6,
+      "date": "2026-10-08 09:50:39",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Brazilian DANFE-themed JavaScript sample contacting duckdns domain hdhdandan.duckdns.org at 45.149.153.141.",
+      "threat_type": "malware",
+      "tweet_id": "2108132960855593389",
+      "type": "url",
+      "value": "http://45.149.153.141"
     },
     "45.150.109.94": {
       "confidence": 0.85,
@@ -28617,6 +28688,20 @@
       "tweet_id": "2114830654466896212",
       "type": "sha256",
       "value": "4b8f918cfb077c68baec2ed33ee5f2d2828ef1cbe5beb2500de1de3ce79bd440"
+    },
+    "4ba47673daa8d72840581537f301c4fd42c0a75948695caa4cabc363f4774228": {
+      "confidence": 0.55,
+      "date": "2026-10-30 20:39:07",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Zip sample 'DOC-20261029-WA0056' seen from India, fetching payloads from Baidu BCE object storage URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2116268685589659959",
+      "type": "sha256",
+      "value": "4ba47673daa8d72840581537f301c4fd42c0a75948695caa4cabc363f4774228"
     },
     "4cb4f92d8b9314725ba5c0b3f40259442b50f2f18b6ed1517abc338480703fee": {
       "confidence": 0.6,
@@ -31408,6 +31493,20 @@
       "type": "url",
       "value": "http://77.221.143.224"
     },
+    "77.239.124.141": {
+      "confidence": 0.6,
+      "date": "2026-10-30 22:13:05",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory exposed on host 77.239.124.141, potentially hosting malicious files.",
+      "threat_type": "other",
+      "tweet_id": "2116292330856784148",
+      "type": "url",
+      "value": "http://77.239.124.141"
+    },
     "77.32.170.3": {
       "confidence": 0.85,
       "date": "2026-10-06 15:11:45",
@@ -31704,6 +31803,21 @@
       "tweet_id": "2115115324085596651",
       "type": "sha256",
       "value": "7c705366972bc9af7975647d17e85bd0260def700b00f4b40eeff3af847a2c1f"
+    },
+    "7cccecfac6b851242d4e7d7a25c981eb": {
+      "confidence": 0.4,
+      "date": "2026-10-30 18:10:34",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": "Taidoor",
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "MD5 hash for retrohunt associated with BurningUmbrella, Visel and Taidoor activity.",
+      "threat_type": "malware",
+      "tweet_id": "2116231300189196553",
+      "type": "md5",
+      "value": "7cccecfac6b851242d4e7d7a25c981eb"
     },
     "7cd391ac16d136755bfec84106946887": {
       "confidence": 0.92,
@@ -35483,6 +35597,34 @@
       "tweet_id": "2112029826542714916",
       "type": "domain",
       "value": "aaf0d9.vn-open888.com"
+    },
+    "aawwf.hkg.bcebos.com": {
+      "confidence": 0.55,
+      "date": "2026-10-30 20:39:07",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Zip sample 'DOC-20261029-WA0056' seen from India, fetching payloads from Baidu BCE object storage URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2116268685589659959",
+      "type": "domain",
+      "value": "aawwf.hkg.bcebos.com"
+    },
+    "aawwf.hkg.bcebos.com/shiade/a07.bin": {
+      "confidence": 0.55,
+      "date": "2026-10-30 20:39:07",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Zip sample 'DOC-20261029-WA0056' seen from India, fetching payloads from Baidu BCE object storage URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2116268685589659959",
+      "type": "url",
+      "value": "https://aawwf.hkg.bcebos.com/shiade/A07.bin"
     },
     "ababy9.com": {
       "confidence": 0.4,
@@ -44096,6 +44238,36 @@
       "type": "domain",
       "value": "balladcompass11.com"
     },
+    "bandasomelouvor.com.br": {
+      "confidence": 0.85,
+      "date": "2026-10-30 19:19:20",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Fake DocuSign site with human-verification page auto-downloading a ScreenConnect MSI from a compromised Brazilian domain.",
+      "threat_type": "malware",
+      "tweet_id": "2116248606860836992",
+      "type": "domain",
+      "value": "bandasomelouvor.com.br"
+    },
+    "bandasomelouvor.com.br/wp-admin/network/screenconnect.clientsetup.msi": {
+      "confidence": 0.85,
+      "date": "2026-10-30 19:19:20",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Fake DocuSign site with human-verification page auto-downloading a ScreenConnect MSI from a compromised Brazilian domain.",
+      "threat_type": "malware",
+      "tweet_id": "2116248606860836992",
+      "type": "url",
+      "value": "http://bandasomelouvor.com.br/wp-admin/network/ScreenConnect.ClientSetup.msi"
+    },
     "bankcheckdata-card.jp": {
       "confidence": 0.9,
       "date": "2026-10-19 23:05:34",
@@ -44340,6 +44512,21 @@
       "type": "domain",
       "value": "beaconpromotions.com.na"
     },
+    "beb7e7589979a43a2f763081d8eba2b84419a68c0e5a42b4cf6dc4fafce56733": {
+      "confidence": 0.6,
+      "date": "2026-10-30 22:41:05",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "ELF sample 'hfsf' seen from China, communicating with C2 server at 102.220.160.88.",
+      "threat_type": "c2",
+      "tweet_id": "2116299379321577713",
+      "type": "sha256",
+      "value": "beb7e7589979a43a2f763081d8eba2b84419a68c0e5a42b4cf6dc4fafce56733"
+    },
     "bed116abf922b28f79323cce3901e206e82cb4a37020c623217ff1541baa00f1": {
       "confidence": 0.4,
       "date": "2026-10-07 12:13:02",
@@ -44501,6 +44688,54 @@
       "tweet_id": "2112010243626635335",
       "type": "url",
       "value": "https://bigperu.com/?email=aaaa@example.jp&token=vWKHZ6kR6qmCbsLxcmcbsbQN"
+    },
+    "binance-com-10.refers.workers.dev": {
+      "confidence": 0.9,
+      "date": "2026-10-30 20:08:28",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Binance-impersonating phishing pages hosted on Cloudflare workers.dev subdomains.",
+      "threat_type": "phishing",
+      "tweet_id": "2116260969685090705",
+      "type": "domain",
+      "value": "binance-com-10.refers.workers.dev"
+    },
+    "binance-com-l3.referrering.workers.dev": {
+      "confidence": 0.9,
+      "date": "2026-10-30 20:08:28",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Binance-impersonating phishing pages hosted on Cloudflare workers.dev subdomains.",
+      "threat_type": "phishing",
+      "tweet_id": "2116260969685090705",
+      "type": "domain",
+      "value": "binance-com-l3.referrering.workers.dev"
+    },
+    "binance-com-nk.refers.workers.dev": {
+      "confidence": 0.9,
+      "date": "2026-10-30 20:08:28",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Binance-impersonating phishing pages hosted on Cloudflare workers.dev subdomains.",
+      "threat_type": "phishing",
+      "tweet_id": "2116260969685090705",
+      "type": "domain",
+      "value": "binance-com-nk.refers.workers.dev"
     },
     "bixsgrb.cn": {
       "confidence": 0.9,
@@ -50933,6 +51168,21 @@
       "type": "domain",
       "value": "dbaoi.com"
     },
+    "dbc3do8.club": {
+      "confidence": 0.6,
+      "date": "2026-10-30 20:53:47",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": "Farfli",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Domain dbc3do8.club and IP 27.124.41.111 (AS152194 CTG Server) tagged with Farfli malware family.",
+      "threat_type": "c2",
+      "tweet_id": "2116272377692623096",
+      "type": "domain",
+      "value": "dbc3do8.club"
+    },
     "dbcache-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -51116,6 +51366,21 @@
       "tweet_id": "2112738024262181174",
       "type": "sha256",
       "value": "de0b9b6656c9e9fc9db4271610a09c2ae27d07c5a4757e94b2e0314a9dda6ee4"
+    },
+    "dealcartdirect.com": {
+      "confidence": 0.75,
+      "date": "2026-10-02 20:55:36",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing alert: fake LaserAway sale email leading to dealcartdirect.com via a mismatched redirect domain.",
+      "threat_type": "phishing",
+      "tweet_id": "2106125971430777092",
+      "type": "domain",
+      "value": "dealcartdirect.com"
     },
     "debiandelivr.com": {
       "confidence": 0.4,
@@ -52322,6 +52587,21 @@
       "type": "url",
       "value": "http://documents1.worldbank.org/curated/en/585151601566378168/pdf/Main-Report.pdf"
     },
+    "docusign-document.info": {
+      "confidence": 0.85,
+      "date": "2026-10-30 19:19:20",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Fake DocuSign site with human-verification page auto-downloading a ScreenConnect MSI from a compromised Brazilian domain.",
+      "threat_type": "malware",
+      "tweet_id": "2116248606860836992",
+      "type": "domain",
+      "value": "docusign-document.info"
+    },
     "docusignaccessportal.com": {
       "confidence": 0.85,
       "date": "2026-10-30 03:27:55",
@@ -52729,6 +53009,36 @@
       "tweet_id": "2109721833050411286",
       "type": "url",
       "value": "https://drive.google.com/uc?export=download&id=1Zynj-CzTxaYpQr5aniRGE5gUqs26k-t5"
+    },
+    "driverdocu.cloudaccess.host": {
+      "confidence": 0.85,
+      "date": "2026-10-30 19:19:20",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Fake DocuSign site with human-verification page auto-downloading a ScreenConnect MSI from a compromised Brazilian domain.",
+      "threat_type": "malware",
+      "tweet_id": "2116248606860836992",
+      "type": "domain",
+      "value": "driverdocu.cloudaccess.host"
+    },
+    "driverdocu.cloudaccess.host//next.php": {
+      "confidence": 0.85,
+      "date": "2026-10-30 19:19:20",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "phishing"
+      ],
+      "summary": "Fake DocuSign site with human-verification page auto-downloading a ScreenConnect MSI from a compromised Brazilian domain.",
+      "threat_type": "malware",
+      "tweet_id": "2116248606860836992",
+      "type": "url",
+      "value": "http://driverdocu.cloudaccess.host//next.php"
     },
     "dzwwftf.cn": {
       "confidence": 0.9,
@@ -55203,6 +55513,20 @@
       "type": "sha256",
       "value": "ff38255d7f1cf0dcbb735f5e76ad0128589731a41b1d8e90b783228c4d37e6db"
     },
+    "ff7ce91bedff6d7aa923b3a0b84e81b42acf41468768d1ddd4aa01af250b7635": {
+      "confidence": 0.55,
+      "date": "2026-10-30 21:13:11",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI installer sample '3574378-setup.msi' seen from South Korea, contacting redjaxfire.com/nfront.php.",
+      "threat_type": "malware",
+      "tweet_id": "2116277258025595339",
+      "type": "sha256",
+      "value": "ff7ce91bedff6d7aa923b3a0b84e81b42acf41468768d1ddd4aa01af250b7635"
+    },
     "ff9f9d0627906c451b9dc43169a8ad8e8e75673a57465ed1353d1bcfcec40f8c": {
       "confidence": 0.55,
       "date": "2026-10-12 09:55:55",
@@ -57242,22 +57566,6 @@
       "type": "domain",
       "value": "fx.j8l8.my"
     },
-    "fxxma.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "fxxma.cn"
-    },
     "fyrestormic-jp.com": {
       "confidence": 0.7,
       "date": "2026-10-07 23:33:09",
@@ -57711,22 +58019,6 @@
       "tweet_id": "2107783512745193569",
       "type": "domain",
       "value": "getstampi.com"
-    },
-    "ggctb.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "ggctb.cn"
     },
     "ghadita.digital": {
       "confidence": 0.75,
@@ -58402,20 +58694,6 @@
       "type": "domain",
       "value": "granitepointmedia.fun"
     },
-    "greenerpasturetrading.info": {
-      "confidence": 0.8,
-      "date": "2026-09-30 20:16:43",
-      "enriched_at": "2026-10-23T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing alert: duplicate auto-insurance emails from unrelated senders lead to greenerpasturetrading.info.",
-      "threat_type": "phishing",
-      "tweet_id": "2105391409931186501",
-      "type": "domain",
-      "value": "greenerpasturetrading.info"
-    },
     "grillchefsecrets.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -58611,6 +58889,20 @@
       "type": "domain",
       "value": "guangrongsuiy-jp.com"
     },
+    "guanlansec.com": {
+      "confidence": 0.45,
+      "date": "2026-10-30 18:48:12",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Domain guanlansec.com reportedly fronts modified ARTEX servers behind Cloudflare to evade detection.",
+      "threat_type": "c2",
+      "tweet_id": "2116240771984789707",
+      "type": "domain",
+      "value": "guanlansec.com"
+    },
     "guarda-login.click": {
       "confidence": 0.5,
       "date": "2026-10-28 17:51:34",
@@ -58710,22 +59002,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "gw162.online"
-    },
-    "gxgiu.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "gxgiu.cn"
     },
     "gzlweb-whatsapp.com": {
       "confidence": 0.65,
@@ -59030,36 +59306,6 @@
       "type": "domain",
       "value": "havelbeenpwned.net"
     },
-    "hazelnut.co.rs": {
-      "confidence": 0.8,
-      "date": "2026-10-01 00:32:46",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site at hazelnut[.]co[.]rs reported by PhishStats, behind Cloudflare (AS13335).",
-      "threat_type": "phishing",
-      "tweet_id": "2105455850022179195",
-      "type": "domain",
-      "value": "hazelnut.co.rs"
-    },
-    "hbyqq.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "hbyqq.cn"
-    },
     "hcnksadcn.cc": {
       "confidence": 0.9,
       "date": "2026-10-26 21:24:54",
@@ -59075,6 +59321,21 @@
       "tweet_id": "2114830654466896212",
       "type": "domain",
       "value": "hcnksadcn.cc"
+    },
+    "hdhdandan.duckdns.org": {
+      "confidence": 0.6,
+      "date": "2026-10-08 09:50:39",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Brazilian DANFE-themed JavaScript sample contacting duckdns domain hdhdandan.duckdns.org at 45.149.153.141.",
+      "threat_type": "malware",
+      "tweet_id": "2108132960855593389",
+      "type": "domain",
+      "value": "hdhdandan.duckdns.org"
     },
     "health.vitalhealthportal.com": {
       "confidence": 0.85,
@@ -59236,6 +59497,20 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "help.webstatici-whatsapp.com"
+    },
+    "herstel-google.com": {
+      "confidence": 0.88,
+      "date": "2026-10-30 19:33:40",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Google account phishing site herstel-google.com, similar to previously reported ones.",
+      "threat_type": "phishing",
+      "tweet_id": "2116252212620153289",
+      "type": "domain",
+      "value": "herstel-google.com"
     },
     "hfgxsc.cn": {
       "confidence": 0.8,
@@ -59441,22 +59716,6 @@
       "tweet_id": "2113601611503120436",
       "type": "domain",
       "value": "hlushkova.top"
-    },
-    "hmcot.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "hmcot.cn"
     },
     "hmelef.ru": {
       "confidence": 0.85,
@@ -60058,38 +60317,6 @@
       "type": "domain",
       "value": "hvbaqrat.cn"
     },
-    "hwjwz.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "hwjwz.cn"
-    },
-    "hwspp.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "hwspp.cn"
-    },
     "iasteun.cn": {
       "confidence": 0.9,
       "date": "2026-10-17 00:09:09",
@@ -60261,22 +60488,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "ids-whatsapp.com"
-    },
-    "ifexa.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "ifexa.cn"
     },
     "illustrationi-jp.com": {
       "confidence": 0.75,
@@ -60928,22 +61139,6 @@
       "type": "domain",
       "value": "isgraphicsport.net"
     },
-    "isqbb.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "isqbb.cn"
-    },
     "it.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -61360,22 +61555,6 @@
       "tweet_id": "2113460420363051108",
       "type": "domain",
       "value": "jimcooks211.github.io"
-    },
-    "jinsm.cn": {
-      "confidence": 0.8,
-      "date": "2026-09-30 23:30:14",
-      "enriched_at": "2026-10-01T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a cluster of .cn phishing domains; a related sample hash was shared.",
-      "threat_type": "malware",
-      "tweet_id": "2105440112989630614",
-      "type": "domain",
-      "value": "jinsm.cn"
     },
     "jksdjkjs.cc": {
       "confidence": 0.5,
@@ -61943,6 +62122,20 @@
       "tweet_id": "2106134963691110599",
       "type": "domain",
       "value": "kanuis2.duckdns.org"
+    },
+    "karichilevels.click": {
+      "confidence": 0.4,
+      "date": "2026-10-30 21:55:57",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Suspicious domain karichilevels.click shared as an IOC, associated with a fake Windows update zip sample.",
+      "threat_type": "malware",
+      "tweet_id": "2116287237570879538",
+      "type": "domain",
+      "value": "karichilevels.click"
     },
     "katfiore.com": {
       "confidence": 0.2,
@@ -63585,6 +63778,18 @@
       "type": "domain",
       "value": "lryjfreporting.5tr.org"
     },
+    "luck.dpmz.top": {
+      "confidence": 0.2,
+      "date": "2026-10-30 18:48:13",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Domain luck.dpmz.top shared without context; likely malicious infrastructure.",
+      "threat_type": "other",
+      "tweet_id": "2116240777290637360",
+      "type": "domain",
+      "value": "luck.dpmz.top"
+    },
     "luoc.run": {
       "confidence": 0.9,
       "date": "2026-10-20 05:26:14",
@@ -64952,20 +65157,6 @@
       "type": "domain",
       "value": "miricanvas.com"
     },
-    "missvalledeladrome.info": {
-      "confidence": 0.85,
-      "date": "2026-09-30 20:10:31",
-      "enriched_at": "2026-10-26T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Six duplicate Empire Today sale emails from unrelated senders leading to missvalledeladrome[.]info.",
-      "threat_type": "phishing",
-      "tweet_id": "2105389852959392208",
-      "type": "domain",
-      "value": "missvalledeladrome.info"
-    },
     "misuwh.com": {
       "confidence": 0.85,
       "date": "2026-10-23 23:52:47",
@@ -66319,6 +66510,21 @@
       "tweet_id": "2109649861385609321",
       "type": "domain",
       "value": "nightflamevortex.top"
+    },
+    "nildex.com": {
+      "confidence": 0.85,
+      "date": "2026-10-13 16:35:39",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "scam",
+        "cryptoscam"
+      ],
+      "summary": "Nildex.com flagged as high-risk crypto scam with withdrawal issues and extra requirements to move funds.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2110046818688192537",
+      "type": "domain",
+      "value": "nildex.com"
     },
     "nilehost.cloud": {
       "confidence": 0.88,
@@ -68494,6 +68700,21 @@
       "type": "domain",
       "value": "poyanercold.top"
     },
+    "pradoferramentas.shop": {
+      "confidence": 0.8,
+      "date": "2026-10-30 18:55:43",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Phishing clone website pradoferramentas.shop, flagged as a fake shop scam.",
+      "threat_type": "phishing",
+      "tweet_id": "2116242664010203193",
+      "type": "domain",
+      "value": "pradoferramentas.shop"
+    },
     "pregnantkha-jp.com": {
       "confidence": 0.8,
       "date": "2026-10-28 13:27:25",
@@ -68583,6 +68804,34 @@
       "tweet_id": "2105799281378766907",
       "type": "domain",
       "value": "pridemodularhomesllc.info"
+    },
+    "primeseriesservice.com": {
+      "confidence": 0.8,
+      "date": "2026-10-30 21:21:09",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing URL on primeseriesservice.com hosted behind Cloudflare, reported by PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2116279264685486405",
+      "type": "domain",
+      "value": "primeseriesservice.com"
+    },
+    "primeseriesservice.com/?shem=aimgspe": {
+      "confidence": 0.8,
+      "date": "2026-10-30 21:21:09",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "New phishing URL on primeseriesservice.com hosted behind Cloudflare, reported by PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2116279264685486405",
+      "type": "url",
+      "value": "https://primeseriesservice.com/?shem=aimgspe"
     },
     "primeslll.com": {
       "confidence": 0.9,
@@ -69304,6 +69553,34 @@
       "type": "domain",
       "value": "qaz4.com"
     },
+    "qdxz4578.hkg.bcebos.com": {
+      "confidence": 0.55,
+      "date": "2026-10-30 20:39:07",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Zip sample 'DOC-20261029-WA0056' seen from India, fetching payloads from Baidu BCE object storage URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2116268685589659959",
+      "type": "domain",
+      "value": "qdxz4578.hkg.bcebos.com"
+    },
+    "qdxz4578.hkg.bcebos.com/updata/zip.zip": {
+      "confidence": 0.55,
+      "date": "2026-10-30 20:39:07",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Zip sample 'DOC-20261029-WA0056' seen from India, fetching payloads from Baidu BCE object storage URLs.",
+      "threat_type": "malware",
+      "tweet_id": "2116268685589659959",
+      "type": "url",
+      "value": "https://qdxz4578.hkg.bcebos.com/updata/zip.zip"
+    },
     "qh883-pqd-q56b-r2kwh-15-10-2026-aa.pages.dev": {
       "confidence": 0.7,
       "date": "2026-10-17 01:21:00",
@@ -69981,6 +70258,34 @@
       "tweet_id": "2109057708926374341",
       "type": "domain",
       "value": "recycle.startmultimedia.com"
+    },
+    "redjaxfire.com": {
+      "confidence": 0.55,
+      "date": "2026-10-30 21:13:11",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI installer sample '3574378-setup.msi' seen from South Korea, contacting redjaxfire.com/nfront.php.",
+      "threat_type": "malware",
+      "tweet_id": "2116277258025595339",
+      "type": "domain",
+      "value": "redjaxfire.com"
+    },
+    "redjaxfire.com/nfront.php": {
+      "confidence": 0.55,
+      "date": "2026-10-30 21:13:11",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "MSI installer sample '3574378-setup.msi' seen from South Korea, contacting redjaxfire.com/nfront.php.",
+      "threat_type": "malware",
+      "tweet_id": "2116277258025595339",
+      "type": "url",
+      "value": "https://redjaxfire.com/nfront.php"
     },
     "redsun.live": {
       "confidence": 0.7,
@@ -78761,6 +79066,38 @@
       "type": "domain",
       "value": "wauxp.vn-889club.com"
     },
+    "wazirxkyc.com": {
+      "confidence": 0.92,
+      "date": "2026-10-30 20:42:43",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Fake WazirX Re-KYC page on newly registered domain wazirxkyc.com prompting a crypto wallet connection (wallet drainer).",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2116269591664194029",
+      "type": "domain",
+      "value": "wazirxkyc.com"
+    },
+    "wazirxr.com": {
+      "confidence": 0.9,
+      "date": "2026-10-30 20:50:21",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "cryptoscam",
+        "scam"
+      ],
+      "summary": "Fake WazirX website wazirxr.com, similar to a Re-KYC wallet drainer phishing campaign.",
+      "threat_type": "cryptoscam",
+      "tweet_id": "2116271510918987811",
+      "type": "domain",
+      "value": "wazirxr.com"
+    },
     "wealthstepguide.com": {
       "confidence": 0.85,
       "date": "2026-10-01 20:10:14",
@@ -80912,20 +81249,6 @@
       "type": "url",
       "value": "https://www.grillchefsecrets.com"
     },
-    "www.hazelnut.co.rs": {
-      "confidence": 0.8,
-      "date": "2026-10-01 00:32:46",
-      "enriched_at": "2026-10-01T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "New phishing site at hazelnut[.]co[.]rs reported by PhishStats, behind Cloudflare (AS13335).",
-      "threat_type": "phishing",
-      "tweet_id": "2105455850022179195",
-      "type": "url",
-      "value": "https://www.hazelnut.co.rs"
-    },
     "www.isgraphicsport.net/cloud/index.php": {
       "confidence": 0.45,
       "date": "2026-10-15 21:25:19",
@@ -82102,6 +82425,62 @@
       "type": "domain",
       "value": "yourcornpany.com"
     },
+    "youtube-right.com": {
+      "confidence": 0.92,
+      "date": "2026-10-30 21:12:47",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake YouTube copyright review portal phishing creators with a Google sign-in lure; uses AES-GCM encrypted HTML, obfuscated JS and anti-debugging.",
+      "threat_type": "phishing",
+      "tweet_id": "2116277159350456808",
+      "type": "domain",
+      "value": "youtube-right.com"
+    },
+    "youtube-right.com/eef99456.bin": {
+      "confidence": 0.92,
+      "date": "2026-10-30 21:12:47",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake YouTube copyright review portal phishing creators with a Google sign-in lure; uses AES-GCM encrypted HTML, obfuscated JS and anti-debugging.",
+      "threat_type": "phishing",
+      "tweet_id": "2116277159350456808",
+      "type": "url",
+      "value": "http://youtube-right.com/eef99456.bin"
+    },
+    "youtube-right.com/js/56ddbf62.js": {
+      "confidence": 0.92,
+      "date": "2026-10-30 21:12:47",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake YouTube copyright review portal phishing creators with a Google sign-in lure; uses AES-GCM encrypted HTML, obfuscated JS and anti-debugging.",
+      "threat_type": "phishing",
+      "tweet_id": "2116277159350456808",
+      "type": "url",
+      "value": "http://youtube-right.com/js/56ddbf62.js"
+    },
+    "youtube-right.com/js/d57a348f.js": {
+      "confidence": 0.92,
+      "date": "2026-10-30 21:12:47",
+      "enriched_at": "2026-10-31T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Fake YouTube copyright review portal phishing creators with a Google sign-in lure; uses AES-GCM encrypted HTML, obfuscated JS and anti-debugging.",
+      "threat_type": "phishing",
+      "tweet_id": "2116277159350456808",
+      "type": "url",
+      "value": "http://youtube-right.com/js/d57a348f.js"
+    },
     "youtubemail.club": {
       "confidence": 0.6,
       "date": "2026-10-11 12:42:39",
@@ -83165,6 +83544,6 @@
       "value": "\u81f3\u6025\u306e\u304a\u898b\u7a4d\u3082\u308a\u4f9d\u983c.zip"
     }
   },
-  "generated_at": "2026-10-30T18:40:03Z",
+  "generated_at": "2026-10-31T00:40:03Z",
   "window_days": 30
 }
