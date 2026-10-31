@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 268
-# Updated: 2026-10-31T00:00:29Z
+# Entries: 269
+# Updated: 2026-10-31T01:30:20Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-10-30T19:25:15Z
+# Cross-check refreshed: 2026-10-31T01:25:12Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -104,6 +104,7 @@ http://64.89.160.127:4561
 http://66.78.40.197
 http://67.207.95.101
 http://74.207.198.39/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
+http://77.239.124.141
 http://77.90.185.20
 http://78.17.25.46
 http://7k.iakmialor.web.id
