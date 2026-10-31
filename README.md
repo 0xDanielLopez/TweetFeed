@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-31 15:30:22 (UTC)</th>
+        <th colspan=4>2026-10-31 15:45:22 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 15 | 429 | 2932 | 45303 |
-| **:globe_with_meridians: Domains** | 13 | 303 | 2457 | 39064 |
-| **:triangular_flag_on_post: IPs** | 6 | 163 | 2120 | 7870 |
-| **:1234: SHA256** | 2 | 111 | 435 | 3035 |
+| **:link: URLs** | 16 | 430 | 2933 | 45304 |
+| **:globe_with_meridians: Domains** | 14 | 304 | 2458 | 39065 |
+| **:triangular_flag_on_post: IPs** | 8 | 165 | 2122 | 7872 |
+| **:1234: SHA256** | 3 | 112 | 436 | 3036 |
 | **:1234: MD5** | 2 | 43 | 98 | 2102 |
 
 </div>
@@ -205,7 +205,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 27 | 361 | 3415 | 33731 |
+| **#phishing** | 32 | 366 | 3420 | 33736 |
 | **#Kimsuky** | 0 | 10 | 42 | 13317 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
 | **#malware** | 12 | 159 | 1118 | 4078 |
@@ -232,14 +232,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 10 |
 | **#2** | [phishunt_io](https://x.com/phishunt_io) | 6 |
-| **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#4** | [patialavii](https://x.com/patialavii) | 4 |
-| **#5** | [sicehice](https://x.com/sicehice) | 4 |
-| **#6** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#7** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#8** | [hackingspace](https://x.com/hackingspace) | 2 |
-| **#9** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
-| **#10** | [skocherhan](https://x.com/skocherhan) | 1 |
+| **#3** | [harugasumi](https://x.com/harugasumi) | 5 |
+| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#5** | [patialavii](https://x.com/patialavii) | 4 |
+| **#6** | [sicehice](https://x.com/sicehice) | 4 |
+| **#7** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#8** | [scanmalware](https://x.com/scanmalware) | 2 |
+| **#9** | [hackingspace](https://x.com/hackingspace) | 2 |
+| **#10** | [Coolcarlos17](https://x.com/Coolcarlos17) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
