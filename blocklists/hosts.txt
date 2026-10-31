@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2366
-# Updated: 2026-10-31T17:00:23Z
+# Entries: 2368
+# Updated: 2026-10-31T17:15:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -727,6 +727,7 @@
 0.0.0.0 drive-security.zapto.org
 0.0.0.0 drive-sharing.work.gd
 0.0.0.0 driverdocu.cloudaccess.host
+0.0.0.0 dtb-bank.pages.dev
 0.0.0.0 dzwwftf.cn
 0.0.0.0 e-challan.download
 0.0.0.0 e-challan.link
@@ -1808,6 +1809,7 @@
 0.0.0.0 snuznsva.cn
 0.0.0.0 sobesmarje.com
 0.0.0.0 socket-whatsapp.com
+0.0.0.0 sofel.site
 0.0.0.0 softhub-whatsapp.com
 0.0.0.0 soj.s4kyn.com
 0.0.0.0 solflare-extension.pages.dev

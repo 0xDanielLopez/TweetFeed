@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2366
-; Updated: 2026-10-31T17:00:23Z
+; Entries: 2368
+; Updated: 2026-10-31T17:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793466023 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793466918 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1450,6 +1450,8 @@ drive-sharing.work.gd CNAME .
 *.drive-sharing.work.gd CNAME .
 driverdocu.cloudaccess.host CNAME .
 *.driverdocu.cloudaccess.host CNAME .
+dtb-bank.pages.dev CNAME .
+*.dtb-bank.pages.dev CNAME .
 dzwwftf.cn CNAME .
 *.dzwwftf.cn CNAME .
 e-challan.download CNAME .
@@ -3612,6 +3614,8 @@ sobesmarje.com CNAME .
 *.sobesmarje.com CNAME .
 socket-whatsapp.com CNAME .
 *.socket-whatsapp.com CNAME .
+sofel.site CNAME .
+*.sofel.site CNAME .
 softhub-whatsapp.com CNAME .
 *.softhub-whatsapp.com CNAME .
 soj.s4kyn.com CNAME .
