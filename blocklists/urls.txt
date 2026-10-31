@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2844
-# Updated: 2026-10-31T13:15:18Z
+# Entries: 2845
+# Updated: 2026-10-31T14:15:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -233,6 +233,7 @@ http://217.60.102.5/sh
 http://217.60.242.76
 http://217.60.36.94:80
 http://219.68.139.37:46712/Mozi.m
+http://223.123.73.243:45466/Mozi.m
 http://224meetgooglecomfskqcdzfcwh.com
 http://23.132.164.3:2404
 http://23.148.212.237
