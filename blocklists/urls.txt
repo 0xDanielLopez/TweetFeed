@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2834
-# Updated: 2026-10-31T00:45:19Z
+# Entries: 2836
+# Updated: 2026-10-31T03:45:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -2220,6 +2220,8 @@ http://zoom-clientsetup.com
 http://zoomclientsetup.org
 http://zoomclientus.icu
 http://zoomjoinlive.com
+http://zoommeeting.click
+http://zoommeetingconnect.click
 http://zoomwebmeet.icu
 http://zt171.eu.cc
 http://zttrych.icu

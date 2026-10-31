@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2363
-# Updated: 2026-10-31T00:45:19Z
+# Entries: 2365
+# Updated: 2026-10-31T03:45:20Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -2363,6 +2363,8 @@ address=/zoomclientsetup.org/0.0.0.0
 address=/zoomclientus.icu/0.0.0.0
 address=/zoominviteus07.pages.dev/0.0.0.0
 address=/zoomjoinlive.com/0.0.0.0
+address=/zoommeeting.click/0.0.0.0
+address=/zoommeetingconnect.click/0.0.0.0
 address=/zoomusinvite2.pages.dev/0.0.0.0
 address=/zoomwebmeet.icu/0.0.0.0
 address=/zqfancu.cn/0.0.0.0
