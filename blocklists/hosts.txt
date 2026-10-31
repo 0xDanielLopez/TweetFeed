@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2368
-# Updated: 2026-10-31T17:15:18Z
+# Entries: 2369
+# Updated: 2026-10-31T20:15:17Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1004,6 +1004,7 @@
 0.0.0.0 gumruk.info
 0.0.0.0 gvagsb.cn
 0.0.0.0 gw162.online
+0.0.0.0 gwkinvestmicrosoftteams.com
 0.0.0.0 gzlweb-whatsapp.com
 0.0.0.0 h4x.tv
 0.0.0.0 h8-whatsapp.com

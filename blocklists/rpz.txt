@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2368
-; Updated: 2026-10-31T17:15:18Z
+; Entries: 2369
+; Updated: 2026-10-31T20:15:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793466918 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793477717 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2004,6 +2004,8 @@ gvagsb.cn CNAME .
 *.gvagsb.cn CNAME .
 gw162.online CNAME .
 *.gw162.online CNAME .
+gwkinvestmicrosoftteams.com CNAME .
+*.gwkinvestmicrosoftteams.com CNAME .
 gzlweb-whatsapp.com CNAME .
 *.gzlweb-whatsapp.com CNAME .
 h4x.tv CNAME .
