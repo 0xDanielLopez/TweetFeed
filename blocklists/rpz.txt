@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2366
-; Updated: 2026-10-31T05:00:21Z
+; Entries: 2367
+; Updated: 2026-10-31T07:45:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793422821 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793432718 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -540,6 +540,8 @@ binance-com-l3.referrering.workers.dev CNAME .
 *.binance-com-l3.referrering.workers.dev CNAME .
 binance-com-nk.refers.workers.dev CNAME .
 *.binance-com-nk.refers.workers.dev CNAME .
+birch-nuiis-d9q37.xyz CNAME .
+*.birch-nuiis-d9q37.xyz CNAME .
 bixsgrb.cn CNAME .
 *.bixsgrb.cn CNAME .
 bjjmsjcfsb.com CNAME .

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2366
-# Updated: 2026-10-31T05:00:21Z
+# Entries: 2367
+# Updated: 2026-10-31T07:45:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -272,6 +272,7 @@
 0.0.0.0 binance-com-10.refers.workers.dev
 0.0.0.0 binance-com-l3.referrering.workers.dev
 0.0.0.0 binance-com-nk.refers.workers.dev
+0.0.0.0 birch-nuiis-d9q37.xyz
 0.0.0.0 bixsgrb.cn
 0.0.0.0 bjjmsjcfsb.com
 0.0.0.0 bkz-whatsapp.com
