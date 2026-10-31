@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2371
-# Updated: 2026-10-31T13:00:20Z
+# Entries: 2372
+# Updated: 2026-10-31T13:15:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1294,6 +1294,7 @@ address=/mac.webapi-whatsapp.com/0.0.0.0
 address=/macro-whatsapp.com/0.0.0.0
 address=/maga-zine-luiza.com/0.0.0.0
 address=/magic-whatsapp.com/0.0.0.0
+address=/mail-googleaccounts-verification.uw.ua/0.0.0.0
 address=/mail-mof-gov-np.netlify.app/0.0.0.0
 address=/mail.intomahost2.com/0.0.0.0
 address=/mail.meet-google.live/0.0.0.0

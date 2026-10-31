@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2371
-; Updated: 2026-10-31T13:00:20Z
+; Entries: 2372
+; Updated: 2026-10-31T13:15:18Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1793451620 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1793452518 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2584,6 +2584,8 @@ maga-zine-luiza.com CNAME .
 *.maga-zine-luiza.com CNAME .
 magic-whatsapp.com CNAME .
 *.magic-whatsapp.com CNAME .
+mail-googleaccounts-verification.uw.ua CNAME .
+*.mail-googleaccounts-verification.uw.ua CNAME .
 mail-mof-gov-np.netlify.app CNAME .
 *.mail-mof-gov-np.netlify.app CNAME .
 mail.intomahost2.com CNAME .
