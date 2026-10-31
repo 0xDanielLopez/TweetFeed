@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2839
-# Updated: 2026-10-31T17:15:18Z
+# Entries: 2843
+# Updated: 2026-10-31T17:30:19Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -49,6 +49,7 @@ http://115.126.104.19
 http://119.160.105.93
 http://122.10.117.3
 http://122.10.117.3:8383
+http://124.221.133.13
 http://129.121.62.230
 http://13.140.43.225
 http://13.143.234.166
@@ -152,6 +153,7 @@ http://176.53.159.37
 http://176.65.132.7
 http://176.65.132.7:5000
 http://177.201.232.163:2580
+http://177.3.43.43
 http://178.16.52.204
 http://178.16.52.204/data/apk/Cloudflare.apk
 http://179-43-175-64.sslip.io
@@ -266,6 +268,7 @@ http://37.72.140.179
 http://37.77.150.177
 http://37.77.150.214
 http://38.135.122.175
+http://38.207.177.71
 http://38.242.147.58
 http://38.45.122.146
 http://38.54.56.66
@@ -286,6 +289,7 @@ http://43.213.75.63:57866/instatll?tag=Walk
 http://45.129.8.190:31337
 http://45.133.200.14
 http://45.135.180.185
+http://45.141.21.199
 http://45.146.81.109
 http://45.146.81.180
 http://45.149.153.141

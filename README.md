@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-10-31 17:15:19 (UTC)</th>
+        <th colspan=4>2026-10-31 17:30:20 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,9 +188,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 20 | 424 | 2926 | 45297 |
+| **:link: URLs** | 24 | 428 | 2930 | 45301 |
 | **:globe_with_meridians: Domains** | 17 | 300 | 2453 | 39060 |
-| **:triangular_flag_on_post: IPs** | 9 | 162 | 2119 | 7868 |
+| **:triangular_flag_on_post: IPs** | 13 | 166 | 2123 | 7872 |
 | **:1234: SHA256** | 3 | 111 | 435 | 3035 |
 | **:1234: MD5** | 2 | 43 | 98 | 2102 |
 
@@ -208,7 +208,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#phishing** | 38 | 362 | 3416 | 33731 |
 | **#Kimsuky** | 0 | 10 | 42 | 13317 |
 | **#DPRK** | 0 | 18 | 23 | 11687 |
-| **#malware** | 12 | 159 | 1118 | 4078 |
+| **#malware** | 20 | 167 | 1126 | 4086 |
 | **#scam** | 2 | 12 | 48 | 3300 |
 | **#C2** | 0 | 28 | 100 | 2205 |
 | **#APT** | 0 | 4 | 39 | 1492 |
@@ -231,15 +231,15 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [masaomi346](https://x.com/masaomi346) | 10 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 7 |
-| **#3** | [phishunt_io](https://x.com/phishunt_io) | 6 |
-| **#4** | [harugasumi](https://x.com/harugasumi) | 5 |
-| **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#6** | [patialavii](https://x.com/patialavii) | 4 |
-| **#7** | [sicehice](https://x.com/sicehice) | 4 |
-| **#8** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#9** | [scanmalware](https://x.com/scanmalware) | 2 |
-| **#10** | [hackingspace](https://x.com/hackingspace) | 2 |
+| **#2** | [orlof_v](https://x.com/orlof_v) | 8 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 7 |
+| **#4** | [phishunt_io](https://x.com/phishunt_io) | 6 |
+| **#5** | [harugasumi](https://x.com/harugasumi) | 5 |
+| **#6** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#7** | [patialavii](https://x.com/patialavii) | 4 |
+| **#8** | [sicehice](https://x.com/sicehice) | 4 |
+| **#9** | [PhishStats](https://x.com/PhishStats) | 3 |
+| **#10** | [scanmalware](https://x.com/scanmalware) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
