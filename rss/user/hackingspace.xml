@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @hackingspace</title>
+      <link>https://x.com/hackingspace</link>
+      <description>IOCs shared by @hackingspace and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @hackingspace</title>
+         <link>https://x.com/hackingspace</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/hackingspace.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 31 Oct 2026 11:45:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>13.143.234.166</title>
+         <link>https://x.com/hackingspace/status/2116491566420467941</link>
+         <description>@hackingspace | ip | #infostealer #malware
+Value: 13.143.234.166
+Tweet: https://x.com/hackingspace/status/2116491566420467941</description>
+         <guid isPermaLink="false">13.143.234.166</guid>
+         <pubDate>Sat, 31 Oct 2026 11:24:46 +0000</pubDate>
+         <category>ip</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://13.143.234.166</title>
+         <link>https://x.com/hackingspace/status/2116491566420467941</link>
+         <description>@hackingspace | url | #infostealer #malware
+Value: http://13.143.234.166
+Tweet: https://x.com/hackingspace/status/2116491566420467941</description>
+         <guid isPermaLink="false">http://13.143.234.166</guid>
+         <pubDate>Sat, 31 Oct 2026 11:24:46 +0000</pubDate>
+         <category>url</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

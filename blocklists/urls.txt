@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2841
-# Updated: 2026-10-31T09:15:19Z
+# Entries: 2842
+# Updated: 2026-10-31T11:45:18Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -51,6 +51,7 @@ http://122.10.117.3
 http://122.10.117.3:8383
 http://129.121.62.230
 http://13.140.43.225
+http://13.143.234.166
 http://13.37.72.210:8040
 http://130.94.1.88
 http://130.94.20.71
