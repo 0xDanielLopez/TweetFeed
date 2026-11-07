@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @oliver_ojsec</title>
+      <link>https://x.com/oliver_ojsec</link>
+      <description>IOCs shared by @oliver_ojsec and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @oliver_ojsec</title>
+         <link>https://x.com/oliver_ojsec</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/oliver_ojsec.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://cdn.node-js.dev</title>
+         <link>https://x.com/oliver_ojsec/status/2117153425297432764</link>
+         <description>@oliver_ojsec | url | 
+Value: http://cdn.node-js.dev
+Tweet: https://x.com/oliver_ojsec/status/2117153425297432764</description>
+         <guid isPermaLink="false">http://cdn.node-js.dev</guid>
+         <pubDate>Mon, 02 Nov 2026 08:09:56 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>cdn.node-js.dev</title>
+         <link>https://x.com/oliver_ojsec/status/2117153425297432764</link>
+         <description>@oliver_ojsec | domain | 
+Value: cdn.node-js.dev
+Tweet: https://x.com/oliver_ojsec/status/2117153425297432764</description>
+         <guid isPermaLink="false">cdn.node-js.dev</guid>
+         <pubDate>Mon, 02 Nov 2026 08:09:56 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

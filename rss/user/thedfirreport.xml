@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TheDFIRReport</title>
+      <link>https://x.com/TheDFIRReport</link>
+      <description>IOCs shared by @TheDFIRReport and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @TheDFIRReport</title>
+         <link>https://x.com/TheDFIRReport</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/thedfirreport.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>9c71d88a1a73373cc10cd622c9d37d9b71cee6d521cd40a07ca1e7507acfed27</title>
+         <link>https://x.com/TheDFIRReport/status/2118403834070302940</link>
+         <description>@TheDFIRReport | sha256 | 
+Value: 9c71d88a1a73373cc10cd622c9d37d9b71cee6d521cd40a07ca1e7507acfed27
+Tweet: https://x.com/TheDFIRReport/status/2118403834070302940</description>
+         <guid isPermaLink="false">9c71d88a1a73373cc10cd622c9d37d9b71cee6d521cd40a07ca1e7507acfed27</guid>
+         <pubDate>Thu, 05 Nov 2026 18:03:26 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>http://microservice6533.com</title>
+         <link>https://x.com/TheDFIRReport/status/2118403834070302940</link>
+         <description>@TheDFIRReport | url | 
+Value: http://microservice6533.com
+Tweet: https://x.com/TheDFIRReport/status/2118403834070302940</description>
+         <guid isPermaLink="false">http://microservice6533.com</guid>
+         <pubDate>Thu, 05 Nov 2026 18:03:26 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>microservice6533.com</title>
+         <link>https://x.com/TheDFIRReport/status/2118403834070302940</link>
+         <description>@TheDFIRReport | domain | 
+Value: microservice6533.com
+Tweet: https://x.com/TheDFIRReport/status/2118403834070302940</description>
+         <guid isPermaLink="false">microservice6533.com</guid>
+         <pubDate>Thu, 05 Nov 2026 18:03:26 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>webbit6551.com</title>
+         <link>https://x.com/TheDFIRReport/status/2118403834070302940</link>
+         <description>@TheDFIRReport | domain | 
+Value: webbit6551.com
+Tweet: https://x.com/TheDFIRReport/status/2118403834070302940</description>
+         <guid isPermaLink="false">webbit6551.com</guid>
+         <pubDate>Thu, 05 Nov 2026 18:03:26 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

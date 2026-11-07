@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #apt IOC feed</title>
+      <link>https://tweetfeed.live/tag/apt/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #apt on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - #apt IOC feed</title>
+         <link>https://tweetfeed.live/tag/apt/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/apt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240</title>
+         <link>https://x.com/phatomcandle/status/2118363709169181098</link>
+         <description>@phatomcandle | sha256 | #APT #malware
+Value: 0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240
+Tweet: https://x.com/phatomcandle/status/2118363709169181098</description>
+         <guid isPermaLink="false">0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240</guid>
+         <pubDate>Thu, 05 Nov 2026 15:24:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://docsportal.in</title>
+         <link>https://x.com/phatomcandle/status/2118363709169181098</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://docsportal.in
+Tweet: https://x.com/phatomcandle/status/2118363709169181098</description>
+         <guid isPermaLink="false">http://docsportal.in</guid>
+         <pubDate>Thu, 05 Nov 2026 15:24:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>https://docsportal.in/public/reps/com/com.hta</title>
+         <link>https://x.com/phatomcandle/status/2118363709169181098</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: https://docsportal.in/public/reps/com/com.hta
+Tweet: https://x.com/phatomcandle/status/2118363709169181098</description>
+         <guid isPermaLink="false">https://docsportal.in/public/reps/com/com.hta</guid>
+         <pubDate>Thu, 05 Nov 2026 15:24:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>docsportal.in</title>
+         <link>https://x.com/phatomcandle/status/2118363709169181098</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: docsportal.in
+Tweet: https://x.com/phatomcandle/status/2118363709169181098</description>
+         <guid isPermaLink="false">docsportal.in</guid>
+         <pubDate>Thu, 05 Nov 2026 15:24:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46</title>
+         <link>https://x.com/phatomcandle/status/2118001069729157151</link>
+         <description>@phatomcandle | sha256 | #APT #malware
+Value: 55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46
+Tweet: https://x.com/phatomcandle/status/2118001069729157151</description>
+         <guid isPermaLink="false">55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46</guid>
+         <pubDate>Wed, 04 Nov 2026 15:23:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://store2.shop</title>
+         <link>https://x.com/phatomcandle/status/2118001069729157151</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://store2.shop
+Tweet: https://x.com/phatomcandle/status/2118001069729157151</description>
+         <guid isPermaLink="false">http://store2.shop</guid>
+         <pubDate>Wed, 04 Nov 2026 15:23:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>store2.shop</title>
+         <link>https://x.com/phatomcandle/status/2118001069729157151</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: store2.shop
+Tweet: https://x.com/phatomcandle/status/2118001069729157151</description>
+         <guid isPermaLink="false">store2.shop</guid>
+         <pubDate>Wed, 04 Nov 2026 15:23:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://mineproper.org</title>
+         <link>https://x.com/phatomcandle/status/2117638682475626616</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://mineproper.org
+Tweet: https://x.com/phatomcandle/status/2117638682475626616</description>
+         <guid isPermaLink="false">http://mineproper.org</guid>
+         <pubDate>Tue, 03 Nov 2026 15:23:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>mineproper.org</title>
+         <link>https://x.com/phatomcandle/status/2117638682475626616</link>
+         <description>@phatomcandle | domain | #APT #C2 #malware
+Value: mineproper.org
+Tweet: https://x.com/phatomcandle/status/2117638682475626616</description>
+         <guid isPermaLink="false">mineproper.org</guid>
+         <pubDate>Tue, 03 Nov 2026 15:23:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://ahutn0lm.onlinewebshop.net/setting.php</title>
+         <link>https://x.com/byrne_emmy12099/status/2117583946125090987</link>
+         <description>@byrne_emmy12099 | url | #APT
+Value: http://ahutn0lm.onlinewebshop.net/setting.php
+Tweet: https://x.com/byrne_emmy12099/status/2117583946125090987</description>
+         <guid isPermaLink="false">http://ahutn0lm.onlinewebshop.net/setting.php</guid>
+         <pubDate>Tue, 03 Nov 2026 11:45:30 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>ahutn0lm.onlinewebshop.net</title>
+         <link>https://x.com/byrne_emmy12099/status/2117583946125090987</link>
+         <description>@byrne_emmy12099 | domain | #APT
+Value: ahutn0lm.onlinewebshop.net
+Tweet: https://x.com/byrne_emmy12099/status/2117583946125090987</description>
+         <guid isPermaLink="false">ahutn0lm.onlinewebshop.net</guid>
+         <pubDate>Tue, 03 Nov 2026 11:45:30 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>111.92.246.145</title>
+         <link>https://x.com/byrne_emmy12099/status/2117583792261287947</link>
+         <description>@byrne_emmy12099 | ip | #APT
+Value: 111.92.246.145
+Tweet: https://x.com/byrne_emmy12099/status/2117583792261287947</description>
+         <guid isPermaLink="false">111.92.246.145</guid>
+         <pubDate>Tue, 03 Nov 2026 11:44:53 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>https://hendakhelifi.com</title>
+         <link>https://x.com/byrne_emmy12099/status/2117583647666761791</link>
+         <description>@byrne_emmy12099 | url | #APT
+Value: https://hendakhelifi.com
+Tweet: https://x.com/byrne_emmy12099/status/2117583647666761791</description>
+         <guid isPermaLink="false">https://hendakhelifi.com</guid>
+         <pubDate>Tue, 03 Nov 2026 11:44:19 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>hendakhelifi.com</title>
+         <link>https://x.com/byrne_emmy12099/status/2117583647666761791</link>
+         <description>@byrne_emmy12099 | domain | #APT
+Value: hendakhelifi.com
+Tweet: https://x.com/byrne_emmy12099/status/2117583647666761791</description>
+         <guid isPermaLink="false">hendakhelifi.com</guid>
+         <pubDate>Tue, 03 Nov 2026 11:44:19 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>http://www.flpoised.net</title>
+         <link>https://x.com/phatomcandle/status/2117276042276548954</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://www.flpoised.net
+Tweet: https://x.com/phatomcandle/status/2117276042276548954</description>
+         <guid isPermaLink="false">http://www.flpoised.net</guid>
+         <pubDate>Mon, 02 Nov 2026 15:22:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>flpoised.net</title>
+         <link>https://x.com/phatomcandle/status/2117276042276548954</link>
+         <description>@phatomcandle | domain | #APT #C2 #malware
+Value: flpoised.net
+Tweet: https://x.com/phatomcandle/status/2117276042276548954</description>
+         <guid isPermaLink="false">flpoised.net</guid>
+         <pubDate>Mon, 02 Nov 2026 15:22:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>74.227.129.151</title>
+         <link>https://x.com/phatomcandle/status/2116913654935240892</link>
+         <description>@phatomcandle | ip | #APT #C2 #malware
+Value: 74.227.129.151
+Tweet: https://x.com/phatomcandle/status/2116913654935240892</description>
+         <guid isPermaLink="false">74.227.129.151</guid>
+         <pubDate>Sun, 01 Nov 2026 15:22:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://74.227.129.151</title>
+         <link>https://x.com/phatomcandle/status/2116913654935240892</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://74.227.129.151
+Tweet: https://x.com/phatomcandle/status/2116913654935240892</description>
+         <guid isPermaLink="false">http://74.227.129.151</guid>
+         <pubDate>Sun, 01 Nov 2026 15:22:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>193.29.104.84</title>
+         <link>https://x.com/volrant136/status/2116901013680791846</link>
+         <description>@volrant136 | ip | #APT #opendir
+Value: 193.29.104.84
+Tweet: https://x.com/volrant136/status/2116901013680791846</description>
+         <guid isPermaLink="false">193.29.104.84</guid>
+         <pubDate>Sun, 01 Nov 2026 14:31:46 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>http://193.29.104.84:8099</title>
+         <link>https://x.com/volrant136/status/2116901013680791846</link>
+         <description>@volrant136 | url | #APT #opendir
+Value: http://193.29.104.84:8099
+Tweet: https://x.com/volrant136/status/2116901013680791846</description>
+         <guid isPermaLink="false">http://193.29.104.84:8099</guid>
+         <pubDate>Sun, 01 Nov 2026 14:31:46 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

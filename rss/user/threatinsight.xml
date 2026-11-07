@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @threatinsight</title>
+      <link>https://x.com/threatinsight</link>
+      <description>IOCs shared by @threatinsight and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @threatinsight</title>
+         <link>https://x.com/threatinsight</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/threatinsight.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>167.148.201.149</title>
+         <link>https://x.com/threatinsight/status/2118418247376580860</link>
+         <description>@threatinsight | ip | 
+Value: 167.148.201.149
+Tweet: https://x.com/threatinsight/status/2118418247376580860</description>
+         <guid isPermaLink="false">167.148.201.149</guid>
+         <pubDate>Thu, 05 Nov 2026 19:00:43 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>

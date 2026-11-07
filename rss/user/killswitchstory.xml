@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @KillSwitchStory</title>
+      <link>https://x.com/KillSwitchStory</link>
+      <description>IOCs shared by @KillSwitchStory and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @KillSwitchStory</title>
+         <link>https://x.com/KillSwitchStory</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/killswitchstory.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://blueguradian.com</title>
+         <link>https://x.com/KillSwitchStory/status/2117699659430867297</link>
+         <description>@KillSwitchStory | url | #phishing
+Value: http://blueguradian.com
+Tweet: https://x.com/KillSwitchStory/status/2117699659430867297</description>
+         <guid isPermaLink="false">http://blueguradian.com</guid>
+         <pubDate>Tue, 03 Nov 2026 19:25:18 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>blueguradian.com</title>
+         <link>https://x.com/KillSwitchStory/status/2117699659430867297</link>
+         <description>@KillSwitchStory | domain | #phishing
+Value: blueguradian.com
+Tweet: https://x.com/KillSwitchStory/status/2117699659430867297</description>
+         <guid isPermaLink="false">blueguradian.com</guid>
+         <pubDate>Tue, 03 Nov 2026 19:25:18 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

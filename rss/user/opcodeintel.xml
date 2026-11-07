@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @OpcodeIntel</title>
+      <link>https://x.com/OpcodeIntel</link>
+      <description>IOCs shared by @OpcodeIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @OpcodeIntel</title>
+         <link>https://x.com/OpcodeIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/opcodeintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>64.89.161.172</title>
+         <link>https://x.com/OpcodeIntel/status/2117511172979388734</link>
+         <description>@OpcodeIntel | ip | #malware #ransomware
+Value: 64.89.161.172
+Tweet: https://x.com/OpcodeIntel/status/2117511172979388734</description>
+         <guid isPermaLink="false">64.89.161.172</guid>
+         <pubDate>Tue, 03 Nov 2026 06:56:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>47.76.120.34</title>
+         <link>https://x.com/OpcodeIntel/status/2117511172979388734</link>
+         <description>@OpcodeIntel | ip | #malware #ransomware
+Value: 47.76.120.34
+Tweet: https://x.com/OpcodeIntel/status/2117511172979388734</description>
+         <guid isPermaLink="false">47.76.120.34</guid>
+         <pubDate>Tue, 03 Nov 2026 06:56:19 +0000</pubDate>
+         <category>ip</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

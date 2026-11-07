@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @navneetr4j</title>
+      <link>https://x.com/navneetr4j</link>
+      <description>IOCs shared by @navneetr4j and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @navneetr4j</title>
+         <link>https://x.com/navneetr4j</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/navneetr4j.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>23.149.28.46</title>
+         <link>https://x.com/navneetr4j/status/2118049474677440730</link>
+         <description>@navneetr4j | ip | #Sliver #opendir
+Value: 23.149.28.46
+Tweet: https://x.com/navneetr4j/status/2118049474677440730</description>
+         <guid isPermaLink="false">23.149.28.46</guid>
+         <pubDate>Wed, 04 Nov 2026 18:35:20 +0000</pubDate>
+         <category>ip</category>
+         <category>#Sliver</category>
+         <category>#opendir</category>
+      </item>
+      <item>
+         <title>http://23.149.28.46:8000</title>
+         <link>https://x.com/navneetr4j/status/2118049474677440730</link>
+         <description>@navneetr4j | url | #Sliver #opendir
+Value: http://23.149.28.46:8000
+Tweet: https://x.com/navneetr4j/status/2118049474677440730</description>
+         <guid isPermaLink="false">http://23.149.28.46:8000</guid>
+         <pubDate>Wed, 04 Nov 2026 18:35:20 +0000</pubDate>
+         <category>url</category>
+         <category>#Sliver</category>
+         <category>#opendir</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @ffforward</title>
+      <link>https://x.com/ffforward</link>
+      <description>IOCs shared by @ffforward and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @ffforward</title>
+         <link>https://x.com/ffforward</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/ffforward.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e</title>
+         <link>https://x.com/ffforward/status/2118395564601864512</link>
+         <description>@ffforward | sha256 | 
+Value: 6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e
+Tweet: https://x.com/ffforward/status/2118395564601864512</description>
+         <guid isPermaLink="false">6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e</guid>
+         <pubDate>Thu, 05 Nov 2026 17:30:35 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

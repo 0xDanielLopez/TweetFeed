@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @HackProtectLabs</title>
+      <link>https://x.com/HackProtectLabs</link>
+      <description>IOCs shared by @HackProtectLabs and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @HackProtectLabs</title>
+         <link>https://x.com/HackProtectLabs</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/hackprotectlabs.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://mojtelekom.help</title>
+         <link>https://x.com/HackProtectLabs/status/2117308040261112041</link>
+         <description>@HackProtectLabs | url | #phishing
+Value: http://mojtelekom.help
+Tweet: https://x.com/HackProtectLabs/status/2117308040261112041</description>
+         <guid isPermaLink="false">http://mojtelekom.help</guid>
+         <pubDate>Mon, 02 Nov 2026 17:29:09 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>mojtelekom.help</title>
+         <link>https://x.com/HackProtectLabs/status/2117308040261112041</link>
+         <description>@HackProtectLabs | domain | #phishing
+Value: mojtelekom.help
+Tweet: https://x.com/HackProtectLabs/status/2117308040261112041</description>
+         <guid isPermaLink="false">mojtelekom.help</guid>
+         <pubDate>Mon, 02 Nov 2026 17:29:09 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

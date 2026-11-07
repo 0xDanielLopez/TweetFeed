@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @solostalking</title>
+      <link>https://x.com/solostalking</link>
+      <description>IOCs shared by @solostalking and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @solostalking</title>
+         <link>https://x.com/solostalking</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/solostalking.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 00:00:31 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12</title>
+         <link>https://x.com/solostalking/status/2118249715209003359</link>
+         <description>@solostalking | sha256 | 
+Value: ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12
+Tweet: https://x.com/solostalking/status/2118249715209003359</description>
+         <guid isPermaLink="false">ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12</guid>
+         <pubDate>Thu, 05 Nov 2026 07:51:01 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>5.252.20.248</title>
+         <link>https://x.com/solostalking/status/2118249715209003359</link>
+         <description>@solostalking | ip | 
+Value: 5.252.20.248
+Tweet: https://x.com/solostalking/status/2118249715209003359</description>
+         <guid isPermaLink="false">5.252.20.248</guid>
+         <pubDate>Thu, 05 Nov 2026 07:51:01 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>169.58.23.32</title>
+         <link>https://x.com/solostalking/status/2117951023784595909</link>
+         <description>@solostalking | ip | 
+Value: 169.58.23.32
+Tweet: https://x.com/solostalking/status/2117951023784595909</description>
+         <guid isPermaLink="false">169.58.23.32</guid>
+         <pubDate>Wed, 04 Nov 2026 12:04:08 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>
