@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2539
-; Updated: 2026-11-07T04:45:17Z
+; Entries: 2540
+; Updated: 2026-11-07T05:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794026717 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794027622 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -148,6 +148,8 @@ account.webstatici-whatsapp.com CNAME .
 *.account.webstatici-whatsapp.com CNAME .
 accounts-google-signin-recovery.com CNAME .
 *.accounts-google-signin-recovery.com CNAME .
+accounts.billingmicrosloft365.site CNAME .
+*.accounts.billingmicrosloft365.site CNAME .
 acounts-google.duckdns.org CNAME .
 *.acounts-google.duckdns.org CNAME .
 action-whatsapp.com CNAME .

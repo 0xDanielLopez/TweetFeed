@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2539
-# Updated: 2026-11-07T04:45:17Z
+# Entries: 2540
+# Updated: 2026-11-07T05:00:22Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -76,6 +76,7 @@
 0.0.0.0 account.webapi-whatsapp.com
 0.0.0.0 account.webstatici-whatsapp.com
 0.0.0.0 accounts-google-signin-recovery.com
+0.0.0.0 accounts.billingmicrosloft365.site
 0.0.0.0 acounts-google.duckdns.org
 0.0.0.0 action-whatsapp.com
 0.0.0.0 activekala.shop

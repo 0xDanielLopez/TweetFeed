@@ -1,7 +1,7 @@
 # TweetFeed blocklist - plain domain list (Pi-hole compatible)
 # Window: 30 days
-# Entries: 2539
-# Updated: 2026-11-07T04:45:17Z
+# Entries: 2540
+# Updated: 2026-11-07T05:00:22Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -76,6 +76,7 @@ account-booking.vercel.app
 account.webapi-whatsapp.com
 account.webstatici-whatsapp.com
 accounts-google-signin-recovery.com
+accounts.billingmicrosloft365.site
 acounts-google.duckdns.org
 action-whatsapp.com
 activekala.shop
