@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T04:15:23Z",
+ "generated_at": "2026-11-07T04:30:27Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -17,7 +17,7 @@
   "total": 57,
   "hashtag": 33,
   "account": 24,
-  "rows_last_24h": 465,
+  "rows_last_24h": 467,
   "dead_after_seconds": {
    "account": 2592000,
    "hashtag": null
@@ -61,8 +61,8 @@
    {
     "id": "byrne_emmy12099",
     "kind": "account",
-    "newest_item_at": "2026-11-03T11:45:00Z",
-    "rows_last_24h": 0,
+    "newest_item_at": "2026-11-07T04:22:00Z",
+    "rows_last_24h": 2,
     "dead_after_seconds": 2592000
    },
    {
@@ -428,97 +428,97 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
-   "rows": 6,
+   "rows": 8,
    "first_row": "2026-11-07 00:04:14",
-   "last_row": "2026-11-07 02:02:44",
+   "last_row": "2026-11-07 04:22:47",
    "data_stale_after_seconds": 28800
   },
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
-   "rows": 1789,
+   "rows": 1791,
    "first_row": "2026-11-01 01:05:51",
-   "last_row": "2026-11-07 02:02:44",
+   "last_row": "2026-11-07 04:22:47",
    "data_stale_after_seconds": 28800
   },
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
-   "rows": 8674,
+   "rows": 8676,
    "first_row": "2026-10-08 01:10:59",
-   "last_row": "2026-11-07 02:02:44",
+   "last_row": "2026-11-07 04:22:47",
    "data_stale_after_seconds": 28800
   },
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
-   "rows": 96214,
+   "rows": 96216,
    "first_row": "2025-11-08 00:34:32",
-   "last_row": "2026-11-07 02:02:44",
+   "last_row": "2026-11-07 04:22:47",
    "data_stale_after_seconds": 28800
   },
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-11-07T04:15:23Z",
+   "updated_at": "2026-11-07T04:30:27Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -526,7 +526,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-11-07T04:15:15Z",
+   "updated_at": "2026-11-07T04:30:19Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -534,7 +534,7 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-11-07T04:15:17Z",
+   "updated_at": "2026-11-07T04:30:21Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
