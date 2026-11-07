@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2538
-; Updated: 2026-11-07T03:45:20Z
+; Entries: 2539
+; Updated: 2026-11-07T04:45:17Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794023120 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794026717 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2474,6 +2474,8 @@ hoexq.cn CNAME .
 *.hoexq.cn CNAME .
 hollandhart.myssoauth.com CNAME .
 *.hollandhart.myssoauth.com CNAME .
+homegardenfocus.com CNAME .
+*.homegardenfocus.com CNAME .
 homehearthcooks.com CNAME .
 *.homehearthcooks.com CNAME .
 homes.vernonagent.com CNAME .
