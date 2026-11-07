@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2532
-; Updated: 2026-11-07T01:30:19Z
+; Entries: 2533
+; Updated: 2026-11-07T03:00:22Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794015019 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794020422 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2330,6 +2330,8 @@ gomescareerplans.com CNAME .
 *.gomescareerplans.com CNAME .
 gongzuo-whatsapp.com CNAME .
 *.gongzuo-whatsapp.com CNAME .
+goodsecomfinder.com CNAME .
+*.goodsecomfinder.com CNAME .
 googie-chrome.top CNAME .
 *.googie-chrome.top CNAME .
 google-play-store.duckdns.org CNAME .
