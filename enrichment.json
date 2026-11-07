@@ -1,5 +1,5 @@
 {
-  "count": 6365,
+  "count": 6356,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -597,20 +597,6 @@
       "tweet_id": "2115404510084407691",
       "type": "md5",
       "value": "0bed6030ebde445f332b005bb09c5a2a"
-    },
-    "0c0377aae222d23fa6c1bab5854d1fdc18de8412f9e352e04ee0ea98305a18c8": {
-      "confidence": 0.4,
-      "date": "2026-10-08 08:49:16",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious ISO file sample 'DX03_817.iso' reported on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2108117513577824475",
-      "type": "sha256",
-      "value": "0c0377aae222d23fa6c1bab5854d1fdc18de8412f9e352e04ee0ea98305a18c8"
     },
     "0c583234acc766ca445f9b159855e68773343675aa7c7f8ce24afbb5dbc0efa2": {
       "confidence": 0.45,
@@ -2861,22 +2847,6 @@
       "tweet_id": "2112901061375656068",
       "type": "ip",
       "value": "103.7.120.63"
-    },
-    "103.70.77.190": {
-      "confidence": 0.6,
-      "date": "2026-10-08 11:07:44",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "Silver Fox",
-      "suggested_tags": [
-        "malware",
-        "phishing",
-        "valleyrat"
-      ],
-      "summary": "Silver Fox tax-themed lure with a malicious PDF; associated domain and IP reported. Payload not retrievable as the host blocks VPN IPs.",
-      "threat_type": "malware",
-      "tweet_id": "2108152357955723766",
-      "type": "ip",
-      "value": "103.70.77.190"
     },
     "103.71.47.166": {
       "confidence": 0.5,
@@ -5404,36 +5374,6 @@
       "type": "ip",
       "value": "13.250.128.77"
     },
-    "13.37.72.210": {
-      "confidence": 0.55,
-      "date": "2026-10-08 09:52:56",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious JavaScript file posing as an SSA document, seen from the UK, with a TCP IP:port endpoint reported.",
-      "threat_type": "malware",
-      "tweet_id": "2108133533256438048",
-      "type": "ip",
-      "value": "13.37.72.210"
-    },
-    "13.37.72.210:8040": {
-      "confidence": 0.55,
-      "date": "2026-10-08 09:52:56",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious JavaScript file posing as an SSA document, seen from the UK, with a TCP IP:port endpoint reported.",
-      "threat_type": "malware",
-      "tweet_id": "2108133533256438048",
-      "type": "url",
-      "value": "http://13.37.72.210:8040"
-    },
     "130.12.180.32": {
       "confidence": 0.75,
       "date": "2026-10-14 14:52:56",
@@ -7834,22 +7774,6 @@
       "type": "ip",
       "value": "143.198.221.211"
     },
-    "143.246.43.122": {
-      "confidence": 0.6,
-      "date": "2026-10-08 11:26:56",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "Quest Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "IP address associated with a Quest Stealer panel, shared by researchers.",
-      "threat_type": "c2",
-      "tweet_id": "2108157190637007094",
-      "type": "ip",
-      "value": "143.246.43.122"
-    },
     "143.92.38.167": {
       "confidence": 0.85,
       "date": "2026-10-16 09:13:05",
@@ -7909,22 +7833,6 @@
       "tweet_id": "2109388761943417181",
       "type": "url",
       "value": "http://144.172.86.173"
-    },
-    "144.202.69.116": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "url",
-      "value": "http://144.202.69.116"
     },
     "144.202.75.159": {
       "confidence": 0.5,
@@ -15859,22 +15767,6 @@
       "type": "url",
       "value": "http://207.207.210.50"
     },
-    "207.246.102.127": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "url",
-      "value": "http://207.246.102.127"
-    },
     "207.56.26.230": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -17501,23 +17393,6 @@
       "tweet_id": "2116256547907281047",
       "type": "ip",
       "value": "26.2.1.9"
-    },
-    "26617bb88f08067374b25539281cb1be": {
-      "confidence": 0.85,
-      "date": "2026-10-08 11:29:30",
-      "enriched_at": "2026-10-08T18:40:03Z",
-      "family": "SONOMA Mac Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "SONOMA macOS stealer delivered as fake DocSend installer DMG, with C2 on a proxy08.com subdomain.",
-      "threat_type": "malware",
-      "tweet_id": "2108157834189807871",
-      "type": "md5",
-      "value": "26617bb88f08067374b25539281cb1be"
     },
     "269ad9fafbd5999483ad234a867beb4a7db0d55dea8b85bfbfe8ac163041b24d": {
       "confidence": 0.8,
@@ -29734,21 +29609,6 @@
       "type": "ip",
       "value": "45.148.10.95"
     },
-    "45.149.153.141": {
-      "confidence": 0.6,
-      "date": "2026-10-08 09:50:39",
-      "enriched_at": "2026-10-31T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Brazilian DANFE-themed JavaScript sample contacting duckdns domain hdhdandan.duckdns.org at 45.149.153.141.",
-      "threat_type": "malware",
-      "tweet_id": "2108132960855593389",
-      "type": "url",
-      "value": "http://45.149.153.141"
-    },
     "45.150.109.94": {
       "confidence": 0.85,
       "date": "2026-10-23 19:54:28",
@@ -30015,38 +29875,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "45.205.31.131"
-    },
-    "45.32.84.146": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "url",
-      "value": "http://45.32.84.146"
-    },
-    "45.32.92.147": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "url",
-      "value": "http://45.32.92.147"
     },
     "45.33.28.47": {
       "confidence": 0.5,
@@ -31201,6 +31029,22 @@
       "tweet_id": "2114993629844619388",
       "type": "md5",
       "value": "4da2429b8cde5e987a1f5b63e85e004e"
+    },
+    "4da4c4881e3a7eb3cb3571e1caf0f2c27a0f4e67cc7ccd638fa5381aa5d14d89": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "sha256",
+      "value": "4da4c4881e3a7eb3cb3571e1caf0f2c27a0f4e67cc7ccd638fa5381aa5d14d89"
     },
     "4dc4c0bdce7d711bd4160beebbfe67d64a65a5c083429cb222926d7bd095b353": {
       "confidence": 0.65,
@@ -33214,22 +33058,6 @@
       "tweet_id": "2114731726119268751",
       "type": "url",
       "value": "http://66.78.40.197"
-    },
-    "66.85.26.163": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "url",
-      "value": "http://66.85.26.163"
     },
     "67.207.95.101": {
       "confidence": 0.9,
@@ -37499,22 +37327,6 @@
       "type": "sha256",
       "value": "9683514cc99c80e7021849da4e9bd65d00c6d477f478589ea9aef522daed3c72"
     },
-    "96roafw91vs3hqv.top": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "96roafw91vs3hqv.top"
-    },
     "97.107.140.120": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -37948,22 +37760,6 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "9today-diwalisales.info"
-    },
-    "9xkcaayaagvr1p2.top": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "9xkcaayaagvr1p2.top"
     },
     "a018996931284020174aceb658a9ac11bb6d0007dc623088e0ad5ecf2db767f6": {
       "confidence": 0.6,
@@ -38444,22 +38240,6 @@
       "type": "sha256",
       "value": "a7a3c7b8287208f96fe451482db6cbff4e0af2bd839a16eda5aba1ac45c29774"
     },
-    "a7b6efc6b9229b9fa7915cbf609efd3be17ae538d4c163f340e303336a2107a4": {
-      "confidence": 0.8,
-      "date": "2026-10-08 10:05:48",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as PayPay, distributed from a Tailscale-hosted fake Google Play URL in a Japanese phishing campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2108136773583065500",
-      "type": "sha256",
-      "value": "a7b6efc6b9229b9fa7915cbf609efd3be17ae538d4c163f340e303336a2107a4"
-    },
     "a8114e4adcd6063cd6315fa142231b0f": {
       "confidence": 0.85,
       "date": "2026-10-13 05:18:49",
@@ -38737,22 +38517,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "abkweb-whatsapp.com"
-    },
-    "abret.org": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "abret.org"
     },
     "ac661f983a128e7c758acb746b2f6636bc333755f185994fbfb00f19bf7d5f99": {
       "confidence": 0.6,
@@ -39057,22 +38821,6 @@
       "type": "domain",
       "value": "action-whatsapp.com"
     },
-    "activekala.shop": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "activekala.shop"
-    },
     "acxjixsd.ltd": {
       "confidence": 0.2,
       "date": "2026-10-26 21:28:48",
@@ -39101,20 +38849,6 @@
       "tweet_id": "2110434672446779465",
       "type": "sha256",
       "value": "ad0d08d54c9bbe2309bb7a8ae92def8a04297d0238f2799764d93929b57cbd5f"
-    },
-    "ad4058f2052a58585c9f96727b6b781f3657814de517f07943a4d7645d5ca9a7": {
-      "confidence": 0.5,
-      "date": "2026-10-08 08:52:19",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious batch file disguised as a clothing order list, seen from Thailand.",
-      "threat_type": "malware",
-      "tweet_id": "2108118281223602239",
-      "type": "sha256",
-      "value": "ad4058f2052a58585c9f96727b6b781f3657814de517f07943a4d7645d5ca9a7"
     },
     "add-mfa.com": {
       "confidence": 0.85,
@@ -39174,22 +38908,6 @@
       "tweet_id": "2118640538286985396",
       "type": "domain",
       "value": "addyourpasskey.com"
-    },
-    "admin-heteml.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "admin-heteml.com"
     },
     "admin.model-point.click": {
       "confidence": 0.2,
@@ -48251,36 +47969,6 @@
       "type": "domain",
       "value": "appsec-whatsapp.com"
     },
-    "appsflyer.okta-ssolink.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:07:46",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected UNC6671 phishing infrastructure impersonating Okta SSO, using three look-alike root domains and brand-themed subdomains registered Oct 2 via NICENIC.",
-      "threat_type": "phishing",
-      "tweet_id": "2108167465050009657",
-      "type": "domain",
-      "value": "appsflyer.okta-ssolink.com"
-    },
-    "apricot-ladder.com": {
-      "confidence": 0.9,
-      "date": "2026-10-08 11:11:16",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "AdaptixC2",
-      "suggested_tags": [
-        "adaptixc2",
-        "c2",
-        "malware"
-      ],
-      "summary": "Adaptix C2 beacon sample 'msptl.exe' seen from Ireland, communicating with a reported C2 domain.",
-      "threat_type": "c2",
-      "tweet_id": "2108153246686548312",
-      "type": "domain",
-      "value": "apricot-ladder.com"
-    },
     "ar-ae.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -49483,21 +49171,6 @@
       "type": "domain",
       "value": "battledansuli.com"
     },
-    "bb2ccf7ba771c1f4ed4a93421e5e35334fe771e8f9444627abbc2f744414ce63": {
-      "confidence": 0.55,
-      "date": "2026-10-08 09:52:56",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious JavaScript file posing as an SSA document, seen from the UK, with a TCP IP:port endpoint reported.",
-      "threat_type": "malware",
-      "tweet_id": "2108133533256438048",
-      "type": "sha256",
-      "value": "bb2ccf7ba771c1f4ed4a93421e5e35334fe771e8f9444627abbc2f744414ce63"
-    },
     "bb735d3a4e31267b01ce3c5e040dc94e4a32bef544eeb1cac1bf19d7abf9cee0": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -49559,22 +49232,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "bc.ailingk.xyz"
-    },
-    "bca5fb13c7b1732b75492e986f517c671dcd20e6ec0281d47cbe03ddb37ccb4e": {
-      "confidence": 0.9,
-      "date": "2026-10-08 11:11:16",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "AdaptixC2",
-      "suggested_tags": [
-        "adaptixc2",
-        "c2",
-        "malware"
-      ],
-      "summary": "Adaptix C2 beacon sample 'msptl.exe' seen from Ireland, communicating with a reported C2 domain.",
-      "threat_type": "c2",
-      "tweet_id": "2108153246686548312",
-      "type": "sha256",
-      "value": "bca5fb13c7b1732b75492e986f517c671dcd20e6ec0281d47cbe03ddb37ccb4e"
     },
     "bcncdncl-ns.beer": {
       "confidence": 0.9,
@@ -53762,6 +53419,194 @@
       "type": "domain",
       "value": "caunchriva.click"
     },
+    "cb-customa.com": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "domain",
+      "value": "cb-customa.com"
+    },
+    "cb-customa.com/downcb": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "url",
+      "value": "https://cb-customa.com/downcb"
+    },
+    "cb-customb.com": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "domain",
+      "value": "cb-customb.com"
+    },
+    "cb-customb.com/downcb": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "url",
+      "value": "https://cb-customb.com/downcb"
+    },
+    "cb-customc.com": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "domain",
+      "value": "cb-customc.com"
+    },
+    "cb-customc.com/downcb": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "url",
+      "value": "https://cb-customc.com/downcb"
+    },
+    "cb-customd.com": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "domain",
+      "value": "cb-customd.com"
+    },
+    "cb-customd.com/downcb": {
+      "confidence": 0.7,
+      "date": "2026-11-07 09:18:56",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as an online refund system, distributed via four domains with a /downcb path; a sample hash is provided.",
+      "threat_type": "malware",
+      "tweet_id": "2118996613377212533",
+      "type": "url",
+      "value": "https://cb-customd.com/downcb"
+    },
+    "cb-oiuwalsdd.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:19:18",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Two domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118996705429635435",
+      "type": "domain",
+      "value": "cb-oiuwalsdd.com"
+    },
+    "cb-oiuwalsdd.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:19:18",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Two domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118996705429635435",
+      "type": "url",
+      "value": "https://cb-oiuwalsdd.com/downcb"
+    },
+    "cb-woiuuasd.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:19:18",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Two domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118996705429635435",
+      "type": "domain",
+      "value": "cb-woiuuasd.com"
+    },
+    "cb-woiuuasd.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:19:18",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Two domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118996705429635435",
+      "type": "url",
+      "value": "https://cb-woiuuasd.com/downcb"
+    },
     "cb1ae1ed0a7b6fd0ed47301c1738bd7233b7142c88e632ec64f0fa92f376b4f5": {
       "confidence": 0.55,
       "date": "2026-10-15 18:17:18",
@@ -54146,22 +53991,6 @@
       "tweet_id": "2113503087054799198",
       "type": "url",
       "value": "https://certificazi.one/galicia-personas/"
-    },
-    "cf-cdn.viktorkraynov.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "cf-cdn.viktorkraynov.com"
     },
     "cf4f6617c22c00b230c6e9221163c26e1a8ac70e8dec5d0a71095afb992d42c5": {
       "confidence": 0.7,
@@ -58712,23 +58541,6 @@
       "type": "domain",
       "value": "docs.webapi-whatsapp.com"
     },
-    "docsend.proxy08.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 11:29:30",
-      "enriched_at": "2026-10-08T18:40:03Z",
-      "family": "SONOMA Mac Stealer",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "SONOMA macOS stealer delivered as fake DocSend installer DMG, with C2 on a proxy08.com subdomain.",
-      "threat_type": "malware",
-      "tweet_id": "2108157834189807871",
-      "type": "domain",
-      "value": "docsend.proxy08.com"
-    },
     "docsewallet.com": {
       "confidence": 0.85,
       "date": "2026-10-16 05:14:57",
@@ -59458,21 +59270,6 @@
       "type": "md5",
       "value": "e1671e3fbb0e4e97577b42253ef622b2"
     },
-    "e167731c803d881dee8ff37ab793e1d8c58ab1eb109eee561e323454206ae20d": {
-      "confidence": 0.55,
-      "date": "2026-10-08 09:50:39",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Malicious JavaScript posing as a Brazilian DANFE invoice, seen from Brazil, tied to a DuckDNS domain and IP.",
-      "threat_type": "malware",
-      "tweet_id": "2108132960855593389",
-      "type": "sha256",
-      "value": "e167731c803d881dee8ff37ab793e1d8c58ab1eb109eee561e323454206ae20d"
-    },
     "e169bd066b4532515844045497fe9d42ed26a15bf236d1f1a2b64573f5717b7d": {
       "confidence": 0.6,
       "date": "2026-10-29 12:19:29",
@@ -59977,22 +59774,6 @@
       "tweet_id": "2117635368405131759",
       "type": "sha256",
       "value": "ec69264f4a445875a94feb2e0a20de4b4d83b92f4fcca31a33fb7de3b387f265"
-    },
-    "ec832c3ad772111081ba21e35aca3bb0": {
-      "confidence": 0.8,
-      "date": "2026-10-08 11:25:45",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "MioLab",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "MioLab macOS stealer delivered as OwlFocus_1.2.0.dmg, with a C2 domain reported.",
-      "threat_type": "malware",
-      "tweet_id": "2108156892333670522",
-      "type": "md5",
-      "value": "ec832c3ad772111081ba21e35aca3bb0"
     },
     "ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12": {
       "confidence": 0.55,
@@ -63914,22 +63695,6 @@
       "type": "domain",
       "value": "future-whatsapp.com"
     },
-    "fw-static.nashbashracing.org": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "fw-static.nashbashracing.org"
-    },
     "fwhkn.cn": {
       "confidence": 0.88,
       "date": "2026-10-19 02:07:34",
@@ -64923,38 +64688,6 @@
       "type": "domain",
       "value": "googlemeeeeet.live"
     },
-    "googleplay.tail017acc.ts.net": {
-      "confidence": 0.8,
-      "date": "2026-10-08 10:05:48",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as PayPay, distributed from a Tailscale-hosted fake Google Play URL in a Japanese phishing campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2108136773583065500",
-      "type": "domain",
-      "value": "googleplay.tail017acc.ts.net"
-    },
-    "googleplay.tail017acc.ts.net/d/506aa4934ca560966f744d759712de8f": {
-      "confidence": 0.8,
-      "date": "2026-10-08 10:05:48",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as PayPay, distributed from a Tailscale-hosted fake Google Play URL in a Japanese phishing campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2108136773583065500",
-      "type": "url",
-      "value": "https://googleplay.tail017acc.ts.net/d/506aa4934ca560966f744d759712de8f"
-    },
     "gosidefastandpure.com": {
       "confidence": 0.8,
       "date": "2026-10-24 08:33:03",
@@ -65604,21 +65337,6 @@
       "type": "domain",
       "value": "hcnksadcn.cc"
     },
-    "hdhdandan.duckdns.org": {
-      "confidence": 0.6,
-      "date": "2026-10-08 09:50:39",
-      "enriched_at": "2026-10-31T00:40:03Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "Brazilian DANFE-themed JavaScript sample contacting duckdns domain hdhdandan.duckdns.org at 45.149.153.141.",
-      "threat_type": "malware",
-      "tweet_id": "2108132960855593389",
-      "type": "domain",
-      "value": "hdhdandan.duckdns.org"
-    },
     "health3.flex-haven.click": {
       "confidence": 0.2,
       "date": "2026-11-05 19:33:39",
@@ -66012,20 +65730,6 @@
       "tweet_id": "2109770913336156252",
       "type": "domain",
       "value": "hoexq.cn"
-    },
-    "hollandhart.myssoauth.com": {
-      "confidence": 0.8,
-      "date": "2026-10-08 08:16:52",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "UNC6671 infrastructure update: hostname spoofing law firm Holland & Hart with an SSO/authentication theme, undetected at observation.",
-      "threat_type": "phishing",
-      "tweet_id": "2108109360065122491",
-      "type": "domain",
-      "value": "hollandhart.myssoauth.com"
     },
     "homegardenfocus.com": {
       "confidence": 0.9,
@@ -68155,22 +67859,6 @@
       "type": "url",
       "value": "https://jr-east.52hysmj.com/NeAbcbyy/"
     },
-    "js-stable.pupplements.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "js-stable.pupplements.com"
-    },
     "jskmarketings.com": {
       "confidence": 0.8,
       "date": "2026-10-09 04:03:07",
@@ -69049,6 +68737,36 @@
       "type": "domain",
       "value": "labweb-whatsapp.com"
     },
+    "ladygirl-series.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "ladygirl-series.com"
+    },
+    "ladygirl-series.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://ladygirl-series.com/downcb"
+    },
     "lake-90.com": {
       "confidence": 0.85,
       "date": "2026-10-09 13:25:30",
@@ -69239,23 +68957,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "level-whatsapp.com"
-    },
-    "lewokodwqko.icu": {
-      "confidence": 0.85,
-      "date": "2026-10-08 11:25:45",
-      "enriched_at": "2026-11-07T00:40:04Z",
-      "family": "MioLab",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware",
-        "c2"
-      ],
-      "summary": "MioLab macOS stealer distributed as OwlFocus_1.2.0.dmg, with C2 at lewokodwqko.icu.",
-      "threat_type": "malware",
-      "tweet_id": "2108156892333670522",
-      "type": "domain",
-      "value": "lewokodwqko.icu"
     },
     "lexer-whatsapp.com": {
       "confidence": 0.65,
@@ -69518,6 +69219,36 @@
       "tweet_id": "2112326062575333635",
       "type": "domain",
       "value": "lityoq.cn"
+    },
+    "liuwamksdas.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "liuwamksdas.com"
+    },
+    "liuwamksdas.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://liuwamksdas.com/downcb"
     },
     "live-join-meet.l4-l4.site": {
       "confidence": 0.8,
@@ -70190,6 +69921,36 @@
       "type": "domain",
       "value": "macro-whatsapp.com"
     },
+    "madeofinkandiron.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "madeofinkandiron.com"
+    },
+    "madeofinkandiron.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://madeofinkandiron.com/downcb"
+    },
     "maga-zine-luiza.com": {
       "confidence": 0.85,
       "date": "2026-10-17 11:10:42",
@@ -70612,22 +70373,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "match-whatsapp.com"
-    },
-    "match.sitefulia.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "match.sitefulia.com"
     },
     "materialdeconstrucaoalves.com": {
       "confidence": 0.8,
@@ -71872,6 +71617,36 @@
       "tweet_id": "2116886819283538133",
       "type": "url",
       "value": "https://movecogi.z16.web.core.windows.net/cvpbqha/"
+    },
+    "moyora.live": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "moyora.live"
+    },
+    "moyora.live/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://moyora.live/downcb"
     },
     "mqpml.cn": {
       "confidence": 0.8,
@@ -73277,48 +73052,6 @@
       "type": "url",
       "value": "https://ojsdocument.blob.core.windows.net/scanfile/officejimdosedja.pdf"
     },
-    "okta-linksso.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:07:46",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected UNC6671 phishing infrastructure impersonating Okta SSO, using three look-alike root domains and brand-themed subdomains registered Oct 2 via NICENIC.",
-      "threat_type": "phishing",
-      "tweet_id": "2108167465050009657",
-      "type": "domain",
-      "value": "okta-linksso.com"
-    },
-    "okta-signinsso.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:07:46",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected UNC6671 phishing infrastructure impersonating Okta SSO, using three look-alike root domains and brand-themed subdomains registered Oct 2 via NICENIC.",
-      "threat_type": "phishing",
-      "tweet_id": "2108167465050009657",
-      "type": "domain",
-      "value": "okta-signinsso.com"
-    },
-    "okta-ssolink.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:07:46",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected UNC6671 phishing infrastructure impersonating Okta SSO, using three look-alike root domains and brand-themed subdomains registered Oct 2 via NICENIC.",
-      "threat_type": "phishing",
-      "tweet_id": "2108167465050009657",
-      "type": "domain",
-      "value": "okta-ssolink.com"
-    },
     "okx-whatsaop.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -74026,6 +73759,36 @@
       "type": "domain",
       "value": "pairing.webstatici-whatsapp.com"
     },
+    "paiwdlasd.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "paiwdlasd.com"
+    },
+    "paiwdlasd.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://paiwdlasd.com/downcb"
+    },
     "parse-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -74337,6 +74100,36 @@
       "type": "domain",
       "value": "phppatcher.com"
     },
+    "pinkgirl-tv.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "pinkgirl-tv.com"
+    },
+    "pinkgirl-tv.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://pinkgirl-tv.com/downcb"
+    },
     "pipe-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -74575,6 +74368,126 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "podnode-whatsapp.com"
+    },
+    "poijkukasdd.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "domain",
+      "value": "poijkukasdd.com"
+    },
+    "poijkukasdd.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:31:46",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Seven domains hosting a /downcb path, tagged phishing and malware by the reporter; likely a phishing or malware distribution campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999843771425078",
+      "type": "url",
+      "value": "https://poijkukasdd.com/downcb"
+    },
+    "poiwalsdas.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:32:11",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Three domains serving a /downcb path, tagged as phishing and malware by the reporter; likely a malicious download or phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999948138348926",
+      "type": "domain",
+      "value": "poiwalsdas.com"
+    },
+    "poiwalsdas.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:32:11",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Three domains serving a /downcb path, tagged as phishing and malware by the reporter; likely a malicious download or phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999948138348926",
+      "type": "url",
+      "value": "https://poiwalsdas.com/downcb"
+    },
+    "poiwamsda.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:32:11",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Three domains serving a /downcb path, tagged as phishing and malware by the reporter; likely a malicious download or phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999948138348926",
+      "type": "domain",
+      "value": "poiwamsda.com"
+    },
+    "poiwamsda.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:32:11",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Three domains serving a /downcb path, tagged as phishing and malware by the reporter; likely a malicious download or phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999948138348926",
+      "type": "url",
+      "value": "https://poiwamsda.com/downcb"
+    },
+    "pokikwasd.com": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:32:11",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Three domains serving a /downcb path, tagged as phishing and malware by the reporter; likely a malicious download or phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999948138348926",
+      "type": "domain",
+      "value": "pokikwasd.com"
+    },
+    "pokikwasd.com/downcb": {
+      "confidence": 0.55,
+      "date": "2026-11-07 09:32:11",
+      "enriched_at": "2026-11-07T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "malware"
+      ],
+      "summary": "Three domains serving a /downcb path, tagged as phishing and malware by the reporter; likely a malicious download or phishing campaign.",
+      "threat_type": "phishing",
+      "tweet_id": "2118999948138348926",
+      "type": "url",
+      "value": "https://pokikwasd.com/downcb"
     },
     "polaternaert.top": {
       "confidence": 0.8,
@@ -75859,20 +75772,6 @@
       "type": "url",
       "value": "https://railforgefootplate.com/disclaimers.txt"
     },
-    "rainxyz.okta-signinsso.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:07:46",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected UNC6671 phishing infrastructure impersonating Okta SSO, using three look-alike root domains and brand-themed subdomains registered Oct 2 via NICENIC.",
-      "threat_type": "phishing",
-      "tweet_id": "2108167465050009657",
-      "type": "domain",
-      "value": "rainxyz.okta-signinsso.com"
-    },
     "rakuten-banks.top": {
       "confidence": 0.9,
       "date": "2026-10-27 14:25:34",
@@ -76157,20 +76056,6 @@
       "tweet_id": "2116277258025595339",
       "type": "url",
       "value": "https://redjaxfire.com/nfront.php"
-    },
-    "redsun.live": {
-      "confidence": 0.7,
-      "date": "2026-10-08 08:59:47",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory reported at a web host, potentially exposing malicious files.",
-      "threat_type": "other",
-      "tweet_id": "2108120159428956185",
-      "type": "domain",
-      "value": "redsun.live"
     },
     "reg.v-panel.asia": {
       "confidence": 0.9,
@@ -79751,22 +79636,6 @@
       "tweet_id": "2112978404995960872",
       "type": "domain",
       "value": "status.webstatici-whatsapp.com"
-    },
-    "stcdn.yuriykraynov.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:14:50",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": "SocGholish",
-      "suggested_tags": [
-        "malware",
-        "malvertising",
-        "trojan"
-      ],
-      "summary": "SocGholish/FakeUpdates (TA2726) campaign using compromised sites and low-detection staging domains and IPs to deliver fake browser update payloads.",
-      "threat_type": "malware",
-      "tweet_id": "2108169246240911697",
-      "type": "domain",
-      "value": "stcdn.yuriykraynov.com"
     },
     "stellasallaku.com": {
       "confidence": 0.85,
@@ -86329,20 +86198,6 @@
       "type": "domain",
       "value": "wiredrum.llc"
     },
-    "withpersona.okta-linksso.com": {
-      "confidence": 0.85,
-      "date": "2026-10-08 12:07:46",
-      "enriched_at": "2026-10-08T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Suspected UNC6671 phishing infrastructure impersonating Okta SSO, using three look-alike root domains and brand-themed subdomains registered Oct 2 via NICENIC.",
-      "threat_type": "phishing",
-      "tweet_id": "2108167465050009657",
-      "type": "domain",
-      "value": "withpersona.okta-linksso.com"
-    },
     "wizardexpensive.com": {
       "confidence": 0.8,
       "date": "2026-10-25 12:43:11",
@@ -89052,6 +88907,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-07T06:40:04Z",
+  "generated_at": "2026-11-07T12:40:04Z",
   "window_days": 30
 }
