@@ -1,9 +1,9 @@
 # TweetFeed blocklist - plain domain list, corroborated subset (Pi-hole compatible)
 # Window: 30 days
-# Entries: 160
-# Updated: 2026-11-07T00:00:29Z
+# Entries: 161
+# Updated: 2026-11-07T01:30:19Z
 # Subset of domains.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-11-06T19:25:21Z
+# Cross-check refreshed: 2026-11-07T01:25:27Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -172,3 +172,4 @@ zmngfjl.fun
 zt171.eu.cc
 zttrych.icu
 zvh4.com
+zz.aiapi2025.top
