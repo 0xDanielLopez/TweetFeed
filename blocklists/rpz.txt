@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2540
-; Updated: 2026-11-07T05:00:22Z
+; Entries: 2556
+; Updated: 2026-11-07T09:45:21Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794027622 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794044721 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1284,6 +1284,18 @@ casteismaxo.click CNAME .
 *.casteismaxo.click CNAME .
 caunchriva.click CNAME .
 *.caunchriva.click CNAME .
+cb-customa.com CNAME .
+*.cb-customa.com CNAME .
+cb-customb.com CNAME .
+*.cb-customb.com CNAME .
+cb-customc.com CNAME .
+*.cb-customc.com CNAME .
+cb-customd.com CNAME .
+*.cb-customd.com CNAME .
+cb-oiuwalsdd.com CNAME .
+*.cb-oiuwalsdd.com CNAME .
+cb-woiuuasd.com CNAME .
+*.cb-woiuuasd.com CNAME .
 ccloudbeds.com CNAME .
 *.ccloudbeds.com CNAME .
 cdn-edge-f3f85b.netlify.app CNAME .
@@ -2820,6 +2832,8 @@ labuse-whatsapp.com CNAME .
 *.labuse-whatsapp.com CNAME .
 labweb-whatsapp.com CNAME .
 *.labweb-whatsapp.com CNAME .
+ladygirl-series.com CNAME .
+*.ladygirl-series.com CNAME .
 lake-90.com CNAME .
 *.lake-90.com CNAME .
 latest-whatsapp.com CNAME .
@@ -2872,6 +2886,8 @@ linksync-whatsapp.com CNAME .
 *.linksync-whatsapp.com CNAME .
 lityoq.cn CNAME .
 *.lityoq.cn CNAME .
+liuwamksdas.com CNAME .
+*.liuwamksdas.com CNAME .
 live-join-meet.l4-l4.site CNAME .
 *.live-join-meet.l4-l4.site CNAME .
 liveeee365.dothome.co.kr CNAME .
@@ -2952,6 +2968,8 @@ mackdentistr-jp.com CNAME .
 *.mackdentistr-jp.com CNAME .
 macro-whatsapp.com CNAME .
 *.macro-whatsapp.com CNAME .
+madeofinkandiron.com CNAME .
+*.madeofinkandiron.com CNAME .
 maga-zine-luiza.com CNAME .
 *.maga-zine-luiza.com CNAME .
 magic-whatsapp.com CNAME .
@@ -3146,6 +3164,8 @@ mossypinediwali.online CNAME .
 *.mossypinediwali.online CNAME .
 movecogi.z16.web.core.windows.net CNAME .
 *.movecogi.z16.web.core.windows.net CNAME .
+moyora.live CNAME .
+*.moyora.live CNAME .
 mqpml.cn CNAME .
 *.mqpml.cn CNAME .
 mrssfq.cn CNAME .
@@ -3392,6 +3412,8 @@ painternc.com CNAME .
 *.painternc.com CNAME .
 pairing.webstatici-whatsapp.com CNAME .
 *.pairing.webstatici-whatsapp.com CNAME .
+paiwdlasd.com CNAME .
+*.paiwdlasd.com CNAME .
 parse-whatsapp.com CNAME .
 *.parse-whatsapp.com CNAME .
 passkeycreate.com CNAME .
@@ -3432,6 +3454,8 @@ php-web-server--unitmexi.replit.app CNAME .
 *.php-web-server--unitmexi.replit.app CNAME .
 phppatcher.com CNAME .
 *.phppatcher.com CNAME .
+pinkgirl-tv.com CNAME .
+*.pinkgirl-tv.com CNAME .
 pipe-whatsapp.com CNAME .
 *.pipe-whatsapp.com CNAME .
 pipeline-whatsapp.com CNAME .
@@ -3460,6 +3484,14 @@ pobruog.wiki CNAME .
 *.pobruog.wiki CNAME .
 podnode-whatsapp.com CNAME .
 *.podnode-whatsapp.com CNAME .
+poijkukasdd.com CNAME .
+*.poijkukasdd.com CNAME .
+poiwalsdas.com CNAME .
+*.poiwalsdas.com CNAME .
+poiwamsda.com CNAME .
+*.poiwamsda.com CNAME .
+pokikwasd.com CNAME .
+*.pokikwasd.com CNAME .
 polaternaert.top CNAME .
 *.polaternaert.top CNAME .
 policyadvisordesk.info CNAME .
