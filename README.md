@@ -55,7 +55,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-07 03:30:19 (UTC)</th>
+        <th colspan=4>2026-11-07 03:45:21 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -188,10 +188,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 3 | 647 | 3125 | 44539 |
-| **:globe_with_meridians: Domains** | 3 | 558 | 2629 | 38344 |
-| **:triangular_flag_on_post: IPs** | 0 | 337 | 2230 | 8052 |
-| **:1234: SHA256** | 0 | 201 | 555 | 3197 |
+| **:link: URLs** | 3 | 654 | 3132 | 44546 |
+| **:globe_with_meridians: Domains** | 3 | 564 | 2635 | 38350 |
+| **:triangular_flag_on_post: IPs** | 0 | 342 | 2235 | 8057 |
+| **:1234: SHA256** | 0 | 203 | 557 | 3199 |
 | **:1234: MD5** | 0 | 26 | 115 | 2062 |
 
 </div>
@@ -210,7 +210,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 | **#DPRK** | 0 | 0 | 20 | 11687 |
 | **#malware** | 0 | 128 | 1124 | 4144 |
 | **#scam** | 0 | 2 | 40 | 2962 |
-| **#C2** | 0 | 46 | 135 | 2199 |
+| **#C2** | 0 | 56 | 145 | 2209 |
 | **#APT** | 0 | 20 | 51 | 1468 |
 | **#ClickFix** | 0 | 70 | 233 | 1185 |
 | **#ransomware** | 0 | 17 | 91 | 698 |

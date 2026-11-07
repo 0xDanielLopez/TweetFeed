@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2533
-; Updated: 2026-11-07T03:00:22Z
+; Entries: 2538
+; Updated: 2026-11-07T03:45:20Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794020422 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794023120 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -900,6 +900,8 @@ bkz-whatsapp.com CNAME .
 *.bkz-whatsapp.com CNAME .
 bla-whatsapp.com CNAME .
 *.bla-whatsapp.com CNAME .
+blackfalconcorex.com CNAME .
+*.blackfalconcorex.com CNAME .
 blb-whatsapp.com CNAME .
 *.blb-whatsapp.com CNAME .
 blc-whatsapp.com CNAME .
@@ -3572,6 +3574,8 @@ qnsonz.cn CNAME .
 *.qnsonz.cn CNAME .
 qooglo.com CNAME .
 *.qooglo.com CNAME .
+qorexa-labs.com CNAME .
+*.qorexa-labs.com CNAME .
 qr.webstatici-whatsapp.com CNAME .
 *.qr.webstatici-whatsapp.com CNAME .
 qtmweb-whatsapp.com CNAME .
@@ -4280,6 +4284,8 @@ t3389.workers.dev CNAME .
 *.t3389.workers.dev CNAME .
 t4uwm.tik-tok-18.com CNAME .
 *.t4uwm.tik-tok-18.com CNAME .
+ta8bounconnectfhn.ink CNAME .
+*.ta8bounconnectfhn.ink CNAME .
 table-whatsapp.com CNAME .
 *.table-whatsapp.com CNAME .
 tag-p.com CNAME .
@@ -4292,6 +4298,10 @@ taikakuu.com CNAME .
 *.taikakuu.com CNAME .
 tap-whatsapp.com CNAME .
 *.tap-whatsapp.com CNAME .
+tarboun65nnect.store CNAME .
+*.tarboun65nnect.store CNAME .
+tarbounconnect66.shop CNAME .
+*.tarbounconnect66.shop CNAME .
 task-hrec.vercel.app CNAME .
 *.task-hrec.vercel.app CNAME .
 tchan1.anuj.workers.dev CNAME .

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @midnight_comms</title>
+      <link>https://x.com/midnight_comms</link>
+      <description>IOCs shared by @midnight_comms and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card.png</url>
+         <title>TweetFeed - IOCs reported by @midnight_comms</title>
+         <link>https://x.com/midnight_comms</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/midnight_comms.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 07 Nov 2026 03:45:22 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>8e1df54237448c7cb541f5b3def932f4adf06474b00f82e6f197f0de00a2f134</title>
+         <link>https://x.com/midnight_comms/status/2118822043148046776</link>
+         <description>@midnight_comms | sha256 | 
+Value: 8e1df54237448c7cb541f5b3def932f4adf06474b00f82e6f197f0de00a2f134
+Tweet: https://x.com/midnight_comms/status/2118822043148046776</description>
+         <guid isPermaLink="false">8e1df54237448c7cb541f5b3def932f4adf06474b00f82e6f197f0de00a2f134</guid>
+         <pubDate>Fri, 06 Nov 2026 21:45:15 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>31.57.147.90</title>
+         <link>https://x.com/midnight_comms/status/2118817543247020437</link>
+         <description>@midnight_comms | ip | 
+Value: 31.57.147.90
+Tweet: https://x.com/midnight_comms/status/2118817543247020437</description>
+         <guid isPermaLink="false">31.57.147.90</guid>
+         <pubDate>Fri, 06 Nov 2026 21:27:22 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>
