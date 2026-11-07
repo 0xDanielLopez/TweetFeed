@@ -1,5 +1,5 @@
 {
-  "count": 6362,
+  "count": 6371,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -699,6 +699,22 @@
       "tweet_id": "2111052568411398539",
       "type": "domain",
       "value": "0xrpc.io"
+    },
+    "1.14.104.208": {
+      "confidence": 0.75,
+      "date": "2026-10-29 10:06:58",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": "Cobalt Strike",
+      "suggested_tags": [
+        "cobaltstrike",
+        "adaptixc2",
+        "c2"
+      ],
+      "summary": "Host 1.14.104.208 flagged as running AI autonomous pentest tools: Artex, CyberStrike AI, PentAGI, Adaptix C2 and Cobalt Strike.",
+      "threat_type": "c2",
+      "tweet_id": "2115747211887989207",
+      "type": "url",
+      "value": "http://1.14.104.208"
     },
     "1.14.146.76": {
       "confidence": 0.7,
@@ -5248,6 +5264,23 @@
       "tweet_id": "2115115324085596651",
       "type": "sha256",
       "value": "12bc5118d64a314f8c3f0308aa185d150a7ec9a261b2bc64185f75023e91b43d"
+    },
+    "12fe62717843afe2db77c31085f1c6984ec9aa76c8a517e0c91c02e00ae6fa33": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "sha256",
+      "value": "12fe62717843afe2db77c31085f1c6984ec9aa76c8a517e0c91c02e00ae6fa33"
     },
     "12today-diwalisales.icu": {
       "confidence": 0.75,
@@ -12498,21 +12531,6 @@
       "type": "domain",
       "value": "181818data1.icu"
     },
-    "182.255.46.118": {
-      "confidence": 0.6,
-      "date": "2026-10-07 21:44:46",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir",
-        "apt"
-      ],
-      "summary": "Open directory on a Hong Kong server used as infrastructure in a long intrusion campaign against Southeast Asian public sector; SoftEther VPN Bridge and SSH pivoting.",
-      "threat_type": "other",
-      "tweet_id": "2107950284156576028",
-      "type": "ip",
-      "value": "182.255.46.118"
-    },
     "184.154.245.42": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -15051,6 +15069,23 @@
       "tweet_id": "2118692641579970780",
       "type": "ip",
       "value": "200.9.154.68"
+    },
+    "201.3.225.56": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "url",
+      "value": "http://201.3.225.56"
     },
     "202.125.66.58": {
       "confidence": 0.5,
@@ -18659,6 +18694,34 @@
       "tweet_id": "2112454270553657714",
       "type": "ip",
       "value": "31.77.228.184"
+    },
+    "31.77.229.26": {
+      "confidence": 0.6,
+      "date": "2026-11-06 18:14:35",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": "PentAGI",
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory at 31.77.229.26:80 running PentAGI AI pentest tooling, routed via test-api.claude.gg, targeting rbxcrate.com with SSRF, IDOR and bypass attacks.",
+      "threat_type": "other",
+      "tweet_id": "2118769026331713793",
+      "type": "ip",
+      "value": "31.77.229.26"
+    },
+    "31.77.229.26:80": {
+      "confidence": 0.6,
+      "date": "2026-11-06 18:14:35",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": "PentAGI",
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory at 31.77.229.26:80 running PentAGI AI pentest tooling, routed via test-api.claude.gg, targeting rbxcrate.com with SSRF, IDOR and bypass attacks.",
+      "threat_type": "other",
+      "tweet_id": "2118769026331713793",
+      "type": "url",
+      "value": "http://31.77.229.26:80"
     },
     "312ccddffce813529d27c0962b140c031e6d7e8aa8eec3f4c6ada40d16d775d0": {
       "confidence": 0.95,
@@ -32769,6 +32832,20 @@
       "type": "ip",
       "value": "64.188.66.51"
     },
+    "64.20.61.134": {
+      "confidence": 0.5,
+      "date": "2026-11-03 22:15:30",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": "ARTEX",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "Large list of IP:port endpoints attributed to ARTEX, an AI-driven offensive tool, as reported by Threatbook; only one IP was extracted as an IOC.",
+      "threat_type": "c2",
+      "tweet_id": "2117742491029917723",
+      "type": "ip",
+      "value": "64.20.61.134"
+    },
     "64.224.17.108": {
       "confidence": 0.65,
       "date": "2026-10-24 09:01:00",
@@ -33470,22 +33547,6 @@
       "type": "sha256",
       "value": "6c700ca4e6d917c7aa9d964e98604a0349d9b8b4673df96a3f73a3d2d042635a"
     },
-    "6c7e8451fb1ef2be5410091bb0d5216dcd4a1b04771c04fd0fe432cf9194d3f6": {
-      "confidence": 0.7,
-      "date": "2026-10-07 23:33:09",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a Japanese phishing site at fyrestormic-jp.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2107977561716506894",
-      "type": "sha256",
-      "value": "6c7e8451fb1ef2be5410091bb0d5216dcd4a1b04771c04fd0fe432cf9194d3f6"
-    },
     "6cac9bcefb4daa20ee9b3a106ac1cb783f7f0242c1aff35f9f6dda1ffdcab2b9": {
       "confidence": 0.5,
       "date": "2026-10-26 21:46:52",
@@ -33500,6 +33561,23 @@
       "tweet_id": "2114836184698438112",
       "type": "sha256",
       "value": "6cac9bcefb4daa20ee9b3a106ac1cb783f7f0242c1aff35f9f6dda1ffdcab2b9"
+    },
+    "6cbec82d1344e9d602b38c7a3330964cb359791cae031bc264c255c41374c4e7": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "sha256",
+      "value": "6cbec82d1344e9d602b38c7a3330964cb359791cae031bc264c255c41374c4e7"
     },
     "6cc32a02ca0f729ee481c454128d1c16bcf5b4d5481b7c0b07d20adb2c96b91f": {
       "confidence": 0.45,
@@ -34114,6 +34192,23 @@
       "tweet_id": "2109055946949578753",
       "type": "sha256",
       "value": "7858c59e16f13aa313282b409596faf4d141493bbe9d79adcf92117f4dab2ebd"
+    },
+    "78b61346111e80eef8f06bd674b52cec5ced17a43b46b317865a83c8ee579a44": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "sha256",
+      "value": "78b61346111e80eef8f06bd674b52cec5ced17a43b46b317865a83c8ee579a44"
     },
     "79.110.49.17": {
       "confidence": 0.6,
@@ -36204,6 +36299,23 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "8a1db253cf95e71e091e9808743e594e7bca6ba3d45adb319f6307c52b50eed5"
+    },
+    "8a69c24b1eb03a0df3c0a277109bf9d2bb35d3492f301dbdb831476a45e647d9": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "sha256",
+      "value": "8a69c24b1eb03a0df3c0a277109bf9d2bb35d3492f301dbdb831476a45e647d9"
     },
     "8bc90c20c7a1b23920d979ea6e416024d92220ac1853d52d9a6bf47e958cf83f": {
       "confidence": 0.5,
@@ -53099,21 +53211,6 @@
       "type": "domain",
       "value": "c5ldzz07.onlinewebshop.net"
     },
-    "c7379839f369be77459456639443959b1760b4f0dae42e197a4099254d69f69c": {
-      "confidence": 0.5,
-      "date": "2026-10-07 20:40:45",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malicious executable posing as WiresharkPortable64 4.6.9 hosted on Azure blob storage, with an Azure Front Door domain contacted.",
-      "threat_type": "malware",
-      "tweet_id": "2107934172945731835",
-      "type": "sha256",
-      "value": "c7379839f369be77459456639443959b1760b4f0dae42e197a4099254d69f69c"
-    },
     "c741006e8d1c2f09e35fc4d71590aa21b5fbe7fe2b90cd9a701ae855b2745918": {
       "confidence": 0.5,
       "date": "2026-11-04 10:38:42",
@@ -60819,36 +60916,6 @@
       "type": "url",
       "value": "http://exodusathleticclub.com/wp-content/themes/wordpress/wordpress/WELLSFARGO%20OTP/Download%20File.html"
     },
-    "exopurple.blob.core.windows.net": {
-      "confidence": 0.5,
-      "date": "2026-10-07 20:40:45",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malicious executable posing as WiresharkPortable64 4.6.9 hosted on Azure blob storage, with an Azure Front Door domain contacted.",
-      "threat_type": "malware",
-      "tweet_id": "2107934172945731835",
-      "type": "domain",
-      "value": "exopurple.blob.core.windows.net"
-    },
-    "exopurple.blob.core.windows.net/download/wiresharkportable64_4.6.9.exe": {
-      "confidence": 0.5,
-      "date": "2026-10-07 20:40:45",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malicious executable posing as WiresharkPortable64 4.6.9 hosted on Azure blob storage, with an Azure Front Door domain contacted.",
-      "threat_type": "malware",
-      "tweet_id": "2107934172945731835",
-      "type": "url",
-      "value": "https://exopurple.blob.core.windows.net/download/WiresharkPortable64_4.6.9.exe"
-    },
     "expirience.click": {
       "confidence": 0.25,
       "date": "2026-10-10 19:50:55",
@@ -61896,22 +61963,6 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "fe2a2a0b9179b1d9d406a8a3f337643136eacc244b4223b9e5efbada985d1340"
-    },
-    "fe48212f4eefe77ea2883d6b6a7701d96e3a9e8956c9d2b687f90bf28c14d48c": {
-      "confidence": 0.7,
-      "date": "2026-10-07 23:45:07",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as the Recycle app, distributed via a Japanese phishing site at recycle.eu.cc.",
-      "threat_type": "phishing",
-      "tweet_id": "2107980570836029860",
-      "type": "sha256",
-      "value": "fe48212f4eefe77ea2883d6b6a7701d96e3a9e8956c9d2b687f90bf28c14d48c"
     },
     "fec4f301a1be36a42ec27208e13b5d1d3d0bbe0f1ab47bbab863a7ca9923c571": {
       "confidence": 0.8,
@@ -63995,22 +64046,6 @@
       "tweet_id": "2112294833557577834",
       "type": "domain",
       "value": "fx.j8l8.my"
-    },
-    "fyrestormic-jp.com": {
-      "confidence": 0.7,
-      "date": "2026-10-07 23:33:09",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware impersonating Rakuten, distributed via a Japanese phishing site at fyrestormic-jp.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2107977561716506894",
-      "type": "domain",
-      "value": "fyrestormic-jp.com"
     },
     "g.fetc-twqgov.com": {
       "confidence": 0.35,
@@ -68007,6 +68042,23 @@
       "type": "domain",
       "value": "joinushealth.com"
     },
+    "joinzoommeeting.online": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "domain",
+      "value": "joinzoommeeting.online"
+    },
     "joker-whatsapp.com": {
       "confidence": 0.65,
       "date": "2026-10-20 13:55:55",
@@ -69233,6 +69285,23 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "level-whatsapp.com"
+    },
+    "lewokodwqko.icu": {
+      "confidence": 0.85,
+      "date": "2026-10-08 11:25:45",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": "MioLab",
+      "suggested_tags": [
+        "stealer",
+        "infostealer",
+        "malware",
+        "c2"
+      ],
+      "summary": "MioLab macOS stealer distributed as OwlFocus_1.2.0.dmg, with C2 at lewokodwqko.icu.",
+      "threat_type": "malware",
+      "tweet_id": "2108156892333670522",
+      "type": "domain",
+      "value": "lewokodwqko.icu"
     },
     "lexer-whatsapp.com": {
       "confidence": 0.65,
@@ -71401,6 +71470,20 @@
       "tweet_id": "2114895482627801249",
       "type": "domain",
       "value": "miricanvas.com"
+    },
+    "missvalledeladrome.info": {
+      "confidence": 0.85,
+      "date": "2026-10-08 17:31:47",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing emails posing as Empire Today estimates route victims to missvalledeladrome.info from an unrelated sender; flagged by public TI providers.",
+      "threat_type": "phishing",
+      "tweet_id": "2108249009605501281",
+      "type": "domain",
+      "value": "missvalledeladrome.info"
     },
     "misuwh.com": {
       "confidence": 0.85,
@@ -76107,22 +76190,6 @@
       "tweet_id": "2106293721159582168",
       "type": "domain",
       "value": "recipebistro.com"
-    },
-    "recycle.eu.cc": {
-      "confidence": 0.7,
-      "date": "2026-10-07 23:45:07",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware"
-      ],
-      "summary": "Android malware masquerading as the Recycle app, distributed via a Japanese phishing site at recycle.eu.cc.",
-      "threat_type": "phishing",
-      "tweet_id": "2107980570836029860",
-      "type": "domain",
-      "value": "recycle.eu.cc"
     },
     "recycle.startmultimedia.com": {
       "confidence": 0.7,
@@ -82344,6 +82411,20 @@
       "type": "domain",
       "value": "terms.webapi-whatsapp.com"
     },
+    "test-api.claude.gg": {
+      "confidence": 0.6,
+      "date": "2026-11-06 18:14:35",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": "PentAGI",
+      "suggested_tags": [
+        "opendir"
+      ],
+      "summary": "Open directory at 31.77.229.26:80 running PentAGI AI pentest tooling, routed via test-api.claude.gg, targeting rbxcrate.com with SSRF, IDOR and bypass attacks.",
+      "threat_type": "other",
+      "tweet_id": "2118769026331713793",
+      "type": "domain",
+      "value": "test-api.claude.gg"
+    },
     "testenv-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -86265,21 +86346,6 @@
       "type": "url",
       "value": "http://win10pc.oss-cn-hongkong.aliyuncs.com/JPLocalOffice.zip"
     },
-    "winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net": {
-      "confidence": 0.5,
-      "date": "2026-10-07 20:40:45",
-      "enriched_at": "2026-10-08T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "trojan"
-      ],
-      "summary": "Malicious executable posing as WiresharkPortable64 4.6.9 hosted on Azure blob storage, with an Azure Front Door domain contacted.",
-      "threat_type": "malware",
-      "tweet_id": "2107934172945731835",
-      "type": "domain",
-      "value": "winatp-gw-neu-cdfwbue5cvdsfpa5.a02.azurefd.net"
-    },
     "windows.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -88772,6 +88838,57 @@
       "type": "domain",
       "value": "zoomjoinlive.com"
     },
+    "zoommeet.live": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "domain",
+      "value": "zoommeet.live"
+    },
+    "zoommeetcall.live": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "domain",
+      "value": "zoommeetcall.live"
+    },
+    "zoommeetcall.live/zoom_update.apk": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "url",
+      "value": "http://zoommeetcall.live/zoom_update.apk"
+    },
     "zoommeeting.click": {
       "confidence": 0.75,
       "date": "2026-10-31 03:36:44",
@@ -88813,6 +88930,23 @@
       "tweet_id": "2115861761886945723",
       "type": "domain",
       "value": "zoomwebmeet.icu"
+    },
+    "zoomworkplace.sbs": {
+      "confidence": 0.85,
+      "date": "2026-11-06 20:58:37",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing",
+        "trojan"
+      ],
+      "summary": "Fake Zoom meeting sites show a forced update prompt and deliver a malicious Android APK (Zoom_Update_5.17.11.apk) while simulating install progress.",
+      "threat_type": "malware",
+      "tweet_id": "2118810305870655976",
+      "type": "domain",
+      "value": "zoomworkplace.sbs"
     },
     "zqfancu.cn": {
       "confidence": 0.75,
@@ -88955,6 +89089,18 @@
       "type": "domain",
       "value": "zyxel.sh"
     },
+    "zz.aiapi2025.top": {
+      "confidence": 0.7,
+      "date": "2026-11-06 16:29:54",
+      "enriched_at": "2026-11-07T00:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Check Point found a Codex jailbreak that alters agent global instructions and Skills so the agent advertises an LLM gateway (zz.aiapi2025.top).",
+      "threat_type": "spam",
+      "tweet_id": "2118742684588458330",
+      "type": "domain",
+      "value": "zz.aiapi2025.top"
+    },
     "zzpwttke.cn": {
       "confidence": 0.75,
       "date": "2026-10-14 23:32:16",
@@ -89002,6 +89148,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-06T18:40:04Z",
+  "generated_at": "2026-11-07T00:40:04Z",
   "window_days": 30
 }
