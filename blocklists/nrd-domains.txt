@@ -1,10 +1,10 @@
 # TweetFeed blocklist - domains registered 30 days or less before they were reported
 # Window: 30 days
-# Entries: 1531
-# Updated: 2026-11-07T00:00:29Z
+# Entries: 1533
+# Updated: 2026-11-07T01:00:19Z
 # Domains whose registrable apex was created 30 days or less before the first TweetFeed report
 # Only apexes with a known RDAP creation date are considered (about 6 in 10 reported domains); a domain reported in the current tick can appear one tick later
-# Registration check refreshed: 2026-11-06T21:00:40Z
+# Registration check refreshed: 2026-11-07T00:45:32Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -218,6 +218,7 @@ ar-ae.webhwsapp-whatsapp.com
 ar-eg.webhwsapp-whatsapp.com
 ar-sa.webhwsapp-whatsapp.com
 ar.webhwsapp-whatsapp.com
+askthedocto-jp.com
 assign-key.com
 async-whatsapp.com
 audio-whatsapp.com
@@ -450,6 +451,7 @@ cheapmovies.sbs
 checkpoint-access.com
 checkyoursecurityfast.com
 christmasgif-jp.com
+cinemaclassics-jp.com
 clientapi-whatsapp.com
 clientcdn-whatsapp.com
 clientweb-whatsapp.com
