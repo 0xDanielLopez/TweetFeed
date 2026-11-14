@@ -1,5 +1,5 @@
 {
-  "count": 5823,
+  "count": 5811,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -11466,20 +11466,6 @@
       "tweet_id": "2110648242555998566",
       "type": "ip",
       "value": "179.0.179.195"
-    },
-    "179.61.227.82": {
-      "confidence": 0.85,
-      "date": "2026-10-15 04:42:17",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing site reported by a Japanese university; the dev.sbphototours.com URL redirects to a fake document-sharing page, received from IP 179.61.227.82.",
-      "threat_type": "phishing",
-      "tweet_id": "2110592071627415986",
-      "type": "ip",
-      "value": "179.61.227.82"
     },
     "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e": {
       "confidence": 0.5,
@@ -49425,21 +49411,6 @@
       "type": "domain",
       "value": "coctionbit.click"
     },
-    "cocuktekstil.com": {
-      "confidence": 0.7,
-      "date": "2026-10-15 01:41:24",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "phishing"
-      ],
-      "summary": "Website cocuktekstil.com flagged by a web malware scanner as a confirmed scam, tagged as phishing.",
-      "threat_type": "scam",
-      "tweet_id": "2110546552963858589",
-      "type": "domain",
-      "value": "cocuktekstil.com"
-    },
     "codebase.zip": {
       "confidence": 0.85,
       "date": "2026-11-11 10:21:49",
@@ -51249,34 +51220,6 @@
       "tweet_id": "2119631069527900496",
       "type": "domain",
       "value": "detan2go.web.app"
-    },
-    "dev.sbphototours.com": {
-      "confidence": 0.85,
-      "date": "2026-10-15 04:42:17",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing site reported by a Japanese university; the dev.sbphototours.com URL redirects to a fake document-sharing page, received from IP 179.61.227.82.",
-      "threat_type": "phishing",
-      "tweet_id": "2110592071627415986",
-      "type": "domain",
-      "value": "dev.sbphototours.com"
-    },
-    "dev.sbphototours.com/includes/companylogo.php?url=hxxps%3a%2f%2fdocumentonline.us/doc/fixed/?uid=aaaa@ex": {
-      "confidence": 0.85,
-      "date": "2026-10-15 04:42:17",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Email phishing site reported by a Japanese university; the dev.sbphototours.com URL redirects to a fake document-sharing page, received from IP 179.61.227.82.",
-      "threat_type": "phishing",
-      "tweet_id": "2110592071627415986",
-      "type": "url",
-      "value": "https://dev.sbphototours.com/includes/companyLogo.php?url=hxxps%3A%2F%2Fdocumentonline.us/doc/Fixed/?uid=aaaa@ex"
     },
     "devapi-whatsapp.com": {
       "confidence": 0.65,
@@ -57546,20 +57489,6 @@
       "type": "domain",
       "value": "flixzoom.cyou"
     },
-    "fllicensehealthpdf-viewer.vercel.app": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:51:06",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page on Vercel with an Adobe theme delivering a ScreenConnect RMM client installer from a ScreenConnect cloud instance.",
-      "threat_type": "phishing",
-      "tweet_id": "2110579189250433531",
-      "type": "domain",
-      "value": "fllicensehealthpdf-viewer.vercel.app"
-    },
     "flpoised.net": {
       "confidence": 0.7,
       "date": "2026-11-02 15:22:00",
@@ -60523,6 +60452,23 @@
       "tweet_id": "2117036975232332115",
       "type": "domain",
       "value": "huechura.firebaseapp.com"
+    },
+    "huipiaoxia-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-10-27 23:49:40",
+      "enriched_at": "2026-11-14T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware",
+        "trojan"
+      ],
+      "summary": "Android malware disguised as Japan's e-Tax service, distributed via phishing domain huipiaoxia-jp.com; a second lookalike domain is also mentioned.",
+      "threat_type": "malware",
+      "tweet_id": "2115229475822809290",
+      "type": "domain",
+      "value": "huipiaoxia-jp.com"
     },
     "hvbaqrat.cn": {
       "confidence": 0.75,
@@ -64428,34 +64374,6 @@
       "tweet_id": "2111240726738821316",
       "type": "domain",
       "value": "mamatambiensr-jp.com"
-    },
-    "manuelitellc.screenconnect.com": {
-      "confidence": 0.8,
-      "date": "2026-10-15 03:51:06",
-      "enriched_at": "2026-11-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on Vercel delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2110579189250433531",
-      "type": "domain",
-      "value": "manuelitellc.screenconnect.com"
-    },
-    "manuelitellc.screenconnect.com/bin/screenconnect.clientsetup.exe": {
-      "confidence": 0.8,
-      "date": "2026-10-15 03:51:06",
-      "enriched_at": "2026-11-06T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on Vercel delivering a ScreenConnect RMM client installer.",
-      "threat_type": "phishing",
-      "tweet_id": "2110579189250433531",
-      "type": "url",
-      "value": "https://manuelitellc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
     "manw-2ansn-smanqjk.xo.je": {
       "confidence": 0.5,
@@ -72013,34 +71931,6 @@
       "type": "domain",
       "value": "secure-xserver-89123.kurasoo.com"
     },
-    "secure.cornebrdjubf.top": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "domain",
-      "value": "secure.cornebrdjubf.top"
-    },
-    "secure.cornebrdjubf.top/bin/screenconnect.clientsetup.msi": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "url",
-      "value": "https://secure.cornebrdjubf.top/Bin/ScreenConnect.ClientSetup.msi"
-    },
     "secure.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -76220,34 +76110,6 @@
       "type": "domain",
       "value": "thedragonson-jp.com"
     },
-    "thegouldings.co.uk": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "domain",
-      "value": "thegouldings.co.uk"
-    },
-    "thegouldings.co.uk/m": {
-      "confidence": 0.85,
-      "date": "2026-10-15 03:34:31",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Adobe-themed phishing page on a compromised site delivering a ScreenConnect RMM MSI installer from secure.cornebrdjubf.top.",
-      "threat_type": "phishing",
-      "tweet_id": "2110575016995897595",
-      "type": "url",
-      "value": "https://thegouldings.co.uk/m/"
-    },
     "thegrillbible.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -76940,21 +76802,6 @@
       "tweet_id": "2116036561741533449",
       "type": "domain",
       "value": "trendcars.be"
-    },
-    "truenorthworks.fun": {
-      "confidence": 0.85,
-      "date": "2026-10-15 00:56:41",
-      "enriched_at": "2026-11-13T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing lure posing as a loan confirmation links to unrelated domain truenorthworks.fun, flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110535297499037806",
-      "type": "domain",
-      "value": "truenorthworks.fun"
     },
     "trueonlineshop.info": {
       "confidence": 0.88,
@@ -81126,20 +80973,6 @@
       "type": "domain",
       "value": "ykbweb-whatsapp.com"
     },
-    "yorkshiredatacentre.com": {
-      "confidence": 0.7,
-      "date": "2026-10-15 01:59:59",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Cloud-warning phishing lure from yorkshiredatacentre.com using a short link whose final destination host could not be verified.",
-      "threat_type": "phishing",
-      "tweet_id": "2110551226110919153",
-      "type": "domain",
-      "value": "yorkshiredatacentre.com"
-    },
     "you-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -82055,6 +81888,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-14T00:40:05Z",
+  "generated_at": "2026-11-14T06:40:04Z",
   "window_days": 30
 }
