@@ -1,5 +1,5 @@
 {
-  "count": 5845,
+  "count": 5823,
   "dead_tweets": {
     "2111212930066706900": {
       "attempts": 2,
@@ -5006,6 +5006,20 @@
       "type": "ip",
       "value": "13.250.128.77"
     },
+    "130.12.180.32": {
+      "confidence": 0.7,
+      "date": "2026-10-21 13:37:23",
+      "enriched_at": "2026-11-14T00:40:05Z",
+      "family": "PHP2SHELL",
+      "suggested_tags": [
+        "php2shell"
+      ],
+      "summary": "IP flagged as actively attempting opportunistic exploitation tied to PHP2SHELL, shared from a list of exploitation IPs in a threat detection feed.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2112901061375656068",
+      "type": "ip",
+      "value": "130.12.180.32"
+    },
     "130.211.106.14": {
       "confidence": 0.5,
       "date": "2026-10-21 13:37:23",
@@ -8257,38 +8271,6 @@
       "tweet_id": "2115776999704662329",
       "type": "url",
       "value": "http://153.56.168.27/xatli/login.php"
-    },
-    "153.75.247.94": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "ip",
-      "value": "153.75.247.94"
-    },
-    "153.75.247.94:80": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "url",
-      "value": "http://153.75.247.94:80"
     },
     "153.75.82.143": {
       "confidence": 0.75,
@@ -16917,23 +16899,6 @@
       "tweet_id": "2120296065786413373",
       "type": "sha256",
       "value": "28540eeb5699a192b011cd5804f8ec848db3b3822312c74cd80ccf9d169701e8"
-    },
-    "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "sha256",
-      "value": "2863aff28573c241781108f0447555a90c526b1ac588c942122c6eaa7f09ba45"
     },
     "28affd3d72889a2c15d33d3eebc320ff": {
       "confidence": 0.8,
@@ -35080,23 +35045,6 @@
       "type": "sha256",
       "value": "8c9254a4c2123e1483e5c4dd7ae9e1878fbfeaad06c095d5d61fa437fd194a08"
     },
-    "8c9c6d49b8792a1cc709d131bb3e18a48d87d410931c1dbb1532c0d47a4deaa7": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:41:59",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as e-Tax (Japan), distributed via phishing domains zhongjuxian-jp.com and huipiaoxia-jp.com; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110516499861680460",
-      "type": "sha256",
-      "value": "8c9c6d49b8792a1cc709d131bb3e18a48d87d410931c1dbb1532c0d47a4deaa7"
-    },
     "8d99f383de370fb1f25ccb701d3cccb055582fea03e9eef9684a642e822fd349": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -42182,22 +42130,6 @@
       "type": "domain",
       "value": "ar.webhwsapp-whatsapp.com"
     },
-    "arkgrup.com": {
-      "confidence": 0.85,
-      "date": "2026-10-14 22:24:14",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "fakecaptcha",
-        "malware"
-      ],
-      "summary": "Compromised site arkgrup.com shows a fake Cloudflare verification prompt (ClickFix) delivering a multi-stage malware routine.",
-      "threat_type": "malware",
-      "tweet_id": "2110496931231178853",
-      "type": "domain",
-      "value": "arkgrup.com"
-    },
     "aroqwxh.cn": {
       "confidence": 0.85,
       "date": "2026-10-15 23:25:14",
@@ -45722,34 +45654,6 @@
       "type": "domain",
       "value": "bor-whatsapp.com"
     },
-    "borshynel.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-14 23:37:26",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted on borshynel.cfd to steal login credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2110515355068314085",
-      "type": "domain",
-      "value": "borshynel.cfd"
-    },
-    "borshynel.cfd/identifier/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-14 23:37:26",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted on borshynel.cfd to steal login credentials.",
-      "threat_type": "phishing",
-      "tweet_id": "2110515355068314085",
-      "type": "url",
-      "value": "https://borshynel.cfd/identifier/#/index"
-    },
     "botchat-whatsapp.com": {
       "confidence": 0.7,
       "date": "2026-10-20 16:34:59",
@@ -45917,34 +45821,6 @@
       "tweet_id": "2112543337832227119",
       "type": "domain",
       "value": "branch-whatsapp.com"
-    },
-    "branthoven.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-15 00:35:33",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted at branthoven.cfd.",
-      "threat_type": "phishing",
-      "tweet_id": "2110529977871638930",
-      "type": "domain",
-      "value": "branthoven.cfd"
-    },
-    "branthoven.cfd/identifier/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-15 00:35:33",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Mitsubishi UFJ eSmart Securities, hosted at branthoven.cfd.",
-      "threat_type": "phishing",
-      "tweet_id": "2110529977871638930",
-      "type": "url",
-      "value": "https://branthoven.cfd/identifier/#/index"
     },
     "brave-whatsapp.com": {
       "confidence": 0.7,
@@ -54912,23 +54788,6 @@
       "type": "url",
       "value": "http://eqvpn.space:2083"
     },
-    "eroimijv.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "eroimijv.cn"
-    },
     "es-ar.webhwsapp-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -60665,23 +60524,6 @@
       "type": "domain",
       "value": "huechura.firebaseapp.com"
     },
-    "huipiaoxia-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:41:59",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as e-Tax (Japan), distributed via phishing domains zhongjuxian-jp.com and huipiaoxia-jp.com; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110516499861680460",
-      "type": "domain",
-      "value": "huipiaoxia-jp.com"
-    },
     "hvbaqrat.cn": {
       "confidence": 0.75,
       "date": "2026-10-20 23:11:21",
@@ -64852,23 +64694,6 @@
       "type": "domain",
       "value": "mbhhrx.sitmarks.xyz"
     },
-    "mdmtxhdb.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "mdmtxhdb.cn"
-    },
     "media.webapi-whatsapp.com": {
       "confidence": 0.85,
       "date": "2026-10-21 18:44:43",
@@ -65656,23 +65481,6 @@
       "type": "domain",
       "value": "ml.qcqfzx.com"
     },
-    "mlbysalw.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "mlbysalw.cn"
-    },
     "mlroweb.com": {
       "confidence": 0.85,
       "date": "2026-10-22 12:17:50",
@@ -66308,23 +66116,6 @@
       "tweet_id": "2112587844342649117",
       "type": "domain",
       "value": "nav-whatsapp.com"
-    },
-    "ncivhyvu.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "ncivhyvu.cn"
     },
     "negana.cc": {
       "confidence": 0.7,
@@ -67000,23 +66791,6 @@
       "type": "domain",
       "value": "ns2.monstadns.com"
     },
-    "nsjhkttv.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "nsjhkttv.cn"
-    },
     "ntp.reposync.to": {
       "confidence": 0.9,
       "date": "2026-10-22 16:34:39",
@@ -67045,23 +66819,6 @@
       "tweet_id": "2110633607232684124",
       "type": "domain",
       "value": "nxmpv.addbazaar.com"
-    },
-    "nxsugrsw.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "nxsugrsw.cn"
     },
     "nzctjvr.com": {
       "confidence": 0.7,
@@ -78201,23 +77958,6 @@
       "type": "url",
       "value": "https://vexolunara.cfd/drgsdfbdr/#/index"
     },
-    "vggkofmi.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "vggkofmi.cn"
-    },
     "vgyhtdxz.bond": {
       "confidence": 0.6,
       "date": "2026-11-10 16:38:42",
@@ -80042,20 +79782,6 @@
       "type": "domain",
       "value": "wi20a-1kkan-llam2.xo.je"
     },
-    "wickerlookoutdoorfurniture.com": {
-      "confidence": 0.8,
-      "date": "2026-10-15 00:00:45",
-      "enriched_at": "2026-11-12T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing email promoting a canvas-print discount from an unrelated furniture domain; sender flagged by public threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110521220877942805",
-      "type": "domain",
-      "value": "wickerlookoutdoorfurniture.com"
-    },
     "willkie.myssologin.com": {
       "confidence": 0.7,
       "date": "2026-10-16 07:53:32",
@@ -80815,22 +80541,6 @@
       "type": "url",
       "value": "http://www.webapi-whatsapp.com"
     },
-    "www.xionamiconm.com:8050/ws": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "url",
-      "value": "http://www.xionamiconm.com:8050/ws/"
-    },
     "www.youlovemybiba.com": {
       "confidence": 0.85,
       "date": "2026-10-23 21:55:03",
@@ -81027,22 +80737,6 @@
       "tweet_id": "2119932762010644537",
       "type": "domain",
       "value": "xinyaojiancai-jp.com"
-    },
-    "xionamiconm.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:59:13",
-      "enriched_at": "2026-10-15T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "apt",
-        "c2",
-        "malware"
-      ],
-      "summary": "New WebSockets backdoor likely targeting Iraq, with a staging server at 153.75.247.94:80 and a C2 at www.xionamiconm.com:8050/ws/.",
-      "threat_type": "c2",
-      "tweet_id": "2110490637070111188",
-      "type": "domain",
-      "value": "xionamiconm.com"
     },
     "xl.goja.click": {
       "confidence": 0.9,
@@ -81326,21 +81020,6 @@
       "tweet_id": "2112076633800614296",
       "type": "domain",
       "value": "yahoologin6700.blogspot.com"
-    },
-    "yamagatasilk.com": {
-      "confidence": 0.7,
-      "date": "2026-10-14 21:58:42",
-      "enriched_at": "2026-11-12T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Phishing email promoting a debt consolidation offer linking to yamagatasilk[.]com; sender flagged by threat intelligence providers.",
-      "threat_type": "phishing",
-      "tweet_id": "2110490506530808246",
-      "type": "domain",
-      "value": "yamagatasilk.com"
     },
     "ycfhfm.com": {
       "confidence": 0.8,
@@ -81985,23 +81664,6 @@
       "type": "url",
       "value": "https://zhenxiongdibj.com/eQbSMKmtnb.suita.jp"
     },
-    "zhongjuxian-jp.com": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:41:59",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as e-Tax (Japan), distributed via phishing domains zhongjuxian-jp.com and huipiaoxia-jp.com; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110516499861680460",
-      "type": "domain",
-      "value": "zhongjuxian-jp.com"
-    },
     "zhuomian-whatsapp.com": {
       "confidence": 0.75,
       "date": "2026-10-20 16:52:46",
@@ -82363,23 +82025,6 @@
       "type": "domain",
       "value": "zz.aiapi2025.top"
     },
-    "zzpwttke.cn": {
-      "confidence": 0.75,
-      "date": "2026-10-14 23:32:16",
-      "enriched_at": "2026-10-15T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "phishing",
-        "malware",
-        "trojan"
-      ],
-      "summary": "Android malware disguised as Mercari (Japan), distributed through eight .cn domains; linked APK sample hash shared.",
-      "threat_type": "malware",
-      "tweet_id": "2110514053173141544",
-      "type": "domain",
-      "value": "zzpwttke.cn"
-    },
     "\u7d50\u5a5a\u5f0f\u306e\u3054\u62db\u5f85.zip": {
       "confidence": 0.65,
       "date": "2026-10-28 08:14:21",
@@ -82410,6 +82055,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-13T18:40:04Z",
+  "generated_at": "2026-11-14T00:40:05Z",
   "window_days": 30
 }
