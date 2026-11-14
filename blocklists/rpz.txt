@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2477
-; Updated: 2026-11-14T12:15:16Z
+; Entries: 2473
+; Updated: 2026-11-14T13:45:16Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1794658516 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1794663916 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1830,8 +1830,6 @@ download.webstatici-whatsapp.com CNAME .
 *.download.webstatici-whatsapp.com CNAME .
 download.youlovemybiba.com CNAME .
 *.download.youlovemybiba.com CNAME .
-download1078.mediafire.com CNAME .
-*.download1078.mediafire.com CNAME .
 downloadessays.net CNAME .
 *.downloadessays.net CNAME .
 downloadl-japan.com CNAME .
@@ -1968,8 +1966,6 @@ excerpthub.com CNAME .
 *.excerpthub.com CNAME .
 eyeearhospital.com CNAME .
 *.eyeearhospital.com CNAME .
-f006.backblazeb2.com CNAME .
-*.f006.backblazeb2.com CNAME .
 f7-whatsapp.com CNAME .
 *.f7-whatsapp.com CNAME .
 f8-whatsapp.com CNAME .
@@ -2838,8 +2834,6 @@ limit-whatsapp.com CNAME .
 *.limit-whatsapp.com CNAME .
 link-ledger.at CNAME .
 *.link-ledger.at CNAME .
-link24.kr CNAME .
-*.link24.kr CNAME .
 linkauth-whatsapp.com CNAME .
 *.linkauth-whatsapp.com CNAME .
 linkhost-whatsapp.com CNAME .
@@ -4420,8 +4414,6 @@ tw3-whatsapp.com CNAME .
 *.tw3-whatsapp.com CNAME .
 two-step.webapi-whatsapp.com CNAME .
 *.two-step.webapi-whatsapp.com CNAME .
-u.pone.rs CNAME .
-*.u.pone.rs CNAME .
 ualf53oo.xyz CNAME .
 *.ualf53oo.xyz CNAME .
 ualvujp.cn CNAME .

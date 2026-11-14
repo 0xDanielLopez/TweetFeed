@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T13:30:27Z",
+ "generated_at": "2026-11-14T13:45:50Z",
  "pipeline": {
   "interval_seconds": 900,
   "stale_after_seconds": 1800
@@ -187,7 +187,7 @@
    {
     "id": "webamon_search",
     "kind": "account",
-    "newest_item_at": "2026-11-12T14:53:00Z",
+    "newest_item_at": "2026-11-14T13:33:00Z",
     "rows_last_24h": 0,
     "dead_after_seconds": 2592000
    },
@@ -428,7 +428,7 @@
   "today.csv": {
    "kind": "tick",
    "path": "today.csv",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "today",
@@ -440,11 +440,11 @@
   "week.csv": {
    "kind": "tick",
    "path": "week.csv",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "week",
-   "rows": 739,
+   "rows": 731,
    "first_row": "2026-11-08 00:03:40",
    "last_row": "2026-11-14 13:25:22",
    "data_stale_after_seconds": 28800
@@ -452,11 +452,11 @@
   "month.csv": {
    "kind": "tick",
    "path": "month.csv",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "month",
-   "rows": 8526,
+   "rows": 8518,
    "first_row": "2026-10-15 00:00:45",
    "last_row": "2026-11-14 13:25:22",
    "data_stale_after_seconds": 28800
@@ -464,11 +464,11 @@
   "year.csv": {
    "kind": "tick",
    "path": "year.csv",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "window": "year",
-   "rows": 94831,
+   "rows": 94815,
    "first_row": "2025-11-15 00:16:13",
    "last_row": "2026-11-14 13:25:22",
    "data_stale_after_seconds": 28800
@@ -476,49 +476,49 @@
   "rss.xml": {
    "kind": "tick",
    "path": "rss.xml",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "counts.json": {
    "kind": "tick",
    "path": "counts.json",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "contributors.json": {
    "kind": "tick",
    "path": "contributors.json",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "misp": {
    "kind": "tick",
    "path": "misp/",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "stix": {
    "kind": "tick",
    "path": "stix/",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "blocklists": {
    "kind": "tick",
    "path": "blocklists/",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800
   },
   "exclusive.csv": {
    "kind": "tick",
    "path": "exclusive.csv",
-   "updated_at": "2026-11-14T13:30:27Z",
+   "updated_at": "2026-11-14T13:45:50Z",
    "interval_seconds": 900,
    "stale_after_seconds": 1800,
    "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
@@ -526,7 +526,7 @@
   "lookup": {
    "kind": "own-clock",
    "path": "lookup/",
-   "updated_at": "2026-11-14T13:30:18Z",
+   "updated_at": "2026-11-14T13:45:15Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700,
    "shards": 256
@@ -534,14 +534,14 @@
   "trends.json": {
    "kind": "own-clock",
    "path": "trends.json",
-   "updated_at": "2026-11-14T13:30:20Z",
+   "updated_at": "2026-11-14T13:45:17Z",
    "interval_seconds": 900,
    "stale_after_seconds": 2700
   },
   "archive": {
    "kind": "change-driven",
    "path": "archive/",
-   "updated_at": "2026-11-14T00:01:09Z",
+   "updated_at": "2026-11-14T13:45:48Z",
    "interval_seconds": 900,
    "stale_after_seconds": null,
    "note": "generated_at moves only when the archive corpus changes (at most daily); pipeline freshness is the signal"
@@ -556,7 +556,7 @@
   "ipmeta.json": {
    "kind": "own-clock",
    "path": "ipmeta.json",
-   "updated_at": "2026-11-14T07:35:05Z",
+   "updated_at": "2026-11-14T13:35:06Z",
    "interval_seconds": 21600,
    "stale_after_seconds": 27000
   },
