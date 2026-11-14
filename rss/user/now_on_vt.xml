@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Now_on_VT</title>
+      <link>https://x.com/Now_on_VT</link>
+      <description>IOCs shared by @Now_on_VT and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @Now_on_VT</title>
+         <link>https://x.com/Now_on_VT</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/now_on_vt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>85c4605c22601156105fc2e98982e5da</title>
+         <link>https://x.com/Now_on_VT/status/2119451724205195279</link>
+         <description>@Now_on_VT | md5 | 
+Value: 85c4605c22601156105fc2e98982e5da
+Tweet: https://x.com/Now_on_VT/status/2119451724205195279</description>
+         <guid isPermaLink="false">85c4605c22601156105fc2e98982e5da</guid>
+         <pubDate>Sun, 08 Nov 2026 15:27:23 +0000</pubDate>
+         <category>md5</category>
+      </item>
+      <item>
+         <title>3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f</title>
+         <link>https://x.com/Now_on_VT/status/2119451613513351577</link>
+         <description>@Now_on_VT | sha256 | 
+Value: 3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f
+Tweet: https://x.com/Now_on_VT/status/2119451613513351577</description>
+         <guid isPermaLink="false">3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f</guid>
+         <pubDate>Sun, 08 Nov 2026 15:26:56 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

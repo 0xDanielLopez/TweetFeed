@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @James_inthe_box</title>
+      <link>https://x.com/James_inthe_box</link>
+      <description>IOCs shared by @James_inthe_box and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @James_inthe_box</title>
+         <link>https://x.com/James_inthe_box</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/james_inthe_box.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>162.35.123.185</title>
+         <link>https://x.com/James_inthe_box/status/2119790196032258336</link>
+         <description>@James_inthe_box | ip | #Remcos
+Value: 162.35.123.185
+Tweet: https://x.com/James_inthe_box/status/2119790196032258336</description>
+         <guid isPermaLink="false">162.35.123.185</guid>
+         <pubDate>Mon, 09 Nov 2026 13:52:21 +0000</pubDate>
+         <category>ip</category>
+         <category>#Remcos</category>
+      </item>
+      <item>
+         <title>https://github.com/i25968627-ui/psychic-engine/</title>
+         <link>https://x.com/James_inthe_box/status/2119790196032258336</link>
+         <description>@James_inthe_box | url | #Remcos
+Value: https://github.com/i25968627-ui/psychic-engine/
+Tweet: https://x.com/James_inthe_box/status/2119790196032258336</description>
+         <guid isPermaLink="false">https://github.com/i25968627-ui/psychic-engine/</guid>
+         <pubDate>Mon, 09 Nov 2026 13:52:21 +0000</pubDate>
+         <category>url</category>
+         <category>#Remcos</category>
+      </item>
+      <item>
+         <title>https://github.com/i25968627-ui/crispy-spoon</title>
+         <link>https://x.com/James_inthe_box/status/2119790196032258336</link>
+         <description>@James_inthe_box | url | #Remcos
+Value: https://github.com/i25968627-ui/crispy-spoon
+Tweet: https://x.com/James_inthe_box/status/2119790196032258336</description>
+         <guid isPermaLink="false">https://github.com/i25968627-ui/crispy-spoon</guid>
+         <pubDate>Mon, 09 Nov 2026 13:52:21 +0000</pubDate>
+         <category>url</category>
+         <category>#Remcos</category>
+      </item>
+   </channel>
+</rss>

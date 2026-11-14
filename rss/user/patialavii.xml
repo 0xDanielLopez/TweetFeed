@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @patialavii</title>
+      <link>https://x.com/patialavii</link>
+      <description>IOCs shared by @patialavii and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @patialavii</title>
+         <link>https://x.com/patialavii</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/patialavii.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://brimembal.com/schedule-microsoft-teams.meeting</title>
+         <link>https://x.com/patialavii/status/2119999842848297207</link>
+         <description>@patialavii | url | #phishing
+Value: https://brimembal.com/schedule-microsoft-teams.meeting
+Tweet: https://x.com/patialavii/status/2119999842848297207</description>
+         <guid isPermaLink="false">https://brimembal.com/schedule-microsoft-teams.meeting</guid>
+         <pubDate>Tue, 10 Nov 2026 03:45:24 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>brimembal.com</title>
+         <link>https://x.com/patialavii/status/2119999842848297207</link>
+         <description>@patialavii | domain | #phishing
+Value: brimembal.com
+Tweet: https://x.com/patialavii/status/2119999842848297207</description>
+         <guid isPermaLink="false">brimembal.com</guid>
+         <pubDate>Tue, 10 Nov 2026 03:45:24 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

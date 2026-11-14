@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @phatomcandle</title>
+      <link>https://x.com/phatomcandle</link>
+      <description>IOCs shared by @phatomcandle and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @phatomcandle</title>
+         <link>https://x.com/phatomcandle</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/phatomcandle.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46</title>
+         <link>https://x.com/phatomcandle/status/2120900927733256399</link>
+         <description>@phatomcandle | sha256 | #APT #malware
+Value: 55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46
+Tweet: https://x.com/phatomcandle/status/2120900927733256399</description>
+         <guid isPermaLink="false">55c94013769e3eb809ff76bdb35482c1971d1e3442dd6d81865da8cca13c8b46</guid>
+         <pubDate>Thu, 12 Nov 2026 15:26:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>213.176.93.17</title>
+         <link>https://x.com/phatomcandle/status/2120900927733256399</link>
+         <description>@phatomcandle | ip | #APT #malware
+Value: 213.176.93.17
+Tweet: https://x.com/phatomcandle/status/2120900927733256399</description>
+         <guid isPermaLink="false">213.176.93.17</guid>
+         <pubDate>Thu, 12 Nov 2026 15:26:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://213.176.93.17</title>
+         <link>https://x.com/phatomcandle/status/2120900927733256399</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://213.176.93.17
+Tweet: https://x.com/phatomcandle/status/2120900927733256399</description>
+         <guid isPermaLink="false">http://213.176.93.17</guid>
+         <pubDate>Thu, 12 Nov 2026 15:26:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://store2.shop</title>
+         <link>https://x.com/phatomcandle/status/2120900927733256399</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://store2.shop
+Tweet: https://x.com/phatomcandle/status/2120900927733256399</description>
+         <guid isPermaLink="false">http://store2.shop</guid>
+         <pubDate>Thu, 12 Nov 2026 15:26:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>store2.shop</title>
+         <link>https://x.com/phatomcandle/status/2120900927733256399</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: store2.shop
+Tweet: https://x.com/phatomcandle/status/2120900927733256399</description>
+         <guid isPermaLink="false">store2.shop</guid>
+         <pubDate>Thu, 12 Nov 2026 15:26:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7</title>
+         <link>https://x.com/phatomcandle/status/2120538539687608784</link>
+         <description>@phatomcandle | sha256 | #APT #C2 #malware
+Value: cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7
+Tweet: https://x.com/phatomcandle/status/2120538539687608784</description>
+         <guid isPermaLink="false">cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7</guid>
+         <pubDate>Wed, 11 Nov 2026 15:26:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>149.3.170.195</title>
+         <link>https://x.com/phatomcandle/status/2120538539687608784</link>
+         <description>@phatomcandle | ip | #APT #C2 #malware
+Value: 149.3.170.195
+Tweet: https://x.com/phatomcandle/status/2120538539687608784</description>
+         <guid isPermaLink="false">149.3.170.195</guid>
+         <pubDate>Wed, 11 Nov 2026 15:26:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://149.3.170.195</title>
+         <link>https://x.com/phatomcandle/status/2120538539687608784</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://149.3.170.195
+Tweet: https://x.com/phatomcandle/status/2120538539687608784</description>
+         <guid isPermaLink="false">http://149.3.170.195</guid>
+         <pubDate>Wed, 11 Nov 2026 15:26:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7</title>
+         <link>https://x.com/phatomcandle/status/2120175900595572742</link>
+         <description>@phatomcandle | sha256 | #APT #malware
+Value: cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7
+Tweet: https://x.com/phatomcandle/status/2120175900595572742</description>
+         <guid isPermaLink="false">cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7</guid>
+         <pubDate>Tue, 10 Nov 2026 15:25:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://aepc.in</title>
+         <link>https://x.com/phatomcandle/status/2120175900595572742</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://aepc.in
+Tweet: https://x.com/phatomcandle/status/2120175900595572742</description>
+         <guid isPermaLink="false">http://aepc.in</guid>
+         <pubDate>Tue, 10 Nov 2026 15:25:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>https://aepc.in/lib/files/db/emp/01.hta</title>
+         <link>https://x.com/phatomcandle/status/2120175900595572742</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: https://aepc.in/lib/files/db/emp/01.hta
+Tweet: https://x.com/phatomcandle/status/2120175900595572742</description>
+         <guid isPermaLink="false">https://aepc.in/lib/files/db/emp/01.hta</guid>
+         <pubDate>Tue, 10 Nov 2026 15:25:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>aepc.in</title>
+         <link>https://x.com/phatomcandle/status/2120175900595572742</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: aepc.in
+Tweet: https://x.com/phatomcandle/status/2120175900595572742</description>
+         <guid isPermaLink="false">aepc.in</guid>
+         <pubDate>Tue, 10 Nov 2026 15:25:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7</title>
+         <link>https://x.com/phatomcandle/status/2119813512331497664</link>
+         <description>@phatomcandle | sha256 | #APT #malware
+Value: cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7
+Tweet: https://x.com/phatomcandle/status/2119813512331497664</description>
+         <guid isPermaLink="false">cd067abf727655d1d82d16506cee51fda6c200e7fe67ebac21b07e3eb9fd67f7</guid>
+         <pubDate>Mon, 09 Nov 2026 15:25:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://aepc.in</title>
+         <link>https://x.com/phatomcandle/status/2119813512331497664</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: http://aepc.in
+Tweet: https://x.com/phatomcandle/status/2119813512331497664</description>
+         <guid isPermaLink="false">http://aepc.in</guid>
+         <pubDate>Mon, 09 Nov 2026 15:25:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>https://aepc.in/lib/files/db/emp/01.hta</title>
+         <link>https://x.com/phatomcandle/status/2119813512331497664</link>
+         <description>@phatomcandle | url | #APT #malware
+Value: https://aepc.in/lib/files/db/emp/01.hta
+Tweet: https://x.com/phatomcandle/status/2119813512331497664</description>
+         <guid isPermaLink="false">https://aepc.in/lib/files/db/emp/01.hta</guid>
+         <pubDate>Mon, 09 Nov 2026 15:25:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>aepc.in</title>
+         <link>https://x.com/phatomcandle/status/2119813512331497664</link>
+         <description>@phatomcandle | domain | #APT #malware
+Value: aepc.in
+Tweet: https://x.com/phatomcandle/status/2119813512331497664</description>
+         <guid isPermaLink="false">aepc.in</guid>
+         <pubDate>Mon, 09 Nov 2026 15:25:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240</title>
+         <link>https://x.com/phatomcandle/status/2119450872896012346</link>
+         <description>@phatomcandle | sha256 | #APT #C2 #malware
+Value: 0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240
+Tweet: https://x.com/phatomcandle/status/2119450872896012346</description>
+         <guid isPermaLink="false">0e0b77f79fe5d06f11de2959559379e94d62512e073c267b481a58d19d265240</guid>
+         <pubDate>Sun, 08 Nov 2026 15:24:00 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>45.61.157.22</title>
+         <link>https://x.com/phatomcandle/status/2119450872896012346</link>
+         <description>@phatomcandle | ip | #APT #C2 #malware
+Value: 45.61.157.22
+Tweet: https://x.com/phatomcandle/status/2119450872896012346</description>
+         <guid isPermaLink="false">45.61.157.22</guid>
+         <pubDate>Sun, 08 Nov 2026 15:24:00 +0000</pubDate>
+         <category>ip</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://dns.educationportals.biz</title>
+         <link>https://x.com/phatomcandle/status/2119450872896012346</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://dns.educationportals.biz
+Tweet: https://x.com/phatomcandle/status/2119450872896012346</description>
+         <guid isPermaLink="false">http://dns.educationportals.biz</guid>
+         <pubDate>Sun, 08 Nov 2026 15:24:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>dns.educationportals.biz</title>
+         <link>https://x.com/phatomcandle/status/2119450872896012346</link>
+         <description>@phatomcandle | domain | #APT #C2 #malware
+Value: dns.educationportals.biz
+Tweet: https://x.com/phatomcandle/status/2119450872896012346</description>
+         <guid isPermaLink="false">dns.educationportals.biz</guid>
+         <pubDate>Sun, 08 Nov 2026 15:24:00 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://45.61.157.22</title>
+         <link>https://x.com/phatomcandle/status/2119450872896012346</link>
+         <description>@phatomcandle | url | #APT #C2 #malware
+Value: http://45.61.157.22
+Tweet: https://x.com/phatomcandle/status/2119450872896012346</description>
+         <guid isPermaLink="false">http://45.61.157.22</guid>
+         <pubDate>Sun, 08 Nov 2026 15:24:00 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+         <category>#C2</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

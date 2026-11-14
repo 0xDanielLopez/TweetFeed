@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @sicehice</title>
+      <link>https://x.com/sicehice</link>
+      <description>IOCs shared by @sicehice and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @sicehice</title>
+         <link>https://x.com/sicehice</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/sicehice.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>79f121fced18f5d1d425024842ed79dc</title>
+         <link>https://x.com/sicehice/status/2119616530849874087</link>
+         <description>@sicehice | md5 | 
+Value: 79f121fced18f5d1d425024842ed79dc
+Tweet: https://x.com/sicehice/status/2119616530849874087</description>
+         <guid isPermaLink="false">79f121fced18f5d1d425024842ed79dc</guid>
+         <pubDate>Mon, 09 Nov 2026 02:22:16 +0000</pubDate>
+         <category>md5</category>
+      </item>
+      <item>
+         <title>77.239.124.167</title>
+         <link>https://x.com/sicehice/status/2119616530849874087</link>
+         <description>@sicehice | ip | 
+Value: 77.239.124.167
+Tweet: https://x.com/sicehice/status/2119616530849874087</description>
+         <guid isPermaLink="false">77.239.124.167</guid>
+         <pubDate>Mon, 09 Nov 2026 02:22:16 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>195.178.110.78</title>
+         <link>https://x.com/sicehice/status/2119616530849874087</link>
+         <description>@sicehice | ip | 
+Value: 195.178.110.78
+Tweet: https://x.com/sicehice/status/2119616530849874087</description>
+         <guid isPermaLink="false">195.178.110.78</guid>
+         <pubDate>Mon, 09 Nov 2026 02:22:16 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://77.239.124.167/s</title>
+         <link>https://x.com/sicehice/status/2119616530849874087</link>
+         <description>@sicehice | url | 
+Value: http://77.239.124.167/s
+Tweet: https://x.com/sicehice/status/2119616530849874087</description>
+         <guid isPermaLink="false">http://77.239.124.167/s</guid>
+         <pubDate>Mon, 09 Nov 2026 02:22:16 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>6228b781c231fe290da7147e3b3b29ee81ecc79465cc3c6b0e72d66abb8ea156</title>
+         <link>https://x.com/sicehice/status/2119614998661992693</link>
+         <description>@sicehice | sha256 | 
+Value: 6228b781c231fe290da7147e3b3b29ee81ecc79465cc3c6b0e72d66abb8ea156
+Tweet: https://x.com/sicehice/status/2119614998661992693</description>
+         <guid isPermaLink="false">6228b781c231fe290da7147e3b3b29ee81ecc79465cc3c6b0e72d66abb8ea156</guid>
+         <pubDate>Mon, 09 Nov 2026 02:16:10 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

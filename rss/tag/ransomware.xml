@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #ransomware IOC feed</title>
+      <link>https://tweetfeed.live/tag/ransomware/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #ransomware on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - #ransomware IOC feed</title>
+         <link>https://tweetfeed.live/tag/ransomware/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/ransomware.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739</title>
+         <link>https://x.com/Sitri_73/status/2120300309780353078</link>
+         <description>@Sitri_73 | sha256 | #malware #ransomware
+Value: 26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739
+Tweet: https://x.com/Sitri_73/status/2120300309780353078</description>
+         <guid isPermaLink="false">26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739</guid>
+         <pubDate>Tue, 10 Nov 2026 23:39:21 +0000</pubDate>
+         <category>sha256</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

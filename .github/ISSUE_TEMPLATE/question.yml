@@ -1,0 +1,10 @@
+name: Question
+description: Anything about TweetFeed data, licensing, usage, or integrations
+labels: ["question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true

@@ -1,0 +1,5 @@
+# Backup files from FP-cleanup edits (sed -i.bak) must never reach the public data repo
+*.bak
+*.bak.*
+# filelock sidecars of tweetfeed/storage.py (0-byte, left on disk by design; never publish)
+*.csv.lock

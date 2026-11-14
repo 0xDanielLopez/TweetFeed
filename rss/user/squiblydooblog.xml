@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SquiblydooBlog</title>
+      <link>https://x.com/SquiblydooBlog</link>
+      <description>IOCs shared by @SquiblydooBlog and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @SquiblydooBlog</title>
+         <link>https://x.com/SquiblydooBlog</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/squiblydooblog.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 14 Nov 2026 00:00:29 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://sync-endpoint.azurewebsites.net</title>
+         <link>https://x.com/SquiblydooBlog/status/2120121878245474775</link>
+         <description>@SquiblydooBlog | url | 
+Value: http://sync-endpoint.azurewebsites.net
+Tweet: https://x.com/SquiblydooBlog/status/2120121878245474775</description>
+         <guid isPermaLink="false">http://sync-endpoint.azurewebsites.net</guid>
+         <pubDate>Tue, 10 Nov 2026 12:02:45 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>sync-endpoint.azurewebsites.net</title>
+         <link>https://x.com/SquiblydooBlog/status/2120121878245474775</link>
+         <description>@SquiblydooBlog | domain | 
+Value: sync-endpoint.azurewebsites.net
+Tweet: https://x.com/SquiblydooBlog/status/2120121878245474775</description>
+         <guid isPermaLink="false">sync-endpoint.azurewebsites.net</guid>
+         <pubDate>Tue, 10 Nov 2026 12:02:45 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>http://healthlys.com</title>
+         <link>https://x.com/SquiblydooBlog/status/2120121878245474775</link>
+         <description>@SquiblydooBlog | url | 
+Value: http://healthlys.com
+Tweet: https://x.com/SquiblydooBlog/status/2120121878245474775</description>
+         <guid isPermaLink="false">http://healthlys.com</guid>
+         <pubDate>Tue, 10 Nov 2026 12:02:45 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>healthlys.com</title>
+         <link>https://x.com/SquiblydooBlog/status/2120121878245474775</link>
+         <description>@SquiblydooBlog | domain | 
+Value: healthlys.com
+Tweet: https://x.com/SquiblydooBlog/status/2120121878245474775</description>
+         <guid isPermaLink="false">healthlys.com</guid>
+         <pubDate>Tue, 10 Nov 2026 12:02:45 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>
