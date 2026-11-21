@@ -1,5 +1,5 @@
 {
-  "count": 4754,
+  "count": 4751,
   "dead_tweets": {
     "2114565057338343930": {
       "attempts": 2,
@@ -1261,20 +1261,6 @@
       "tweet_id": "2117654568360099853",
       "type": "ip",
       "value": "102.220.161.143"
-    },
-    "102.220.163.152": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:01:09",
-      "enriched_at": "2026-11-14T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing campaign impersonating Orico, hosted on IP 102.220.163.152.",
-      "threat_type": "phishing",
-      "tweet_id": "2113148635198505200",
-      "type": "url",
-      "value": "http://102.220.163.152"
     },
     "102.220.163.79": {
       "confidence": 0.75,
@@ -2563,20 +2549,6 @@
       "tweet_id": "2122622212310216738",
       "type": "ip",
       "value": "107.174.34.145"
-    },
-    "107.174.39.142": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:25:14",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating SMBC (Mitsui Sumitomo) at xtweixiu[.]com, hosted on 107.174.39[.]142.",
-      "threat_type": "phishing",
-      "tweet_id": "2113154696005529875",
-      "type": "url",
-      "value": "http://107.174.39.142"
     },
     "107.175.39.140": {
       "confidence": 0.7,
@@ -5159,6 +5131,20 @@
       "type": "url",
       "value": "http://148.135.195.145:80/89e8e0bb-074f-4117-ae35-45e388a169c9"
     },
+    "148.135.85.193": {
+      "confidence": 0.9,
+      "date": "2026-11-21 02:18:13",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site p0rtal-stpmex[.]cfd mimicking a SPEI/STP Mexico login, hosted on IP 148.135.85.193 (AS35916, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2123964165697974667",
+      "type": "ip",
+      "value": "148.135.85.193"
+    },
     "148.72.244.125": {
       "confidence": 0.9,
       "date": "2026-10-28 08:01:05",
@@ -6863,20 +6849,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "166.0.22.233"
-    },
-    "166.88.11.227": {
-      "confidence": 0.6,
-      "date": "2026-10-22 06:29:28",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "ToShell",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "C2 panel at 166.88.11.227 tagged ToShell.",
-      "threat_type": "c2",
-      "tweet_id": "2113155762319237350",
-      "type": "ip",
-      "value": "166.88.11.227"
     },
     "166.88.4.144": {
       "confidence": 0.9,
@@ -13463,6 +13435,21 @@
       "type": "sha256",
       "value": "2433580470b08228ae74cddb364bf41cbe1e6aa26c9b3321271a458965594086"
     },
+    "247b3244ccbb8e33ebba0d3aa66a38f66cfe7d27d91fb299927628249532d10e": {
+      "confidence": 0.6,
+      "date": "2026-11-16 08:59:18",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": "SilverFox",
+      "suggested_tags": [
+        "malware",
+        "valleyrat"
+      ],
+      "summary": "Hunt for SilverFox DLL sideloading samples using ExplorerBroker.exe and an Edge user-agent; YARA rule shared with about 90 sample hashes.",
+      "threat_type": "malware",
+      "tweet_id": "2122253163453661689",
+      "type": "sha256",
+      "value": "247b3244ccbb8e33ebba0d3aa66a38f66cfe7d27d91fb299927628249532d10e"
+    },
     "249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa": {
       "confidence": 0.88,
       "date": "2026-11-08 11:29:04",
@@ -19355,22 +19342,6 @@
       "type": "sha256",
       "value": "4a1a63cff7f1407dc34f25ffdaacd1a6c92bfbba1de1e9d6f015253855ca6361"
     },
-    "4adb8b4f38f0199a238831a9c8892bae329b8737e5c00d26eaf072b8b4e43106": {
-      "confidence": 0.5,
-      "date": "2026-10-22 04:33:50",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware",
-        "dprk"
-      ],
-      "summary": "Malware sample uploaded to abuse.ch MalwareBazaar, linked to a suspected North Korean-attributed C2 endpoint on a free hosting domain.",
-      "threat_type": "c2",
-      "tweet_id": "2113126661302468798",
-      "type": "sha256",
-      "value": "4adb8b4f38f0199a238831a9c8892bae329b8737e5c00d26eaf072b8b4e43106"
-    },
     "4b532c339934fbed2fc2b06eb9b60514529d5b67b31689424689a191f98bfff0": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -19491,6 +19462,22 @@
       "tweet_id": "2122396174288314555",
       "type": "sha256",
       "value": "4c0d87b9932b5f7fcbe59b070628ad60409c5d18bf6e50b09df1c0f48a077bc3"
+    },
+    "4c52d18431414c24e9415565e20f3b6678de52af8aa33ea58a5866d3870f24a9": {
+      "confidence": 0.8,
+      "date": "2026-11-21 00:12:12",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card, distributed via phishing domains gamblingcrew-jp.com, jiuyangdaming-jp.com and superiorcode-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2123932453756961162",
+      "type": "sha256",
+      "value": "4c52d18431414c24e9415565e20f3b6678de52af8aa33ea58a5866d3870f24a9"
     },
     "4c86c07a76b3233330a0b97d4118bcb5647c34935dd851bd54163122fe6ae9e7": {
       "confidence": 0.93,
@@ -22553,21 +22540,6 @@
       "type": "sha256",
       "value": "6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e"
     },
-    "6c07e4292d19e792aec820f4dbc62471": {
-      "confidence": 0.85,
-      "date": "2026-10-22 06:29:10",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0 and associated Telegram, Discord and website channels.",
-      "threat_type": "malware",
-      "tweet_id": "2113155685315641817",
-      "type": "md5",
-      "value": "6c07e4292d19e792aec820f4dbc62471"
-    },
     "6c700ca4e6d917c7aa9d964e98604a0349d9b8b4673df96a3f73a3d2d042635a": {
       "confidence": 0.55,
       "date": "2026-11-02 11:49:24",
@@ -24167,6 +24139,21 @@
       "tweet_id": "2123688482539458875",
       "type": "md5",
       "value": "7efc3771b72213cb2a8be2a0d1a881c3"
+    },
+    "7fbed01a062c5204be53ea18acd64e2463b962f04977c4eba8e3d8481cabe6b6": {
+      "confidence": 0.75,
+      "date": "2026-11-21 00:33:59",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": "EasyShell",
+      "suggested_tags": [
+        "rat",
+        "malware"
+      ],
+      "summary": "Reported first LoongArch (258) CPU Linux RAT sample, EasyShell, reportedly made in PRC; identified by file hash.",
+      "threat_type": "malware",
+      "tweet_id": "2123937937893343349",
+      "type": "sha256",
+      "value": "7fbed01a062c5204be53ea18acd64e2463b962f04977c4eba8e3d8481cabe6b6"
     },
     "7fcafe.wwvip88.site": {
       "confidence": 0.88,
@@ -29295,34 +29282,6 @@
       "type": "url",
       "value": "https://aexshorthoo26d.9zy6p8.info/2ymmlo/hepe"
     },
-    "aexshorthood.cactx5.info": {
-      "confidence": 0.85,
-      "date": "2026-10-22 03:38:20",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating American Express (Amex), hosted on a cactx5.info subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2113112692861145234",
-      "type": "domain",
-      "value": "aexshorthood.cactx5.info"
-    },
-    "aexshorthood.cactx5.info/2ymmlo/hepe": {
-      "confidence": 0.85,
-      "date": "2026-10-22 03:38:20",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating American Express (Amex), hosted on a cactx5.info subdomain.",
-      "threat_type": "phishing",
-      "tweet_id": "2113112692861145234",
-      "type": "url",
-      "value": "https://aexshorthood.cactx5.info/2ymmlo/hepe"
-    },
     "af37220b1c348e901febc36b68f37e79b9a38cbf5ab442344ef40728badaaa1c": {
       "confidence": 0.4,
       "date": "2026-11-20 19:51:03",
@@ -29745,34 +29704,6 @@
       "tweet_id": "2117243724539293754",
       "type": "url",
       "value": "https://allegrolokalnie.pk-transport83746.top/samsung-galaxy-s24-256gb-z-etu/16750"
-    },
-    "allegrolokalnie.pl-oferta901986003.icu": {
-      "confidence": 0.9,
-      "date": "2026-10-22 03:35:59",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating Allegro Lokalnie (Polish marketplace) login, behind Cloudflare on a lookalike .icu domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2113112100969025797",
-      "type": "domain",
-      "value": "allegrolokalnie.pl-oferta901986003.icu"
-    },
-    "allegrolokalnie.pl-oferta901986003.icu/logowanie/69717": {
-      "confidence": 0.9,
-      "date": "2026-10-22 03:35:59",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing page impersonating Allegro Lokalnie (Polish marketplace) login, behind Cloudflare on a lookalike .icu domain.",
-      "threat_type": "phishing",
-      "tweet_id": "2113112100969025797",
-      "type": "url",
-      "value": "http://allegrolokalnie.pl-oferta901986003.icu/logowanie/69717"
     },
     "alpha-sense.app": {
       "confidence": 0.8,
@@ -30348,6 +30279,20 @@
       "tweet_id": "2113695797900677444",
       "type": "domain",
       "value": "antibot-linkedin.com"
+    },
+    "antonymoratohrvatska.info": {
+      "confidence": 0.85,
+      "date": "2026-11-21 04:00:06",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert about a cloud deletion warning lure using the unrelated domain antonymoratohrvatska[.]info.",
+      "threat_type": "phishing",
+      "tweet_id": "2123989808607629549",
+      "type": "domain",
+      "value": "antonymoratohrvatska.info"
     },
     "anubisclient.cc": {
       "confidence": 0.55,
@@ -34278,21 +34223,6 @@
       "tweet_id": "2122396171239137539",
       "type": "sha256",
       "value": "b962c0fdf6785bc6c84dc872da2b30c2032e698f5813db2a67ddd2148905004c"
-    },
-    "b97980c046ff56cd4393bc37bfea4db5": {
-      "confidence": 0.8,
-      "date": "2026-10-22 06:29:10",
-      "enriched_at": "2026-11-13T18:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0, tied to the monoxide.vip site plus Telegram and Discord channels used for distribution.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "md5",
-      "value": "b97980c046ff56cd4393bc37bfea4db5"
     },
     "ba86800b1c23de026308e7480c2b2362394adc7de14e60bc060864fc168cdc57": {
       "confidence": 0.75,
@@ -40949,21 +40879,6 @@
       "tweet_id": "2120157687652425873",
       "type": "url",
       "value": "https://discord.com/api/webhooks/1568290802583740449/XI6R8_zVISY8ROV2bVNVQzLF3aV-H41kSyCDpxXvuPLqGV8pCNTg9_DrDLG5iVYC2Qpd"
-    },
-    "discord.gg/monoxidevip": {
-      "confidence": 0.8,
-      "date": "2026-10-22 06:29:10",
-      "enriched_at": "2026-11-13T18:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0, tied to the monoxide.vip site plus Telegram and Discord channels used for distribution.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "url",
-      "value": "http://discord.gg/monoxidevip"
     },
     "discountdebt-jp.com": {
       "confidence": 0.8,
@@ -48200,6 +48115,22 @@
       "type": "domain",
       "value": "gadgetcandyzu.com"
     },
+    "gamblingcrew-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-21 00:12:12",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card, distributed via phishing domains gamblingcrew-jp.com, jiuyangdaming-jp.com and superiorcode-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2123932453756961162",
+      "type": "domain",
+      "value": "gamblingcrew-jp.com"
+    },
     "gamsterb.ink": {
       "confidence": 0.8,
       "date": "2026-11-17 07:04:49",
@@ -49473,6 +49404,21 @@
       "tweet_id": "2116617471994261848",
       "type": "url",
       "value": "https://gwkinvestmicrosoftteams.com/Teams_Installer.exe"
+    },
+    "h92jcihwicllow.wuaze.com": {
+      "confidence": 0.5,
+      "date": "2026-10-22 22:18:07",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "Suspicious LNK lure disguised as a DAS London 2026 programme PDF, tied to domain h92jcihwicllow.wuaze.com; tagged as APT.",
+      "threat_type": "malware",
+      "tweet_id": "2113394494603419948",
+      "type": "domain",
+      "value": "h92jcihwicllow.wuaze.com"
     },
     "hackattackkaboom.botlesscucks.st": {
       "confidence": 0.8,
@@ -51194,6 +51140,18 @@
       "type": "domain",
       "value": "integration-auth.com"
     },
+    "intelforums.cc": {
+      "confidence": 0.5,
+      "date": "2026-11-20 22:07:48",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Announcement of a new forum called IntelForums with clearnet domain intelforums[.]cc.",
+      "threat_type": "other",
+      "tweet_id": "2123901149665177708",
+      "type": "domain",
+      "value": "intelforums.cc"
+    },
     "intelligencehub-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-16 06:39:18",
@@ -51703,6 +51661,22 @@
       "tweet_id": "2113460420363051108",
       "type": "domain",
       "value": "jimcooks211.github.io"
+    },
+    "jiuyangdaming-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-21 00:12:12",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card, distributed via phishing domains gamblingcrew-jp.com, jiuyangdaming-jp.com and superiorcode-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2123932453756961162",
+      "type": "domain",
+      "value": "jiuyangdaming-jp.com"
     },
     "jiyyax.com": {
       "confidence": 0.9,
@@ -53898,34 +53872,6 @@
       "type": "domain",
       "value": "map-service.online"
     },
-    "marviel.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:11:07",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site at marviel[.]cfd impersonating Mitsubishi UFJ eSmart Securities, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2113151140502417857",
-      "type": "domain",
-      "value": "marviel.cfd"
-    },
-    "marviel.cfd/login/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:11:07",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site at marviel[.]cfd impersonating Mitsubishi UFJ eSmart Securities, behind Cloudflare.",
-      "threat_type": "phishing",
-      "tweet_id": "2113151140502417857",
-      "type": "url",
-      "value": "https://marviel.cfd/LOGIN/#/index"
-    },
     "mastergrillhub.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -54848,21 +54794,6 @@
       "tweet_id": "2121491564161581148",
       "type": "domain",
       "value": "moments-notice.com"
-    },
-    "monoxide.vip": {
-      "confidence": 0.8,
-      "date": "2026-10-22 06:29:10",
-      "enriched_at": "2026-11-13T18:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT sample (MD5) with User-Agent MonoxideClient/1.0, tied to the monoxide.vip site plus Telegram and Discord channels used for distribution.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "domain",
-      "value": "monoxide.vip"
     },
     "moomytrollz.xyz": {
       "confidence": 0.75,
@@ -56030,34 +55961,6 @@
       "type": "domain",
       "value": "nflbite.life"
     },
-    "niceph.asia": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:01:09",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese credit card brand Orico, hosted at niceph.asia, reported by Team NA4Sec.",
-      "threat_type": "phishing",
-      "tweet_id": "2113148635198505200",
-      "type": "domain",
-      "value": "niceph.asia"
-    },
-    "niceph.asia/hbsraitb": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:01:09",
-      "enriched_at": "2026-10-22T06:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japanese credit card brand Orico, hosted at niceph.asia, reported by Team NA4Sec.",
-      "threat_type": "phishing",
-      "tweet_id": "2113148635198505200",
-      "type": "url",
-      "value": "https://niceph.asia/hbsraitb/"
-    },
     "nid.weffm.p-e.kr": {
       "confidence": 0.85,
       "date": "2026-11-17 02:32:57",
@@ -56164,6 +56067,20 @@
       "tweet_id": "2121984020695458206",
       "type": "domain",
       "value": "noticeofreassessmentfromcnadarevenueagency.cfd"
+    },
+    "nourishbeyondlife.info": {
+      "confidence": 0.85,
+      "date": "2026-11-21 05:03:38",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing alert about a cloud storage warning lure using the unrelated domain nourishbeyondlife[.]info.",
+      "threat_type": "phishing",
+      "tweet_id": "2124005796090646856",
+      "type": "domain",
+      "value": "nourishbeyondlife.info"
     },
     "nov6fp-zone-1488-reg.westus2.cloudapp.azure.com": {
       "confidence": 0.45,
@@ -56991,6 +56908,34 @@
       "tweet_id": "2122518322654949541",
       "type": "domain",
       "value": "owna.loveslife.biz"
+    },
+    "p0rtal-stpmex.cfd": {
+      "confidence": 0.9,
+      "date": "2026-11-21 02:18:13",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site p0rtal-stpmex[.]cfd mimicking a SPEI/STP Mexico login, hosted on IP 148.135.85.193 (AS35916, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2123964165697974667",
+      "type": "domain",
+      "value": "p0rtal-stpmex.cfd"
+    },
+    "p0rtal-stpmex.cfd/spei/login/code": {
+      "confidence": 0.9,
+      "date": "2026-11-21 02:18:13",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site p0rtal-stpmex[.]cfd mimicking a SPEI/STP Mexico login, hosted on IP 148.135.85.193 (AS35916, US).",
+      "threat_type": "phishing",
+      "tweet_id": "2123964165697974667",
+      "type": "url",
+      "value": "https://p0rtal-stpmex.cfd/spei/login/code"
     },
     "p55abnw2pnsz0bo.icu": {
       "confidence": 0.3,
@@ -64212,6 +64157,22 @@
       "type": "domain",
       "value": "superannuation-jp.com"
     },
+    "superiorcode-jp.com": {
+      "confidence": 0.8,
+      "date": "2026-11-21 00:12:12",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "phishing",
+        "malware"
+      ],
+      "summary": "Android malware disguised as a Sumitomo Mitsui card, distributed via phishing domains gamblingcrew-jp.com, jiuyangdaming-jp.com and superiorcode-jp.com.",
+      "threat_type": "malware",
+      "tweet_id": "2123932453756961162",
+      "type": "domain",
+      "value": "superiorcode-jp.com"
+    },
     "support-team.website": {
       "confidence": 0.85,
       "date": "2026-11-15 20:11:09",
@@ -64858,21 +64819,6 @@
       "tweet_id": "2115074811277803914",
       "type": "url",
       "value": "https://t.me/IRSsupportline"
-    },
-    "t.me/monoxidevip": {
-      "confidence": 0.8,
-      "date": "2026-10-22 06:29:10",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Monoxide RAT",
-      "suggested_tags": [
-        "rat",
-        "malware"
-      ],
-      "summary": "Monoxide RAT indicators: User-Agent MonoxideClient/1.0 and Telegram channel t[.]me/monoxidevip used for distribution.",
-      "threat_type": "malware",
-      "tweet_id": "2110315829606687172",
-      "type": "url",
-      "value": "http://t.me/monoxidevip"
     },
     "t3389.workers.dev": {
       "confidence": 0.75,
@@ -67115,6 +67061,34 @@
       "type": "domain",
       "value": "vintedd.duckdns.org"
     },
+    "violet.maevwd.asia": {
+      "confidence": 0.9,
+      "date": "2026-11-21 04:03:35",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating VISA hosted at violet.maevwd.asia, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2123990683723911548",
+      "type": "domain",
+      "value": "violet.maevwd.asia"
+    },
+    "violet.maevwd.asia/nmswcggq": {
+      "confidence": 0.9,
+      "date": "2026-11-21 04:03:35",
+      "enriched_at": "2026-11-21T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site impersonating VISA hosted at violet.maevwd.asia, reported in Japanese.",
+      "threat_type": "phishing",
+      "tweet_id": "2123990683723911548",
+      "type": "url",
+      "value": "https://violet.maevwd.asia/NmSWcgGq/"
+    },
     "vip-life.vip": {
       "confidence": 0.8,
       "date": "2026-11-18 15:01:29",
@@ -69277,20 +69251,6 @@
       "type": "domain",
       "value": "xsvervd.sbs"
     },
-    "xtweixiu.com": {
-      "confidence": 0.9,
-      "date": "2026-10-22 06:25:14",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Japanese phishing site impersonating SMBC (Mitsui Sumitomo) at xtweixiu[.]com, hosted on 107.174.39[.]142.",
-      "threat_type": "phishing",
-      "tweet_id": "2113154696005529875",
-      "type": "domain",
-      "value": "xtweixiu.com"
-    },
     "xxhigh.top": {
       "confidence": 0.5,
       "date": "2026-11-17 15:33:28",
@@ -70459,6 +70419,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-21T00:40:03Z",
+  "generated_at": "2026-11-21T06:40:04Z",
   "window_days": 30
 }
