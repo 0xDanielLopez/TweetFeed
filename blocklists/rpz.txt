@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2071
-; Updated: 2026-11-21T00:18:19Z
+; Entries: 2074
+; Updated: 2026-11-21T00:32:00Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795220299 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795221120 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1834,6 +1834,8 @@ g.meet.e2qs0.com CNAME .
 *.g.meet.e2qs0.com CNAME .
 gadgetcandyzu.com CNAME .
 *.gadgetcandyzu.com CNAME .
+gamblingcrew-jp.com CNAME .
+*.gamblingcrew-jp.com CNAME .
 gamsterb.ink CNAME .
 *.gamsterb.ink CNAME .
 geils.eu.cc CNAME .
@@ -2192,6 +2194,8 @@ jg97xz957ekix.scienceontheweb.net CNAME .
 *.jg97xz957ekix.scienceontheweb.net CNAME .
 jimcooks211.github.io CNAME .
 *.jimcooks211.github.io CNAME .
+jiuyangdaming-jp.com CNAME .
+*.jiuyangdaming-jp.com CNAME .
 jiyyax.com CNAME .
 *.jiyyax.com CNAME .
 jn3cdjkapruvabqpfrvjslecoh.john-miller1only.workers.dev CNAME .
@@ -3562,6 +3566,8 @@ sunnyinspace-jp.com CNAME .
 *.sunnyinspace-jp.com CNAME .
 superannuation-jp.com CNAME .
 *.superannuation-jp.com CNAME .
+superiorcode-jp.com CNAME .
+*.superiorcode-jp.com CNAME .
 support-team.website CNAME .
 *.support-team.website CNAME .
 support.autoimpounds.com CNAME .
