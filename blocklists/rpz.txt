@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2081
-; Updated: 2026-11-21T10:30:33Z
+; Entries: 2090
+; Updated: 2026-11-21T12:00:36Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795257033 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795262436 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2050,6 +2050,8 @@ hotelnov26.blogspot.com CNAME .
 *.hotelnov26.blogspot.com CNAME .
 hotsitar.com CNAME .
 *.hotsitar.com CNAME .
+hrzqyx.cc CNAME .
+*.hrzqyx.cc CNAME .
 https-www-roblox.com CNAME .
 *.https-www-roblox.com CNAME .
 hubert-chauffage.fr CNAME .
@@ -2138,6 +2140,10 @@ instalprime.com.br CNAME .
 *.instalprime.com.br CNAME .
 instance-hsiwi5-relay.screenconnect.com CNAME .
 *.instance-hsiwi5-relay.screenconnect.com CNAME .
+instance-mfdh1z-relay.screenconnect.com CNAME .
+*.instance-mfdh1z-relay.screenconnect.com CNAME .
+instance-vzx9mk-relay.screenconnect.com CNAME .
+*.instance-vzx9mk-relay.screenconnect.com CNAME .
 insuranceforteenagedrivers.com CNAME .
 *.insuranceforteenagedrivers.com CNAME .
 integercdn.com CNAME .
@@ -2316,6 +2322,8 @@ lai.windows22.help CNAME .
 *.lai.windows22.help CNAME .
 languageschool-jp.com CNAME .
 *.languageschool-jp.com CNAME .
+lanternclip.live CNAME .
+*.lanternclip.live CNAME .
 lapaca.webdirecto.com CNAME .
 *.lapaca.webdirecto.com CNAME .
 lapartdesanges-jp.com CNAME .
@@ -2396,6 +2404,8 @@ ludetang.com CNAME .
 *.ludetang.com CNAME .
 lumakentolorizeranexo.digital CNAME .
 *.lumakentolorizeranexo.digital CNAME .
+lumensupply.site CNAME .
+*.lumensupply.site CNAME .
 lumitakes5gcreatinedaily.xyz CNAME .
 *.lumitakes5gcreatinedaily.xyz CNAME .
 luxuryfitnesslabs.com CNAME .
@@ -2776,6 +2786,8 @@ p55abnw2pnsz0bo.icu CNAME .
 *.p55abnw2pnsz0bo.icu CNAME .
 packagingnews-jp.com CNAME .
 *.packagingnews-jp.com CNAME .
+paduaacademy.screenconnect.com CNAME .
+*.paduaacademy.screenconnect.com CNAME .
 pah.com.my CNAME .
 *.pah.com.my CNAME .
 paiwdlasd.com CNAME .
@@ -2828,6 +2840,8 @@ pharmalog-api-f7hvbrcfdgfjgrcg.z01.azurefd.net CNAME .
 *.pharmalog-api-f7hvbrcfdgfjgrcg.z01.azurefd.net CNAME .
 phppatcher.com CNAME .
 *.phppatcher.com CNAME .
+pifilubihu.shop CNAME .
+*.pifilubihu.shop CNAME .
 pinkgirl-tv.com CNAME .
 *.pinkgirl-tv.com CNAME .
 pitmasterrecipes.com CNAME .
@@ -2964,6 +2978,8 @@ purvoyage.com CNAME .
 *.purvoyage.com CNAME .
 pussycat.online CNAME .
 *.pussycat.online CNAME .
+pxmas.click CNAME .
+*.pxmas.click CNAME .
 q1ls1ho9x7wsxlu.icu CNAME .
 *.q1ls1ho9x7wsxlu.icu CNAME .
 qbqxgnbsnb.a.pinggy.link CNAME .
@@ -3926,6 +3942,8 @@ wallet-update.at CNAME .
 *.wallet-update.at CNAME .
 wangluoduqiu-jp.com CNAME .
 *.wangluoduqiu-jp.com CNAME .
+wangty.site CNAME .
+*.wangty.site CNAME .
 waqfggna.eu.cc CNAME .
 *.waqfggna.eu.cc CNAME .
 warden7xzx54m6xk2zn5wpptekpe5rgewdjkfxnkjuu63fbbvjnljrqd.onion CNAME .

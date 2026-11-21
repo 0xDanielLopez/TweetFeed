@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-21 11:45:33 (UTC)</th>
+        <th colspan=4>2026-11-21 12:00:37 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,11 +187,11 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 11 | 1003 | 2973 | 43917 |
-| **:globe_with_meridians: Domains** | 11 | 746 | 2280 | 37685 |
+| **:link: URLs** | 23 | 1015 | 2985 | 43929 |
+| **:globe_with_meridians: Domains** | 20 | 755 | 2289 | 37694 |
 | **:triangular_flag_on_post: IPs** | 3 | 252 | 1136 | 8329 |
 | **:1234: SHA256** | 3 | 283 | 777 | 3582 |
-| **:1234: MD5** | 0 | 85 | 188 | 2054 |
+| **:1234: MD5** | 1 | 86 | 189 | 2055 |
 
 </div>
 
@@ -204,7 +204,7 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 19 | 644 | 2380 | 30514 |
+| **#phishing** | 34 | 659 | 2395 | 30529 |
 | **#Kimsuky** | 0 | 68 | 88 | 13383 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
 | **#malware** | 8 | 342 | 1399 | 4756 |
@@ -229,14 +229,14 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [masaomi346](https://x.com/masaomi346) | 9 |
-| **#2** | [PhishStats](https://x.com/PhishStats) | 6 |
-| **#3** | [skocherhan](https://x.com/skocherhan) | 5 |
-| **#4** | [TKemmerling](https://x.com/TKemmerling) | 4 |
-| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
-| **#6** | [Cryptolaemus1](https://x.com/Cryptolaemus1) | 1 |
-| **#7** | [ShanHolo](https://x.com/ShanHolo) | 1 |
-| **#8** | [-](https://x.com/-) | 0 |
+| **#1** | [skocherhan](https://x.com/skocherhan) | 21 |
+| **#2** | [masaomi346](https://x.com/masaomi346) | 9 |
+| **#3** | [PhishStats](https://x.com/PhishStats) | 6 |
+| **#4** | [scanmalware](https://x.com/scanmalware) | 6 |
+| **#5** | [TKemmerling](https://x.com/TKemmerling) | 4 |
+| **#6** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#7** | [Cryptolaemus1](https://x.com/Cryptolaemus1) | 1 |
+| **#8** | [ShanHolo](https://x.com/ShanHolo) | 1 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
 <!-- TOP_REPORTERS_END -->
