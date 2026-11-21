@@ -1,1 +1,1 @@
-{"count":1,"entries":{"213.145.86.42":[{"confidence":"medium","id":"tfc-037f20476929","ioc_count":65,"last_seen":"2026-11-19","name":"Sliver C2 server IPs","threat_types":["c2"]}]}}
+{"count":2,"entries":{"213.145.86.42":[{"confidence":"medium","id":"tfc-037f20476929","ioc_count":61,"last_seen":"2026-11-19","name":"Sliver C2 server IPs","threat_types":["c2"]}],"nexs.my:443":[{"confidence":"medium","id":"tfc-f0664758cdd7","ioc_count":6,"last_seen":"2026-11-20","name":"VSPMsg DLL-sideloading payload staging on nexs.my","threat_types":["c2","malware"]}]}}
