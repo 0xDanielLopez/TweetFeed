@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2075
-; Updated: 2026-11-21T00:47:19Z
+; Entries: 2076
+; Updated: 2026-11-21T02:32:45Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795222039 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795228365 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2762,6 +2762,8 @@ ow-rat-panel.1ow.workers.dev CNAME .
 *.ow-rat-panel.1ow.workers.dev CNAME .
 owna.loveslife.biz CNAME .
 *.owna.loveslife.biz CNAME .
+p0rtal-stpmex.cfd CNAME .
+*.p0rtal-stpmex.cfd CNAME .
 p55abnw2pnsz0bo.icu CNAME .
 *.p55abnw2pnsz0bo.icu CNAME .
 packagingnews-jp.com CNAME .
