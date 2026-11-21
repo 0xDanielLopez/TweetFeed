@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2076
-; Updated: 2026-11-21T02:32:45Z
+; Entries: 2078
+; Updated: 2026-11-21T04:17:15Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795228365 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795234635 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -320,6 +320,8 @@ anthropic.rsvpconnect-events.com CNAME .
 *.anthropic.rsvpconnect-events.com CNAME .
 antibot-linkedin.com CNAME .
 *.antibot-linkedin.com CNAME .
+antonymoratohrvatska.info CNAME .
+*.antonymoratohrvatska.info CNAME .
 anubisclient.cc CNAME .
 *.anubisclient.cc CNAME .
 anymeetex.com CNAME .
@@ -3878,6 +3880,8 @@ vijaydarda.in CNAME .
 *.vijaydarda.in CNAME .
 vintedd.duckdns.org CNAME .
 *.vintedd.duckdns.org CNAME .
+violet.maevwd.asia CNAME .
+*.violet.maevwd.asia CNAME .
 vip-life.vip CNAME .
 *.vip-life.vip CNAME .
 viresto.us CNAME .
