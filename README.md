@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-21 10:02:10 (UTC)</th>
+        <th colspan=4>2026-11-21 10:17:52 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 9 | 1001 | 2971 | 43915 |
-| **:globe_with_meridians: Domains** | 9 | 744 | 2278 | 37683 |
+| **:link: URLs** | 10 | 1002 | 2972 | 43916 |
+| **:globe_with_meridians: Domains** | 10 | 745 | 2279 | 37684 |
 | **:triangular_flag_on_post: IPs** | 2 | 251 | 1135 | 8328 |
 | **:1234: SHA256** | 3 | 283 | 777 | 3582 |
 | **:1234: MD5** | 0 | 85 | 188 | 2054 |
@@ -233,9 +233,9 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#2** | [skocherhan](https://x.com/skocherhan) | 5 |
 | **#3** | [TKemmerling](https://x.com/TKemmerling) | 4 |
 | **#4** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#5** | [Cryptolaemus1](https://x.com/Cryptolaemus1) | 1 |
-| **#6** | [ShanHolo](https://x.com/ShanHolo) | 1 |
-| **#7** | [-](https://x.com/-) | 0 |
+| **#5** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
+| **#6** | [Cryptolaemus1](https://x.com/Cryptolaemus1) | 1 |
+| **#7** | [ShanHolo](https://x.com/ShanHolo) | 1 |
 | **#8** | [-](https://x.com/-) | 0 |
 | **#9** | [-](https://x.com/-) | 0 |
 | **#10** | [-](https://x.com/-) | 0 |
