@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #incransom IOC feed</title>
+      <link>https://tweetfeed.live/tag/incransom/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #incransom on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - #incransom IOC feed</title>
+         <link>https://tweetfeed.live/tag/incransom/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/incransom.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>45.227.254.128</title>
+         <link>https://x.com/skocherhan/status/2121809469076295843</link>
+         <description>@skocherhan | ip | #INCRansom #malware #ransomware
+Value: 45.227.254.128
+Tweet: https://x.com/skocherhan/status/2121809469076295843</description>
+         <guid isPermaLink="false">45.227.254.128</guid>
+         <pubDate>Sun, 15 Nov 2026 03:36:13 +0000</pubDate>
+         <category>ip</category>
+         <category>#INCRansom</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+      <item>
+         <title>45.227.254.45</title>
+         <link>https://x.com/skocherhan/status/2121809469076295843</link>
+         <description>@skocherhan | ip | #INCRansom #malware #ransomware
+Value: 45.227.254.45
+Tweet: https://x.com/skocherhan/status/2121809469076295843</description>
+         <guid isPermaLink="false">45.227.254.45</guid>
+         <pubDate>Sun, 15 Nov 2026 03:36:13 +0000</pubDate>
+         <category>ip</category>
+         <category>#INCRansom</category>
+         <category>#malware</category>
+         <category>#ransomware</category>
+      </item>
+   </channel>
+</rss>

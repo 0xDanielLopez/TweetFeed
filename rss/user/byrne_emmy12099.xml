@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @byrne_emmy12099</title>
+      <link>https://x.com/byrne_emmy12099</link>
+      <description>IOCs shared by @byrne_emmy12099 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @byrne_emmy12099</title>
+         <link>https://x.com/byrne_emmy12099</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/byrne_emmy12099.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>e30781cbb729a4082fc3b922455e1d01db2350d626eb3d6d7415c95a8e586242</title>
+         <link>https://x.com/byrne_emmy12099/status/2123042494254624892</link>
+         <description>@byrne_emmy12099 | sha256 | #APT
+Value: e30781cbb729a4082fc3b922455e1d01db2350d626eb3d6d7415c95a8e586242
+Tweet: https://x.com/byrne_emmy12099/status/2123042494254624892</description>
+         <guid isPermaLink="false">e30781cbb729a4082fc3b922455e1d01db2350d626eb3d6d7415c95a8e586242</guid>
+         <pubDate>Wed, 18 Nov 2026 13:15:49 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>http://mai.shayami.store/HelpUtility.exe</title>
+         <link>https://x.com/byrne_emmy12099/status/2123042494254624892</link>
+         <description>@byrne_emmy12099 | url | #APT
+Value: http://mai.shayami.store/HelpUtility.exe
+Tweet: https://x.com/byrne_emmy12099/status/2123042494254624892</description>
+         <guid isPermaLink="false">http://mai.shayami.store/HelpUtility.exe</guid>
+         <pubDate>Wed, 18 Nov 2026 13:15:49 +0000</pubDate>
+         <category>url</category>
+         <category>#APT</category>
+      </item>
+      <item>
+         <title>mai.shayami.store</title>
+         <link>https://x.com/byrne_emmy12099/status/2123042494254624892</link>
+         <description>@byrne_emmy12099 | domain | #APT
+Value: mai.shayami.store
+Tweet: https://x.com/byrne_emmy12099/status/2123042494254624892</description>
+         <guid isPermaLink="false">mai.shayami.store</guid>
+         <pubDate>Wed, 18 Nov 2026 13:15:49 +0000</pubDate>
+         <category>domain</category>
+         <category>#APT</category>
+      </item>
+   </channel>
+</rss>

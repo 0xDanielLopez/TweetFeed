@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @brian_pak</title>
+      <link>https://x.com/brian_pak</link>
+      <description>IOCs shared by @brian_pak and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @brian_pak</title>
+         <link>https://x.com/brian_pak</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/brian_pak.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>5b6822bd4709ee24927e9e053033db85b93576e9f9871e82fe6a592c565007df</title>
+         <link>https://x.com/brian_pak/status/2122695944399622177</link>
+         <description>@brian_pak | sha256 | 
+Value: 5b6822bd4709ee24927e9e053033db85b93576e9f9871e82fe6a592c565007df
+Tweet: https://x.com/brian_pak/status/2122695944399622177</description>
+         <guid isPermaLink="false">5b6822bd4709ee24927e9e053033db85b93576e9f9871e82fe6a592c565007df</guid>
+         <pubDate>Tue, 17 Nov 2026 14:18:45 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

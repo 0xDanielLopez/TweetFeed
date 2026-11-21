@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TIE__SUN</title>
+      <link>https://x.com/TIE__SUN</link>
+      <description>IOCs shared by @TIE__SUN and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @TIE__SUN</title>
+         <link>https://x.com/TIE__SUN</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/tie__sun.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://haopusd.com</title>
+         <link>https://x.com/TIE__SUN/status/2122701045591581089</link>
+         <description>@TIE__SUN | url | 
+Value: http://haopusd.com
+Tweet: https://x.com/TIE__SUN/status/2122701045591581089</description>
+         <guid isPermaLink="false">http://haopusd.com</guid>
+         <pubDate>Tue, 17 Nov 2026 14:39:01 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>haopusd.com</title>
+         <link>https://x.com/TIE__SUN/status/2122701045591581089</link>
+         <description>@TIE__SUN | domain | 
+Value: haopusd.com
+Tweet: https://x.com/TIE__SUN/status/2122701045591581089</description>
+         <guid isPermaLink="false">haopusd.com</guid>
+         <pubDate>Tue, 17 Nov 2026 14:39:01 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>206.119.104.149</title>
+         <link>https://x.com/TIE__SUN/status/2122337187459203318</link>
+         <description>@TIE__SUN | ip | 
+Value: 206.119.104.149
+Tweet: https://x.com/TIE__SUN/status/2122337187459203318</description>
+         <guid isPermaLink="false">206.119.104.149</guid>
+         <pubDate>Mon, 16 Nov 2026 14:33:11 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://206.119.104.149:8081/.cairn/references/Cairn%20OKF/.snapshots/</title>
+         <link>https://x.com/TIE__SUN/status/2122337187459203318</link>
+         <description>@TIE__SUN | url | 
+Value: http://206.119.104.149:8081/.cairn/references/Cairn%20OKF/.snapshots/
+Tweet: https://x.com/TIE__SUN/status/2122337187459203318</description>
+         <guid isPermaLink="false">http://206.119.104.149:8081/.cairn/references/Cairn%20OKF/.snapshots/</guid>
+         <pubDate>Mon, 16 Nov 2026 14:33:11 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

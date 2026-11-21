@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @SecurityAura</title>
+      <link>https://x.com/SecurityAura</link>
+      <description>IOCs shared by @SecurityAura and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @SecurityAura</title>
+         <link>https://x.com/SecurityAura</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/securityaura.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>ca512d73d5b91f415342e8dfd98aaacb8125cbd448ef95e784af64ab45705ff6</title>
+         <link>https://x.com/SecurityAura/status/2122355982080631156</link>
+         <description>@SecurityAura | sha256 | 
+Value: ca512d73d5b91f415342e8dfd98aaacb8125cbd448ef95e784af64ab45705ff6
+Tweet: https://x.com/SecurityAura/status/2122355982080631156</description>
+         <guid isPermaLink="false">ca512d73d5b91f415342e8dfd98aaacb8125cbd448ef95e784af64ab45705ff6</guid>
+         <pubDate>Mon, 16 Nov 2026 15:47:52 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>8.210.69.51</title>
+         <link>https://x.com/SecurityAura/status/2122355982080631156</link>
+         <description>@SecurityAura | ip | 
+Value: 8.210.69.51
+Tweet: https://x.com/SecurityAura/status/2122355982080631156</description>
+         <guid isPermaLink="false">8.210.69.51</guid>
+         <pubDate>Mon, 16 Nov 2026 15:47:52 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>https://8.210.69.51/dl/b2_py39_agent.7z</title>
+         <link>https://x.com/SecurityAura/status/2122355982080631156</link>
+         <description>@SecurityAura | url | 
+Value: https://8.210.69.51/dl/b2_py39_agent.7z
+Tweet: https://x.com/SecurityAura/status/2122355982080631156</description>
+         <guid isPermaLink="false">https://8.210.69.51/dl/b2_py39_agent.7z</guid>
+         <pubDate>Mon, 16 Nov 2026 15:47:52 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

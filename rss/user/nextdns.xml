@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @NextDNS</title>
+      <link>https://x.com/NextDNS</link>
+      <description>IOCs shared by @NextDNS and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @NextDNS</title>
+         <link>https://x.com/NextDNS</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/nextdns.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://3601688.cc</title>
+         <link>https://x.com/NextDNS/status/2122700591298449845</link>
+         <description>@NextDNS | url | 
+Value: http://3601688.cc
+Tweet: https://x.com/NextDNS/status/2122700591298449845</description>
+         <guid isPermaLink="false">http://3601688.cc</guid>
+         <pubDate>Tue, 17 Nov 2026 14:37:13 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>3601688.cc</title>
+         <link>https://x.com/NextDNS/status/2122700591298449845</link>
+         <description>@NextDNS | domain | 
+Value: 3601688.cc
+Tweet: https://x.com/NextDNS/status/2122700591298449845</description>
+         <guid isPermaLink="false">3601688.cc</guid>
+         <pubDate>Tue, 17 Nov 2026 14:37:13 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

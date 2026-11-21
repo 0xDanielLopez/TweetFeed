@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @IamJaipee</title>
+      <link>https://x.com/IamJaipee</link>
+      <description>IOCs shared by @IamJaipee and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @IamJaipee</title>
+         <link>https://x.com/IamJaipee</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/iamjaipee.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>83.141.90.19</title>
+         <link>https://x.com/IamJaipee/status/2123271193021366396</link>
+         <description>@IamJaipee | ip | #ClickFix #malware
+Value: 83.141.90.19
+Tweet: https://x.com/IamJaipee/status/2123271193021366396</description>
+         <guid isPermaLink="false">83.141.90.19</guid>
+         <pubDate>Thu, 19 Nov 2026 04:24:35 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

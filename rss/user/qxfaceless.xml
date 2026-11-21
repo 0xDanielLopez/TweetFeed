@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @qxfaceless</title>
+      <link>https://x.com/qxfaceless</link>
+      <description>IOCs shared by @qxfaceless and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @qxfaceless</title>
+         <link>https://x.com/qxfaceless</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/qxfaceless.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>107.172.3.44</title>
+         <link>https://x.com/qxfaceless/status/2123878246475497908</link>
+         <description>@qxfaceless | ip | #C2
+Value: 107.172.3.44
+Tweet: https://x.com/qxfaceless/status/2123878246475497908</description>
+         <guid isPermaLink="false">107.172.3.44</guid>
+         <pubDate>Fri, 20 Nov 2026 20:36:48 +0000</pubDate>
+         <category>ip</category>
+         <category>#C2</category>
+      </item>
+   </channel>
+</rss>

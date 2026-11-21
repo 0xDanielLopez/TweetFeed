@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @PaganiGouda</title>
+      <link>https://x.com/PaganiGouda</link>
+      <description>IOCs shared by @PaganiGouda and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @PaganiGouda</title>
+         <link>https://x.com/PaganiGouda</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/paganigouda.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://jun8821.ink</title>
+         <link>https://x.com/PaganiGouda/status/2123063516714373374</link>
+         <description>@PaganiGouda | url | #phishing
+Value: http://jun8821.ink
+Tweet: https://x.com/PaganiGouda/status/2123063516714373374</description>
+         <guid isPermaLink="false">http://jun8821.ink</guid>
+         <pubDate>Wed, 18 Nov 2026 14:39:21 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>jun8821.ink</title>
+         <link>https://x.com/PaganiGouda/status/2123063516714373374</link>
+         <description>@PaganiGouda | domain | #phishing
+Value: jun8821.ink
+Tweet: https://x.com/PaganiGouda/status/2123063516714373374</description>
+         <guid isPermaLink="false">jun8821.ink</guid>
+         <pubDate>Wed, 18 Nov 2026 14:39:21 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

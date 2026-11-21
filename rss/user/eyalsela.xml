@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @eyalsela</title>
+      <link>https://x.com/eyalsela</link>
+      <description>IOCs shared by @eyalsela and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @eyalsela</title>
+         <link>https://x.com/eyalsela</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/eyalsela.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://api.mail.tm/domains</title>
+         <link>https://x.com/eyalsela/status/2104283392095256651</link>
+         <description>@eyalsela | url | 
+Value: https://api.mail.tm/domains
+Tweet: https://x.com/eyalsela/status/2104283392095256651</description>
+         <guid isPermaLink="false">https://api.mail.tm/domains</guid>
+         <pubDate>Wed, 18 Nov 2026 18:51:52 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>api.mail.tm</title>
+         <link>https://x.com/eyalsela/status/2104283392095256651</link>
+         <description>@eyalsela | domain | 
+Value: api.mail.tm
+Tweet: https://x.com/eyalsela/status/2104283392095256651</description>
+         <guid isPermaLink="false">api.mail.tm</guid>
+         <pubDate>Wed, 18 Nov 2026 18:51:52 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

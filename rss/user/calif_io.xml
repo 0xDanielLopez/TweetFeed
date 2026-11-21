@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @calif_io</title>
+      <link>https://x.com/calif_io</link>
+      <description>IOCs shared by @calif_io and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @calif_io</title>
+         <link>https://x.com/calif_io</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/calif_io.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>19e1b44520669be6269a485a3f361de95e800e68cb6d880285f5d5f4b34bf10f</title>
+         <link>https://x.com/calif_io/status/2116041992174277097</link>
+         <description>@calif_io | sha256 | 
+Value: 19e1b44520669be6269a485a3f361de95e800e68cb6d880285f5d5f4b34bf10f
+Tweet: https://x.com/calif_io/status/2116041992174277097</description>
+         <guid isPermaLink="false">19e1b44520669be6269a485a3f361de95e800e68cb6d880285f5d5f4b34bf10f</guid>
+         <pubDate>Tue, 17 Nov 2026 16:17:49 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

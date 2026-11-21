@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @abuse_ch</title>
+      <link>https://x.com/abuse_ch</link>
+      <description>IOCs shared by @abuse_ch and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @abuse_ch</title>
+         <link>https://x.com/abuse_ch</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/abuse_ch.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>2bdd74a995a3c5545eca1d8da28697f356b987b0af582ce6a38fa70c2016b021</title>
+         <link>https://x.com/abuse_ch/status/2123749981932703981</link>
+         <description>@abuse_ch | sha256 | 
+Value: 2bdd74a995a3c5545eca1d8da28697f356b987b0af582ce6a38fa70c2016b021
+Tweet: https://x.com/abuse_ch/status/2123749981932703981</description>
+         <guid isPermaLink="false">2bdd74a995a3c5545eca1d8da28697f356b987b0af582ce6a38fa70c2016b021</guid>
+         <pubDate>Fri, 20 Nov 2026 12:07:07 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>1b6dbe690f9b0e15dc4b97cf8141ca14ceb9ce0a1578e680bb6b85c2c4400c87</title>
+         <link>https://x.com/abuse_ch/status/2122685430260715557</link>
+         <description>@abuse_ch | sha256 | 
+Value: 1b6dbe690f9b0e15dc4b97cf8141ca14ceb9ce0a1578e680bb6b85c2c4400c87
+Tweet: https://x.com/abuse_ch/status/2122685430260715557</description>
+         <guid isPermaLink="false">1b6dbe690f9b0e15dc4b97cf8141ca14ceb9ce0a1578e680bb6b85c2c4400c87</guid>
+         <pubDate>Tue, 17 Nov 2026 13:36:58 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>https://xeffstealer.xyz/api/ingest</title>
+         <link>https://x.com/abuse_ch/status/2122685430260715557</link>
+         <description>@abuse_ch | url | 
+Value: https://xeffstealer.xyz/api/ingest
+Tweet: https://x.com/abuse_ch/status/2122685430260715557</description>
+         <guid isPermaLink="false">https://xeffstealer.xyz/api/ingest</guid>
+         <pubDate>Tue, 17 Nov 2026 13:36:58 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>xeffstealer.xyz</title>
+         <link>https://x.com/abuse_ch/status/2122685430260715557</link>
+         <description>@abuse_ch | domain | 
+Value: xeffstealer.xyz
+Tweet: https://x.com/abuse_ch/status/2122685430260715557</description>
+         <guid isPermaLink="false">xeffstealer.xyz</guid>
+         <pubDate>Tue, 17 Nov 2026 13:36:58 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #trojan IOC feed</title>
+      <link>https://tweetfeed.live/tag/trojan/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #trojan on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - #trojan IOC feed</title>
+         <link>https://tweetfeed.live/tag/trojan/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/trojan.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>ccfc9eb670411c2915ae609322b8aa1d</title>
+         <link>https://x.com/Fact_Finder03/status/2123688482539458875</link>
+         <description>@Fact_Finder03 | md5 | #Trojan
+Value: ccfc9eb670411c2915ae609322b8aa1d
+Tweet: https://x.com/Fact_Finder03/status/2123688482539458875</description>
+         <guid isPermaLink="false">ccfc9eb670411c2915ae609322b8aa1d</guid>
+         <pubDate>Fri, 20 Nov 2026 08:02:45 +0000</pubDate>
+         <category>md5</category>
+         <category>#Trojan</category>
+      </item>
+      <item>
+         <title>7efc3771b72213cb2a8be2a0d1a881c3</title>
+         <link>https://x.com/Fact_Finder03/status/2123688482539458875</link>
+         <description>@Fact_Finder03 | md5 | #Trojan
+Value: 7efc3771b72213cb2a8be2a0d1a881c3
+Tweet: https://x.com/Fact_Finder03/status/2123688482539458875</description>
+         <guid isPermaLink="false">7efc3771b72213cb2a8be2a0d1a881c3</guid>
+         <pubDate>Fri, 20 Nov 2026 08:02:45 +0000</pubDate>
+         <category>md5</category>
+         <category>#Trojan</category>
+      </item>
+      <item>
+         <title>31.76.252.188</title>
+         <link>https://x.com/Fact_Finder03/status/2123688482539458875</link>
+         <description>@Fact_Finder03 | ip | #Trojan
+Value: 31.76.252.188
+Tweet: https://x.com/Fact_Finder03/status/2123688482539458875</description>
+         <guid isPermaLink="false">31.76.252.188</guid>
+         <pubDate>Fri, 20 Nov 2026 08:02:45 +0000</pubDate>
+         <category>ip</category>
+         <category>#Trojan</category>
+      </item>
+   </channel>
+</rss>

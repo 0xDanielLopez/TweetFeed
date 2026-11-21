@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @LupovisDefence</title>
+      <link>https://x.com/LupovisDefence</link>
+      <description>IOCs shared by @LupovisDefence and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @LupovisDefence</title>
+         <link>https://x.com/LupovisDefence</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/lupovisdefence.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>136.243.107.52</title>
+         <link>https://x.com/LupovisDefence/status/2123117926639157666</link>
+         <description>@LupovisDefence | ip | 
+Value: 136.243.107.52
+Tweet: https://x.com/LupovisDefence/status/2123117926639157666</description>
+         <guid isPermaLink="false">136.243.107.52</guid>
+         <pubDate>Wed, 18 Nov 2026 18:15:33 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>157.245.86.121</title>
+         <link>https://x.com/LupovisDefence/status/2123117926639157666</link>
+         <description>@LupovisDefence | ip | 
+Value: 157.245.86.121
+Tweet: https://x.com/LupovisDefence/status/2123117926639157666</description>
+         <guid isPermaLink="false">157.245.86.121</guid>
+         <pubDate>Wed, 18 Nov 2026 18:15:33 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://server.host</title>
+         <link>https://x.com/LupovisDefence/status/2123117926639157666</link>
+         <description>@LupovisDefence | url | 
+Value: http://server.host
+Tweet: https://x.com/LupovisDefence/status/2123117926639157666</description>
+         <guid isPermaLink="false">http://server.host</guid>
+         <pubDate>Wed, 18 Nov 2026 18:15:33 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>server.host</title>
+         <link>https://x.com/LupovisDefence/status/2123117926639157666</link>
+         <description>@LupovisDefence | domain | 
+Value: server.host
+Tweet: https://x.com/LupovisDefence/status/2123117926639157666</description>
+         <guid isPermaLink="false">server.host</guid>
+         <pubDate>Wed, 18 Nov 2026 18:15:33 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @TheKn0ck0ut</title>
+      <link>https://x.com/TheKn0ck0ut</link>
+      <description>IOCs shared by @TheKn0ck0ut and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @TheKn0ck0ut</title>
+         <link>https://x.com/TheKn0ck0ut</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/thekn0ck0ut.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://en0.de</title>
+         <link>https://x.com/TheKn0ck0ut/status/2123537925795115323</link>
+         <description>@TheKn0ck0ut | url | 
+Value: http://en0.de
+Tweet: https://x.com/TheKn0ck0ut/status/2123537925795115323</description>
+         <guid isPermaLink="false">http://en0.de</guid>
+         <pubDate>Thu, 19 Nov 2026 22:04:29 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>en0.de</title>
+         <link>https://x.com/TheKn0ck0ut/status/2123537925795115323</link>
+         <description>@TheKn0ck0ut | domain | 
+Value: en0.de
+Tweet: https://x.com/TheKn0ck0ut/status/2123537925795115323</description>
+         <guid isPermaLink="false">en0.de</guid>
+         <pubDate>Thu, 19 Nov 2026 22:04:29 +0000</pubDate>
+         <category>domain</category>
+      </item>
+      <item>
+         <title>1c2f226a8f95e838d2636b8766fbb2510b311ad6bc2bebea401a291be09643ce</title>
+         <link>https://x.com/TheKn0ck0ut/status/2123100882380247228</link>
+         <description>@TheKn0ck0ut | sha256 | 
+Value: 1c2f226a8f95e838d2636b8766fbb2510b311ad6bc2bebea401a291be09643ce
+Tweet: https://x.com/TheKn0ck0ut/status/2123100882380247228</description>
+         <guid isPermaLink="false">1c2f226a8f95e838d2636b8766fbb2510b311ad6bc2bebea401a291be09643ce</guid>
+         <pubDate>Wed, 18 Nov 2026 17:07:50 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>bd92efe1ffe1a83bc34c4685872220f79c2da9b43450efb4c079bc5e8e4a960c</title>
+         <link>https://x.com/TheKn0ck0ut/status/2122120027763614176</link>
+         <description>@TheKn0ck0ut | sha256 | 
+Value: bd92efe1ffe1a83bc34c4685872220f79c2da9b43450efb4c079bc5e8e4a960c
+Tweet: https://x.com/TheKn0ck0ut/status/2122120027763614176</description>
+         <guid isPermaLink="false">bd92efe1ffe1a83bc34c4685872220f79c2da9b43450efb4c079bc5e8e4a960c</guid>
+         <pubDate>Mon, 16 Nov 2026 00:10:16 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

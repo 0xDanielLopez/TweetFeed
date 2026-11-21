@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @oroshi0064</title>
+      <link>https://x.com/oroshi0064</link>
+      <description>IOCs shared by @oroshi0064 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @oroshi0064</title>
+         <link>https://x.com/oroshi0064</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/oroshi0064.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:02:48 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://ffxivevents.info/claim/</title>
+         <link>https://x.com/oroshi0064/status/2122466501018198136</link>
+         <description>@oroshi0064 | url | #phishing
+Value: https://ffxivevents.info/claim/
+Tweet: https://x.com/oroshi0064/status/2122466501018198136</description>
+         <guid isPermaLink="false">https://ffxivevents.info/claim/</guid>
+         <pubDate>Mon, 16 Nov 2026 23:07:02 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>ffxivevents.info</title>
+         <link>https://x.com/oroshi0064/status/2122466501018198136</link>
+         <description>@oroshi0064 | domain | #phishing
+Value: ffxivevents.info
+Tweet: https://x.com/oroshi0064/status/2122466501018198136</description>
+         <guid isPermaLink="false">ffxivevents.info</guid>
+         <pubDate>Mon, 16 Nov 2026 23:07:02 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>
