@@ -1,7 +1,7 @@
 # TweetFeed blocklist - full URL list (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 2746
-# Updated: 2026-11-21T10:17:51Z
+# Entries: 2747
+# Updated: 2026-11-21T10:30:33Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -2143,6 +2143,7 @@ https://auth0-google.com/index.html
 https://auth0-google.com/password.html
 https://auth0-google.com/v3/signin/challenge/totp
 https://auth0-google.com/verify.html
+https://auto.trovit.be
 https://autosseba.be
 https://aztechires.site
 https://berimazinjagentleman.sbs/common?key=63nkaf68d

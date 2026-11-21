@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2080
-# Updated: 2026-11-21T10:17:51Z
+# Entries: 2081
+# Updated: 2026-11-21T10:30:33Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -375,6 +375,7 @@ address=/auditormadrid.es/0.0.0.0
 address=/aumcvy8y.onlinewebshop.net/0.0.0.0
 address=/auth0-google.com/0.0.0.0
 address=/authy-ledger.at/0.0.0.0
+address=/auto.trovit.be/0.0.0.0
 address=/autosseba.be/0.0.0.0
 address=/avinfra.in/0.0.0.0
 address=/aw.ktonemail.com/0.0.0.0
