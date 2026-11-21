@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2091
-; Updated: 2026-11-21T12:30:38Z
+; Entries: 2103
+; Updated: 2026-11-21T13:00:39Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795264238 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795266039 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -244,6 +244,8 @@ ai-gateway.internal-corp.com CNAME .
 *.ai-gateway.internal-corp.com CNAME .
 airbnb-poland.com CNAME .
 *.airbnb-poland.com CNAME .
+airport.adam-46c.workers.dev CNAME .
+*.airport.adam-46c.workers.dev CNAME .
 aisikeen.com CNAME .
 *.aisikeen.com CNAME .
 aji9w5i3.scienceontheweb.net CNAME .
@@ -700,6 +702,8 @@ archive-download.click CNAME .
 *.archive-download.click CNAME .
 archive-page.click CNAME .
 *.archive-page.click CNAME .
+arehuekiddingme.com CNAME .
+*.arehuekiddingme.com CNAME .
 armoky.com CNAME .
 *.armoky.com CNAME .
 arpa.org.bd CNAME .
@@ -888,6 +892,8 @@ bradesco.tel CNAME .
 *.bradesco.tel CNAME .
 breeze.gscahf.cn CNAME .
 *.breeze.gscahf.cn CNAME .
+brightpress.site CNAME .
+*.brightpress.site CNAME .
 brimembal.com CNAME .
 *.brimembal.com CNAME .
 broadspancapital.com CNAME .
@@ -1946,6 +1952,8 @@ grillprocraft.com CNAME .
 *.grillprocraft.com CNAME .
 grillrecipespro.com CNAME .
 *.grillrecipespro.com CNAME .
+grove-satin.com CNAME .
+*.grove-satin.com CNAME .
 guangchunbelt-jp.com CNAME .
 *.guangchunbelt-jp.com CNAME .
 guanlansec.com CNAME .
@@ -2034,6 +2042,8 @@ hnrtqbsfwxm.cfd CNAME .
 *.hnrtqbsfwxm.cfd CNAME .
 hollowly.cfd CNAME .
 *.hollowly.cfd CNAME .
+homebrexwin.com CNAME .
+*.homebrexwin.com CNAME .
 homegardenfocus.com CNAME .
 *.homegardenfocus.com CNAME .
 homehearthcooks.com CNAME .
@@ -2298,6 +2308,8 @@ klenna.top CNAME .
 *.klenna.top CNAME .
 klinhsrg.lol CNAME .
 *.klinhsrg.lol CNAME .
+kmtxyn.com CNAME .
+*.kmtxyn.com CNAME .
 koalapocket.com CNAME .
 *.koalapocket.com CNAME .
 kokcsgo.com CNAME .
@@ -2686,6 +2698,8 @@ nintendo-co.jp.sdfgef.com CNAME .
 *.nintendo-co.jp.sdfgef.com CNAME .
 nodvian.us CNAME .
 *.nodvian.us CNAME .
+nomeibrew.com CNAME .
+*.nomeibrew.com CNAME .
 noroveli.com CNAME .
 *.noroveli.com CNAME .
 notepal.me CNAME .
@@ -2844,6 +2858,8 @@ pifilubihu.shop CNAME .
 *.pifilubihu.shop CNAME .
 pinkgirl-tv.com CNAME .
 *.pinkgirl-tv.com CNAME .
+pirloz.com CNAME .
+*.pirloz.com CNAME .
 pitmasterrecipes.com CNAME .
 *.pitmasterrecipes.com CNAME .
 pixelra2qbx7zhvb6mxdzxlo6rxm2mtouhbabqmdzyd4fesicvbz7bqd.onion CNAME .
@@ -3444,6 +3460,8 @@ sterlingdesigns-jp.com CNAME .
 *.sterlingdesigns-jp.com CNAME .
 storageimagedisplay.com CNAME .
 *.storageimagedisplay.com CNAME .
+storageprofiler.com CNAME .
+*.storageprofiler.com CNAME .
 store2.shop CNAME .
 *.store2.shop CNAME .
 strand-output-firefox-laptop.trycloudflare.com CNAME .
@@ -3658,6 +3676,8 @@ t4uwm.tik-tok-18.com CNAME .
 *.t4uwm.tik-tok-18.com CNAME .
 ta8bounconnectfhn.ink CNAME .
 *.ta8bounconnectfhn.ink CNAME .
+tacada-base.paperleaftest.com CNAME .
+*.tacada-base.paperleaftest.com CNAME .
 talkbrave.app CNAME .
 *.talkbrave.app CNAME .
 talomeet.us CNAME .
@@ -3810,6 +3830,8 @@ trustwallet.com-users.vip CNAME .
 *.trustwallet.com-users.vip CNAME .
 trynobot.com CNAME .
 *.trynobot.com CNAME .
+tuikper.site CNAME .
+*.tuikper.site CNAME .
 twistedfears-jp.com CNAME .
 *.twistedfears-jp.com CNAME .
 twnic.top CNAME .
@@ -3900,6 +3922,8 @@ vigorous-murdock.192-166-82-213.plesk.page CNAME .
 *.vigorous-murdock.192-166-82-213.plesk.page CNAME .
 vijaydarda.in CNAME .
 *.vijaydarda.in CNAME .
+vine-96.com CNAME .
+*.vine-96.com CNAME .
 vintedd.duckdns.org CNAME .
 *.vintedd.duckdns.org CNAME .
 violet.maevwd.asia CNAME .
