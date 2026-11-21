@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @DarkWebInformer</title>
+      <link>https://x.com/DarkWebInformer</link>
+      <description>IOCs shared by @DarkWebInformer and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @DarkWebInformer</title>
+         <link>https://x.com/DarkWebInformer</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/darkwebinformer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 21 Nov 2026 00:18:20 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://leaked.cz</title>
+         <link>https://x.com/DarkWebInformer/status/2123895436469485598</link>
+         <description>@DarkWebInformer | url | 
+Value: http://leaked.cz
+Tweet: https://x.com/DarkWebInformer/status/2123895436469485598</description>
+         <guid isPermaLink="false">http://leaked.cz</guid>
+         <pubDate>Fri, 20 Nov 2026 21:45:06 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>leaked.cz</title>
+         <link>https://x.com/DarkWebInformer/status/2123895436469485598</link>
+         <description>@DarkWebInformer | domain | 
+Value: leaked.cz
+Tweet: https://x.com/DarkWebInformer/status/2123895436469485598</description>
+         <guid isPermaLink="false">leaked.cz</guid>
+         <pubDate>Fri, 20 Nov 2026 21:45:06 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>
