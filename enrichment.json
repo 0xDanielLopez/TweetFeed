@@ -1,5 +1,5 @@
 {
-  "count": 4922,
+  "count": 4754,
   "dead_tweets": {
     "2114565057338343930": {
       "attempts": 2,
@@ -271,20 +271,6 @@
       "tweet_id": "2122789499545735566",
       "type": "sha256",
       "value": "031f6de77e27b282f11f74564acff3c64145315bfbac25820e822bdbeb97e03e"
-    },
-    "0329c3dcb71f6ed5eed1d17f1e945612aeba5d67cc80699d734a2df64bba1cdf": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:09:34",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Two related malware samples signed as 'SOPHISTICATED SOFTWARES (PTY) LTD', hosted on Azure blob storage as fake Windows Defender MSI installers.",
-      "threat_type": "malware",
-      "tweet_id": "2112984658157723965",
-      "type": "sha256",
-      "value": "0329c3dcb71f6ed5eed1d17f1e945612aeba5d67cc80699d734a2df64bba1cdf"
     },
     "0332688e9e6f9dab4160aa1548fd86a7": {
       "confidence": 0.5,
@@ -2456,6 +2442,22 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "107.172.15.180"
+    },
+    "107.172.3.44": {
+      "confidence": 0.6,
+      "date": "2026-11-20 20:36:48",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": "Sliver",
+      "suggested_tags": [
+        "sliver",
+        "c2",
+        "opendir"
+      ],
+      "summary": "US-based attacker infrastructure hosting Sliver, Koadic, BeEF, EternalBlue and PHP PoCs, plus Mimikatz and exfiltration tools.",
+      "threat_type": "c2",
+      "tweet_id": "2123878246475497908",
+      "type": "ip",
+      "value": "107.172.3.44"
     },
     "107.172.32.149": {
       "confidence": 0.6,
@@ -8083,6 +8085,20 @@
       "type": "ip",
       "value": "178.95.25.104"
     },
+    "179ed2d31bdeca9e298e44bff9eeb4723dee1afac8506707c23d6d4e3c4e5da5": {
+      "confidence": 0.4,
+      "date": "2026-11-20 21:47:30",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file 'WindowsSecurity.bat' seen from Israel on MalwareBazaar, contacting a ply.gg tunnel domain.",
+      "threat_type": "malware",
+      "tweet_id": "2123896038096253079",
+      "type": "sha256",
+      "value": "179ed2d31bdeca9e298e44bff9eeb4723dee1afac8506707c23d6d4e3c4e5da5"
+    },
     "17cf22f3fd0f5189856bb2f5ba91bb4b05838f3a19f5d25f81ee3bccccb8c19e": {
       "confidence": 0.5,
       "date": "2026-11-02 10:53:54",
@@ -9106,6 +9122,36 @@
       "tweet_id": "2122066239216357711",
       "type": "url",
       "value": "http://189.105.68.230"
+    },
+    "189.12.226.77": {
+      "confidence": 0.75,
+      "date": "2026-10-29 17:03:42",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 at 189.12.226.77:8443 tied to a fake Google Meet page delivering a spoofed Google Meet MSI installer.",
+      "threat_type": "c2",
+      "tweet_id": "2115852085665173723",
+      "type": "ip",
+      "value": "189.12.226.77"
+    },
+    "189.12.226.77:8443": {
+      "confidence": 0.75,
+      "date": "2026-10-29 17:03:42",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "C2 at 189.12.226.77:8443 tied to a fake Google Meet page delivering a spoofed Google Meet MSI installer.",
+      "threat_type": "c2",
+      "tweet_id": "2115852085665173723",
+      "type": "url",
+      "value": "http://189.12.226.77:8443"
     },
     "189.24.105.234": {
       "confidence": 0.45,
@@ -10422,20 +10468,6 @@
       "tweet_id": "2117606569680490578",
       "type": "sha256",
       "value": "1b11227769ec83035b631f3b21af0747e7f53dd3ce5dde69e8b2f04480bf275a"
-    },
-    "1b519c70fe1f04dfed8e09bbbd7deb376b9c7bc6ce828fc62eba326fe71a26f2": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:37:59",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip posing as a Malaysian LHDN MyInvois e-invoice, hosted on volces.com cloud storage.",
-      "threat_type": "malware",
-      "tweet_id": "2112991811169841325",
-      "type": "sha256",
-      "value": "1b519c70fe1f04dfed8e09bbbd7deb376b9c7bc6ce828fc62eba326fe71a26f2"
     },
     "1b5da4b9e458998c8586b13bc342c73f5448c3e0796543c77f32feaaa18350ba": {
       "confidence": 0.75,
@@ -13431,20 +13463,6 @@
       "type": "sha256",
       "value": "2433580470b08228ae74cddb364bf41cbe1e6aa26c9b3321271a458965594086"
     },
-    "247b3244ccbb8e33ebba0d3aa66a38f66cfe7d27d91fb299927628249532d10e": {
-      "confidence": 0.55,
-      "date": "2026-10-21 19:16:58",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious VHDX disk image posing as a Malaysian IRBM-validated e-invoice, seen on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2112986518981951977",
-      "type": "sha256",
-      "value": "247b3244ccbb8e33ebba0d3aa66a38f66cfe7d27d91fb299927628249532d10e"
-    },
     "249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa": {
       "confidence": 0.88,
       "date": "2026-11-08 11:29:04",
@@ -13462,6 +13480,20 @@
       "tweet_id": "2119391752167768424",
       "type": "sha256",
       "value": "249626244f23928c75e6c382da62278ed1d4e012a0c0f62beafefc1e4d7c5baa"
+    },
+    "24d4499b79b1b69481d436152905af9587edc158dc6d2b793aa9865830a4133f": {
+      "confidence": 0.5,
+      "date": "2026-11-20 20:09:10",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "JavaScript sample that downloads a bundle.zip payload from a Cloudflare R2 storage URL.",
+      "threat_type": "malware",
+      "tweet_id": "2123871293833609512",
+      "type": "sha256",
+      "value": "24d4499b79b1b69481d436152905af9587edc158dc6d2b793aa9865830a4133f"
     },
     "24dd2168d5c0d0635488a44b1f270ee9bb6634846ce81c4797aa321398d891e7": {
       "confidence": 0.2,
@@ -13581,22 +13613,6 @@
       "tweet_id": "2120114942724706758",
       "type": "sha256",
       "value": "26e363ee33b559e417cb01114857bf0d729b3d8733602fcf84405c177f2a48f6"
-    },
-    "26etou1.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:22:01",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Mercari app, distributed through multiple .cn phishing domains.",
-      "threat_type": "malware",
-      "tweet_id": "2113048191155470346",
-      "type": "domain",
-      "value": "26etou1.cn"
     },
     "27.102.137.57": {
       "confidence": 0.7,
@@ -19988,34 +20004,6 @@
       "type": "ip",
       "value": "5.253.28.160"
     },
-    "5.75.168.252": {
-      "confidence": 0.4,
-      "date": "2026-10-21 20:18:17",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Web panel titled 'ocx 575 - dashboard' ('DeskPilot', private system) on an IP at port 8766, likely malicious infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2113001953190138194",
-      "type": "ip",
-      "value": "5.75.168.252"
-    },
-    "5.75.168.252:8766": {
-      "confidence": 0.4,
-      "date": "2026-10-21 20:18:17",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Web panel titled 'ocx 575 - dashboard' ('DeskPilot', private system) on an IP at port 8766, likely malicious infrastructure.",
-      "threat_type": "c2",
-      "tweet_id": "2113001953190138194",
-      "type": "url",
-      "value": "https://5.75.168.252:8766"
-    },
     "50.114.179.29": {
       "confidence": 0.55,
       "date": "2026-11-03 13:07:20",
@@ -20044,20 +20032,6 @@
       "tweet_id": "2118843947858747417",
       "type": "ip",
       "value": "50.114.179.94"
-    },
-    "50.116.87.118": {
-      "confidence": 0.85,
-      "date": "2026-10-21 19:56:14",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing URL on a Brazilian domain hosted on an Oracle Cloud IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2112996403551105223",
-      "type": "ip",
-      "value": "50.116.87.118"
     },
     "5051b4b91de8fbebb31884cf3be01fb381ce6e9704fa0272e8a6b1b50b78caf7": {
       "confidence": 0.35,
@@ -20385,6 +20359,21 @@
       "tweet_id": "2122377640766296119",
       "type": "sha256",
       "value": "53ab617b15a861b020f544f10891da54e1fb6643d60ce2de8a0a7eb3c14afe12"
+    },
+    "53d234516c4e79df1b8196dc0e4e4cb0ee4f771e7924ec6d7c003855a9711d22": {
+      "confidence": 0.4,
+      "date": "2026-11-20 22:25:16",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Executable posing as DaVinci Resolve 21.2 installer seen from Turkey on MalwareBazaar; likely trojanized software lure.",
+      "threat_type": "malware",
+      "tweet_id": "2123905541797724427",
+      "type": "sha256",
+      "value": "53d234516c4e79df1b8196dc0e4e4cb0ee4f771e7924ec6d7c003855a9711d22"
     },
     "53ddb6c51aca4bd6b00ed83a8019ee1440351f8eeb95a7b6c74a2b75210d85b2": {
       "confidence": 0.55,
@@ -20892,20 +20881,6 @@
       "tweet_id": "2122041644115480921",
       "type": "md5",
       "value": "59e4c117cc2dcbc26c842c364c8816d8"
-    },
-    "5a15f996dd4157ea7e88ed80d6a77dfcdd81f54305f4414fee99bd609d01f1b4": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:30:28",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip posing as a validated Malaysian e-invoice, hosted on volces.com cloud storage.",
-      "threat_type": "malware",
-      "tweet_id": "2112989918314082709",
-      "type": "sha256",
-      "value": "5a15f996dd4157ea7e88ed80d6a77dfcdd81f54305f4414fee99bd609d01f1b4"
     },
     "5a556f114dbd10030c30f454c0e793b1f2788617ce444d60914d5ee970e90544": {
       "confidence": 0.4,
@@ -22446,6 +22421,18 @@
       "type": "sha256",
       "value": "69a8bf6463ef018b019c00126d5753cc72bee5d4bd555d9bf630acd1b2229fbb"
     },
+    "6a44e583bb70762833b0a3a540e81bd7": {
+      "confidence": 0.1,
+      "date": "2026-11-20 21:11:22",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Bare MD5 hash posted with no context; no threat details available.",
+      "threat_type": "other",
+      "tweet_id": "2123886945147269508",
+      "type": "md5",
+      "value": "6a44e583bb70762833b0a3a540e81bd7"
+    },
     "6a5da90c553bb0da87e821a3bece34e1394825e845601993bd1df5cea70e29f1": {
       "confidence": 0.6,
       "date": "2026-10-29 19:49:52",
@@ -22856,6 +22843,20 @@
       "type": "sha256",
       "value": "6fde9176b0ea194235b8794fdfc07299488d1aed47b717a36796b940845b8b9c"
     },
+    "6ff47af32ef471f8bec1e4022545353eebea3a19f91bd72164561cf2b8e56ce1": {
+      "confidence": 0.4,
+      "date": "2026-11-20 22:28:11",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file 'quotation_order_26071026-1.bat' seen from Singapore on MalwareBazaar, associated with domain hardener33.opik.net.",
+      "threat_type": "malware",
+      "tweet_id": "2123906275767361760",
+      "type": "sha256",
+      "value": "6ff47af32ef471f8bec1e4022545353eebea3a19f91bd72164561cf2b8e56ce1"
+    },
     "6ffdbaed7e58f7cd3c36c13bbad602176fb5f1e2fccf557d21eb84a73f795431": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -22989,20 +22990,6 @@
       "tweet_id": "2118614698107039985",
       "type": "ip",
       "value": "72.47.208.142"
-    },
-    "725fa840a70c47196797db5977b2d99654063d01310e23d0887bfc4054e143cc": {
-      "confidence": 0.35,
-      "date": "2026-10-21 20:39:38",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Russian-language construction-themed zip sample seen on MalwareBazaar, related to domain aesmartdata.cloud.",
-      "threat_type": "malware",
-      "tweet_id": "2113007323090227476",
-      "type": "sha256",
-      "value": "725fa840a70c47196797db5977b2d99654063d01310e23d0887bfc4054e143cc"
     },
     "7270721d21e7510f669f3bebe9c989d095be9d82ad453501873448546afd3302": {
       "confidence": 0.75,
@@ -23337,21 +23324,6 @@
       "type": "md5",
       "value": "74d4268d16116b148e6e32d9b44101d8"
     },
-    "74f801ea2ecba79439de7540f5d460443223f039f0f0ca0dca3f7b17dabad411": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "sha256",
-      "value": "74f801ea2ecba79439de7540f5d460443223f039f0f0ca0dca3f7b17dabad411"
-    },
     "75.119.134.80": {
       "confidence": 0.5,
       "date": "2026-11-16 13:07:09",
@@ -23571,6 +23543,21 @@
       "tweet_id": "2113541089454067987",
       "type": "url",
       "value": "http://77.90.185.20"
+    },
+    "7734569bf71867af4e4318e95ad28374c00bd753d89f620caa159b2233749d61": {
+      "confidence": 0.5,
+      "date": "2026-11-20 21:04:56",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "c2"
+      ],
+      "summary": "Executable 'Post Election Duty Report.exe' possibly using the GitHub API as a C2 channel.",
+      "threat_type": "malware",
+      "tweet_id": "2123885327613870543",
+      "type": "sha256",
+      "value": "7734569bf71867af4e4318e95ad28374c00bd753d89f620caa159b2233749d61"
     },
     "7746bf4e6c8552bec9cf3d6e7d116cbd6307dab2b98a8526bc4833b23606c885": {
       "confidence": 0.6,
@@ -23944,6 +23931,20 @@
       "tweet_id": "2122379275382972495",
       "type": "md5",
       "value": "7ab3ec0781e179a294d8af6faa60d133"
+    },
+    "7b11be3dc26d29e7ed208421d5dc59c32fa6d1e8706c0d9b93396e194d008450": {
+      "confidence": 0.45,
+      "date": "2026-11-20 20:02:16",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'jpg_helper.exe' seen from Germany, communicating with a trycloudflare.com tunnel domain.",
+      "threat_type": "malware",
+      "tweet_id": "2123869556112498845",
+      "type": "sha256",
+      "value": "7b11be3dc26d29e7ed208421d5dc59c32fa6d1e8706c0d9b93396e194d008450"
     },
     "7c4794f577485d33a6bdfac39525319417150929018663698a43bb3dd80146bb": {
       "confidence": 0.55,
@@ -25221,20 +25222,6 @@
       "type": "ip",
       "value": "82.22.146.177"
     },
-    "82.25.63.33": {
-      "confidence": 0.7,
-      "date": "2026-10-21 19:00:22",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix"
-      ],
-      "summary": "Domains and IP associated with a ClickFix campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2112982341731910035",
-      "type": "url",
-      "value": "http://82.25.63.33"
-    },
     "82.38.65.69": {
       "confidence": 0.55,
       "date": "2026-11-16 19:52:39",
@@ -25771,6 +25758,36 @@
       "type": "md5",
       "value": "85c4605c22601156105fc2e98982e5da"
     },
+    "86.109.75.172": {
+      "confidence": 0.7,
+      "date": "2026-11-20 20:13:34",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "VBS file 'Truck-List.vbs' communicating with a TCP C2 server at 86.109.75.172:4000.",
+      "threat_type": "c2",
+      "tweet_id": "2123872399238091148",
+      "type": "ip",
+      "value": "86.109.75.172"
+    },
+    "86.109.75.172:4000": {
+      "confidence": 0.7,
+      "date": "2026-11-20 20:13:34",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "VBS file 'Truck-List.vbs' communicating with a TCP C2 server at 86.109.75.172:4000.",
+      "threat_type": "c2",
+      "tweet_id": "2123872399238091148",
+      "type": "url",
+      "value": "http://86.109.75.172:4000"
+    },
     "86a0ed5fc0336d6ade1ce4ad3688ef73c3dde04fce4c6daed761a796f347c66a": {
       "confidence": 0.8,
       "date": "2026-10-31 00:28:54",
@@ -26267,22 +26284,6 @@
       "type": "sha256",
       "value": "8fb93ba4948095b8a126e68d930cacc4759552078bb8b7cc7b62b600fc1a67a6"
     },
-    "8j536vj.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:22:01",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Mercari app, distributed through multiple .cn phishing domains.",
-      "threat_type": "malware",
-      "tweet_id": "2113048191155470346",
-      "type": "domain",
-      "value": "8j536vj.cn"
-    },
     "9081f967486635a71fc9ab2418baa3b56ad21ee8bb0576e363ef89b9e23ae723": {
       "confidence": 0.55,
       "date": "2026-11-10 14:31:22",
@@ -26563,20 +26564,6 @@
       "tweet_id": "2121103275047161922",
       "type": "ip",
       "value": "92.255.111.71"
-    },
-    "92589172ef4b160bfe6a56ecf224d6be7c1c259923b9afc779a6ebf3f11400d8": {
-      "confidence": 0.45,
-      "date": "2026-10-21 19:21:06",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip titled 'questions for collaboration' seen from Georgia, tied to a compromised Korean site login.php URL.",
-      "threat_type": "malware",
-      "tweet_id": "2112987559358074919",
-      "type": "sha256",
-      "value": "92589172ef4b160bfe6a56ecf224d6be7c1c259923b9afc779a6ebf3f11400d8"
     },
     "92ae988fa6fe4c6e0f91f8331168ad91e2d86bc34a8eb5d214094d01003fc8fa": {
       "confidence": 0.75,
@@ -27981,22 +27968,6 @@
       "type": "sha256",
       "value": "a1ec177a3a82fde9e66bacbe001a07456d20c4412061933d1c54f29dd68285de"
     },
-    "a2188f44c96edc2603fc1ec42ba4e8193b429809a1caa718ff430a263977eef7": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:47:36",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as LINE TV, distributed via a phishing/fraud site.",
-      "threat_type": "malware",
-      "tweet_id": "2113054625511440751",
-      "type": "sha256",
-      "value": "a2188f44c96edc2603fc1ec42ba4e8193b429809a1caa718ff430a263977eef7"
-    },
     "a286671bae43dda41cb5bb2711d7fffc7448e4c4ad88d5f833c5960265fdd0b0": {
       "confidence": 0.1,
       "date": "2026-11-02 00:18:51",
@@ -28008,20 +27979,6 @@
       "tweet_id": "2117048760052109784",
       "type": "sha256",
       "value": "a286671bae43dda41cb5bb2711d7fffc7448e4c4ad88d5f833c5960265fdd0b0"
-    },
-    "a355496c47d79ab9ad373d34192e1d47580668642436912caf5b215d27db02be": {
-      "confidence": 0.35,
-      "date": "2026-10-21 20:47:11",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip sample themed as a Solidity test environment, seen from Belarus on MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2113009224414327007",
-      "type": "sha256",
-      "value": "a355496c47d79ab9ad373d34192e1d47580668642436912caf5b215d27db02be"
     },
     "a3c64998a58595b7a6c2d16db68a767a87c9f3c3eb89784870ce51667a09d15b": {
       "confidence": 0.4,
@@ -28738,36 +28695,6 @@
       "type": "domain",
       "value": "account.realtybuenosaires.com"
     },
-    "account.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "account.webapi-whatsapp.com"
-    },
-    "account.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "account.webstatici-whatsapp.com"
-    },
     "accounts-google-signin-recovery.com": {
       "confidence": 0.7,
       "date": "2026-10-24 17:17:47",
@@ -29298,18 +29225,6 @@
       "type": "domain",
       "value": "aes-pdf.com"
     },
-    "aesmartdata.cloud": {
-      "confidence": 0.3,
-      "date": "2026-10-21 20:39:38",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious domain aesmartdata.cloud shared as an indicator, related to a malware sample.",
-      "threat_type": "other",
-      "tweet_id": "2113004658814042476",
-      "type": "domain",
-      "value": "aesmartdata.cloud"
-    },
     "aespdf.com": {
       "confidence": 0.5,
       "date": "2026-11-05 17:03:17",
@@ -29407,6 +29322,20 @@
       "tweet_id": "2113112692861145234",
       "type": "url",
       "value": "https://aexshorthood.cactx5.info/2ymmlo/hepe"
+    },
+    "af37220b1c348e901febc36b68f37e79b9a38cbf5ab442344ef40728badaaa1c": {
+      "confidence": 0.4,
+      "date": "2026-11-20 19:51:03",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'b3-95744.exe' seen from Hong Kong, contacting a Youdao Note CDN bucket domain.",
+      "threat_type": "malware",
+      "tweet_id": "2123866734247440840",
+      "type": "sha256",
+      "value": "af37220b1c348e901febc36b68f37e79b9a38cbf5ab442344ef40728badaaa1c"
     },
     "afatshacojps.org": {
       "confidence": 0.5,
@@ -29730,6 +29659,34 @@
       "tweet_id": "2117062496888484165",
       "type": "domain",
       "value": "allegro.ur372h9.buzz"
+    },
+    "allegrolokalnie.01097978.sbs": {
+      "confidence": 0.9,
+      "date": "2026-11-20 22:21:19",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page impersonating Allegro Lokalnie login, hosted on a .sbs domain behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2123904550197137887",
+      "type": "domain",
+      "value": "allegrolokalnie.01097978.sbs"
+    },
+    "allegrolokalnie.01097978.sbs/logowanie/22404": {
+      "confidence": 0.9,
+      "date": "2026-11-20 22:21:19",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing page impersonating Allegro Lokalnie login, hosted on a .sbs domain behind Cloudflare.",
+      "threat_type": "phishing",
+      "tweet_id": "2123904550197137887",
+      "type": "url",
+      "value": "http://allegrolokalnie.01097978.sbs/logowanie/22404"
     },
     "allegrolokalnie.aukcja865637302.cfd": {
       "confidence": 0.9,
@@ -30233,21 +30190,6 @@
       "tweet_id": "2120744451358564679",
       "type": "domain",
       "value": "ancreda.com"
-    },
-    "android.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "android.webapi-whatsapp.com"
     },
     "aniv.bpovexd.cn": {
       "confidence": 0.9,
@@ -30886,36 +30828,6 @@
       "type": "domain",
       "value": "api.v1techdomainsec.sbs"
     },
-    "api.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "api.webapi-whatsapp.com"
-    },
-    "api.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "api.webstatici-whatsapp.com"
-    },
     "apiupdated.com": {
       "confidence": 0.3,
       "date": "2026-10-23 09:32:32",
@@ -30945,21 +30857,6 @@
       "tweet_id": "2114339995024814189",
       "type": "url",
       "value": "http://apiupdated.com/Hrd50dFgjQW53n"
-    },
-    "apk.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "apk.webapi-whatsapp.com"
     },
     "apology.fulqhj.asia": {
       "confidence": 0.85,
@@ -31165,36 +31062,6 @@
       "tweet_id": "2123548207653208174",
       "type": "url",
       "value": "http://app.onlytikpremium.pro/install.php"
-    },
-    "app.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "app.webapi-whatsapp.com"
-    },
-    "app.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "app.webstatici-whatsapp.com"
     },
     "app.yolandamartinez.com": {
       "confidence": 0.85,
@@ -33343,21 +33210,6 @@
       "type": "url",
       "value": "https://apple.eu10hub.com/get_file?file=91A2T8Ehs06E"
     },
-    "apps.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "apps.webstatici-whatsapp.com"
-    },
     "appsqkw3.vc02b0.website": {
       "confidence": 0.7,
       "date": "2026-11-17 19:32:33",
@@ -33404,66 +33256,6 @@
       "tweet_id": "2120517580511199372",
       "type": "domain",
       "value": "aqml.org"
-    },
-    "ar-ae.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ar-ae.webhwsapp-whatsapp.com"
-    },
-    "ar-eg.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ar-eg.webhwsapp-whatsapp.com"
-    },
-    "ar-sa.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ar-sa.webhwsapp-whatsapp.com"
-    },
-    "ar.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ar.webhwsapp-whatsapp.com"
     },
     "archive-download.click": {
       "confidence": 0.7,
@@ -33854,36 +33646,6 @@
       "tweet_id": "2123376780291805569",
       "type": "domain",
       "value": "aumcvy8y.onlinewebshop.net"
-    },
-    "auth.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "auth.webapi-whatsapp.com"
-    },
-    "auth.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "auth.webstatici-whatsapp.com"
     },
     "auth0-google.com": {
       "confidence": 0.9,
@@ -34595,36 +34357,6 @@
       "tweet_id": "2123376780291805569",
       "type": "domain",
       "value": "babarahoney.wuaze.com"
-    },
-    "backup.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "backup.webapi-whatsapp.com"
-    },
-    "backup.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "backup.webstatici-whatsapp.com"
     },
     "baf42fcd4eb96c00f3393ebc6239e1ce8b07bc165786f1aa6469fd2899f43cc0": {
       "confidence": 0.8,
@@ -35723,21 +35455,6 @@
       "type": "domain",
       "value": "blackfalconcorex.com"
     },
-    "blog.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "blog.webapi-whatsapp.com"
-    },
     "blueguradian.com": {
       "confidence": 0.8,
       "date": "2026-11-03 19:25:18",
@@ -36268,6 +35985,20 @@
       "type": "domain",
       "value": "buchalter.configuremysso.com"
     },
+    "bucket-ynote-online-cdn.note.youdao.com": {
+      "confidence": 0.4,
+      "date": "2026-11-20 19:51:03",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'b3-95744.exe' seen from Hong Kong, contacting a Youdao Note CDN bucket domain.",
+      "threat_type": "malware",
+      "tweet_id": "2123866734247440840",
+      "type": "domain",
+      "value": "bucket-ynote-online-cdn.note.youdao.com"
+    },
     "bugsolve.net": {
       "confidence": 0.6,
       "date": "2026-11-19 10:03:48",
@@ -36694,6 +36425,21 @@
       "tweet_id": "2115387572843053106",
       "type": "sha256",
       "value": "c3424b5b968d07d979e9b3cb46cc7c42718bd4e96fbc8e77e051264d67faf625"
+    },
+    "c38a4efcf7def1022816949f0ac9beaf67d8be5b0dbe9cddcb95161ade09cf16": {
+      "confidence": 0.45,
+      "date": "2026-11-20 21:17:58",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "apt",
+        "malware"
+      ],
+      "summary": "VHDX file with Romanian tax-reporting lure seen from Moldova, assessed as possibly related to Russian FSB activity.",
+      "threat_type": "malware",
+      "tweet_id": "2123888605210775642",
+      "type": "sha256",
+      "value": "c38a4efcf7def1022816949f0ac9beaf67d8be5b0dbe9cddcb95161ade09cf16"
     },
     "c3dbb0a70ac05beb537ecb1c3f27d178": {
       "confidence": 0.6,
@@ -37164,36 +36910,6 @@
       "tweet_id": "2117209506111537433",
       "type": "url",
       "value": "https://calernix.cfd/Login/#/index"
-    },
-    "call.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "call.webstatici-whatsapp.com"
-    },
-    "calls.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "calls.webstatici-whatsapp.com"
     },
     "calmzen.cfd": {
       "confidence": 0.9,
@@ -37959,21 +37675,6 @@
       "type": "domain",
       "value": "cdn.sakenlogistics.com"
     },
-    "cdn.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "cdn.webapi-whatsapp.com"
-    },
     "cdn.youlovemybiba.com": {
       "confidence": 0.85,
       "date": "2026-10-23 21:55:03",
@@ -38223,36 +37924,6 @@
       "type": "domain",
       "value": "cfmcardaio.it"
     },
-    "channel.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "channel.webstatici-whatsapp.com"
-    },
-    "channels.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "channels.webstatici-whatsapp.com"
-    },
     "charliegreen-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-16 06:39:18",
@@ -38300,36 +37971,6 @@
       "type": "domain",
       "value": "chasedesigns-jp.com"
     },
-    "chat.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "chat.webapi-whatsapp.com"
-    },
-    "chat.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "chat.webstatici-whatsapp.com"
-    },
     "chateauhotel-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-16 06:39:18",
@@ -38373,21 +38014,6 @@
       "tweet_id": "2115195747553415605",
       "type": "url",
       "value": "https://chatlgpt.com/Installer_ChatGPT.zip"
-    },
-    "chats.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "chats.webstatici-whatsapp.com"
     },
     "cheapmovies.sbs": {
       "confidence": 0.75,
@@ -39386,80 +39012,19 @@
       "type": "url",
       "value": "http://conatem.com/adobeStudio.html"
     },
-    "contact.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
+    "configuremysso.com": {
+      "confidence": 0.6,
+      "date": "2026-10-27 08:02:11",
+      "enriched_at": "2026-11-21T00:40:03Z",
       "family": null,
       "suggested_tags": [
-        "phishing",
-        "scam"
+        "phishing"
       ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
+      "summary": "UNC6671 infrastructure update: configuremysso[.]com now shows 12 subdomains, including law-firm-themed hostnames.",
       "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
+      "tweet_id": "2114991031686959381",
       "type": "domain",
-      "value": "contact.webapi-whatsapp.com"
-    },
-    "contact.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "contact.webstatici-whatsapp.com"
-    },
-    "contacts.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "contacts.webstatici-whatsapp.com"
-    },
-    "conversation.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "conversation.webstatici-whatsapp.com"
-    },
-    "conversations.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "conversations.webstatici-whatsapp.com"
+      "value": "configuremysso.com"
     },
     "conwaycowork-jp.com": {
       "confidence": 0.8,
@@ -40724,6 +40289,21 @@
       "type": "md5",
       "value": "dce55eec553f6af16ba6481eaacb8638"
     },
+    "dcf61424fbfdffce3aacede15c8f974d64324e35602987ecf97d17c6bd124936": {
+      "confidence": 0.7,
+      "date": "2026-11-20 20:13:34",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "VBS file 'Truck-List.vbs' communicating with a TCP C2 server at 86.109.75.172:4000.",
+      "threat_type": "c2",
+      "tweet_id": "2123872399238091148",
+      "type": "sha256",
+      "value": "dcf61424fbfdffce3aacede15c8f974d64324e35602987ecf97d17c6bd124936"
+    },
     "dd02e2d0d5f18d120933621a82401da79eb62c2009fda554460581ffee20a8de": {
       "confidence": 0.4,
       "date": "2026-11-06 14:21:28",
@@ -40796,51 +40376,6 @@
       "tweet_id": "2117930899622838732",
       "type": "domain",
       "value": "ddfkljuvnnoifrsdfhtiop.top"
-    },
-    "de-at.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "de-at.webhwsapp-whatsapp.com"
-    },
-    "de-de.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "de-de.webhwsapp-whatsapp.com"
-    },
-    "de.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "de.webhwsapp-whatsapp.com"
     },
     "de309b02a0f6c5777b248fbfd09343d6b1707fd9fa59397316999e706ab42db9": {
       "confidence": 0.5,
@@ -40949,6 +40484,20 @@
       "tweet_id": "2122217930972873117",
       "type": "domain",
       "value": "deathorglory-jp.com"
+    },
+    "dedication-presenting.tun.ply.gg": {
+      "confidence": 0.4,
+      "date": "2026-11-20 21:47:30",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file 'WindowsSecurity.bat' seen from Israel on MalwareBazaar, contacting a ply.gg tunnel domain.",
+      "threat_type": "malware",
+      "tweet_id": "2123896038096253079",
+      "type": "domain",
+      "value": "dedication-presenting.tun.ply.gg"
     },
     "deducationist.com": {
       "confidence": 0.5,
@@ -41083,21 +40632,6 @@
       "type": "domain",
       "value": "desktop-telergram.org"
     },
-    "desktop.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "desktop.webapi-whatsapp.com"
-    },
     "detan2go.firebaseapp.com": {
       "confidence": 0.65,
       "date": "2026-11-16 07:54:43",
@@ -41171,21 +40705,6 @@
       "type": "domain",
       "value": "developdatum.com"
     },
-    "developer.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "developer.webapi-whatsapp.com"
-    },
     "device.ledger-config.live": {
       "confidence": 0.9,
       "date": "2026-10-28 19:06:41",
@@ -41247,36 +40766,6 @@
       "tweet_id": "2117640487192629756",
       "type": "url",
       "value": "https://device.ledger-signature.live/en/verification"
-    },
-    "device.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "device.webstatici-whatsapp.com"
-    },
-    "devices.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "devices.webstatici-whatsapp.com"
     },
     "df83c639cb93e42fd88f81417c0f3ad6a70cb800784bed95a8c4e0c0825feb1f": {
       "confidence": 0.6,
@@ -41428,6 +40917,22 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "discodiwali.fun"
+    },
+    "discord.com/api/webhooks/1565506809853247488/43crcndt8azd62akyebmxjsk7-mnujlgo11o2iuc-a1rhuwod61acyrdt9gq1rln2cxj": {
+      "confidence": 0.65,
+      "date": "2026-11-20 21:48:42",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Discord webhook URL used by a 'Captain info stealer' as an exfiltration channel.",
+      "threat_type": "malware",
+      "tweet_id": "2123896341713531355",
+      "type": "url",
+      "value": "https://discord.com/api/webhooks/1565506809853247488/43crcNDt8AZD62AKYebmXjSk7-mNujLgO11o2iUc-a1RhuwoD61ACyRDT9gq1RLn2Cxj"
     },
     "discord.com/api/webhooks/1568290802583740449/xi6r8_zvisy8rov2bvnvqzlf3av-h41ksycdpxxvuplqgv8pcntg9_drdlg5ivyc2qpd": {
       "confidence": 0.5,
@@ -42311,21 +41816,6 @@
       "type": "domain",
       "value": "docs-portal.top"
     },
-    "docs.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "docs.webapi-whatsapp.com"
-    },
     "docsportal.in": {
       "confidence": 0.8,
       "date": "2026-11-05 15:24:00",
@@ -42355,21 +41845,6 @@
       "tweet_id": "2118363709169181098",
       "type": "url",
       "value": "https://docsportal.in/public/reps/com/com.hta"
-    },
-    "docss-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 20:08:36",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Doorway sites redirect search-engine visitors to fake WhatsApp Web pages relaying QR/pairing codes to link victim accounts to attacker devices.",
-      "threat_type": "phishing",
-      "tweet_id": "2112999515733328213",
-      "type": "domain",
-      "value": "docss-whatsapp.com"
     },
     "docswatq.vc02b0.website": {
       "confidence": 0.7,
@@ -42687,36 +42162,6 @@
       "tweet_id": "2113749305068753356",
       "type": "url",
       "value": "https://download.transunionbiba.lat/stage2.js"
-    },
-    "download.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "download.webapi-whatsapp.com"
-    },
-    "download.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "download.webstatici-whatsapp.com"
     },
     "download.youlovemybiba.com": {
       "confidence": 0.85,
@@ -43111,6 +42556,20 @@
       "type": "sha256",
       "value": "e169bd066b4532515844045497fe9d42ed26a15bf236d1f1a2b64573f5717b7d"
     },
+    "e16dd747d80343519a83d205191c9cb7d7169fb21453bb566981c91efd1d78ed": {
+      "confidence": 0.4,
+      "date": "2026-11-20 21:33:48",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "JavaScript file named 'Google-Invite' seen from India on MalwareBazaar; likely a malicious script lure.",
+      "threat_type": "malware",
+      "tweet_id": "2123892590676210156",
+      "type": "sha256",
+      "value": "e16dd747d80343519a83d205191c9cb7d7169fb21453bb566981c91efd1d78ed"
+    },
     "e1vfaomn3.onlinewebshop.net": {
       "confidence": 0.7,
       "date": "2026-11-06 05:46:55",
@@ -43253,6 +42712,20 @@
       "type": "sha256",
       "value": "e3504423607acfd2e1d0862fe960d8889d82b0c69d5ceac63f4abbe2c8b40a06"
     },
+    "e367af8583edd14eb29e66d1ba2aa5f224b9538f21d2a5f38cc146b250816f21": {
+      "confidence": 0.4,
+      "date": "2026-11-20 21:25:25",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Brazilian-themed JavaScript order-list lure ('LOJA COMPLETA PEDIDOS') with only one Nextron detection.",
+      "threat_type": "malware",
+      "tweet_id": "2123890483504001501",
+      "type": "sha256",
+      "value": "e367af8583edd14eb29e66d1ba2aa5f224b9538f21d2a5f38cc146b250816f21"
+    },
     "e381825441e5591cc339d0624c362dc69e3bfb853c54c38d89ee0d19ef31d9d1": {
       "confidence": 0.75,
       "date": "2026-11-16 08:59:18",
@@ -43390,6 +42863,22 @@
       "tweet_id": "2117956883139252716",
       "type": "sha256",
       "value": "e527c90fa9ed585c2fe27b2ec23b6bec511b0f431d568d3b6c27ce148b2bf4d5"
+    },
+    "e5c6ac2005d569f5f94bbc4cc30b7607dd564fe4945e9ffae0fe37ab3761b0bd": {
+      "confidence": 0.7,
+      "date": "2026-11-20 21:54:13",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "infostealer",
+        "stealer",
+        "malware"
+      ],
+      "summary": "Sample tied to a 'Captain info stealer' that exfiltrates data via a Discord webhook.",
+      "threat_type": "malware",
+      "tweet_id": "2123897291161362844",
+      "type": "sha256",
+      "value": "e5c6ac2005d569f5f94bbc4cc30b7607dd564fe4945e9ffae0fe37ab3761b0bd"
     },
     "e5cc0827446e1b664d47e452b0390ce2": {
       "confidence": 0.8,
@@ -43829,20 +43318,6 @@
       "type": "md5",
       "value": "ebb2c771563e8d2a44a3612fe1ee113a"
     },
-    "ebd865e5901bd5881f6a932d5f7a58e69ef54d25a58df50547e1b1fc8612789d": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:09:34",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Two related malware samples signed as 'SOPHISTICATED SOFTWARES (PTY) LTD', hosted on Azure blob storage as fake Windows Defender MSI installers.",
-      "threat_type": "malware",
-      "tweet_id": "2112984658157723965",
-      "type": "sha256",
-      "value": "ebd865e5901bd5881f6a932d5f7a58e69ef54d25a58df50547e1b1fc8612789d"
-    },
     "ebf2287c6e16fbbc7d4e72c9a49d812498e569f2ad26a0a8a3f6386afb41a7aa": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -44129,40 +43604,6 @@
       "tweet_id": "2122036035454750894",
       "type": "domain",
       "value": "echallal.cam"
-    },
-    "echallan.party": {
-      "confidence": 0.8,
-      "date": "2026-10-21 19:01:12",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam",
-        "android",
-        "malware"
-      ],
-      "summary": "Fake Indian eChallan site with arrest threats pushing an Android APK and instructing users to bypass Play Protect; payload unconfirmed.",
-      "threat_type": "scam",
-      "tweet_id": "2112982551166120281",
-      "type": "domain",
-      "value": "echallan.party"
-    },
-    "echallan.party/install": {
-      "confidence": 0.8,
-      "date": "2026-10-21 19:01:12",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam",
-        "android",
-        "malware"
-      ],
-      "summary": "Fake Indian eChallan site with arrest threats pushing an Android APK and instructing users to bypass Play Protect; payload unconfirmed.",
-      "threat_type": "scam",
-      "tweet_id": "2112982551166120281",
-      "type": "url",
-      "value": "http://echallan.party/install"
     },
     "echallao.icu": {
       "confidence": 0.8,
@@ -44878,111 +44319,6 @@
       "type": "domain",
       "value": "ems-rifted-grigs.site"
     },
-    "en-au.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en-au.webhwsapp-whatsapp.com"
-    },
-    "en-ca.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en-ca.webhwsapp-whatsapp.com"
-    },
-    "en-gb.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en-gb.webhwsapp-whatsapp.com"
-    },
-    "en-in.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en-in.webhwsapp-whatsapp.com"
-    },
-    "en-sg.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en-sg.webhwsapp-whatsapp.com"
-    },
-    "en-us.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en-us.webhwsapp-whatsapp.com"
-    },
-    "en.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "en.webhwsapp-whatsapp.com"
-    },
     "en0.de": {
       "confidence": 0.35,
       "date": "2026-11-19 22:04:29",
@@ -45163,81 +44499,6 @@
       "tweet_id": "2113733954490470752",
       "type": "url",
       "value": "http://eqvpn.space:2083"
-    },
-    "es-ar.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "es-ar.webhwsapp-whatsapp.com"
-    },
-    "es-co.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "es-co.webhwsapp-whatsapp.com"
-    },
-    "es-es.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "es-es.webhwsapp-whatsapp.com"
-    },
-    "es-mx.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "es-mx.webhwsapp-whatsapp.com"
-    },
-    "es.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "es.webhwsapp-whatsapp.com"
     },
     "esgo.com.mx": {
       "confidence": 0.3,
@@ -46332,21 +45593,6 @@
       "type": "domain",
       "value": "fantasticfactoryzu.com"
     },
-    "faq.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "faq.webapi-whatsapp.com"
-    },
     "farbetv.eu.cc": {
       "confidence": 0.7,
       "date": "2026-11-06 08:04:14",
@@ -46702,22 +45948,6 @@
       "type": "domain",
       "value": "ff.ibig-tech.com"
     },
-    "ff38255d7f1cf0dcbb735f5e76ad0128589731a41b1d8e90b783228c4d37e6db": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:22:01",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Mercari app, distributed through multiple .cn phishing domains.",
-      "threat_type": "malware",
-      "tweet_id": "2113048191155470346",
-      "type": "sha256",
-      "value": "ff38255d7f1cf0dcbb735f5e76ad0128589731a41b1d8e90b783228c4d37e6db"
-    },
     "ff3b834c54b4aa387838edca5d2da58133409363c119d5b7ea2a54b20f244128": {
       "confidence": 0.8,
       "date": "2026-11-01 01:40:56",
@@ -46838,63 +46068,6 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "fiklghytart-diwali-sale.space"
-    },
-    "file.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "file.webapi-whatsapp.com"
-    },
-    "file.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "file.webstatici-whatsapp.com"
-    },
-    "files.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "files.webstatici-whatsapp.com"
-    },
-    "fileserver.devin-hk.shop": {
-      "confidence": 0.25,
-      "date": "2026-10-21 19:45:07",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious file server subdomain on devin-hk.shop shared as an indicator without context.",
-      "threat_type": "other",
-      "tweet_id": "2112993603123552401",
-      "type": "domain",
-      "value": "fileserver.devin-hk.shop"
     },
     "filesyncoraflow.com": {
       "confidence": 0.85,
@@ -48439,20 +47612,6 @@
       "type": "url",
       "value": "https://fortvite.com/id/login"
     },
-    "forumst.co.kr": {
-      "confidence": 0.45,
-      "date": "2026-10-21 19:21:06",
-      "enriched_at": "2026-11-16T18:40:05Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip 'questions for collaboration' seen from Georgia, with a login.php URL on a compromised Korean site.",
-      "threat_type": "malware",
-      "tweet_id": "2112987559358074919",
-      "type": "domain",
-      "value": "forumst.co.kr"
-    },
     "forumvashgol.online": {
       "confidence": 0.65,
       "date": "2026-11-11 21:30:09",
@@ -48575,51 +47734,6 @@
       "tweet_id": "2118708603120996656",
       "type": "url",
       "value": "https://fpnov4-zone.eastus.cloudapp.azure.com/files/KB59905"
-    },
-    "fr-ca.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "fr-ca.webhwsapp-whatsapp.com"
-    },
-    "fr-fr.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "fr-fr.webhwsapp-whatsapp.com"
-    },
-    "fr.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "fr.webhwsapp-whatsapp.com"
     },
     "fr.yxdnsy.com": {
       "confidence": 0.55,
@@ -49465,20 +48579,6 @@
       "type": "url",
       "value": "https://github.com/i25968627-ui/psychic-engine/"
     },
-    "github.com/mariaaefyw": {
-      "confidence": 0.45,
-      "date": "2026-10-21 19:42:14",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "GitHub account linked to a malicious Malaysian e-invoice (LHDN MyInvois) themed zip sample seen from India.",
-      "threat_type": "malware",
-      "tweet_id": "2112992876963451098",
-      "type": "url",
-      "value": "http://github.com/mariaaefyw"
-    },
     "github.com/meta1-911/11thh/raw/main/mt.zip": {
       "confidence": 0.6,
       "date": "2026-11-17 20:29:29",
@@ -50230,51 +49330,6 @@
       "type": "domain",
       "value": "grillrecipespro.com"
     },
-    "group.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "group.webapi-whatsapp.com"
-    },
-    "group.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "group.webstatici-whatsapp.com"
-    },
-    "groups.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "groups.webstatici-whatsapp.com"
-    },
     "guangchunbelt-jp.com": {
       "confidence": 0.75,
       "date": "2026-11-10 03:59:51",
@@ -50344,21 +49399,6 @@
       "tweet_id": "2113175176020185284",
       "type": "url",
       "value": "http://gugyh.icu/?HkbdYzyD/"
-    },
-    "guide.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "guide.webapi-whatsapp.com"
     },
     "gulas-kaccha-tronk.space": {
       "confidence": 0.4,
@@ -50433,36 +49473,6 @@
       "tweet_id": "2116617471994261848",
       "type": "url",
       "value": "https://gwkinvestmicrosoftteams.com/Teams_Installer.exe"
-    },
-    "h92jcihwicllow.wuaze.com": {
-      "confidence": 0.4,
-      "date": "2026-10-21 21:45:35",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "dprk"
-      ],
-      "summary": "Suspected North Korean-linked C2 URL hosted on a free hosting subdomain (wuaze.com).",
-      "threat_type": "c2",
-      "tweet_id": "2113023920337285520",
-      "type": "domain",
-      "value": "h92jcihwicllow.wuaze.com"
-    },
-    "h92jcihwicllow.wuaze.com/ye97bw999zb87t1u8i.php": {
-      "confidence": 0.4,
-      "date": "2026-10-21 21:45:35",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "dprk"
-      ],
-      "summary": "Suspected North Korean-linked C2 URL hosted on a free hosting subdomain (wuaze.com).",
-      "threat_type": "c2",
-      "tweet_id": "2113023920337285520",
-      "type": "url",
-      "value": "https://h92jcihwicllow.wuaze.com/YE97Bw999zB87t1U8i.php"
     },
     "hackattackkaboom.botlesscucks.st": {
       "confidence": 0.8,
@@ -50612,6 +49622,20 @@
       "tweet_id": "2114538203697094738",
       "type": "domain",
       "value": "harborstonegroup.shop"
+    },
+    "hardener33.opik.net": {
+      "confidence": 0.4,
+      "date": "2026-11-20 22:28:11",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Batch file 'quotation_order_26071026-1.bat' seen from Singapore on MalwareBazaar, associated with domain hardener33.opik.net.",
+      "threat_type": "malware",
+      "tweet_id": "2123906275767361760",
+      "type": "domain",
+      "value": "hardener33.opik.net"
     },
     "haykey.click": {
       "confidence": 0.5,
@@ -50861,36 +49885,6 @@
       "type": "url",
       "value": "https://help.pactvow.com/vJCGbEbO"
     },
-    "help.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "help.webapi-whatsapp.com"
-    },
-    "help.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "help.webstatici-whatsapp.com"
-    },
     "hendakhelifi.com": {
       "confidence": 0.55,
       "date": "2026-11-03 11:44:19",
@@ -50963,21 +49957,6 @@
       "type": "domain",
       "value": "hhevzhgcokx6xlzh4o4exuo2kryy6ectpb7trm5ut2g3u4trskptv7ad.onion"
     },
-    "hi.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "hi.webhwsapp-whatsapp.com"
-    },
     "hidread.net": {
       "confidence": 0.85,
       "date": "2026-11-10 08:55:10",
@@ -51040,21 +50019,6 @@
       "tweet_id": "2121989012256657767",
       "type": "domain",
       "value": "hindibuddy.co.in"
-    },
-    "history.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "history.webapi-whatsapp.com"
     },
     "hlushkova.top": {
       "confidence": 0.4,
@@ -51297,21 +50261,6 @@
       "tweet_id": "2117722188002594955",
       "type": "url",
       "value": "http://hotsitar.com/download.html"
-    },
-    "howto.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "howto.webapi-whatsapp.com"
     },
     "https-www-roblox.com": {
       "confidence": 0.9,
@@ -51770,21 +50719,6 @@
       "type": "url",
       "value": "http://id.nextbet-sports.com/ilkeioidue/hhhh.php"
     },
-    "id.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "id.webhwsapp-whatsapp.com"
-    },
     "identidade-itau.com": {
       "confidence": 0.95,
       "date": "2026-10-30 08:01:17",
@@ -51935,21 +50869,6 @@
       "type": "url",
       "value": "https://im-quirky.com/csr/ScreenConnect-3025147.ClientSetup.exe"
     },
-    "img.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "img.webapi-whatsapp.com"
-    },
     "imprevisible-jp.com": {
       "confidence": 0.8,
       "date": "2026-11-16 06:39:18",
@@ -51981,21 +50900,6 @@
       "tweet_id": "2113884905268826384",
       "type": "domain",
       "value": "in-echallan.win"
-    },
-    "inbox.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "inbox.webstatici-whatsapp.com"
     },
     "incomestonefield.com": {
       "confidence": 0.8,
@@ -52420,21 +51324,6 @@
       "type": "domain",
       "value": "invitemeet.us"
     },
-    "ios.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ios.webapi-whatsapp.com"
-    },
     "ipqmdqzxnsfxqfc.zip": {
       "confidence": 0.7,
       "date": "2026-10-28 06:14:43",
@@ -52522,21 +51411,6 @@
       "tweet_id": "2123520689915445369",
       "type": "domain",
       "value": "islandoriginsmag.com"
-    },
-    "it.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "it.webhwsapp-whatsapp.com"
     },
     "itau-com.vercel.app": {
       "confidence": 0.7,
@@ -52638,21 +51512,6 @@
       "tweet_id": "2123331405400678811",
       "type": "domain",
       "value": "j8882.buzz"
-    },
-    "ja.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ja.webhwsapp-whatsapp.com"
     },
     "jal-air.spguiapp.com": {
       "confidence": 0.9,
@@ -53104,22 +51963,6 @@
       "tweet_id": "2123520689915445369",
       "type": "domain",
       "value": "josfek.com"
-    },
-    "joymspcb.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:22:01",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Mercari app, distributed through multiple .cn phishing domains.",
-      "threat_type": "malware",
-      "tweet_id": "2113048191155470346",
-      "type": "domain",
-      "value": "joymspcb.cn"
     },
     "jr-east.52hysmj.com": {
       "confidence": 0.9,
@@ -53655,21 +52498,6 @@
       "type": "domain",
       "value": "klinhsrg.lol"
     },
-    "ko.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ko.webhwsapp-whatsapp.com"
-    },
     "koalapocket.com": {
       "confidence": 0.6,
       "date": "2026-11-11 14:02:43",
@@ -53785,20 +52613,6 @@
       "tweet_id": "2115160953675522367",
       "type": "domain",
       "value": "kozae666.com"
-    },
-    "ktoktotam.cc": {
-      "confidence": 0.7,
-      "date": "2026-10-21 19:00:22",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix"
-      ],
-      "summary": "Domains and IP associated with a ClickFix campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2112982341731910035",
-      "type": "domain",
-      "value": "ktoktotam.cc"
     },
     "kyamich.dev": {
       "confidence": 0.7,
@@ -54110,6 +52924,18 @@
       "type": "url",
       "value": "http://leadscorepro.com.br/zcu3"
     },
+    "leaked.cz": {
+      "confidence": 0.6,
+      "date": "2026-11-20 21:45:06",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Leaked cybercrime forum reported back online under new domain leaked[.]cz and returned to UP status on a threat feed.",
+      "threat_type": "other",
+      "tweet_id": "2123895436469485598",
+      "type": "domain",
+      "value": "leaked.cz"
+    },
     "leebin101.com": {
       "confidence": 0.5,
       "date": "2026-11-04 07:03:00",
@@ -54244,48 +53070,6 @@
       "tweet_id": "2123520689915445369",
       "type": "domain",
       "value": "letinq.com"
-    },
-    "lhdn.tos-cn-hongkong.volces.com": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:30:28",
-      "enriched_at": "2026-11-19T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip posing as a Malaysian e-Invoice, hosted on a Volcengine TOS bucket and submitted to MalwareBazaar.",
-      "threat_type": "malware",
-      "tweet_id": "2112989918314082709",
-      "type": "domain",
-      "value": "lhdn.tos-cn-hongkong.volces.com"
-    },
-    "lhdn.tos-cn-hongkong.volces.com/e-invoice_inv20246_tin_d1988013800_validated_2026-10-15.zip": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:30:28",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip posing as a validated Malaysian e-invoice, hosted on volces.com cloud storage.",
-      "threat_type": "malware",
-      "tweet_id": "2112989918314082709",
-      "type": "url",
-      "value": "https://lhdn.tos-cn-hongkong.volces.com/e-Invoice_INV20246_TIN_D1988013800_Validated_2026-10-15.zip"
-    },
-    "lhdn.tos-cn-hongkong.volces.com/myinvois_e-invoice_inv57872_lhdn_validated.zip": {
-      "confidence": 0.6,
-      "date": "2026-10-21 19:37:59",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip posing as a Malaysian LHDN MyInvois e-invoice, hosted on volces.com cloud storage.",
-      "threat_type": "malware",
-      "tweet_id": "2112991811169841325",
-      "type": "url",
-      "value": "https://lhdn.tos-cn-hongkong.volces.com/MyInvois_e-Invoice_INV57872_LHDN_Validated.zip"
     },
     "liaisondeparfum.com": {
       "confidence": 0.85,
@@ -54641,96 +53425,6 @@
       "type": "url",
       "value": "https://login-msftportal.com/captcha.html?email=phishing@live.com"
     },
-    "login.en.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "login.en.webhwsapp-whatsapp.com"
-    },
-    "login.es.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "login.es.webhwsapp-whatsapp.com"
-    },
-    "login.pt-br.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "login.pt-br.webhwsapp-whatsapp.com"
-    },
-    "login.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "login.webapi-whatsapp.com"
-    },
-    "login.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "login.webstatici-whatsapp.com"
-    },
-    "login.zh.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "login.zh.webhwsapp-whatsapp.com"
-    },
     "logs.uvexio.com": {
       "confidence": 0.6,
       "date": "2026-10-28 05:56:35",
@@ -54928,21 +53622,6 @@
       "tweet_id": "2116230299990339964",
       "type": "url",
       "value": "http://m-facebooks.vn/httpswwwfacebookcomdovanduc2020/?tj9"
-    },
-    "mac.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "mac.webapi-whatsapp.com"
     },
     "mackdentistr-jp.com": {
       "confidence": 0.8,
@@ -55391,36 +54070,6 @@
       "type": "domain",
       "value": "mayhemmystery-jp.com"
     },
-    "media.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "media.webapi-whatsapp.com"
-    },
-    "media.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "media.webstatici-whatsapp.com"
-    },
     "mediagetapp.com": {
       "confidence": 0.75,
       "date": "2026-10-24 15:49:16",
@@ -55590,66 +54239,6 @@
       "tweet_id": "2123409316048760878",
       "type": "domain",
       "value": "mepintei.com"
-    },
-    "message.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "message.webapi-whatsapp.com"
-    },
-    "message.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "message.webstatici-whatsapp.com"
-    },
-    "messages.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "messages.webstatici-whatsapp.com"
-    },
-    "messenger.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "messenger.webstatici-whatsapp.com"
     },
     "metaslate.org": {
       "confidence": 0.8,
@@ -56474,6 +55063,20 @@
       "type": "domain",
       "value": "mparivahanechallangov.info"
     },
+    "mpegs-arrived-columns-vocal.trycloudflare.com": {
+      "confidence": 0.45,
+      "date": "2026-11-20 20:02:16",
+      "enriched_at": "2026-11-21T00:40:03Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'jpg_helper.exe' seen from Germany, communicating with a trycloudflare.com tunnel domain.",
+      "threat_type": "malware",
+      "tweet_id": "2123869556112498845",
+      "type": "domain",
+      "value": "mpegs-arrived-columns-vocal.trycloudflare.com"
+    },
     "ms.twnic.top": {
       "confidence": 0.8,
       "date": "2026-11-17 13:45:03",
@@ -56490,21 +55093,6 @@
       "tweet_id": "2122687465206984959",
       "type": "domain",
       "value": "ms.twnic.top"
-    },
-    "ms.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ms.webhwsapp-whatsapp.com"
     },
     "mscupdate.blob.core.windows.net": {
       "confidence": 0.5,
@@ -57257,21 +55845,6 @@
       "type": "url",
       "value": "http://newoldstamp.com/r/772524/w?id=1"
     },
-    "news.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "news.webapi-whatsapp.com"
-    },
     "nexguard.pro": {
       "confidence": 0.8,
       "date": "2026-11-17 21:06:26",
@@ -57528,36 +56101,6 @@
       "tweet_id": "2117870931649716463",
       "type": "url",
       "value": "https://nintendo-co.jp.sdfgef.com/RfTAjdvd/"
-    },
-    "nl-be.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "nl-be.webhwsapp-whatsapp.com"
-    },
-    "nl.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "nl.webhwsapp-whatsapp.com"
     },
     "nodvian.us": {
       "confidence": 0.8,
@@ -58078,34 +56621,6 @@
       "type": "domain",
       "value": "olkm.org"
     },
-    "olympushorse.com.br": {
-      "confidence": 0.85,
-      "date": "2026-10-21 19:56:14",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing URL on a Brazilian domain hosted on an Oracle Cloud IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2112996403551105223",
-      "type": "domain",
-      "value": "olympushorse.com.br"
-    },
-    "olympushorse.com.br/dolo/ar24": {
-      "confidence": 0.85,
-      "date": "2026-10-21 19:56:14",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing URL on a Brazilian domain hosted on an Oracle Cloud IP in the US.",
-      "threat_type": "phishing",
-      "tweet_id": "2112996403551105223",
-      "type": "url",
-      "value": "https://olympushorse.com.br/dolo/ar24/"
-    },
     "onfact5-production.web.app": {
       "confidence": 0.6,
       "date": "2026-11-02 03:40:06",
@@ -58135,51 +56650,6 @@
       "tweet_id": "2122989263952261187",
       "type": "domain",
       "value": "online-now.beer"
-    },
-    "online.en.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "online.en.webhwsapp-whatsapp.com"
-    },
-    "online.es.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "online.es.webhwsapp-whatsapp.com"
-    },
-    "online.zh.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "online.zh.webhwsapp-whatsapp.com"
     },
     "onlineminecraft-jp.com": {
       "confidence": 0.8,
@@ -58564,21 +57034,6 @@
       "type": "domain",
       "value": "pah.com.my"
     },
-    "pairing.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "pairing.webstatici-whatsapp.com"
-    },
     "paiwdlasd.com": {
       "confidence": 0.55,
       "date": "2026-11-07 09:31:46",
@@ -58669,21 +57124,6 @@
       "tweet_id": "2118640538286985396",
       "type": "domain",
       "value": "passkeycreate.com"
-    },
-    "password.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "password.webapi-whatsapp.com"
     },
     "paste.rs": {
       "confidence": 0.6,
@@ -58857,21 +57297,6 @@
       "tweet_id": "2123246016552173775",
       "type": "domain",
       "value": "paypalverification.icu"
-    },
-    "pc.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "pc.webapi-whatsapp.com"
     },
     "pdfshwodas.top": {
       "confidence": 0.6,
@@ -59210,21 +57635,6 @@
       "tweet_id": "2115555457049755670",
       "type": "domain",
       "value": "pizzabiglatino.com"
-    },
-    "pl.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "pl.webhwsapp-whatsapp.com"
     },
     "placewingarage.com": {
       "confidence": 0.3,
@@ -59831,36 +58241,6 @@
       "type": "domain",
       "value": "pritue.com"
     },
-    "privacy.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "privacy.webapi-whatsapp.com"
-    },
-    "privacy.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "privacy.webstatici-whatsapp.com"
-    },
     "privacy5.dynu.org": {
       "confidence": 0.8,
       "date": "2026-11-19 15:04:00",
@@ -59950,36 +58330,6 @@
       "tweet_id": "2122217930972873117",
       "type": "domain",
       "value": "probeautystudio-jp.com"
-    },
-    "profile.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "profile.webapi-whatsapp.com"
-    },
-    "profile.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "profile.webstatici-whatsapp.com"
     },
     "programmingz-jp.com": {
       "confidence": 0.8,
@@ -60123,51 +58473,6 @@
       "tweet_id": "2113324699287724457",
       "type": "url",
       "value": "http://psoz96apk.9yyl9.net/psoz96apk/kobaiapp"
-    },
-    "pt-br.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "pt-br.webhwsapp-whatsapp.com"
-    },
-    "pt-pt.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "pt-pt.webhwsapp-whatsapp.com"
-    },
-    "pt.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "pt.webhwsapp-whatsapp.com"
     },
     "ptrdfvc.sbs": {
       "confidence": 0.6,
@@ -60640,21 +58945,6 @@
       "tweet_id": "2118849964017434669",
       "type": "domain",
       "value": "qorexa-labs.com"
-    },
-    "qr.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "qr.webstatici-whatsapp.com"
     },
     "quasarflow.cfd": {
       "confidence": 0.9,
@@ -61299,21 +59589,6 @@
       "type": "domain",
       "value": "register.rsvpconnect-events.com"
     },
-    "register.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "register.webapi-whatsapp.com"
-    },
     "relay.alico.shop": {
       "confidence": 0.7,
       "date": "2026-10-27 16:17:50",
@@ -61476,36 +59751,6 @@
       "tweet_id": "2123080018385621109",
       "type": "url",
       "value": "https://responditious.com/n7Qx4Km9Vz2Rp8Lc5"
-    },
-    "restore.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "restore.webapi-whatsapp.com"
-    },
-    "restore.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "restore.webstatici-whatsapp.com"
     },
     "restsetestes.com": {
       "confidence": 0.8,
@@ -62065,21 +60310,6 @@
       "tweet_id": "2115436016840368582",
       "type": "domain",
       "value": "rsvpconnect-events.com"
-    },
-    "ru.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ru.webhwsapp-whatsapp.com"
     },
     "rurjfvn.rs": {
       "confidence": 0.8,
@@ -62734,21 +60964,6 @@
       "type": "domain",
       "value": "sc-crypt.xyz"
     },
-    "scan.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "scan.webstatici-whatsapp.com"
-    },
     "scanned.page/p/3ohzcy?id=nkuyv79qj7": {
       "confidence": 0.85,
       "date": "2026-11-14 00:47:18",
@@ -63400,21 +61615,6 @@
       "type": "domain",
       "value": "secure-xserver-89123.kurasoo.com"
     },
-    "secure.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "secure.webapi-whatsapp.com"
-    },
     "securedocument-docusign.info": {
       "confidence": 0.8,
       "date": "2026-11-01 04:23:02",
@@ -63446,36 +61646,6 @@
       "tweet_id": "2115730468264182255",
       "type": "domain",
       "value": "security.cortivas.us"
-    },
-    "security.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "security.webapi-whatsapp.com"
-    },
-    "security.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "security.webstatici-whatsapp.com"
     },
     "seosolu.com": {
       "confidence": 0.9,
@@ -63601,21 +61771,6 @@
       "type": "url",
       "value": "http://server.vietnam852.com:8000"
     },
-    "settings.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "settings.webstatici-whatsapp.com"
-    },
     "settingsmap.online": {
       "confidence": 0.75,
       "date": "2026-11-18 18:29:56",
@@ -63629,21 +61784,6 @@
       "tweet_id": "2123121542183919702",
       "type": "domain",
       "value": "settingsmap.online"
-    },
-    "setup.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "setup.webapi-whatsapp.com"
     },
     "sever.cx": {
       "confidence": 0.7,
@@ -63780,22 +61920,6 @@
       "tweet_id": "2122451359257481646",
       "type": "domain",
       "value": "sexmeet.us"
-    },
-    "sexygal.top": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:47:36",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware masquerading as LINE TV, distributed via a phishing/fraud site.",
-      "threat_type": "malware",
-      "tweet_id": "2113054625511440751",
-      "type": "domain",
-      "value": "sexygal.top"
     },
     "shamcash-mu.vercel.app": {
       "confidence": 0.85,
@@ -64031,36 +62155,6 @@
       "tweet_id": "2121510626992517438",
       "type": "url",
       "value": "https://sidflow.cfd/LJNI/#/index"
-    },
-    "signin.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "signin.webapi-whatsapp.com"
-    },
-    "signin.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "signin.webstatici-whatsapp.com"
     },
     "simplegastronomy.com": {
       "confidence": 0.85,
@@ -64500,22 +62594,6 @@
       "type": "domain",
       "value": "snowflint.com"
     },
-    "snuznsva.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:22:01",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Mercari app, distributed through multiple .cn phishing domains.",
-      "threat_type": "malware",
-      "tweet_id": "2113048191155470346",
-      "type": "domain",
-      "value": "snuznsva.cn"
-    },
     "sobesmarje.com": {
       "confidence": 0.75,
       "date": "2026-10-23 17:24:24",
@@ -64827,21 +62905,6 @@
       "type": "domain",
       "value": "ssamsung1.xyz"
     },
-    "ssl.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "ssl.webapi-whatsapp.com"
-    },
     "sso-auth.com": {
       "confidence": 0.85,
       "date": "2026-11-18 08:01:21",
@@ -64913,51 +62976,6 @@
       "tweet_id": "2118061732492894462",
       "type": "domain",
       "value": "stalevi-shershni.somee.com"
-    },
-    "static.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "static.webapi-whatsapp.com"
-    },
-    "status.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "status.webapi-whatsapp.com"
-    },
-    "status.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "status.webstatici-whatsapp.com"
     },
     "steaksoiree.com": {
       "confidence": 0.85,
@@ -66281,36 +64299,6 @@
       "type": "url",
       "value": "http://support.rogmafia.top:8041"
     },
-    "support.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "support.webapi-whatsapp.com"
-    },
-    "support.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "support.webstatici-whatsapp.com"
-    },
     "supportforpolicycompliance.vercel.app": {
       "confidence": 0.7,
       "date": "2026-10-30 02:10:06",
@@ -66647,36 +64635,6 @@
       "tweet_id": "2115526217537298573",
       "type": "domain",
       "value": "sync-user.to"
-    },
-    "sync.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "sync.webapi-whatsapp.com"
-    },
-    "sync.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "sync.webstatici-whatsapp.com"
     },
     "syncmorrow.us": {
       "confidence": 0.8,
@@ -67406,21 +65364,6 @@
       "type": "domain",
       "value": "telgramcn.com"
     },
-    "terms.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "terms.webapi-whatsapp.com"
-    },
     "test-api.claude.gg": {
       "confidence": 0.6,
       "date": "2026-11-06 18:14:35",
@@ -67576,21 +65519,6 @@
       "tweet_id": "2113729711889346677",
       "type": "domain",
       "value": "tglog.iwatch.vip"
-    },
-    "th.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "th.webhwsapp-whatsapp.com"
     },
     "thailisting.net": {
       "confidence": 0.7,
@@ -67892,21 +65820,6 @@
       "type": "url",
       "value": "https://tinyurl.com/s3-2310"
     },
-    "tips.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "tips.webapi-whatsapp.com"
-    },
     "tme.telelauncher.com": {
       "confidence": 0.75,
       "date": "2026-10-23 20:47:00",
@@ -68011,36 +65924,6 @@
       "type": "domain",
       "value": "tolfex.com"
     },
-    "tool.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "tool.webstatici-whatsapp.com"
-    },
-    "tools.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "tools.webstatici-whatsapp.com"
-    },
     "touriwant.com": {
       "confidence": 0.55,
       "date": "2026-11-11 06:18:13",
@@ -68084,21 +65967,6 @@
       "tweet_id": "2115087994701103380",
       "type": "domain",
       "value": "tpab7.com"
-    },
-    "tr.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "tr.webhwsapp-whatsapp.com"
     },
     "trabajoturismo-jp.com": {
       "confidence": 0.7,
@@ -68391,21 +66259,6 @@
       "type": "url",
       "value": "http://trynobot.com/v1/collect"
     },
-    "tutorial.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "tutorial.webapi-whatsapp.com"
-    },
     "twistedfears-jp.com": {
       "confidence": 0.85,
       "date": "2026-11-18 03:28:27",
@@ -68437,21 +66290,6 @@
       "tweet_id": "2122687465206984959",
       "type": "domain",
       "value": "twnic.top"
-    },
-    "two-step.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "two-step.webapi-whatsapp.com"
     },
     "u.pone.rs/iysmhikx.png": {
       "confidence": 0.55,
@@ -68585,21 +66423,6 @@
       "type": "domain",
       "value": "uhdyadasud.duckdns.org"
     },
-    "uk.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "uk.webhwsapp-whatsapp.com"
-    },
     "ultimategrillhub.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -68706,21 +66529,6 @@
       "tweet_id": "2123063621739532639",
       "type": "domain",
       "value": "updpkg.net"
-    },
-    "upload.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "upload.webstatici-whatsapp.com"
     },
     "uposp.com": {
       "confidence": 0.9,
@@ -69035,20 +66843,6 @@
       "type": "domain",
       "value": "v4.bnbvf.com"
     },
-    "vahuebivaet.cc": {
-      "confidence": 0.7,
-      "date": "2026-10-21 19:00:22",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix"
-      ],
-      "summary": "Domains and IP associated with a ClickFix campaign.",
-      "threat_type": "malware",
-      "tweet_id": "2112982341731910035",
-      "type": "domain",
-      "value": "vahuebivaet.cc"
-    },
     "valisi.ru": {
       "confidence": 0.8,
       "date": "2026-11-13 13:43:04",
@@ -69199,21 +66993,6 @@
       "type": "url",
       "value": "https://verify-cloud-domain.click/#mwkq6zx4"
     },
-    "verify.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "verify.webapi-whatsapp.com"
-    },
     "verifyidentrob01.cc": {
       "confidence": 0.85,
       "date": "2026-11-09 12:02:57",
@@ -69275,36 +67054,6 @@
       "tweet_id": "2120194450509173098",
       "type": "domain",
       "value": "vgyhtdxz.bond"
-    },
-    "vi.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "vi.webhwsapp-whatsapp.com"
-    },
-    "video.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "video.webstatici-whatsapp.com"
     },
     "viewercontroller.com": {
       "confidence": 0.6,
@@ -69455,21 +67204,6 @@
       "tweet_id": "2120407911306588513",
       "type": "url",
       "value": "https://vn8xbetb.com"
-    },
-    "voice.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "voice.webstatici-whatsapp.com"
     },
     "voltpay.cfd": {
       "confidence": 0.5,
@@ -69909,66 +67643,6 @@
       "type": "domain",
       "value": "web-static-cdn.od-files-repo.workers.dev"
     },
-    "web.boot-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 20:08:36",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Doorway sites redirect search-engine visitors to fake WhatsApp Web pages relaying QR/pairing codes to link victim accounts to attacker devices.",
-      "threat_type": "phishing",
-      "tweet_id": "2112999515733328213",
-      "type": "domain",
-      "value": "web.boot-whatsapp.com"
-    },
-    "web.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "web.webstatici-whatsapp.com"
-    },
-    "webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "webapi-whatsapp.com"
-    },
-    "webapp.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "webapp.webstatici-whatsapp.com"
-    },
     "webbit6551.com": {
       "confidence": 0.85,
       "date": "2026-11-05 18:03:26",
@@ -69984,21 +67658,6 @@
       "tweet_id": "2118403834070302940",
       "type": "domain",
       "value": "webbit6551.com"
-    },
-    "webclient.webstatici-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "webclient.webstatici-whatsapp.com"
     },
     "webferret-ai.com": {
       "confidence": 0.6,
@@ -70324,21 +67983,6 @@
       "tweet_id": "2115326378468114550",
       "type": "url",
       "value": "http://win10pc.oss-cn-hongkong.aliyuncs.com/JPLocalOffice.zip"
-    },
-    "windows.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "windows.webapi-whatsapp.com"
     },
     "winne.mynetav.net": {
       "confidence": 0.9,
@@ -70772,20 +68416,6 @@
       "type": "url",
       "value": "http://www.flpoised.net"
     },
-    "www.forumst.co.kr/gnuboard4/lib/login.php": {
-      "confidence": 0.45,
-      "date": "2026-10-21 19:21:06",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious zip titled 'questions for collaboration' seen from Georgia, tied to a compromised Korean site login.php URL.",
-      "threat_type": "malware",
-      "tweet_id": "2112987559358074919",
-      "type": "url",
-      "value": "http://www.forumst.co.kr/gnuboard4/lib/login.php"
-    },
     "www.grillchefsecrets.com": {
       "confidence": 0.85,
       "date": "2026-10-26 11:44:43",
@@ -71182,21 +68812,6 @@
       "type": "url",
       "value": "https://www.vyv51.top"
     },
-    "www.webapi-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "url",
-      "value": "http://www.webapi-whatsapp.com"
-    },
     "www.wenhuaxiangshan.com": {
       "confidence": 0.9,
       "date": "2026-11-18 15:44:55",
@@ -71362,40 +68977,6 @@
       "type": "domain",
       "value": "wz8ogren.mypressonline.com"
     },
-    "x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws": {
-      "confidence": 0.8,
-      "date": "2026-10-21 19:01:12",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam",
-        "android",
-        "malware"
-      ],
-      "summary": "Fake Indian eChallan site with arrest threats pushing an Android APK and instructing users to bypass Play Protect; payload unconfirmed.",
-      "threat_type": "scam",
-      "tweet_id": "2112982551166120281",
-      "type": "domain",
-      "value": "x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws"
-    },
-    "x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws/e-challal": {
-      "confidence": 0.8,
-      "date": "2026-10-21 19:01:12",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam",
-        "android",
-        "malware"
-      ],
-      "summary": "Fake Indian eChallan site with arrest threats pushing an Android APK and instructing users to bypass Play Protect; payload unconfirmed.",
-      "threat_type": "scam",
-      "tweet_id": "2112982551166120281",
-      "type": "url",
-      "value": "http://x3pf5mva2liano2rmgnkf5ktbe0efzvv.lambda-url.ap-south-1.on.aws/e-Challal"
-    },
     "xboxtelemetry-defender.cc": {
       "confidence": 0.35,
       "date": "2026-10-28 08:15:39",
@@ -71409,21 +68990,6 @@
       "tweet_id": "2115356808214966513",
       "type": "domain",
       "value": "xboxtelemetry-defender.cc"
-    },
-    "xbxj1.top": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "xbxj1.top"
     },
     "xc.frenchconnection.com.br": {
       "confidence": 0.8,
@@ -72451,81 +70017,6 @@
       "type": "url",
       "value": "https://zenithal.cfd/dsfdsgad/#/index"
     },
-    "zh-cn.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "zh-cn.webhwsapp-whatsapp.com"
-    },
-    "zh-hk.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "zh-hk.webhwsapp-whatsapp.com"
-    },
-    "zh-sg.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "zh-sg.webhwsapp-whatsapp.com"
-    },
-    "zh-tw.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "zh-tw.webhwsapp-whatsapp.com"
-    },
-    "zh.webhwsapp-whatsapp.com": {
-      "confidence": 0.85,
-      "date": "2026-10-21 18:44:43",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "scam"
-      ],
-      "summary": "Large set of fake WhatsApp web domains; search-engine visitors are redirected via redirect.js to phishing pages, others to Bing.",
-      "threat_type": "phishing",
-      "tweet_id": "2112978404995960872",
-      "type": "domain",
-      "value": "zh.webhwsapp-whatsapp.com"
-    },
     "zhdaodu.eu.cc": {
       "confidence": 0.2,
       "date": "2026-11-02 17:09:31",
@@ -72593,22 +70084,6 @@
       "tweet_id": "2115062512739832240",
       "type": "domain",
       "value": "zinhoooo.workers.dev"
-    },
-    "zivvvnvt.cn": {
-      "confidence": 0.7,
-      "date": "2026-10-21 23:22:01",
-      "enriched_at": "2026-10-22T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "android",
-        "malware",
-        "phishing"
-      ],
-      "summary": "Android malware disguised as the Mercari app, distributed through multiple .cn phishing domains.",
-      "threat_type": "malware",
-      "tweet_id": "2113048191155470346",
-      "type": "domain",
-      "value": "zivvvnvt.cn"
     },
     "zmngfjl.fun": {
       "confidence": 0.85,
@@ -72984,6 +70459,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-20T18:40:04Z",
+  "generated_at": "2026-11-21T00:40:03Z",
   "window_days": 30
 }

@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2074
-; Updated: 2026-11-21T00:32:00Z
+; Entries: 2075
+; Updated: 2026-11-21T00:47:19Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795221120 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795222039 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2138,6 +2138,8 @@ integercdn.com CNAME .
 *.integercdn.com CNAME .
 integration-auth.com CNAME .
 *.integration-auth.com CNAME .
+intelforums.cc CNAME .
+*.intelforums.cc CNAME .
 intelligencehub-jp.com CNAME .
 *.intelligencehub-jp.com CNAME .
 interconsult-jp.com CNAME .
