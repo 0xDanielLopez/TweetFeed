@@ -1,5 +1,5 @@
 {
-  "count": 4751,
+  "count": 4735,
   "dead_tweets": {
     "2114565057338343930": {
       "attempts": 2,
@@ -2889,18 +2889,6 @@
       "tweet_id": "2117583792261287947",
       "type": "ip",
       "value": "111.92.246.145"
-    },
-    "112.213.120.174": {
-      "confidence": 0.2,
-      "date": "2026-10-22 09:14:15",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP address 112.213.120[.]174 reported as the resolution of a previously mentioned domain; no further context given.",
-      "threat_type": "other",
-      "tweet_id": "2113197231406772678",
-      "type": "url",
-      "value": "http://112.213.120.174"
     },
     "112.213.123.38": {
       "confidence": 0.5,
@@ -6169,102 +6157,6 @@
       "type": "ip",
       "value": "157.20.241.16"
     },
-    "157.230.218.54": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://157.230.218.54"
-    },
-    "157.230.218.54/bin": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://157.230.218.54/bin"
-    },
-    "157.230.218.54/bins/tsunami.mips": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://157.230.218.54/bins/Tsunami.mips"
-    },
-    "157.230.218.54/bins/tsunami.mpsl": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://157.230.218.54/bins/Tsunami.mpsl"
-    },
-    "157.230.218.54/bins/tsunami.x86": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://157.230.218.54/bins/Tsunami.x86"
-    },
-    "157.230.218.54/zyxel.sh": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://157.230.218.54/zyxel.sh"
-    },
     "157.245.246.149": {
       "confidence": 0.9,
       "date": "2026-10-26 14:51:47",
@@ -6992,18 +6884,6 @@
       "tweet_id": "2120903569201123627",
       "type": "url",
       "value": "http://167.86.115.137"
-    },
-    "167.88.172.115": {
-      "confidence": 0.2,
-      "date": "2026-10-22 09:07:03",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "IP address 167.88.172[.]115 shared without context.",
-      "threat_type": "other",
-      "tweet_id": "2113195418498830717",
-      "type": "url",
-      "value": "http://167.88.172.115"
     },
     "167.99.146.146": {
       "confidence": 0.9,
@@ -7804,34 +7684,6 @@
       "tweet_id": "2119646123543724117",
       "type": "ip",
       "value": "176.65.132.181"
-    },
-    "176.65.132.7": {
-      "confidence": 0.9,
-      "date": "2026-10-22 10:52:58",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Tsunami",
-      "suggested_tags": [
-        "malware",
-        "opendir",
-        "trojan"
-      ],
-      "summary": "IoT botnet staging server serving Tsunami/Kaiten binaries with six exploit chains (GPON, Huawei HG532, Realtek, ThinkPHP, Zyxel) pulling from a second-stage host.",
-      "threat_type": "malware",
-      "tweet_id": "2113222072272928813",
-      "type": "url",
-      "value": "http://176.65.132.7"
-    },
-    "176.65.132.7:5000": {
-      "confidence": 0.6,
-      "date": "2026-10-22 11:27:12",
-      "enriched_at": "2026-10-22T18:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Web panel titled 'Dragon Stresser \u2014 Control Center' (a DDoS-for-hire/stresser control panel) exposed at 176.65.132.7:5000.",
-      "threat_type": "other",
-      "tweet_id": "2113230689403330893",
-      "type": "url",
-      "value": "http://176.65.132.7:5000"
     },
     "176.65.144.78": {
       "confidence": 0.7,
@@ -11768,6 +11620,20 @@
       "type": "url",
       "value": "http://206.119.160.138"
     },
+    "206.119.180.223": {
+      "confidence": 0.7,
+      "date": "2026-11-21 08:37:38",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": "CyberStrikeAI",
+      "suggested_tags": [
+        "c2"
+      ],
+      "summary": "IP tied to a CyberStrikeAI offensive AI server used in an AWS intrusion with stolen credentials, EC2 user data harvesting and SSM command execution across four accounts.",
+      "threat_type": "c2",
+      "tweet_id": "2124059652170174609",
+      "type": "ip",
+      "value": "206.119.180.223"
+    },
     "206.187.215.210": {
       "confidence": 0.5,
       "date": "2026-11-03 22:15:30",
@@ -12591,6 +12457,20 @@
       "tweet_id": "2120381775960821803",
       "type": "ip",
       "value": "213.186.33.3"
+    },
+    "213.229.152.166": {
+      "confidence": 0.6,
+      "date": "2026-11-21 10:13:48",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "PhishStats reports a phishing page impersonating the Trovit auto listings site at auto.trovit.be, hosted on an IP in Spain.",
+      "threat_type": "phishing",
+      "tweet_id": "2124083853677797662",
+      "type": "ip",
+      "value": "213.229.152.166"
     },
     "216.158.94.78": {
       "confidence": 0.6,
@@ -14924,21 +14804,6 @@
       "type": "ip",
       "value": "34.152.43.207"
     },
-    "34.207.217.89": {
-      "confidence": 0.7,
-      "date": "2026-10-22 08:26:00",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Evil Crypter",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2/login panel infrastructure for the 'Evil Crypter' service, including evilcrypter.ddns.com.br and related IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2113185085931307145",
-      "type": "ip",
-      "value": "34.207.217.89"
-    },
     "34.61.246.29": {
       "confidence": 0.6,
       "date": "2026-11-13 13:58:29",
@@ -17153,21 +17018,6 @@
       "type": "url",
       "value": "http://45.146.81.109"
     },
-    "45.146.81.123": {
-      "confidence": 0.7,
-      "date": "2026-10-22 08:26:00",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Evil Crypter",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2/login panel infrastructure for the 'Evil Crypter' service, including evilcrypter.ddns.com.br and related IPs.",
-      "threat_type": "c2",
-      "tweet_id": "2113185085931307145",
-      "type": "ip",
-      "value": "45.146.81.123"
-    },
     "45.148.244.75": {
       "confidence": 0.93,
       "date": "2026-11-10 14:54:43",
@@ -17240,21 +17090,6 @@
       "tweet_id": "2117742491029917723",
       "type": "ip",
       "value": "45.153.34.71"
-    },
-    "45.153.34.85": {
-      "confidence": 0.65,
-      "date": "2026-10-22 07:10:00",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": "Libelula Crypter",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "C2 panel at 45.153.34.85:5050 associated with the Libelula crypter.",
-      "threat_type": "c2",
-      "tweet_id": "2113165959879934323",
-      "type": "ip",
-      "value": "45.153.34.85"
     },
     "45.155.255.134": {
       "confidence": 0.2,
@@ -26328,34 +26163,6 @@
       "type": "ip",
       "value": "91.219.239.251"
     },
-    "91.224.92.16": {
-      "confidence": 0.7,
-      "date": "2026-10-22 11:58:06",
-      "enriched_at": "2026-10-22T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory at 91.224.92.16:18128, also linked to infrastructure scanning UK critical national infrastructure per a Bridewell article.",
-      "threat_type": "other",
-      "tweet_id": "2113238463801864577",
-      "type": "ip",
-      "value": "91.224.92.16"
-    },
-    "91.224.92.16:18128": {
-      "confidence": 0.7,
-      "date": "2026-10-22 11:58:06",
-      "enriched_at": "2026-10-22T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory at 91.224.92.16:18128, also linked to infrastructure scanning UK critical national infrastructure per a Bridewell article.",
-      "threat_type": "other",
-      "tweet_id": "2113238463801864577",
-      "type": "url",
-      "value": "http://91.224.92.16:18128"
-    },
     "91.92.240.238": {
       "confidence": 0.8,
       "date": "2026-11-07 15:49:12",
@@ -28340,34 +28147,6 @@
       "type": "url",
       "value": "https://aadhar.tech/forgot-password.php"
     },
-    "aaenen.cc": {
-      "confidence": 0.45,
-      "date": "2026-10-22 11:12:07",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Login panel titled 'online dashboard' (Chinese) at aaenen[.]cc/beacon_site/, likely a C2 beacon management panel.",
-      "threat_type": "c2",
-      "tweet_id": "2113223786581696797",
-      "type": "domain",
-      "value": "aaenen.cc"
-    },
-    "aaenen.cc/beacon_site": {
-      "confidence": 0.45,
-      "date": "2026-10-22 11:12:07",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Login panel titled 'online dashboard' (Chinese) at aaenen[.]cc/beacon_site/, likely a C2 beacon management panel.",
-      "threat_type": "c2",
-      "tweet_id": "2113223786581696797",
-      "type": "url",
-      "value": "https://aaenen.cc/beacon_site/"
-    },
     "aahsolutions.net": {
       "confidence": 0.8,
       "date": "2026-11-17 00:35:24",
@@ -29488,34 +29267,6 @@
       "type": "domain",
       "value": "ajifj50h.mypressonline.com"
     },
-    "ajmwglfzin.zelixavon.com": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "ajmwglfzin.zelixavon.com"
-    },
-    "ajmwglfzin.zelixavon.com?emx=": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "url",
-      "value": "http://ajmwglfzin.zelixavon.com?emx="
-    },
     "ake-terais-nouls.rest": {
       "confidence": 0.4,
       "date": "2026-11-03 16:10:38",
@@ -30061,34 +29812,6 @@
       "tweet_id": "2123625297107108338",
       "type": "url",
       "value": "https://americaxpseshojyzo.yestegroup.com/2ymmlo/hepe"
-    },
-    "anaconadministradora.com.br": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "anaconadministradora.com.br"
-    },
-    "anaconadministradora.com.br/yueud/hhhh.php": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "url",
-      "value": "http://anaconadministradora.com.br/yueud/hhhh.php"
     },
     "analhos.com": {
       "confidence": 0.8,
@@ -33697,6 +33420,20 @@
       "type": "domain",
       "value": "authy-ledger.at"
     },
+    "auto.trovit.be": {
+      "confidence": 0.6,
+      "date": "2026-11-21 10:13:48",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "PhishStats reports a phishing page impersonating the Trovit auto listings site at auto.trovit.be, hosted on an IP in Spain.",
+      "threat_type": "phishing",
+      "tweet_id": "2124083853677797662",
+      "type": "domain",
+      "value": "auto.trovit.be"
+    },
     "autosseba.be": {
       "confidence": 0.8,
       "date": "2026-11-15 20:19:27",
@@ -35900,20 +35637,6 @@
       "tweet_id": "2123035908123570299",
       "type": "domain",
       "value": "bsd-capital.ai"
-    },
-    "buchalter.configuremysso.com": {
-      "confidence": 0.6,
-      "date": "2026-10-22 07:59:49",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Infrastructure update on UNC6671: another legal-themed hostname (buchalter.configuremysso[.]com), the fourth subdomain observed.",
-      "threat_type": "phishing",
-      "tweet_id": "2113178497372025217",
-      "type": "domain",
-      "value": "buchalter.configuremysso.com"
     },
     "bucket-ynote-online-cdn.note.youdao.com": {
       "confidence": 0.4,
@@ -40084,6 +39807,21 @@
       "tweet_id": "2123219238962041261",
       "type": "domain",
       "value": "dasge.eu.cc"
+    },
+    "datatimes.centralus.cloudapp.azure.com": {
+      "confidence": 0.6,
+      "date": "2026-11-21 09:59:50",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "opendir",
+        "malware"
+      ],
+      "summary": "Open directory on an Azure-hosted server (centralus.cloudapp.azure.com) reported as hosting malware samples.",
+      "threat_type": "malware",
+      "tweet_id": "2124080335109640329",
+      "type": "domain",
+      "value": "datatimes.centralus.cloudapp.azure.com"
     },
     "date.now.to": {
       "confidence": 0.93,
@@ -45139,21 +44877,6 @@
       "type": "sha256",
       "value": "f908daa02ae95827255b043c79f89234ab75dde72b845b3a20000613bf40e277"
     },
-    "f90bcc14a17c591a349af7b7525cce4e6811110e32bf08a7352c25f3f2b6e792": {
-      "confidence": 0.5,
-      "date": "2026-10-22 11:12:07",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malware sample linked to a Chinese-language 'online dashboard' beacon login panel hosted at aaenen[.]cc, uploaded to MalwareBazaar.",
-      "threat_type": "c2",
-      "tweet_id": "2113226893243699233",
-      "type": "sha256",
-      "value": "f90bcc14a17c591a349af7b7525cce4e6811110e32bf08a7352c25f3f2b6e792"
-    },
     "f90ebd52260ad2f65511eb5cfc820080167b68bf75fcd3cd64c0f97de1d90886": {
       "confidence": 0.2,
       "date": "2026-10-27 14:51:34",
@@ -49303,34 +49026,6 @@
       "type": "domain",
       "value": "guarda-login.click"
     },
-    "gugyh.icu": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "gugyh.icu"
-    },
-    "gugyh.icu/?hkbdyzyd": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "url",
-      "value": "http://gugyh.icu/?HkbdYzyD/"
-    },
     "gulas-kaccha-tronk.space": {
       "confidence": 0.4,
       "date": "2026-11-03 16:10:38",
@@ -50208,6 +49903,34 @@
       "type": "url",
       "value": "http://hotsitar.com/download.html"
     },
+    "hrzqyx.cc": {
+      "confidence": 0.7,
+      "date": "2026-11-21 11:33:58",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": "Coruna",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Decoy sign-up page loads a hidden-iframe JavaScript loader for the Coruna iOS exploit, targeting iPhones only; same chain seen on two other domains.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2124104024400048180",
+      "type": "domain",
+      "value": "hrzqyx.cc"
+    },
+    "hrzqyx.cc/assets/js/m.js": {
+      "confidence": 0.7,
+      "date": "2026-11-21 11:33:58",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": "Coruna",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Decoy sign-up page loads a hidden-iframe JavaScript loader for the Coruna iOS exploit, targeting iPhones only; same chain seen on two other domains.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2124104024400048180",
+      "type": "url",
+      "value": "http://hrzqyx.cc/assets/js/m.js"
+    },
     "https-www-roblox.com": {
       "confidence": 0.9,
       "date": "2026-11-16 13:01:59",
@@ -50637,34 +50360,6 @@
       "type": "domain",
       "value": "id-review.at"
     },
-    "id.nextbet-sports.com": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "id.nextbet-sports.com"
-    },
-    "id.nextbet-sports.com/ilkeioidue/hhhh.php": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "url",
-      "value": "http://id.nextbet-sports.com/ilkeioidue/hhhh.php"
-    },
     "identidade-itau.com": {
       "confidence": 0.95,
       "date": "2026-10-30 08:01:17",
@@ -51092,6 +50787,70 @@
       "tweet_id": "2120505664845832433",
       "type": "domain",
       "value": "instance-hsiwi5-relay.screenconnect.com"
+    },
+    "instance-mfdh1z-relay.screenconnect.com": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "domain",
+      "value": "instance-mfdh1z-relay.screenconnect.com"
+    },
+    "instance-mfdh1z-relay.screenconnect.com:443": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "http://instance-mfdh1z-relay.screenconnect.com:443"
+    },
+    "instance-vzx9mk-relay.screenconnect.com": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "domain",
+      "value": "instance-vzx9mk-relay.screenconnect.com"
+    },
+    "instance-vzx9mk-relay.screenconnect.com:443": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "http://instance-vzx9mk-relay.screenconnect.com:443"
     },
     "insuranceforteenagedrivers.com": {
       "confidence": 0.7,
@@ -52707,6 +52466,20 @@
       "type": "domain",
       "value": "languageschool-jp.com"
     },
+    "lanternclip.live": {
+      "confidence": 0.7,
+      "date": "2026-11-21 11:33:58",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": "Coruna",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Decoy sign-up page loads a hidden-iframe JavaScript loader for the Coruna iOS exploit, targeting iPhones only; same chain seen on two other domains.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2124104024400048180",
+      "type": "domain",
+      "value": "lanternclip.live"
+    },
     "lapaca.webdirecto.com": {
       "confidence": 0.9,
       "date": "2026-11-14 16:01:48",
@@ -53495,6 +53268,38 @@
       "tweet_id": "2122956490697023826",
       "type": "domain",
       "value": "lumakentolorizeranexo.digital"
+    },
+    "lumensupply.site": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "domain",
+      "value": "lumensupply.site"
+    },
+    "lumensupply.site/tele.js?v=20261114t223827z-jum": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "https://lumensupply.site/tele.js?v=20261114T223827Z-jUM"
     },
     "lumitakes5gcreatinedaily.xyz": {
       "confidence": 0.85,
@@ -54673,20 +54478,6 @@
       "type": "domain",
       "value": "mivorantul.com"
     },
-    "mjlusctlxe.loka777.com": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "mjlusctlxe.loka777.com"
-    },
     "ml.qcqfzx.com": {
       "confidence": 0.55,
       "date": "2026-11-04 12:02:07",
@@ -54701,21 +54492,6 @@
       "tweet_id": "2117950517305655397",
       "type": "domain",
       "value": "ml.qcqfzx.com"
-    },
-    "mlroweb.com": {
-      "confidence": 0.85,
-      "date": "2026-10-22 12:17:50",
-      "enriched_at": "2026-10-22T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "clickfix",
-        "malware"
-      ],
-      "summary": "Compromised website mlroweb.com serving a ClickFix social-engineering lure.",
-      "threat_type": "malware",
-      "tweet_id": "2113243429073526787",
-      "type": "domain",
-      "value": "mlroweb.com"
     },
     "mmarketplaces.com": {
       "confidence": 0.85,
@@ -56965,6 +56741,38 @@
       "type": "domain",
       "value": "packagingnews-jp.com"
     },
+    "paduaacademy.screenconnect.com": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "domain",
+      "value": "paduaacademy.screenconnect.com"
+    },
+    "paduaacademy.screenconnect.com/bin/screenconnect.clientsetup.exe": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "https://paduaacademy.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
+    },
     "pah.com.my": {
       "confidence": 0.9,
       "date": "2026-11-14 21:01:57",
@@ -57448,6 +57256,20 @@
       "tweet_id": "2113353411374792984",
       "type": "domain",
       "value": "phppatcher.com"
+    },
+    "pifilubihu.shop": {
+      "confidence": 0.7,
+      "date": "2026-11-21 11:33:58",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": "Coruna",
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Decoy sign-up page loads a hidden-iframe JavaScript loader for the Coruna iOS exploit, targeting iPhones only; same chain seen on two other domains.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2124104024400048180",
+      "type": "domain",
+      "value": "pifilubihu.shop"
     },
     "pinkgirl-tv.com": {
       "confidence": 0.55,
@@ -58705,6 +58527,38 @@
       "type": "url",
       "value": "https://pussycat.online:8443"
     },
+    "pxmas.click": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "domain",
+      "value": "pxmas.click"
+    },
+    "pxmas.click/assess/h/ax": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "https://pxmas.click/Assess/h/ax/"
+    },
     "q1ls1ho9x7wsxlu.icu": {
       "confidence": 0.3,
       "date": "2026-11-16 20:40:29",
@@ -59816,34 +59670,6 @@
       "tweet_id": "2120744451358564679",
       "type": "domain",
       "value": "risooo.com"
-    },
-    "riverpartner.org": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "riverpartner.org"
-    },
-    "riverpartner.org/7fz9aztzyc": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "url",
-      "value": "http://riverpartner.org/7Fz9AzTzyC/"
     },
     "rkm-20260904-1514.zip": {
       "confidence": 0.65,
@@ -62496,34 +62322,6 @@
       "type": "domain",
       "value": "sni13.docsmanagement.endl.site"
     },
-    "snj.kjk.mybluehost.me": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "domain",
-      "value": "snj.kjk.mybluehost.me"
-    },
-    "snj.kjk.mybluehost.me/orund/hhhh.php": {
-      "confidence": 0.9,
-      "date": "2026-10-22 07:46:37",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "M365 credential harvesting domains with PHP kit (tag ninja_1263), exfiltrating via email to an attacker mailbox and redirecting to a webmail page.",
-      "threat_type": "phishing",
-      "tweet_id": "2113175176020185284",
-      "type": "url",
-      "value": "http://snj.kjk.mybluehost.me/orund/hhhh.php"
-    },
     "snowflint.com": {
       "confidence": 0.6,
       "date": "2026-11-11 14:02:43",
@@ -64508,34 +64306,6 @@
       "type": "url",
       "value": "http://switchpumpkin.com/d/u7333572"
     },
-    "swoavada.top": {
-      "confidence": 0.9,
-      "date": "2026-10-22 08:32:33",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating JCB (Japanese card brand) at swoavada[.]top.",
-      "threat_type": "phishing",
-      "tweet_id": "2113186736990003622",
-      "type": "domain",
-      "value": "swoavada.top"
-    },
-    "swoavada.top/ysfksnyt": {
-      "confidence": 0.9,
-      "date": "2026-10-22 08:32:33",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating JCB (Japanese card brand) at swoavada[.]top.",
-      "threat_type": "phishing",
-      "tweet_id": "2113186736990003622",
-      "type": "url",
-      "value": "https://swoavada.top/YSfKSnYT/"
-    },
     "swordaa.com": {
       "confidence": 0.8,
       "date": "2026-11-13 10:35:36",
@@ -66134,20 +65904,6 @@
       "type": "url",
       "value": "http://trustchecknes.com/verify/c41f72d7f62e9b60"
     },
-    "trustdate.eastus.cloudapp.azure.com": {
-      "confidence": 0.6,
-      "date": "2026-10-22 10:03:47",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "opendir"
-      ],
-      "summary": "Open directory found on an Azure-hosted cloudapp.azure.com host.",
-      "threat_type": "other",
-      "tweet_id": "2113209694240317937",
-      "type": "domain",
-      "value": "trustdate.eastus.cloudapp.azure.com"
-    },
     "trustwallet.com-users.vip": {
       "confidence": 0.9,
       "date": "2026-11-11 13:25:23",
@@ -66745,18 +66501,6 @@
       "tweet_id": "2121918587757629482",
       "type": "domain",
       "value": "uzafeho.top"
-    },
-    "uzeglvlb7gfekr3.icu": {
-      "confidence": 0.2,
-      "date": "2026-10-22 09:13:08",
-      "enriched_at": "2026-10-22T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Suspicious domain uzeglvlb7gfekr3[.]icu shared without context.",
-      "threat_type": "other",
-      "tweet_id": "2113196949859967338",
-      "type": "domain",
-      "value": "uzeglvlb7gfekr3.icu"
     },
     "v1techdomainsec.shop": {
       "confidence": 0.85,
@@ -67422,6 +67166,54 @@
       "tweet_id": "2122217930972873117",
       "type": "domain",
       "value": "wangluoduqiu-jp.com"
+    },
+    "wangty.site": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "domain",
+      "value": "wangty.site"
+    },
+    "wangty.site/router-files/screenconnect.clientsetup.exe": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "https://wangty.site/router-files/ScreenConnect.ClientSetup.exe"
+    },
+    "wangty.site/tele.js?v=20261117t234410z-osy": {
+      "confidence": 0.85,
+      "date": "2026-11-21 11:44:17",
+      "enriched_at": "2026-11-21T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "rat",
+        "malware"
+      ],
+      "summary": "Fake DocuSign 'Professional Reference Request' sites auto-download ScreenConnect remote-access client and report visitor details to Telegram bots.",
+      "threat_type": "phishing",
+      "tweet_id": "2124106621018067077",
+      "type": "url",
+      "value": "https://wangty.site/tele.js?v=20261117T234410Z-osY"
     },
     "waqfggna.eu.cc": {
       "confidence": 0.85,
@@ -70419,6 +70211,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-21T06:40:04Z",
+  "generated_at": "2026-11-21T12:40:04Z",
   "window_days": 30
 }
