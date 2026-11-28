@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2062
-; Updated: 2026-11-28T12:15:44Z
+; Entries: 2040
+; Updated: 2026-11-28T12:30:32Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795868144 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795869032 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -350,8 +350,6 @@ ambiancerealty-jp.com CNAME .
 *.ambiancerealty-jp.com CNAME .
 amd-country-prince-episode.trycloudflare.com CNAME .
 *.amd-country-prince-episode.trycloudflare.com CNAME .
-amd.okta.com CNAME .
-*.amd.okta.com CNAME .
 amendments-grace-suggested-effects.trycloudflare.com CNAME .
 *.amendments-grace-suggested-effects.trycloudflare.com CNAME .
 amerepxtauric.aoqwox.asia CNAME .
@@ -448,8 +446,6 @@ app.naturekojamibaramet.cyou CNAME .
 *.app.naturekojamibaramet.cyou CNAME .
 app.onlytikpremium.pro CNAME .
 *.app.onlytikpremium.pro CNAME .
-app.smartsheet.eu CNAME .
-*.app.smartsheet.eu CNAME .
 app.yolandamartinez.com CNAME .
 *.app.yolandamartinez.com CNAME .
 app25006.servicebus.windows.net CNAME .
@@ -1244,6 +1240,8 @@ cx-rat-v2-dpyshdh12b1m.edgeone.dev CNAME .
 *.cx-rat-v2-dpyshdh12b1m.edgeone.dev CNAME .
 cybersunshine-jp.com CNAME .
 *.cybersunshine-jp.com CNAME .
+cyclenetixsecure.com CNAME .
+*.cyclenetixsecure.com CNAME .
 cyclingonlineshop.com CNAME .
 *.cyclingonlineshop.com CNAME .
 czernik.org CNAME .
@@ -1262,8 +1260,6 @@ d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com CNAME .
 *.d5wxfxf731zi7t.s3.ap-northeast-1.amazonaws.com CNAME .
 dageainiyoo3.top CNAME .
 *.dageainiyoo3.top CNAME .
-dai-ichi-life.co.jp CNAME .
-*.dai-ichi-life.co.jp CNAME .
 daiichilife-group.com CNAME .
 *.daiichilife-group.com CNAME .
 dailychefrecipe.com CNAME .
@@ -1630,8 +1626,6 @@ edgxxwors.org CNAME .
 *.edgxxwors.org CNAME .
 edhxgov.org CNAME .
 *.edhxgov.org CNAME .
-ehc24.com CNAME .
-*.ehc24.com CNAME .
 eil786npto9u5bq.icu CNAME .
 *.eil786npto9u5bq.icu CNAME .
 ekmt.tw CNAME .
@@ -1782,8 +1776,6 @@ freshobsessed-jp.com CNAME .
 *.freshobsessed-jp.com CNAME .
 fruxgk.sbs CNAME .
 *.fruxgk.sbs CNAME .
-ftb.pl CNAME .
-*.ftb.pl CNAME .
 ftp.vietnam852.com CNAME .
 *.ftp.vietnam852.com CNAME .
 fudcomcheck.art CNAME .
@@ -1952,8 +1944,6 @@ harborstonegroup.shop CNAME .
 *.harborstonegroup.shop CNAME .
 hardener33.opik.net CNAME .
 *.hardener33.opik.net CNAME .
-hashlib.new CNAME .
-*.hashlib.new CNAME .
 haykey.click CNAME .
 *.haykey.click CNAME .
 hchjcc.bumbleshrimp.com CNAME .
@@ -1964,8 +1954,6 @@ healthherofit.com CNAME .
 *.healthherofit.com CNAME .
 healthlys.com CNAME .
 *.healthlys.com CNAME .
-healthmetrics.com CNAME .
-*.healthmetrics.com CNAME .
 healthskills-jp.com CNAME .
 *.healthskills-jp.com CNAME .
 heaven-ads.com CNAME .
@@ -2098,8 +2086,6 @@ infradesk-internal.top CNAME .
 *.infradesk-internal.top CNAME .
 inineci.top CNAME .
 *.inineci.top CNAME .
-initiatedby.app CNAME .
-*.initiatedby.app CNAME .
 inmain.22web.org CNAME .
 *.inmain.22web.org CNAME .
 instagram-login.desireblueuniforms.com CNAME .
@@ -2126,8 +2112,6 @@ intelligencehub-jp.com CNAME .
 *.intelligencehub-jp.com CNAME .
 interconsult-jp.com CNAME .
 *.interconsult-jp.com CNAME .
-interior.gob.es CNAME .
-*.interior.gob.es CNAME .
 internet-speed-check.com CNAME .
 *.internet-speed-check.com CNAME .
 introvisto.us CNAME .
@@ -2316,8 +2300,6 @@ larchhelm4894.vercel.app CNAME .
 *.larchhelm4894.vercel.app CNAME .
 lareserva.shop CNAME .
 *.lareserva.shop CNAME .
-lareservarelais.com CNAME .
-*.lareservarelais.com CNAME .
 lasvegasaces-jp.com CNAME .
 *.lasvegasaces-jp.com CNAME .
 lavanex.cfd CNAME .
@@ -2562,8 +2544,6 @@ mithvxrqkpn.com CNAME .
 *.mithvxrqkpn.com CNAME .
 mivorantul.com CNAME .
 *.mivorantul.com CNAME .
-ml.muno.pl CNAME .
-*.ml.muno.pl CNAME .
 ml.qcqfzx.com CNAME .
 *.ml.qcqfzx.com CNAME .
 mmarketplaces.com CNAME .
@@ -2588,8 +2568,6 @@ moooooooooooops.cv CNAME .
 *.moooooooooooops.cv CNAME .
 mootoo.ccwu.cc CNAME .
 *.mootoo.ccwu.cc CNAME .
-moreth.com CNAME .
-*.moreth.com CNAME .
 mossora.cfd CNAME .
 *.mossora.cfd CNAME .
 mossypinediwali.online CNAME .
@@ -2634,8 +2612,6 @@ muchautomation-jp.com CNAME .
 *.muchautomation-jp.com CNAME .
 multimedia-penetration-gba-perry.trycloudflare.com CNAME .
 *.multimedia-penetration-gba-perry.trycloudflare.com CNAME .
-muno.pl CNAME .
-*.muno.pl CNAME .
 my-settings-google.com CNAME .
 *.my-settings-google.com CNAME .
 my.1-password.us.com CNAME .
@@ -2894,8 +2870,6 @@ peakdevelopment-jp.com CNAME .
 *.peakdevelopment-jp.com CNAME .
 pelotonsports-jp.com CNAME .
 *.pelotonsports-jp.com CNAME .
-pepsico.okta.com CNAME .
-*.pepsico.okta.com CNAME .
 perfectgrillguide.com CNAME .
 *.perfectgrillguide.com CNAME .
 perfectpitmaster.com CNAME .
@@ -3210,8 +3184,6 @@ roundedbullets.com CNAME .
 *.roundedbullets.com CNAME .
 royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev CNAME .
 *.royal-wood-3c0d.julianosilvasantospiresrosa.workers.dev CNAME .
-rs-ny.rustdesk.com CNAME .
-*.rs-ny.rustdesk.com CNAME .
 rsg63gpp.s3.us-east-2.amazonaws.com CNAME .
 *.rsg63gpp.s3.us-east-2.amazonaws.com CNAME .
 rurjfvn.rs CNAME .
@@ -3222,8 +3194,6 @@ ruthaiv.com CNAME .
 *.ruthaiv.com CNAME .
 ryfotukhjiohfhgkfg.xyz CNAME .
 *.ryfotukhjiohfhgkfg.xyz CNAME .
-rytmy.pl CNAME .
-*.rytmy.pl CNAME .
 s-pushtan.digital CNAME .
 *.s-pushtan.digital CNAME .
 s.aimi-aijia.com CNAME .
@@ -3852,20 +3822,6 @@ vpnaegis2.site CNAME .
 *.vpnaegis2.site CNAME .
 vrefnoconst.cfd CNAME .
 *.vrefnoconst.cfd CNAME .
-vsblobprodscussu5shard14blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard14blob.core.windows.net CNAME .
-vsblobprodscussu5shard2.blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard2.blob.core.windows.net CNAME .
-vsblobprodscussu5shard22.blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard22.blob.core.windows.net CNAME .
-vsblobprodscussu5shard29.blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard29.blob.core.windows.net CNAME .
-vsblobprodscussu5shard38.blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard38.blob.core.windows.net CNAME .
-vsblobprodscussu5shard53.blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard53.blob.core.windows.net CNAME .
-vsblobprodscussu5shard57.blob.core.windows.net CNAME .
-*.vsblobprodscussu5shard57.blob.core.windows.net CNAME .
 vt3.eu CNAME .
 *.vt3.eu CNAME .
 vvcc.yoga CNAME .

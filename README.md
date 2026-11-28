@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-28 12:15:46 (UTC)</th>
+        <th colspan=4>2026-11-28 12:30:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,9 +187,9 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 25 | 655 | 3089 | 43906 |
-| **:globe_with_meridians: Domains** | 21 | 429 | 2295 | 37520 |
-| **:triangular_flag_on_post: IPs** | 12 | 333 | 1321 | 8582 |
+| **:link: URLs** | 19 | 631 | 3065 | 43882 |
+| **:globe_with_meridians: Domains** | 15 | 407 | 2273 | 37498 |
+| **:triangular_flag_on_post: IPs** | 12 | 324 | 1312 | 8573 |
 | **:1234: SHA256** | 13 | 234 | 913 | 3794 |
 | **:1234: MD5** | 0 | 38 | 190 | 2078 |
 
@@ -204,10 +204,10 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 <!-- TAG_TABLE_START -->
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 16 | 415 | 2509 | 30570 |
+| **#phishing** | 16 | 403 | 2497 | 30558 |
 | **#Kimsuky** | 0 | 23 | 109 | 13404 |
 | **#DPRK** | 0 | 0 | 18 | 11687 |
-| **#malware** | 3 | 273 | 1233 | 5121 |
+| **#malware** | 3 | 272 | 1232 | 5120 |
 | **#scam** | 0 | 0 | 67 | 2329 |
 | **#C2** | 3 | 29 | 183 | 2076 |
 | **#ClickFix** | 0 | 85 | 496 | 1609 |
@@ -229,7 +229,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 <!-- TOP_REPORTERS_START -->
 | Number | User | IOCs |
 | :--- | :---: | :---: |
-| **#1** | [smica83](https://x.com/smica83) | 41 |
+| **#1** | [smica83](https://x.com/smica83) | 27 |
 | **#2** | [PhishStats](https://x.com/PhishStats) | 8 |
 | **#3** | [skocherhan](https://x.com/skocherhan) | 8 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 3 |
@@ -238,7 +238,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | **#7** | [Fact_Finder03](https://x.com/Fact_Finder03) | 2 |
 | **#8** | [kazukichi](https://x.com/kazukichi) | 2 |
 | **#9** | [TKemmerling](https://x.com/TKemmerling) | 2 |
-| **#10** | [-](https://x.com/-) | 0 |
+| **#10** | [malwrhunterteam](https://x.com/malwrhunterteam) | 2 |
 <!-- TOP_REPORTERS_END -->
 
 </div>
