@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2043
-# Updated: 2026-11-28T13:15:31Z
+# Entries: 2044
+# Updated: 2026-11-28T14:15:32Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1107,6 +1107,7 @@
 0.0.0.0 js-static.sbs
 0.0.0.0 js-static.website
 0.0.0.0 js-static.world
+0.0.0.0 jucai7.com
 0.0.0.0 jun8821.ink
 0.0.0.0 jvamost.club
 0.0.0.0 jvamost.health
