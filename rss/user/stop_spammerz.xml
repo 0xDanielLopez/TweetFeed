@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @stop_spammerz</title>
+      <link>https://x.com/stop_spammerz</link>
+      <description>IOCs shared by @stop_spammerz and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @stop_spammerz</title>
+         <link>https://x.com/stop_spammerz</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/stop_spammerz.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>1ce5778a35996db7a68adf9d4aaaecac0d4a4715d6b624f547e4ce314af559ae</title>
+         <link>https://x.com/stop_spammerz/status/2125319459275456973</link>
+         <description>@stop_spammerz | sha256 | 
+Value: 1ce5778a35996db7a68adf9d4aaaecac0d4a4715d6b624f547e4ce314af559ae
+Tweet: https://x.com/stop_spammerz/status/2125319459275456973</description>
+         <guid isPermaLink="false">1ce5778a35996db7a68adf9d4aaaecac0d4a4715d6b624f547e4ce314af559ae</guid>
+         <pubDate>Tue, 24 Nov 2026 20:03:40 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>619fba2e5e7631d7d383c638b54ea790</title>
+         <link>https://x.com/stop_spammerz/status/2125319257806287014</link>
+         <description>@stop_spammerz | md5 | 
+Value: 619fba2e5e7631d7d383c638b54ea790
+Tweet: https://x.com/stop_spammerz/status/2125319257806287014</description>
+         <guid isPermaLink="false">619fba2e5e7631d7d383c638b54ea790</guid>
+         <pubDate>Tue, 24 Nov 2026 20:02:52 +0000</pubDate>
+         <category>md5</category>
+      </item>
+   </channel>
+</rss>

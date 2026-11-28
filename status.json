@@ -1,0 +1,630 @@
+{
+ "schema_version": 1,
+ "generated_at": "2026-11-28T00:01:25Z",
+ "pipeline": {
+  "interval_seconds": 900,
+  "stale_after_seconds": 1800
+ },
+ "contract": {
+  "license": "CC0-1.0",
+  "tlp": "CLEAR",
+  "live_window_days": 365,
+  "archive": "all history",
+  "docs": "https://tweetfeed.live/api/",
+  "data_repo": "https://github.com/0xDanielLopez/TweetFeed"
+ },
+ "sources": {
+  "total": 63,
+  "hashtag": 33,
+  "account": 30,
+  "rows_last_24h": 145,
+  "dead_after_seconds": {
+   "account": 2592000,
+   "hashtag": null
+  },
+  "items": [
+   {
+    "id": "0xb1lal",
+    "kind": "account",
+    "newest_item_at": "2026-11-24T22:10:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "0xDanielLopez",
+    "kind": "account",
+    "newest_item_at": "2026-11-02T22:07:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "500mk500",
+    "kind": "account",
+    "newest_item_at": "2026-11-22T01:20:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "abuse_ch",
+    "kind": "account",
+    "newest_item_at": "2026-11-20T12:07:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "bomccss",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T00:45:00Z",
+    "rows_last_24h": 4,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "byrne_emmy12099",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T09:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "ElementalX2",
+    "kind": "account",
+    "newest_item_at": "2026-11-22T22:14:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "Fact_Finder03",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T07:08:00Z",
+    "rows_last_24h": 3,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "KesaGataMe0",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T06:41:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "kubotaa3",
+    "kind": "account",
+    "newest_item_at": "2026-10-24T08:11:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "Malwarehunterr",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T12:42:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "malwrhunterteam",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T21:53:00Z",
+    "rows_last_24h": 6,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "masaomi346",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T23:03:00Z",
+    "rows_last_24h": 6,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "moonlock_lab",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T11:07:00Z",
+    "rows_last_24h": 4,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "nextronresearch",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T11:42:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "phatomcandle",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T15:07:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "PhishStats",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T16:02:00Z",
+    "rows_last_24h": 7,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "sicehice",
+    "kind": "account",
+    "newest_item_at": "2026-11-24T13:06:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "SinghSoodeep",
+    "kind": "account",
+    "newest_item_at": "2026-11-14T11:48:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "skocherhan",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T23:06:00Z",
+    "rows_last_24h": 24,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "smica83",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T21:44:00Z",
+    "rows_last_24h": 6,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "suyog41",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T05:20:00Z",
+    "rows_last_24h": 2,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "tdatwja",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T06:30:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TheM3gatr0n",
+    "kind": "account",
+    "newest_item_at": "2026-11-24T13:23:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "Threatlabz",
+    "kind": "account",
+    "newest_item_at": "2026-10-23T14:50:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TKemmerling",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T16:32:00Z",
+    "rows_last_24h": 2,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TweetFeedList",
+    "kind": "account",
+    "newest_item_at": "2026-11-19T22:45:20Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TweetFeedListReplies",
+    "kind": "account",
+    "newest_item_at": "2026-11-19T21:38:43Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "TweetFeedListUrl",
+    "kind": "account",
+    "newest_item_at": "2026-11-27T23:16:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "webamon_search",
+    "kind": "account",
+    "newest_item_at": "2026-11-26T11:04:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": 2592000
+   },
+   {
+    "id": "AiTM",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-16T07:48:59Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "AmosStealer",
+    "kind": "hashtag",
+    "newest_item_at": "2026-08-28T06:43:51Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "AsyncRAT",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-16T07:01:02Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "BlueNoroff",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-18T04:18:23Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "ClickFix",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-20T10:39:16Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "CobaltStrike",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-16T01:10:39Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Dcrat",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-13T18:33:04Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Formbook",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-13T03:08:13Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "GuLoader",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-05T11:59:05Z",
+    "rows_last_24h": 4,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "HijackLoader",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-03T08:57:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Kimsuky",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T15:04:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Lokibot",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-02T07:00:47Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Lumma",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-16T17:55:17Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "LummaStealer",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-22T06:00:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Magecart",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-17T19:10:23Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "malware",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T22:39:43Z",
+    "rows_last_24h": 30,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "MustangPanda",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T03:53:51Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "NanoCore",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-17T13:48:08Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "NetSupport",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-17T14:49:55Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Njrat",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-13T18:33:04Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "opendir",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-11T22:28:38Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "phishing",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T22:22:16Z",
+    "rows_last_24h": 20,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "PHP2Shell",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T22:05:17Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "ransomware",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T22:43:48Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Remcos",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T11:09:48Z",
+    "rows_last_24h": 4,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Reverse_SSH",
+    "kind": "hashtag",
+    "newest_item_at": "2026-10-29T06:03:00Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Rhadamanthys",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T07:57:13Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "SalatStealer",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-16T07:01:02Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "scam",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-19T22:41:57Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Sliver",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-18T17:29:58Z",
+    "rows_last_24h": 3,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "ValleyRAT",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-12T08:52:19Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Vidar",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-18T17:06:54Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   },
+   {
+    "id": "Xworm",
+    "kind": "hashtag",
+    "newest_item_at": "2026-11-16T07:01:02Z",
+    "rows_last_24h": 0,
+    "dead_after_seconds": null
+   }
+  ]
+ },
+ "artifacts": {
+  "today.csv": {
+   "kind": "tick",
+   "path": "today.csv",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "today",
+   "rows": 0,
+   "first_row": null,
+   "last_row": null,
+   "data_stale_after_seconds": 28800
+  },
+  "week.csv": {
+   "kind": "tick",
+   "path": "week.csv",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "week",
+   "rows": 1621,
+   "first_row": "2026-11-22 00:49:52",
+   "last_row": "2026-11-27 21:53:23",
+   "data_stale_after_seconds": 28800
+  },
+  "month.csv": {
+   "kind": "tick",
+   "path": "month.csv",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "month",
+   "rows": 7740,
+   "first_row": "2026-10-29 00:03:02",
+   "last_row": "2026-11-27 21:53:23",
+   "data_stale_after_seconds": 28800
+  },
+  "year.csv": {
+   "kind": "tick",
+   "path": "year.csv",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "window": "year",
+   "rows": 95812,
+   "first_row": "2025-11-29 03:00:07",
+   "last_row": "2026-11-27 21:53:23",
+   "data_stale_after_seconds": 28800
+  },
+  "rss.xml": {
+   "kind": "tick",
+   "path": "rss.xml",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "counts.json": {
+   "kind": "tick",
+   "path": "counts.json",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "contributors.json": {
+   "kind": "tick",
+   "path": "contributors.json",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "misp": {
+   "kind": "tick",
+   "path": "misp/",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "stix": {
+   "kind": "tick",
+   "path": "stix/",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "blocklists": {
+   "kind": "tick",
+   "path": "blocklists/",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800
+  },
+  "exclusive.csv": {
+   "kind": "tick",
+   "path": "exclusive.csv",
+   "updated_at": "2026-11-28T00:01:25Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 1800,
+   "note": "30-day rows not listed by URLhaus, ThreatFox, MalwareBazaar, USOM or IPsum as of the last cross-check"
+  },
+  "lookup": {
+   "kind": "own-clock",
+   "path": "lookup/",
+   "updated_at": "2026-11-28T00:00:41Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 2700,
+   "shards": 256
+  },
+  "trends.json": {
+   "kind": "own-clock",
+   "path": "trends.json",
+   "updated_at": "2026-11-28T00:00:43Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": 2700
+  },
+  "archive": {
+   "kind": "change-driven",
+   "path": "archive/",
+   "updated_at": "2026-11-28T00:01:23Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": null,
+   "note": "generated_at moves only when the archive corpus changes (at most daily); pipeline freshness is the signal"
+  },
+  "external.json": {
+   "kind": "own-clock",
+   "path": "external.json",
+   "updated_at": "2026-11-27T19:25:07Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 27000
+  },
+  "ipmeta.json": {
+   "kind": "own-clock",
+   "path": "ipmeta.json",
+   "updated_at": "2026-11-27T19:35:06Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 27000
+  },
+  "enrichment.json": {
+   "kind": "own-clock",
+   "path": "enrichment.json",
+   "updated_at": "2026-11-27T18:40:05Z",
+   "interval_seconds": 21600,
+   "stale_after_seconds": 46800
+  },
+  "campaigns.json": {
+   "kind": "own-clock",
+   "path": "campaigns.json",
+   "updated_at": "2026-11-27T06:27:26Z",
+   "interval_seconds": 86400,
+   "stale_after_seconds": 93600,
+   "upstream_stale": false,
+   "upstream_stale_since": null
+  },
+  "domainmeta.json": {
+   "kind": "change-driven",
+   "path": "domainmeta.json",
+   "updated_at": "2026-11-27T21:45:45Z",
+   "interval_seconds": 900,
+   "stale_after_seconds": null,
+   "note": "runs after the git push and rewrites generated_at only when the resolved apex set changes; pipeline freshness is the signal"
+  }
+ }
+}

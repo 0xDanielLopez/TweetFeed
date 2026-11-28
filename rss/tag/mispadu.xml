@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #mispadu IOC feed</title>
+      <link>https://tweetfeed.live/tag/mispadu/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #mispadu on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - #mispadu IOC feed</title>
+         <link>https://tweetfeed.live/tag/mispadu/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/mispadu.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>e683253477ca1b9b22c285cbc854a50284256b4d246b151e63dc171830bf7192</title>
+         <link>https://x.com/skocherhan/status/2124573864802009554</link>
+         <description>@skocherhan | sha256 | #Mispadu
+Value: e683253477ca1b9b22c285cbc854a50284256b4d246b151e63dc171830bf7192
+Tweet: https://x.com/skocherhan/status/2124573864802009554</description>
+         <guid isPermaLink="false">e683253477ca1b9b22c285cbc854a50284256b4d246b151e63dc171830bf7192</guid>
+         <pubDate>Sun, 22 Nov 2026 18:40:56 +0000</pubDate>
+         <category>sha256</category>
+         <category>#Mispadu</category>
+      </item>
+      <item>
+         <title>https://doc.pdf-unico.lat/d/abpod6</title>
+         <link>https://x.com/skocherhan/status/2124573864802009554</link>
+         <description>@skocherhan | url | #Mispadu
+Value: https://doc.pdf-unico.lat/d/abpod6
+Tweet: https://x.com/skocherhan/status/2124573864802009554</description>
+         <guid isPermaLink="false">https://doc.pdf-unico.lat/d/abpod6</guid>
+         <pubDate>Sun, 22 Nov 2026 18:40:56 +0000</pubDate>
+         <category>url</category>
+         <category>#Mispadu</category>
+      </item>
+      <item>
+         <title>doc.pdf-unico.lat</title>
+         <link>https://x.com/skocherhan/status/2124573864802009554</link>
+         <description>@skocherhan | domain | #Mispadu
+Value: doc.pdf-unico.lat
+Tweet: https://x.com/skocherhan/status/2124573864802009554</description>
+         <guid isPermaLink="false">doc.pdf-unico.lat</guid>
+         <pubDate>Sun, 22 Nov 2026 18:40:56 +0000</pubDate>
+         <category>domain</category>
+         <category>#Mispadu</category>
+      </item>
+   </channel>
+</rss>

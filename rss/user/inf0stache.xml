@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @inf0stache</title>
+      <link>https://x.com/inf0stache</link>
+      <description>IOCs shared by @inf0stache and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @inf0stache</title>
+         <link>https://x.com/inf0stache</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/inf0stache.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://file-zilla.com</title>
+         <link>https://x.com/inf0stache/status/2125653864984772753</link>
+         <description>@inf0stache | url | 
+Value: http://file-zilla.com
+Tweet: https://x.com/inf0stache/status/2125653864984772753</description>
+         <guid isPermaLink="false">http://file-zilla.com</guid>
+         <pubDate>Wed, 25 Nov 2026 18:12:28 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>file-zilla.com</title>
+         <link>https://x.com/inf0stache/status/2125653864984772753</link>
+         <description>@inf0stache | domain | 
+Value: file-zilla.com
+Tweet: https://x.com/inf0stache/status/2125653864984772753</description>
+         <guid isPermaLink="false">file-zilla.com</guid>
+         <pubDate>Wed, 25 Nov 2026 18:12:28 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

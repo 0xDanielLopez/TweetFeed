@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #hookbot IOC feed</title>
+      <link>https://tweetfeed.live/tag/hookbot/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #hookbot on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - #hookbot IOC feed</title>
+         <link>https://tweetfeed.live/tag/hookbot/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/hookbot.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>152.70.24.49</title>
+         <link>https://x.com/curious_drac0/status/2125493711291425258</link>
+         <description>@curious_drac0 | ip | #Hookbot #Pegasus
+Value: 152.70.24.49
+Tweet: https://x.com/curious_drac0/status/2125493711291425258</description>
+         <guid isPermaLink="false">152.70.24.49</guid>
+         <pubDate>Wed, 25 Nov 2026 07:36:05 +0000</pubDate>
+         <category>ip</category>
+         <category>#Hookbot</category>
+         <category>#Pegasus</category>
+      </item>
+      <item>
+         <title>http://152.70.24.49:8443</title>
+         <link>https://x.com/curious_drac0/status/2125493711291425258</link>
+         <description>@curious_drac0 | url | #Hookbot #Pegasus
+Value: http://152.70.24.49:8443
+Tweet: https://x.com/curious_drac0/status/2125493711291425258</description>
+         <guid isPermaLink="false">http://152.70.24.49:8443</guid>
+         <pubDate>Wed, 25 Nov 2026 07:36:05 +0000</pubDate>
+         <category>url</category>
+         <category>#Hookbot</category>
+         <category>#Pegasus</category>
+      </item>
+   </channel>
+</rss>

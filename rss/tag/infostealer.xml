@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - #infostealer IOC feed</title>
+      <link>https://tweetfeed.live/tag/infostealer/</link>
+      <description>Real-time IOCs (URLs, domains, IPs, hashes) tagged #infostealer on TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - #infostealer IOC feed</title>
+         <link>https://tweetfeed.live/tag/infostealer/</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/tag/infostealer.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>d9d8cd4d351b607e305ef6d64dc807f7814744c7cf9397082892b3d5e828288f</title>
+         <link>https://x.com/skocherhan/status/2125680568415424722</link>
+         <description>@skocherhan | sha256 | #ClickFix #infostealer #malware
+Value: d9d8cd4d351b607e305ef6d64dc807f7814744c7cf9397082892b3d5e828288f
+Tweet: https://x.com/skocherhan/status/2125680568415424722</description>
+         <guid isPermaLink="false">d9d8cd4d351b607e305ef6d64dc807f7814744c7cf9397082892b3d5e828288f</guid>
+         <pubDate>Wed, 25 Nov 2026 19:58:35 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>138.226.237.34</title>
+         <link>https://x.com/skocherhan/status/2125680568415424722</link>
+         <description>@skocherhan | ip | #ClickFix #infostealer #malware
+Value: 138.226.237.34
+Tweet: https://x.com/skocherhan/status/2125680568415424722</description>
+         <guid isPermaLink="false">138.226.237.34</guid>
+         <pubDate>Wed, 25 Nov 2026 19:58:35 +0000</pubDate>
+         <category>ip</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://138.226.237.34:5000/report</title>
+         <link>https://x.com/skocherhan/status/2125680568415424722</link>
+         <description>@skocherhan | url | #ClickFix #infostealer #malware
+Value: http://138.226.237.34:5000/report
+Tweet: https://x.com/skocherhan/status/2125680568415424722</description>
+         <guid isPermaLink="false">http://138.226.237.34:5000/report</guid>
+         <pubDate>Wed, 25 Nov 2026 19:58:35 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://138.226.237.34:5000/payloads/p.ps1</title>
+         <link>https://x.com/skocherhan/status/2125680568415424722</link>
+         <description>@skocherhan | url | #ClickFix #infostealer #malware
+Value: http://138.226.237.34:5000/payloads/p.ps1
+Tweet: https://x.com/skocherhan/status/2125680568415424722</description>
+         <guid isPermaLink="false">http://138.226.237.34:5000/payloads/p.ps1</guid>
+         <pubDate>Wed, 25 Nov 2026 19:58:35 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>http://138.226.237.34:5000</title>
+         <link>https://x.com/skocherhan/status/2125680568415424722</link>
+         <description>@skocherhan | url | #ClickFix #infostealer #malware
+Value: http://138.226.237.34:5000
+Tweet: https://x.com/skocherhan/status/2125680568415424722</description>
+         <guid isPermaLink="false">http://138.226.237.34:5000</guid>
+         <pubDate>Wed, 25 Nov 2026 19:58:35 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>45.142.143.218</title>
+         <link>https://x.com/LandscapeThreat/status/2125154761741647922</link>
+         <description>@LandscapeThreat | ip | #infostealer
+Value: 45.142.143.218
+Tweet: https://x.com/LandscapeThreat/status/2125154761741647922</description>
+         <guid isPermaLink="false">45.142.143.218</guid>
+         <pubDate>Tue, 24 Nov 2026 09:09:13 +0000</pubDate>
+         <category>ip</category>
+         <category>#infostealer</category>
+      </item>
+      <item>
+         <title>http://snekblockdev.com</title>
+         <link>https://x.com/LandscapeThreat/status/2125154761741647922</link>
+         <description>@LandscapeThreat | url | #infostealer
+Value: http://snekblockdev.com
+Tweet: https://x.com/LandscapeThreat/status/2125154761741647922</description>
+         <guid isPermaLink="false">http://snekblockdev.com</guid>
+         <pubDate>Tue, 24 Nov 2026 09:09:13 +0000</pubDate>
+         <category>url</category>
+         <category>#infostealer</category>
+      </item>
+      <item>
+         <title>snekblockdev.com</title>
+         <link>https://x.com/LandscapeThreat/status/2125154761741647922</link>
+         <description>@LandscapeThreat | domain | #infostealer
+Value: snekblockdev.com
+Tweet: https://x.com/LandscapeThreat/status/2125154761741647922</description>
+         <guid isPermaLink="false">snekblockdev.com</guid>
+         <pubDate>Tue, 24 Nov 2026 09:09:13 +0000</pubDate>
+         <category>domain</category>
+         <category>#infostealer</category>
+      </item>
+      <item>
+         <title>http://velmontriq.net</title>
+         <link>https://x.com/LandscapeThreat/status/2125154761741647922</link>
+         <description>@LandscapeThreat | url | #infostealer
+Value: http://velmontriq.net
+Tweet: https://x.com/LandscapeThreat/status/2125154761741647922</description>
+         <guid isPermaLink="false">http://velmontriq.net</guid>
+         <pubDate>Tue, 24 Nov 2026 09:09:13 +0000</pubDate>
+         <category>url</category>
+         <category>#infostealer</category>
+      </item>
+      <item>
+         <title>velmontriq.net</title>
+         <link>https://x.com/LandscapeThreat/status/2125154761741647922</link>
+         <description>@LandscapeThreat | domain | #infostealer
+Value: velmontriq.net
+Tweet: https://x.com/LandscapeThreat/status/2125154761741647922</description>
+         <guid isPermaLink="false">velmontriq.net</guid>
+         <pubDate>Tue, 24 Nov 2026 09:09:13 +0000</pubDate>
+         <category>domain</category>
+         <category>#infostealer</category>
+      </item>
+      <item>
+         <title>http://manera.vip</title>
+         <link>https://x.com/PhishGlass/status/2124522727214317662</link>
+         <description>@PhishGlass | url | #ClickFix #infostealer #malware
+Value: http://manera.vip
+Tweet: https://x.com/PhishGlass/status/2124522727214317662</description>
+         <guid isPermaLink="false">http://manera.vip</guid>
+         <pubDate>Sun, 22 Nov 2026 15:17:44 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>810739de52d83995aa408c670068395c8b51f302bfd556cf564040fd19fb75fd</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | sha256 | #ClickFix #infostealer #malware
+Value: 810739de52d83995aa408c670068395c8b51f302bfd556cf564040fd19fb75fd
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">810739de52d83995aa408c670068395c8b51f302bfd556cf564040fd19fb75fd</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>292fad9247d8111e5c765825e9b1e142be70f53daf2469062d0532ff44b5f4b8</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | sha256 | #ClickFix #infostealer #malware
+Value: 292fad9247d8111e5c765825e9b1e142be70f53daf2469062d0532ff44b5f4b8
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">292fad9247d8111e5c765825e9b1e142be70f53daf2469062d0532ff44b5f4b8</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>7d0038a2e934200ab9eb7ad8eed5eb651ac5a9f878c41b1a9ddd11d6f0485fc4</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | sha256 | #ClickFix #infostealer #malware
+Value: 7d0038a2e934200ab9eb7ad8eed5eb651ac5a9f878c41b1a9ddd11d6f0485fc4
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">7d0038a2e934200ab9eb7ad8eed5eb651ac5a9f878c41b1a9ddd11d6f0485fc4</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>0e2956241ae7ccedde5cd953c4a85715160643f1c6c1306c2cb297fc57bf6592</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | sha256 | #ClickFix #infostealer #malware
+Value: 0e2956241ae7ccedde5cd953c4a85715160643f1c6c1306c2cb297fc57bf6592
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">0e2956241ae7ccedde5cd953c4a85715160643f1c6c1306c2cb297fc57bf6592</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>8f12f3e6ce701b4a1865426cce5c4bceb316faa2ebee7cabc91d4b6769cca08f</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | sha256 | #ClickFix #infostealer #malware
+Value: 8f12f3e6ce701b4a1865426cce5c4bceb316faa2ebee7cabc91d4b6769cca08f
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">8f12f3e6ce701b4a1865426cce5c4bceb316faa2ebee7cabc91d4b6769cca08f</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>sha256</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>https://manera.vip</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | url | #ClickFix #infostealer #malware
+Value: https://manera.vip
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">https://manera.vip</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>manera.vip</title>
+         <link>https://x.com/JAMESWT_WT/status/2124304320967410125</link>
+         <description>@JAMESWT_WT | domain | #ClickFix #infostealer #malware
+Value: manera.vip
+Tweet: https://x.com/JAMESWT_WT/status/2124304320967410125</description>
+         <guid isPermaLink="false">manera.vip</guid>
+         <pubDate>Sun, 22 Nov 2026 00:49:52 +0000</pubDate>
+         <category>domain</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

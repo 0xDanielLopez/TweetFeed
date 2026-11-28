@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Ransom_DB</title>
+      <link>https://x.com/Ransom_DB</link>
+      <description>IOCs shared by @Ransom_DB and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @Ransom_DB</title>
+         <link>https://x.com/Ransom_DB</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/ransom_db.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://healthmetrics.com</title>
+         <link>https://x.com/Ransom_DB/status/2125950432535064916</link>
+         <description>@Ransom_DB | url | 
+Value: http://healthmetrics.com
+Tweet: https://x.com/Ransom_DB/status/2125950432535064916</description>
+         <guid isPermaLink="false">http://healthmetrics.com</guid>
+         <pubDate>Thu, 26 Nov 2026 13:50:56 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>healthmetrics.com</title>
+         <link>https://x.com/Ransom_DB/status/2125950432535064916</link>
+         <description>@Ransom_DB | domain | 
+Value: healthmetrics.com
+Tweet: https://x.com/Ransom_DB/status/2125950432535064916</description>
+         <guid isPermaLink="false">healthmetrics.com</guid>
+         <pubDate>Thu, 26 Nov 2026 13:50:56 +0000</pubDate>
+         <category>domain</category>
+      </item>
+   </channel>
+</rss>

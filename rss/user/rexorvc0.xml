@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @RexorVc0</title>
+      <link>https://x.com/RexorVc0</link>
+      <description>IOCs shared by @RexorVc0 and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @RexorVc0</title>
+         <link>https://x.com/RexorVc0</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/rexorvc0.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>4ea053da9b153c2cad62bfd81915523efd060476da313c5b58b764345b045f45</title>
+         <link>https://x.com/RexorVc0/status/2125855211801674182</link>
+         <description>@RexorVc0 | sha256 | #APT #malware
+Value: 4ea053da9b153c2cad62bfd81915523efd060476da313c5b58b764345b045f45
+Tweet: https://x.com/RexorVc0/status/2125855211801674182</description>
+         <guid isPermaLink="false">4ea053da9b153c2cad62bfd81915523efd060476da313c5b58b764345b045f45</guid>
+         <pubDate>Thu, 26 Nov 2026 07:32:33 +0000</pubDate>
+         <category>sha256</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>7c8c6e49cd4b4c7e224814360b5b202a</title>
+         <link>https://x.com/RexorVc0/status/2125855211801674182</link>
+         <description>@RexorVc0 | md5 | #APT #malware
+Value: 7c8c6e49cd4b4c7e224814360b5b202a
+Tweet: https://x.com/RexorVc0/status/2125855211801674182</description>
+         <guid isPermaLink="false">7c8c6e49cd4b4c7e224814360b5b202a</guid>
+         <pubDate>Thu, 26 Nov 2026 07:32:33 +0000</pubDate>
+         <category>md5</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>8d9a0eecb40c1b857918aaa63fd05278</title>
+         <link>https://x.com/RexorVc0/status/2125855211801674182</link>
+         <description>@RexorVc0 | md5 | #APT #malware
+Value: 8d9a0eecb40c1b857918aaa63fd05278
+Tweet: https://x.com/RexorVc0/status/2125855211801674182</description>
+         <guid isPermaLink="false">8d9a0eecb40c1b857918aaa63fd05278</guid>
+         <pubDate>Thu, 26 Nov 2026 07:32:33 +0000</pubDate>
+         <category>md5</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+      <item>
+         <title>649e90086a269053ea4e1295efcf865d</title>
+         <link>https://x.com/RexorVc0/status/2125855211801674182</link>
+         <description>@RexorVc0 | md5 | #APT #malware
+Value: 649e90086a269053ea4e1295efcf865d
+Tweet: https://x.com/RexorVc0/status/2125855211801674182</description>
+         <guid isPermaLink="false">649e90086a269053ea4e1295efcf865d</guid>
+         <pubDate>Thu, 26 Nov 2026 07:32:33 +0000</pubDate>
+         <category>md5</category>
+         <category>#APT</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

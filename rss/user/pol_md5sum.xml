@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @pol_md5sum</title>
+      <link>https://x.com/pol_md5sum</link>
+      <description>IOCs shared by @pol_md5sum and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @pol_md5sum</title>
+         <link>https://x.com/pol_md5sum</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/pol_md5sum.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>31.59.138.144</title>
+         <link>https://x.com/pol_md5sum/status/2124664791524593766</link>
+         <description>@pol_md5sum | ip | 
+Value: 31.59.138.144
+Tweet: https://x.com/pol_md5sum/status/2124664791524593766</description>
+         <guid isPermaLink="false">31.59.138.144</guid>
+         <pubDate>Mon, 23 Nov 2026 00:42:15 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>104.253.175.177</title>
+         <link>https://x.com/pol_md5sum/status/2124664791524593766</link>
+         <description>@pol_md5sum | ip | 
+Value: 104.253.175.177
+Tweet: https://x.com/pol_md5sum/status/2124664791524593766</description>
+         <guid isPermaLink="false">104.253.175.177</guid>
+         <pubDate>Mon, 23 Nov 2026 00:42:15 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>http://31.59.138.144/gho.txt</title>
+         <link>https://x.com/pol_md5sum/status/2124664791524593766</link>
+         <description>@pol_md5sum | url | 
+Value: http://31.59.138.144/gho.txt
+Tweet: https://x.com/pol_md5sum/status/2124664791524593766</description>
+         <guid isPermaLink="false">http://31.59.138.144/gho.txt</guid>
+         <pubDate>Mon, 23 Nov 2026 00:42:15 +0000</pubDate>
+         <category>url</category>
+      </item>
+      <item>
+         <title>http://104.253.175.177/pee.php</title>
+         <link>https://x.com/pol_md5sum/status/2124664791524593766</link>
+         <description>@pol_md5sum | url | 
+Value: http://104.253.175.177/pee.php
+Tweet: https://x.com/pol_md5sum/status/2124664791524593766</description>
+         <guid isPermaLink="false">http://104.253.175.177/pee.php</guid>
+         <pubDate>Mon, 23 Nov 2026 00:42:15 +0000</pubDate>
+         <category>url</category>
+      </item>
+   </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @harugasumi</title>
+      <link>https://x.com/harugasumi</link>
+      <description>IOCs shared by @harugasumi and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @harugasumi</title>
+         <link>https://x.com/harugasumi</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/harugasumi.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://dp3jryp4.s3.us-east-1.amazonaws.com/index.html</title>
+         <link>https://x.com/harugasumi/status/2124894184838721878</link>
+         <description>@harugasumi | url | #phishing
+Value: https://dp3jryp4.s3.us-east-1.amazonaws.com/index.html
+Tweet: https://x.com/harugasumi/status/2124894184838721878</description>
+         <guid isPermaLink="false">https://dp3jryp4.s3.us-east-1.amazonaws.com/index.html</guid>
+         <pubDate>Mon, 23 Nov 2026 15:53:46 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>dp3jryp4.s3.us-east-1.amazonaws.com</title>
+         <link>https://x.com/harugasumi/status/2124894184838721878</link>
+         <description>@harugasumi | domain | #phishing
+Value: dp3jryp4.s3.us-east-1.amazonaws.com
+Tweet: https://x.com/harugasumi/status/2124894184838721878</description>
+         <guid isPermaLink="false">dp3jryp4.s3.us-east-1.amazonaws.com</guid>
+         <pubDate>Mon, 23 Nov 2026 15:53:46 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

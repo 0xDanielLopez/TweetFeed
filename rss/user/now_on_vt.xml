@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @Now_on_VT</title>
+      <link>https://x.com/Now_on_VT</link>
+      <description>IOCs shared by @Now_on_VT and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @Now_on_VT</title>
+         <link>https://x.com/Now_on_VT</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/now_on_vt.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>ffd5b0344123a984d27c4aa624215fa6452c3849522803b2bc3a6ee0bcb23809</title>
+         <link>https://x.com/Now_on_VT/status/2125153545452208183</link>
+         <description>@Now_on_VT | sha256 | 
+Value: ffd5b0344123a984d27c4aa624215fa6452c3849522803b2bc3a6ee0bcb23809
+Tweet: https://x.com/Now_on_VT/status/2125153545452208183</description>
+         <guid isPermaLink="false">ffd5b0344123a984d27c4aa624215fa6452c3849522803b2bc3a6ee0bcb23809</guid>
+         <pubDate>Tue, 24 Nov 2026 09:04:23 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>29d2c70d36b5713d4e6523514ee49d0198a8e8aff4ca02ca86ac429dee908be3</title>
+         <link>https://x.com/Now_on_VT/status/2124776996974576117</link>
+         <description>@Now_on_VT | sha256 | 
+Value: 29d2c70d36b5713d4e6523514ee49d0198a8e8aff4ca02ca86ac429dee908be3
+Tweet: https://x.com/Now_on_VT/status/2124776996974576117</description>
+         <guid isPermaLink="false">29d2c70d36b5713d4e6523514ee49d0198a8e8aff4ca02ca86ac429dee908be3</guid>
+         <pubDate>Mon, 23 Nov 2026 08:08:07 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+   </channel>
+</rss>

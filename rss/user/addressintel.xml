@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @AddressIntel</title>
+      <link>https://x.com/AddressIntel</link>
+      <description>IOCs shared by @AddressIntel and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @AddressIntel</title>
+         <link>https://x.com/AddressIntel</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/addressintel.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>https://dbcsb.com.my/s/</title>
+         <link>https://x.com/AddressIntel/status/2126033263546310965</link>
+         <description>@AddressIntel | url | #phishing
+Value: https://dbcsb.com.my/s/
+Tweet: https://x.com/AddressIntel/status/2126033263546310965</description>
+         <guid isPermaLink="false">https://dbcsb.com.my/s/</guid>
+         <pubDate>Thu, 26 Nov 2026 19:20:04 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>dbcsb.com.my</title>
+         <link>https://x.com/AddressIntel/status/2126033263546310965</link>
+         <description>@AddressIntel | domain | #phishing
+Value: dbcsb.com.my
+Tweet: https://x.com/AddressIntel/status/2126033263546310965</description>
+         <guid isPermaLink="false">dbcsb.com.my</guid>
+         <pubDate>Thu, 26 Nov 2026 19:20:04 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://php-intesasanpaolo-assistenza.wasmer.app/noaccount</title>
+         <link>https://x.com/AddressIntel/status/2125836969758343405</link>
+         <description>@AddressIntel | url | #phishing
+Value: https://php-intesasanpaolo-assistenza.wasmer.app/noaccount
+Tweet: https://x.com/AddressIntel/status/2125836969758343405</description>
+         <guid isPermaLink="false">https://php-intesasanpaolo-assistenza.wasmer.app/noaccount</guid>
+         <pubDate>Thu, 26 Nov 2026 06:20:04 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>https://php-intesasanpaolo-assistenza.wasmer.app</title>
+         <link>https://x.com/AddressIntel/status/2125831942281040309</link>
+         <description>@AddressIntel | url | #phishing
+Value: https://php-intesasanpaolo-assistenza.wasmer.app
+Tweet: https://x.com/AddressIntel/status/2125831942281040309</description>
+         <guid isPermaLink="false">https://php-intesasanpaolo-assistenza.wasmer.app</guid>
+         <pubDate>Thu, 26 Nov 2026 06:00:05 +0000</pubDate>
+         <category>url</category>
+         <category>#phishing</category>
+      </item>
+      <item>
+         <title>php-intesasanpaolo-assistenza.wasmer.app</title>
+         <link>https://x.com/AddressIntel/status/2125831942281040309</link>
+         <description>@AddressIntel | domain | #phishing
+Value: php-intesasanpaolo-assistenza.wasmer.app
+Tweet: https://x.com/AddressIntel/status/2125831942281040309</description>
+         <guid isPermaLink="false">php-intesasanpaolo-assistenza.wasmer.app</guid>
+         <pubDate>Thu, 26 Nov 2026 06:00:05 +0000</pubDate>
+         <category>domain</category>
+         <category>#phishing</category>
+      </item>
+   </channel>
+</rss>

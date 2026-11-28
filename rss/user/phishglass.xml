@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @PhishGlass</title>
+      <link>https://x.com/PhishGlass</link>
+      <description>IOCs shared by @PhishGlass and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @PhishGlass</title>
+         <link>https://x.com/PhishGlass</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/phishglass.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>http://manera.vip</title>
+         <link>https://x.com/PhishGlass/status/2124522727214317662</link>
+         <description>@PhishGlass | url | #ClickFix #infostealer #malware
+Value: http://manera.vip
+Tweet: https://x.com/PhishGlass/status/2124522727214317662</description>
+         <guid isPermaLink="false">http://manera.vip</guid>
+         <pubDate>Sun, 22 Nov 2026 15:17:44 +0000</pubDate>
+         <category>url</category>
+         <category>#ClickFix</category>
+         <category>#infostealer</category>
+         <category>#malware</category>
+      </item>
+   </channel>
+</rss>

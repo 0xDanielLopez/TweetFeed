@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>TweetFeed - IOCs reported by @BlinkzSec</title>
+      <link>https://x.com/BlinkzSec</link>
+      <description>IOCs shared by @BlinkzSec and collected by TweetFeed. Refreshed every 15 minutes.</description>
+      <copyright>CC0 1.0 Public Domain - https://tweetfeed.live/tos/</copyright>
+      <image>
+         <url>https://tweetfeed.live/img/TweetFeed_card_og.png</url>
+         <title>TweetFeed - IOCs reported by @BlinkzSec</title>
+         <link>https://x.com/BlinkzSec</link>
+      </image>
+      <atom:link href="https://tweetfeed.live/rss/user/blinkzsec.xml" rel="self" type="application/rss+xml" />
+      <language>en</language>
+      <lastBuildDate>Sat, 28 Nov 2026 00:00:44 +0000</lastBuildDate>
+      <ttl>15</ttl>
+      <item>
+         <title>e027d8c85172fcbffcf5cdc60744d05e904f708708d1cc22fe82d099063d7b79</title>
+         <link>https://x.com/BlinkzSec/status/2124844952622395484</link>
+         <description>@BlinkzSec | sha256 | 
+Value: e027d8c85172fcbffcf5cdc60744d05e904f708708d1cc22fe82d099063d7b79
+Tweet: https://x.com/BlinkzSec/status/2124844952622395484</description>
+         <guid isPermaLink="false">e027d8c85172fcbffcf5cdc60744d05e904f708708d1cc22fe82d099063d7b79</guid>
+         <pubDate>Mon, 23 Nov 2026 12:38:09 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>ff0cac8007f194c9ddf6e7577171347a8a9ac9053017b7b94dca54a08cfbc0bd</title>
+         <link>https://x.com/BlinkzSec/status/2124844952622395484</link>
+         <description>@BlinkzSec | sha256 | 
+Value: ff0cac8007f194c9ddf6e7577171347a8a9ac9053017b7b94dca54a08cfbc0bd
+Tweet: https://x.com/BlinkzSec/status/2124844952622395484</description>
+         <guid isPermaLink="false">ff0cac8007f194c9ddf6e7577171347a8a9ac9053017b7b94dca54a08cfbc0bd</guid>
+         <pubDate>Mon, 23 Nov 2026 12:38:09 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>45.83.28.127</title>
+         <link>https://x.com/BlinkzSec/status/2124844952622395484</link>
+         <description>@BlinkzSec | ip | 
+Value: 45.83.28.127
+Tweet: https://x.com/BlinkzSec/status/2124844952622395484</description>
+         <guid isPermaLink="false">45.83.28.127</guid>
+         <pubDate>Mon, 23 Nov 2026 12:38:09 +0000</pubDate>
+         <category>ip</category>
+      </item>
+      <item>
+         <title>d1e78ea3ea5bba52a38cec85d48101519190add5b2ad5b5ac16a0e158771383e</title>
+         <link>https://x.com/BlinkzSec/status/2124821317211828334</link>
+         <description>@BlinkzSec | sha256 | 
+Value: d1e78ea3ea5bba52a38cec85d48101519190add5b2ad5b5ac16a0e158771383e
+Tweet: https://x.com/BlinkzSec/status/2124821317211828334</description>
+         <guid isPermaLink="false">d1e78ea3ea5bba52a38cec85d48101519190add5b2ad5b5ac16a0e158771383e</guid>
+         <pubDate>Mon, 23 Nov 2026 11:04:13 +0000</pubDate>
+         <category>sha256</category>
+      </item>
+      <item>
+         <title>172.86.74.151</title>
+         <link>https://x.com/BlinkzSec/status/2124811745663324656</link>
+         <description>@BlinkzSec | ip | 
+Value: 172.86.74.151
+Tweet: https://x.com/BlinkzSec/status/2124811745663324656</description>
+         <guid isPermaLink="false">172.86.74.151</guid>
+         <pubDate>Mon, 23 Nov 2026 10:26:11 +0000</pubDate>
+         <category>ip</category>
+      </item>
+   </channel>
+</rss>
