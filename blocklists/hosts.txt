@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2048
-# Updated: 2026-11-28T05:30:32Z
+# Entries: 2049
+# Updated: 2026-11-28T08:15:30Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -914,6 +914,7 @@
 0.0.0.0 get.xabatay.top
 0.0.0.0 get.xiner.top
 0.0.0.0 get.yabgo.top
+0.0.0.0 getdigicore.com
 0.0.0.0 getfamawell.online
 0.0.0.0 gets6.dynu.net
 0.0.0.0 getverifiednow.online

@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2048
-# Updated: 2026-11-28T05:30:32Z
+# Entries: 2049
+# Updated: 2026-11-28T08:15:30Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -914,6 +914,7 @@ address=/get.api-mall.vip/0.0.0.0
 address=/get.xabatay.top/0.0.0.0
 address=/get.xiner.top/0.0.0.0
 address=/get.yabgo.top/0.0.0.0
+address=/getdigicore.com/0.0.0.0
 address=/getfamawell.online/0.0.0.0
 address=/gets6.dynu.net/0.0.0.0
 address=/getverifiednow.online/0.0.0.0

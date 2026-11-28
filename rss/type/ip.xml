@@ -12,8 +12,19 @@
       </image>
       <atom:link href="https://tweetfeed.live/rss/type/ip.xml" rel="self" type="application/rss+xml" />
       <language>en</language>
-      <lastBuildDate>Sat, 28 Nov 2026 08:00:36 +0000</lastBuildDate>
+      <lastBuildDate>Sat, 28 Nov 2026 08:15:31 +0000</lastBuildDate>
       <ttl>15</ttl>
+      <item>
+         <title>23.235.201.123</title>
+         <link>https://x.com/phishunt_io/status/2126587115869741223</link>
+         <description>@phishunt_io | ip | #phishing
+Value: 23.235.201.123
+Tweet: https://x.com/phishunt_io/status/2126587115869741223</description>
+         <guid isPermaLink="false">23.235.201.123</guid>
+         <pubDate>Sat, 28 Nov 2026 08:00:53 +0000</pubDate>
+         <category>ip</category>
+         <category>#phishing</category>
+      </item>
       <item>
          <title>185.165.171.156</title>
          <link>https://x.com/Fact_Finder03/status/2126579094901190860</link>
@@ -1069,17 +1080,6 @@ Tweet: https://x.com/Fact_Finder03/status/2125601636097966556</description>
          <category>ip</category>
          <category>#C2</category>
          <category>#RAT</category>
-      </item>
-      <item>
-         <title>64.29.17.1</title>
-         <link>https://x.com/PhishStats/status/2125590725890818533</link>
-         <description>@PhishStats | ip | #phishing
-Value: 64.29.17.1
-Tweet: https://x.com/PhishStats/status/2125590725890818533</description>
-         <guid isPermaLink="false">64.29.17.1</guid>
-         <pubDate>Wed, 25 Nov 2026 14:01:35 +0000</pubDate>
-         <category>ip</category>
-         <category>#phishing</category>
       </item>
    </channel>
 </rss>
