@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-28 01:45:32 (UTC)</th>
+        <th colspan=4>2026-11-28 02:00:34 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 1 | 632 | 3066 | 43883 |
-| **:globe_with_meridians: Domains** | 1 | 411 | 2277 | 37502 |
+| **:link: URLs** | 2 | 633 | 3067 | 43884 |
+| **:globe_with_meridians: Domains** | 2 | 412 | 2278 | 37503 |
 | **:triangular_flag_on_post: IPs** | 2 | 323 | 1311 | 8572 |
 | **:1234: SHA256** | 0 | 221 | 900 | 3781 |
 | **:1234: MD5** | 0 | 38 | 190 | 2078 |
@@ -230,8 +230,8 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [PhishStats](https://x.com/PhishStats) | 3 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 1 |
-| **#3** | [-](https://x.com/-) | 0 |
+| **#2** | [ViriBack](https://x.com/ViriBack) | 2 |
+| **#3** | [skocherhan](https://x.com/skocherhan) | 1 |
 | **#4** | [-](https://x.com/-) | 0 |
 | **#5** | [-](https://x.com/-) | 0 |
 | **#6** | [-](https://x.com/-) | 0 |
