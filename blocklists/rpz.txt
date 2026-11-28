@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2059
-; Updated: 2026-11-28T11:00:35Z
+; Entries: 2061
+; Updated: 2026-11-28T11:15:31Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795863635 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795864531 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1692,6 +1692,8 @@ fa5b15.76k.site CNAME .
 *.fa5b15.76k.site CNAME .
 faceebook-ai.com CNAME .
 *.faceebook-ai.com CNAME .
+factura-mbf.mrbasic.com CNAME .
+*.factura-mbf.mrbasic.com CNAME .
 fantasticfactoryzu.com CNAME .
 *.fantasticfactoryzu.com CNAME .
 farbetv.eu.cc CNAME .
@@ -3986,6 +3988,8 @@ xc.frenchconnection.com.br CNAME .
 *.xc.frenchconnection.com.br CNAME .
 xeffstealer.xyz CNAME .
 *.xeffstealer.xyz CNAME .
+xeytbzpszyenxghvjuoa.supabase.co CNAME .
+*.xeytbzpszyenxghvjuoa.supabase.co CNAME .
 xfinity-145t.square.site CNAME .
 *.xfinity-145t.square.site CNAME .
 xiaocong-zuida.com CNAME .
