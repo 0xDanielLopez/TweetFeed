@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2049
-# Updated: 2026-11-28T08:15:30Z
+# Entries: 2057
+# Updated: 2026-11-28T10:15:31Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1575,6 +1575,7 @@ address=/recruitersglobal.net/0.0.0.0
 address=/reddit-legal.com/0.0.0.0
 address=/redjaxfire.com/0.0.0.0
 address=/refund-nts-hometax.kesug.com/0.0.0.0
+address=/registre-eu.org/0.0.0.0
 address=/rehubcom.ag/0.0.0.0
 address=/remoqu.com/0.0.0.0
 address=/remote-helpdesk.com/0.0.0.0
@@ -1923,6 +1924,13 @@ address=/voltpay.cfd/0.0.0.0
 address=/votechamp.sbs/0.0.0.0
 address=/vpnaegis2.site/0.0.0.0
 address=/vrefnoconst.cfd/0.0.0.0
+address=/vsblobprodscussu5shard14blob.core.windows.net/0.0.0.0
+address=/vsblobprodscussu5shard2.blob.core.windows.net/0.0.0.0
+address=/vsblobprodscussu5shard22.blob.core.windows.net/0.0.0.0
+address=/vsblobprodscussu5shard29.blob.core.windows.net/0.0.0.0
+address=/vsblobprodscussu5shard38.blob.core.windows.net/0.0.0.0
+address=/vsblobprodscussu5shard53.blob.core.windows.net/0.0.0.0
+address=/vsblobprodscussu5shard57.blob.core.windows.net/0.0.0.0
 address=/vt3.eu/0.0.0.0
 address=/vvcc.yoga/0.0.0.0
 address=/w5r3t.com/0.0.0.0

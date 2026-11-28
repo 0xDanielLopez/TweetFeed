@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2049
-# Updated: 2026-11-28T08:15:30Z
+# Entries: 2057
+# Updated: 2026-11-28T10:15:31Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1575,6 +1575,7 @@
 0.0.0.0 reddit-legal.com
 0.0.0.0 redjaxfire.com
 0.0.0.0 refund-nts-hometax.kesug.com
+0.0.0.0 registre-eu.org
 0.0.0.0 rehubcom.ag
 0.0.0.0 remoqu.com
 0.0.0.0 remote-helpdesk.com
@@ -1923,6 +1924,13 @@
 0.0.0.0 votechamp.sbs
 0.0.0.0 vpnaegis2.site
 0.0.0.0 vrefnoconst.cfd
+0.0.0.0 vsblobprodscussu5shard14blob.core.windows.net
+0.0.0.0 vsblobprodscussu5shard2.blob.core.windows.net
+0.0.0.0 vsblobprodscussu5shard22.blob.core.windows.net
+0.0.0.0 vsblobprodscussu5shard29.blob.core.windows.net
+0.0.0.0 vsblobprodscussu5shard38.blob.core.windows.net
+0.0.0.0 vsblobprodscussu5shard53.blob.core.windows.net
+0.0.0.0 vsblobprodscussu5shard57.blob.core.windows.net
 0.0.0.0 vt3.eu
 0.0.0.0 vvcc.yoga
 0.0.0.0 w5r3t.com

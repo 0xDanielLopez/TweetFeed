@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2049
-; Updated: 2026-11-28T08:15:30Z
+; Entries: 2057
+; Updated: 2026-11-28T10:15:31Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795853730 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795860931 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -3146,6 +3146,8 @@ redjaxfire.com CNAME .
 *.redjaxfire.com CNAME .
 refund-nts-hometax.kesug.com CNAME .
 *.refund-nts-hometax.kesug.com CNAME .
+registre-eu.org CNAME .
+*.registre-eu.org CNAME .
 rehubcom.ag CNAME .
 *.rehubcom.ag CNAME .
 remoqu.com CNAME .
@@ -3842,6 +3844,20 @@ vpnaegis2.site CNAME .
 *.vpnaegis2.site CNAME .
 vrefnoconst.cfd CNAME .
 *.vrefnoconst.cfd CNAME .
+vsblobprodscussu5shard14blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard14blob.core.windows.net CNAME .
+vsblobprodscussu5shard2.blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard2.blob.core.windows.net CNAME .
+vsblobprodscussu5shard22.blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard22.blob.core.windows.net CNAME .
+vsblobprodscussu5shard29.blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard29.blob.core.windows.net CNAME .
+vsblobprodscussu5shard38.blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard38.blob.core.windows.net CNAME .
+vsblobprodscussu5shard53.blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard53.blob.core.windows.net CNAME .
+vsblobprodscussu5shard57.blob.core.windows.net CNAME .
+*.vsblobprodscussu5shard57.blob.core.windows.net CNAME .
 vt3.eu CNAME .
 *.vt3.eu CNAME .
 vvcc.yoga CNAME .
