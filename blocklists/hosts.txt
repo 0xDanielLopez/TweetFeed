@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2045
-# Updated: 2026-11-28T16:15:33Z
+# Entries: 2046
+# Updated: 2026-11-28T17:45:32Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1034,6 +1034,7 @@
 0.0.0.0 icollections.github.io
 0.0.0.0 identidade-itau.com
 0.0.0.0 idmlock.com
+0.0.0.0 idscan.net
 0.0.0.0 igniscape.cfd
 0.0.0.0 ii-sen.ir
 0.0.0.0 ikilo.click

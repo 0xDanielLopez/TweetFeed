@@ -54,7 +54,7 @@ If you like the project, please consider:
     </thead>
     <tbody>
     <tr>
-        <th colspan=4>2026-11-28 17:30:36 (UTC)</th>
+        <th colspan=4>2026-11-28 17:45:33 (UTC)</th>
     </tr>
     <tr>
             <th>Today</th>
@@ -187,8 +187,8 @@ Full request/response shapes live in the <a href="https://tweetfeed.live/openapi
 
 | Type | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 26 | 638 | 3072 | 43889 |
-| **:globe_with_meridians: Domains** | 20 | 412 | 2278 | 37503 |
+| **:link: URLs** | 27 | 639 | 3073 | 43890 |
+| **:globe_with_meridians: Domains** | 21 | 413 | 2279 | 37504 |
 | **:triangular_flag_on_post: IPs** | 15 | 327 | 1315 | 8576 |
 | **:1234: SHA256** | 19 | 240 | 919 | 3800 |
 | **:1234: MD5** | 0 | 38 | 190 | 2078 |
@@ -230,7 +230,7 @@ These are the busiest 10 of <!-- TAG_COUNT_START -->95<!-- TAG_COUNT_END --> tag
 | Number | User | IOCs |
 | :--- | :---: | :---: |
 | **#1** | [smica83](https://x.com/smica83) | 38 |
-| **#2** | [skocherhan](https://x.com/skocherhan) | 13 |
+| **#2** | [skocherhan](https://x.com/skocherhan) | 15 |
 | **#3** | [PhishStats](https://x.com/PhishStats) | 11 |
 | **#4** | [masaomi346](https://x.com/masaomi346) | 3 |
 | **#5** | [Fact_Finder03](https://x.com/Fact_Finder03) | 3 |
