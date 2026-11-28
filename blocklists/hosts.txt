@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2047
-# Updated: 2026-11-28T03:15:30Z
+# Entries: 2048
+# Updated: 2026-11-28T05:30:32Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -1769,6 +1769,7 @@
 0.0.0.0 stride25.com
 0.0.0.0 stroygeotrans.ru
 0.0.0.0 studiozambonsnc.screenconnect.com
+0.0.0.0 studyineuropes.com
 0.0.0.0 summer.vpzfup.asia
 0.0.0.0 summerartcamp.net
 0.0.0.0 sunnyinspace-jp.com
