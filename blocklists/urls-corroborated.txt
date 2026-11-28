@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 367
-# Updated: 2026-11-28T00:00:42Z
+# Entries: 371
+# Updated: 2026-11-28T01:30:31Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-11-27T19:25:07Z
+# Cross-check refreshed: 2026-11-28T01:25:16Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -36,6 +36,7 @@ http://104.207.93.111
 http://104.233.154.189
 http://104.233.231.144
 http://104.234.50.67
+http://104.255.152.104
 http://104.255.152.196
 http://104.36.83.136
 http://107.172.73.26
@@ -47,6 +48,7 @@ http://109.172.8.139
 http://111.229.218.205
 http://114.55.151.60
 http://116.202.158.114
+http://119.28.112.56
 http://121.36.22.82
 http://123.58.205.105
 http://124.221.133.13
@@ -70,6 +72,7 @@ http://152.70.24.49:8443
 http://154.36.168.196
 http://156.240.52.250
 http://156.240.52.251
+http://157.254.221.36
 http://159.195.215.68
 http://162.0.239.85
 http://163.52.135.137
@@ -88,6 +91,7 @@ http://185.107.80.116
 http://185.138.88.3
 http://185.197.193.121
 http://185.245.107.8
+http://187.53.82.104
 http://189.105.68.230
 http://193.124.46.95
 http://193.187.91.224
