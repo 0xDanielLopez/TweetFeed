@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2046
-; Updated: 2026-11-28T00:15:32Z
+; Entries: 2047
+; Updated: 2026-11-28T03:15:30Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795824932 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795835730 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1118,6 +1118,8 @@ citas.sre.gob.mx.requisi.to CNAME .
 *.citas.sre.gob.mx.requisi.to CNAME .
 cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws CNAME .
 *.cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws CNAME .
+cjslakesidegrill.com CNAME .
+*.cjslakesidegrill.com CNAME .
 ck.wmgg5.com CNAME .
 *.ck.wmgg5.com CNAME .
 claudearmor.com CNAME .
