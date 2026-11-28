@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2061
-; Updated: 2026-11-28T11:15:31Z
+; Entries: 2064
+; Updated: 2026-11-28T11:30:35Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795864531 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795865435 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -2394,6 +2394,8 @@ linkify.me CNAME .
 *.linkify.me CNAME .
 linuxpenguins-jp.com CNAME .
 *.linuxpenguins-jp.com CNAME .
+listapai.jungleheart.com CNAME .
+*.listapai.jungleheart.com CNAME .
 litedy.com CNAME .
 *.litedy.com CNAME .
 liuwamksdas.com CNAME .
@@ -3232,6 +3234,8 @@ s.aimi-aijia.com CNAME .
 *.s.aimi-aijia.com CNAME .
 s3051017.s3.us-east-2.amazonaws.com CNAME .
 *.s3051017.s3.us-east-2.amazonaws.com CNAME .
+s7pypa5fecvqqjh65y4sxa56wqs5oh4apvc3kwyvrvac6wer7uiesuyd.onion CNAME .
+*.s7pypa5fecvqqjh65y4sxa56wqs5oh4apvc3kwyvrvac6wer7uiesuyd.onion CNAME .
 sacofficegov.com CNAME .
 *.sacofficegov.com CNAME .
 sadxc.top CNAME .
@@ -3546,6 +3550,8 @@ studiozambonsnc.screenconnect.com CNAME .
 *.studiozambonsnc.screenconnect.com CNAME .
 studyineuropes.com CNAME .
 *.studyineuropes.com CNAME .
+sufactura-plf.ourhobby.com CNAME .
+*.sufactura-plf.ourhobby.com CNAME .
 summer.vpzfup.asia CNAME .
 *.summer.vpzfup.asia CNAME .
 summerartcamp.net CNAME .
