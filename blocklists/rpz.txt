@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2057
-; Updated: 2026-11-28T10:15:31Z
+; Entries: 2059
+; Updated: 2026-11-28T11:00:35Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795860931 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795863635 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -84,6 +84,8 @@ $TTL 300
 *.224meetgooglecomfskqcdzfcwh.com CNAME .
 247productions.nl CNAME .
 *.247productions.nl CNAME .
+251126.ngrok.app CNAME .
+*.251126.ngrok.app CNAME .
 28296c.lux88.site CNAME .
 *.28296c.lux88.site CNAME .
 2e7.420zm3.org CNAME .
@@ -1328,6 +1330,8 @@ dfv.pages.dev CNAME .
 *.dfv.pages.dev CNAME .
 dhamaka-diwali-offer.shop CNAME .
 *.dhamaka-diwali-offer.shop CNAME .
+dhl-paketstatus.de CNAME .
+*.dhl-paketstatus.de CNAME .
 diangovco.net CNAME .
 *.diangovco.net CNAME .
 dianshia.com CNAME .

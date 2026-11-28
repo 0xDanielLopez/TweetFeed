@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2057
-# Updated: 2026-11-28T10:15:31Z
+# Entries: 2059
+# Updated: 2026-11-28T11:00:35Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -44,6 +44,7 @@ address=/202611194199.zip/0.0.0.0
 address=/20form.xlsl.zip/0.0.0.0
 address=/224meetgooglecomfskqcdzfcwh.com/0.0.0.0
 address=/247productions.nl/0.0.0.0
+address=/251126.ngrok.app/0.0.0.0
 address=/28296c.lux88.site/0.0.0.0
 address=/2e7.420zm3.org/0.0.0.0
 address=/2echa.cam/0.0.0.0
@@ -666,6 +667,7 @@ address=/developdatum.com/0.0.0.0
 address=/device.ledger-signature.live/0.0.0.0
 address=/dfv.pages.dev/0.0.0.0
 address=/dhamaka-diwali-offer.shop/0.0.0.0
+address=/dhl-paketstatus.de/0.0.0.0
 address=/diangovco.net/0.0.0.0
 address=/dianshia.com/0.0.0.0
 address=/digitalfirsts-jp.com/0.0.0.0

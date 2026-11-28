@@ -1,7 +1,7 @@
 # TweetFeed blocklist - hosts file format
 # Window: 30 days
-# Entries: 2057
-# Updated: 2026-11-28T10:15:31Z
+# Entries: 2059
+# Updated: 2026-11-28T11:00:35Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -44,6 +44,7 @@
 0.0.0.0 20form.xlsl.zip
 0.0.0.0 224meetgooglecomfskqcdzfcwh.com
 0.0.0.0 247productions.nl
+0.0.0.0 251126.ngrok.app
 0.0.0.0 28296c.lux88.site
 0.0.0.0 2e7.420zm3.org
 0.0.0.0 2echa.cam
@@ -666,6 +667,7 @@
 0.0.0.0 device.ledger-signature.live
 0.0.0.0 dfv.pages.dev
 0.0.0.0 dhamaka-diwali-offer.shop
+0.0.0.0 dhl-paketstatus.de
 0.0.0.0 diangovco.net
 0.0.0.0 dianshia.com
 0.0.0.0 digitalfirsts-jp.com
