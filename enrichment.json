@@ -1,5 +1,5 @@
 {
-  "count": 5065,
+  "count": 5068,
   "dead_tweets": {
     "2117357108056498381": {
       "attempts": 2,
@@ -1092,20 +1092,6 @@
       "type": "sha256",
       "value": "0c3afb30eca4de018a7a3aa42ab43acc4a3c998595ba1802da876feffb419bcc"
     },
-    "0c583234acc766ca445f9b159855e68773343675aa7c7f8ce24afbb5dbc0efa2": {
-      "confidence": 0.45,
-      "date": "2026-10-29 11:43:25",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Executable 'andromeda.exe' uploaded to MalwareBazaar, linked to IP 168.222.255.158.",
-      "threat_type": "malware",
-      "tweet_id": "2115771482454331506",
-      "type": "sha256",
-      "value": "0c583234acc766ca445f9b159855e68773343675aa7c7f8ce24afbb5dbc0efa2"
-    },
     "0c9091e6f717f59e673943beb17503f5": {
       "confidence": 0.6,
       "date": "2026-11-17 13:43:25",
@@ -1302,22 +1288,6 @@
       "tweet_id": "2123445718568292524",
       "type": "sha256",
       "value": "0f2c40d31887418de304ca182afb4f4fecfe95937068f11fc798778c2ca95e3f"
-    },
-    "1.14.104.208": {
-      "confidence": 0.75,
-      "date": "2026-10-29 10:06:58",
-      "enriched_at": "2026-11-07T00:40:04Z",
-      "family": "Cobalt Strike",
-      "suggested_tags": [
-        "cobaltstrike",
-        "adaptixc2",
-        "c2"
-      ],
-      "summary": "Host 1.14.104.208 flagged as running AI autonomous pentest tools: Artex, CyberStrike AI, PentAGI, Adaptix C2 and Cobalt Strike.",
-      "threat_type": "c2",
-      "tweet_id": "2115747211887989207",
-      "type": "url",
-      "value": "http://1.14.104.208"
     },
     "1.159.39.155": {
       "confidence": 0.7,
@@ -1518,6 +1488,22 @@
       "tweet_id": "2117654568360099853",
       "type": "ip",
       "value": "102.220.161.143"
+    },
+    "102.220.161.226": {
+      "confidence": 0.8,
+      "date": "2026-11-28 07:01:14",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": "Crave Stealer",
+      "suggested_tags": [
+        "c2",
+        "stealer",
+        "infostealer"
+      ],
+      "summary": "Crave stealer C2 panel on 102.220.161.226 with associated cravepublic.xyz domains.",
+      "threat_type": "c2",
+      "tweet_id": "2126572105223586294",
+      "type": "ip",
+      "value": "102.220.161.226"
     },
     "102.220.161.229": {
       "confidence": 0.55,
@@ -3272,20 +3258,6 @@
       "tweet_id": "2123373170115707163",
       "type": "url",
       "value": "http://108.174.56.169:443"
-    },
-    "109.120.139.126": {
-      "confidence": 0.5,
-      "date": "2026-10-29 11:54:20",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious JavaScript file posing as a Colombian legal notice (acci\u00f3n de tutela) seen in Italy and Colombia; associated with IP 109.120.139.126.",
-      "threat_type": "malware",
-      "tweet_id": "2115774232999153723",
-      "type": "url",
-      "value": "http://109.120.139.126"
     },
     "109.172.8.139": {
       "confidence": 0.85,
@@ -6765,42 +6737,6 @@
       "type": "ip",
       "value": "151.241.154.93"
     },
-    "151.241.99.99": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "ip",
-      "value": "151.241.99.99"
-    },
-    "151.241.99.99:8080": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "url",
-      "value": "http://151.241.99.99:8080"
-    },
     "151.243.18.12": {
       "confidence": 0.35,
       "date": "2026-11-04 11:14:44",
@@ -6990,35 +6926,6 @@
       "tweet_id": "2121103275047161922",
       "type": "ip",
       "value": "153.128.188.70"
-    },
-    "153.56.168.27": {
-      "confidence": 0.7,
-      "date": "2026-10-29 12:05:20",
-      "enriched_at": "2026-11-26T18:40:04Z",
-      "family": "noctis",
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Turkish-language C2 operator panel 'noctis' login page found at 153.56.168[.]27.",
-      "threat_type": "c2",
-      "tweet_id": "2115776999704662329",
-      "type": "ip",
-      "value": "153.56.168.27"
-    },
-    "153.56.168.27/xatli/login.php": {
-      "confidence": 0.7,
-      "date": "2026-10-29 12:05:20",
-      "enriched_at": "2026-10-30T00:40:03Z",
-      "family": "noctis",
-      "suggested_tags": [
-        "c2"
-      ],
-      "summary": "Turkish-language C2 operator login panel named 'noctis' found at a bare IP address under /xatli/login.php.",
-      "threat_type": "c2",
-      "tweet_id": "2115776999704662329",
-      "type": "url",
-      "value": "http://153.56.168.27/xatli/login.php"
     },
     "153.75.86.243": {
       "confidence": 0.8,
@@ -7405,21 +7312,6 @@
       "tweet_id": "2119095212123246839",
       "type": "ip",
       "value": "154.64.252.77"
-    },
-    "154.64.32.187": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:14:17",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "JavaScript malware sample seen from Brazil using a DuckDNS domain and IP for C2.",
-      "threat_type": "malware",
-      "tweet_id": "2115779252624801848",
-      "type": "url",
-      "value": "http://154.64.32.187"
     },
     "154.86.0.28": {
       "confidence": 0.4,
@@ -8564,20 +8456,6 @@
       "tweet_id": "2117882657891918323",
       "type": "ip",
       "value": "168.144.90.43"
-    },
-    "168.222.255.158": {
-      "confidence": 0.35,
-      "date": "2026-10-29 11:43:25",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "IP address 168.222.255.158 shared as a malicious indicator, linked to an 'andromeda.exe' sample.",
-      "threat_type": "malware",
-      "tweet_id": "2115769121317216412",
-      "type": "url",
-      "value": "http://168.222.255.158"
     },
     "168.90.31.214": {
       "confidence": 0.7,
@@ -10228,6 +10106,21 @@
       "type": "url",
       "value": "http://185.165.169.121:8080/?pass=1"
     },
+    "185.165.171.156": {
+      "confidence": 0.75,
+      "date": "2026-11-28 07:29:00",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": "Veyra",
+      "suggested_tags": [
+        "c2",
+        "malware"
+      ],
+      "summary": "Veyra C2 panel on 185.165.171.156 with associated domains impersonating Wells Fargo verification.",
+      "threat_type": "c2",
+      "tweet_id": "2126579094901190860",
+      "type": "ip",
+      "value": "185.165.171.156"
+    },
     "185.166.154.105": {
       "confidence": 0.85,
       "date": "2026-10-31 16:46:43",
@@ -11268,6 +11161,20 @@
       "type": "url",
       "value": "http://193.124.46.95"
     },
+    "193.143.1.142": {
+      "confidence": 0.6,
+      "date": "2026-11-28 11:11:55",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "Extortion post by a threat group claiming to have stolen NVIDIA confidential files, pointing to a leak blog on clearnet IP and Tor onion address.",
+      "threat_type": "ransomware",
+      "tweet_id": "2126635194421502356",
+      "type": "url",
+      "value": "https://193.143.1.142"
+    },
     "193.149.176.16": {
       "confidence": 0.2,
       "date": "2026-11-11 16:55:17",
@@ -11943,6 +11850,20 @@
       "tweet_id": "2123359674422493660",
       "type": "ip",
       "value": "196.251.121.204"
+    },
+    "196.251.122.171": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:58:26",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious VBS script 'Order 5721_6426.vbs' seen from Romania, associated with IP 196.251.122.171.",
+      "threat_type": "malware",
+      "tweet_id": "2126646897465004449",
+      "type": "url",
+      "value": "http://196.251.122.171"
     },
     "198.11.178.136": {
       "confidence": 0.6,
@@ -13400,6 +13321,18 @@
       "type": "domain",
       "value": "202611194199.zip"
     },
+    "203.142.206.132": {
+      "confidence": 0.3,
+      "date": "2026-11-28 07:01:50",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Observation that Kagoya Japan nameservers are inside their own AS, making the official site unresolvable; no clear threat content.",
+      "threat_type": "other",
+      "tweet_id": "2126572256872870374",
+      "type": "ip",
+      "value": "203.142.206.132"
+    },
     "203.160.52.65": {
       "confidence": 0.8,
       "date": "2026-11-26 21:31:12",
@@ -14358,6 +14291,18 @@
       "type": "ip",
       "value": "210.121.44.147"
     },
+    "210.134.60.132": {
+      "confidence": 0.3,
+      "date": "2026-11-28 07:01:50",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Observation that Kagoya Japan nameservers are inside their own AS, making the official site unresolvable; no clear threat content.",
+      "threat_type": "other",
+      "tweet_id": "2126572256872870374",
+      "type": "ip",
+      "value": "210.134.60.132"
+    },
     "210.245.95.158": {
       "confidence": 0.15,
       "date": "2026-11-11 05:03:04",
@@ -15139,6 +15084,20 @@
       "type": "ip",
       "value": "23.227.38.71"
     },
+    "23.235.201.123": {
+      "confidence": 0.85,
+      "date": "2026-11-28 08:00:53",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing page at getdigicore.com/Docusign/ hosted on InMotion Hosting (US).",
+      "threat_type": "phishing",
+      "tweet_id": "2126587115869741223",
+      "type": "ip",
+      "value": "23.235.201.123"
+    },
     "23.248.226.250": {
       "confidence": 0.6,
       "date": "2026-11-04 17:30:09",
@@ -15535,6 +15494,34 @@
       "tweet_id": "2123871293833609512",
       "type": "sha256",
       "value": "24d4499b79b1b69481d436152905af9587edc158dc6d2b793aa9865830a4133f"
+    },
+    "251126.ngrok.app": {
+      "confidence": 0.6,
+      "date": "2026-11-28 10:40:02",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious letter.js downloader fetching an executable disguised as a Windows host binary from an ngrok.app URL (offline).",
+      "threat_type": "malware",
+      "tweet_id": "2126627170374107542",
+      "type": "domain",
+      "value": "251126.ngrok.app"
+    },
+    "251126.ngrok.app/microsoftwindowsmoshost.exe": {
+      "confidence": 0.6,
+      "date": "2026-11-28 10:40:02",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious letter.js downloader fetching an executable disguised as a Windows host binary from an ngrok.app URL (offline).",
+      "threat_type": "malware",
+      "tweet_id": "2126627170374107542",
+      "type": "url",
+      "value": "https://251126.ngrok.app/MicrosoftWindowsMosHost.exe"
     },
     "2521ef6304b5d9f5d8e14f24841a5e732f4eab52f27836d93702d9e59be6b988": {
       "confidence": 0.35,
@@ -16771,18 +16758,6 @@
       "tweet_id": "2125638055679889723",
       "type": "url",
       "value": "http://31.56.19.42"
-    },
-    "31.56.209.3": {
-      "confidence": 0.5,
-      "date": "2026-10-29 09:26:02",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Domain plesk.swissrdp.com resolving to 31.56.209.3 (AS209373), linked to a bulletproof hosting provider.",
-      "threat_type": "other",
-      "tweet_id": "2115736911700787643",
-      "type": "url",
-      "value": "http://31.56.209.3"
     },
     "31.56.209.48": {
       "confidence": 0.8,
@@ -18864,24 +18839,6 @@
       "type": "ip",
       "value": "41.216.188.11"
     },
-    "41341ef5b5832abe13153dae29449a67757c6cf48e6ecdefb4b3e33a99ea8732": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "sha256",
-      "value": "41341ef5b5832abe13153dae29449a67757c6cf48e6ecdefb4b3e33a99ea8732"
-    },
     "413555f9075953bd4e8a4adef5719847f656f1d001d8625bee7a33b7d859e2ea": {
       "confidence": 0.6,
       "date": "2026-11-24 19:43:42",
@@ -20749,20 +20706,6 @@
       "type": "ip",
       "value": "46.30.215.76"
     },
-    "461f8ab06a9bd0a09ec335b81ac676e1b868c295592abe44edf5c5e1f693639e": {
-      "confidence": 0.5,
-      "date": "2026-10-29 11:54:20",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Malicious JavaScript file posing as a Colombian legal notice (acci\u00f3n de tutela) seen in Italy and Colombia; associated with IP 109.120.139.126.",
-      "threat_type": "malware",
-      "tweet_id": "2115774232999153723",
-      "type": "sha256",
-      "value": "461f8ab06a9bd0a09ec335b81ac676e1b868c295592abe44edf5c5e1f693639e"
-    },
     "465203658d68d0f2c4aeafd39bd4d0397add533a2d981cbe73c3e05d9c9bdc42": {
       "confidence": 0.7,
       "date": "2026-11-11 11:22:17",
@@ -22028,24 +21971,6 @@
       "type": "ip",
       "value": "47.99.48.84"
     },
-    "47240dd1906f58ecd3c6d8398e465f0be0c4e96cc808506b3123d3b4f80a4b82": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "sha256",
-      "value": "47240dd1906f58ecd3c6d8398e465f0be0c4e96cc808506b3123d3b4f80a4b82"
-    },
     "47466e256b277072371218884dc105ec945d4c2b4fcb7681404e80fae67790c6": {
       "confidence": 0.9,
       "date": "2026-11-05 19:59:03",
@@ -22307,6 +22232,20 @@
       "type": "md5",
       "value": "4bb305b7acbdaaafcf932aa032ed5afc"
     },
+    "4bb36c50fdd7719883d39c0662e457e2ac3e80547cee20bb4f4ff73b3038174c": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:05:32",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'someshi.pdf.exe' using a double extension, seen from Ukraine, communicating with a Supabase-hosted domain.",
+      "threat_type": "malware",
+      "tweet_id": "2126633587063623846",
+      "type": "sha256",
+      "value": "4bb36c50fdd7719883d39c0662e457e2ac3e80547cee20bb4f4ff73b3038174c"
+    },
     "4be13f0b5666b5692dab383afcafbd248f906dcc9d5c206bb6e83678b0311ac5": {
       "confidence": 0.6,
       "date": "2026-11-04 12:27:25",
@@ -22537,21 +22476,6 @@
       "tweet_id": "2118632874240888867",
       "type": "sha256",
       "value": "4e494f2120b292de0a074f968cff42c1eb459064d322f2add63adca92cea17af"
-    },
-    "4e6489e9161e0abff2f2bc40a4fcc3489cc69371b099fd0f2756fc6a607cfcc0": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:14:17",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "JavaScript malware sample seen from Brazil using a DuckDNS domain and IP for C2.",
-      "threat_type": "malware",
-      "tweet_id": "2115779252624801848",
-      "type": "sha256",
-      "value": "4e6489e9161e0abff2f2bc40a4fcc3489cc69371b099fd0f2756fc6a607cfcc0"
     },
     "4ea053da9b153c2cad62bfd81915523efd060476da313c5b58b764345b045f45": {
       "confidence": 0.2,
@@ -22812,60 +22736,6 @@
       "tweet_id": "2126211344965963910",
       "type": "ip",
       "value": "5.181.3.58"
-    },
-    "5.196.82.35": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "ip",
-      "value": "5.196.82.35"
-    },
-    "5.196.82.35:8080": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "url",
-      "value": "http://5.196.82.35:8080"
-    },
-    "5.199.169.240": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "url",
-      "value": "http://5.199.169.240"
     },
     "5.223.42.100": {
       "confidence": 0.7,
@@ -23711,22 +23581,6 @@
       "tweet_id": "2120103843019030636",
       "type": "sha256",
       "value": "56899c2a305d2cc4704ae5090015820de67e827374fc46ba7413411a85b05f1d"
-    },
-    "56a0d63a0b5a99d76a71e81b1a9b760c": {
-      "confidence": 0.75,
-      "date": "2026-10-29 08:14:10",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "HeMa Token Grabber",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "HeMa Token Grabber sample identified by MD5 hash.",
-      "threat_type": "malware",
-      "tweet_id": "2115718825757102322",
-      "type": "md5",
-      "value": "56a0d63a0b5a99d76a71e81b1a9b760c"
     },
     "577898ede66159f93121efdb7883a25fa982a99ce690a8ab6d1aaf737eb3fb03": {
       "confidence": 0.45,
@@ -24734,6 +24588,21 @@
       "type": "md5",
       "value": "6380c82fc853f44c4437acb8dbff76c3"
     },
+    "6391a5810d89a7014d7891ae5e7bce6ba471a486c7d2c167db2a886792d0474a": {
+      "confidence": 0.55,
+      "date": "2026-11-28 11:02:28",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish 'Factura' ZIP lure that downloads a second-stage executable from factura-mbf.mrbasic.com.",
+      "threat_type": "malware",
+      "tweet_id": "2126632814791610748",
+      "type": "sha256",
+      "value": "6391a5810d89a7014d7891ae5e7bce6ba471a486c7d2c167db2a886792d0474a"
+    },
     "63a7e9709a7d8808638369287a7bc8315dd7f330d002c794282fb184eb18a337": {
       "confidence": 0.75,
       "date": "2026-11-16 08:59:18",
@@ -25431,6 +25300,18 @@
       "type": "sha256",
       "value": "662cd55f21ee7fbd9666eebd0a0ec3c83ccdfdb7c913b71bcc7124b0b0125f3e"
     },
+    "6630b003766baed1fa86cea880d22e41dc416f63d800de3246941ede2396ad48": {
+      "confidence": 0.3,
+      "date": "2026-11-28 11:08:11",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "Sample hash tied to a post about Telegram messages becoming mini apps, framed as potential RCE; little evidence of malicious use.",
+      "threat_type": "vulnerability",
+      "tweet_id": "2126634251953050044",
+      "type": "sha256",
+      "value": "6630b003766baed1fa86cea880d22e41dc416f63d800de3246941ede2396ad48"
+    },
     "667258f4b0feb8a96338bcf84d796b1f672ab6060d9e8cd8ca0954997be54855": {
       "confidence": 0.4,
       "date": "2026-11-26 19:31:54",
@@ -25547,6 +25428,21 @@
       "tweet_id": "2126016209170878825",
       "type": "sha256",
       "value": "67bf04460b177873bf52a5548df9c258f973ae9e41ab25a6fed26ae9b3790cd1"
+    },
+    "67e620db4704659b8bcd93a0254673f6a4a2a240043df80f7ee1670b65b0e495": {
+      "confidence": 0.55,
+      "date": "2026-11-28 11:02:28",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish 'Factura' ZIP lure that downloads a second-stage executable from factura-mbf.mrbasic.com.",
+      "threat_type": "malware",
+      "tweet_id": "2126632814791610748",
+      "type": "sha256",
+      "value": "67e620db4704659b8bcd93a0254673f6a4a2a240043df80f7ee1670b65b0e495"
     },
     "67e7bc1d3f43e71c45252de36861c59ab71d6006a317c285c6045d684b60e30f": {
       "confidence": 0.75,
@@ -25929,24 +25825,6 @@
       "type": "md5",
       "value": "6b7f7295d046602235cb0dba38197cd6"
     },
-    "6bb0f5a098315d26841481f8a57a03fca150c02afe70a8a4b173249e2245dd97": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "sha256",
-      "value": "6bb0f5a098315d26841481f8a57a03fca150c02afe70a8a4b173249e2245dd97"
-    },
     "6bd9e8b490500dadea8c5657cdc19fd15829730b7fde1a17b5f8e89f132f893e": {
       "confidence": 0.4,
       "date": "2026-11-05 17:30:35",
@@ -26038,6 +25916,20 @@
       "tweet_id": "2122253163453661689",
       "type": "sha256",
       "value": "6dc4be477b00624af16ac45b630837453012283edaaf514fffb1bb71d3f7af20"
+    },
+    "6dec39c5070b55e66c3d20ccd47fb8315171026b0f9e1c73747f37f9ca3786ab": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:58:26",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious VBS script 'Order 5721_6426.vbs' seen from Romania, associated with IP 196.251.122.171.",
+      "threat_type": "malware",
+      "tweet_id": "2126646897465004449",
+      "type": "sha256",
+      "value": "6dec39c5070b55e66c3d20ccd47fb8315171026b0f9e1c73747f37f9ca3786ab"
     },
     "6e3a95cfc4b4dd81e62ee9ab9b758aef6c6478956271dd3bc0c24d8845271f57": {
       "confidence": 0.9,
@@ -28641,21 +28533,6 @@
       "type": "sha256",
       "value": "80effa5f7306b1cd477f73ae53f188291d3193eac00364dffc1ccc7972139803"
     },
-    "81.161.239.50": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:19:29",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious batch file 'new.bat' with a C2 at 81.161.239.50 on TCP port 56001.",
-      "threat_type": "c2",
-      "tweet_id": "2115780561226604912",
-      "type": "ip",
-      "value": "81.161.239.50"
-    },
     "81.70.170.48": {
       "confidence": 0.6,
       "date": "2026-11-13 13:58:29",
@@ -29966,6 +29843,20 @@
       "type": "sha256",
       "value": "8af92b7a4530c83feadeb7ad50052161be3eace6c8b5367f2a7883e26d42ba50"
     },
+    "8b2625f7b6696f51b1c7d23e71203f9dcec488f898b89c3dbae5bc96655c8a87": {
+      "confidence": 0.45,
+      "date": "2026-11-28 10:56:41",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious MSI sample seen from France that contacts api.telegram.org, likely for C2 or exfiltration.",
+      "threat_type": "malware",
+      "tweet_id": "2126631357354791267",
+      "type": "sha256",
+      "value": "8b2625f7b6696f51b1c7d23e71203f9dcec488f898b89c3dbae5bc96655c8a87"
+    },
     "8b90a534c103141c76bb9a35bd23b89393b17660801d1316569ed7b98e2c1900": {
       "confidence": 0.85,
       "date": "2026-11-22 22:41:06",
@@ -30343,20 +30234,6 @@
       "type": "sha256",
       "value": "9081f967486635a71fc9ab2418baa3b56ad21ee8bb0576e363ef89b9e23ae723"
     },
-    "90a4792390309c8097c54a910999864f96df9b00cdc2d5f21f14e4ef2dc0338f": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:26:02",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file 'Medical_Chart_Roentgenogram.bat' seen from Romania, fetching a payload from a GitHub raw URL and a tinyurl link.",
-      "threat_type": "malware",
-      "tweet_id": "2115782210032705604",
-      "type": "sha256",
-      "value": "90a4792390309c8097c54a910999864f96df9b00cdc2d5f21f14e4ef2dc0338f"
-    },
     "90c29fe361b543511f22038c162f22872f93fbf0de518f6f20d377e6c78ecb34": {
       "confidence": 0.85,
       "date": "2026-11-25 06:34:49",
@@ -30518,42 +30395,6 @@
       "tweet_id": "2122956320538042487",
       "type": "sha256",
       "value": "91e5263f8146a978a86dcee7e6a9e818cf2156d4383b91d02c30f55d12b193f4"
-    },
-    "92.112.53.209": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "ip",
-      "value": "92.112.53.209"
-    },
-    "92.112.53.209:8000": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "url",
-      "value": "http://92.112.53.209:8000"
     },
     "92.223.84.254": {
       "confidence": 0.85,
@@ -31627,24 +31468,6 @@
       "type": "sha256",
       "value": "9ba232a09969d78985ac3e1c1584d67ab30e909edd458162d5b5296d802f55ff"
     },
-    "9c0bda44fb66e0ab35669ba1acc40ba0e16f8d8f61bfae5c5da2a7cb0de4573b": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "sha256",
-      "value": "9c0bda44fb66e0ab35669ba1acc40ba0e16f8d8f61bfae5c5da2a7cb0de4573b"
-    },
     "9c2b06b1400aef4bf94794c4333498e5b9ad8ddb9e9fd03d484110cd4139ed79": {
       "confidence": 0.8,
       "date": "2026-11-20 06:54:40",
@@ -32207,6 +32030,21 @@
       "type": "sha256",
       "value": "a286671bae43dda41cb5bb2711d7fffc7448e4c4ad88d5f833c5960265fdd0b0"
     },
+    "a3aac0357cf3344839615fa268f6b18f40b2d0c6ecb18ca3c40f49784d6cc00f": {
+      "confidence": 0.6,
+      "date": "2026-11-28 12:07:05",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JS dropper masquerading as MS Teams Bookings setup; uses a Telegram bot API URL and downloads an MSI next stage from catbox.moe.",
+      "threat_type": "malware",
+      "tweet_id": "2126649075818782748",
+      "type": "sha256",
+      "value": "a3aac0357cf3344839615fa268f6b18f40b2d0c6ecb18ca3c40f49784d6cc00f"
+    },
     "a3ee8569777f81a2cbce304d3ebe499e": {
       "confidence": 0.5,
       "date": "2026-11-15 18:58:48",
@@ -32689,6 +32527,21 @@
       "type": "sha256",
       "value": "ab1ce3b130bae62ed310a1fb115656c30584394e459862a4f3467ec0db901a89"
     },
+    "abacc47c42adddc6e72ccad4e0a5138e1226fcdb22a567b65b723e489d92ea7c": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:10:38",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish-language 'Factura' lure ZIP hosted on ourhobby.com, with data exfiltration POST to a coletar.php endpoint on jungleheart.com; likely Latin American banking trojan.",
+      "threat_type": "malware",
+      "tweet_id": "2126634871032311997",
+      "type": "sha256",
+      "value": "abacc47c42adddc6e72ccad4e0a5138e1226fcdb22a567b65b723e489d92ea7c"
+    },
     "abacusfederal.sbs": {
       "confidence": 0.65,
       "date": "2026-10-29 13:58:59",
@@ -32956,20 +32809,6 @@
       "tweet_id": "2117513261260153072",
       "type": "sha256",
       "value": "acd02a95696d544d9bcf6e59285e92000fe8c6071d3b4321711f5daef694dd01"
-    },
-    "acd083343625712a2116d2480cdf9e80af72338b7653590d03b109b60708742b": {
-      "confidence": 0.5,
-      "date": "2026-10-29 10:59:19",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "MSI installer 'netpatch.msi' hosted on Azure blob storage, undetected by AV but flagged as suspicious by the researcher.",
-      "threat_type": "malware",
-      "tweet_id": "2115760127378661764",
-      "type": "sha256",
-      "value": "acd083343625712a2116d2480cdf9e80af72338b7653590d03b109b60708742b"
     },
     "acidw.com": {
       "confidence": 0.8,
@@ -34604,24 +34443,6 @@
       "type": "domain",
       "value": "api-google-docs.com"
     },
-    "api-webvision.com": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "domain",
-      "value": "api-webvision.com"
-    },
     "api.avonlo.com": {
       "confidence": 0.65,
       "date": "2026-11-10 10:57:03",
@@ -34892,30 +34713,6 @@
       "type": "url",
       "value": "http://api.kyamich.dev:80"
     },
-    "api.mail.tm": {
-      "confidence": 0.7,
-      "date": "2026-11-24 14:26:47",
-      "enriched_at": "2026-11-24T18:40:05Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Guidance on detecting LLM-driven attacks by monitoring disposable email domains from mail.tm; the service is not inherently malicious and the domain list is context only.",
-      "threat_type": "other",
-      "tweet_id": "2125234680391938488",
-      "type": "domain",
-      "value": "api.mail.tm"
-    },
-    "api.mail.tm/domains": {
-      "confidence": 0.7,
-      "date": "2026-11-24 14:26:47",
-      "enriched_at": "2026-11-24T18:40:05Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Guidance on detecting LLM-driven attacks by monitoring disposable email domains from mail.tm; the service is not inherently malicious and the domain list is context only.",
-      "threat_type": "other",
-      "tweet_id": "2125234680391938488",
-      "type": "url",
-      "value": "https://api.mail.tm/domains"
-    },
     "api.shzhtxcz.com": {
       "confidence": 0.9,
       "date": "2026-11-24 13:07:02",
@@ -34932,6 +34729,21 @@
       "tweet_id": "2125214609678463053",
       "type": "domain",
       "value": "api.shzhtxcz.com"
+    },
+    "api.telegram.org/bot7933149964:aaeo8vkocmbzak6llb9tr3niymo77_una6q/sendmessage": {
+      "confidence": 0.6,
+      "date": "2026-11-28 12:07:05",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JS dropper masquerading as MS Teams Bookings setup; uses a Telegram bot API URL and downloads an MSI next stage from catbox.moe.",
+      "threat_type": "malware",
+      "tweet_id": "2126649075818782748",
+      "type": "url",
+      "value": "https://api.telegram.org/bot7933149964:AAEo8vkOcMbzak6LLb9TR3niyMo77_uNa6Q/sendMessage"
     },
     "api.telegram.org/bot8531205750:aagmreumc6rhf75ueam8ak1gyvfcgcb3viy/sendmessage?chat_id=8451921654&text=%e2%9c%85%20installation%20complete%0a%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%e2%94%80%0adevice%3a%20%20desktop-et51ajo%0amodel%3a%20%20%20qemu%20standard%20pc%20(q35%20%2b%20ich9%2c%202009)%0aip%3a%20%20%20%20%20%20107.167.166.66%0acountry%3a%20%f0%9f%87%ba%f0%9f%87%b8%20united%20states%0atime%3a%20%20%20%202026-11-24t17%3a58%3a10z": {
       "confidence": 0.75,
@@ -38651,6 +38463,20 @@
       "type": "sha256",
       "value": "b9cca87a4d71b06533bc37a71c273e3808f375ff5284045909022574a42ff84b"
     },
+    "b9f0cb6ad1d382c22d5853f03d8378399cd307bb5acc6556940c23da1762dfa8": {
+      "confidence": 0.65,
+      "date": "2026-11-28 10:46:30",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "German DHL-themed lure delivering an HTA file from the lookalike domain dhl-paketstatus.de.",
+      "threat_type": "malware",
+      "tweet_id": "2126628795884966167",
+      "type": "sha256",
+      "value": "b9f0cb6ad1d382c22d5853f03d8378399cd307bb5acc6556940c23da1762dfa8"
+    },
     "ba31a732d7a0facacd3993d042558383c81824a49f547da1b8e31ae0853c84fe": {
       "confidence": 0.75,
       "date": "2026-11-22 17:11:36",
@@ -40659,34 +40485,6 @@
       "type": "domain",
       "value": "buildersemp.sharepoint.com"
     },
-    "buildpoint.blob.core.windows.net": {
-      "confidence": 0.5,
-      "date": "2026-10-29 10:47:23",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious MSI 'netpatch.msi' hosted on Azure blob storage with no AV detections; researcher implies it is malicious.",
-      "threat_type": "malware",
-      "tweet_id": "2115757383561380245",
-      "type": "domain",
-      "value": "buildpoint.blob.core.windows.net"
-    },
-    "buildpoint.blob.core.windows.net/stackguard/netpatch.msi": {
-      "confidence": 0.5,
-      "date": "2026-10-29 10:47:23",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Suspicious MSI 'netpatch.msi' hosted on Azure blob storage with no AV detections; researcher implies it is malicious.",
-      "threat_type": "malware",
-      "tweet_id": "2115757383561380245",
-      "type": "url",
-      "value": "https://buildpoint.blob.core.windows.net/stackguard/netpatch.msi"
-    },
     "buildwithknexus.xyz": {
       "confidence": 0.88,
       "date": "2026-11-08 11:29:04",
@@ -41407,24 +41205,6 @@
       "tweet_id": "2122041545482256608",
       "type": "md5",
       "value": "ca9656e50f0e5d1c592eace09435872c"
-    },
-    "ca9a5a5b5c7e12abf723f61db77ac54bf0f477db1f60bbc527157e62f94f637d": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "sha256",
-      "value": "ca9a5a5b5c7e12abf723f61db77ac54bf0f477db1f60bbc527157e62f94f637d"
     },
     "cache-provider.com": {
       "confidence": 0.85,
@@ -45469,6 +45249,34 @@
       "type": "domain",
       "value": "dhamaka-diwali-offer.shop"
     },
+    "dhl-paketstatus.de": {
+      "confidence": 0.65,
+      "date": "2026-11-28 10:46:30",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "German DHL-themed lure delivering an HTA file from the lookalike domain dhl-paketstatus.de.",
+      "threat_type": "malware",
+      "tweet_id": "2126628795884966167",
+      "type": "domain",
+      "value": "dhl-paketstatus.de"
+    },
+    "dhl-paketstatus.de/e/09788242efe64dee": {
+      "confidence": 0.65,
+      "date": "2026-11-28 10:46:30",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "German DHL-themed lure delivering an HTA file from the lookalike domain dhl-paketstatus.de.",
+      "threat_type": "malware",
+      "tweet_id": "2126628795884966167",
+      "type": "url",
+      "value": "https://dhl-paketstatus.de/e/09788242efe64dee"
+    },
     "diangovco.net": {
       "confidence": 0.6,
       "date": "2026-11-18 13:56:20",
@@ -47272,21 +47080,6 @@
       "type": "sha256",
       "value": "e027d8c85172fcbffcf5cdc60744d05e904f708708d1cc22fe82d099063d7b79"
     },
-    "e169bd066b4532515844045497fe9d42ed26a15bf236d1f1a2b64573f5717b7d": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:19:29",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "c2",
-        "malware"
-      ],
-      "summary": "Malicious batch file 'new.bat' with a C2 at 81.161.239.50 on TCP port 56001.",
-      "threat_type": "c2",
-      "tweet_id": "2115780561226604912",
-      "type": "sha256",
-      "value": "e169bd066b4532515844045497fe9d42ed26a15bf236d1f1a2b64573f5717b7d"
-    },
     "e16dd747d80343519a83d205191c9cb7d7169fb21453bb566981c91efd1d78ed": {
       "confidence": 0.4,
       "date": "2026-11-20 21:33:48",
@@ -47933,22 +47726,6 @@
       "type": "md5",
       "value": "e9a03f331f3d737a2dcf479a54b94fd7"
     },
-    "e9f0113b12649584a81def295f1510b9": {
-      "confidence": 0.8,
-      "date": "2026-10-29 09:04:13",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "MioLab",
-      "suggested_tags": [
-        "stealer",
-        "infostealer",
-        "malware"
-      ],
-      "summary": "MioLab macOS stealer distributed as a fake 'GrapheneOS.dmg' disk image.",
-      "threat_type": "malware",
-      "tweet_id": "2115731421109068260",
-      "type": "md5",
-      "value": "e9f0113b12649584a81def295f1510b9"
-    },
     "eaa80c3d7b0c6e4e6bc4e7db775e49e6d8e5a951d173623908d63b82e266aa2b": {
       "confidence": 0.75,
       "date": "2026-11-16 08:59:18",
@@ -48128,6 +47905,20 @@
       "tweet_id": "2122253163453661689",
       "type": "sha256",
       "value": "ebf715d57c17aafd41d529b658077e5e1c18be2198ac94d7aedd4862c744861d"
+    },
+    "ebfd12b01c8da9f0abff803a6aac6cb80654d8ebf9d7d58afbcff5b98dbc6706": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "sha256",
+      "value": "ebfd12b01c8da9f0abff803a6aac6cb80654d8ebf9d7d58afbcff5b98dbc6706"
     },
     "ec206ccec93e688424ccb1fde5dbbaab": {
       "confidence": 0.85,
@@ -50178,6 +49969,20 @@
       "type": "sha256",
       "value": "f8b49891d15a578e4de28fecf99d0d78db6b2c3da81cd51c931b8d128e60c187"
     },
+    "f8ddbd33352eb801d62e50efdd28c555c716a540db0600afa8c3bd4c6488638d": {
+      "confidence": 0.6,
+      "date": "2026-11-28 10:40:02",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious letter.js downloader fetching an executable disguised as a Windows host binary from an ngrok.app URL (offline).",
+      "threat_type": "malware",
+      "tweet_id": "2126627170374107542",
+      "type": "sha256",
+      "value": "f8ddbd33352eb801d62e50efdd28c555c716a540db0600afa8c3bd4c6488638d"
+    },
     "f8e68cfecbdcae1c8aa78e4107259810c0cc253da4060fecf79e7dd89f576aec": {
       "confidence": 0.8,
       "date": "2026-11-23 23:41:19",
@@ -50318,6 +50123,21 @@
       "tweet_id": "2122041669818425499",
       "type": "md5",
       "value": "fa107167ff9303c06c8c7c518a7a1923"
+    },
+    "fa3094661adf0a527a7cab703797c318d7365c298629f19636cb48811e460576": {
+      "confidence": 0.6,
+      "date": "2026-11-28 12:07:05",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JS dropper masquerading as MS Teams Bookings setup; uses a Telegram bot API URL and downloads an MSI next stage from catbox.moe.",
+      "threat_type": "malware",
+      "tweet_id": "2126649075818782748",
+      "type": "sha256",
+      "value": "fa3094661adf0a527a7cab703797c318d7365c298629f19636cb48811e460576"
     },
     "fa5b15.76k.site": {
       "confidence": 0.9,
@@ -50491,6 +50311,36 @@
       "tweet_id": "2122030566438580561",
       "type": "url",
       "value": "http://faceebook-ai.com/tracking.js"
+    },
+    "factura-mbf.mrbasic.com": {
+      "confidence": 0.55,
+      "date": "2026-11-28 11:02:28",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish 'Factura' ZIP lure that downloads a second-stage executable from factura-mbf.mrbasic.com.",
+      "threat_type": "malware",
+      "tweet_id": "2126632814791610748",
+      "type": "domain",
+      "value": "factura-mbf.mrbasic.com"
+    },
+    "factura-mbf.mrbasic.com/exe-ib/zing-il3fhlmhtb.exe": {
+      "confidence": 0.55,
+      "date": "2026-11-28 11:02:28",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish 'Factura' ZIP lure that downloads a second-stage executable from factura-mbf.mrbasic.com.",
+      "threat_type": "malware",
+      "tweet_id": "2126632814791610748",
+      "type": "url",
+      "value": "http://factura-mbf.mrbasic.com/exe-ib/Zing-IL3FHlmHTb.exe"
     },
     "fantasticfactoryzu.com": {
       "confidence": 0.8,
@@ -50767,24 +50617,6 @@
       "tweet_id": "2122957259399479744",
       "type": "sha256",
       "value": "fd17b84f0abdbcb6c734727a3fb9346d8dd2a2b5c87b088bef5b7e7e163adc98"
-    },
-    "fdd409e01786eade6cee10856876742ed9e3f8f80193db8d2e5598f43a0ae35e": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "sha256",
-      "value": "fdd409e01786eade6cee10856876742ed9e3f8f80193db8d2e5598f43a0ae35e"
     },
     "fdeae021f4ad8083646db6cdda8e302f6e02728424ffc505a94848442cfd090a": {
       "confidence": 0.85,
@@ -51149,6 +50981,21 @@
       "tweet_id": "2125653864984772753",
       "type": "domain",
       "value": "file-zilla.com"
+    },
+    "files.catbox.moe/lrtf5h.msi": {
+      "confidence": 0.6,
+      "date": "2026-11-28 12:07:05",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "booking"
+      ],
+      "summary": "Malicious JS dropper masquerading as MS Teams Bookings setup; uses a Telegram bot API URL and downloads an MSI next stage from catbox.moe.",
+      "threat_type": "malware",
+      "tweet_id": "2126649075818782748",
+      "type": "url",
+      "value": "https://files.catbox.moe/lrtf5h.msi"
     },
     "filesyncoraflow.com": {
       "confidence": 0.85,
@@ -51884,6 +51731,23 @@
       "type": "domain",
       "value": "fudcomcheck.art"
     },
+    "fullwork3e4.gamer.free": {
+      "confidence": 0.8,
+      "date": "2026-11-20 07:30:54",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": "Kimsuky",
+      "suggested_tags": [
+        "kimsuky",
+        "apt",
+        "c2",
+        "malware"
+      ],
+      "summary": "Kimsuky campaign using a Chinese-language decoy PDF lure; malware beacons a C2 and downloads its payload from fullwork3e4.gamer.free.",
+      "threat_type": "malware",
+      "tweet_id": "2123680468394492298",
+      "type": "domain",
+      "value": "fullwork3e4.gamer.free"
+    },
     "fuzzy-giggle-eta.vercel.app": {
       "confidence": 0.6,
       "date": "2026-11-15 12:00:48",
@@ -52297,6 +52161,34 @@
       "type": "domain",
       "value": "get.yabgo.top"
     },
+    "getdigicore.com": {
+      "confidence": 0.85,
+      "date": "2026-11-28 08:00:53",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing page at getdigicore.com/Docusign/ hosted on InMotion Hosting (US).",
+      "threat_type": "phishing",
+      "tweet_id": "2126587115869741223",
+      "type": "domain",
+      "value": "getdigicore.com"
+    },
+    "getdigicore.com/docusign": {
+      "confidence": 0.85,
+      "date": "2026-11-28 08:00:53",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "DocuSign-themed phishing page at getdigicore.com/Docusign/ hosted on InMotion Hosting (US).",
+      "threat_type": "phishing",
+      "tweet_id": "2126587115869741223",
+      "type": "url",
+      "value": "http://getdigicore.com/Docusign/"
+    },
     "getfamawell.online": {
       "confidence": 0.55,
       "date": "2026-11-11 06:18:13",
@@ -52548,20 +52440,6 @@
       "tweet_id": "2117578534436921803",
       "type": "url",
       "value": "http://github.com/udt-101026"
-    },
-    "github.com/udt-101026/thaem/raw/main/udt.bat": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:26:02",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file 'Medical_Chart_Roentgenogram.bat' seen from Romania, fetching a payload from a GitHub raw URL and a tinyurl link.",
-      "threat_type": "malware",
-      "tweet_id": "2115782210032705604",
-      "type": "url",
-      "value": "https://github.com/udt-101026/thaem/raw/main/udt.bat"
     },
     "github.com/xt-faca": {
       "confidence": 0.8,
@@ -56578,34 +56456,6 @@
       "type": "domain",
       "value": "kerrleathers-jp.com"
     },
-    "kethvion.cfd": {
-      "confidence": 0.9,
-      "date": "2026-10-29 11:01:46",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Monex Securities (Japan) at kethvion.cfd.",
-      "threat_type": "phishing",
-      "tweet_id": "2115761000440103108",
-      "type": "domain",
-      "value": "kethvion.cfd"
-    },
-    "kethvion.cfd/loginid/#/index": {
-      "confidence": 0.9,
-      "date": "2026-10-29 11:01:46",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Monex Securities (Japan) at kethvion.cfd.",
-      "threat_type": "phishing",
-      "tweet_id": "2115761000440103108",
-      "type": "url",
-      "value": "https://kethvion.cfd/LoginID/#/index"
-    },
     "keychainagent.pro": {
       "confidence": 0.8,
       "date": "2026-11-01 12:26:18",
@@ -57820,21 +57670,6 @@
       "type": "url",
       "value": "https://link24.kr/4bkxcsc"
     },
-    "linkify.me": {
-      "confidence": 0.85,
-      "date": "2026-11-24 18:19:45",
-      "enriched_at": "2026-11-25T00:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing",
-        "malware"
-      ],
-      "summary": "Fake Adobe Document Cloud pages across sectornm.net subdomains luring victims into installing ScreenConnect RMM, with Telegram tracking.",
-      "threat_type": "phishing",
-      "tweet_id": "2125293309941989395",
-      "type": "domain",
-      "value": "linkify.me"
-    },
     "linkify.me/pnzdlw": {
       "confidence": 0.85,
       "date": "2026-11-24 18:19:45",
@@ -57865,6 +57700,36 @@
       "tweet_id": "2122217930972873117",
       "type": "domain",
       "value": "linuxpenguins-jp.com"
+    },
+    "listapai.jungleheart.com": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:10:38",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish-language 'Factura' lure ZIP hosted on ourhobby.com, with data exfiltration POST to a coletar.php endpoint on jungleheart.com; likely Latin American banking trojan.",
+      "threat_type": "malware",
+      "tweet_id": "2126634871032311997",
+      "type": "domain",
+      "value": "listapai.jungleheart.com"
+    },
+    "listapai.jungleheart.com/xampp-web/api/coletar.php?token=a106f1b2eed4a69d0fcf7f4a27be70e4d25c18c8006fc8f4": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:10:38",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish-language 'Factura' lure ZIP hosted on ourhobby.com, with data exfiltration POST to a coletar.php endpoint on jungleheart.com; likely Latin American banking trojan.",
+      "threat_type": "malware",
+      "tweet_id": "2126634871032311997",
+      "type": "url",
+      "value": "http://listapai.jungleheart.com/xampp-web/api/coletar.php?token=a106f1b2eed4a69d0fcf7f4a27be70e4d25c18c8006fc8f4"
     },
     "litedy.com": {
       "confidence": 0.85,
@@ -63020,18 +62885,6 @@
       "type": "domain",
       "value": "planisterhosting.com"
     },
-    "plesk.swissrdp.com": {
-      "confidence": 0.5,
-      "date": "2026-10-29 09:26:02",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": null,
-      "suggested_tags": [],
-      "summary": "Domain plesk.swissrdp.com resolving to 31.56.209.3 (AS209373), linked to a bulletproof hosting provider.",
-      "threat_type": "other",
-      "tweet_id": "2115736911700787643",
-      "type": "domain",
-      "value": "plesk.swissrdp.com"
-    },
     "plmh0-bqa-37gz-nsdzn-15-10-2026-aa.pages.dev": {
       "confidence": 0.6,
       "date": "2026-11-17 07:11:51",
@@ -65099,6 +64952,34 @@
       "type": "domain",
       "value": "refund-nts-hometax.kesug.com"
     },
+    "registre-eu.org": {
+      "confidence": 0.8,
+      "date": "2026-11-28 10:00:46",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site registre-eu.org/activation behind Cloudflare, reported by PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2126617287721668941",
+      "type": "domain",
+      "value": "registre-eu.org"
+    },
+    "registre-eu.org/activation": {
+      "confidence": 0.8,
+      "date": "2026-11-28 10:00:46",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site registre-eu.org/activation behind Cloudflare, reported by PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2126617287721668941",
+      "type": "url",
+      "value": "https://registre-eu.org/activation"
+    },
     "rehubcom.ag": {
       "confidence": 0.3,
       "date": "2026-11-23 01:10:30",
@@ -65883,6 +65764,20 @@
       "tweet_id": "2117950517305655397",
       "type": "url",
       "value": "http://s3051017.s3.us-east-2.amazonaws.com/ds.html"
+    },
+    "s7pypa5fecvqqjh65y4sxa56wqs5oh4apvc3kwyvrvac6wer7uiesuyd.onion": {
+      "confidence": 0.6,
+      "date": "2026-11-28 11:11:55",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "ransomware"
+      ],
+      "summary": "Extortion post by a threat group claiming to have stolen NVIDIA confidential files, pointing to a leak blog on clearnet IP and Tor onion address.",
+      "threat_type": "ransomware",
+      "tweet_id": "2126635194421502356",
+      "type": "domain",
+      "value": "s7pypa5fecvqqjh65y4sxa56wqs5oh4apvc3kwyvrvac6wer7uiesuyd.onion"
     },
     "sacofficegov.com": {
       "confidence": 0.7,
@@ -66959,24 +66854,6 @@
       "tweet_id": "2116747820283924593",
       "type": "domain",
       "value": "securedocument-docusign.info"
-    },
-    "security.cortivas.us": {
-      "confidence": 0.9,
-      "date": "2026-10-29 09:00:26",
-      "enriched_at": "2026-10-29T12:40:04Z",
-      "family": "PylangGhost",
-      "suggested_tags": [
-        "malware",
-        "rat",
-        "dprk",
-        "infostealer",
-        "c2"
-      ],
-      "summary": "PylangGhost RAT delivery chain attributed to DPRK-aligned Famous Chollima; stager, in-memory PE payloads, RelayDesk, browser data theft.",
-      "threat_type": "malware",
-      "tweet_id": "2115730468264182255",
-      "type": "domain",
-      "value": "security.cortivas.us"
     },
     "sedwick-docu-file-f627762362.file-shared-document-folder.workers.dev": {
       "confidence": 0.9,
@@ -68364,21 +68241,6 @@
       "type": "domain",
       "value": "sso.valoreempreendimentos.com.br"
     },
-    "sssrrllodhff.duckdns.org": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:14:17",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware",
-        "c2"
-      ],
-      "summary": "JavaScript malware sample seen from Brazil using a DuckDNS domain and IP for C2.",
-      "threat_type": "malware",
-      "tweet_id": "2115779252624801848",
-      "type": "domain",
-      "value": "sssrrllodhff.duckdns.org"
-    },
     "stalevi-shershni.somee.com": {
       "confidence": 0.45,
       "date": "2026-11-04 19:24:03",
@@ -68664,6 +68526,36 @@
       "tweet_id": "2126545577756569623",
       "type": "domain",
       "value": "studyineuropes.com"
+    },
+    "sufactura-plf.ourhobby.com": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:10:38",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish-language 'Factura' lure ZIP hosted on ourhobby.com, with data exfiltration POST to a coletar.php endpoint on jungleheart.com; likely Latin American banking trojan.",
+      "threat_type": "malware",
+      "tweet_id": "2126634871032311997",
+      "type": "domain",
+      "value": "sufactura-plf.ourhobby.com"
+    },
+    "sufactura-plf.ourhobby.com/factura30070090626.zip": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:10:38",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware",
+        "trojan"
+      ],
+      "summary": "Spanish-language 'Factura' lure ZIP hosted on ourhobby.com, with data exfiltration POST to a coletar.php endpoint on jungleheart.com; likely Latin American banking trojan.",
+      "threat_type": "malware",
+      "tweet_id": "2126634871032311997",
+      "type": "url",
+      "value": "https://sufactura-plf.ourhobby.com/Factura30070090626.zip"
     },
     "summer.vpzfup.asia": {
       "confidence": 0.9,
@@ -69885,20 +69777,6 @@
       "tweet_id": "2122789241302483175",
       "type": "url",
       "value": "https://tinyurl.com/mt191126"
-    },
-    "tinyurl.com/s3-2310": {
-      "confidence": 0.6,
-      "date": "2026-10-29 12:26:02",
-      "enriched_at": "2026-10-29T18:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Batch file 'Medical_Chart_Roentgenogram.bat' seen from Romania, fetching a payload from a GitHub raw URL and a tinyurl link.",
-      "threat_type": "malware",
-      "tweet_id": "2115782210032705604",
-      "type": "url",
-      "value": "https://tinyurl.com/s3-2310"
     },
     "tlschssl22read.cc": {
       "confidence": 0.7,
@@ -71573,6 +71451,104 @@
       "tweet_id": "2124231456905953437",
       "type": "domain",
       "value": "vrefnoconst.cfd"
+    },
+    "vsblobprodscussu5shard14blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard14blob.core.windows.net"
+    },
+    "vsblobprodscussu5shard2.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard2.blob.core.windows.net"
+    },
+    "vsblobprodscussu5shard22.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard22.blob.core.windows.net"
+    },
+    "vsblobprodscussu5shard29.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard29.blob.core.windows.net"
+    },
+    "vsblobprodscussu5shard38.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard38.blob.core.windows.net"
+    },
+    "vsblobprodscussu5shard53.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard53.blob.core.windows.net"
+    },
+    "vsblobprodscussu5shard57.blob.core.windows.net": {
+      "confidence": 0.5,
+      "date": "2026-11-28 09:54:48",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Malicious ZIP posing as an RFQ specification document seen from India, contacting Azure blob storage domains.",
+      "threat_type": "malware",
+      "tweet_id": "2126615785825075639",
+      "type": "domain",
+      "value": "vsblobprodscussu5shard57.blob.core.windows.net"
     },
     "vt3.eu": {
       "confidence": 0.75,
@@ -73446,6 +73422,20 @@
       "type": "url",
       "value": "https://xeffstealer.xyz/api/ingest"
     },
+    "xeytbzpszyenxghvjuoa.supabase.co": {
+      "confidence": 0.5,
+      "date": "2026-11-28 11:05:32",
+      "enriched_at": "2026-11-28T12:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "malware"
+      ],
+      "summary": "Executable 'someshi.pdf.exe' using a double extension, seen from Ukraine, communicating with a Supabase-hosted domain.",
+      "threat_type": "malware",
+      "tweet_id": "2126633587063623846",
+      "type": "domain",
+      "value": "xeytbzpszyenxghvjuoa.supabase.co"
+    },
     "xfinity-145t.square.site": {
       "confidence": 0.9,
       "date": "2026-10-31 08:01:31",
@@ -74921,6 +74911,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-28T06:40:04Z",
+  "generated_at": "2026-11-28T12:40:04Z",
   "window_days": 30
 }
