@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2040
-# Updated: 2026-11-28T12:30:32Z
+# Entries: 2042
+# Updated: 2026-11-28T13:00:35Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -665,6 +665,8 @@ address=/device.ledger-signature.live/0.0.0.0
 address=/dfv.pages.dev/0.0.0.0
 address=/dhamaka-diwali-offer.shop/0.0.0.0
 address=/dhl-paketstatus.de/0.0.0.0
+address=/di2ni31nio2.cc/0.0.0.0
+address=/di2ni31nio2.shop/0.0.0.0
 address=/diangovco.net/0.0.0.0
 address=/dianshia.com/0.0.0.0
 address=/digitalfirsts-jp.com/0.0.0.0
