@@ -1,5 +1,5 @@
 {
-  "count": 5066,
+  "count": 5065,
   "dead_tweets": {
     "2117357108056498381": {
       "attempts": 2,
@@ -15536,20 +15536,6 @@
       "type": "sha256",
       "value": "24d4499b79b1b69481d436152905af9587edc158dc6d2b793aa9865830a4133f"
     },
-    "24dd2168d5c0d0635488a44b1f270ee9bb6634846ce81c4797aa321398d891e7": {
-      "confidence": 0.2,
-      "date": "2026-10-29 01:08:05",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "malware"
-      ],
-      "summary": "Bare SHA-256 file hash shared without context; malware family and nature cannot be determined.",
-      "threat_type": "malware",
-      "tweet_id": "2115611595829342469",
-      "type": "sha256",
-      "value": "24dd2168d5c0d0635488a44b1f270ee9bb6634846ce81c4797aa321398d891e7"
-    },
     "2521ef6304b5d9f5d8e14f24841a5e732f4eab52f27836d93702d9e59be6b988": {
       "confidence": 0.35,
       "date": "2026-11-05 19:34:43",
@@ -19800,6 +19786,18 @@
       "tweet_id": "2123091529044549711",
       "type": "ip",
       "value": "45.13.212.209"
+    },
+    "45.131.244.7": {
+      "confidence": 0.3,
+      "date": "2026-11-28 00:03:04",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [],
+      "summary": "User asks pCloud why a login alert from unknown device 'pd' originated from IP 45.131.244.7; possible credential-access attempt, not a confirmed threat.",
+      "threat_type": "other",
+      "tweet_id": "2126466869792288952",
+      "type": "ip",
+      "value": "45.131.244.7"
     },
     "45.133.200.14": {
       "confidence": 0.2,
@@ -27388,6 +27386,22 @@
       "type": "sha256",
       "value": "7b11be3dc26d29e7ed208421d5dc59c32fa6d1e8706c0d9b93396e194d008450"
     },
+    "7be134b9ea32bd1014dcfc7e07b8dae7590a754a649ecca556ac364374f64279": {
+      "confidence": 0.7,
+      "date": "2026-11-28 05:15:49",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese My Number portal, distributed via studyineuropes.com; sample hash shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2126545577756569623",
+      "type": "sha256",
+      "value": "7be134b9ea32bd1014dcfc7e07b8dae7590a754a649ecca556ac364374f64279"
+    },
     "7c4794f577485d33a6bdfac39525319417150929018663698a43bb3dd80146bb": {
       "confidence": 0.55,
       "date": "2026-11-20 08:28:25",
@@ -30540,6 +30554,20 @@
       "tweet_id": "2115730468264182255",
       "type": "url",
       "value": "http://92.112.53.209:8000"
+    },
+    "92.223.84.254": {
+      "confidence": 0.85,
+      "date": "2026-11-28 02:54:00",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site cjslakesidegrill.com hosted on 92.223.84.254 (GCORE, Luxembourg), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2126509888260165767",
+      "type": "ip",
+      "value": "92.223.84.254"
     },
     "92.242.187.214": {
       "confidence": 0.45,
@@ -40756,22 +40784,6 @@
       "type": "domain",
       "value": "businessgateway-jp.com"
     },
-    "bzvmjsn5.sportsontheweb.net": {
-      "confidence": 0.7,
-      "date": "2026-10-29 02:16:05",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": "Kimsuky",
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
-      "threat_type": "other",
-      "tweet_id": "2115628711609606596",
-      "type": "domain",
-      "value": "bzvmjsn5.sportsontheweb.net"
-    },
     "c02822545654341c888cce46cb0cb15b300dc7eac246e44ab24154c1ea446c75": {
       "confidence": 0.9,
       "date": "2026-11-27 16:04:35",
@@ -42851,6 +42863,20 @@
       "tweet_id": "2118724766940922306",
       "type": "url",
       "value": "https://cjoxgdvexb6wyhih45rmzgeram0vijbb.lambda-url.us-east-1.on.aws/?meeting=pmvgedxroe={victim's"
+    },
+    "cjslakesidegrill.com": {
+      "confidence": 0.85,
+      "date": "2026-11-28 02:54:00",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing site cjslakesidegrill.com hosted on 92.223.84.254 (GCORE, Luxembourg), reported via PhishStats.",
+      "threat_type": "phishing",
+      "tweet_id": "2126509888260165767",
+      "type": "domain",
+      "value": "cjslakesidegrill.com"
     },
     "ck.wmgg5.com": {
       "confidence": 0.55,
@@ -51858,22 +51884,6 @@
       "type": "domain",
       "value": "fudcomcheck.art"
     },
-    "fullwork3e4.gamer.free": {
-      "confidence": 0.7,
-      "date": "2026-10-29 02:16:05",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": "Kimsuky",
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
-      "threat_type": "other",
-      "tweet_id": "2115628711609606596",
-      "type": "domain",
-      "value": "fullwork3e4.gamer.free"
-    },
     "fuzzy-giggle-eta.vercel.app": {
       "confidence": 0.6,
       "date": "2026-11-15 12:00:48",
@@ -53503,20 +53513,6 @@
       "type": "domain",
       "value": "handanyonggu-jp.com"
     },
-    "handwrittenresults.com": {
-      "confidence": 0.8,
-      "date": "2026-10-29 01:56:27",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing lure posing as a SiriusXM renewal notice, tied to the domain handwrittenresults.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2115623766843924581",
-      "type": "domain",
-      "value": "handwrittenresults.com"
-    },
     "hang-asian-ray-music.trycloudflare.com": {
       "confidence": 0.5,
       "date": "2026-11-02 20:30:59",
@@ -53577,6 +53573,20 @@
       "tweet_id": "2118450511234150864",
       "type": "domain",
       "value": "happydiwali.tech"
+    },
+    "harborstonegroup.shop": {
+      "confidence": 0.8,
+      "date": "2026-10-30 21:57:53",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure with a lending request confirmation linking to unrelated domain harborstonegroup.shop.",
+      "threat_type": "phishing",
+      "tweet_id": "2116288509027967266",
+      "type": "domain",
+      "value": "harborstonegroup.shop"
     },
     "hardener33.opik.net": {
       "confidence": 0.4,
@@ -55669,34 +55679,6 @@
       "tweet_id": "2123331405400678811",
       "type": "domain",
       "value": "j8882.buzz"
-    },
-    "jal-air.spguiapp.com": {
-      "confidence": 0.9,
-      "date": "2026-10-29 03:40:49",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japan Airlines (JAL) hosted on jal-air.spguiapp.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2115650034893222163",
-      "type": "domain",
-      "value": "jal-air.spguiapp.com"
-    },
-    "jal-air.spguiapp.com/pvgmxwgv": {
-      "confidence": 0.9,
-      "date": "2026-10-29 03:40:49",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "phishing"
-      ],
-      "summary": "Phishing site impersonating Japan Airlines (JAL) hosted on jal-air.spguiapp.com.",
-      "threat_type": "phishing",
-      "tweet_id": "2115650034893222163",
-      "type": "url",
-      "value": "https://jal-air.spguiapp.com/pVgMxwgv/"
     },
     "japan-pairs.com": {
       "confidence": 0.8,
@@ -57975,6 +57957,20 @@
       "tweet_id": "2120084847607628250",
       "type": "domain",
       "value": "loaderyodclick.com"
+    },
+    "loanfairfield.com": {
+      "confidence": 0.8,
+      "date": "2026-10-29 22:01:21",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing"
+      ],
+      "summary": "Phishing lure impersonating Americor debt relief, linking to unrelated domain loanfairfield.com.",
+      "threat_type": "phishing",
+      "tweet_id": "2115926990230524114",
+      "type": "domain",
+      "value": "loanfairfield.com"
     },
     "login-msftportal.com": {
       "confidence": 0.85,
@@ -62767,22 +62763,6 @@
       "tweet_id": "2122217930972873117",
       "type": "domain",
       "value": "petermarshall-jp.com"
-    },
-    "pew9862l.onlinewebshop.net": {
-      "confidence": 0.7,
-      "date": "2026-10-29 02:16:05",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": "Kimsuky",
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
-      "threat_type": "other",
-      "tweet_id": "2115628711609606596",
-      "type": "domain",
-      "value": "pew9862l.onlinewebshop.net"
     },
     "pharaohkit.cloud": {
       "confidence": 0.85,
@@ -68669,6 +68649,22 @@
       "type": "url",
       "value": "https://studiozambonsnc.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe"
     },
+    "studyineuropes.com": {
+      "confidence": 0.7,
+      "date": "2026-11-28 05:15:49",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "android",
+        "malware",
+        "phishing"
+      ],
+      "summary": "Android malware disguised as the Japanese My Number portal, distributed via studyineuropes.com; sample hash shared on VirusTotal.",
+      "threat_type": "malware",
+      "tweet_id": "2126545577756569623",
+      "type": "domain",
+      "value": "studyineuropes.com"
+    },
     "summer.vpzfup.asia": {
       "confidence": 0.9,
       "date": "2026-11-17 13:46:02",
@@ -70831,6 +70827,21 @@
       "type": "domain",
       "value": "us15zoom.us.com"
     },
+    "userswordpress-signin-customer.aromadiroma.org": {
+      "confidence": 0.75,
+      "date": "2026-11-01 05:51:49",
+      "enriched_at": "2026-11-28T06:40:04Z",
+      "family": null,
+      "suggested_tags": [
+        "phishing",
+        "scam"
+      ],
+      "summary": "Fake WordPress sign-in page on aromadiroma.org subdomain, flagged as a confirmed scam by a web malware scanner.",
+      "threat_type": "phishing",
+      "tweet_id": "2116770164750385640",
+      "type": "domain",
+      "value": "userswordpress-signin-customer.aromadiroma.org"
+    },
     "usps-vmts.azurewebsites.net": {
       "confidence": 0.8,
       "date": "2026-11-24 13:00:38",
@@ -71460,21 +71471,6 @@
       "tweet_id": "2123356559002538066",
       "type": "domain",
       "value": "visscoregate.com"
-    },
-    "viuonicoiscienic.web.app": {
-      "confidence": 0.55,
-      "date": "2026-10-29 04:01:32",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": null,
-      "suggested_tags": [
-        "scam",
-        "malware"
-      ],
-      "summary": "Website viuonicoiscienic.web.app flagged by a web scan service as a confirmed scam site.",
-      "threat_type": "scam",
-      "tweet_id": "2115655245049037096",
-      "type": "domain",
-      "value": "viuonicoiscienic.web.app"
     },
     "vn8xbetb.com": {
       "confidence": 0.92,
@@ -73390,22 +73386,6 @@
       "type": "domain",
       "value": "wynnresorts.legal"
     },
-    "wz8ogren.mypressonline.com": {
-      "confidence": 0.7,
-      "date": "2026-10-29 02:16:05",
-      "enriched_at": "2026-10-29T06:40:04Z",
-      "family": "Kimsuky",
-      "suggested_tags": [
-        "kimsuky",
-        "apt",
-        "dprk"
-      ],
-      "summary": "Domains attributed to the Kimsuky (North Korean) threat actor, hosted on free web hosting subdomains.",
-      "threat_type": "other",
-      "tweet_id": "2115628711609606596",
-      "type": "domain",
-      "value": "wz8ogren.mypressonline.com"
-    },
     "xc.frenchconnection.com.br": {
       "confidence": 0.8,
       "date": "2026-11-16 02:56:55",
@@ -74941,6 +74921,6 @@
       "value": "\u8acb\u6c42\u66f8\u660e\u7d30\u66f8.pdf.zip"
     }
   },
-  "generated_at": "2026-11-28T00:40:05Z",
+  "generated_at": "2026-11-28T06:40:04Z",
   "window_days": 30
 }
