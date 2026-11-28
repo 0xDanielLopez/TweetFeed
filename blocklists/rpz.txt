@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2064
-; Updated: 2026-11-28T11:30:35Z
+; Entries: 2062
+; Updated: 2026-11-28T12:15:44Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795865435 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795868144 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -414,8 +414,6 @@ api.kkxsnjd.click CNAME .
 *.api.kkxsnjd.click CNAME .
 api.kyamich.dev CNAME .
 *.api.kyamich.dev CNAME .
-api.mail.tm CNAME .
-*.api.mail.tm CNAME .
 api.shzhtxcz.com CNAME .
 *.api.shzhtxcz.com CNAME .
 api.v1techdomainsec.sbs CNAME .
@@ -2390,8 +2388,6 @@ lime-s.club CNAME .
 *.lime-s.club CNAME .
 ling.uuun.de CNAME .
 *.ling.uuun.de CNAME .
-linkify.me CNAME .
-*.linkify.me CNAME .
 linuxpenguins-jp.com CNAME .
 *.linuxpenguins-jp.com CNAME .
 listapai.jungleheart.com CNAME .

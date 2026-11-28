@@ -1,7 +1,7 @@
 # TweetFeed blocklist - dnsmasq blocklist (address= format)
 # Window: 30 days
-# Entries: 2064
-# Updated: 2026-11-28T11:30:35Z
+# Entries: 2062
+# Updated: 2026-11-28T12:15:44Z
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 # License: CC0
@@ -209,7 +209,6 @@ address=/api.gaganata.ink/0.0.0.0
 address=/api.gamsterb.ink/0.0.0.0
 address=/api.kkxsnjd.click/0.0.0.0
 address=/api.kyamich.dev/0.0.0.0
-address=/api.mail.tm/0.0.0.0
 address=/api.shzhtxcz.com/0.0.0.0
 address=/api.v1techdomainsec.sbs/0.0.0.0
 address=/api2.aiskill.bot/0.0.0.0
@@ -1197,7 +1196,6 @@ address=/lightdiwali.online/0.0.0.0
 address=/liiknedln.com/0.0.0.0
 address=/lime-s.club/0.0.0.0
 address=/ling.uuun.de/0.0.0.0
-address=/linkify.me/0.0.0.0
 address=/linuxpenguins-jp.com/0.0.0.0
 address=/listapai.jungleheart.com/0.0.0.0
 address=/litedy.com/0.0.0.0
