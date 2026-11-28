@@ -1,9 +1,9 @@
 # TweetFeed blocklist - full URL list, corroborated subset (proxy / IDS / enrichment)
 # Window: 30 days
-# Entries: 371
-# Updated: 2026-11-28T01:30:31Z
+# Entries: 370
+# Updated: 2026-11-28T07:30:34Z
 # Subset of urls.txt: entries also listed by at least one of URLhaus, ThreatFox, MalwareBazaar, USOM, IPsum
-# Cross-check refreshed: 2026-11-28T01:25:16Z
+# Cross-check refreshed: 2026-11-28T07:25:06Z
 # Set membership only - not a quality score and not a verdict
 # Regenerated every 15 min - poll at most every 15 min
 # Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
@@ -87,7 +87,6 @@ http://172.81.61.139
 http://177.3.43.43
 http://178.128.144.106
 http://18.195.101.10:8080
-http://185.107.80.116
 http://185.138.88.3
 http://185.197.193.121
 http://185.245.107.8
