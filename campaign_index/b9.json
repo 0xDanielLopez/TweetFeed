@@ -1,1 +1,1 @@
-{"count":0,"entries":{}}
+{"count":2,"entries":{"104.255.152.104":[{"confidence":"medium","id":"tfc-037f20476929","ioc_count":75,"last_seen":"2026-11-27","name":"Sliver C2 server IPs","threat_types":["c2"]}],"dock-okx.com.cn":[{"confidence":"low","id":"tfc-a4ff93b84a7d","ioc_count":34,"last_seen":"2026-11-27","name":"Android malware sites: fake Zoom updates and fake app stores","threat_types":["malware","phishing"]}]}}
