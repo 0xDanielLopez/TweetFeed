@@ -1,7 +1,7 @@
 ; TweetFeed blocklist - Response Policy Zone (BIND/Unbound/PowerDNS Recursor)
 ; Window: 30 days
-; Entries: 2044
-; Updated: 2026-11-28T14:15:32Z
+; Entries: 2045
+; Updated: 2026-11-28T16:15:33Z
 ; Regenerated every 15 min - poll at most every 15 min
 ; Send If-None-Match (ETag) or If-Modified-Since to receive 304 Not Modified
 ; License: CC0
@@ -10,7 +10,7 @@
 ; Community-reported IOCs. Use at your own risk.
 
 $TTL 300
-@ IN SOA localhost. root.localhost. (1795875332 43200 3600 259200 300)
+@ IN SOA localhost. root.localhost. (1795882533 43200 3600 259200 300)
 @ IN NS localhost.
 
 ; == entries ==
@@ -1728,6 +1728,8 @@ filpkartdiwali-offers.shop CNAME .
 *.filpkartdiwali-offers.shop CNAME .
 filter-check.sonic-c2-front.workers.dev CNAME .
 *.filter-check.sonic-c2-front.workers.dev CNAME .
+find-cloudb-us.help CNAME .
+*.find-cloudb-us.help CNAME .
 fiveminutes.click CNAME .
 *.fiveminutes.click CNAME .
 fjksdjfdtitive.net CNAME .
